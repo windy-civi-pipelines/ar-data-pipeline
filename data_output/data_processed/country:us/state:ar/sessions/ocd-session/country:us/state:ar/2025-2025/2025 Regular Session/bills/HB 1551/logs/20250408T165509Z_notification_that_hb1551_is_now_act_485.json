@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "Notification that HB1551 is now Act 485",
+    "date": "2025-04-08T16:55:09+00:00",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [
+      "executive-signature"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "HB 1551"
+}

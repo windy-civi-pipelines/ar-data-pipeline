@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "Notification that HB1475 is now Act 209",
+    "date": "2025-02-27T23:25:53+00:00",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [
+      "executive-signature"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "HB 1475"
+}

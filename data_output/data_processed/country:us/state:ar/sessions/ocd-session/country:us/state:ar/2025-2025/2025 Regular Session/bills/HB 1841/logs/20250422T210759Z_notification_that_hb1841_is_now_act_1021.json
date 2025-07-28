@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "Notification that HB1841 is now Act 1021",
+    "date": "2025-04-22T21:07:59+00:00",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [
+      "executive-signature"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "HB 1841"
+}

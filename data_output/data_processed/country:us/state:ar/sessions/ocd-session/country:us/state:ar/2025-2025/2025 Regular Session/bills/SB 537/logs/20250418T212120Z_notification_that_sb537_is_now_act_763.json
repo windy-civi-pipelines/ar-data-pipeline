@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "Notification that SB537 is now Act 763",
+    "date": "2025-04-18T21:21:20+00:00",
+    "organization_id": "~{\"classification\": \"upper\"}",
+    "classification": [
+      "executive-signature"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "SB 537"
+}

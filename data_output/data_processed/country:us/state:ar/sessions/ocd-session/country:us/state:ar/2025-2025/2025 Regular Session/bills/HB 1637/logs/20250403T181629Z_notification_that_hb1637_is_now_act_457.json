@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "Notification that HB1637 is now Act 457",
+    "date": "2025-04-03T18:16:29+00:00",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [
+      "executive-signature"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "HB 1637"
+}

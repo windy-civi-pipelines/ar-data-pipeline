@@ -1,0 +1,13 @@
+{
+  "action": {
+    "description": "Read first time, rules suspended, read second time, referred to STATE AGENCIES & GOVT'L AFFAIRS-SENATE",
+    "date": "2025-02-06T23:26:56+00:00",
+    "organization_id": "~{\"classification\": \"upper\"}",
+    "classification": [
+      "reading-1",
+      "referral-committee"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "HB 1221"
+}

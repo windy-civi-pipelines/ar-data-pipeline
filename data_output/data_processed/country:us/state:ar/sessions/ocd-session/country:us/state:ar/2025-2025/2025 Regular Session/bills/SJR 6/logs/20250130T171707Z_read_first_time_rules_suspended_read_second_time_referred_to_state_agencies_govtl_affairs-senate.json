@@ -1,0 +1,13 @@
+{
+  "action": {
+    "description": "Read first time, rules suspended, read second time, referred to STATE AGENCIES & GOVT'L AFFAIRS-SENATE",
+    "date": "2025-01-30T17:17:07+00:00",
+    "organization_id": "~{\"classification\": \"upper\"}",
+    "classification": [
+      "reading-1",
+      "referral-committee"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "SJR 6"
+}

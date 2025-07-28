@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "Filed",
+    "date": "2025-03-31T16:24:36+00:00",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [
+      "introduction"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "HB 1906"
+}

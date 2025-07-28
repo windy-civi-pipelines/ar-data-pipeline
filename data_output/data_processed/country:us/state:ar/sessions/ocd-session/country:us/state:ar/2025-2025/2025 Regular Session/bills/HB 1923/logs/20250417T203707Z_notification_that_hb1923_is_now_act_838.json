@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "Notification that HB1923 is now Act 838",
+    "date": "2025-04-17T20:37:07+00:00",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [
+      "executive-signature"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "HB 1923"
+}

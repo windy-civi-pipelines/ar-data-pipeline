@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "Notification that HB1097 is now Act 540",
+    "date": "2025-04-10T22:35:12+00:00",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [
+      "executive-signature"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "HB 1097"
+}

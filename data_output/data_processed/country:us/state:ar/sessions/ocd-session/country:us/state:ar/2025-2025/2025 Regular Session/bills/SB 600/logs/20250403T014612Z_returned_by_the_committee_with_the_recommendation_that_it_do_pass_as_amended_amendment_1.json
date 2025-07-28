@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "Returned by the Committee with the recommendation that it Do Pass as amended, Amendment # 1",
+    "date": "2025-04-03T01:46:12+00:00",
+    "organization_id": "~{\"classification\": \"upper\"}",
+    "classification": [
+      "committee-passage-favorable"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "SB 600"
+}

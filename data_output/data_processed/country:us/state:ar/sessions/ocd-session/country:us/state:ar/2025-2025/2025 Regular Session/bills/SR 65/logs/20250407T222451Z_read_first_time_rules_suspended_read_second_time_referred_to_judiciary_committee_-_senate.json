@@ -1,0 +1,13 @@
+{
+  "action": {
+    "description": "Read first time, rules suspended, read second time, referred to JUDICIARY COMMITTEE - SENATE",
+    "date": "2025-04-07T22:24:51+00:00",
+    "organization_id": "~{\"classification\": \"upper\"}",
+    "classification": [
+      "reading-1",
+      "referral-committee"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "SR 65"
+}

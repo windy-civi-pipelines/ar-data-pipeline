@@ -1,0 +1,10 @@
+{
+  "action": {
+    "description": "Motion to Expunge the Vote by which HB1519 failed to pass. Motion failed.",
+    "date": "2025-04-09T02:03:49+00:00",
+    "organization_id": "~{\"classification\": \"upper\"}",
+    "classification": [],
+    "related_entities": []
+  },
+  "bill_id": "HB 1519"
+}

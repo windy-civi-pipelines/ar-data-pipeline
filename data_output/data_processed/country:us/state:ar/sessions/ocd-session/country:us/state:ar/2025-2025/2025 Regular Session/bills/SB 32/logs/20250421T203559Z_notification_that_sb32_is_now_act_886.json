@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "Notification that SB32 is now Act 886",
+    "date": "2025-04-21T20:35:59+00:00",
+    "organization_id": "~{\"classification\": \"upper\"}",
+    "classification": [
+      "executive-signature"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "SB 32"
+}

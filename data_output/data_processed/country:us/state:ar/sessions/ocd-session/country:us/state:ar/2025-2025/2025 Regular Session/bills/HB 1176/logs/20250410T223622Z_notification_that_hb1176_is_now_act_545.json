@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "Notification that HB1176 is now Act 545",
+    "date": "2025-04-10T22:36:22+00:00",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [
+      "executive-signature"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "HB 1176"
+}

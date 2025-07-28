@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "Notification that HB1183 is now Act 198",
+    "date": "2025-02-27T23:25:13+00:00",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [
+      "executive-signature"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "HB 1183"
+}

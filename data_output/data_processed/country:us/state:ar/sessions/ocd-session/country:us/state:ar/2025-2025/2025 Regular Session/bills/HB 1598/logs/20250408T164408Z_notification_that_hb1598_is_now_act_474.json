@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "Notification that HB1598 is now Act 474",
+    "date": "2025-04-08T16:44:08+00:00",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [
+      "executive-signature"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "HB 1598"
+}

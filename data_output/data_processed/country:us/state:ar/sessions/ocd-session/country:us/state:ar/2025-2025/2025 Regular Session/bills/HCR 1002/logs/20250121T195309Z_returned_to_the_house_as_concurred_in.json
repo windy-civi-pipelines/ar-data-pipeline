@@ -1,0 +1,10 @@
+{
+  "action": {
+    "description": "Returned to the House as concurred in.",
+    "date": "2025-01-21T19:53:09+00:00",
+    "organization_id": "~{\"classification\": \"upper\"}",
+    "classification": [],
+    "related_entities": []
+  },
+  "bill_id": "HCR 1002"
+}

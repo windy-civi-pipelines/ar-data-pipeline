@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "Notification that SB426 is now Act 654",
+    "date": "2025-04-18T20:49:15+00:00",
+    "organization_id": "~{\"classification\": \"upper\"}",
+    "classification": [
+      "executive-signature"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "SB 426"
+}

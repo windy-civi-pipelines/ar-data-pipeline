@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "Notification that SB100 is now Act 482",
+    "date": "2025-04-09T18:10:41+00:00",
+    "organization_id": "~{\"classification\": \"upper\"}",
+    "classification": [
+      "executive-signature"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "SB 100"
+}

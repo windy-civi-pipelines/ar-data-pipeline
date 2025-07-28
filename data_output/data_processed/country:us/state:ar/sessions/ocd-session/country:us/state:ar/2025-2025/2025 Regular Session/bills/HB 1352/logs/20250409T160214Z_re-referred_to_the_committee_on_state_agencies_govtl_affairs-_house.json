@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "Re-referred to the Committee on STATE AGENCIES & GOVT'L AFFAIRS- HOUSE",
+    "date": "2025-04-09T16:02:14+00:00",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [
+      "referral-committee"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "HB 1352"
+}

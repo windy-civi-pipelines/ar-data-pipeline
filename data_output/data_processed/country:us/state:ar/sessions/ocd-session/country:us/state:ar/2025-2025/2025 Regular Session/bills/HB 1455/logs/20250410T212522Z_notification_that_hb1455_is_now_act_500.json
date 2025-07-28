@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "Notification that HB1455 is now Act 500",
+    "date": "2025-04-10T21:25:22+00:00",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [
+      "executive-signature"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "HB 1455"
+}

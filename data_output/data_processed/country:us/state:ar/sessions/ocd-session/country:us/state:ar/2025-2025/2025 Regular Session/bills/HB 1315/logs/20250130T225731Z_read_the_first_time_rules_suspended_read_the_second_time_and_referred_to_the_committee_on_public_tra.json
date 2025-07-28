@@ -1,0 +1,14 @@
+{
+  "action": {
+    "description": "Read the first time, rules suspended, read the second time and referred to the Committee on PUBLIC TRANSPORTATION- HOUSE",
+    "date": "2025-01-30T22:57:31+00:00",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [
+      "reading-1",
+      "reading-2",
+      "referral-committee"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "HB 1315"
+}

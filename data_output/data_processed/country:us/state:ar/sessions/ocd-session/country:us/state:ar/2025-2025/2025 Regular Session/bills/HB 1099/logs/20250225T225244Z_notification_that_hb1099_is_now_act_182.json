@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "Notification that HB1099 is now Act 182",
+    "date": "2025-02-25T22:52:44+00:00",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [
+      "executive-signature"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "HB 1099"
+}

@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "Notification that HB1049 is now Act 238",
+    "date": "2025-03-04T22:53:34+00:00",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [
+      "executive-signature"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "HB 1049"
+}

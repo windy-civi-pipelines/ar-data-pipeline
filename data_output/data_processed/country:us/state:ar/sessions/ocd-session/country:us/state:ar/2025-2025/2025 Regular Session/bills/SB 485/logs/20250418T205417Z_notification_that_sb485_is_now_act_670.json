@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "Notification that SB485 is now Act 670",
+    "date": "2025-04-18T20:54:17+00:00",
+    "organization_id": "~{\"classification\": \"upper\"}",
+    "classification": [
+      "executive-signature"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "SB 485"
+}

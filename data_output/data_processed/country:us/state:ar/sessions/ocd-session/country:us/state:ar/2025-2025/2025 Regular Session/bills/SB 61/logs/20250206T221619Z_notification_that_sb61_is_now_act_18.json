@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "Notification that SB61 is now Act 18",
+    "date": "2025-02-06T22:16:19+00:00",
+    "organization_id": "~{\"classification\": \"upper\"}",
+    "classification": [
+      "executive-signature"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "SB 61"
+}

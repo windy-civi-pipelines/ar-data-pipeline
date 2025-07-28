@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "Read the third time, concurred in, ordered transmitted to the Senate",
+    "date": "2025-04-03T19:10:04+00:00",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [
+      "reading-3"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "SCR 6"
+}

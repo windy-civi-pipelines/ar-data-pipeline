@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "Notification that SB431 is now Act 987",
+    "date": "2025-04-23T21:51:47+00:00",
+    "organization_id": "~{\"classification\": \"upper\"}",
+    "classification": [
+      "executive-signature"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "SB 431"
+}

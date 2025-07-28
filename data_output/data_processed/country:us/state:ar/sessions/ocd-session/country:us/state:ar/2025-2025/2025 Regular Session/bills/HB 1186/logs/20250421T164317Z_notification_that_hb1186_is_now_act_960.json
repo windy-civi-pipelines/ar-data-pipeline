@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "Notification that HB1186 is now Act 960",
+    "date": "2025-04-21T16:43:17+00:00",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [
+      "executive-signature"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "HB 1186"
+}

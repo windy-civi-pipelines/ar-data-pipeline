@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "Notification that SB544 is now Act 775",
+    "date": "2025-04-18T21:25:41+00:00",
+    "organization_id": "~{\"classification\": \"upper\"}",
+    "classification": [
+      "executive-signature"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "SB 544"
+}

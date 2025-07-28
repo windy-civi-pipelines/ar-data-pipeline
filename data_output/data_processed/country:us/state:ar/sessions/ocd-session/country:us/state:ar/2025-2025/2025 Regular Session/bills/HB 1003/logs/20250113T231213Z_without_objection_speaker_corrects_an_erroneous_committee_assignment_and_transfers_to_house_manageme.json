@@ -1,0 +1,10 @@
+{
+  "action": {
+    "description": "Without Objection, Speaker corrects an erroneous committee assignment and transfers to House Management Committee",
+    "date": "2025-01-13T23:12:13+00:00",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [],
+    "related_entities": []
+  },
+  "bill_id": "HB 1003"
+}

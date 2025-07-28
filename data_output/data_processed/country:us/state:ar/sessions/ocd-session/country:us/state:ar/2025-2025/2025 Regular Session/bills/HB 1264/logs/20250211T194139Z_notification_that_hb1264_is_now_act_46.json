@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "Notification that HB1264 is now Act 46",
+    "date": "2025-02-11T19:41:39+00:00",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [
+      "executive-signature"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "HB 1264"
+}

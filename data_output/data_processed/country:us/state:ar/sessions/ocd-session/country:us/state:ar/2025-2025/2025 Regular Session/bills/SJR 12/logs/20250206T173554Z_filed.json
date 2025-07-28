@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "Filed",
+    "date": "2025-02-06T17:35:54+00:00",
+    "organization_id": "~{\"classification\": \"upper\"}",
+    "classification": [
+      "introduction"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "SJR 12"
+}

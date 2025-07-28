@@ -1,0 +1,10 @@
+{
+  "action": {
+    "description": "Returned to Senate concurred in.",
+    "date": "2025-04-16T14:12:13+00:00",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [],
+    "related_entities": []
+  },
+  "bill_id": "SCR 5"
+}

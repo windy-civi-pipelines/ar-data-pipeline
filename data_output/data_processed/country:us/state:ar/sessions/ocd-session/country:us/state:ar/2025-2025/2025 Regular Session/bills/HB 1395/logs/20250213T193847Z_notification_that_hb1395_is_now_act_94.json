@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "Notification that HB1395 is now Act 94",
+    "date": "2025-02-13T19:38:47+00:00",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [
+      "executive-signature"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "HB 1395"
+}

@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "Notification that HB1194 is now Act 251",
+    "date": "2025-03-06T19:33:40+00:00",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [
+      "executive-signature"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "HB 1194"
+}

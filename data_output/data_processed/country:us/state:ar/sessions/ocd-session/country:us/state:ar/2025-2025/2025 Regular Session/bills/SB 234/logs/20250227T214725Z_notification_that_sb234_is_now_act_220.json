@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "Notification that SB234 is now Act 220",
+    "date": "2025-02-27T21:47:25+00:00",
+    "organization_id": "~{\"classification\": \"upper\"}",
+    "classification": [
+      "executive-signature"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "SB 234"
+}

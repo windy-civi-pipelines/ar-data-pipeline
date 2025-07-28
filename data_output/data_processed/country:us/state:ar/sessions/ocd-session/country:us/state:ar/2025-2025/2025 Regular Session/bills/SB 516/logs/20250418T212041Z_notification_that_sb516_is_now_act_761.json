@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "Notification that SB516 is now Act 761",
+    "date": "2025-04-18T21:20:41+00:00",
+    "organization_id": "~{\"classification\": \"upper\"}",
+    "classification": [
+      "executive-signature"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "SB 516"
+}

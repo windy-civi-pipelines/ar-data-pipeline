@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "Notification that SB388 is now Act 447",
+    "date": "2025-04-07T18:12:08+00:00",
+    "organization_id": "~{\"classification\": \"upper\"}",
+    "classification": [
+      "executive-signature"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "SB 388"
+}

@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "Notification that SB121 is now Act 968",
+    "date": "2025-04-22T21:46:33+00:00",
+    "organization_id": "~{\"classification\": \"upper\"}",
+    "classification": [
+      "executive-signature"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "SB 121"
+}

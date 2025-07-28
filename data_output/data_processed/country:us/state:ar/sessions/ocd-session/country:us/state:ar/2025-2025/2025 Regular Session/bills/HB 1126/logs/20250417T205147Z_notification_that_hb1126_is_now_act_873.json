@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "Notification that HB1126 is now Act 873",
+    "date": "2025-04-17T20:51:47+00:00",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [
+      "executive-signature"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "HB 1126"
+}

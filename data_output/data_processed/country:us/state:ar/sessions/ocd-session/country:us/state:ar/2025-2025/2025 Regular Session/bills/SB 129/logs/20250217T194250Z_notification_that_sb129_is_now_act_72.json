@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "Notification that SB129 is now Act 72",
+    "date": "2025-02-17T19:42:50+00:00",
+    "organization_id": "~{\"classification\": \"upper\"}",
+    "classification": [
+      "executive-signature"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "SB 129"
+}

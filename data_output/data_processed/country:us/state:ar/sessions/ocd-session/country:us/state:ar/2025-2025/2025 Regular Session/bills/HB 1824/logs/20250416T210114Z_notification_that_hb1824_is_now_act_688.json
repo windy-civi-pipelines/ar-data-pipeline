@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "Notification that HB1824 is now Act 688",
+    "date": "2025-04-16T21:01:14+00:00",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [
+      "executive-signature"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "HB 1824"
+}

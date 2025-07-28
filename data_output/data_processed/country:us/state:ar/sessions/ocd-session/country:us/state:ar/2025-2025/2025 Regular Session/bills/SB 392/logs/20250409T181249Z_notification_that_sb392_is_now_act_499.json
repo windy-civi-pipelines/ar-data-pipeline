@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "Notification that SB392 is now Act 499",
+    "date": "2025-04-09T18:12:49+00:00",
+    "organization_id": "~{\"classification\": \"upper\"}",
+    "classification": [
+      "executive-signature"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "SB 392"
+}

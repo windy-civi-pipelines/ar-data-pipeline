@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "Notification that SB599 is now Act 744",
+    "date": "2025-04-18T21:14:33+00:00",
+    "organization_id": "~{\"classification\": \"upper\"}",
+    "classification": [
+      "executive-signature"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "SB 599"
+}

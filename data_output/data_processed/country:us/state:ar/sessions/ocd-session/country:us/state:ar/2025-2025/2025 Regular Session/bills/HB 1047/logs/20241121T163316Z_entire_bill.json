@@ -1,0 +1,87 @@
+{
+  "legislative_session": "2025",
+  "identifier": "HB 1047",
+  "title": "TO AUTHORIZE THE ARKANSAS MEDICAID PROGRAM TO MAKE PRESUMPTIVE ELIGIBILITY DETERMINATIONS FOR PREGNANT WOMEN.",
+  "from_organization": "~{\"classification\": \"lower\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [],
+  "abstracts": [],
+  "other_titles": [],
+  "other_identifiers": [],
+  "actions": [
+    {
+      "description": "Filed",
+      "date": "2024-11-21T16:33:16+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "introduction"
+      ],
+      "related_entities": []
+    },
+    {
+      "description": "Read the first time, rules suspended, read the second time and referred to the Committee on PUBLIC HEALTH, WELFARE AND LABOR COMMITTEE- HOUSE",
+      "date": "2025-01-13T21:06:34+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "reading-1",
+        "reading-2",
+        "referral-committee"
+      ],
+      "related_entities": []
+    },
+    {
+      "description": "WITHDRAWN BY AUTHOR",
+      "date": "2025-02-18T14:31:57+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": []
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Pilkington",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \"Pilkington\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "HB 1047",
+      "links": [
+        {
+          "url": "https://www.arkleg.state.ar.us/assembly/2025/2025R/Bills/HB1047.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://www.arkleg.state.ar.us/Bills/FTPDocument/?path=%2fSessionInformation%2LegislativeMeasures.txt",
+      "note": ""
+    },
+    {
+      "url": "https://www.arkleg.state.ar.us/assembly/2025/2025R/Pages/BillInformation.aspx?measureno=HB1047",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:ar/government",
+    "name": "Arkansas",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:ar"
+  },
+  "scraped_at": "2025-07-28T17:44:34+00:00",
+  "_id": "a45849d2-6bd9-11f0-9ff4-6ee700b6a7e1"
+}

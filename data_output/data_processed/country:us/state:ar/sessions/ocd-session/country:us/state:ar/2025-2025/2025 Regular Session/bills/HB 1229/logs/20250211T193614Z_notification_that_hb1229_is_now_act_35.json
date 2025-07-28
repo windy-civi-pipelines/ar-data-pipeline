@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "Notification that HB1229 is now Act 35",
+    "date": "2025-02-11T19:36:14+00:00",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [
+      "executive-signature"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "HB 1229"
+}

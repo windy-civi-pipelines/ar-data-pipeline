@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "Notification that SB545 is now Act 564",
+    "date": "2025-04-14T22:30:49+00:00",
+    "organization_id": "~{\"classification\": \"upper\"}",
+    "classification": [
+      "executive-signature"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "SB 545"
+}

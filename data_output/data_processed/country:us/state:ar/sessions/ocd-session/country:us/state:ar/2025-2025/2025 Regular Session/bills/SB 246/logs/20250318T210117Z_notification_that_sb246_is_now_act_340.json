@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "Notification that SB246 is now Act 340",
+    "date": "2025-03-18T21:01:17+00:00",
+    "organization_id": "~{\"classification\": \"upper\"}",
+    "classification": [
+      "executive-signature"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "SB 246"
+}

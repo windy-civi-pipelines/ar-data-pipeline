@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "Notification that HB1063 is now Act 875",
+    "date": "2025-04-17T20:52:23+00:00",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [
+      "executive-signature"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "HB 1063"
+}

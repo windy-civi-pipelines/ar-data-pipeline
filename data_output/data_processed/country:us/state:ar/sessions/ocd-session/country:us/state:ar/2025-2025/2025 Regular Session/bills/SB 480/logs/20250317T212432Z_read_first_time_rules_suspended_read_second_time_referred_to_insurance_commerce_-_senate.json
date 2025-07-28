@@ -1,0 +1,13 @@
+{
+  "action": {
+    "description": "Read first time, rules suspended, read second time, referred to INSURANCE & COMMERCE - SENATE",
+    "date": "2025-03-17T21:24:32+00:00",
+    "organization_id": "~{\"classification\": \"upper\"}",
+    "classification": [
+      "reading-1",
+      "referral-committee"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "SB 480"
+}

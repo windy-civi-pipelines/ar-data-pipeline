@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "Notification that HB1549 is now Act 489",
+    "date": "2025-04-08T16:55:47+00:00",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [
+      "executive-signature"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "HB 1549"
+}

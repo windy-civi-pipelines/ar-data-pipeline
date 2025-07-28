@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "Notification that HB1313 is now Act 415",
+    "date": "2025-03-25T13:29:38+00:00",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [
+      "executive-signature"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "HB 1313"
+}

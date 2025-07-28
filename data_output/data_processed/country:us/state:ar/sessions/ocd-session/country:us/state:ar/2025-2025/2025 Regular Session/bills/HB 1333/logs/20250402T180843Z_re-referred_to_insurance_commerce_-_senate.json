@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "Re-referred to INSURANCE & COMMERCE - SENATE",
+    "date": "2025-04-02T18:08:43+00:00",
+    "organization_id": "~{\"classification\": \"upper\"}",
+    "classification": [
+      "referral-committee"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "HB 1333"
+}

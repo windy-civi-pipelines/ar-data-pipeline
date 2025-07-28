@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "Notification that SB435 is now Act 753",
+    "date": "2025-04-18T21:18:09+00:00",
+    "organization_id": "~{\"classification\": \"upper\"}",
+    "classification": [
+      "executive-signature"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "SB 435"
+}

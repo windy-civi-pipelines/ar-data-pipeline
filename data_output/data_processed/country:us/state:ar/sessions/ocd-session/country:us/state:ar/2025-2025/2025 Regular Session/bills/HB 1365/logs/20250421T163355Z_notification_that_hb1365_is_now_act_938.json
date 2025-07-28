@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "Notification that HB1365 is now Act 938",
+    "date": "2025-04-21T16:33:55+00:00",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [
+      "executive-signature"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "HB 1365"
+}

@@ -1,0 +1,10 @@
+{
+  "action": {
+    "description": "SB440 Returned from the Governor as requested.",
+    "date": "2025-04-14T22:22:17+00:00",
+    "organization_id": "~{\"classification\": \"upper\"}",
+    "classification": [],
+    "related_entities": []
+  },
+  "bill_id": "SB 440"
+}

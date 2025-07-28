@@ -1,0 +1,10 @@
+{
+  "action": {
+    "description": "Returned from the Senate having failed to pass.",
+    "date": "2025-04-10T14:55:39+00:00",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [],
+    "related_entities": []
+  },
+  "bill_id": "HB 1934"
+}

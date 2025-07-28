@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "Notification that SB353 is now Act 405",
+    "date": "2025-03-31T18:38:10+00:00",
+    "organization_id": "~{\"classification\": \"upper\"}",
+    "classification": [
+      "executive-signature"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "SB 353"
+}

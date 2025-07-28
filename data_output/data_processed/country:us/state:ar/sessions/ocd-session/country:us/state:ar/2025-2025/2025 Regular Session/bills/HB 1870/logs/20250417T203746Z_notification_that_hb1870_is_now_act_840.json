@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "Notification that HB1870 is now Act 840",
+    "date": "2025-04-17T20:37:46+00:00",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [
+      "executive-signature"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "HB 1870"
+}

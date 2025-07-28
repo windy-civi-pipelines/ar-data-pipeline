@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "Notification that SB379 is now Act 464",
+    "date": "2025-04-07T18:14:43+00:00",
+    "organization_id": "~{\"classification\": \"upper\"}",
+    "classification": [
+      "executive-signature"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "SB 379"
+}

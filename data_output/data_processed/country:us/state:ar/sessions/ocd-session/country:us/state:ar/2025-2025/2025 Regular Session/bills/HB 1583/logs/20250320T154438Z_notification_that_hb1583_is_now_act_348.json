@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "Notification that HB1583 is now Act 348",
+    "date": "2025-03-20T15:44:38+00:00",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [
+      "executive-signature"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "HB 1583"
+}

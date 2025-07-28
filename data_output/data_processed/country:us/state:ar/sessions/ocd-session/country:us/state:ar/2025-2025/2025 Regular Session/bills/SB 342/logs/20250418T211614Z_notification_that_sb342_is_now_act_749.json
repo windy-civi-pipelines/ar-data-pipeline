@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "Notification that SB342 is now Act 749",
+    "date": "2025-04-18T21:16:14+00:00",
+    "organization_id": "~{\"classification\": \"upper\"}",
+    "classification": [
+      "executive-signature"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "SB 342"
+}

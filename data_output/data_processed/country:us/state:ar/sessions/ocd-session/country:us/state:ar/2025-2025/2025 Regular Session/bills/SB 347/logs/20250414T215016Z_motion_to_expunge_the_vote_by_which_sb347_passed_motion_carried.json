@@ -1,0 +1,10 @@
+{
+  "action": {
+    "description": "Motion to Expunge the Vote by which SB347 passed. Motion Carried",
+    "date": "2025-04-14T21:50:16+00:00",
+    "organization_id": "~{\"classification\": \"upper\"}",
+    "classification": [],
+    "related_entities": []
+  },
+  "bill_id": "SB 347"
+}

@@ -1,0 +1,10 @@
+{
+  "action": {
+    "description": "Upon Motion, Reconsideraton Failed to Pass - 4/1/2025 3:45:18 PM",
+    "date": "2025-04-01T20:45:01+00:00",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [],
+    "related_entities": []
+  },
+  "bill_id": "HJR 1004"
+}

@@ -1,0 +1,93 @@
+{
+  "legislative_session": "2025",
+  "identifier": "HB 1345",
+  "title": "TO AMEND THE LAW CONCERNING CREDITED SERVICE UNDER THE STATE POLICE RETIREMENT SYSTEM.",
+  "from_organization": "~{\"classification\": \"lower\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [],
+  "abstracts": [],
+  "other_titles": [],
+  "other_identifiers": [],
+  "actions": [
+    {
+      "description": "Filed",
+      "date": "2025-01-30T22:42:43+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "introduction"
+      ],
+      "related_entities": []
+    },
+    {
+      "description": "In accordance with House Rule 39 Read the first time and referred to the Committee on HOUSE JOURNAL; ENGROSSED AND ENROLLED BILLS",
+      "date": "2025-02-03T23:18:48+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": []
+    },
+    {
+      "description": "Died in House Committee at Sine Die adjournment.",
+      "date": "2025-05-05T14:13:04+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": []
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Warren",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \"Warren\"}",
+      "organization_id": null
+    },
+    {
+      "name": "J. Dotson",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \"J. Dotson\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "HB 1345",
+      "links": [
+        {
+          "url": "https://www.arkleg.state.ar.us/assembly/2025/2025R/Bills/HB1345.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://www.arkleg.state.ar.us/Bills/FTPDocument/?path=%2fSessionInformation%2LegislativeMeasures.txt",
+      "note": ""
+    },
+    {
+      "url": "https://www.arkleg.state.ar.us/assembly/2025/2025R/Pages/BillInformation.aspx?measureno=HB1345",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:ar/government",
+    "name": "Arkansas",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:ar"
+  },
+  "scraped_at": "2025-07-28T17:44:35+00:00",
+  "_id": "03916140-6bda-11f0-9ff4-6ee700b6a7e1"
+}

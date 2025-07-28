@@ -1,0 +1,10 @@
+{
+  "action": {
+    "description": "Returned from the House as requested.",
+    "date": "2025-04-14T21:49:24+00:00",
+    "organization_id": "~{\"classification\": \"upper\"}",
+    "classification": [],
+    "related_entities": []
+  },
+  "bill_id": "SB 347"
+}

@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "Notification that HB1801 is now Act 961",
+    "date": "2025-04-21T16:43:50+00:00",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [
+      "executive-signature"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "HB 1801"
+}

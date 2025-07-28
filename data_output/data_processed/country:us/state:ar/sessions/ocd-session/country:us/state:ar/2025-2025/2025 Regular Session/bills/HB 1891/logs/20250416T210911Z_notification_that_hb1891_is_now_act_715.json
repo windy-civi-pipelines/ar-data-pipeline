@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "Notification that HB1891 is now Act 715",
+    "date": "2025-04-16T21:09:11+00:00",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [
+      "executive-signature"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "HB 1891"
+}

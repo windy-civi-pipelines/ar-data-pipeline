@@ -1,0 +1,10 @@
+{
+  "action": {
+    "description": "Died on House Calendar at Sine Die adjournment.",
+    "date": "2025-05-05T13:33:48+00:00",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [],
+    "related_entities": []
+  },
+  "bill_id": "HB 1173"
+}

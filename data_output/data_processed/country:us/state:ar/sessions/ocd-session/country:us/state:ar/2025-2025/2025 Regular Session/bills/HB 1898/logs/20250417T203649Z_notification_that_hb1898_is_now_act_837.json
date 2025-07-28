@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "Notification that HB1898 is now Act 837",
+    "date": "2025-04-17T20:36:49+00:00",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [
+      "executive-signature"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "HB 1898"
+}

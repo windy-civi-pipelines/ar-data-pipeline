@@ -1,0 +1,10 @@
+{
+  "action": {
+    "description": "Resoultion received unanimous support",
+    "date": "2025-03-05T20:12:18+00:00",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [],
+    "related_entities": []
+  },
+  "bill_id": "HR 1043"
+}

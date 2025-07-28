@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "Notification that HB1683 is now Act 924",
+    "date": "2025-04-21T16:30:49+00:00",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [
+      "executive-signature"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "HB 1683"
+}

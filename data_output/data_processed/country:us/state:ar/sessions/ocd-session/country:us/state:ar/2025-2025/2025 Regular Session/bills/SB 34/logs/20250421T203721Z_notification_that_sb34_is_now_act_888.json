@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "Notification that SB34 is now Act 888",
+    "date": "2025-04-21T20:37:21+00:00",
+    "organization_id": "~{\"classification\": \"upper\"}",
+    "classification": [
+      "executive-signature"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "SB 34"
+}

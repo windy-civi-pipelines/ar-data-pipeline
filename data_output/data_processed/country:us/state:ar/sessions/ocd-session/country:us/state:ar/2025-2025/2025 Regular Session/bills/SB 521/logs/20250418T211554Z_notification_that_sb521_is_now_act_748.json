@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "Notification that SB521 is now Act 748",
+    "date": "2025-04-18T21:15:54+00:00",
+    "organization_id": "~{\"classification\": \"upper\"}",
+    "classification": [
+      "executive-signature"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "SB 521"
+}

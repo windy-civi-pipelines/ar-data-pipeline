@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "Notification that HB1238 is now Act 306",
+    "date": "2025-03-18T18:49:12+00:00",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [
+      "executive-signature"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "HB 1238"
+}

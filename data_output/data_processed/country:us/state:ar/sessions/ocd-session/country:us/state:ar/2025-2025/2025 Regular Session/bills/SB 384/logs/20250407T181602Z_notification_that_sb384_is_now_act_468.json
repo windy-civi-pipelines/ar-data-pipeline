@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "Notification that SB384 is now Act 468",
+    "date": "2025-04-07T18:16:02+00:00",
+    "organization_id": "~{\"classification\": \"upper\"}",
+    "classification": [
+      "executive-signature"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "SB 384"
+}

@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "Notification that SB601 is now Act 971",
+    "date": "2025-04-22T21:47:35+00:00",
+    "organization_id": "~{\"classification\": \"upper\"}",
+    "classification": [
+      "executive-signature"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "SB 601"
+}

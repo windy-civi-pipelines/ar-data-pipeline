@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "Notification that HB1724 is now Act 503",
+    "date": "2025-04-10T21:25:56+00:00",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [
+      "executive-signature"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "HB 1724"
+}

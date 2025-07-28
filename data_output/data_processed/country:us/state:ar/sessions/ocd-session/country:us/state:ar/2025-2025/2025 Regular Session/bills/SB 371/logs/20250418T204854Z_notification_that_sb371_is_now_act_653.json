@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "Notification that SB371 is now Act 653",
+    "date": "2025-04-18T20:48:54+00:00",
+    "organization_id": "~{\"classification\": \"upper\"}",
+    "classification": [
+      "executive-signature"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "SB 371"
+}

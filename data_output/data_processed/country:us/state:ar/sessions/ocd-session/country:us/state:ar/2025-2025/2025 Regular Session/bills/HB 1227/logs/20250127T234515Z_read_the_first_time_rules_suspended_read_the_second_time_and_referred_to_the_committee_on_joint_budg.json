@@ -1,0 +1,14 @@
+{
+  "action": {
+    "description": "Read the first time, rules suspended, read the second time and referred to the Committee on JOINT BUDGET COMMITTEE",
+    "date": "2025-01-27T23:45:15+00:00",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [
+      "reading-1",
+      "reading-2",
+      "referral-committee"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "HB 1227"
+}

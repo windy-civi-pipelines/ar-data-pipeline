@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "Notification that SB540 is now Act 702",
+    "date": "2025-04-18T20:57:38+00:00",
+    "organization_id": "~{\"classification\": \"upper\"}",
+    "classification": [
+      "executive-signature"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "SB 540"
+}

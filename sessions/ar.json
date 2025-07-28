@@ -1,0 +1,118 @@
+{
+  "2011": {
+    "name": "2011 Regular Session",
+    "date_folder": "2011-2011"
+  },
+  "2012F": {
+    "name": "2012 Fiscal Session",
+    "date_folder": "2012-2012"
+  },
+  "2013": {
+    "name": "2013 Regular Session",
+    "date_folder": "2013-2013"
+  },
+  "2013S1": {
+    "name": "2013 First Extraordinary Session",
+    "date_folder": "2013-2013"
+  },
+  "2014": {
+    "name": "2014 Regular Session",
+    "date_folder": "2014-2014"
+  },
+  "2014F": {
+    "name": "2014 Fiscal Session",
+    "date_folder": "2014-2014"
+  },
+  "2014S2": {
+    "name": "2014 Second Extraordinary Session",
+    "date_folder": "2014-2014"
+  },
+  "2015": {
+    "name": "2015 Regular Session",
+    "date_folder": "2015-2015"
+  },
+  "2015S1": {
+    "name": "2015 First Extraordinary Session",
+    "date_folder": "2015-2015"
+  },
+  "2016F": {
+    "name": "2016 Fiscal Session",
+    "date_folder": "2016-2016"
+  },
+  "2016S2": {
+    "name": "2016 Second Extraordinary Session",
+    "date_folder": "2016-2016"
+  },
+  "2016S3": {
+    "name": "2016 Third Extraordinary Session",
+    "date_folder": "2016-2016"
+  },
+  "2017": {
+    "name": "2017 Regular Session",
+    "date_folder": "2017-2017"
+  },
+  "2017S1": {
+    "name": "2017 First Extraordinary Session",
+    "date_folder": "2017-2017"
+  },
+  "2018F": {
+    "name": "2018 Fiscal Session",
+    "date_folder": "2018-2018"
+  },
+  "2018S2": {
+    "name": "2018 Second Extraordinary Session",
+    "date_folder": "2018-2018"
+  },
+  "2019": {
+    "name": "2019 Regular Session",
+    "date_folder": "2019-2019"
+  },
+  "2020S1": {
+    "name": "2020 First Extraordinary Session",
+    "date_folder": "2020-2020"
+  },
+  "2020F": {
+    "name": "2020 Fiscal Session",
+    "date_folder": "2020-2020"
+  },
+  "2021": {
+    "name": "2021 Regular Session",
+    "date_folder": "2021-2021"
+  },
+  "2021S1": {
+    "name": "2021 First Extraordinary Session",
+    "date_folder": "2021-2021"
+  },
+  "2021S2": {
+    "name": "2021 Second Extraordinary Session",
+    "date_folder": "2021-2021"
+  },
+  "2022F": {
+    "name": "2022 Fiscal Session",
+    "date_folder": "2022-2022"
+  },
+  "2022S3": {
+    "name": "2022 Third Extraordinary Session",
+    "date_folder": "2022-2022"
+  },
+  "2023": {
+    "name": "2023 Regular Session",
+    "date_folder": "2023-2023"
+  },
+  "2023S1": {
+    "name": "2023 First Extraordinary Session",
+    "date_folder": "2023-2023"
+  },
+  "2024F": {
+    "name": "2024 Fiscal Session",
+    "date_folder": "2024-2024"
+  },
+  "2024S2": {
+    "name": "2024 Second Extraordinary Session",
+    "date_folder": "2024-2024"
+  },
+  "2025": {
+    "name": "2025 Regular Session",
+    "date_folder": "2025-2025"
+  }
+}

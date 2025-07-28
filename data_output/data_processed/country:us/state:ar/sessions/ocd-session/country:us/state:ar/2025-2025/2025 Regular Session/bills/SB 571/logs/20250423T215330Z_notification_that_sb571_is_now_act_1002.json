@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "Notification that SB571 is now Act 1002",
+    "date": "2025-04-23T21:53:30+00:00",
+    "organization_id": "~{\"classification\": \"upper\"}",
+    "classification": [
+      "executive-signature"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "SB 571"
+}

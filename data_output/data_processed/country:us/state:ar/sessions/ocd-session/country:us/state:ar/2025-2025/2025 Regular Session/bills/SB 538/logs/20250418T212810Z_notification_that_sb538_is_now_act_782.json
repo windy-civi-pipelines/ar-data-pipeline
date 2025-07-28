@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "Notification that SB538 is now Act 782",
+    "date": "2025-04-18T21:28:10+00:00",
+    "organization_id": "~{\"classification\": \"upper\"}",
+    "classification": [
+      "executive-signature"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "SB 538"
+}

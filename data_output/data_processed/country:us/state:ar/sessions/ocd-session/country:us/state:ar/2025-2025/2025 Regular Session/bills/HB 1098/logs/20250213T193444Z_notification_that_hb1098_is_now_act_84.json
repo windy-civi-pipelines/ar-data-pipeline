@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "Notification that HB1098 is now Act 84",
+    "date": "2025-02-13T19:34:44+00:00",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [
+      "executive-signature"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "HB 1098"
+}

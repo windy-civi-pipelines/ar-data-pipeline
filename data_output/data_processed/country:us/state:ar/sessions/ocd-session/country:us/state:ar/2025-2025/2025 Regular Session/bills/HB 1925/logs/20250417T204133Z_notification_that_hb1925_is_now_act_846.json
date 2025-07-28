@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "Notification that HB1925 is now Act 846",
+    "date": "2025-04-17T20:41:33+00:00",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [
+      "executive-signature"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "HB 1925"
+}

@@ -1,0 +1,10 @@
+{
+  "action": {
+    "description": "Motion to Expunge the Vote by which SB307 failed to pass. Motion carried.",
+    "date": "2025-03-05T21:36:45+00:00",
+    "organization_id": "~{\"classification\": \"upper\"}",
+    "classification": [],
+    "related_entities": []
+  },
+  "bill_id": "SB 307"
+}

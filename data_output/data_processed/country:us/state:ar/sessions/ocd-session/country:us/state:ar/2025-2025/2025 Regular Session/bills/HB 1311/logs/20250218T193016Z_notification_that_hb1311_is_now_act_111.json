@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "Notification that HB1311 is now Act 111",
+    "date": "2025-02-18T19:30:16+00:00",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [
+      "executive-signature"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "HB 1311"
+}

@@ -1,0 +1,10 @@
+{
+  "action": {
+    "description": "Senate amendment # 1 read and concurred in.",
+    "date": "2025-04-10T19:46:20+00:00",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [],
+    "related_entities": []
+  },
+  "bill_id": "HB 1454"
+}

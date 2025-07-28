@@ -1,0 +1,10 @@
+{
+  "action": {
+    "description": "The vote by which HB1056 Passed was expunged.",
+    "date": "2025-01-16T17:11:03+00:00",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [],
+    "related_entities": []
+  },
+  "bill_id": "HB 1056"
+}

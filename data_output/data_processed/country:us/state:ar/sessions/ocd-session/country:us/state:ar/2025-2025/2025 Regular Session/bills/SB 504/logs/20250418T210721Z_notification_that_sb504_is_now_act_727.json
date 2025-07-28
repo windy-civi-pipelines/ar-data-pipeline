@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "Notification that SB504 is now Act 727",
+    "date": "2025-04-18T21:07:21+00:00",
+    "organization_id": "~{\"classification\": \"upper\"}",
+    "classification": [
+      "executive-signature"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "SB 504"
+}

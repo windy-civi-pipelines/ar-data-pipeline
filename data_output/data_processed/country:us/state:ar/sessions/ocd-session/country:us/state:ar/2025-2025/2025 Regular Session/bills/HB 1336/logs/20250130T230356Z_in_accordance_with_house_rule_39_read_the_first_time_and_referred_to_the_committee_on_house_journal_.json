@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "In accordance with House Rule 39 Read the first time and referred to the Committee on HOUSE JOURNAL; ENGROSSED AND ENROLLED BILLS",
+    "date": "2025-01-30T23:03:56+00:00",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [
+      "referral-committee"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "HB 1336"
+}

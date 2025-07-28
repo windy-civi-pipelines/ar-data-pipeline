@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "In accordance with House Rule 39 Read the second time and referred to the Committee on INSURANCE & COMMERCE- HOUSE",
+    "date": "2025-02-27T23:15:49+00:00",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [
+      "referral-committee"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "HB 1354"
+}

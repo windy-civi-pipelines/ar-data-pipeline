@@ -1,0 +1,13 @@
+{
+  "action": {
+    "description": "Read first time, rules suspended, read second time, referred to AGRICULTURE, FORESTRY & ECONOMIC DEVELOPMENT - SENATE",
+    "date": "2025-02-25T19:59:24+00:00",
+    "organization_id": "~{\"classification\": \"upper\"}",
+    "classification": [
+      "reading-1",
+      "referral-committee"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "SB 290"
+}

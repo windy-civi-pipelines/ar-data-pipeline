@@ -1,0 +1,10 @@
+{
+  "action": {
+    "description": "Objection Withdrawn",
+    "date": "2025-04-14T21:26:53+00:00",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [],
+    "related_entities": []
+  },
+  "bill_id": "SB 347"
+}

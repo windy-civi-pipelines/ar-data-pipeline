@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "Notification that HB1887 is now Act 658",
+    "date": "2025-04-16T20:46:27+00:00",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [
+      "executive-signature"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "HB 1887"
+}

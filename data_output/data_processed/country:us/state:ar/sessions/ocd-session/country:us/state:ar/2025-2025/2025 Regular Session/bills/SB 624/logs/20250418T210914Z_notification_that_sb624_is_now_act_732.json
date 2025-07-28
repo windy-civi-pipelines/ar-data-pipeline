@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "Notification that SB624 is now Act 732",
+    "date": "2025-04-18T21:09:14+00:00",
+    "organization_id": "~{\"classification\": \"upper\"}",
+    "classification": [
+      "executive-signature"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "SB 624"
+}

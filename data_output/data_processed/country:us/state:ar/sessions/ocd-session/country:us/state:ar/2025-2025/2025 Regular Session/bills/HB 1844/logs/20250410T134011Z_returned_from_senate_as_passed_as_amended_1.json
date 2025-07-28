@@ -1,0 +1,10 @@
+{
+  "action": {
+    "description": "Returned from Senate as passed, as amended # 1",
+    "date": "2025-04-10T13:40:11+00:00",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [],
+    "related_entities": []
+  },
+  "bill_id": "HB 1844"
+}

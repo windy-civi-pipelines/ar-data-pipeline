@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "Returned by the Committee Do Pass",
+    "date": "2025-04-02T23:39:24+00:00",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [
+      "committee-passage"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "SB 463"
+}
