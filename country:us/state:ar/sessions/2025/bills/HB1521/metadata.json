@@ -1,0 +1,105 @@
+{
+  "legislative_session": "2025",
+  "identifier": "HB 1521",
+  "title": "TO REPEAL CERTAIN UNUSED, UNDERUSED, OR UNFUNDED TAX INCENTIVES.",
+  "from_organization": "~{\"classification\": \"lower\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [],
+  "abstracts": [],
+  "other_titles": [],
+  "other_identifiers": [],
+  "actions": [
+    {
+      "description": "Filed",
+      "date": "2025-02-18T19:27:40+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "introduction"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-23T18:01:42Z"
+      }
+    },
+    {
+      "description": "Read the first time, rules suspended, read the second time and referred to the Committee on REVENUE & TAXATION- HOUSE",
+      "date": "2025-02-18T22:52:42+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "reading-1",
+        "reading-2",
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-23T18:01:42Z"
+      }
+    },
+    {
+      "description": "WITHDRAWN BY AUTHOR",
+      "date": "2025-03-04T14:33:15+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-23T18:01:42Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Cavenaugh",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \"Cavenaugh\"}",
+      "organization_id": null
+    },
+    {
+      "name": "J. Petty",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \"J. Petty\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "HB 1521",
+      "links": [
+        {
+          "url": "https://www.arkleg.state.ar.us/assembly/2025/2025R/Bills/HB1521.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://www.arkleg.state.ar.us/Bills/FTPDocument/?path=%2fSessionInformation%2LegislativeMeasures.txt",
+      "note": ""
+    },
+    {
+      "url": "https://www.arkleg.state.ar.us/assembly/2025/2025R/Pages/BillInformation.aspx?measureno=HB1521",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:ar/government",
+    "name": "Arkansas",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:ar"
+  },
+  "_processing": {
+    "logs_latest_update": "2025-10-23T18:01:42Z"
+  }
+}

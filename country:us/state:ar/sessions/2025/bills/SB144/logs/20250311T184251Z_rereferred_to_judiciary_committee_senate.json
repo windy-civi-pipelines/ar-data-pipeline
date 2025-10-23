@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "Re-referred to JUDICIARY COMMITTEE - SENATE",
+    "date": "2025-03-11T18:42:51+00:00",
+    "organization_id": "~{\"classification\": \"upper\"}",
+    "classification": [
+      "referral-committee"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "SB 144"
+}

@@ -1,0 +1,109 @@
+{
+  "legislative_session": "2025",
+  "identifier": "HR 1065",
+  "title": "TO RECOGNIZE THE JOE T. ROBINSON HIGH SCHOOL SENATORS BOYS' SWIM TEAM AS THE 2025 CLASS 1A-4A STATE CHAMPIONS.",
+  "from_organization": "~{\"classification\": \"lower\"}",
+  "classification": [
+    "resolution"
+  ],
+  "subject": [],
+  "abstracts": [],
+  "other_titles": [],
+  "other_identifiers": [],
+  "actions": [
+    {
+      "description": "Filed",
+      "date": "2025-03-05T19:23:44+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "introduction"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-23T18:01:40Z"
+      }
+    },
+    {
+      "description": "Read the first time, rules suspended, read the second time and referred to the Committee on HOUSE MANAGEMENT",
+      "date": "2025-03-05T23:23:36+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "reading-1",
+        "reading-2",
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-23T18:01:40Z"
+      }
+    },
+    {
+      "description": "Returned by the Committee Do Pass",
+      "date": "2025-03-10T21:32:28+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "committee-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-23T18:01:40Z"
+      }
+    },
+    {
+      "description": "READ AND ADOPTED.",
+      "date": "2025-03-17T18:38:08+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-23T18:01:40Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Brooks",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \"Brooks\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "HR 1065",
+      "links": [
+        {
+          "url": "https://www.arkleg.state.ar.us/assembly/2025/2025R/Bills/HR1065.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://www.arkleg.state.ar.us/Bills/FTPDocument/?path=%2fSessionInformation%2LegislativeMeasures.txt",
+      "note": ""
+    },
+    {
+      "url": "https://www.arkleg.state.ar.us/assembly/2025/2025R/Pages/BillInformation.aspx?measureno=HR1065",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:ar/government",
+    "name": "Arkansas",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:ar"
+  },
+  "_processing": {
+    "logs_latest_update": "2025-10-23T18:01:40Z"
+  }
+}

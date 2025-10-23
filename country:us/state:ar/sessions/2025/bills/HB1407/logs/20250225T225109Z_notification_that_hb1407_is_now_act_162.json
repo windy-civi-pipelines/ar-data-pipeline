@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "Notification that HB1407 is now Act 162",
+    "date": "2025-02-25T22:51:09+00:00",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [
+      "executive-signature"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "HB 1407"
+}

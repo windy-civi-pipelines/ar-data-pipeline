@@ -1,0 +1,96 @@
+{
+  "legislative_session": "2025",
+  "identifier": "SB 630",
+  "title": "TO REQUIRE ONLY A COURT TO FIX PUNISHMENT IF A DEFENDANT IS CHARGED WITH A FELONY OR MISDEMEANOR; AND TO REQUIRE ONLY A JUDGE TO SENTENCE A DEFENDANT FOR A CHARGE THAT RESULTS IN A CONVICTION.",
+  "from_organization": "~{\"classification\": \"upper\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [],
+  "abstracts": [],
+  "other_titles": [],
+  "other_identifiers": [],
+  "actions": [
+    {
+      "description": "Filed",
+      "date": "2025-04-07T14:00:50+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "introduction"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-23T18:01:41Z"
+      }
+    },
+    {
+      "description": "Read first time, rules suspended, read second time, referred to JUDICIARY COMMITTEE - SENATE",
+      "date": "2025-04-07T18:34:52+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-1",
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-23T18:01:41Z"
+      }
+    },
+    {
+      "description": "Died in Senate Committee at Sine Die adjournment.",
+      "date": "2025-05-05T20:46:07+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-23T18:01:41Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "B. Davis",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \"B. Davis\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "SB 630",
+      "links": [
+        {
+          "url": "https://www.arkleg.state.ar.us/assembly/2025/2025R/Bills/SB630.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://www.arkleg.state.ar.us/Bills/FTPDocument/?path=%2fSessionInformation%2LegislativeMeasures.txt",
+      "note": ""
+    },
+    {
+      "url": "https://www.arkleg.state.ar.us/assembly/2025/2025R/Pages/BillInformation.aspx?measureno=SB630",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:ar/government",
+    "name": "Arkansas",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:ar"
+  },
+  "_processing": {
+    "logs_latest_update": "2025-10-23T18:01:41Z"
+  }
+}

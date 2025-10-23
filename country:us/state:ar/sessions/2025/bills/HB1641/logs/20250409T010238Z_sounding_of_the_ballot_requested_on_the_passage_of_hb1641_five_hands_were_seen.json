@@ -1,0 +1,10 @@
+{
+  "action": {
+    "description": "Sounding of the Ballot requested on the passage of HB1641. Five Hands were seen.",
+    "date": "2025-04-09T01:02:38+00:00",
+    "organization_id": "~{\"classification\": \"upper\"}",
+    "classification": [],
+    "related_entities": []
+  },
+  "bill_id": "HB 1641"
+}

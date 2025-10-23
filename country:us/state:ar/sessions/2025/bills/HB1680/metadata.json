@@ -1,0 +1,780 @@
+{
+  "legislative_session": "2025",
+  "identifier": "HB 1680",
+  "title": "TO PREVENT A FOREIGN-PARTY-CONTROLLED BUSINESS FROM LEASING LAND; AND TO PROHIBIT A PROHIBITED FOREIGN PARTY FROM HOLDING AN INTEREST IN REAL PROPERTY OR AGRICULTURAL LAND IN CERTAIN CIRCUMSTANCES.",
+  "from_organization": "~{\"classification\": \"lower\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [],
+  "abstracts": [],
+  "other_titles": [],
+  "other_identifiers": [],
+  "actions": [
+    {
+      "description": "Filed",
+      "date": "2025-03-04T22:32:26+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "introduction"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-23T18:01:39Z"
+      }
+    },
+    {
+      "description": "Read the first time, rules suspended, read the second time and referred to the Committee on AGRICULTURE, FORESTRY & ECONOMIC DEVELOPMENT- HOUSE",
+      "date": "2025-03-04T23:36:21+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "reading-1",
+        "reading-2",
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-23T18:01:39Z"
+      }
+    },
+    {
+      "description": "Placed on second reading for the purpose of amendment.",
+      "date": "2025-03-31T13:36:11+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-23T18:01:39Z"
+      }
+    },
+    {
+      "description": "Amendment No. 1 read and adopted and the bill ordered engrossed.",
+      "date": "2025-03-31T13:36:13+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "amendment-introduction",
+        "amendment-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-23T18:01:39Z"
+      }
+    },
+    {
+      "description": "REPORTED CORRECTLY ENGROSSED",
+      "date": "2025-03-31T19:01:58+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-23T18:01:39Z"
+      }
+    },
+    {
+      "description": "Returned by the Committee Do Pass",
+      "date": "2025-04-02T19:20:11+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "committee-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-23T18:01:39Z"
+      }
+    },
+    {
+      "description": "Read the third time and passed and ordered transmitted to the Senate.",
+      "date": "2025-04-03T20:30:49+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "passage",
+        "reading-3"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-23T18:01:39Z"
+      }
+    },
+    {
+      "description": "Received from the House.",
+      "date": "2025-04-04T00:09:13+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-23T18:01:39Z"
+      }
+    },
+    {
+      "description": "Read first time, rules suspended, read second time, referred to AGRICULTURE, FORESTRY & ECONOMIC DEVELOPMENT - SENATE",
+      "date": "2025-04-04T00:09:32+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-1",
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-23T18:01:39Z"
+      }
+    },
+    {
+      "description": "Returned by the Committee, with the recommendation that it Do Pass",
+      "date": "2025-04-08T18:31:17+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "committee-passage-favorable"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-23T18:01:39Z"
+      }
+    },
+    {
+      "description": "Read the third time and passed.",
+      "date": "2025-04-14T17:57:48+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "passage",
+        "reading-3"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-23T18:01:39Z"
+      }
+    },
+    {
+      "description": "Returned to the House as passed.",
+      "date": "2025-04-14T17:57:56+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-23T18:01:39Z"
+      }
+    },
+    {
+      "description": "Returned from the Senate as passed.",
+      "date": "2025-04-14T19:15:41+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-23T18:01:39Z"
+      }
+    },
+    {
+      "description": "TO BE ENROLLED",
+      "date": "2025-04-14T19:15:45+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-23T18:01:39Z"
+      }
+    },
+    {
+      "description": "Correctly enrolled and ordered transmitted to the Governor's Office.",
+      "date": "2025-04-15T16:00:28+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-23T18:01:39Z"
+      }
+    },
+    {
+      "description": "Notification that HB1680 is now Act 811",
+      "date": "2025-04-17T20:25:06+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "executive-signature"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-23T18:01:39Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Vaught",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \"Vaught\"}",
+      "organization_id": null
+    },
+    {
+      "name": "B. Johnson",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \"B. Johnson\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Achor",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \"Achor\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Andrews",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \"Andrews\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Barker",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \"Barker\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Beaty Jr.",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \"Beaty Jr.\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Beck",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \"Beck\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Bentley",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \"Bentley\"}",
+      "organization_id": null
+    },
+    {
+      "name": "S. Berry",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \"S. Berry\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Breaux",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \"Breaux\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Brooks",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \"Brooks\"}",
+      "organization_id": null
+    },
+    {
+      "name": "K. Brown",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \"K. Brown\"}",
+      "organization_id": null
+    },
+    {
+      "name": "M. Brown",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \"M. Brown\"}",
+      "organization_id": null
+    },
+    {
+      "name": "N. Burkes",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \"N. Burkes\"}",
+      "organization_id": null
+    },
+    {
+      "name": "R. Burkes",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \"R. Burkes\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Joey Carr",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \"Joey Carr\"}",
+      "organization_id": null
+    },
+    {
+      "name": "John Carr",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \"John Carr\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Cavenaugh",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \"Cavenaugh\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Childress",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \"Childress\"}",
+      "organization_id": null
+    },
+    {
+      "name": "C. Cooper",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \"C. Cooper\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Cozart",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \"Cozart\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Crawford",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \"Crawford\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Eaton",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \"Eaton\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Evans",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \"Evans\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Furman",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \"Furman\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Gazaway",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \"Gazaway\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Gramlich",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \"Gramlich\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Hall",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \"Hall\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Hawk",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \"Hawk\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Hollowell",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \"Hollowell\"}",
+      "organization_id": null
+    },
+    {
+      "name": "L. Johnson",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \"L. Johnson\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Long",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \"Long\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Lundstrum",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \"Lundstrum\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Lynch",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \"Lynch\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Maddox",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \"Maddox\"}",
+      "organization_id": null
+    },
+    {
+      "name": "McAlindon",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \"McAlindon\"}",
+      "organization_id": null
+    },
+    {
+      "name": "McClure",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \"McClure\"}",
+      "organization_id": null
+    },
+    {
+      "name": "M. McElroy",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \"M. McElroy\"}",
+      "organization_id": null
+    },
+    {
+      "name": "McGrew",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \"McGrew\"}",
+      "organization_id": null
+    },
+    {
+      "name": "B. McKenzie",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \"B. McKenzie\"}",
+      "organization_id": null
+    },
+    {
+      "name": "McNair",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \"McNair\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Milligan",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \"Milligan\"}",
+      "organization_id": null
+    },
+    {
+      "name": "J. Moore",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \"J. Moore\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Nazarenko",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \"Nazarenko\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Painter",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \"Painter\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Pearce",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \"Pearce\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Perry",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \"Perry\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Pilkington",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \"Pilkington\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Puryear",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \"Puryear\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Ray",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \"Ray\"}",
+      "organization_id": null
+    },
+    {
+      "name": "R. Scott Richardson",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \"R. Scott Richardson\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Richmond",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \"Richmond\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Rose",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \"Rose\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Rye",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \"Rye\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Schulz",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \"Schulz\"}",
+      "organization_id": null
+    },
+    {
+      "name": "M. Shepherd",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \"M. Shepherd\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Steimel",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \"Steimel\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Torres",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \"Torres\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Tosh",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \"Tosh\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Underwood",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \"Underwood\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Unger",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \"Unger\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Walker",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \"Walker\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Wing",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \"Wing\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Wooten",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \"Wooten\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "HB 1680",
+      "links": [
+        {
+          "url": "https://www.arkleg.state.ar.us/assembly/2025/2025R/Bills/HB1680.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Amendment H1",
+      "links": [
+        {
+          "url": "https://www.arkleg.state.ar.us/Home/FTPDocument?path=%2FAMEND%2F2025R%2FPublic%2FHB1680-H1.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2025-03-20",
+      "classification": "amendment"
+    },
+    {
+      "note": "Act 811",
+      "links": [
+        {
+          "url": "https://www.arkleg.state.ar.us/Acts/FTPDocument?path=%2FACTS%2F2025R%2FPublic%2F&file=811.pdf&ddBienniumSession=2025%2F2025R",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": "became-law"
+    }
+  ],
+  "documents": [],
+  "citations": [
+    {
+      "publication": "AR Acts, 2025 - 2025 Regular Session",
+      "citation": "Act 811",
+      "citation_type": "chapter",
+      "effective": null,
+      "expires": null,
+      "url": "https://www.arkleg.state.ar.us/Acts/FTPDocument?path=%2FACTS%2F2025R%2FPublic%2F&file=811.pdf&ddBienniumSession=2025%2F2025R"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.arkleg.state.ar.us/Bills/FTPDocument/?path=%2fSessionInformation%2LegislativeMeasures.txt",
+      "note": ""
+    },
+    {
+      "url": "https://www.arkleg.state.ar.us/assembly/2025/2025R/Pages/BillInformation.aspx?measureno=HB1680",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:ar/government",
+    "name": "Arkansas",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:ar"
+  },
+  "_processing": {
+    "logs_latest_update": "2025-10-23T18:01:39Z"
+  }
+}

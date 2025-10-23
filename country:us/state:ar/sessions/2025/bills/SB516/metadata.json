@@ -1,0 +1,274 @@
+{
+  "legislative_session": "2025",
+  "identifier": "SB 516",
+  "title": "TO ALLOW A PERSON FILING AS A CANDIDATE FOR THE OFFICE OF JUSTICE OF THE SUPREME COURT OR JUDGE OF THE COURT OF APPEALS WHO IS AN APPOINTEE IN THAT POSITION TO USE THE TITLE OF THAT POSITION AS A PREFIX WHEN FILING AS A CANDIDATE.",
+  "from_organization": "~{\"classification\": \"upper\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [],
+  "abstracts": [],
+  "other_titles": [],
+  "other_identifiers": [],
+  "actions": [
+    {
+      "description": "Filed",
+      "date": "2025-03-19T13:51:08+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "introduction"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-23T18:01:40Z"
+      }
+    },
+    {
+      "description": "Read first time, rules suspended, read second time, referred to STATE AGENCIES & GOVT'L AFFAIRS-SENATE",
+      "date": "2025-03-19T18:49:13+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-1",
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-23T18:01:40Z"
+      }
+    },
+    {
+      "description": "Returned by the Committee, with the recommendation that it Do Pass",
+      "date": "2025-04-03T18:44:43+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "committee-passage-favorable"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-23T18:01:40Z"
+      }
+    },
+    {
+      "description": "Read the third time and passed.",
+      "date": "2025-04-07T19:27:31+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "passage",
+        "reading-3"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-23T18:01:40Z"
+      }
+    },
+    {
+      "description": "Ordered immediately transmitted to the House.",
+      "date": "2025-04-07T19:27:40+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-23T18:01:40Z"
+      }
+    },
+    {
+      "description": "RECEIVED FROM THE SENATE",
+      "date": "2025-04-07T21:35:32+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-23T18:01:40Z"
+      }
+    },
+    {
+      "description": "Read the first time, rules suspended, read the second time and referred to the Committee on STATE AGENCIES & GOVT'L AFFAIRS- HOUSE",
+      "date": "2025-04-08T01:13:27+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "reading-1",
+        "reading-2",
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-23T18:01:40Z"
+      }
+    },
+    {
+      "description": "Returned by the Committee Do Pass",
+      "date": "2025-04-09T18:51:40+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "committee-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-23T18:01:40Z"
+      }
+    },
+    {
+      "description": "Read the third time and passed and ordered transmitted to the Senate.",
+      "date": "2025-04-14T20:19:43+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "passage",
+        "reading-3"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-23T18:01:40Z"
+      }
+    },
+    {
+      "description": "Returned to the Senate as passed.",
+      "date": "2025-04-14T20:19:50+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-23T18:01:40Z"
+      }
+    },
+    {
+      "description": "Returned from the House as passed.",
+      "date": "2025-04-15T00:33:38+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-23T18:01:40Z"
+      }
+    },
+    {
+      "description": "ORDERED ENROLLED",
+      "date": "2025-04-15T00:33:42+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-23T18:01:40Z"
+      }
+    },
+    {
+      "description": "Reported correctly enrolled and ordered delivered to the Governor.",
+      "date": "2025-04-15T14:12:15+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-23T18:01:40Z"
+      }
+    },
+    {
+      "description": "DELIVERED TO GOVERNOR.",
+      "date": "2025-04-15T14:12:19+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "executive-receipt"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-23T18:01:40Z"
+      }
+    },
+    {
+      "description": "Notification that SB516 is now Act 761",
+      "date": "2025-04-18T21:20:41+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "executive-signature"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-23T18:01:40Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Gilmore",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \"Gilmore\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Ray",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \"Ray\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "SB 516",
+      "links": [
+        {
+          "url": "https://www.arkleg.state.ar.us/assembly/2025/2025R/Bills/SB516.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Act 761",
+      "links": [
+        {
+          "url": "https://www.arkleg.state.ar.us/Acts/FTPDocument?path=%2FACTS%2F2025R%2FPublic%2F&file=761.pdf&ddBienniumSession=2025%2F2025R",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": "became-law"
+    }
+  ],
+  "documents": [
+    {
+      "note": "FI1",
+      "links": [
+        {
+          "url": "https://www.arkleg.state.ar.us/Home/FTPDocument?path=%2FAssembly%2F2025%2F2025R%2FFiscal+Impacts%2FSB516-FI1.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2025-04-09",
+      "classification": "fiscal-note"
+    }
+  ],
+  "citations": [
+    {
+      "publication": "AR Acts, 2025 - 2025 Regular Session",
+      "citation": "Act 761",
+      "citation_type": "chapter",
+      "effective": null,
+      "expires": null,
+      "url": "https://www.arkleg.state.ar.us/Acts/FTPDocument?path=%2FACTS%2F2025R%2FPublic%2F&file=761.pdf&ddBienniumSession=2025%2F2025R"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.arkleg.state.ar.us/Bills/FTPDocument/?path=%2fSessionInformation%2LegislativeMeasures.txt",
+      "note": ""
+    },
+    {
+      "url": "https://www.arkleg.state.ar.us/assembly/2025/2025R/Pages/BillInformation.aspx?measureno=SB516",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:ar/government",
+    "name": "Arkansas",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:ar"
+  },
+  "_processing": {
+    "logs_latest_update": "2025-10-23T18:01:40Z"
+  }
+}

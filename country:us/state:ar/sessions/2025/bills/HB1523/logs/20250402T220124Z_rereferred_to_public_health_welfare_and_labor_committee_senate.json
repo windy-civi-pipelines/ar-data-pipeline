@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "Re-referred to PUBLIC HEALTH, WELFARE AND LABOR COMMITTEE - SENATE",
+    "date": "2025-04-02T22:01:24+00:00",
+    "organization_id": "~{\"classification\": \"upper\"}",
+    "classification": [
+      "referral-committee"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "HB 1523"
+}

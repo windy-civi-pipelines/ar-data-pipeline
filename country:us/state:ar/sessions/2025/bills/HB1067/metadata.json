@@ -1,0 +1,344 @@
+{
+  "legislative_session": "2025",
+  "identifier": "HB 1067",
+  "title": "CONCERNING FIREARM HOLD AGREEMENTS; AND TO PROVIDE CIVIL IMMUNITY TO A FEDERAL FIREARMS LICENSEE WHO AGREES TO HOLD A FIREARM FOR AN INDIVIDUAL.",
+  "from_organization": "~{\"classification\": \"lower\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [],
+  "abstracts": [],
+  "other_titles": [],
+  "other_identifiers": [],
+  "actions": [
+    {
+      "description": "Filed",
+      "date": "2024-12-13T15:40:50+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "introduction"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-23T18:01:40Z"
+      }
+    },
+    {
+      "description": "Read the first time, rules suspended, read the second time and referred to the Committee on JUDICIARY COMMITTEE- HOUSE",
+      "date": "2025-01-13T21:13:36+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "reading-1",
+        "reading-2",
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-23T18:01:40Z"
+      }
+    },
+    {
+      "description": "Placed on second reading for the purpose of amendment.",
+      "date": "2025-01-23T14:29:26+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-23T18:01:40Z"
+      }
+    },
+    {
+      "description": "Amendment No. 1 read and adopted and the bill ordered engrossed.",
+      "date": "2025-01-23T14:29:34+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "amendment-introduction",
+        "amendment-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-23T18:01:40Z"
+      }
+    },
+    {
+      "description": "REPORTED CORRECTLY ENGROSSED",
+      "date": "2025-01-23T16:23:54+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-23T18:01:40Z"
+      }
+    },
+    {
+      "description": "Returned by the Committee with the recommendation that it do pass as amended 2",
+      "date": "2025-01-30T17:18:23+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "committee-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-23T18:01:40Z"
+      }
+    },
+    {
+      "description": "Placed on second reading for the purpose of amendment.",
+      "date": "2025-02-03T14:30:12+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-23T18:01:40Z"
+      }
+    },
+    {
+      "description": "Amendment No. 2 read and adopted and the bill ordered engrossed.",
+      "date": "2025-02-03T14:30:16+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "amendment-introduction",
+        "amendment-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-23T18:01:40Z"
+      }
+    },
+    {
+      "description": "REPORTED CORRECTLY ENGROSSED",
+      "date": "2025-02-03T16:08:21+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-23T18:01:40Z"
+      }
+    },
+    {
+      "description": "Read the third time and passed and ordered transmitted to the Senate.",
+      "date": "2025-02-04T19:45:26+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "passage",
+        "reading-3"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-23T18:01:40Z"
+      }
+    },
+    {
+      "description": "Received from the House.",
+      "date": "2025-02-04T21:28:07+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-23T18:01:40Z"
+      }
+    },
+    {
+      "description": "Read first time, rules suspended, read second time, referred to CITY, COUNTY & LOCAL AFFAIRS COMMITTEE - SENATE",
+      "date": "2025-02-04T21:28:42+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-1",
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-23T18:01:40Z"
+      }
+    },
+    {
+      "description": "Returned by the Committee, with the recommendation that it Do Pass",
+      "date": "2025-02-11T19:55:35+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "committee-passage-favorable"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-23T18:01:40Z"
+      }
+    },
+    {
+      "description": "Read the third time and passed.",
+      "date": "2025-02-12T22:06:31+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "passage",
+        "reading-3"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-23T18:01:40Z"
+      }
+    },
+    {
+      "description": "Returned to the House as passed.",
+      "date": "2025-02-12T22:06:42+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-23T18:01:40Z"
+      }
+    },
+    {
+      "description": "Returned from the Senate as passed.",
+      "date": "2025-02-12T23:09:36+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-23T18:01:40Z"
+      }
+    },
+    {
+      "description": "TO BE ENROLLED",
+      "date": "2025-02-12T23:10:31+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-23T18:01:40Z"
+      }
+    },
+    {
+      "description": "Correctly enrolled and ordered transmitted to the Governor's Office.",
+      "date": "2025-02-13T15:19:52+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-23T18:01:40Z"
+      }
+    },
+    {
+      "description": "Notification that HB1067 is now Act 106",
+      "date": "2025-02-18T19:27:07+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "executive-signature"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-23T18:01:40Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Gramlich",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \"Gramlich\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Hill",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \"Hill\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Vaught",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \"Vaught\"}",
+      "organization_id": null
+    },
+    {
+      "name": "J. Bryant",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \"J. Bryant\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "HB 1067",
+      "links": [
+        {
+          "url": "https://www.arkleg.state.ar.us/assembly/2025/2025R/Bills/HB1067.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Amendment H1",
+      "links": [
+        {
+          "url": "https://www.arkleg.state.ar.us/Home/FTPDocument?path=%2FAMEND%2F2025R%2FPublic%2FHB1067-H1.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2025-01-22",
+      "classification": "amendment"
+    },
+    {
+      "note": "Amendment H2",
+      "links": [
+        {
+          "url": "https://www.arkleg.state.ar.us/Home/FTPDocument?path=%2FAMEND%2F2025R%2FPublic%2FHB1067-H2.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2025-01-30",
+      "classification": "amendment"
+    },
+    {
+      "note": "Act 106",
+      "links": [
+        {
+          "url": "https://www.arkleg.state.ar.us/Acts/FTPDocument?path=%2FACTS%2F2025R%2FPublic%2F&file=106.pdf&ddBienniumSession=2025%2F2025R",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": "became-law"
+    }
+  ],
+  "documents": [],
+  "citations": [
+    {
+      "publication": "AR Acts, 2025 - 2025 Regular Session",
+      "citation": "Act 106",
+      "citation_type": "chapter",
+      "effective": null,
+      "expires": null,
+      "url": "https://www.arkleg.state.ar.us/Acts/FTPDocument?path=%2FACTS%2F2025R%2FPublic%2F&file=106.pdf&ddBienniumSession=2025%2F2025R"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.arkleg.state.ar.us/Bills/FTPDocument/?path=%2fSessionInformation%2LegislativeMeasures.txt",
+      "note": ""
+    },
+    {
+      "url": "https://www.arkleg.state.ar.us/assembly/2025/2025R/Pages/BillInformation.aspx?measureno=HB1067",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:ar/government",
+    "name": "Arkansas",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:ar"
+  },
+  "_processing": {
+    "logs_latest_update": "2025-10-23T18:01:40Z"
+  }
+}

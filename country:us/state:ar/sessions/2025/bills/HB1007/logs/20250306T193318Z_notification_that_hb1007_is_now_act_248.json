@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "Notification that HB1007 is now Act 248",
+    "date": "2025-03-06T19:33:18+00:00",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [
+      "executive-signature"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "HB 1007"
+}

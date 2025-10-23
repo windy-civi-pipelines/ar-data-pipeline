@@ -1,0 +1,157 @@
+{
+  "legislative_session": "2025",
+  "identifier": "SB 472",
+  "title": "TO CREATE THE VIOLATION OF PURCHASE OR POSSESSION OF AN E-LIQUID PRODUCT OR VAPOR PRODUCT BY A MINOR.",
+  "from_organization": "~{\"classification\": \"upper\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [],
+  "abstracts": [],
+  "other_titles": [],
+  "other_identifiers": [],
+  "actions": [
+    {
+      "description": "Filed",
+      "date": "2025-03-17T15:11:32+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "introduction"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-23T18:01:40Z"
+      }
+    },
+    {
+      "description": "Read first time, rules suspended, read second time, referred to JUDICIARY COMMITTEE - SENATE",
+      "date": "2025-03-17T18:51:32+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-1",
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-23T18:01:40Z"
+      }
+    },
+    {
+      "description": "Withdrawn from Committee and placed on 2nd reading for purpose of amendment # 1",
+      "date": "2025-03-18T13:03:11+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-23T18:01:40Z"
+      }
+    },
+    {
+      "description": "Amendment # 1 read the first time, rules suspended, read the second time and adopted, ordered engrossed.",
+      "date": "2025-03-18T13:03:19+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-23T18:01:40Z"
+      }
+    },
+    {
+      "description": "REPORTED CORRECTLY ENGROSSED",
+      "date": "2025-03-18T18:37:08+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-23T18:01:40Z"
+      }
+    },
+    {
+      "description": "Re-referred to JUDICIARY COMMITTEE - SENATE",
+      "date": "2025-03-18T18:37:15+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-23T18:01:40Z"
+      }
+    },
+    {
+      "description": "Died in Senate Committee at Sine Die adjournment.",
+      "date": "2025-05-05T20:44:14+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-23T18:01:40Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "J. Bryant",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \"J. Bryant\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Underwood",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \"Underwood\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "SB 472",
+      "links": [
+        {
+          "url": "https://www.arkleg.state.ar.us/assembly/2025/2025R/Bills/SB472.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Amendment S1",
+      "links": [
+        {
+          "url": "https://www.arkleg.state.ar.us/Home/FTPDocument?path=%2FAMEND%2F2025R%2FPublic%2FSB472-S1.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2025-03-17",
+      "classification": "amendment"
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://www.arkleg.state.ar.us/Bills/FTPDocument/?path=%2fSessionInformation%2LegislativeMeasures.txt",
+      "note": ""
+    },
+    {
+      "url": "https://www.arkleg.state.ar.us/assembly/2025/2025R/Pages/BillInformation.aspx?measureno=SB472",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:ar/government",
+    "name": "Arkansas",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:ar"
+  },
+  "_processing": {
+    "logs_latest_update": "2025-10-23T18:01:40Z"
+  }
+}

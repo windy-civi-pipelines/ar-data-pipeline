@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "Notification that SB64 is now Act 532",
+    "date": "2025-04-10T21:02:30+00:00",
+    "organization_id": "~{\"classification\": \"upper\"}",
+    "classification": [
+      "executive-signature"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "SB 64"
+}

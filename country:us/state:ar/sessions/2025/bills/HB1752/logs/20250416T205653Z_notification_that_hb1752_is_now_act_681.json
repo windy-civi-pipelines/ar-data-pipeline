@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "Notification that HB1752 is now Act 681",
+    "date": "2025-04-16T20:56:53+00:00",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [
+      "executive-signature"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "HB 1752"
+}

@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "Notification that SB596 is now Act 940",
+    "date": "2025-04-22T21:43:06+00:00",
+    "organization_id": "~{\"classification\": \"upper\"}",
+    "classification": [
+      "executive-signature"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "SB 596"
+}

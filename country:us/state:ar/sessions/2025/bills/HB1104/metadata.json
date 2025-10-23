@@ -1,0 +1,240 @@
+{
+  "legislative_session": "2025",
+  "identifier": "HB 1104",
+  "title": "AN ACT FOR THE DEPARTMENT OF LABOR AND LICENSING - DIVISION OF LABOR APPROPRIATION FOR THE 2025-2026 FISCAL YEAR.",
+  "from_organization": "~{\"classification\": \"lower\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [],
+  "abstracts": [],
+  "other_titles": [],
+  "other_identifiers": [],
+  "actions": [
+    {
+      "description": "Filed",
+      "date": "2025-01-13T21:06:34+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "introduction"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-23T18:01:43Z"
+      }
+    },
+    {
+      "description": "Read the first time, rules suspended, read the second time and referred to the Committee on JOINT BUDGET COMMITTEE",
+      "date": "2025-01-13T22:51:29+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "reading-1",
+        "reading-2",
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-23T18:01:43Z"
+      }
+    },
+    {
+      "description": "Returned by the Committee Do Pass",
+      "date": "2025-02-13T16:44:40+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "committee-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-23T18:01:43Z"
+      }
+    },
+    {
+      "description": "Read the third time and passed and ordered transmitted to the Senate.",
+      "date": "2025-02-18T19:54:40+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "passage",
+        "reading-3"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-23T18:01:43Z"
+      }
+    },
+    {
+      "description": "EMERGENCY CLAUSE ADOPTED",
+      "date": "2025-02-18T19:54:45+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-23T18:01:43Z"
+      }
+    },
+    {
+      "description": "Received from the House.",
+      "date": "2025-02-18T21:33:25+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-23T18:01:43Z"
+      }
+    },
+    {
+      "description": "Read the first time, rules suspended, read the second time and placed on the calendar.",
+      "date": "2025-02-18T21:33:29+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-1",
+        "reading-2"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-23T18:01:43Z"
+      }
+    },
+    {
+      "description": "Read the third time and passed.",
+      "date": "2025-02-19T20:42:06+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "passage",
+        "reading-3"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-23T18:01:43Z"
+      }
+    },
+    {
+      "description": "EMERGENCY CLAUSE ADOPTED",
+      "date": "2025-02-19T20:42:07+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-23T18:01:43Z"
+      }
+    },
+    {
+      "description": "Returned to the House as Passed.",
+      "date": "2025-02-19T20:42:09+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-23T18:01:43Z"
+      }
+    },
+    {
+      "description": "Returned from the Senate as passed.",
+      "date": "2025-02-19T21:42:27+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-23T18:01:43Z"
+      }
+    },
+    {
+      "description": "TO BE ENROLLED",
+      "date": "2025-02-19T21:42:29+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-23T18:01:43Z"
+      }
+    },
+    {
+      "description": "Correctly enrolled and ordered transmitted to the Governor's Office.",
+      "date": "2025-02-20T15:27:34+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-23T18:01:43Z"
+      }
+    },
+    {
+      "description": "Notification that HB1104 is now Act 184",
+      "date": "2025-02-25T22:53:05+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "executive-signature"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-23T18:01:43Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Joint Budget Committee",
+      "classification": "primary",
+      "entity_type": "organization",
+      "primary": true,
+      "person_id": null,
+      "organization_id": "~{\"chamber\": \"legislature\", \"name\": \"Joint Budget Committee\"}"
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "HB 1104",
+      "links": [
+        {
+          "url": "https://www.arkleg.state.ar.us/assembly/2025/2025R/Bills/HB1104.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Act 184",
+      "links": [
+        {
+          "url": "https://www.arkleg.state.ar.us/Acts/FTPDocument?path=%2FACTS%2F2025R%2FPublic%2F&file=184.pdf&ddBienniumSession=2025%2F2025R",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": "became-law"
+    }
+  ],
+  "documents": [],
+  "citations": [
+    {
+      "publication": "AR Acts, 2025 - 2025 Regular Session",
+      "citation": "Act 184",
+      "citation_type": "chapter",
+      "effective": null,
+      "expires": null,
+      "url": "https://www.arkleg.state.ar.us/Acts/FTPDocument?path=%2FACTS%2F2025R%2FPublic%2F&file=184.pdf&ddBienniumSession=2025%2F2025R"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.arkleg.state.ar.us/Bills/FTPDocument/?path=%2fSessionInformation%2LegislativeMeasures.txt",
+      "note": ""
+    },
+    {
+      "url": "https://www.arkleg.state.ar.us/assembly/2025/2025R/Pages/BillInformation.aspx?measureno=HB1104",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:ar/government",
+    "name": "Arkansas",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:ar"
+  },
+  "_processing": {
+    "logs_latest_update": "2025-10-23T18:01:43Z"
+  }
+}

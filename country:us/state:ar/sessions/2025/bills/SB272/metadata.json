@@ -1,0 +1,303 @@
+{
+  "legislative_session": "2025",
+  "identifier": "SB 272",
+  "title": "TO AMEND THE LAW CONCERNING VOTER REGISTRATION; TO PROHIBIT PRE-FILLED FIELDS ON A VOTER REGISTRATION FORM IN CERTAIN INSTANCES; AND TO AMEND PROVISIONS OF ARKANSAS CONSTITUTION, AMENDMENT 51, \u00a7 6.",
+  "from_organization": "~{\"classification\": \"upper\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [],
+  "abstracts": [],
+  "other_titles": [],
+  "other_identifiers": [],
+  "actions": [
+    {
+      "description": "Filed",
+      "date": "2025-02-24T16:38:43+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "introduction"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-23T18:01:42Z"
+      }
+    },
+    {
+      "description": "Read first time, rules suspended, read second time, referred to STATE AGENCIES & GOVT'L AFFAIRS-SENATE",
+      "date": "2025-02-24T19:40:49+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-1",
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-23T18:01:42Z"
+      }
+    },
+    {
+      "description": "Returned by the Committee with the recommendation that it Do Pass as amended, Amendment # 1",
+      "date": "2025-02-27T18:46:57+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "committee-passage-favorable"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-23T18:01:42Z"
+      }
+    },
+    {
+      "description": "Placed on second reading for purpose of amendment.",
+      "date": "2025-03-03T19:46:09+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-23T18:01:42Z"
+      }
+    },
+    {
+      "description": "Amendment # 1 read the first time, rules suspended, read the second time and adopted, ordered engrossed.",
+      "date": "2025-03-03T19:46:18+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-23T18:01:42Z"
+      }
+    },
+    {
+      "description": "REPORTED CORRECTLY ENGROSSED",
+      "date": "2025-03-03T21:36:14+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-23T18:01:42Z"
+      }
+    },
+    {
+      "description": "Read the third time and passed.",
+      "date": "2025-03-04T20:01:51+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "passage",
+        "reading-3"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-23T18:01:42Z"
+      }
+    },
+    {
+      "description": "Ordered immediately transmitted to the House.",
+      "date": "2025-03-04T20:02:02+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-23T18:01:42Z"
+      }
+    },
+    {
+      "description": "RECEIVED FROM THE SENATE",
+      "date": "2025-03-04T20:49:27+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-23T18:01:42Z"
+      }
+    },
+    {
+      "description": "Read the first time, rules suspended, read the second time and referred to the Committee on STATE AGENCIES & GOVT'L AFFAIRS- HOUSE",
+      "date": "2025-03-04T23:38:10+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "reading-1",
+        "reading-2",
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-23T18:01:42Z"
+      }
+    },
+    {
+      "description": "Returned by the Committee Do Pass",
+      "date": "2025-03-06T00:37:33+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "committee-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-23T18:01:42Z"
+      }
+    },
+    {
+      "description": "Read the third time and passed and ordered transmitted to the Senate.",
+      "date": "2025-03-10T20:34:22+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "passage",
+        "reading-3"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-23T18:01:42Z"
+      }
+    },
+    {
+      "description": "Returned to the Senate as passed.",
+      "date": "2025-03-10T20:34:28+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-23T18:01:42Z"
+      }
+    },
+    {
+      "description": "Returned from the House as passed.",
+      "date": "2025-03-10T22:29:06+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-23T18:01:42Z"
+      }
+    },
+    {
+      "description": "ORDERED ENROLLED",
+      "date": "2025-03-10T22:29:11+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-23T18:01:42Z"
+      }
+    },
+    {
+      "description": "Reported correctly enrolled and ordered delivered to the Governor.",
+      "date": "2025-03-11T13:15:46+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-23T18:01:42Z"
+      }
+    },
+    {
+      "description": "DELIVERED TO GOVERNOR.",
+      "date": "2025-03-11T13:15:49+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "executive-receipt"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-23T18:01:42Z"
+      }
+    },
+    {
+      "description": "Notification that SB272 is now Act 278",
+      "date": "2025-03-12T21:47:30+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "executive-signature"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-23T18:01:42Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Crowell",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \"Crowell\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Wooldridge",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \"Wooldridge\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "SB 272",
+      "links": [
+        {
+          "url": "https://www.arkleg.state.ar.us/assembly/2025/2025R/Bills/SB272.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Amendment S1",
+      "links": [
+        {
+          "url": "https://www.arkleg.state.ar.us/Home/FTPDocument?path=%2FAMEND%2F2025R%2FPublic%2FSB272-S1.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2025-02-27",
+      "classification": "amendment"
+    },
+    {
+      "note": "Act 278",
+      "links": [
+        {
+          "url": "https://www.arkleg.state.ar.us/Acts/FTPDocument?path=%2FACTS%2F2025R%2FPublic%2F&file=278.pdf&ddBienniumSession=2025%2F2025R",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": "became-law"
+    }
+  ],
+  "documents": [],
+  "citations": [
+    {
+      "publication": "AR Acts, 2025 - 2025 Regular Session",
+      "citation": "Act 278",
+      "citation_type": "chapter",
+      "effective": null,
+      "expires": null,
+      "url": "https://www.arkleg.state.ar.us/Acts/FTPDocument?path=%2FACTS%2F2025R%2FPublic%2F&file=278.pdf&ddBienniumSession=2025%2F2025R"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.arkleg.state.ar.us/Bills/FTPDocument/?path=%2fSessionInformation%2LegislativeMeasures.txt",
+      "note": ""
+    },
+    {
+      "url": "https://www.arkleg.state.ar.us/assembly/2025/2025R/Pages/BillInformation.aspx?measureno=SB272",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:ar/government",
+    "name": "Arkansas",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:ar"
+  },
+  "_processing": {
+    "logs_latest_update": "2025-10-23T18:01:42Z"
+  }
+}

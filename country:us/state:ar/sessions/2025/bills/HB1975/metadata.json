@@ -1,0 +1,292 @@
+{
+  "legislative_session": "2025",
+  "identifier": "HB 1975",
+  "title": "TO CREATE THE CHILD CONTENT CREATION PROTECTION ACT.",
+  "from_organization": "~{\"classification\": \"lower\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [],
+  "abstracts": [],
+  "other_titles": [],
+  "other_identifiers": [],
+  "actions": [
+    {
+      "description": "Filed",
+      "date": "2025-04-02T20:12:29+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "introduction"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-23T18:01:39Z"
+      }
+    },
+    {
+      "description": "Read the first time, rules suspended, read the second time and referred to the Committee on JUDICIARY COMMITTEE- HOUSE",
+      "date": "2025-04-03T00:39:44+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "reading-1",
+        "reading-2",
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-23T18:01:39Z"
+      }
+    },
+    {
+      "description": "Returned by the Committee with the recommendation that it do pass as amended 1 & 2",
+      "date": "2025-04-08T19:09:47+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "committee-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-23T18:01:39Z"
+      }
+    },
+    {
+      "description": "Placed on second reading for the purpose of amendment.",
+      "date": "2025-04-09T13:34:39+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-23T18:01:39Z"
+      }
+    },
+    {
+      "description": "Amendment No. 1 & 2 read and adopted and the bill ordered engrossed.",
+      "date": "2025-04-09T13:34:47+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-23T18:01:39Z"
+      }
+    },
+    {
+      "description": "REPORTED CORRECTLY ENGROSSED",
+      "date": "2025-04-09T17:02:03+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-23T18:01:39Z"
+      }
+    },
+    {
+      "description": "Read the third time and passed and ordered transmitted to the Senate.",
+      "date": "2025-04-10T21:09:37+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "passage",
+        "reading-3"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-23T18:01:39Z"
+      }
+    },
+    {
+      "description": "Received from the House.",
+      "date": "2025-04-10T23:22:14+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-23T18:01:39Z"
+      }
+    },
+    {
+      "description": "Read first time, rules suspended, read second time, referred to JUDICIARY COMMITTEE - SENATE",
+      "date": "2025-04-10T23:22:23+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-1",
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-23T18:01:39Z"
+      }
+    },
+    {
+      "description": "Returned by the Committee, with the recommendation that it Do Pass",
+      "date": "2025-04-15T00:21:26+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "committee-passage-favorable"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-23T18:01:39Z"
+      }
+    },
+    {
+      "description": "Read the third time and passed.",
+      "date": "2025-04-16T16:34:12+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "passage",
+        "reading-3"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-23T18:01:39Z"
+      }
+    },
+    {
+      "description": "Returned to the House as passed.",
+      "date": "2025-04-16T16:34:17+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-23T18:01:39Z"
+      }
+    },
+    {
+      "description": "Returned from the Senate as passed.",
+      "date": "2025-04-16T17:21:52+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-23T18:01:39Z"
+      }
+    },
+    {
+      "description": "TO BE ENROLLED",
+      "date": "2025-04-16T17:21:55+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-23T18:01:39Z"
+      }
+    },
+    {
+      "description": "Correctly enrolled and ordered transmitted to the Governor's Office.",
+      "date": "2025-04-16T17:21:56+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-23T18:01:39Z"
+      }
+    },
+    {
+      "description": "Notification that HB1975 is now Act 982",
+      "date": "2025-04-22T21:01:23+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "executive-signature"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-23T18:01:39Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Gramlich",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \"Gramlich\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Dees",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \"Dees\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "HB 1975",
+      "links": [
+        {
+          "url": "https://www.arkleg.state.ar.us/assembly/2025/2025R/Bills/HB1975.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Amendment H1",
+      "links": [
+        {
+          "url": "https://www.arkleg.state.ar.us/Home/FTPDocument?path=%2FAMEND%2F2025R%2FPublic%2FHB1975-H1.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2025-04-08",
+      "classification": "amendment"
+    },
+    {
+      "note": "Amendment H2",
+      "links": [
+        {
+          "url": "https://www.arkleg.state.ar.us/Home/FTPDocument?path=%2FAMEND%2F2025R%2FPublic%2FHB1975-H2.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2025-04-08",
+      "classification": "amendment"
+    },
+    {
+      "note": "Act 982",
+      "links": [
+        {
+          "url": "https://www.arkleg.state.ar.us/Acts/FTPDocument?path=%2FACTS%2F2025R%2FPublic%2F&file=982.pdf&ddBienniumSession=2025%2F2025R",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": "became-law"
+    }
+  ],
+  "documents": [],
+  "citations": [
+    {
+      "publication": "AR Acts, 2025 - 2025 Regular Session",
+      "citation": "Act 982",
+      "citation_type": "chapter",
+      "effective": null,
+      "expires": null,
+      "url": "https://www.arkleg.state.ar.us/Acts/FTPDocument?path=%2FACTS%2F2025R%2FPublic%2F&file=982.pdf&ddBienniumSession=2025%2F2025R"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.arkleg.state.ar.us/Bills/FTPDocument/?path=%2fSessionInformation%2LegislativeMeasures.txt",
+      "note": ""
+    },
+    {
+      "url": "https://www.arkleg.state.ar.us/assembly/2025/2025R/Pages/BillInformation.aspx?measureno=HB1975",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:ar/government",
+    "name": "Arkansas",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:ar"
+  },
+  "_processing": {
+    "logs_latest_update": "2025-10-23T18:01:39Z"
+  }
+}

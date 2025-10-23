@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "Notification that HB1605 is now Act 328",
+    "date": "2025-03-18T19:03:58+00:00",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [
+      "executive-signature"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "HB 1605"
+}

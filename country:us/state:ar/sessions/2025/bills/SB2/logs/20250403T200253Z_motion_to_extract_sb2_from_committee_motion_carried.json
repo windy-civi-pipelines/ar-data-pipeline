@@ -1,0 +1,10 @@
+{
+  "action": {
+    "description": "Motion to Extract SB2 from Committee. Motion carried.",
+    "date": "2025-04-03T20:02:53+00:00",
+    "organization_id": "~{\"classification\": \"upper\"}",
+    "classification": [],
+    "related_entities": []
+  },
+  "bill_id": "SB 2"
+}

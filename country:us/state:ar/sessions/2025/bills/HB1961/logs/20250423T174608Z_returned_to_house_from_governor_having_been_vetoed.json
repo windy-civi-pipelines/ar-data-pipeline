@@ -1,0 +1,10 @@
+{
+  "action": {
+    "description": "Returned to House from Governor Having Been Vetoed",
+    "date": "2025-04-23T17:46:08+00:00",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [],
+    "related_entities": []
+  },
+  "bill_id": "HB 1961"
+}

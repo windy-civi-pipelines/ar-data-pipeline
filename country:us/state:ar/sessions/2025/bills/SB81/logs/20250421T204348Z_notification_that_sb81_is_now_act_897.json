@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "Notification that SB81 is now Act 897",
+    "date": "2025-04-21T20:43:48+00:00",
+    "organization_id": "~{\"classification\": \"upper\"}",
+    "classification": [
+      "executive-signature"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "SB 81"
+}

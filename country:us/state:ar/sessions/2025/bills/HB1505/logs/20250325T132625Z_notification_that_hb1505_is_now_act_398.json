@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "Notification that HB1505 is now Act 398",
+    "date": "2025-03-25T13:26:25+00:00",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [
+      "executive-signature"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "HB 1505"
+}

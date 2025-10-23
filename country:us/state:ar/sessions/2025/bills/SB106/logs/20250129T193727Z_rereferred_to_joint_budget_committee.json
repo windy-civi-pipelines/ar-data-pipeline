@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "Re-referred to JOINT BUDGET COMMITTEE",
+    "date": "2025-01-29T19:37:27+00:00",
+    "organization_id": "~{\"classification\": \"upper\"}",
+    "classification": [
+      "referral-committee"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "SB 106"
+}

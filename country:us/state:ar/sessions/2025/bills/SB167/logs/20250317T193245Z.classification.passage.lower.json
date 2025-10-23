@@ -1,0 +1,13 @@
+{
+  "action": {
+    "description": "Read the third time and passed and ordered transmitted to the Senate.",
+    "date": "2025-03-17T19:32:45+00:00",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [
+      "passage",
+      "reading-3"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "SB 167"
+}

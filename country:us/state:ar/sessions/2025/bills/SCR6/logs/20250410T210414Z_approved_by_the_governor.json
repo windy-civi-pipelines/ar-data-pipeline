@@ -1,0 +1,10 @@
+{
+  "action": {
+    "description": "Approved by the Governor.",
+    "date": "2025-04-10T21:04:14+00:00",
+    "organization_id": "~{\"classification\": \"upper\"}",
+    "classification": [],
+    "related_entities": []
+  },
+  "bill_id": "SCR 6"
+}

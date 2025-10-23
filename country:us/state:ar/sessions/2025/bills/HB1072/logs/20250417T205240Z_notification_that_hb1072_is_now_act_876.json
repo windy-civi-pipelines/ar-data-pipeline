@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "Notification that HB1072 is now Act 876",
+    "date": "2025-04-17T20:52:40+00:00",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [
+      "executive-signature"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "HB 1072"
+}

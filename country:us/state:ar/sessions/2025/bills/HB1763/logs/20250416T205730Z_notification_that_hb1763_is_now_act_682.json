@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "Notification that HB1763 is now Act 682",
+    "date": "2025-04-16T20:57:30+00:00",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [
+      "executive-signature"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "HB 1763"
+}

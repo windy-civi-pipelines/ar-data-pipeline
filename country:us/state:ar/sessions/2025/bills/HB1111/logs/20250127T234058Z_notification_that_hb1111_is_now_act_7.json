@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "Notification that HB1111 is now Act 7",
+    "date": "2025-01-27T23:40:58+00:00",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [
+      "executive-signature"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "HB 1111"
+}

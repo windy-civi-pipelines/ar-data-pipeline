@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "Re-referred to the Committee on INSURANCE & COMMERCE- HOUSE",
+    "date": "2025-03-10T21:07:57+00:00",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [
+      "referral-committee"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "HB 1238"
+}

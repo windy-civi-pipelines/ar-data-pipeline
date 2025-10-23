@@ -1,0 +1,10 @@
+{
+  "action": {
+    "description": "Returned to the Senate as requested.",
+    "date": "2025-04-08T19:03:44+00:00",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [],
+    "related_entities": []
+  },
+  "bill_id": "HB 1555"
+}

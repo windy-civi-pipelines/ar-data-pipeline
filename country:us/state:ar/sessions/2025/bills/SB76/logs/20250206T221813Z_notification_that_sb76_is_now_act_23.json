@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "Notification that SB76 is now Act 23",
+    "date": "2025-02-06T22:18:13+00:00",
+    "organization_id": "~{\"classification\": \"upper\"}",
+    "classification": [
+      "executive-signature"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "SB 76"
+}

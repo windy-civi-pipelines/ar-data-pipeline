@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "Notification that HB1271 is now Act 479",
+    "date": "2025-04-08T16:53:48+00:00",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [
+      "executive-signature"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "HB 1271"
+}

@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "Notification that SB33 is now Act 887",
+    "date": "2025-04-21T20:36:40+00:00",
+    "organization_id": "~{\"classification\": \"upper\"}",
+    "classification": [
+      "executive-signature"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "SB 33"
+}

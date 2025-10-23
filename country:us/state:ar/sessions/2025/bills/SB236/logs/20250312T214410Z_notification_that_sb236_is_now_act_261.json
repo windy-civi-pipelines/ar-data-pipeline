@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "Notification that SB236 is now Act 261",
+    "date": "2025-03-12T21:44:10+00:00",
+    "organization_id": "~{\"classification\": \"upper\"}",
+    "classification": [
+      "executive-signature"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "SB 236"
+}

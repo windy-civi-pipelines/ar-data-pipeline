@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "Notification that HB1171 is now Act 625",
+    "date": "2025-04-16T20:32:06+00:00",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [
+      "executive-signature"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "HB 1171"
+}

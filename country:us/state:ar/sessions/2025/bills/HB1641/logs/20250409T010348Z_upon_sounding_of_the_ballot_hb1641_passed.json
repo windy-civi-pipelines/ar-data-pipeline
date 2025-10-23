@@ -1,0 +1,10 @@
+{
+  "action": {
+    "description": "Upon Sounding of the Ballot HB1641 passed.",
+    "date": "2025-04-09T01:03:48+00:00",
+    "organization_id": "~{\"classification\": \"upper\"}",
+    "classification": [],
+    "related_entities": []
+  },
+  "bill_id": "HB 1641"
+}

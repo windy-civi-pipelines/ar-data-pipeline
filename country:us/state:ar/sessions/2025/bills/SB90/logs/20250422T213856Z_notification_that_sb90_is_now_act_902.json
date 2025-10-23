@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "Notification that SB90 is now Act 902",
+    "date": "2025-04-22T21:38:56+00:00",
+    "organization_id": "~{\"classification\": \"upper\"}",
+    "classification": [
+      "executive-signature"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "SB 90"
+}

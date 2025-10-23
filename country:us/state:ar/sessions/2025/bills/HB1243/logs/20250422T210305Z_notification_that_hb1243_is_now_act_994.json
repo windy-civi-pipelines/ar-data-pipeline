@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "Notification that HB1243 is now Act 994",
+    "date": "2025-04-22T21:03:05+00:00",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [
+      "executive-signature"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "HB 1243"
+}

@@ -1,0 +1,13 @@
+{
+  "action": {
+    "description": "Amendment No. 1 read and adopted and the bill ordered engrossed.",
+    "date": "2025-03-11T13:36:09+00:00",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [
+      "amendment-introduction",
+      "amendment-passage"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "HB 1467"
+}

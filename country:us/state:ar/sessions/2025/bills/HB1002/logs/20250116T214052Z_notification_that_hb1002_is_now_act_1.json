@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "Notification that HB1002 is now Act 1",
+    "date": "2025-01-16T21:40:52+00:00",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [
+      "executive-signature"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "HB 1002"
+}

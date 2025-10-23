@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "Notification that SB390 is now Act 695",
+    "date": "2025-04-18T20:55:03+00:00",
+    "organization_id": "~{\"classification\": \"upper\"}",
+    "classification": [
+      "executive-signature"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "SB 390"
+}

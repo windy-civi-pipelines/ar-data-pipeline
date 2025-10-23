@@ -1,0 +1,10 @@
+{
+  "action": {
+    "description": "Amendment #1 was withdrawn.",
+    "date": "2025-03-11T21:11:05+00:00",
+    "organization_id": "~{\"classification\": \"upper\"}",
+    "classification": [],
+    "related_entities": []
+  },
+  "bill_id": "SB 307"
+}

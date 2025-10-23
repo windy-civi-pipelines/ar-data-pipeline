@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "Notification that SB1 is now Act 9",
+    "date": "2025-01-27T19:42:42+00:00",
+    "organization_id": "~{\"classification\": \"upper\"}",
+    "classification": [
+      "executive-signature"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "SB 1"
+}

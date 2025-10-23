@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "Notification that HB1756 is now Act 803",
+    "date": "2025-04-17T20:22:35+00:00",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [
+      "executive-signature"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "HB 1756"
+}

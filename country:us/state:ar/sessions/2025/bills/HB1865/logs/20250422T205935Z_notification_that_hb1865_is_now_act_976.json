@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "Notification that HB1865 is now Act 976",
+    "date": "2025-04-22T20:59:35+00:00",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [
+      "executive-signature"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "HB 1865"
+}

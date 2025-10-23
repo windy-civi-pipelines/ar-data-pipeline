@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "Notification that HB1839 is now Act 692",
+    "date": "2025-04-16T21:03:01+00:00",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [
+      "executive-signature"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "HB 1839"
+}

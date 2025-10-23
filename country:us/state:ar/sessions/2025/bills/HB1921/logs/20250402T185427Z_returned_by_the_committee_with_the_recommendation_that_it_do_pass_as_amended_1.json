@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "Returned by the Committee with the recommendation that it do pass as amended 1",
+    "date": "2025-04-02T18:54:27+00:00",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [
+      "committee-passage"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "HB 1921"
+}

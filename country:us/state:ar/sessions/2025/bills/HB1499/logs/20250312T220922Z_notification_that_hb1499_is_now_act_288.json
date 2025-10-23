@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "Notification that HB1499 is now Act 288",
+    "date": "2025-03-12T22:09:22+00:00",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [
+      "executive-signature"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "HB 1499"
+}

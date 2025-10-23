@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "Notification that SB209 is now Act 273",
+    "date": "2025-03-12T21:45:43+00:00",
+    "organization_id": "~{\"classification\": \"upper\"}",
+    "classification": [
+      "executive-signature"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "SB 209"
+}

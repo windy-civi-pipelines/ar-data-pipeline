@@ -1,0 +1,10 @@
+{
+  "action": {
+    "description": "Motion to Extract HB1180 from Committee. Motion Failed.",
+    "date": "2025-03-31T23:11:38+00:00",
+    "organization_id": "~{\"classification\": \"upper\"}",
+    "classification": [],
+    "related_entities": []
+  },
+  "bill_id": "HB 1180"
+}

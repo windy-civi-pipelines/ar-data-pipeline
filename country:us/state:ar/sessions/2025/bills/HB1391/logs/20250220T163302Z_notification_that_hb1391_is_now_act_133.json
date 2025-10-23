@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "Notification that HB1391 is now Act 133",
+    "date": "2025-02-20T16:33:02+00:00",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [
+      "executive-signature"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "HB 1391"
+}

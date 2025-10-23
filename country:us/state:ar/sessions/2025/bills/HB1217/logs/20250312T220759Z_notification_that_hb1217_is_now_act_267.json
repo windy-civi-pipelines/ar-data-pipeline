@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "Notification that HB1217 is now Act 267",
+    "date": "2025-03-12T22:07:59+00:00",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [
+      "executive-signature"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "HB 1217"
+}

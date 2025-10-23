@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "Re-referred to STATE AGENCIES & GOVT'L AFFAIRS-SENATE",
+    "date": "2025-03-11T19:26:59+00:00",
+    "organization_id": "~{\"classification\": \"upper\"}",
+    "classification": [
+      "referral-committee"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "SB 353"
+}

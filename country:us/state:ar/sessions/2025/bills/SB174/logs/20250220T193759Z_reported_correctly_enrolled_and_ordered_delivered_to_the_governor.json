@@ -1,0 +1,10 @@
+{
+  "action": {
+    "description": "Reported correctly enrolled and ordered delivered to the Governor.",
+    "date": "2025-02-20T19:37:59+00:00",
+    "organization_id": "~{\"classification\": \"upper\"}",
+    "classification": [],
+    "related_entities": []
+  },
+  "bill_id": "SB 174"
+}

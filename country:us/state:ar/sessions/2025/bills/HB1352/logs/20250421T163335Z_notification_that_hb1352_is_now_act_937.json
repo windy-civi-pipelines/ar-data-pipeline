@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "Notification that HB1352 is now Act 937",
+    "date": "2025-04-21T16:33:35+00:00",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [
+      "executive-signature"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "HB 1352"
+}

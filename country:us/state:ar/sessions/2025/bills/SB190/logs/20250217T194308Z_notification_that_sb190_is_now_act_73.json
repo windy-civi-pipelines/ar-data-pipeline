@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "Notification that SB190 is now Act 73",
+    "date": "2025-02-17T19:43:08+00:00",
+    "organization_id": "~{\"classification\": \"upper\"}",
+    "classification": [
+      "executive-signature"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "SB 190"
+}

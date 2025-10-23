@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "Re-referred to PUBLIC RETIREMENT & SOCIAL SECURITY PROGRAMS-JOINT",
+    "date": "2025-03-31T18:39:49+00:00",
+    "organization_id": "~{\"classification\": \"upper\"}",
+    "classification": [
+      "referral-committee"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "SB 151"
+}

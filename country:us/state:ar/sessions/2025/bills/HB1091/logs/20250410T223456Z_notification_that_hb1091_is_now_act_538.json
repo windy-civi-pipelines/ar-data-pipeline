@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "Notification that HB1091 is now Act 538",
+    "date": "2025-04-10T22:34:56+00:00",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [
+      "executive-signature"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "HB 1091"
+}

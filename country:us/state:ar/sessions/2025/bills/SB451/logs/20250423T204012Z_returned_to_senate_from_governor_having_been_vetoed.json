@@ -1,0 +1,10 @@
+{
+  "action": {
+    "description": "Returned to Senate from Governor Having Been Vetoed",
+    "date": "2025-04-23T20:40:12+00:00",
+    "organization_id": "~{\"classification\": \"upper\"}",
+    "classification": [],
+    "related_entities": []
+  },
+  "bill_id": "SB 451"
+}

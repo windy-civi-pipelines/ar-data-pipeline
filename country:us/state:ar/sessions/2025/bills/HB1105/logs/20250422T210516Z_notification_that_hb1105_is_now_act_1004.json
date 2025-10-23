@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "Notification that HB1105 is now Act 1004",
+    "date": "2025-04-22T21:05:16+00:00",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [
+      "executive-signature"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "HB 1105"
+}

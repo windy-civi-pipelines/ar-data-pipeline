@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "Notification that HB1050 is now Act 12",
+    "date": "2025-01-30T19:26:59+00:00",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [
+      "executive-signature"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "HB 1050"
+}

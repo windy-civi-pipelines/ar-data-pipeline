@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "Notification that SB130 is now Act 534",
+    "date": "2025-04-10T21:03:06+00:00",
+    "organization_id": "~{\"classification\": \"upper\"}",
+    "classification": [
+      "executive-signature"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "SB 130"
+}

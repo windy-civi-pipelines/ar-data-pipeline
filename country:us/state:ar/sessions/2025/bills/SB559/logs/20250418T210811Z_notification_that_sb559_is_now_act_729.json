@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "Notification that SB559 is now Act 729",
+    "date": "2025-04-18T21:08:11+00:00",
+    "organization_id": "~{\"classification\": \"upper\"}",
+    "classification": [
+      "executive-signature"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "SB 559"
+}

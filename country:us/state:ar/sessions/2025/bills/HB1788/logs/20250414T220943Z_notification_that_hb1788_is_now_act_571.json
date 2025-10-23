@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "Notification that HB1788 is now Act 571",
+    "date": "2025-04-14T22:09:43+00:00",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [
+      "executive-signature"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "HB 1788"
+}

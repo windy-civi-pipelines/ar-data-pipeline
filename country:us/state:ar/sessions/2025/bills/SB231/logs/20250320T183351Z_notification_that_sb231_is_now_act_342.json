@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "Notification that SB231 is now Act 342",
+    "date": "2025-03-20T18:33:51+00:00",
+    "organization_id": "~{\"classification\": \"upper\"}",
+    "classification": [
+      "executive-signature"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "SB 231"
+}

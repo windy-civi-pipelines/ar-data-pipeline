@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "Notification that SB136 is now Act 201",
+    "date": "2025-02-27T21:43:57+00:00",
+    "organization_id": "~{\"classification\": \"upper\"}",
+    "classification": [
+      "executive-signature"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "SB 136"
+}

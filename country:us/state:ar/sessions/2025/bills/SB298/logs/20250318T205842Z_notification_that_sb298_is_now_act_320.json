@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "Notification that SB298 is now Act 320",
+    "date": "2025-03-18T20:58:42+00:00",
+    "organization_id": "~{\"classification\": \"upper\"}",
+    "classification": [
+      "executive-signature"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "SB 298"
+}

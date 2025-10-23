@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "Notification that SB135 is now Act 399",
+    "date": "2025-03-31T18:36:28+00:00",
+    "organization_id": "~{\"classification\": \"upper\"}",
+    "classification": [
+      "executive-signature"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "SB 135"
+}

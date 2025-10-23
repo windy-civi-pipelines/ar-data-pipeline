@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "Notification that HB1092 is now Act 785",
+    "date": "2025-04-17T16:56:58+00:00",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [
+      "executive-signature"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "HB 1092"
+}

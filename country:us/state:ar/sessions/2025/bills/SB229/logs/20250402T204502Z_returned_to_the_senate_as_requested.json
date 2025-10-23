@@ -1,0 +1,10 @@
+{
+  "action": {
+    "description": "Returned to the Senate as requested.",
+    "date": "2025-04-02T20:45:02+00:00",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [],
+    "related_entities": []
+  },
+  "bill_id": "SB 229"
+}

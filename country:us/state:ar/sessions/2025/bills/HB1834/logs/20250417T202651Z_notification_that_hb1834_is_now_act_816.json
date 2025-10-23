@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "Notification that HB1834 is now Act 816",
+    "date": "2025-04-17T20:26:51+00:00",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [
+      "executive-signature"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "HB 1834"
+}

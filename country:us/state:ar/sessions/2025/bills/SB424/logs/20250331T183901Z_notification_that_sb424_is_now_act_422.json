@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "Notification that SB424 is now Act 422",
+    "date": "2025-03-31T18:39:01+00:00",
+    "organization_id": "~{\"classification\": \"upper\"}",
+    "classification": [
+      "executive-signature"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "SB 424"
+}

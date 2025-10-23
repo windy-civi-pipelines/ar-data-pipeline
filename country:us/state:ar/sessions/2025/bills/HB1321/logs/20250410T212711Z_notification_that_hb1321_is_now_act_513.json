@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "Notification that HB1321 is now Act 513",
+    "date": "2025-04-10T21:27:11+00:00",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [
+      "executive-signature"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "HB 1321"
+}

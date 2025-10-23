@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "Notification that SB183 is now Act 724",
+    "date": "2025-04-18T21:05:47+00:00",
+    "organization_id": "~{\"classification\": \"upper\"}",
+    "classification": [
+      "executive-signature"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "SB 183"
+}

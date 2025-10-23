@@ -1,0 +1,10 @@
+{
+  "action": {
+    "description": "Motion to Expunge the Vote by which HB1725 failed to pass. Motion failed.",
+    "date": "2025-03-20T00:10:31+00:00",
+    "organization_id": "~{\"classification\": \"upper\"}",
+    "classification": [],
+    "related_entities": []
+  },
+  "bill_id": "HB 1725"
+}

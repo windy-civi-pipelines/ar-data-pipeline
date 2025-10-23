@@ -1,0 +1,10 @@
+{
+  "action": {
+    "description": "Motion to Expunge the Vote by which SB569 failed to pass. Motion carried.",
+    "date": "2025-04-10T20:24:30+00:00",
+    "organization_id": "~{\"classification\": \"upper\"}",
+    "classification": [],
+    "related_entities": []
+  },
+  "bill_id": "SB 569"
+}

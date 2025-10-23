@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "Notification that HB1080 is now Act 2",
+    "date": "2025-01-27T23:40:09+00:00",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [
+      "executive-signature"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "HB 1080"
+}

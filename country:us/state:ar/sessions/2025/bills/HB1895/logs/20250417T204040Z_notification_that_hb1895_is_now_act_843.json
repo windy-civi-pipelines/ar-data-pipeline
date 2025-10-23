@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "Notification that HB1895 is now Act 843",
+    "date": "2025-04-17T20:40:40+00:00",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [
+      "executive-signature"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "HB 1895"
+}

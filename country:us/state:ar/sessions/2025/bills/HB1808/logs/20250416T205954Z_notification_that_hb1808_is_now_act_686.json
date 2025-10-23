@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "Notification that HB1808 is now Act 686",
+    "date": "2025-04-16T20:59:54+00:00",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [
+      "executive-signature"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "HB 1808"
+}

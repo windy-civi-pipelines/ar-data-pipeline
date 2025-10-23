@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "Notification that HB1274 is now Act 521",
+    "date": "2025-04-10T21:27:37+00:00",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [
+      "executive-signature"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "HB 1274"
+}

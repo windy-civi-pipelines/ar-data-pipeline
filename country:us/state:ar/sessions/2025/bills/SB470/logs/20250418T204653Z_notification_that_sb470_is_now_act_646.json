@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "Notification that SB470 is now Act 646",
+    "date": "2025-04-18T20:46:53+00:00",
+    "organization_id": "~{\"classification\": \"upper\"}",
+    "classification": [
+      "executive-signature"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "SB 470"
+}

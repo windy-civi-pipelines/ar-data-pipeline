@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "Notification that SB134 is now Act 143",
+    "date": "2025-02-25T23:12:44+00:00",
+    "organization_id": "~{\"classification\": \"upper\"}",
+    "classification": [
+      "executive-signature"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "SB 134"
+}

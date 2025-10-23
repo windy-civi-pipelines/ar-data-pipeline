@@ -1,0 +1,10 @@
+{
+  "action": {
+    "description": "Section 1, page 4, Line 7 line-item vetoed",
+    "date": "2025-04-16T21:11:49+00:00",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [],
+    "related_entities": []
+  },
+  "bill_id": "HB 1265"
+}

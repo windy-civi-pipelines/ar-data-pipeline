@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "Notification that HB1638 is now Act 508",
+    "date": "2025-04-10T21:26:30+00:00",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [
+      "executive-signature"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "HB 1638"
+}

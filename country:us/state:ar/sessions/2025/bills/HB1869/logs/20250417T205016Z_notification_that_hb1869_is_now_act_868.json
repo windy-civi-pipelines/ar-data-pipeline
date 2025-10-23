@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "Notification that HB1869 is now Act 868",
+    "date": "2025-04-17T20:50:16+00:00",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [
+      "executive-signature"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "HB 1869"
+}

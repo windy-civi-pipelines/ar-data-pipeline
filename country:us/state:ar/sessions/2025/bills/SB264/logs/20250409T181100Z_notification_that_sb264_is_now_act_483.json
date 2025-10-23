@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "Notification that SB264 is now Act 483",
+    "date": "2025-04-09T18:11:00+00:00",
+    "organization_id": "~{\"classification\": \"upper\"}",
+    "classification": [
+      "executive-signature"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "SB 264"
+}

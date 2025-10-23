@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "Notification that HB1398 is now Act 352",
+    "date": "2025-03-20T15:45:27+00:00",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [
+      "executive-signature"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "HB 1398"
+}

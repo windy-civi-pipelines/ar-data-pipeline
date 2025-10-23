@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "Notification that HB1005 is now Act 14",
+    "date": "2025-02-03T19:33:29+00:00",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [
+      "executive-signature"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "HB 1005"
+}

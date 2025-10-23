@@ -1,0 +1,13 @@
+{
+  "action": {
+    "description": "Read the third time and passed.",
+    "date": "2025-03-19T21:53:32+00:00",
+    "organization_id": "~{\"classification\": \"upper\"}",
+    "classification": [
+      "passage",
+      "reading-3"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "HB 1271"
+}
