@@ -1,0 +1,259 @@
+Title: Stricken language would be deleted from and underlined language would be added to present law.
+Official Title: Stricken language would be deleted from and underlined language would be added to present law.
+Number of Sections: 1
+Source: versions - HB 1132
+Media Type: application/pdf
+Strikethrough Detection: 3 sections found
+
+================================================================================
+
+Section 1:
+1 State of Arkansas
+A Bill
+2 95th General Assembly
+3 Regular Session, 2025 HOUSE BILL 1132
+4
+5 By: Representative Pilkington
+6
+7
+For An Act To Be Entitled
+8
+9 AN ACT TO INCREASE ACCESS TO HEALTHCARE SERVICES
+10 PROVIDED BY ADVANCED PRACTICE REGISTERED NURSES; TO
+11 AMEND THE PRESCRIPTIVE AUTHORITY OF AN ADVANCED
+12 PRACTICE REGISTERED NURSE; AND FOR OTHER PURPOSES.
+13
+14
+Subtitle
+15
+16 TO INCREASE ACCESS TO HEALTHCARE
+17 SERVICES PROVIDED BY ADVANCED PRACTICE
+18 REGISTERED NURSES; AND TO AMEND THE
+19 PRESCRIPTIVE AUTHORITY OF AN ADVANCED
+20 PRACTICE REGISTERED NURSE.
+21
+22 BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF ARKANSAS:
+23
+24 SECTION 1. Arkansas Code § 17-87-310(a) and (b), concerning the
+25 prescriptive authority of an advanced practice registered nurse, are amended
+26 to read as follows:
+27 (a) The Arkansas State Board of Nursing may grant a certificate of
+28 prescriptive authority to an advanced practice registered nurse who:
+29 (1) Submits proof of successful completion of an Arkansas State
+30 Board of Nursing-approved advanced pharmacology course that shall include
+31 preceptorial experience in the prescription of drugs, medicines, and
+32 therapeutic devices; and
+33 (2) Has either:
+34 (A) A certificate of full independent practice authority
+35 under § 17-87-314; or
+36 (B) A collaborative practice agreement with a practicing
+*JMB091*
+01/14/2025 1:37:05 PM JMB091
+HB1132
+1 physician who is licensed under the Arkansas Medical Practices Act, § 17-95-
+2 201 et seq., § 17-95-301 et seq., and § 17-95-401 et seq., or a podiatrist
+3 licensed by the Arkansas Board of Podiatric Medicine under § 17-96-101 et
+4 seq., if employed by the podiatrist, and one (1) of the following healthcare
+5 professionals who has training in scope, specialty, or expertise to that of
+6 the advanced practice registered nurse on file with the Arkansas State Board
+7 of Nursing:
+8 (i) A practicing physician who is licensed under the
+9 Arkansas Medical Practices Act, § 17-95-201 et seq., § 17-95-301 et seq., and
+10 § 17-95-401 et seq.;
+11 (ii) A podiatrist licensed by the Arkansas Board of
+12 Podiatric Medicine under § 17-96-101 et seq., if employed by the podiatrist;
+13 or
+14 (iii) An advanced practice registered nurse who has
+15 a certificate of full independent practice authority under § 17-87-314.
+16 (b)(1) An advanced practice registered nurse with a certificate of
+17 prescriptive authority may receive and prescribe drugs, medicines, or
+18 therapeutic devices appropriate to the advanced practice registered nurse's
+19 area of practice in accordance with rules established by the Arkansas State
+20 Board of Nursing.
+21 (2)(A) An advanced practice registered nurse's prescriptive
+22 authority shall extend only to drugs listed in Schedules III — V and, if
+23 expressly authorized by the collaborative practice agreement, also to those
+24 hydrocodone combination products reclassified from Schedule III to Schedule
+25 II as of October 6, 2014.
+26 (B) An advanced practice registered nurse's prescriptive
+27 authority also extends to drugs listed in Schedule II if:
+28 (i) The prescription is for an opioid and the
+29 prescription is only for a five-day period or less; or
+30 (ii)(a) The prescription is for a stimulant.
+31 (b) A prescription for a stimulant shall meet
+32 the following criteria:
+33 (1) The prescription was originally
+34 initiated by a physician;
+35 (2) The physician has evaluated the
+36 patient within six (6) months before the advanced practice registered nurse
+2 01/14/2025 1:37:05 PM JMB091
+HB1132
+1 issues a prescription; and
+2 (3) The prescription by the advanced
+3 practice registered nurse is to treat the same condition as the original
+4 prescription.
+5 (B) The Arkansas State Board of Nursing shall adopt rules
+6 for safe and appropriate prescribing of stimulant medications listed in
+7 Schedule II.
+8 (3)(A) The Arkansas State Board of Nursing shall promptly adopt
+9 rules applicable to an advanced practice registered nurse that are consistent
+10 with the Arkansas State Medical Board's rules governing the prescription of
+11 dangerous drugs and controlled substances.
+12 (B) Before approval of the Arkansas State Board of
+13 Nursing's rules, the Arkansas State Medical Board shall review the proposed
+14 rules and verify that the proposed rules are consistent with the Arkansas
+15 State Medical Board's rules concerning the prescription of dangerous drugs
+16 and controlled substances.
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+3 01/14/2025 1:37:05 PM JMB091
+[DELETED:          A P A P   T S R P P  B   S p t  ( p   ( B p t   (    ( u    (]
+[DELETED: H2 0 p 2 l s p t o     ( A §     ( P o     ( a  ( p t a B   ( a e h I    ( a     ( p     (      ( t       ( i       ( p]
+[DELETED: H3 0 i       ( p p    ( f S   ( r w d    ( N r S a]
+
+
+================================================================================
+
+Raw Text:
+Stricken language would be deleted from and underlined language would be added to present law.
+1 State of Arkansas
+A Bill
+2 95th General Assembly
+3 Regular Session, 2025 HOUSE BILL 1132
+4
+5 By: Representative Pilkington
+6
+7
+For An Act To Be Entitled
+8
+9 AN ACT TO INCREASE ACCESS TO HEALTHCARE SERVICES
+10 PROVIDED BY ADVANCED PRACTICE REGISTERED NURSES; TO
+11 AMEND THE PRESCRIPTIVE AUTHORITY OF AN ADVANCED
+12 PRACTICE REGISTERED NURSE; AND FOR OTHER PURPOSES.
+13
+14
+Subtitle
+15
+16 TO INCREASE ACCESS TO HEALTHCARE
+17 SERVICES PROVIDED BY ADVANCED PRACTICE
+18 REGISTERED NURSES; AND TO AMEND THE
+19 PRESCRIPTIVE AUTHORITY OF AN ADVANCED
+20 PRACTICE REGISTERED NURSE.
+21
+22 BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF ARKANSAS:
+23
+24 SECTION 1. Arkansas Code § 17-87-310(a) and (b), concerning the
+25 prescriptive authority of an advanced practice registered nurse, are amended
+26 to read as follows:
+27 (a) The Arkansas State Board of Nursing may grant a certificate of
+28 prescriptive authority to an advanced practice registered nurse who:
+29 (1) Submits proof of successful completion of an Arkansas State
+30 Board of Nursing-approved advanced pharmacology course that shall include
+31 preceptorial experience in the prescription of drugs, medicines, and
+32 therapeutic devices; and
+33 (2) Has either:
+34 (A) A certificate of full independent practice authority
+35 under § 17-87-314; or
+36 (B) A collaborative practice agreement with a practicing
+*JMB091*
+01/14/2025 1:37:05 PM JMB091
+
+HB1132
+1 physician who is licensed under the Arkansas Medical Practices Act, § 17-95-
+2 201 et seq., § 17-95-301 et seq., and § 17-95-401 et seq., or a podiatrist
+3 licensed by the Arkansas Board of Podiatric Medicine under § 17-96-101 et
+4 seq., if employed by the podiatrist, and one (1) of the following healthcare
+5 professionals who has training in scope, specialty, or expertise to that of
+6 the advanced practice registered nurse on file with the Arkansas State Board
+7 of Nursing:
+8 (i) A practicing physician who is licensed under the
+9 Arkansas Medical Practices Act, § 17-95-201 et seq., § 17-95-301 et seq., and
+10 § 17-95-401 et seq.;
+11 (ii) A podiatrist licensed by the Arkansas Board of
+12 Podiatric Medicine under § 17-96-101 et seq., if employed by the podiatrist;
+13 or
+14 (iii) An advanced practice registered nurse who has
+15 a certificate of full independent practice authority under § 17-87-314.
+16 (b)(1) An advanced practice registered nurse with a certificate of
+17 prescriptive authority may receive and prescribe drugs, medicines, or
+18 therapeutic devices appropriate to the advanced practice registered nurse's
+19 area of practice in accordance with rules established by the Arkansas State
+20 Board of Nursing.
+21 (2)(A) An advanced practice registered nurse's prescriptive
+22 authority shall extend only to drugs listed in Schedules III — V and, if
+23 expressly authorized by the collaborative practice agreement, also to those
+24 hydrocodone combination products reclassified from Schedule III to Schedule
+25 II as of October 6, 2014.
+26 (B) An advanced practice registered nurse's prescriptive
+27 authority also extends to drugs listed in Schedule II if:
+28 (i) The prescription is for an opioid and the
+29 prescription is only for a five-day period or less; or
+30 (ii)(a) The prescription is for a stimulant.
+31 (b) A prescription for a stimulant shall meet
+32 the following criteria:
+33 (1) The prescription was originally
+34 initiated by a physician;
+35 (2) The physician has evaluated the
+36 patient within six (6) months before the advanced practice registered nurse
+2 01/14/2025 1:37:05 PM JMB091
+
+HB1132
+1 issues a prescription; and
+2 (3) The prescription by the advanced
+3 practice registered nurse is to treat the same condition as the original
+4 prescription.
+5 (B) The Arkansas State Board of Nursing shall adopt rules
+6 for safe and appropriate prescribing of stimulant medications listed in
+7 Schedule II.
+8 (3)(A) The Arkansas State Board of Nursing shall promptly adopt
+9 rules applicable to an advanced practice registered nurse that are consistent
+10 with the Arkansas State Medical Board's rules governing the prescription of
+11 dangerous drugs and controlled substances.
+12 (B) Before approval of the Arkansas State Board of
+13 Nursing's rules, the Arkansas State Medical Board shall review the proposed
+14 rules and verify that the proposed rules are consistent with the Arkansas
+15 State Medical Board's rules concerning the prescription of dangerous drugs
+16 and controlled substances.
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+3 01/14/2025 1:37:05 PM JMB091
+
+[DELETED:          A P A P   T S R P P  B   S p t  ( p   ( B p t   (    ( u    (]
+[DELETED: H2 0 p 2 l s p t o     ( A §     ( P o     ( a  ( p t a B   ( a e h I    ( a     ( p     (      ( t       ( i       ( p]
+[DELETED: H3 0 i       ( p p    ( f S   ( r w d    ( N r S a]

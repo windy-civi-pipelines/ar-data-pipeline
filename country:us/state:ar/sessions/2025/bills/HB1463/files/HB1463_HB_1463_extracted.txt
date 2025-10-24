@@ -1,0 +1,259 @@
+Title: Stricken language would be deleted from and underlined language would be added to present law.
+Official Title: Stricken language would be deleted from and underlined language would be added to present law.
+Number of Sections: 1
+Source: versions - HB 1463
+Media Type: application/pdf
+Strikethrough Detection: 3 sections found
+
+================================================================================
+
+Section 1:
+1 State of Arkansas As Engrossed: H2/24/25
+A Bill
+2 95th General Assembly
+3 Regular Session, 2025 HOUSE BILL 1463
+4
+5 By: Representatives Hudson, L. Johnson
+6 By: Senator G. Leding
+7
+For An Act To Be Entitled
+8
+9 AN ACT TO PROHIBIT DISCLOSURE OF NEUROPSYCHOLOGICAL
+10 OR PSYCHOLOGICAL TEST MATERIALS OR TEST DATA; AND FOR
+11 OTHER PURPOSES.
+12
+13
+Subtitle
+14
+15 TO PROHIBIT DISCLOSURE OF
+16 NEUROPSYCHOLOGICAL OR PSYCHOLOGICAL TEST
+17 MATERIALS OR TEST DATA.
+18
+19 BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF ARKANSAS:
+20
+21 SECTION 1. Arkansas Code Title 17, Chapter 97, Subchapter 1, is
+22 amended to add an additional section to read as follows:
+23 17-97-106. Disclosure of neuropsychological or psychological test
+24 materials or test data — Definitions.
+25 (a) As used in this section:
+26 (1) "Neuropsychological evaluation" means a testing method
+27 through which a neuropsychologist or a psychologist can acquire data about a
+28 person's cognitive, behavioral, and emotional functioning for purposes of
+29 diagnosing or confirming a diagnosis of cognitive deficiencies or
+30 abnormalities in the central nervous system;
+31 (2) "Neuropsychological or psychological test data" means raw
+32 and scaled scores, a person's responses to test questions or stimuli, a
+33 neuropsychologist's or psychologist's notes and recordings concerning the
+34 person's statements and behavior during a neuropsychological evaluation or
+35 psychological evaluation, and the portions of neuropsychological or
+36 psychological test materials that include the person's responses;
+*JMB199*
+02-24-2025 10:01:55 JMB199
+As Engrossed: H2/24/25 HB1463
+1 (3) "Neuropsychological or psychological test materials" means
+2 manuals, instruments, protocols, assessment devices, scoring keys, test
+3 questions, and stimuli used in conducting a neuropsychological evaluation or
+4 psychological evaluation; and
+5 (4) "Psychological evaluation" means a testing method through
+6 which a psychologist can acquire data about a person's cognitive and
+7 emotional functioning for purposes of determining cognitive ability,
+8 diagnosing a mental health condition, or confirming a mental health
+9 diagnosis.
+10 (b)(1) Except as provided under subdivision (b)(2) and subsection (c)
+11 of this section, neuropsychological or psychological test materials shall not
+12 be disclosed to anyone, including the person who is the subject of the test,
+13 and are not subject to disclosure in any administrative, judicial, or
+14 legislative proceeding.
+15 (2) A neuropsychologist or psychologist is not prohibited from
+16 offering a third party his or her testimony, expert testimony, written
+17 reports, or written communications, or any combination, based on his or her
+18 review of the neuropsychological or psychological test materials.
+19 (c)(1) A person who is the subject of a neuropsychological evaluation
+20 or psychological evaluation may have all records relating to that evaluation,
+21 including neuropsychological or psychological test materials and
+22 neuropsychological or psychological test data, disclosed to any
+23 neuropsychologist or psychologist who is qualified to evaluate the test
+24 results and who is designated by the person to evaluate the test results.
+25 (2) A neuropsychologist or psychologist designated to receive
+26 records under subdivision (c)(1) of this section shall not disclose the
+27 neuropsychological or psychological test materials to another person.
+28 (d)(1) Except as provided in subdivision (d)(3) of this section, to
+29 ensure test security, a third-party observer shall not be present during the
+30 administration of psychological or neuropsychological tests.
+31 (2) A third-party observer includes without limitation a family
+32 member, attorney, and insurance representative.
+33 (3) Subdivision (d)(1) of this section does not apply if:
+34 (A) The individual being tested has requested and received
+35 an accommodation under the Americans with Disabilities Act of 1990, as
+36 amended, 42 U.S.C. § 12101 et seq., to have an aide present;
+2 02-24-2025 10:01:55 JMB199
+As Engrossed: H2/24/25 HB1463
+1 (B) The individual does not adequately speak the language
+2 in which the test is formatted and requires a professional language
+3 interpreter;
+4 (C) The individual is a minor and the third-party
+5 observer’s presence is deemed necessary and appropriate by the examining
+6 licensed psychologist or other licensee who is properly trained in test
+7 administration and interpretation to facilitate the testing process;
+8 (D) The individual is being observed by a licensed psychologist or
+9 other licensee who is properly trained in test administration and
+10 interpretation to facilitate the supervision of a trainee;
+11 (E) The individual or the circumstances present a
+12 legitimate safety concern and the third-party observer is a security guard or
+13 law enforcement officer; or
+14 (F)(i) The individual and the neuropsychologist or
+15 psychologist consent to an unmanned, unobtrusive camera, video recording
+16 device, or audio recording device that does not interfere with the
+17 neuropsychological evaluation or psychological evaluation.
+18 (ii) A recording made under subdivision (d)(3)(F)(i)
+19 of this section may be provided to a neuropsychologist or psychologist or
+20 under a protective order.
+21 (4)(A) The Attorney General’s office shall retain its
+22 investigatory and subpoena powers under § 5-28-107, § 5-55-104, § 5-55-114, §
+23 20-77-901 et seq., and § 25-16-705.
+24 (B) The Arkansas State Medical Board shall retain its
+25 investigatory and subpoena powers under § 17-95-304.
+26 (C) The Arkansas Psychology Board shall retain its
+27 investigatory powers under § 17-97-311.
+28 (D) The Attorney General’s office, the Arkansas State
+29 Medical Board, and the Arkansas Psychology Board shall be able to access and
+30 use any records obtained that would otherwise be subject to subsection (b) of
+31 this section in any legal, administrative, or judicial proceeding.
+32
+33 /s/Hudson
+34
+35
+36
+3 02-24-2025 10:01:55 JMB199
+[DELETED:  A       A O O   T N M  B   S a  1 m  (   ( t p d a   ( a n p p p]
+[DELETED:  H2 0   ( m q p   ( w e d d  ( o b a l   ( o r r  ( o i n n r   ( r n  ( e a   ( m     (    ( a a]
+[DELETED:  H3 0    ( i i    ( o l a   ( o i    ( l l    ( p d n     ( o u   ( i 2    ( i    ( i    ( M u t  /   ]
+
+
+================================================================================
+
+Raw Text:
+Stricken language would be deleted from and underlined language would be added to present law.
+1 State of Arkansas As Engrossed: H2/24/25
+A Bill
+2 95th General Assembly
+3 Regular Session, 2025 HOUSE BILL 1463
+4
+5 By: Representatives Hudson, L. Johnson
+6 By: Senator G. Leding
+7
+For An Act To Be Entitled
+8
+9 AN ACT TO PROHIBIT DISCLOSURE OF NEUROPSYCHOLOGICAL
+10 OR PSYCHOLOGICAL TEST MATERIALS OR TEST DATA; AND FOR
+11 OTHER PURPOSES.
+12
+13
+Subtitle
+14
+15 TO PROHIBIT DISCLOSURE OF
+16 NEUROPSYCHOLOGICAL OR PSYCHOLOGICAL TEST
+17 MATERIALS OR TEST DATA.
+18
+19 BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF ARKANSAS:
+20
+21 SECTION 1. Arkansas Code Title 17, Chapter 97, Subchapter 1, is
+22 amended to add an additional section to read as follows:
+23 17-97-106. Disclosure of neuropsychological or psychological test
+24 materials or test data — Definitions.
+25 (a) As used in this section:
+26 (1) "Neuropsychological evaluation" means a testing method
+27 through which a neuropsychologist or a psychologist can acquire data about a
+28 person's cognitive, behavioral, and emotional functioning for purposes of
+29 diagnosing or confirming a diagnosis of cognitive deficiencies or
+30 abnormalities in the central nervous system;
+31 (2) "Neuropsychological or psychological test data" means raw
+32 and scaled scores, a person's responses to test questions or stimuli, a
+33 neuropsychologist's or psychologist's notes and recordings concerning the
+34 person's statements and behavior during a neuropsychological evaluation or
+35 psychological evaluation, and the portions of neuropsychological or
+36 psychological test materials that include the person's responses;
+*JMB199*
+02-24-2025 10:01:55 JMB199
+
+As Engrossed: H2/24/25 HB1463
+1 (3) "Neuropsychological or psychological test materials" means
+2 manuals, instruments, protocols, assessment devices, scoring keys, test
+3 questions, and stimuli used in conducting a neuropsychological evaluation or
+4 psychological evaluation; and
+5 (4) "Psychological evaluation" means a testing method through
+6 which a psychologist can acquire data about a person's cognitive and
+7 emotional functioning for purposes of determining cognitive ability,
+8 diagnosing a mental health condition, or confirming a mental health
+9 diagnosis.
+10 (b)(1) Except as provided under subdivision (b)(2) and subsection (c)
+11 of this section, neuropsychological or psychological test materials shall not
+12 be disclosed to anyone, including the person who is the subject of the test,
+13 and are not subject to disclosure in any administrative, judicial, or
+14 legislative proceeding.
+15 (2) A neuropsychologist or psychologist is not prohibited from
+16 offering a third party his or her testimony, expert testimony, written
+17 reports, or written communications, or any combination, based on his or her
+18 review of the neuropsychological or psychological test materials.
+19 (c)(1) A person who is the subject of a neuropsychological evaluation
+20 or psychological evaluation may have all records relating to that evaluation,
+21 including neuropsychological or psychological test materials and
+22 neuropsychological or psychological test data, disclosed to any
+23 neuropsychologist or psychologist who is qualified to evaluate the test
+24 results and who is designated by the person to evaluate the test results.
+25 (2) A neuropsychologist or psychologist designated to receive
+26 records under subdivision (c)(1) of this section shall not disclose the
+27 neuropsychological or psychological test materials to another person.
+28 (d)(1) Except as provided in subdivision (d)(3) of this section, to
+29 ensure test security, a third-party observer shall not be present during the
+30 administration of psychological or neuropsychological tests.
+31 (2) A third-party observer includes without limitation a family
+32 member, attorney, and insurance representative.
+33 (3) Subdivision (d)(1) of this section does not apply if:
+34 (A) The individual being tested has requested and received
+35 an accommodation under the Americans with Disabilities Act of 1990, as
+36 amended, 42 U.S.C. § 12101 et seq., to have an aide present;
+2 02-24-2025 10:01:55 JMB199
+
+As Engrossed: H2/24/25 HB1463
+1 (B) The individual does not adequately speak the language
+2 in which the test is formatted and requires a professional language
+3 interpreter;
+4 (C) The individual is a minor and the third-party
+5 observer’s presence is deemed necessary and appropriate by the examining
+6 licensed psychologist or other licensee who is properly trained in test
+7 administration and interpretation to facilitate the testing process;
+8 (D) The individual is being observed by a licensed psychologist or
+9 other licensee who is properly trained in test administration and
+10 interpretation to facilitate the supervision of a trainee;
+11 (E) The individual or the circumstances present a
+12 legitimate safety concern and the third-party observer is a security guard or
+13 law enforcement officer; or
+14 (F)(i) The individual and the neuropsychologist or
+15 psychologist consent to an unmanned, unobtrusive camera, video recording
+16 device, or audio recording device that does not interfere with the
+17 neuropsychological evaluation or psychological evaluation.
+18 (ii) A recording made under subdivision (d)(3)(F)(i)
+19 of this section may be provided to a neuropsychologist or psychologist or
+20 under a protective order.
+21 (4)(A) The Attorney General’s office shall retain its
+22 investigatory and subpoena powers under § 5-28-107, § 5-55-104, § 5-55-114, §
+23 20-77-901 et seq., and § 25-16-705.
+24 (B) The Arkansas State Medical Board shall retain its
+25 investigatory and subpoena powers under § 17-95-304.
+26 (C) The Arkansas Psychology Board shall retain its
+27 investigatory powers under § 17-97-311.
+28 (D) The Attorney General’s office, the Arkansas State
+29 Medical Board, and the Arkansas Psychology Board shall be able to access and
+30 use any records obtained that would otherwise be subject to subsection (b) of
+31 this section in any legal, administrative, or judicial proceeding.
+32
+33 /s/Hudson
+34
+35
+36
+3 02-24-2025 10:01:55 JMB199
+
+[DELETED:  A       A O O   T N M  B   S a  1 m  (   ( t p d a   ( a n p p p]
+[DELETED:  H2 0   ( m q p   ( w e d d  ( o b a l   ( o r r  ( o i n n r   ( r n  ( e a   ( m     (    ( a a]
+[DELETED:  H3 0    ( i i    ( o l a   ( o i    ( l l    ( p d n     ( o u   ( i 2    ( i    ( i    ( M u t  /   ]

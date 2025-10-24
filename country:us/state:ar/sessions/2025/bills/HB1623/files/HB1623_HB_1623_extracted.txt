@@ -1,0 +1,101 @@
+Title: Stricken language would be deleted from and underlined language would be added to present law.
+Official Title: Stricken language would be deleted from and underlined language would be added to present law.
+Number of Sections: 1
+Source: versions - HB 1623
+Media Type: application/pdf
+Strikethrough Detection: 1 sections found
+
+================================================================================
+
+Section 1:
+1 State of Arkansas
+A Bill
+2 95th General Assembly
+3 Regular Session, 2025 HOUSE BILL 1623
+4
+5 By: Representative J. Moore
+6 By: Senator B. Johnson
+7
+For An Act To Be Entitled
+8
+9 AN ACT TO EXEMPT H-2A VISA PROGRAM PARTICIPANTS WHO
+10 HAVE A VALID INTERNATIONAL DRIVER'S LICENSE OR PERMIT
+11 FROM THE SKILLS PORTION OF THE DRIVER'S LICENSE
+12 EXAMINATION; AND FOR OTHER PURPOSES.
+13
+14
+Subtitle
+15
+16 TO EXEMPT H-2A VISA PROGRAM PARTICIPANTS
+17 WHO HAVE A VALID INTERNATIONAL DRIVER'S
+18 LICENSE OR PERMIT FROM THE SKILLS
+19 PORTION OF THE DRIVER'S LICENSE
+20 EXAMINATION.
+21
+22 BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF ARKANSAS:
+23
+24 SECTION 1. Arkansas Code § 27-16-704, concerning examinations of
+25 applicants for a driver's license, is amended to add an additional subsection
+26 to read as follows:
+27 (d) An applicant who is a foreign national and certified as a
+28 Temporary Agricultural Worker Program participant under section H-2A of the
+29 Immigration and Nationality Act, 8 U.S.C. § 1160, as existing on January 1,
+30 2025, is not required to demonstrate his or her ability to operate a motor
+31 vehicle or to complete the skills portion of a driver's license examination
+32 if he or she:
+33 (1) Has an official International Driving Permit; and
+34 (2) Presents the International Driving Permit under subdivision
+35 (d)(1) of this section when sitting for the written portion of the driver's
+36 license examination.
+*JMB435*
+02/27/2025 2:32:42 PM JMB435
+[DELETED:          A H F E   T W L P E  B   S a t  ( T I 2 v i   (   ( ( l]
+
+
+================================================================================
+
+Raw Text:
+Stricken language would be deleted from and underlined language would be added to present law.
+1 State of Arkansas
+A Bill
+2 95th General Assembly
+3 Regular Session, 2025 HOUSE BILL 1623
+4
+5 By: Representative J. Moore
+6 By: Senator B. Johnson
+7
+For An Act To Be Entitled
+8
+9 AN ACT TO EXEMPT H-2A VISA PROGRAM PARTICIPANTS WHO
+10 HAVE A VALID INTERNATIONAL DRIVER'S LICENSE OR PERMIT
+11 FROM THE SKILLS PORTION OF THE DRIVER'S LICENSE
+12 EXAMINATION; AND FOR OTHER PURPOSES.
+13
+14
+Subtitle
+15
+16 TO EXEMPT H-2A VISA PROGRAM PARTICIPANTS
+17 WHO HAVE A VALID INTERNATIONAL DRIVER'S
+18 LICENSE OR PERMIT FROM THE SKILLS
+19 PORTION OF THE DRIVER'S LICENSE
+20 EXAMINATION.
+21
+22 BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF ARKANSAS:
+23
+24 SECTION 1. Arkansas Code § 27-16-704, concerning examinations of
+25 applicants for a driver's license, is amended to add an additional subsection
+26 to read as follows:
+27 (d) An applicant who is a foreign national and certified as a
+28 Temporary Agricultural Worker Program participant under section H-2A of the
+29 Immigration and Nationality Act, 8 U.S.C. § 1160, as existing on January 1,
+30 2025, is not required to demonstrate his or her ability to operate a motor
+31 vehicle or to complete the skills portion of a driver's license examination
+32 if he or she:
+33 (1) Has an official International Driving Permit; and
+34 (2) Presents the International Driving Permit under subdivision
+35 (d)(1) of this section when sitting for the written portion of the driver's
+36 license examination.
+*JMB435*
+02/27/2025 2:32:42 PM JMB435
+
+[DELETED:          A H F E   T W L P E  B   S a t  ( T I 2 v i   (   ( ( l]

@@ -1,0 +1,654 @@
+Title: Stricken language would be deleted from and underlined language would be added to present law.
+Official Title: Stricken language would be deleted from and underlined language would be added to present law.
+Number of Sections: 1
+Source: versions - HB 1537
+Media Type: application/pdf
+Strikethrough Detection: 8 sections found
+
+================================================================================
+
+Section 1:
+1 State of Arkansas
+A Bill
+2 95th General Assembly
+3 Regular Session, 2025 HOUSE BILL 1537
+4
+5 By: Representatives Ladyman, McGruder
+6 By: Senator Dees
+7
+For An Act To Be Entitled
+8
+9 AN ACT TO REPEAL THE LOCATION ACT FOR COMMUNITY HOMES
+10 FOR INDIVIDUALS WITH INTELLECTUAL AND DEVELOPMENTAL
+11 DISABILITIES; AND FOR OTHER PURPOSES.
+12
+13
+Subtitle
+14
+15 TO REPEAL THE LOCATION ACT FOR COMMUNITY
+16 HOMES FOR INDIVIDUALS WITH INTELLECTUAL
+17 AND DEVELOPMENTAL DISABILITIES.
+18
+19 BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF ARKANSAS:
+20
+21 SECTION 1. Arkansas Code § 9-28-402(12)(F), concerning the definition
+22 of "exempt child welfare agency" within the Child Welfare Agency Licensing
+23 Act, is amended to read as follows:
+24 (F) Human development centers regulated by the Board of
+25 Developmental Disabilities Services pursuant to the Location Act for
+26 Community Homes for Individuals with Intellectual and Developmental
+27 Disabilities, § 20-48-601 et seq.;
+28
+29 SECTION 2. Arkansas Code Title 20, Chapter 48, Subchapter 6, is
+30 repealed.
+31 Subchapter 6 — Location Act for Community Homes for Individuals with
+32 Intellectual and Developmental Disabilities
+33
+34 20-48-601. Title.
+35 This subchapter shall be known as the “Location Act for Community Homes
+36 for Individuals with Intellectual and Developmental Disabilities”.
+*JMB166*
+02/20/2025 9:07:29 AM JMB166
+HB1537
+1
+2 20-48-602. Purpose.
+3 (a) The General Assembly declares that it is the goal of this
+4 subchapter to improve the quality of life of all individuals with
+5 intellectual or other developmental disabilities and to integrate individuals
+6 with intellectual or other developmental disabilities into the mainstream of
+7 society by ensuring them the availability of community residential
+8 opportunities in the residential areas of this state.
+9 (b) In order to implement this goal, this subchapter should be
+10 liberally construed toward that end.
+11
+12 20-48-603. Definitions.
+13 As used in this subchapter, unless the context otherwise requires:
+14 (1) “Individual with an intellectual and developmental
+15 disability” means a person with an intellectual and developmental disability
+16 as defined in this section;
+17 (2) “Intellectual and developmental disability” means the same
+18 as defined in § 20-48-101;
+19 (3) “Division” means the Division of Developmental Disabilities
+20 Services or the staff of the division where the context so indicates;
+21 (4) “Family Home I” means a community-based residential home
+22 licensed by the division that provides room and board, personal care,
+23 habilitation services, and supervision in a single-family environment for not
+24 more than eight (8) individuals with developmental disabilities;
+25 (5) “Family Home II” means a community-based residential home
+26 licensed by the division that provides room and board, personal care,
+27 habilitation services, and supervision in a multifamily environment for more
+28 than eight (8) but fewer than sixteen (16) individuals with developmental
+29 disabilities;
+30 (6) “Permitted use” means a use by right that is authorized in
+31 residential zoning districts; and
+32 (7) “Political subdivision” means a county or municipal
+33 corporation and includes any boards, commissions, or councils governing land
+34 use on behalf of the political subdivision.
+35
+36 20-48-604. Zoning — Permitted use.
+2 02/20/2025 9:07:29 AM JMB166
+HB1537
+1 (a) A Family Home I is a residential use of property for the purposes
+2 of zoning and shall be treated as a permitted use in all residential zones or
+3 districts, including all single-family residential zones or districts of all
+4 political subdivisions. No political subdivision may require that a Family
+5 Home I or its owner or operator obtain a conditional use permit, special use
+6 permit, special exception, or variance.
+7 (b) A Family Home II is a multifamily residential use of a property
+8 for the purpose of zoning and shall be treated as a permitted use in all
+9 zoning districts of all political subdivisions allowing multifamily uses. No
+10 political subdivision may require that a Family Home II or its owner or
+11 operator obtain a conditional use permit, special use permit, special
+12 exception, or variance.
+13
+14 20-48-605. Issuance and renewal of licenses.
+15 (a) For the purposes of safeguarding the health and safety of
+16 individuals with intellectual or other developmental disabilities and
+17 avoiding over-concentration of Family Homes I and Family Homes II, either
+18 alone or in conjunction with similar community-based residences, the Division
+19 of Developmental Disabilities Services shall inspect and license the
+20 operation of family homes and may renew or revoke their licenses.
+21 (b) A license is valid for one (1) year from the date it is issued or
+22 renewed although the division may inspect the homes more frequently, if
+23 needed.
+24 (c) The division shall not issue or renew and may revoke the license
+25 of a family home not operating in compliance with this section and rules
+26 adopted hereunder.
+27
+28 20-48-606. Rules — Density control.
+29 (a) The Division of Developmental Disabilities Services shall
+30 promulgate rules pursuant to the Arkansas Administrative Procedure Act, § 25-
+31 15-201 et seq., which shall encompass the following matters:
+32 (1)(A) Limits on the number of new Family Homes I and Family
+33 Homes II to be permitted on blocks, block faces, and other appropriate
+34 geographic areas taking into account the existing residential population
+35 density and the number, occupancy, and location of similar community
+36 residential facilities serving persons in drug, alcohol, juvenile, child,
+3 02/20/2025 9:07:29 AM JMB166
+HB1537
+1 parole, and other treatment programs as well as any other dissimilar
+2 facilities such as public housing, soup kitchens at churches, and boarding
+3 homes.
+4 (B) Density limits as follows:
+5 City Population Total Number of Homes I and II
+6 1,000 or fewer 1
+7 1,001 — 9,999 1 for every 2,000
+8 10,000 — 49,000 1 for every 3,000
+9 50,000 — 249,000 1 for every 10,000
+10 250,000 — 1 for every 20,000
+11 (C) There shall be three hundred feet (300′) between family
+12 homes unless otherwise permitted by local ordinance. There shall be three
+13 thousand feet (3,000′) between family homes in cities over thirty thousand
+14 (30,000) population unless otherwise permitted by local ordinance;
+15 (2) Assurance that adequate arrangements are made for the
+16 residents of family homes to receive such care and habilitation as are
+17 necessary and appropriate to their needs and to further their progress
+18 towards independent living and that they have access to appropriate services
+19 such as public transportation, health care, recreation facilities, and
+20 shopping centers;
+21 (3) Protection of the health and safety of the residents of
+22 Family Homes I and Family Homes II, however, compliance with these rules
+23 shall not relieve the owner or operator of any Family Home I or Family Home
+24 II of the obligation to comply with the requirements or standards of a
+25 political subdivision pertaining to setback, lot size, flood zones, outside
+26 appearance, building, housing, health, fire, safety, and motor vehicle
+27 parking space that generally apply to single-family residences in the zoning
+28 district for Family Homes I or multifamily use districts for Family Homes II.
+29 No requirements for business licenses, gross receipt taxes, environmental
+30 impact studies, or clearances may be imposed on the homes if those fees,
+31 taxes, or clearances are not imposed on all structures in the zoning district
+32 housing a like number of persons; and
+33 (4)(A) Procedures by which any resident of a residential zoning
+34 district or the governing body of a political subdivision in which a Family
+35 Home I or Family Home II is or is to be located may petition the division to
+36 deny an application for a license to operate a Family Home I or Family Home
+4 02/20/2025 9:07:29 AM JMB166
+HB1537
+1 II on the grounds that the operation of the home would be in violation of the
+2 limits established pursuant to subdivision (a)(1)(A) or subdivision (a)(1)(B)
+3 of this section or that the proposed location is an area of high risk to the
+4 health and safety of the residents of the family home.
+5 (B) Petitions claiming the high-risk-area basis for denial
+6 must set forth and document one (1) or more of the following high-risk
+7 rationales:
+8 (i) High crime area;
+9 (ii) Close proximity to stored hazardous materials;
+10 (iii) Dangerous traffic pattern;
+11 (iv) Frequent flooding; or
+12 (v) Insufficient fire protection.
+13 (b) The division shall furnish a copy of proposed rules promulgated
+14 hereunder to the Arkansas Municipal League, the Association of Arkansas
+15 Counties, and the Capitol Zoning District Commission at least thirty (30)
+16 days before the public hearing to be held thereon.
+17
+18 20-48-607. Application for license.
+19 (a) All applicants for a license to operate a Family Home I or Family
+20 Home II shall apply to the Division of Developmental Disabilities Services
+21 for the license and shall file a copy of the application with the governing
+22 body of the political subdivision having jurisdiction over the zoning of the
+23 land on which the Family Home I or Family Home II is to be located.
+24 (b) Notice of the application shall be sent by mail addressed to the
+25 resident as listed in the city directory or occupant of all buildings located
+26 within two hundred feet (200′) of the proposed site.
+27 (c)(1) All applicants shall post a sign not less than twelve inches by
+28 eighteen inches (12″ x 18″) at the site.
+29 (2) The sign shall contain such statements as required by rules
+30 promulgated pursuant to this subchapter.
+31 (d) All applications must include population and occupancy statistics
+32 reflecting compliance with the limits established pursuant to § 20-48-
+33 606(a)(1)(A) and (B).
+34 (e) The division may not issue a license for a family home until the
+35 applicant has submitted proof of filing with the governing body of the
+36 political subdivision having jurisdiction over the zoning of the land on
+5 02/20/2025 9:07:29 AM JMB166
+HB1537
+1 which the home is to be located a copy of the application at least thirty
+2 (30) days before the granting of the license and any amendment of the
+3 application increasing the number of residents to be served at least fifteen
+4 (15) days before the granting of a license.
+5
+6 20-48-608. List of family homes.
+7 In order to facilitate the implementation of § 20-48-606(a)(1)(A) and
+8 (B), the Division of Developmental Disabilities Services of the Department of
+9 Human Services shall maintain a list of the location, capacity, and current
+10 occupancy of all Family Homes I and Family Homes II. The division shall
+11 ensure that this list shall not contain the names or other identifiable
+12 information about any residents of the homes and that copies of this list
+13 shall be available to any resident of this state and any state agency or
+14 political subdivision upon request.
+15
+16 20-48-609. Comprehensive plans.
+17 (a) Any political subdivision which currently has zoning restrictions
+18 or hereafter adopts zoning restrictions may develop a comprehensive plan for
+19 providing adequate sites for Family Homes I and Family Homes II and submit
+20 the plan to the Division of Developmental Disabilities Services of the
+21 Department of Human Services along with population and occupancy statistics
+22 reflecting compliance with the limits established pursuant to § 20-48-
+23 606(a)(1)(A) and (B).
+24 (b) The plan may also delineate unsuitable sites due to high risks set
+25 forth in § 20-48-606(4).
+26 (c) The division shall thereafter consult the comprehensive plan filed
+27 by the political subdivision in considering licensure of Family Homes I and
+28 Family Homes II for that political subdivision.
+29
+30 20-48-610. Compliance with appearance or structural requirements in
+31 certain districts.
+32 Nothing in this subchapter shall be construed as relieving the owner or
+33 operator of any Family Home I or Family Home II of the obligation to comply
+34 with outside appearance requirements or structural requirements for location
+35 of a Family Home I or Family Home II within a local historic district or
+36 within the Capitol Zoning District.
+6 02/20/2025 9:07:29 AM JMB166
+HB1537
+1
+2 20-48-611. Restriction by private property agreement void.
+3 (a) Any restriction, reservation, condition, exception, or covenant in
+4 any subdivision plan, deed, or other instrument of or pertaining to the
+5 transfer, sale, lease, or use of property that would permit residential use
+6 of property but prohibit the use of the property as a Family Home I or Family
+7 Home II for individuals with intellectual or other developmental
+8 disabilities, to the extent of the prohibition, shall be void as against the
+9 public policy of this state and shall be given no legal or equitable force or
+10 effect.
+11 (b) Nothing in this subchapter shall be construed directly or
+12 analogously to affect the rights of property owners to exclude by express or
+13 judicially implied agreements other property uses which are not the subject
+14 of this subchapter.
+15
+16 SECTION 3. Arkansas Code § 20-48-702(a)(2), concerning the
+17 reimbursement rate structure for contracting with community programs, is
+18 amended to read as follows:
+19 (2) By January 1, 2002, the department will design and conduct a
+20 rate and cost-of-service review of the reasonable and efficient prospective
+21 costs necessarily incurred to provide Medicaid-covered and state-covered
+22 services within the community to individuals with developmental disabilities.
+23 Subject to federal and state funding restrictions, the department will fund
+24 Medicaid services for persons with developmental disabilities in accordance
+25 with findings contained in the review and provide state funds for those
+26 services to which the individuals are entitled under federal and state laws
+27 that are not covered by the Medicaid program. By June 30, 2002, the
+28 department will adopt regulations and standards, approved pursuant to this
+29 subchapter, which clearly define the state's responsibility to individuals
+30 eligible for services under federal laws, including, but not limited to, the
+31 Americans With Disabilities Act of 1990, Pub. L. No. 101-336; Section 504 of
+32 the Rehabilitation Act of 1973, Pub. L. No. 93-112; and state laws, including
+33 §§ 20-14-502, and 20-48-101, and 20-48-603, and more specifically:
+34 (A) The categories of services and service limits on each
+35 category which will be provided through the Medicaid state plan; and
+36 (B) The categories of services and service limits which
+7 02/20/2025 9:07:29 AM JMB166
+HB1537
+1 will be provided with state general revenue funds or funds that are
+2 applicable for provider client services, or both.
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+8 02/20/2025 9:07:29 AM JMB166
+[DELETED:          A F D   T H A  B   S o A    ( D C D   S r S I   2  T f]
+[DELETED: H2 0   2  ( s i w s o  ( l   2  A   ( d a   ( a   ( S   ( l h m   ( l h t d   ( r   ( c u   2]
+[DELETED: H3 0  ( o d p H p  ( f z p o e   2  ( i a a o o  ( r n  ( o a   2  ( p 1   ( H g d r]
+[DELETED: H4 0 p f h    (   T    1    1   1      1     (0) h t0) (   ( r n t s s   ( F s I p a p d N i t h   ( d H d]
+[DELETED: H5 0 I l o h    ( m r     (     (     (     (     (  ( h C d   2  ( H f b l  ( r w0)  ( e2 8)   ( p  ( r 6  ( a p]
+[DELETED: H6 0 w ( a (   2  I ( H o e i s p   2  ( o p t D r 6  ( f  ( b F   2 c  N o w o w]
+[DELETED: H7 0   2  ( a t o H d p e  ( a j o   S r a   ( r c s S M w s t d s e A t §    ( c    (]
+[DELETED: H8 0 w a                                  ]
+
+
+================================================================================
+
+Raw Text:
+Stricken language would be deleted from and underlined language would be added to present law.
+1 State of Arkansas
+A Bill
+2 95th General Assembly
+3 Regular Session, 2025 HOUSE BILL 1537
+4
+5 By: Representatives Ladyman, McGruder
+6 By: Senator Dees
+7
+For An Act To Be Entitled
+8
+9 AN ACT TO REPEAL THE LOCATION ACT FOR COMMUNITY HOMES
+10 FOR INDIVIDUALS WITH INTELLECTUAL AND DEVELOPMENTAL
+11 DISABILITIES; AND FOR OTHER PURPOSES.
+12
+13
+Subtitle
+14
+15 TO REPEAL THE LOCATION ACT FOR COMMUNITY
+16 HOMES FOR INDIVIDUALS WITH INTELLECTUAL
+17 AND DEVELOPMENTAL DISABILITIES.
+18
+19 BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF ARKANSAS:
+20
+21 SECTION 1. Arkansas Code § 9-28-402(12)(F), concerning the definition
+22 of "exempt child welfare agency" within the Child Welfare Agency Licensing
+23 Act, is amended to read as follows:
+24 (F) Human development centers regulated by the Board of
+25 Developmental Disabilities Services pursuant to the Location Act for
+26 Community Homes for Individuals with Intellectual and Developmental
+27 Disabilities, § 20-48-601 et seq.;
+28
+29 SECTION 2. Arkansas Code Title 20, Chapter 48, Subchapter 6, is
+30 repealed.
+31 Subchapter 6 — Location Act for Community Homes for Individuals with
+32 Intellectual and Developmental Disabilities
+33
+34 20-48-601. Title.
+35 This subchapter shall be known as the “Location Act for Community Homes
+36 for Individuals with Intellectual and Developmental Disabilities”.
+*JMB166*
+02/20/2025 9:07:29 AM JMB166
+
+HB1537
+1
+2 20-48-602. Purpose.
+3 (a) The General Assembly declares that it is the goal of this
+4 subchapter to improve the quality of life of all individuals with
+5 intellectual or other developmental disabilities and to integrate individuals
+6 with intellectual or other developmental disabilities into the mainstream of
+7 society by ensuring them the availability of community residential
+8 opportunities in the residential areas of this state.
+9 (b) In order to implement this goal, this subchapter should be
+10 liberally construed toward that end.
+11
+12 20-48-603. Definitions.
+13 As used in this subchapter, unless the context otherwise requires:
+14 (1) “Individual with an intellectual and developmental
+15 disability” means a person with an intellectual and developmental disability
+16 as defined in this section;
+17 (2) “Intellectual and developmental disability” means the same
+18 as defined in § 20-48-101;
+19 (3) “Division” means the Division of Developmental Disabilities
+20 Services or the staff of the division where the context so indicates;
+21 (4) “Family Home I” means a community-based residential home
+22 licensed by the division that provides room and board, personal care,
+23 habilitation services, and supervision in a single-family environment for not
+24 more than eight (8) individuals with developmental disabilities;
+25 (5) “Family Home II” means a community-based residential home
+26 licensed by the division that provides room and board, personal care,
+27 habilitation services, and supervision in a multifamily environment for more
+28 than eight (8) but fewer than sixteen (16) individuals with developmental
+29 disabilities;
+30 (6) “Permitted use” means a use by right that is authorized in
+31 residential zoning districts; and
+32 (7) “Political subdivision” means a county or municipal
+33 corporation and includes any boards, commissions, or councils governing land
+34 use on behalf of the political subdivision.
+35
+36 20-48-604. Zoning — Permitted use.
+2 02/20/2025 9:07:29 AM JMB166
+
+HB1537
+1 (a) A Family Home I is a residential use of property for the purposes
+2 of zoning and shall be treated as a permitted use in all residential zones or
+3 districts, including all single-family residential zones or districts of all
+4 political subdivisions. No political subdivision may require that a Family
+5 Home I or its owner or operator obtain a conditional use permit, special use
+6 permit, special exception, or variance.
+7 (b) A Family Home II is a multifamily residential use of a property
+8 for the purpose of zoning and shall be treated as a permitted use in all
+9 zoning districts of all political subdivisions allowing multifamily uses. No
+10 political subdivision may require that a Family Home II or its owner or
+11 operator obtain a conditional use permit, special use permit, special
+12 exception, or variance.
+13
+14 20-48-605. Issuance and renewal of licenses.
+15 (a) For the purposes of safeguarding the health and safety of
+16 individuals with intellectual or other developmental disabilities and
+17 avoiding over-concentration of Family Homes I and Family Homes II, either
+18 alone or in conjunction with similar community-based residences, the Division
+19 of Developmental Disabilities Services shall inspect and license the
+20 operation of family homes and may renew or revoke their licenses.
+21 (b) A license is valid for one (1) year from the date it is issued or
+22 renewed although the division may inspect the homes more frequently, if
+23 needed.
+24 (c) The division shall not issue or renew and may revoke the license
+25 of a family home not operating in compliance with this section and rules
+26 adopted hereunder.
+27
+28 20-48-606. Rules — Density control.
+29 (a) The Division of Developmental Disabilities Services shall
+30 promulgate rules pursuant to the Arkansas Administrative Procedure Act, § 25-
+31 15-201 et seq., which shall encompass the following matters:
+32 (1)(A) Limits on the number of new Family Homes I and Family
+33 Homes II to be permitted on blocks, block faces, and other appropriate
+34 geographic areas taking into account the existing residential population
+35 density and the number, occupancy, and location of similar community
+36 residential facilities serving persons in drug, alcohol, juvenile, child,
+3 02/20/2025 9:07:29 AM JMB166
+
+HB1537
+1 parole, and other treatment programs as well as any other dissimilar
+2 facilities such as public housing, soup kitchens at churches, and boarding
+3 homes.
+4 (B) Density limits as follows:
+5 City Population Total Number of Homes I and II
+6 1,000 or fewer 1
+7 1,001 — 9,999 1 for every 2,000
+8 10,000 — 49,000 1 for every 3,000
+9 50,000 — 249,000 1 for every 10,000
+10 250,000 — 1 for every 20,000
+11 (C) There shall be three hundred feet (300′) between family
+12 homes unless otherwise permitted by local ordinance. There shall be three
+13 thousand feet (3,000′) between family homes in cities over thirty thousand
+14 (30,000) population unless otherwise permitted by local ordinance;
+15 (2) Assurance that adequate arrangements are made for the
+16 residents of family homes to receive such care and habilitation as are
+17 necessary and appropriate to their needs and to further their progress
+18 towards independent living and that they have access to appropriate services
+19 such as public transportation, health care, recreation facilities, and
+20 shopping centers;
+21 (3) Protection of the health and safety of the residents of
+22 Family Homes I and Family Homes II, however, compliance with these rules
+23 shall not relieve the owner or operator of any Family Home I or Family Home
+24 II of the obligation to comply with the requirements or standards of a
+25 political subdivision pertaining to setback, lot size, flood zones, outside
+26 appearance, building, housing, health, fire, safety, and motor vehicle
+27 parking space that generally apply to single-family residences in the zoning
+28 district for Family Homes I or multifamily use districts for Family Homes II.
+29 No requirements for business licenses, gross receipt taxes, environmental
+30 impact studies, or clearances may be imposed on the homes if those fees,
+31 taxes, or clearances are not imposed on all structures in the zoning district
+32 housing a like number of persons; and
+33 (4)(A) Procedures by which any resident of a residential zoning
+34 district or the governing body of a political subdivision in which a Family
+35 Home I or Family Home II is or is to be located may petition the division to
+36 deny an application for a license to operate a Family Home I or Family Home
+4 02/20/2025 9:07:29 AM JMB166
+
+HB1537
+1 II on the grounds that the operation of the home would be in violation of the
+2 limits established pursuant to subdivision (a)(1)(A) or subdivision (a)(1)(B)
+3 of this section or that the proposed location is an area of high risk to the
+4 health and safety of the residents of the family home.
+5 (B) Petitions claiming the high-risk-area basis for denial
+6 must set forth and document one (1) or more of the following high-risk
+7 rationales:
+8 (i) High crime area;
+9 (ii) Close proximity to stored hazardous materials;
+10 (iii) Dangerous traffic pattern;
+11 (iv) Frequent flooding; or
+12 (v) Insufficient fire protection.
+13 (b) The division shall furnish a copy of proposed rules promulgated
+14 hereunder to the Arkansas Municipal League, the Association of Arkansas
+15 Counties, and the Capitol Zoning District Commission at least thirty (30)
+16 days before the public hearing to be held thereon.
+17
+18 20-48-607. Application for license.
+19 (a) All applicants for a license to operate a Family Home I or Family
+20 Home II shall apply to the Division of Developmental Disabilities Services
+21 for the license and shall file a copy of the application with the governing
+22 body of the political subdivision having jurisdiction over the zoning of the
+23 land on which the Family Home I or Family Home II is to be located.
+24 (b) Notice of the application shall be sent by mail addressed to the
+25 resident as listed in the city directory or occupant of all buildings located
+26 within two hundred feet (200′) of the proposed site.
+27 (c)(1) All applicants shall post a sign not less than twelve inches by
+28 eighteen inches (12″ x 18″) at the site.
+29 (2) The sign shall contain such statements as required by rules
+30 promulgated pursuant to this subchapter.
+31 (d) All applications must include population and occupancy statistics
+32 reflecting compliance with the limits established pursuant to § 20-48-
+33 606(a)(1)(A) and (B).
+34 (e) The division may not issue a license for a family home until the
+35 applicant has submitted proof of filing with the governing body of the
+36 political subdivision having jurisdiction over the zoning of the land on
+5 02/20/2025 9:07:29 AM JMB166
+
+HB1537
+1 which the home is to be located a copy of the application at least thirty
+2 (30) days before the granting of the license and any amendment of the
+3 application increasing the number of residents to be served at least fifteen
+4 (15) days before the granting of a license.
+5
+6 20-48-608. List of family homes.
+7 In order to facilitate the implementation of § 20-48-606(a)(1)(A) and
+8 (B), the Division of Developmental Disabilities Services of the Department of
+9 Human Services shall maintain a list of the location, capacity, and current
+10 occupancy of all Family Homes I and Family Homes II. The division shall
+11 ensure that this list shall not contain the names or other identifiable
+12 information about any residents of the homes and that copies of this list
+13 shall be available to any resident of this state and any state agency or
+14 political subdivision upon request.
+15
+16 20-48-609. Comprehensive plans.
+17 (a) Any political subdivision which currently has zoning restrictions
+18 or hereafter adopts zoning restrictions may develop a comprehensive plan for
+19 providing adequate sites for Family Homes I and Family Homes II and submit
+20 the plan to the Division of Developmental Disabilities Services of the
+21 Department of Human Services along with population and occupancy statistics
+22 reflecting compliance with the limits established pursuant to § 20-48-
+23 606(a)(1)(A) and (B).
+24 (b) The plan may also delineate unsuitable sites due to high risks set
+25 forth in § 20-48-606(4).
+26 (c) The division shall thereafter consult the comprehensive plan filed
+27 by the political subdivision in considering licensure of Family Homes I and
+28 Family Homes II for that political subdivision.
+29
+30 20-48-610. Compliance with appearance or structural requirements in
+31 certain districts.
+32 Nothing in this subchapter shall be construed as relieving the owner or
+33 operator of any Family Home I or Family Home II of the obligation to comply
+34 with outside appearance requirements or structural requirements for location
+35 of a Family Home I or Family Home II within a local historic district or
+36 within the Capitol Zoning District.
+6 02/20/2025 9:07:29 AM JMB166
+
+HB1537
+1
+2 20-48-611. Restriction by private property agreement void.
+3 (a) Any restriction, reservation, condition, exception, or covenant in
+4 any subdivision plan, deed, or other instrument of or pertaining to the
+5 transfer, sale, lease, or use of property that would permit residential use
+6 of property but prohibit the use of the property as a Family Home I or Family
+7 Home II for individuals with intellectual or other developmental
+8 disabilities, to the extent of the prohibition, shall be void as against the
+9 public policy of this state and shall be given no legal or equitable force or
+10 effect.
+11 (b) Nothing in this subchapter shall be construed directly or
+12 analogously to affect the rights of property owners to exclude by express or
+13 judicially implied agreements other property uses which are not the subject
+14 of this subchapter.
+15
+16 SECTION 3. Arkansas Code § 20-48-702(a)(2), concerning the
+17 reimbursement rate structure for contracting with community programs, is
+18 amended to read as follows:
+19 (2) By January 1, 2002, the department will design and conduct a
+20 rate and cost-of-service review of the reasonable and efficient prospective
+21 costs necessarily incurred to provide Medicaid-covered and state-covered
+22 services within the community to individuals with developmental disabilities.
+23 Subject to federal and state funding restrictions, the department will fund
+24 Medicaid services for persons with developmental disabilities in accordance
+25 with findings contained in the review and provide state funds for those
+26 services to which the individuals are entitled under federal and state laws
+27 that are not covered by the Medicaid program. By June 30, 2002, the
+28 department will adopt regulations and standards, approved pursuant to this
+29 subchapter, which clearly define the state's responsibility to individuals
+30 eligible for services under federal laws, including, but not limited to, the
+31 Americans With Disabilities Act of 1990, Pub. L. No. 101-336; Section 504 of
+32 the Rehabilitation Act of 1973, Pub. L. No. 93-112; and state laws, including
+33 §§ 20-14-502, and 20-48-101, and 20-48-603, and more specifically:
+34 (A) The categories of services and service limits on each
+35 category which will be provided through the Medicaid state plan; and
+36 (B) The categories of services and service limits which
+7 02/20/2025 9:07:29 AM JMB166
+
+HB1537
+1 will be provided with state general revenue funds or funds that are
+2 applicable for provider client services, or both.
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+8 02/20/2025 9:07:29 AM JMB166
+
+[DELETED:          A F D   T H A  B   S o A    ( D C D   S r S I   2  T f]
+[DELETED: H2 0   2  ( s i w s o  ( l   2  A   ( d a   ( a   ( S   ( l h m   ( l h t d   ( r   ( c u   2]
+[DELETED: H3 0  ( o d p H p  ( f z p o e   2  ( i a a o o  ( r n  ( o a   2  ( p 1   ( H g d r]
+[DELETED: H4 0 p f h    (   T    1    1   1      1     (0) h t0) (   ( r n t s s   ( F s I p a p d N i t h   ( d H d]
+[DELETED: H5 0 I l o h    ( m r     (     (     (     (     (  ( h C d   2  ( H f b l  ( r w0)  ( e2 8)   ( p  ( r 6  ( a p]
+[DELETED: H6 0 w ( a (   2  I ( H o e i s p   2  ( o p t D r 6  ( f  ( b F   2 c  N o w o w]
+[DELETED: H7 0   2  ( a t o H d p e  ( a j o   S r a   ( r c s S M w s t d s e A t §    ( c    (]
+[DELETED: H8 0 w a                                  ]

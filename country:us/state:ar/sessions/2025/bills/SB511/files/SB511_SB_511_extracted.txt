@@ -1,0 +1,101 @@
+Title: Stricken language would be deleted from and underlined language would be added to present law.
+Official Title: Stricken language would be deleted from and underlined language would be added to present law.
+Number of Sections: 1
+Source: versions - SB 511
+Media Type: application/pdf
+Strikethrough Detection: 1 sections found
+
+================================================================================
+
+Section 1:
+1 State of Arkansas
+A Bill
+2 95th General Assembly
+3 Regular Session, 2025 SENATE BILL 511
+4
+5 By: Senators B. Johnson, Hill
+6 By: Representative M. Shepherd
+7
+For An Act To Be Entitled
+8
+9 AN ACT TO CREATE THE CRIMINAL OFFENSE OF AUTOMATED
+10 TELLER MACHINE IMPAIRMENT; AND FOR OTHER PURPOSES.
+11
+12
+Subtitle
+13
+14 TO CREATE THE CRIMINAL OFFENSE OF
+15 AUTOMATED TELLER MACHINE IMPAIRMENT.
+16
+17 BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF ARKANSAS:
+18
+19 SECTION 1. Arkansas Code Title 5, Chapter 38, Subchapter 2, is amended
+20 to add an additional section to read as follows:
+21 5-38-208. Automated teller machine impairment.
+22 (a)(1) As used in this section, "automated teller machine" means an
+23 electronic information processing device located in this state that accepts
+24 or dispenses cash in connection with a financial transaction or credit card.
+25 (2) "Automated teller machine" includes a customer-bank
+26 communication terminal.
+27 (b) A person commits automated teller machine impairment if he or she
+28 purposely:
+29 (1) Removes an automated teller machine; or
+30 (2) Causes impairment or interruption of use, in whole or in
+31 part, of an automated teller machine.
+32 (c) Automated teller machine impairment is a Class D felony.
+33
+34
+35
+36
+*ANS324*
+03/18/2025 4:17:38 PM ANS324
+[DELETED:       A T  T A  B   S t  5  ( e o   ( c  ( p   (   ( p  (]
+
+
+================================================================================
+
+Raw Text:
+Stricken language would be deleted from and underlined language would be added to present law.
+1 State of Arkansas
+A Bill
+2 95th General Assembly
+3 Regular Session, 2025 SENATE BILL 511
+4
+5 By: Senators B. Johnson, Hill
+6 By: Representative M. Shepherd
+7
+For An Act To Be Entitled
+8
+9 AN ACT TO CREATE THE CRIMINAL OFFENSE OF AUTOMATED
+10 TELLER MACHINE IMPAIRMENT; AND FOR OTHER PURPOSES.
+11
+12
+Subtitle
+13
+14 TO CREATE THE CRIMINAL OFFENSE OF
+15 AUTOMATED TELLER MACHINE IMPAIRMENT.
+16
+17 BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF ARKANSAS:
+18
+19 SECTION 1. Arkansas Code Title 5, Chapter 38, Subchapter 2, is amended
+20 to add an additional section to read as follows:
+21 5-38-208. Automated teller machine impairment.
+22 (a)(1) As used in this section, "automated teller machine" means an
+23 electronic information processing device located in this state that accepts
+24 or dispenses cash in connection with a financial transaction or credit card.
+25 (2) "Automated teller machine" includes a customer-bank
+26 communication terminal.
+27 (b) A person commits automated teller machine impairment if he or she
+28 purposely:
+29 (1) Removes an automated teller machine; or
+30 (2) Causes impairment or interruption of use, in whole or in
+31 part, of an automated teller machine.
+32 (c) Automated teller machine impairment is a Class D felony.
+33
+34
+35
+36
+*ANS324*
+03/18/2025 4:17:38 PM ANS324
+
+[DELETED:       A T  T A  B   S t  5  ( e o   ( c  ( p   (   ( p  (]

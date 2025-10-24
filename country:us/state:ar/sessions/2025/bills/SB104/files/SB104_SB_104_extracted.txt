@@ -1,0 +1,970 @@
+Title: Stricken language would be deleted from and underlined language would be added to present law.
+Official Title: Stricken language would be deleted from and underlined language would be added to present law.
+Number of Sections: 1
+Source: versions - SB 104
+Media Type: application/pdf
+Strikethrough Detection: 12 sections found
+
+================================================================================
+
+Section 1:
+1 State of Arkansas As Engrossed: H3/19/25 H4/1/25
+A Bill
+2 95th General Assembly
+3 Regular Session, 2025 SENATE BILL 104
+4
+5 By: Senators C. Penzo, M. Johnson
+6 By: Representative Lundstrum
+7
+For An Act To Be Entitled
+8
+9 AN ACT TO AMEND THE ARKANSAS PHARMACY BENEFITS
+10 MANAGER LICENSURE ACT; TO PROTECT PATIENTS' RIGHTS
+11 AND ACCESS TO MEDICATIONS; TO DECLARE AN EMERGENCY;
+12 AND FOR OTHER PURPOSES.
+13
+14
+Subtitle
+15
+16 TO AMEND THE ARKANSAS PHARMACY BENEFITS
+17 MANAGER LICENSURE ACT; TO PROTECT
+18 PATIENTS' RIGHTS AND ACCESS TO
+19 MEDICATIONS; AND TO DECLARE AN
+20 EMERGENCY.
+21
+22 BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF ARKANSAS:
+23
+24 SECTION 1. DO NOT CODIFY. Legislative intent.
+25 It is the intent of the General Assembly that this act shall regulate
+26 the business practices of healthcare payors and pharmacy benefits managers:
+27 (1) To ensure adequate access to pharmacy services as intended
+28 and designed by underlying health benefit plans;
+29 (2) To protect patients from unfair and deceptive trade
+30 practices within the state; and
+31 (3) To ensure pharmacy benefits management companies do not
+32 interfere with a patient's rights under the patient's underlying health
+33 benefit plan and always consider each patient's unique conditions and
+34 limitations when enforcing any access prerequisites or conditions.
+35
+36 SECTION 2. Arkansas Code § 23-92-503, concerning the definitions used
+*ANS087*
+04-01-2025 14:34:50 ANS087
+As Engrossed: H3/19/25 H4/1/25 SB104
+1 in the Arkansas Pharmacy Benefits Manager Licensure Act, is amended to add
+2 additional subdivisions to read as follows:
+3 (16)(A) "Affiliate" means an entity that controls, is controlled
+4 by, or is under common control with another entity, including an entity in
+5 which control is established through one (1) or more intermediary entities,
+6 such that the common controlling interest may be two (2) or more levels
+7 removed from the specified entity.
+8 (B) Whether an entity is an "affiliate" does not depend on
+9 the percentage or form of ownership interest or any allocation of membership
+10 or ownership between entities, but it is the existence of control or common
+11 control that is the sole determinative factor;
+12 (17)(A) "Carve-out network" means a subset of a pharmacy
+13 benefits manager's network that:
+14 (i) Is created by the pharmacy benefits manager; and
+15 (ii) Limits access to a certain pharmacy or
+16 pharmacist for a specific drug or category of drugs.
+17 (B) "Carve-out network" includes any network that
+18 restricts enrollee access to in-person pharmacy services within this state by
+19 offering only limited methods of obtaining a prescription drug, including
+20 mail-order only options, while presenting the appearance of a full network of
+21 available pharmacies;
+22 (18) "Enrollee" means an individual who is entitled to receive
+23 healthcare services under the terms of a health benefit plan;
+24 (19)(A) "Ghost network" means a pharmacy benefits manager
+25 network that includes a pharmacy or pharmacist as a participating provider
+26 when that participating provider is:
+27 (i) Not accepting new patients;
+28 (ii) No longer in practice; or
+29 (iii) Otherwise unavailable to or restricted from
+30 providing services to enrollees in this state.
+31 (B) "Ghost network" includes a pharmacy network in which a
+32 significant number of listed participating providers are not accessible to
+33 enrollees within a reasonable time frame or geographic distance;
+34 (20) "Healthcare payor affiliate" means a pharmacy or pharmacist
+35 that directly or indirectly, through one (1) or more intermediaries, owns or
+36 controls, is owned or controlled by, or is under common ownership or control
+2 04-01-2025 14:34:50 ANS087
+As Engrossed: H3/19/25 H4/1/25 SB104
+1 with a healthcare payor; and
+2 (21)(A) "Self-administered prescription drug" means a
+3 pharmaceutical that when prescribed does not require assistance by a third
+4 party to administer and can be dispensed by a pharmacy or pharmacist to an
+5 enrollee for self-administration under federal and state laws and
+6 regulations.
+7 (B) "Self-administered prescription drug" does not include
+8 over-the-counter medications that do not require a prescription.
+9
+10 SECTION 3. Arkansas Code § 23-92-506(b), concerning prohibited
+11 practices under the Arkansas Pharmacy Benefits Manager Licensure Act, is
+12 amended to add an additional subdivision to read as follows:
+13 (9) Unless reviewed and approved by the commissioner in
+14 coordination with the board, require pharmacy accreditation standards or
+15 certification requirements inconsistent with, more stringent than, or in
+16 addition to requirements of the board.
+17
+18 SECTION 4. Arkansas Code Title 23, Chapter 92, Subchapter 5, is
+19 amended to add additional sections to read as follows:
+20 23-92-512. Unfair and deceptive trade practices.
+21 (a)(1) A healthcare payor, healthcare payor affiliate, pharmacy
+22 benefits manager, or pharmacy benefits manager affiliate shall not engage in
+23 unfair or deceptive trade practices in the administration of pharmacy
+24 benefits.
+25 (2) Unfair or deceptive trade practices under subdivision (a)(1)
+26 of this section include without limitation:
+27 (A) Requiring an enrollee to utilize a particular
+28 pharmacy benefits manager affiliate;
+29 (B) Requiring a pharmacy or pharmacist to forward or
+30 retransmit a prescription to a specific healthcare payor affiliate or
+31 pharmacy benefits manager affiliate unless the receiving healthcare payor
+32 affiliate or pharmacy benefits manager affiliate can provide verifiable
+33 documentation of the enrollee's consent to use that specific pharmacy;
+34 (C) Implementing a policy or protocol that unreasonably
+35 restricts an enrollee's choice of pharmacy within a pharmacy benefits manager
+36 network, if:
+3 04-01-2025 14:34:50 ANS087
+As Engrossed: H3/19/25 H4/1/25 SB104
+1 (i)(a) The pharmacy meets the pharmacy benefits
+2 manager network's relevant and reasonable terms of participation
+3 requirements.
+4 (b) A disagreement or concern regarding
+5 whether relevant and reasonable terms of participation requirements are
+6 relevant and reasonable shall be determined by the Insurance Commissioner;
+7 and
+8 (ii) The pharmacy has existing approval to dispense
+9 one (1) or more self-administered prescription drugs in one (1) or more
+10 pharmacy benefits manager networks for the underlying health benefit plan;
+11 (D)(i) Providing an incentive or imposing a penalty that
+12 effectively coerces or pressures an enrollee to use a particular healthcare
+13 payor affiliate or pharmacy benefits manager affiliate.
+14 (ii) Adjustments to an enrollee's cost-sharing
+15 responsibilities, including copayments, coinsurance, or deductibles, that are
+16 part of the health benefit plan's design are not considered incentives or
+17 penalties under subdivision (a)(2)(D)(i) of this section;
+18 (E) Failing to disclose to an enrollee the options
+19 available for obtaining prescription drugs within the pharmacy benefits
+20 manager network;
+21 (F) Disclosing, sharing, or otherwise making available
+22 enrollee information or enrollee-identifiable prescription information
+23 submitted by a pharmacist or pharmacy to a healthcare payor affiliate or
+24 pharmacy benefits manager affiliate without the written consent of the
+25 enrollee;
+26 (G) Using or disclosing enrollee information or enrollee-
+27 identifiable prescription information for marketing or solicitation purposes
+28 without the written consent of the enrollee; and
+29 (H)(i) Engaging in any conduct that unlawfully restricts,
+30 limits, or interferes with an enrollee's right to choose a pharmacy or
+31 pharmacist, including without limitation actions that violate federal law or
+32 state law or improperly steer enrollees to a specific pharmacy or pharmacist.
+33 (ii) The prohibition under subdivision (a)(2)(H)(i)
+34 of this section does not apply to a change in patient cost-sharing
+35 obligations, including copayments, coinsurance, or deductibles, that are
+36 permitted under applicable law.
+4 04-01-2025 14:34:50 ANS087
+As Engrossed: H3/19/25 H4/1/25 SB104
+1 (b)(1) A healthcare payor, healthcare payor affiliate, pharmacy
+2 benefits manager, or pharmacy benefits manager affiliate shall not impose
+3 restrictive terms or conditions that limit an enrollee's or an enrollee’s
+4 assigned representative’s rights to seek an exception to or to appeal a
+5 coverage decision or restriction with his or her health benefit plan.
+6 (2) A healthcare payor, healthcare payor affiliate, pharmacy
+7 benefits manager, or pharmacy benefits manager affiliate shall ensure that:
+8 (A) The processes for seeking an exception and filing an
+9 appeal are clearly communicated to patients in a publicly accessible manner
+10 on its website;
+11 (B) The information necessary to utilize the processes
+12 under subdivision (b)(2)(A) of this section is presented in a manner that is
+13 understandable and not hidden or obscured; and
+14 (C) An enrollee is not hindered or obstructed from
+15 exercising the rights granted to the enrollee under the enrollee's health
+16 benefit plan.
+17 (c)(1) A healthcare payor shall not prohibit, restrict, or impede an
+18 enrollee’s or an enrollee’s authorized representative’s ability to:
+19 (A) Discuss the enrollee's health benefit plan, including
+20 prescription drug benefits, with the healthcare payor or its authorized
+21 representatives;
+22 (B) Obtain necessary exceptions, approvals,
+23 authorizations, or related information to access the enrollee's benefits; or
+24 (C) Appeal decisions regarding the enrollee's benefits
+25 coverage decisions as provided under the terms of the enrollee's health
+26 benefit plan.
+27 (2) The healthcare payor shall ensure that an enrollee has
+28 reasonable access to the discussions, approvals, and appeals processes
+29 regardless of the pharmacy benefits manager, affiliate, or third-party
+30 administrator selected to administer prescription benefits.
+31 (3) It is an unfair and deceptive trade practice for a
+32 healthcare payor to delegate responsibilities in a manner that obstructs,
+33 hinders, or prevents an enrollee from exercising the enrollee's rights under
+34 his or her health benefit plan.
+35 (d)(1) A pharmacy benefits manager and pharmacy benefits manager
+36 affiliate shall adhere to all applicable federal and state privacy laws when
+5 04-01-2025 14:34:50 ANS087
+As Engrossed: H3/19/25 H4/1/25 SB104
+1 communicating with an enrollee.
+2 (2) A pharmacy benefits manager and pharmacy benefits manager
+3 affiliate shall not use enrollee information for marketing purposes without
+4 the written consent of the enrollee.
+5 (e) A pharmacy benefits manager and pharmacy benefits manager
+6 affiliate shall comply with the timely processing of complaints and appeals
+7 as established by rule of the commissioner.
+8 (f)(1) The commissioner may promulgate rules necessary to implement,
+9 administer, and enforce this section.
+10 (2) Rules that the commissioner may adopt under this section
+11 include without limitation rules relating to implementing a penalty structure
+12 for a healthcare payor, healthcare payor affiliate, pharmacy benefits
+13 manager, or pharmacy benefits manager affiliate that fails to comply with
+14 this section that is based on the number of Arkansas residents serviced by
+15 the healthcare payor, healthcare payor affiliate, pharmacy benefits manager,
+16 or pharmacy benefits manager affiliate.
+17 (g)(1) A violation of this subchapter is an unfair and deceptive act
+18 or practice as defined by the Deceptive Trade Practices Act, § 4-88-101 et
+19 seq.
+20 (2) All remedies, penalties, and authority granted to the
+21 Attorney General under the Deceptive Trade Practices Act, § 4-88-101 et seq.,
+22 shall be available to the Attorney General for the enforcement of this
+23 subchapter.
+24
+25 23-92-513. Prohibition of ghost networks.
+26 (a)(1) A pharmacy benefits manager shall not create, utilize, or
+27 maintain a ghost network within this state.
+28 (2) For purposes of this section, a network shall not be
+29 considered a ghost network if the network includes at least one (1) mail-
+30 order pharmacy option and one (1) in-person pharmacy option that is
+31 physically located in this state if both the mail-order pharmacy option and
+32 the in-person pharmacy option are:
+33 (A) Accepting new patients; and
+34 (B) Otherwise available to an enrollee in this state.
+35 (b)(1) A healthcare payor or pharmacy benefits manager shall not
+36 create, utilize, or maintain a carve-out network within this state by:
+6 04-01-2025 14:34:50 ANS087
+As Engrossed: H3/19/25 H4/1/25 SB104
+1 (A) Limiting enrollee access to specific pharmacies or
+2 pharmacists for self-administered prescription drugs when an enrollee is
+3 directed to use a healthcare payor affiliate, pharmacy benefits manager
+4 affiliate, or other limited option while the pharmacy benefits manager
+5 network appears to offer a full range of pharmacist services;
+6 (B) Failing to provide adequate access to pharmacy services for
+7 all covered self-administered prescription drugs, including through a
+8 licensed pharmacy physically located within this state; or
+9 (C) Representing that a broad network of pharmacies or
+10 pharmacists is available if, in practice, access to certain self-administered
+11 prescription drugs is restricted to a carve-out network that lacks sufficient
+12 in-state providers accessible to an enrollee.
+13 (2) For purposes of this section, a network shall not be
+14 considered a carve-out network if the network includes at least one (1) mail-
+15 order pharmacy option and one (1) in-person pharmacy option that is
+16 physically located in this state if both the mail-order pharmacy option and
+17 the in-person pharmacy option are:
+18 (A) Accepting new patients; and
+19 (B) Otherwise available to an enrollee in this state.
+20 (c) A healthcare payor or pharmacy benefits manager shall ensure that
+21 its pharmacy benefits manager network of participating pharmacists and
+22 pharmacies:
+23 (1) Accurately reflects the availability of pharmacists and
+24 pharmacies actively accepting new patients;
+25 (2) Provides an enrollee with reasonable access to pharmacist
+26 services within this state, including options for in-person consultations and
+27 medication pickup from a licensed pharmacist or pharmacy in this state;
+28 (3) Is not solely serviced by a mail-order pharmacy; and
+29 (4) Is not solely serviced by a pharmacy benefits manager
+30 affiliate or healthcare payor affiliate.
+31 (d) A healthcare payor or pharmacy benefits manager shall:
+32 (1) Regularly verify and update its pharmacy benefits manager
+33 network directory to reflect the current availability of participating
+34 pharmacists and pharmacies;
+35 (2) Remove a pharmacist or pharmacy from its pharmacy benefits
+36 manager network directory if that pharmacist or pharmacy is:
+7 04-01-2025 14:34:50 ANS087
+As Engrossed: H3/19/25 H4/1/25 SB104
+1 (A) Not accepting new patients;
+2 (B) No longer in practice; or
+3 (C) Otherwise unavailable to provide services; and
+4 (3) Provide accurate and accessible information to an enrollee
+5 regarding participating pharmacists and pharmacies within the pharmacy
+6 benefits manager network in a publicly accessible manner on its website.
+7 (e)(1) The Insurance Commissioner may promulgate rules necessary to
+8 implement, administer, and enforce this section.
+9 (2) Rules that the commissioner may adopt under this section
+10 include without limitation rules relating to:
+11 (A) Requiring a healthcare payor and pharmacy benefits
+12 manager to submit periodic reports on pharmacy benefits manager network
+13 adequacy and accessibility;
+14 (B) Investigating a complaint regarding a ghost network
+15 and taking appropriate enforcement action; and
+16 (C) Implementing a penalty structure for a healthcare
+17 payor or pharmacy benefits manager that fails to comply with this section
+18 that:
+19 (i) Is based on the number of Arkansas residents
+20 serviced by the healthcare payor or pharmacy benefits manager; and
+21 (ii) Does not exceed one hundred thousand dollars
+22 ($100,000) per violation.
+23
+24 23-92-514. Patient accommodation and nonrestriction clause.
+25 (a) A healthcare payor or pharmacy benefits manager shall not enforce
+26 the use of a particular healthcare payor affiliate or pharmacy benefits
+27 manager affiliate without considering the enrollee's individual limitations,
+28 including without limitation:
+29 (1) Medical limitations, including chronic illnesses, temporary
+30 or permanent disabilities, or conditions requiring specialized care or that
+31 impair cognitive or motor functions;
+32 (2) Complex therapies, when the self-administered prescription
+33 drug is one (1) of multiple pharmaceuticals provided to an enrollee receiving
+34 treatment and mailing the individual pharmaceutical has the potential to
+35 interfere with the appropriate and timely administration requirements;
+36 (3) Physical limitations, including mobility impairments or
+8 04-01-2025 14:34:50 ANS087
+As Engrossed: H3/19/25 H4/1/25 SB104
+1 inability to retrieve mail or other deliveries without assistance or risk for
+2 physical harm to self while retrieving mail or other deliveries;
+3 (4) Socioeconomic limitations, including financial hardships,
+4 lack of reliable transportation, lack of a caregiver, or other socioeconomic
+5 barriers that may prohibit an enrollee from being present during delivery or
+6 prohibit an enrollee from accessing the delivery location;
+7 (5) Housing limitations, including homelessness, medical
+8 confinement, incarceration, unstable housing situations, residences without
+9 secure mail delivery options, or residences with shared mail facilities;
+10 (6) Chain of custody, when a dispensing pharmacy cannot
+11 guarantee that the recipient of the self-administered prescription drug will
+12 be present according to federal and state laws and regulations;
+13 (7) Prescribing provider order contradictions, when the
+14 dispensing pharmacy is unable to guarantee that the prescribing provider's
+15 orders will be followed if the self-administered prescription drug is
+16 delivered, including situations in which the prescribing provider requires
+17 administration under direct supervision of a medical professional for a
+18 customarily self-administered prescription drug;
+19 (8) Medication storage and efficacy concerns, when the
+20 dispensing pharmacy is unable to guarantee that the enrollee will receive the
+21 self-administered prescription drug in a timely fashion that does not
+22 interfere with the environmental storage and transportation requirements
+23 denoted by the manufacturer of the pharmaceutical; and
+24 (9) Other relevant limitations, including mental health
+25 conditions, cognitive or behavioral impairments, or any other factors that
+26 impede or put at risk an enrollee's ability to receive, access, or administer
+27 his or her self-administered prescription drugs.
+28 (b)(1) An enrollee may obtain medications from a pharmacy of his or
+29 her choice when healthcare payor affiliate services or pharmacy benefits
+30 manager affiliate services are not suitable due to the limitations specified
+31 under subsection (a) of this section.
+32 (2) A healthcare payor or pharmacy benefits manager shall
+33 facilitate access to in-person pharmacy services without imposing additional
+34 costs or penalties on the enrollee.
+35 (c) A healthcare payor or pharmacy benefits manager shall not mandate
+36 the use of a healthcare payor affiliate or pharmacy benefits manager
+9 04-01-2025 14:34:50 ANS087
+As Engrossed: H3/19/25 H4/1/25 SB104
+1 affiliate in cases in which use of a pharmacy benefits manager affiliate or
+2 healthcare payor affiliate would adversely affect the enrollee's ability to
+3 receive or administer his or her self-administered prescription drug safely
+4 and effectively, considering the patient's individual circumstances under
+5 subsection (a) of this section as determined by the enrollee's healthcare
+6 provider.
+7 (d) A healthcare payor and pharmacy benefits manager shall maintain
+8 compliance in all dispensing practices with:
+9 (1) The prescribing healthcare provider's orders; and
+10 (2) All applicable federal and state laws regarding medication
+11 dispensing and chain of custody.
+12 (e) A healthcare payor or pharmacy benefits manager shall not
+13 retaliate against an enrollee or healthcare provider for exercising his or
+14 her rights under this section by:
+15 (1) Increasing costs;
+16 (2) Denying services; or
+17 (3) Reporting to external agencies.
+18 (f) A dispute arising from the enforcement of this section shall be
+19 subject to a fair and prompt resolution process as defined by rule by the
+20 Insurance Commissioner.
+21 (g)(1) The commissioner may promulgate rules necessary to implement,
+22 administer, and enforce this section.
+23 (2) Rules that the commissioner may adopt under this section
+24 include without limitation rules relating to:
+25 (A) Resolving disputes that arise from enforcement of this
+26 section through a fair and prompt resolution process; and
+27 (B) Implementing a penalty structure for a healthcare
+28 payor or pharmacy benefits manager that fails to comply with this section
+29 that:
+30 (i) Is based on the number of Arkansas residents
+31 serviced by the healthcare payor or pharmacy benefits manager; and
+32 (ii) Does not exceed one hundred thousand dollars
+33 ($100,000) per violation.
+34
+35 23-92-515. Self-administered prescription drug — Definition
+36 controlling.
+10 04-01-2025 14:34:50 ANS087
+As Engrossed: H3/19/25 H4/1/25 SB104
+1 (a) The definition of "self-administered prescription drug" under this
+2 subchapter is controlling, and that defined term shall not be altered,
+3 modified, reclassified, relabeled, or reinterpreted by a health benefit plan,
+4 healthcare payor, healthcare payor affiliate, pharmacy benefits manager, or
+5 pharmacy benefits manager affiliate.
+6 (b) A classification, labeling, or interpretation by a health benefit
+7 plan, healthcare payor, healthcare payor affiliate, pharmacy benefits
+8 manager, or pharmacy benefits manager affiliate does not override or
+9 supersede the definition of "self-administered prescription drug" under this
+10 subchapter.
+11
+12 23-92-516. Violation of Deceptive Trade Practices Act —Enforcement —
+13 Exclusions.
+14 (a) A prohibition of an activity under this subchapter is applicable
+15 to a person or entity that:
+16 (1) Performs the prohibited activity;
+17 (2) Causes another person or entity to perform the prohibited
+18 activity;
+19 (3) Solicits, advises, encourages, or coerces another person or
+20 entity to perform the prohibited activity;
+21 (4) Aids or attempts to aid another person or entity in
+22 performing a prohibited activity; or
+23 (5) Indirectly performs the prohibited activity.
+24 (b)(1) This subchapter does not require a self-funded health benefit
+25 plan to:
+26 (A) Alter existing covered benefits of the self-funded
+27 health benefit plan; or
+28 (B) Modify underlying plan terms of the self-funded health
+29 benefit plan.
+30 (2) However, to the extent not preempted by federal law, this
+31 section applies to the administration and business practices of pharmacy
+32 benefits within the state, including without limitation the conduct of
+33 pharmacy benefits managers and pharmacy benefits manager affiliates.
+34 (c)(1) If a pharmacy benefits manager imposes or represents any
+35 requirement or limitation as health-benefit-plan-imposed, the actual terms of
+36 the underlying health benefit plan document shall control.
+11 04-01-2025 14:34:50 ANS087
+As Engrossed: H3/19/25 H4/1/25 SB104
+1 (2) The plan sponsor shall retain the authority to interpret and
+2 apply the health benefit plan sponsor's own health benefit plan’s terms to
+3 the extent permitted by applicable federal and state law.
+4 (d) If it is determined by the Insurance Commissioner that a pharmacy
+5 benefits manager or pharmacy benefits manager affiliate is operating outside
+6 the terms of the underlying health benefit plan, all dispute, enforcement,
+7 and penalties under this subchapter shall apply and may be enforced by the
+8 commissioner.
+9 SECTION 5. EMERGENCY CLAUSE. It is found and determined by the
+10 General Assembly of the State of Arkansas that an enrollee's access to
+11 prescription medications is of immediate concern; that undue restrictions on
+12 pharmacies and pharmacists hinder patient care; and that this act is
+13 immediately necessary to protect an enrollee's rights and ensure timely
+14 access to medications. Therefore, an emergency is declared to exist, and this
+15 act being immediately necessary for the preservation of the public peace,
+16 health, and safety shall become effective on:
+17 (1) The date of its approval by the Governor;
+18 (2) If the bill is neither approved nor vetoed by the Governor,
+19 the expiration of the period of time during which the Governor may veto the
+20 bill; or
+21 (3) If the bill is vetoed by the Governor and the veto is
+22 overridden, the date the last house overrides the veto.
+23
+24 /s/C. Penzo
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+12 04-01-2025 14:34:50 ANS087
+[DELETED:  A   EBL1     A M A A   T M P M E  B   S  I t   ( a   ( p   ( i b l   S]
+[DELETED:  S2 0 i a   ( b w s r    ( t o c    ( b     (     ( p    ( r o m a   ( h   ( n w     (     (     ( p    ( s e   ( t c]
+[DELETED:  S3 0 w   ( p p e r    ( o   S p a   ( c c a   S a  2  ( b u b   ( o    ( p    ( r p a d    ( r n]
+[DELETED:  S4 0     ( m r      ( w r a     ( o p    ( e p     ( r p p    ( a m    ( e s p e    ( i w    ( l p s     ( o o p]
+[DELETED:  S5 0  ( b r a c   ( b    ( a o    ( u u    ( e b  ( e    ( p r    ( a    ( c b   ( r r a   ( h h h  ( a]
+[DELETED:  S6 0 c   ( a t  ( a a  ( a   ( i f m t t o  ( o s   ( A s s    2  ( m   ( c o p t    (    (  ( c]
+[DELETED:  S7 0   ( p d a n   ( a l   ( p p i   ( c o p t    (    (  ( i p   ( p   ( s m   (   ( a  (   ( n p   ( m]
+[DELETED:  S8 0    (    (    (   ( r b  ( i   ( i    ( m a    ( a    ( p t     ( s     ( (   2  ( t m i   ( o i   ( d t i   (]
+[DELETED:  S9 0 i p   ( l b p   ( c s   ( g b   ( d o d a c   ( d s i d   ( c i h  ( h m u   ( f c  ( t]
+[DELETED:  S1 0 a h r a s p  ( c   (   ( d  ( r h   (   (   (  ( s I  ( a   ( i    ( s    ( p t     ( s     ( (   2 c]
+[DELETED:  S1 0  ( s m h p  ( p m s s   2 E  ( t   (   ( a   ( e   ( p   (  ( p    ( h    ( b   ( s b p  ( r t]
+[DELETED:  S1 0   ( a t  ( b t a c  S G p p i a a h   (   ( t b   ( o  /            ]
+
+
+================================================================================
+
+Raw Text:
+Stricken language would be deleted from and underlined language would be added to present law.
+1 State of Arkansas As Engrossed: H3/19/25 H4/1/25
+A Bill
+2 95th General Assembly
+3 Regular Session, 2025 SENATE BILL 104
+4
+5 By: Senators C. Penzo, M. Johnson
+6 By: Representative Lundstrum
+7
+For An Act To Be Entitled
+8
+9 AN ACT TO AMEND THE ARKANSAS PHARMACY BENEFITS
+10 MANAGER LICENSURE ACT; TO PROTECT PATIENTS' RIGHTS
+11 AND ACCESS TO MEDICATIONS; TO DECLARE AN EMERGENCY;
+12 AND FOR OTHER PURPOSES.
+13
+14
+Subtitle
+15
+16 TO AMEND THE ARKANSAS PHARMACY BENEFITS
+17 MANAGER LICENSURE ACT; TO PROTECT
+18 PATIENTS' RIGHTS AND ACCESS TO
+19 MEDICATIONS; AND TO DECLARE AN
+20 EMERGENCY.
+21
+22 BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF ARKANSAS:
+23
+24 SECTION 1. DO NOT CODIFY. Legislative intent.
+25 It is the intent of the General Assembly that this act shall regulate
+26 the business practices of healthcare payors and pharmacy benefits managers:
+27 (1) To ensure adequate access to pharmacy services as intended
+28 and designed by underlying health benefit plans;
+29 (2) To protect patients from unfair and deceptive trade
+30 practices within the state; and
+31 (3) To ensure pharmacy benefits management companies do not
+32 interfere with a patient's rights under the patient's underlying health
+33 benefit plan and always consider each patient's unique conditions and
+34 limitations when enforcing any access prerequisites or conditions.
+35
+36 SECTION 2. Arkansas Code § 23-92-503, concerning the definitions used
+*ANS087*
+04-01-2025 14:34:50 ANS087
+
+As Engrossed: H3/19/25 H4/1/25 SB104
+1 in the Arkansas Pharmacy Benefits Manager Licensure Act, is amended to add
+2 additional subdivisions to read as follows:
+3 (16)(A) "Affiliate" means an entity that controls, is controlled
+4 by, or is under common control with another entity, including an entity in
+5 which control is established through one (1) or more intermediary entities,
+6 such that the common controlling interest may be two (2) or more levels
+7 removed from the specified entity.
+8 (B) Whether an entity is an "affiliate" does not depend on
+9 the percentage or form of ownership interest or any allocation of membership
+10 or ownership between entities, but it is the existence of control or common
+11 control that is the sole determinative factor;
+12 (17)(A) "Carve-out network" means a subset of a pharmacy
+13 benefits manager's network that:
+14 (i) Is created by the pharmacy benefits manager; and
+15 (ii) Limits access to a certain pharmacy or
+16 pharmacist for a specific drug or category of drugs.
+17 (B) "Carve-out network" includes any network that
+18 restricts enrollee access to in-person pharmacy services within this state by
+19 offering only limited methods of obtaining a prescription drug, including
+20 mail-order only options, while presenting the appearance of a full network of
+21 available pharmacies;
+22 (18) "Enrollee" means an individual who is entitled to receive
+23 healthcare services under the terms of a health benefit plan;
+24 (19)(A) "Ghost network" means a pharmacy benefits manager
+25 network that includes a pharmacy or pharmacist as a participating provider
+26 when that participating provider is:
+27 (i) Not accepting new patients;
+28 (ii) No longer in practice; or
+29 (iii) Otherwise unavailable to or restricted from
+30 providing services to enrollees in this state.
+31 (B) "Ghost network" includes a pharmacy network in which a
+32 significant number of listed participating providers are not accessible to
+33 enrollees within a reasonable time frame or geographic distance;
+34 (20) "Healthcare payor affiliate" means a pharmacy or pharmacist
+35 that directly or indirectly, through one (1) or more intermediaries, owns or
+36 controls, is owned or controlled by, or is under common ownership or control
+2 04-01-2025 14:34:50 ANS087
+
+As Engrossed: H3/19/25 H4/1/25 SB104
+1 with a healthcare payor; and
+2 (21)(A) "Self-administered prescription drug" means a
+3 pharmaceutical that when prescribed does not require assistance by a third
+4 party to administer and can be dispensed by a pharmacy or pharmacist to an
+5 enrollee for self-administration under federal and state laws and
+6 regulations.
+7 (B) "Self-administered prescription drug" does not include
+8 over-the-counter medications that do not require a prescription.
+9
+10 SECTION 3. Arkansas Code § 23-92-506(b), concerning prohibited
+11 practices under the Arkansas Pharmacy Benefits Manager Licensure Act, is
+12 amended to add an additional subdivision to read as follows:
+13 (9) Unless reviewed and approved by the commissioner in
+14 coordination with the board, require pharmacy accreditation standards or
+15 certification requirements inconsistent with, more stringent than, or in
+16 addition to requirements of the board.
+17
+18 SECTION 4. Arkansas Code Title 23, Chapter 92, Subchapter 5, is
+19 amended to add additional sections to read as follows:
+20 23-92-512. Unfair and deceptive trade practices.
+21 (a)(1) A healthcare payor, healthcare payor affiliate, pharmacy
+22 benefits manager, or pharmacy benefits manager affiliate shall not engage in
+23 unfair or deceptive trade practices in the administration of pharmacy
+24 benefits.
+25 (2) Unfair or deceptive trade practices under subdivision (a)(1)
+26 of this section include without limitation:
+27 (A) Requiring an enrollee to utilize a particular
+28 pharmacy benefits manager affiliate;
+29 (B) Requiring a pharmacy or pharmacist to forward or
+30 retransmit a prescription to a specific healthcare payor affiliate or
+31 pharmacy benefits manager affiliate unless the receiving healthcare payor
+32 affiliate or pharmacy benefits manager affiliate can provide verifiable
+33 documentation of the enrollee's consent to use that specific pharmacy;
+34 (C) Implementing a policy or protocol that unreasonably
+35 restricts an enrollee's choice of pharmacy within a pharmacy benefits manager
+36 network, if:
+3 04-01-2025 14:34:50 ANS087
+
+As Engrossed: H3/19/25 H4/1/25 SB104
+1 (i)(a) The pharmacy meets the pharmacy benefits
+2 manager network's relevant and reasonable terms of participation
+3 requirements.
+4 (b) A disagreement or concern regarding
+5 whether relevant and reasonable terms of participation requirements are
+6 relevant and reasonable shall be determined by the Insurance Commissioner;
+7 and
+8 (ii) The pharmacy has existing approval to dispense
+9 one (1) or more self-administered prescription drugs in one (1) or more
+10 pharmacy benefits manager networks for the underlying health benefit plan;
+11 (D)(i) Providing an incentive or imposing a penalty that
+12 effectively coerces or pressures an enrollee to use a particular healthcare
+13 payor affiliate or pharmacy benefits manager affiliate.
+14 (ii) Adjustments to an enrollee's cost-sharing
+15 responsibilities, including copayments, coinsurance, or deductibles, that are
+16 part of the health benefit plan's design are not considered incentives or
+17 penalties under subdivision (a)(2)(D)(i) of this section;
+18 (E) Failing to disclose to an enrollee the options
+19 available for obtaining prescription drugs within the pharmacy benefits
+20 manager network;
+21 (F) Disclosing, sharing, or otherwise making available
+22 enrollee information or enrollee-identifiable prescription information
+23 submitted by a pharmacist or pharmacy to a healthcare payor affiliate or
+24 pharmacy benefits manager affiliate without the written consent of the
+25 enrollee;
+26 (G) Using or disclosing enrollee information or enrollee-
+27 identifiable prescription information for marketing or solicitation purposes
+28 without the written consent of the enrollee; and
+29 (H)(i) Engaging in any conduct that unlawfully restricts,
+30 limits, or interferes with an enrollee's right to choose a pharmacy or
+31 pharmacist, including without limitation actions that violate federal law or
+32 state law or improperly steer enrollees to a specific pharmacy or pharmacist.
+33 (ii) The prohibition under subdivision (a)(2)(H)(i)
+34 of this section does not apply to a change in patient cost-sharing
+35 obligations, including copayments, coinsurance, or deductibles, that are
+36 permitted under applicable law.
+4 04-01-2025 14:34:50 ANS087
+
+As Engrossed: H3/19/25 H4/1/25 SB104
+1 (b)(1) A healthcare payor, healthcare payor affiliate, pharmacy
+2 benefits manager, or pharmacy benefits manager affiliate shall not impose
+3 restrictive terms or conditions that limit an enrollee's or an enrollee’s
+4 assigned representative’s rights to seek an exception to or to appeal a
+5 coverage decision or restriction with his or her health benefit plan.
+6 (2) A healthcare payor, healthcare payor affiliate, pharmacy
+7 benefits manager, or pharmacy benefits manager affiliate shall ensure that:
+8 (A) The processes for seeking an exception and filing an
+9 appeal are clearly communicated to patients in a publicly accessible manner
+10 on its website;
+11 (B) The information necessary to utilize the processes
+12 under subdivision (b)(2)(A) of this section is presented in a manner that is
+13 understandable and not hidden or obscured; and
+14 (C) An enrollee is not hindered or obstructed from
+15 exercising the rights granted to the enrollee under the enrollee's health
+16 benefit plan.
+17 (c)(1) A healthcare payor shall not prohibit, restrict, or impede an
+18 enrollee’s or an enrollee’s authorized representative’s ability to:
+19 (A) Discuss the enrollee's health benefit plan, including
+20 prescription drug benefits, with the healthcare payor or its authorized
+21 representatives;
+22 (B) Obtain necessary exceptions, approvals,
+23 authorizations, or related information to access the enrollee's benefits; or
+24 (C) Appeal decisions regarding the enrollee's benefits
+25 coverage decisions as provided under the terms of the enrollee's health
+26 benefit plan.
+27 (2) The healthcare payor shall ensure that an enrollee has
+28 reasonable access to the discussions, approvals, and appeals processes
+29 regardless of the pharmacy benefits manager, affiliate, or third-party
+30 administrator selected to administer prescription benefits.
+31 (3) It is an unfair and deceptive trade practice for a
+32 healthcare payor to delegate responsibilities in a manner that obstructs,
+33 hinders, or prevents an enrollee from exercising the enrollee's rights under
+34 his or her health benefit plan.
+35 (d)(1) A pharmacy benefits manager and pharmacy benefits manager
+36 affiliate shall adhere to all applicable federal and state privacy laws when
+5 04-01-2025 14:34:50 ANS087
+
+As Engrossed: H3/19/25 H4/1/25 SB104
+1 communicating with an enrollee.
+2 (2) A pharmacy benefits manager and pharmacy benefits manager
+3 affiliate shall not use enrollee information for marketing purposes without
+4 the written consent of the enrollee.
+5 (e) A pharmacy benefits manager and pharmacy benefits manager
+6 affiliate shall comply with the timely processing of complaints and appeals
+7 as established by rule of the commissioner.
+8 (f)(1) The commissioner may promulgate rules necessary to implement,
+9 administer, and enforce this section.
+10 (2) Rules that the commissioner may adopt under this section
+11 include without limitation rules relating to implementing a penalty structure
+12 for a healthcare payor, healthcare payor affiliate, pharmacy benefits
+13 manager, or pharmacy benefits manager affiliate that fails to comply with
+14 this section that is based on the number of Arkansas residents serviced by
+15 the healthcare payor, healthcare payor affiliate, pharmacy benefits manager,
+16 or pharmacy benefits manager affiliate.
+17 (g)(1) A violation of this subchapter is an unfair and deceptive act
+18 or practice as defined by the Deceptive Trade Practices Act, § 4-88-101 et
+19 seq.
+20 (2) All remedies, penalties, and authority granted to the
+21 Attorney General under the Deceptive Trade Practices Act, § 4-88-101 et seq.,
+22 shall be available to the Attorney General for the enforcement of this
+23 subchapter.
+24
+25 23-92-513. Prohibition of ghost networks.
+26 (a)(1) A pharmacy benefits manager shall not create, utilize, or
+27 maintain a ghost network within this state.
+28 (2) For purposes of this section, a network shall not be
+29 considered a ghost network if the network includes at least one (1) mail-
+30 order pharmacy option and one (1) in-person pharmacy option that is
+31 physically located in this state if both the mail-order pharmacy option and
+32 the in-person pharmacy option are:
+33 (A) Accepting new patients; and
+34 (B) Otherwise available to an enrollee in this state.
+35 (b)(1) A healthcare payor or pharmacy benefits manager shall not
+36 create, utilize, or maintain a carve-out network within this state by:
+6 04-01-2025 14:34:50 ANS087
+
+As Engrossed: H3/19/25 H4/1/25 SB104
+1 (A) Limiting enrollee access to specific pharmacies or
+2 pharmacists for self-administered prescription drugs when an enrollee is
+3 directed to use a healthcare payor affiliate, pharmacy benefits manager
+4 affiliate, or other limited option while the pharmacy benefits manager
+5 network appears to offer a full range of pharmacist services;
+6 (B) Failing to provide adequate access to pharmacy services for
+7 all covered self-administered prescription drugs, including through a
+8 licensed pharmacy physically located within this state; or
+9 (C) Representing that a broad network of pharmacies or
+10 pharmacists is available if, in practice, access to certain self-administered
+11 prescription drugs is restricted to a carve-out network that lacks sufficient
+12 in-state providers accessible to an enrollee.
+13 (2) For purposes of this section, a network shall not be
+14 considered a carve-out network if the network includes at least one (1) mail-
+15 order pharmacy option and one (1) in-person pharmacy option that is
+16 physically located in this state if both the mail-order pharmacy option and
+17 the in-person pharmacy option are:
+18 (A) Accepting new patients; and
+19 (B) Otherwise available to an enrollee in this state.
+20 (c) A healthcare payor or pharmacy benefits manager shall ensure that
+21 its pharmacy benefits manager network of participating pharmacists and
+22 pharmacies:
+23 (1) Accurately reflects the availability of pharmacists and
+24 pharmacies actively accepting new patients;
+25 (2) Provides an enrollee with reasonable access to pharmacist
+26 services within this state, including options for in-person consultations and
+27 medication pickup from a licensed pharmacist or pharmacy in this state;
+28 (3) Is not solely serviced by a mail-order pharmacy; and
+29 (4) Is not solely serviced by a pharmacy benefits manager
+30 affiliate or healthcare payor affiliate.
+31 (d) A healthcare payor or pharmacy benefits manager shall:
+32 (1) Regularly verify and update its pharmacy benefits manager
+33 network directory to reflect the current availability of participating
+34 pharmacists and pharmacies;
+35 (2) Remove a pharmacist or pharmacy from its pharmacy benefits
+36 manager network directory if that pharmacist or pharmacy is:
+7 04-01-2025 14:34:50 ANS087
+
+As Engrossed: H3/19/25 H4/1/25 SB104
+1 (A) Not accepting new patients;
+2 (B) No longer in practice; or
+3 (C) Otherwise unavailable to provide services; and
+4 (3) Provide accurate and accessible information to an enrollee
+5 regarding participating pharmacists and pharmacies within the pharmacy
+6 benefits manager network in a publicly accessible manner on its website.
+7 (e)(1) The Insurance Commissioner may promulgate rules necessary to
+8 implement, administer, and enforce this section.
+9 (2) Rules that the commissioner may adopt under this section
+10 include without limitation rules relating to:
+11 (A) Requiring a healthcare payor and pharmacy benefits
+12 manager to submit periodic reports on pharmacy benefits manager network
+13 adequacy and accessibility;
+14 (B) Investigating a complaint regarding a ghost network
+15 and taking appropriate enforcement action; and
+16 (C) Implementing a penalty structure for a healthcare
+17 payor or pharmacy benefits manager that fails to comply with this section
+18 that:
+19 (i) Is based on the number of Arkansas residents
+20 serviced by the healthcare payor or pharmacy benefits manager; and
+21 (ii) Does not exceed one hundred thousand dollars
+22 ($100,000) per violation.
+23
+24 23-92-514. Patient accommodation and nonrestriction clause.
+25 (a) A healthcare payor or pharmacy benefits manager shall not enforce
+26 the use of a particular healthcare payor affiliate or pharmacy benefits
+27 manager affiliate without considering the enrollee's individual limitations,
+28 including without limitation:
+29 (1) Medical limitations, including chronic illnesses, temporary
+30 or permanent disabilities, or conditions requiring specialized care or that
+31 impair cognitive or motor functions;
+32 (2) Complex therapies, when the self-administered prescription
+33 drug is one (1) of multiple pharmaceuticals provided to an enrollee receiving
+34 treatment and mailing the individual pharmaceutical has the potential to
+35 interfere with the appropriate and timely administration requirements;
+36 (3) Physical limitations, including mobility impairments or
+8 04-01-2025 14:34:50 ANS087
+
+As Engrossed: H3/19/25 H4/1/25 SB104
+1 inability to retrieve mail or other deliveries without assistance or risk for
+2 physical harm to self while retrieving mail or other deliveries;
+3 (4) Socioeconomic limitations, including financial hardships,
+4 lack of reliable transportation, lack of a caregiver, or other socioeconomic
+5 barriers that may prohibit an enrollee from being present during delivery or
+6 prohibit an enrollee from accessing the delivery location;
+7 (5) Housing limitations, including homelessness, medical
+8 confinement, incarceration, unstable housing situations, residences without
+9 secure mail delivery options, or residences with shared mail facilities;
+10 (6) Chain of custody, when a dispensing pharmacy cannot
+11 guarantee that the recipient of the self-administered prescription drug will
+12 be present according to federal and state laws and regulations;
+13 (7) Prescribing provider order contradictions, when the
+14 dispensing pharmacy is unable to guarantee that the prescribing provider's
+15 orders will be followed if the self-administered prescription drug is
+16 delivered, including situations in which the prescribing provider requires
+17 administration under direct supervision of a medical professional for a
+18 customarily self-administered prescription drug;
+19 (8) Medication storage and efficacy concerns, when the
+20 dispensing pharmacy is unable to guarantee that the enrollee will receive the
+21 self-administered prescription drug in a timely fashion that does not
+22 interfere with the environmental storage and transportation requirements
+23 denoted by the manufacturer of the pharmaceutical; and
+24 (9) Other relevant limitations, including mental health
+25 conditions, cognitive or behavioral impairments, or any other factors that
+26 impede or put at risk an enrollee's ability to receive, access, or administer
+27 his or her self-administered prescription drugs.
+28 (b)(1) An enrollee may obtain medications from a pharmacy of his or
+29 her choice when healthcare payor affiliate services or pharmacy benefits
+30 manager affiliate services are not suitable due to the limitations specified
+31 under subsection (a) of this section.
+32 (2) A healthcare payor or pharmacy benefits manager shall
+33 facilitate access to in-person pharmacy services without imposing additional
+34 costs or penalties on the enrollee.
+35 (c) A healthcare payor or pharmacy benefits manager shall not mandate
+36 the use of a healthcare payor affiliate or pharmacy benefits manager
+9 04-01-2025 14:34:50 ANS087
+
+As Engrossed: H3/19/25 H4/1/25 SB104
+1 affiliate in cases in which use of a pharmacy benefits manager affiliate or
+2 healthcare payor affiliate would adversely affect the enrollee's ability to
+3 receive or administer his or her self-administered prescription drug safely
+4 and effectively, considering the patient's individual circumstances under
+5 subsection (a) of this section as determined by the enrollee's healthcare
+6 provider.
+7 (d) A healthcare payor and pharmacy benefits manager shall maintain
+8 compliance in all dispensing practices with:
+9 (1) The prescribing healthcare provider's orders; and
+10 (2) All applicable federal and state laws regarding medication
+11 dispensing and chain of custody.
+12 (e) A healthcare payor or pharmacy benefits manager shall not
+13 retaliate against an enrollee or healthcare provider for exercising his or
+14 her rights under this section by:
+15 (1) Increasing costs;
+16 (2) Denying services; or
+17 (3) Reporting to external agencies.
+18 (f) A dispute arising from the enforcement of this section shall be
+19 subject to a fair and prompt resolution process as defined by rule by the
+20 Insurance Commissioner.
+21 (g)(1) The commissioner may promulgate rules necessary to implement,
+22 administer, and enforce this section.
+23 (2) Rules that the commissioner may adopt under this section
+24 include without limitation rules relating to:
+25 (A) Resolving disputes that arise from enforcement of this
+26 section through a fair and prompt resolution process; and
+27 (B) Implementing a penalty structure for a healthcare
+28 payor or pharmacy benefits manager that fails to comply with this section
+29 that:
+30 (i) Is based on the number of Arkansas residents
+31 serviced by the healthcare payor or pharmacy benefits manager; and
+32 (ii) Does not exceed one hundred thousand dollars
+33 ($100,000) per violation.
+34
+35 23-92-515. Self-administered prescription drug — Definition
+36 controlling.
+10 04-01-2025 14:34:50 ANS087
+
+As Engrossed: H3/19/25 H4/1/25 SB104
+1 (a) The definition of "self-administered prescription drug" under this
+2 subchapter is controlling, and that defined term shall not be altered,
+3 modified, reclassified, relabeled, or reinterpreted by a health benefit plan,
+4 healthcare payor, healthcare payor affiliate, pharmacy benefits manager, or
+5 pharmacy benefits manager affiliate.
+6 (b) A classification, labeling, or interpretation by a health benefit
+7 plan, healthcare payor, healthcare payor affiliate, pharmacy benefits
+8 manager, or pharmacy benefits manager affiliate does not override or
+9 supersede the definition of "self-administered prescription drug" under this
+10 subchapter.
+11
+12 23-92-516. Violation of Deceptive Trade Practices Act —Enforcement —
+13 Exclusions.
+14 (a) A prohibition of an activity under this subchapter is applicable
+15 to a person or entity that:
+16 (1) Performs the prohibited activity;
+17 (2) Causes another person or entity to perform the prohibited
+18 activity;
+19 (3) Solicits, advises, encourages, or coerces another person or
+20 entity to perform the prohibited activity;
+21 (4) Aids or attempts to aid another person or entity in
+22 performing a prohibited activity; or
+23 (5) Indirectly performs the prohibited activity.
+24 (b)(1) This subchapter does not require a self-funded health benefit
+25 plan to:
+26 (A) Alter existing covered benefits of the self-funded
+27 health benefit plan; or
+28 (B) Modify underlying plan terms of the self-funded health
+29 benefit plan.
+30 (2) However, to the extent not preempted by federal law, this
+31 section applies to the administration and business practices of pharmacy
+32 benefits within the state, including without limitation the conduct of
+33 pharmacy benefits managers and pharmacy benefits manager affiliates.
+34 (c)(1) If a pharmacy benefits manager imposes or represents any
+35 requirement or limitation as health-benefit-plan-imposed, the actual terms of
+36 the underlying health benefit plan document shall control.
+11 04-01-2025 14:34:50 ANS087
+
+As Engrossed: H3/19/25 H4/1/25 SB104
+1 (2) The plan sponsor shall retain the authority to interpret and
+2 apply the health benefit plan sponsor's own health benefit plan’s terms to
+3 the extent permitted by applicable federal and state law.
+4 (d) If it is determined by the Insurance Commissioner that a pharmacy
+5 benefits manager or pharmacy benefits manager affiliate is operating outside
+6 the terms of the underlying health benefit plan, all dispute, enforcement,
+7 and penalties under this subchapter shall apply and may be enforced by the
+8 commissioner.
+9 SECTION 5. EMERGENCY CLAUSE. It is found and determined by the
+10 General Assembly of the State of Arkansas that an enrollee's access to
+11 prescription medications is of immediate concern; that undue restrictions on
+12 pharmacies and pharmacists hinder patient care; and that this act is
+13 immediately necessary to protect an enrollee's rights and ensure timely
+14 access to medications. Therefore, an emergency is declared to exist, and this
+15 act being immediately necessary for the preservation of the public peace,
+16 health, and safety shall become effective on:
+17 (1) The date of its approval by the Governor;
+18 (2) If the bill is neither approved nor vetoed by the Governor,
+19 the expiration of the period of time during which the Governor may veto the
+20 bill; or
+21 (3) If the bill is vetoed by the Governor and the veto is
+22 overridden, the date the last house overrides the veto.
+23
+24 /s/C. Penzo
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+12 04-01-2025 14:34:50 ANS087
+
+[DELETED:  A   EBL1     A M A A   T M P M E  B   S  I t   ( a   ( p   ( i b l   S]
+[DELETED:  S2 0 i a   ( b w s r    ( t o c    ( b     (     ( p    ( r o m a   ( h   ( n w     (     (     ( p    ( s e   ( t c]
+[DELETED:  S3 0 w   ( p p e r    ( o   S p a   ( c c a   S a  2  ( b u b   ( o    ( p    ( r p a d    ( r n]
+[DELETED:  S4 0     ( m r      ( w r a     ( o p    ( e p     ( r p p    ( a m    ( e s p e    ( i w    ( l p s     ( o o p]
+[DELETED:  S5 0  ( b r a c   ( b    ( a o    ( u u    ( e b  ( e    ( p r    ( a    ( c b   ( r r a   ( h h h  ( a]
+[DELETED:  S6 0 c   ( a t  ( a a  ( a   ( i f m t t o  ( o s   ( A s s    2  ( m   ( c o p t    (    (  ( c]
+[DELETED:  S7 0   ( p d a n   ( a l   ( p p i   ( c o p t    (    (  ( i p   ( p   ( s m   (   ( a  (   ( n p   ( m]
+[DELETED:  S8 0    (    (    (   ( r b  ( i   ( i    ( m a    ( a    ( p t     ( s     ( (   2  ( t m i   ( o i   ( d t i   (]
+[DELETED:  S9 0 i p   ( l b p   ( c s   ( g b   ( d o d a c   ( d s i d   ( c i h  ( h m u   ( f c  ( t]
+[DELETED:  S1 0 a h r a s p  ( c   (   ( d  ( r h   (   (   (  ( s I  ( a   ( i    ( s    ( p t     ( s     ( (   2 c]
+[DELETED:  S1 0  ( s m h p  ( p m s s   2 E  ( t   (   ( a   ( e   ( p   (  ( p    ( h    ( b   ( s b p  ( r t]
+[DELETED:  S1 0   ( a t  ( b t a c  S G p p i a a h   (   ( t b   ( o  /            ]

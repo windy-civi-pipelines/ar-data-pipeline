@@ -1,0 +1,259 @@
+Title: Stricken language would be deleted from and underlined language would be added to present law.
+Official Title: Stricken language would be deleted from and underlined language would be added to present law.
+Number of Sections: 1
+Source: versions - SB 60
+Media Type: application/pdf
+Strikethrough Detection: 3 sections found
+
+================================================================================
+
+Section 1:
+1 State of Arkansas As Engrossed: S1/29/25
+A Bill
+2 95th General Assembly
+3 Regular Session, 2025 SENATE BILL 60
+4
+5 By: Senator Hill
+6 By: Representative Evans
+7
+For An Act To Be Entitled
+8
+9 AN ACT TO AMEND THE ARKANSAS DATA CENTERS ACT OF
+10 2023; TO PROHIBIT A DIGITAL ASSET MINING BUSINESS
+11 FROM BEING LOCATED WITHIN A THIRTY-MILE RADIUS OF A
+12 MILITARY FACILITY; TO DECLARE AN EMERGENCY; AND FOR
+13 OTHER PURPOSES.
+14
+15
+Subtitle
+16
+17 TO PROHIBIT A DIGITAL ASSET MINING
+18 BUSINESS FROM BEING LOCATED WITHIN A
+19 THIRTY-MILE RADIUS OF A MILITARY
+20 FACILITY; AND TO DECLARE AN EMERGENCY.
+21
+22 BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF ARKANSAS:
+23
+24 SECTION 1. Arkansas Code Title 14, Chapter 1, Subchapter 6, is amended
+25 to add an additional section to read as follows:
+26 14-1-607. Operation of digital asset mining business within thirty-
+27 mile radius of military facility prohibited — Definition.
+28 (a) As used in this section:
+29 (1) "Military facility" means the:
+30 (A) Little Rock Air Force Base;
+31 (B) Camp Joseph T. Robinson Maneuver Training Center;
+32 (C) Ebbing Air National Guard Base;
+33 (D) Fort Chaffee Joint Maneuver Training Center; and
+34 (E) Pine Bluff Arsenal; and
+35 (B) Includes without limitation a military:
+36 (i) Base or camp;
+*LJH029*
+01-29-2025 15:42:50 LJH029
+As Engrossed: S1/29/25 SB60
+1 (ii) Hospital or clinic; and
+2 (iii) Arsenal; and
+3 (2) "Operation" means generating income as a result of
+4 generating digital assets by securing a blockchain network.
+5 (b) Unless the digital asset mining business was issued a permit by
+6 the Oil and Gas Commission on or before December 31, 2024, a digital asset
+7 mining business shall:
+8 (1) Not operate within a thirty-mile radius of a military
+9 facility; and
+10 (2) Cease construction of a location that is within a thirty-
+11 mile radius of a military facility.
+12 (c) Upon request of a person or upon receipt of information that leads
+13 the Attorney General to believe that a violation of this section may exist,
+14 the Attorney General may conduct an investigation that includes without
+15 limitation:
+16 (1) Receiving sworn statements; and
+17 (2) Issuing subpoenas to compel the:
+18 (A) Testimony of witnesses subpoenaed before him or her;
+19 and
+20 (B) Production of records and other documents under § 25-
+21 16-705.
+22 (d) If as a result of an investigation under subsection (c) of this
+23 section the Attorney General concludes that a violation of this section has
+24 occurred, the Attorney General shall order the digital asset mining business
+25 to shut down operations at each location that is within a thirty-mile radius
+26 of a military facility.
+27
+28 SECTION 2. DO NOT CODIFY. Applicability.
+29 (a) The Oil and Gas Commission shall not issue a permit to a digital
+30 asset mining business that plans to operate at a location within a thirty-
+31 mile radius of a military facility on or after the effective date of this
+32 act.
+33 (b) If the commission has already issued a permit to a digital asset
+34 mining business that has a location that is within a thirty-mile radius of a
+35 military facility before the effective date of this act, the commission shall
+36 revoke the permit unless the digital asset mining facility shuts down
+2 01-29-2025 15:42:50 LJH029
+As Engrossed: S1/29/25 SB60
+1 operations or construction at the location that is within a thirty-mile
+2 radius of a military facility.
+3
+4 SECTION 3. EMERGENCY CLAUSE. It is found and determined by the
+5 General Assembly of the State of Arkansas that digital asset mining, also
+6 known as "cryptomining", is a rising industry in the state that poses unique
+7 opportunities as well as risks; that risks posed by digital asset mining
+8 include without limitation threats to national security and the security of
+9 the State of Arkansas; that threats to national security and the security of
+10 the State of Arkansas are amplified by a digital asset mining facility's
+11 being located within a thirty-mile radius of a military facility; that there
+12 are military facilities located in many different areas of the State of
+13 Arkansas; and that this act is immediately necessary in order to ensure the
+14 health and safety of the State of Arkansas and its citizens. Therefore, an
+15 emergency is declared to exist, and this act being immediately necessary for
+16 the preservation of the public peace, health, and safety shall become
+17 effective on:
+18 (1) The date of its approval by the Governor;
+19 (2) If the bill is neither approved nor vetoed by the Governor,
+20 the expiration of the period of time during which the Governor may veto the
+21 bill; or
+22 (3) If the bill is vetoed by the Governor and the veto is
+23 overridden, the date the last house overrides the veto.
+24
+25 /s/Hill
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+3 01-29-2025 15:42:50 LJH029
+[DELETED:  A       A 2 F M O   T B T F  B   S t  1 m  (   (    (    (    (    (    (    (     (]
+[DELETED:  S2 0     (     (   ( g  ( t m   ( f   ( m  ( t t l   (   (    ( a    ( 1  ( s o t o    S  ( a m a  ( m m r]
+[DELETED:  S3 0 o r   S G k o i t t b a A h e t e   (   ( t b   ( o  /           ]
+
+
+================================================================================
+
+Raw Text:
+Stricken language would be deleted from and underlined language would be added to present law.
+1 State of Arkansas As Engrossed: S1/29/25
+A Bill
+2 95th General Assembly
+3 Regular Session, 2025 SENATE BILL 60
+4
+5 By: Senator Hill
+6 By: Representative Evans
+7
+For An Act To Be Entitled
+8
+9 AN ACT TO AMEND THE ARKANSAS DATA CENTERS ACT OF
+10 2023; TO PROHIBIT A DIGITAL ASSET MINING BUSINESS
+11 FROM BEING LOCATED WITHIN A THIRTY-MILE RADIUS OF A
+12 MILITARY FACILITY; TO DECLARE AN EMERGENCY; AND FOR
+13 OTHER PURPOSES.
+14
+15
+Subtitle
+16
+17 TO PROHIBIT A DIGITAL ASSET MINING
+18 BUSINESS FROM BEING LOCATED WITHIN A
+19 THIRTY-MILE RADIUS OF A MILITARY
+20 FACILITY; AND TO DECLARE AN EMERGENCY.
+21
+22 BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF ARKANSAS:
+23
+24 SECTION 1. Arkansas Code Title 14, Chapter 1, Subchapter 6, is amended
+25 to add an additional section to read as follows:
+26 14-1-607. Operation of digital asset mining business within thirty-
+27 mile radius of military facility prohibited — Definition.
+28 (a) As used in this section:
+29 (1) "Military facility" means the:
+30 (A) Little Rock Air Force Base;
+31 (B) Camp Joseph T. Robinson Maneuver Training Center;
+32 (C) Ebbing Air National Guard Base;
+33 (D) Fort Chaffee Joint Maneuver Training Center; and
+34 (E) Pine Bluff Arsenal; and
+35 (B) Includes without limitation a military:
+36 (i) Base or camp;
+*LJH029*
+01-29-2025 15:42:50 LJH029
+
+As Engrossed: S1/29/25 SB60
+1 (ii) Hospital or clinic; and
+2 (iii) Arsenal; and
+3 (2) "Operation" means generating income as a result of
+4 generating digital assets by securing a blockchain network.
+5 (b) Unless the digital asset mining business was issued a permit by
+6 the Oil and Gas Commission on or before December 31, 2024, a digital asset
+7 mining business shall:
+8 (1) Not operate within a thirty-mile radius of a military
+9 facility; and
+10 (2) Cease construction of a location that is within a thirty-
+11 mile radius of a military facility.
+12 (c) Upon request of a person or upon receipt of information that leads
+13 the Attorney General to believe that a violation of this section may exist,
+14 the Attorney General may conduct an investigation that includes without
+15 limitation:
+16 (1) Receiving sworn statements; and
+17 (2) Issuing subpoenas to compel the:
+18 (A) Testimony of witnesses subpoenaed before him or her;
+19 and
+20 (B) Production of records and other documents under § 25-
+21 16-705.
+22 (d) If as a result of an investigation under subsection (c) of this
+23 section the Attorney General concludes that a violation of this section has
+24 occurred, the Attorney General shall order the digital asset mining business
+25 to shut down operations at each location that is within a thirty-mile radius
+26 of a military facility.
+27
+28 SECTION 2. DO NOT CODIFY. Applicability.
+29 (a) The Oil and Gas Commission shall not issue a permit to a digital
+30 asset mining business that plans to operate at a location within a thirty-
+31 mile radius of a military facility on or after the effective date of this
+32 act.
+33 (b) If the commission has already issued a permit to a digital asset
+34 mining business that has a location that is within a thirty-mile radius of a
+35 military facility before the effective date of this act, the commission shall
+36 revoke the permit unless the digital asset mining facility shuts down
+2 01-29-2025 15:42:50 LJH029
+
+As Engrossed: S1/29/25 SB60
+1 operations or construction at the location that is within a thirty-mile
+2 radius of a military facility.
+3
+4 SECTION 3. EMERGENCY CLAUSE. It is found and determined by the
+5 General Assembly of the State of Arkansas that digital asset mining, also
+6 known as "cryptomining", is a rising industry in the state that poses unique
+7 opportunities as well as risks; that risks posed by digital asset mining
+8 include without limitation threats to national security and the security of
+9 the State of Arkansas; that threats to national security and the security of
+10 the State of Arkansas are amplified by a digital asset mining facility's
+11 being located within a thirty-mile radius of a military facility; that there
+12 are military facilities located in many different areas of the State of
+13 Arkansas; and that this act is immediately necessary in order to ensure the
+14 health and safety of the State of Arkansas and its citizens. Therefore, an
+15 emergency is declared to exist, and this act being immediately necessary for
+16 the preservation of the public peace, health, and safety shall become
+17 effective on:
+18 (1) The date of its approval by the Governor;
+19 (2) If the bill is neither approved nor vetoed by the Governor,
+20 the expiration of the period of time during which the Governor may veto the
+21 bill; or
+22 (3) If the bill is vetoed by the Governor and the veto is
+23 overridden, the date the last house overrides the veto.
+24
+25 /s/Hill
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+3 01-29-2025 15:42:50 LJH029
+
+[DELETED:  A       A 2 F M O   T B T F  B   S t  1 m  (   (    (    (    (    (    (    (     (]
+[DELETED:  S2 0     (     (   ( g  ( t m   ( f   ( m  ( t t l   (   (    ( a    ( 1  ( s o t o    S  ( a m a  ( m m r]
+[DELETED:  S3 0 o r   S G k o i t t b a A h e t e   (   ( t b   ( o  /           ]

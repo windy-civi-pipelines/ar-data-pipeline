@@ -1,0 +1,1286 @@
+Title: Stricken language would be deleted from and underlined language would be added to present law.
+Official Title: Stricken language would be deleted from and underlined language would be added to present law.
+Number of Sections: 1
+Source: versions - SB 567
+Media Type: application/pdf
+Strikethrough Detection: 16 sections found
+
+================================================================================
+
+Section 1:
+1 State of Arkansas
+A Bill
+2 95th General Assembly
+3 Regular Session, 2025 SENATE BILL 567
+4
+5 By: Senator Crowell
+6 By: Representative R. Burkes
+7
+For An Act To Be Entitled
+8
+9 AN ACT TO AMEND THE MULTISTATE TAX COMPACT AND THE
+10 UNIFORM DIVISION OF INCOME FOR TAX PURPOSES ACT; TO
+11 AMEND AND MODERNIZE THE LAW CONCERNING THE
+12 APPORTIONMENT OF INCOME DERIVED FROM MULTISTATE
+13 OPERATIONS; TO CHANGE THE METHOD FOR SOURCING OF
+14 RECEIPTS FOR SERVICES AND INTANGIBLES FROM COST OF
+15 PERFORMANCE TO MARKET-BASED SOURCING; AND FOR OTHER
+16 PURPOSES.
+17
+18
+Subtitle
+19
+20 TO AMEND AND MODERNIZE THE LAW
+21 CONCERNING THE APPORTIONMENT OF INCOME
+22 DERIVED FROM MULTISTATE OPERATIONS; AND
+23 TO CHANGE THE METHOD FOR SOURCING OF
+24 RECEIPTS FOR SERVICES AND INTANGIBLES.
+25
+26 BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF ARKANSAS:
+27
+28 SECTION 1. Arkansas Code § 26-5-101, Article IV, concerning the
+29 division of income under the Multistate Tax Compact, is amended to read as
+30 follows:
+31 ARTICLE IV
+32 Division of Income
+33
+34 1. As used in this Article, unless the context otherwise
+35 requires:
+36 (a) “Business income” means income arising from
+*JLL351*
+03/26/2025 2:53:52 PM JLL351
+SB567
+1 transactions and activity in the regular course of the taxpayer's trade or
+2 business and includes income from tangible and intangible property if the
+3 acquisition, management, and disposition of the property constitute integral
+4 parts of the taxpayer's regular trade or business operation "Apportionable
+5 income" means:
+6 (1) All income that is apportionable under the
+7 United States Constitution and is not allocated under the laws of this state,
+8 including:
+9 (A) Income arising from transactions and
+10 activity in the regular course of the taxpayer's trade or business; and
+11 (B) Income arising from tangible and
+12 intangible property if the acquisition, management, employment, development,
+13 or disposition of the property is or was related to the operation of the
+14 taxpayer’s trade or business; and
+15 (2) Any income that would be allocable to this
+16 state under the United States Constitution, but that is apportioned rather
+17 than allocated pursuant to the laws of this state;
+18 (b) “Commercial domicile” means the principal place
+19 from which the trade or business of the taxpayer is directed or managed;
+20 (c) “Compensation” means wages, salaries,
+21 commissions, and any other form of remuneration paid to employees for
+22 personal services;
+23 (d) [Repealed.]
+24 (e) “Nonbusiness Nonapportionable income” means all
+25 income other than business apportionable income;
+26 (f) “Public utility” means any business entity (1)
+27 which owns or operates any plant, equipment, property, franchise, or license
+28 for the transmission of communications, transportation of goods or persons,
+29 except by pipeline, or the production, transmission, sale, delivery, or
+30 furnishing of electricity, water, or steam; and (2) whose rates of charges
+31 for goods or services have been established or approved by a federal, state,
+32 or local government or governmental agency;
+33 (g) “Sales” "Receipts" means all gross receipts of
+34 the taxpayer not allocated under paragraphs 4 through 8 of this article and
+35 that are received from transactions and activity in the regular course of the
+36 taxpayer’s trade or business; except that receipts of a taxpayer from hedging
+2 03/26/2025 2:53:52 PM JLL351
+SB567
+1 transactions and from the maturity, redemption, sale, exchange, loan or other
+2 disposition of cash or securities shall be excluded;
+3 (h) “State” means any state of the United States,
+4 the District of Columbia, the Commonwealth of Puerto Rico, any territory or
+5 possession of the United States, and any foreign country or political
+6 subdivision thereof;
+7 (i) “This state” means the state in which the
+8 relevant tax return is filed or, in the case of application of this article
+9 to the apportionment and allocation of income for local tax purposes, the
+10 subdivision or local taxing district in which the relevant tax return is
+11 filed State of Arkansas.
+12 2. Any taxpayer having income from business activity
+13 which is taxable both within and without this state, other than activity as a
+14 railroad or public utility or the rendering of purely personal services by an
+15 individual, shall allocate and apportion his net income as provided in this
+16 article. If a taxpayer has income from business activity as a public utility
+17 but derives the greater percentage of his income from activities subject to
+18 this article, the taxpayer may elect to allocate and apportion his entire net
+19 income as provided in this article.
+20 3. For purposes of allocation and apportionment of income
+21 under this article, a taxpayer is taxable in another state if (1) in that
+22 state he the taxpayer is subject to a net income tax, a franchise tax
+23 measured by net income, a franchise tax for the privilege of doing business,
+24 or a corporate stock tax, or (2) that state has jurisdiction to subject the
+25 taxpayer to a net income tax regardless of whether, in fact, the state does
+26 or does not or any other tax measured by income or other measure of business
+27 activity in the state and the taxpayer files the requisite tax return in the
+28 other state, or (2) the state has no net income tax, franchise tax measured
+29 by net income, or any other tax measured by income or other measure of
+30 business activity in the state as provided in this section and the taxpayer
+31 has activities in the other state that exceed those protected by 15 U.S.C. §§
+32 381 — 384.
+33 4. Rents and royalties from real or tangible personal
+34 property, capital gains, interest, dividends, or patent or copyright
+35 royalties, to the extent that they constitute nonbusiness nonapportionable
+36 income, shall be allocated as provided in paragraphs 5 through 8 of this
+3 03/26/2025 2:53:52 PM JLL351
+SB567
+1 article.
+2 5.(a) Net rents and royalties from real property located
+3 in this state are allocable to this state.
+4 (b) Net rents and royalties from tangible personal
+5 property are allocable to this state: (1) if and to the extent that the
+6 property is utilized in this state, or (2) in their entirety if the
+7 taxpayer's commercial domicile is in this state and the taxpayer is not
+8 organized under the laws of or taxable in the state in which the property is
+9 utilized.
+10 (c) The extent of utilization of tangible personal
+11 property in a state is determined by multiplying the rents and royalties by a
+12 fraction, the numerator of which is the number of days of physical location
+13 of the property in the state during the rental or royalty period in the
+14 taxable year and the denominator of which is the number of days of physical
+15 location of the property everywhere during all rental or royalty periods in
+16 the taxable year. If the physical location of the property during the rental
+17 or royalty period is unknown or unascertainable by the taxpayer, tangible
+18 personal property is utilized in the state in which the property was located
+19 at the time the rental or royalty payer obtained possession.
+20 6.(a) Capital gains and losses from sales of real property
+21 located in this state are allocable to this state.
+22 (b) Capital gains and losses from sales of tangible
+23 personal property are allocable to this state if (1) the property had a situs
+24 in this state at the time of the sale, or (2) the taxpayer's commercial
+25 domicile is in this state and the taxpayer is not taxable in the state in
+26 which the property had a situs.
+27 (c) Capital gains and losses from sales of
+28 intangible personal property are allocable to this state if the taxpayer's
+29 commercial domicile is in this state.
+30 7. Interest and dividends are allocable to this state if
+31 the taxpayer's commercial domicile is in this state.
+32 8.(a) Patent and copyright royalties are allocable to this
+33 state: (1) if and to the extent that the patent or copyright is utilized by
+34 the payer in this state, or (2) if and to the extent that the patent
+35 copyright is utilized by the payer in the state in which the taxpayer is not
+36 taxable and the taxpayer's commercial domicile is in this state.
+4 03/26/2025 2:53:52 PM JLL351
+SB567
+1 (b) A patent is utilized in a state to the extent
+2 that it is employed in production, fabrication, manufacturing, or other
+3 processing in the state or to the extent that a patented product is produced
+4 in the state. If the basis of receipts from patent royalties does not permit
+5 allocation to states or if the accounting procedures do not reflect states of
+6 utilization, the patent is utilized in the state in which the taxpayer's
+7 commercial domicile is located.
+8 (c) A copyright is utilized in a state to the
+9 extent that printing or other publication originates in the state. If the
+10 basis of receipts from copyright royalties does not permit allocation to
+11 states or if the accounting procedures do not reflect states of utilization,
+12 the copyright is utilized in the state in which the taxpayer's commercial
+13 domicile is located.
+14 9. For the tax year beginning January 1, 2021, all
+15 business All apportionable income shall be apportioned to this state by
+16 multiplying the income by a fraction, the numerator of which is the total
+17 sales receipts of the taxpayer in this state during the tax period and the
+18 denominator of which is the total sales receipts of the taxpayer everywhere
+19 during the tax period.
+20 10. [Repealed.]
+21 11. [Repealed.]
+22 12. [Repealed.]
+23 13. [Repealed.]
+24 14. [Repealed.]
+25 15. [Repealed.]
+26 16. Sales Receipts from the sale of tangible personal
+27 property are in this state if:
+28 (a) The property is delivered or shipped to a
+29 purchaser within this state regardless of the f.o.b. point or other
+30 conditions of the sale; or
+31 (b) The property is shipped from an office, store,
+32 warehouse, factory, or other place of storage in this state and the taxpayer
+33 is not taxable in the state of the purchaser, in which case the sales
+34 receipts shall be sourced as follows:
+35 (1) For the tax year beginning on January 1,
+36 2024, sales receipts shall be sourced eighty-five and seventy-one hundredths
+5 03/26/2025 2:53:52 PM JLL351
+SB567
+1 percent (85.71%) within this state and fourteen and twenty-nine hundredths
+2 percent (14.29%) outside this state;
+3 (2) For the tax year beginning on January 1,
+4 2025, sales receipts shall be sourced seventy-one and forty-two hundredths
+5 percent (71.42%) within this state and twenty-eight and fifty-eight
+6 hundredths percent (28.58%) outside this state;
+7 (3) For the tax year beginning on January 1,
+8 2026, sales receipts shall be sourced fifty-seven and thirteen hundredths
+9 percent (57.13%) within this state and forty-two and eighty-seven hundredths
+10 percent (42.87%) outside this state;
+11 (4) For the tax year beginning on January 1,
+12 2027, sales receipts shall be sourced forty-two and eighty-four hundredths
+13 percent (42.84%) within this state and fifty-seven and sixteen hundredths
+14 percent (57.16%) outside this state;
+15 (5) For the tax year beginning on January 1,
+16 2028, sales receipts shall be sourced twenty-eight and fifty-five hundredths
+17 percent (28.55%) within this state and seventy-one and forty-five hundredths
+18 percent (71.45%) outside this state;
+19 (6) For the tax year beginning on January 1,
+20 2029, sales receipts shall be sourced fourteen and twenty-six hundredths
+21 percent (14.26%) within this state and eighty-five and seventy-four
+22 hundredths percent (85.74%) outside this state; and
+23 (7) For tax years beginning on or after
+24 January 1, 2030, sales receipts shall be sourced one hundred percent (100%)
+25 outside this state.
+26 17. Sales, other than sales of tangible personal
+27 property, are in this state if:
+28 (a) The income-producing activity is performed in
+29 this state; or
+30 (b) The income-producing activity is performed both
+31 in and outside this state and a greater proportion of the income-producing
+32 activity is performed in this state than in any other state, based on costs
+33 of performance.
+34 (a) Receipts, other than receipts described in
+35 subsection 16 of this section, are in this state if the taxpayer’s market for
+36 the sales is in this state. The taxpayer’s market for sales is in this state:
+6 03/26/2025 2:53:52 PM JLL351
+SB567
+1 (1) In the case of sale, rental, lease, or
+2 license of real property, if and to the extent the property is located in
+3 this state;
+4 (2) In the case of rental, lease, or license
+5 of tangible personal property, if and to the extent the property is located
+6 in this state;
+7 (3) In the case of sale of a service, if and
+8 to the extent the service is delivered to a location in this state; and
+9 (4) In the case of intangible property:
+10 (A) That is rented, leased, or licensed,
+11 if and to the extent the property is used in this state, provided that
+12 intangible property utilized in marketing a good or service to a consumer is
+13 used in this state if that good or service is purchased by a consumer who is
+14 in this state; and
+15 (B) That is sold, if and to the extent
+16 the property is used in this state, provided that:
+17 (i) A contract right, government
+18 license, or similar intangible property that authorizes the holder to conduct
+19 a business activity in a specific geographic area is used in this state if
+20 the geographic area includes all or part of this state;
+21 (ii) Receipts from intangible
+22 property sales that are contingent on the productivity, use, or disposition
+23 of the intangible property shall be treated as receipts from the rental,
+24 lease, or licensing of such intangible property under subsection
+25 17(a)(4)(B)(i) of this article; and
+26 (iii) All other receipts from a
+27 sale of intangible property shall be excluded from the numerator and
+28 denominator of the receipts factor.
+29 (b) If the state or states of assignment under
+30 subsection 17(a) of this article cannot be determined, the state or states of
+31 assignment shall be reasonably approximated.
+32 (c) If the taxpayer is not taxable in a state to
+33 which a receipt is assigned under subsection 17(a) or subsection 17(b) of
+34 this article, or if the state of assignment cannot be determined under
+35 subsection 17(a) of this article or reasonably approximated under subsection
+36 17(b) of this article, such receipt shall be excluded from the denominator of
+7 03/26/2025 2:53:52 PM JLL351
+SB567
+1 the receipts factor.
+2 (d) The Secretary of the Department of Finance and
+3 Administration may prescribe rules as necessary or appropriate to carry out
+4 the purposes of this article.
+5 (e)(1) Notwithstanding subsection 17(a) of this
+6 article, a person that is principally engaged in the sale of
+7 telecommunications service, mobile telecommunications service, internet
+8 access service, cable television service, community antenna television
+9 service, or direct-to-home satellite television programming service, or a
+10 combination of these services, may elect to source sales under this
+11 subsection 17(e) for tax years beginning on or after January 1, 2026, but
+12 before December 31, 2035.
+13 (2) An election under this subsection 17(e)
+14 shall be made on the taxpayer’s return for the first tax year for which the
+15 taxpayer is eligible for the election, and once made, an election under this
+16 subsection 17(e) cannot be changed for subsequent years without approval in
+17 writing by the secretary.
+18 (3) Under this subsection 17(e), sales, other
+19 than sales described in subsection 16 of this article, are in this state if:
+20 (A) The income-producing activity is
+21 performed in this state; or
+22 (B) The income-producing activity is
+23 performed both in and outside this state and a greater proportion of the
+24 income-producing activity is performed in this state than in any other state,
+25 based on costs of performance.
+26 18.(a) If the allocation and apportionment provisions of
+27 this Article do not fairly represent the extent of the taxpayer's business
+28 activity in this state, the taxpayer may petition for or the tax
+29 administrator secretary may require, in respect to all or any part of the
+30 taxpayer's business activity, if reasonable:
+31 (a)(1) Separate accounting;
+32 (b)(2) The inclusion of one (1) or more
+33 additional factors which will fairly represent the taxpayer's business
+34 activity in this state; or
+35 (c)(3) The employment of any other method to
+36 effectuate an equitable allocation and apportionment of the taxpayer's
+8 03/26/2025 2:53:52 PM JLL351
+SB567
+1 income.
+2 (b)(1) If the allocation and apportionment
+3 provisions of this article do not fairly represent the extent of business
+4 activity in this state of taxpayers engaged in a particular industry or in a
+5 particular transaction or activity, the secretary, in addition to the
+6 authority provided in subsection 18(a) of this article, may establish
+7 appropriate rules for determining alternative allocation and apportionment
+8 methods for the taxpayers.
+9 (2) A rule adopted under this subsection 18(b)
+10 shall be applied uniformly, except that with respect to any taxpayer to which
+11 the rule applies, the taxpayer may petition for or the secretary may require
+12 an adjustment under subsection 18(a) of this article.
+13 (c) The party petitioning for or the secretary
+14 requiring the use of any method to effectuate an equitable allocation and
+15 apportionment of the taxpayer’s income under subsection 18(a) of this article
+16 shall prove that the:
+17 (1) Allocation and apportionment provisions of
+18 this article do not fairly represent the extent of the taxpayer’s business
+19 activity in this state; and
+20 (2) Alternative to the allocation and
+21 apportionment provisions of this article is reasonable.
+22 (d) The same burden of proof shall apply whether the
+23 taxpayer is petitioning for or the secretary is requiring the use of any
+24 reasonable method to effectuate an equitable allocation and apportionment of
+25 the taxpayer’s income.
+26 (e) Notwithstanding subsection 18(d) of this
+27 article, if the secretary demonstrates that in any two (2) of the prior five
+28 (5) tax years, the taxpayer used an allocation or apportionment method at
+29 variance with the allocation or apportionment method or methods the taxpayer
+30 used for the other tax years, then the secretary shall not bear the burden of
+31 proof in imposing a different allocation or apportionment method under
+32 subsection 18(a) of this article.
+33 (f) If the secretary requires a different allocation
+34 or apportionment method under subsection 18(a) of this article to effectuate
+35 an equitable allocation and apportionment of the taxpayer’s income, the
+36 secretary shall not impose a civil or criminal penalty with reference to the
+9 03/26/2025 2:53:52 PM JLL351
+SB567
+1 tax due that is attributable to the taxpayer’s reasonable reliance solely on
+2 the allocation and apportionment provisions of this article.
+3 (g) A taxpayer that has received written permission
+4 from the secretary to use a reasonable method of allocation or apportionment
+5 to effectuate an equitable allocation and apportionment of the taxpayer’s
+6 income shall not have that permission revoked with respect to transactions
+7 and activities that have already occurred unless there has been a material
+8 change in or a material misrepresentation of the facts provided by the
+9 taxpayer upon which the secretary reasonably relied.
+10
+11 SECTION 2. Arkansas Code § 26-51-202, concerning the income taxation of
+12 nonresidents, is amended to add an additional subsection to read as follows:
+13 (f) The income of a nonresident corporation or partnership with no
+14 physical presence in the state through real or personal property, employees,
+15 agents, representatives, or otherwise shall be subject to tax under this
+16 chapter if the nonresident's Arkansas receipts under §§ 26-51-701 — 26-51-718
+17 exceed two hundred fifty thousand dollars ($250,000) for the current or the
+18 immediately preceding tax year.
+19
+20 SECTION 3. Arkansas Code § 26-51-701 is amended to read as follows:
+21 26-51-701. Definitions.
+22 As used in this Act, unless the context otherwise requires:
+23 (a) “Business income” means income arising from transactions and
+24 activity in the regular course of the taxpayer's trade or business and
+25 includes income from tangible and intangible property if the acquisition,
+26 management, and disposition of the property constitute integral parts of the
+27 taxpayer's regular trade or business operations "Apportionable income" means:
+28 (1) All income that is apportionable under the United
+29 States Constitution and is not allocated under the laws of this state,
+30 including:
+31 (A) income arising from transactions and activity in
+32 the regular course of the taxpayer's trade or business; and
+33 (B) income arising from tangible and intangible
+34 property if the acquisition, management, employment, development, or
+35 disposition of the property is or was related to the operation of the
+36 taxpayer’s trade or business; and
+10 03/26/2025 2:53:52 PM JLL351
+SB567
+1 (2) Any income that would be allocable to this state under
+2 the United States Constitution, but that is apportioned rather than allocated
+3 pursuant to the laws of this state.
+4 (b) “Commercial domicile” means the principal place from which
+5 the trade or business of the taxpayer is directed or managed.
+6 (c) “Compensation” means wages, salaries, commissions, and any
+7 other form of remuneration paid to employees for personal services.
+8 (d) [Repealed.]
+9 (e) “Nonbusiness Nonapportionable income” means all income other
+10 than business apportionable income.
+11 (f) “Public utility” means any business entity which owns or
+12 operates for public use any plant, equipment, property, franchise, or license
+13 for the transmission of communications, transportation of goods or persons,
+14 or the production, storage, transmission, sale, delivery, or furnishing of
+15 electricity, water, steam, oil, oil products, or gas.
+16 (g) “Sales” "Receipts" means all gross receipts of the taxpayer
+17 not allocated under §§ 26-51-704 — 26-51-708 and that are received from
+18 transactions and activity in the regular course of the taxpayer’s trade or
+19 business; except that receipts of a taxpayer from hedging transactions and
+20 from the maturity, redemption, sale, exchange, loan, or other disposition of
+21 cash or securities shall be excluded.
+22 (h) “State” means any state of the United States, the District
+23 of Columbia, the Commonwealth of Puerto Rico, any territory or possession of
+24 the United States, and any foreign country or political subdivision thereof.
+25 (i) "This state" means the State of Arkansas.
+26
+27 SECTION 4. Arkansas Code § 26-51-704 is amended to read as follows:
+28 26-51-704. Nonbusiness Nonapportionable income.
+29 Rents and royalties from real or tangible personal property, capital
+30 gains, interest, dividends, or patent or copyright royalties, to the extent
+31 that they constitute nonbusiness nonapportionable income, shall be allocated
+32 as provided in §§ 26-51-705 — 26-51-708.
+33
+34 SECTION 5. Arkansas Code § 26-51-709 is amended to read as follows:
+35 26-51-709. Business Apportionable income.
+36 For the tax year beginning January 1, 2021, all business All
+11 03/26/2025 2:53:52 PM JLL351
+SB567
+1 apportionable income shall be apportioned to this state by multiplying the
+2 income by a fraction, the numerator of which is the total sales receipts of
+3 the taxpayer in this state during the tax period and the denominator of which
+4 is the total sales receipts of the taxpayer everywhere during the tax period.
+5
+6 SECTION 6. Arkansas Code §§ 26-51-716 — 26-51-718 are amended to read
+7 as follows:
+8 26-51-716. Sales Receipts from sales of tangible personal property.
+9 Sales Receipts from sales of tangible personal property are in this
+10 state if:
+11 (a) the property is delivered or shipped to a purchaser within
+12 this state regardless of the f.o.b. point or other conditions of the sale; or
+13 (b) the property is shipped from an office, store, warehouse,
+14 factory, or other place of storage in this state and the taxpayer is not
+15 taxable in the state of the purchaser, in which case the sales receipts shall
+16 be sourced as follows:
+17 (1) For the tax year beginning on January 1, 2024, sales
+18 receipts shall be sourced eighty-five and seventy-one hundredths percent
+19 (85.71%) within this state and fourteen and twenty-nine hundredths percent
+20 (14.29%) outside this state;
+21 (2) For the tax year beginning on January 1, 2025, sales
+22 receipts shall be sourced seventy-one and forty-two hundredths percent
+23 (71.42%) within this state and twenty-eight and fifty-eight hundredths
+24 percent (28.58%) outside this state;
+25 (3) For the tax year beginning on January 1, 2026, sales
+26 receipts shall be sourced fifty-seven and thirteen hundredths percent
+27 (57.13%) within this state and forty-two and eighty-seven hundredths percent
+28 (42.87%) outside this state;
+29 (4) For the tax year beginning on January 1, 2027, sales
+30 receipts shall be sourced forty-two and eighty-four hundredths percent
+31 (42.84%) within this state and fifty-seven and sixteen hundredths percent
+32 (57.16%) outside this state;
+33 (5) For the tax year beginning on January 1, 2028, sales
+34 receipts shall be sourced twenty-eight and fifty-five hundredths percent
+35 (28.55%) within this state and seventy-one and forty-five hundredths percent
+36 (71.45%) outside this state;
+12 03/26/2025 2:53:52 PM JLL351
+SB567
+1 (6) For the tax year beginning on January 1, 2029, sales
+2 receipts shall be sourced fourteen and twenty-six hundredths percent (14.26%)
+3 within this state and eighty-five and seventy-four hundredths percent
+4 (85.74%) outside this state; and
+5 (7) For tax years beginning on or after January 1, 2030,
+6 sales receipts shall be sourced one hundred percent (100%) outside this
+7 state.
+8
+9 26-51-717. Sales — Income-producing activity Receipts — Market for
+10 sales.
+11 Sales, other than sales of tangible personal property, are in this
+12 state if:
+13 (a) the income-producing activity is performed in this state; or
+14 (b) the income-producing activity is performed both within and
+15 without the state, in which event the portion of income allocable to this
+16 state shall be the percentage that is used in the formula for allocating
+17 income to Arkansas during the year of the sale.
+18 (a) Receipts, other than receipts of sales of tangible personal
+19 property, are in this state if the taxpayer’s market for the sales is in this
+20 state. The taxpayer’s market for sales is in this state:
+21 (1) in the case of sale, rental, lease, or license of real
+22 property, if and to the extent the property is located in this state;
+23 (2) in the case of rental, lease, or license of tangible
+24 personal property, if and to the extent the property is located in this
+25 state;
+26 (3) in the case of sale of a service, if and to the extent the
+27 service is delivered to a location in this state; and
+28 (4) in the case of intangible property:
+29 (A) that is rented, leased, or licensed, if and to the
+30 extent the property is used in this state, provided that intangible property
+31 utilized in marketing a good or service to a consumer is used in this state
+32 if that good or service is purchased by a consumer in this state; and
+33 (B) that is sold, if and to the extent the property is
+34 used in this state, provided that:
+35 (i) a contract right, government license, or similar
+36 intangible property that authorizes the holder to conduct a business activity
+13 03/26/2025 2:53:52 PM JLL351
+SB567
+1 in a specific geographic area is used in this state if the geographic area
+2 includes all or part of this state;
+3 (ii) receipts from intangible property sales that
+4 are contingent on the productivity, use, or disposition of the intangible
+5 property shall be treated as receipts from the rental, lease, or licensing of
+6 such intangible property under subdivision (a)(4)(B)(i) of this section; and
+7 (iii) all other receipts from a sale of intangible
+8 property shall be excluded from the numerator and denominator of the receipts
+9 factor.
+10 (b) If the state or states of assignment under subsection (a) of this
+11 section cannot be determined, the state or states of assignment shall be
+12 reasonably approximated.
+13 (c) If the taxpayer is not taxable in a state to which a receipt is
+14 assigned under subsection (a) or subsection (b) of this section, or if the
+15 state of assignment cannot be determined under subsection (a) of this section
+16 or reasonably approximated under subsection (b) of this section, such
+17 receipts shall be excluded from the denominator of the receipts factor.
+18 (d) The Secretary of the Department of Finance and Administration may
+19 prescribe rules as necessary or appropriate to carry out the purposes of this
+20 section.
+21 (e)(1) Notwithstanding subsection (a) of this section, a person that
+22 is principally engaged in the sale of telecommunications service, mobile
+23 telecommunications service, internet access service, cable television
+24 service, community antenna television service, or direct-to-home satellite
+25 television programming service, or a combination of these services, may elect
+26 to source sales under this subsection for tax years beginning on or after
+27 January 1, 2026, but before December 31, 2035.
+28 (2) An election under subdivision (e)(1) of this section shall
+29 be made on the taxpayer’s return for the first tax year for which the
+30 taxpayer is eligible for the election, and once made, an election under
+31 subdivision (e)(1) of this section cannot be changed for subsequent years
+32 without approval in writing by the secretary.
+33 (3) Under this subsection, sales, other than sales described in
+34 § 26-51-716, are in this state if:
+35 (A) The income-producing activity is performed in this
+36 state; or
+14 03/26/2025 2:53:52 PM JLL351
+SB567
+1 (B) The income-producing activity is performed both in and
+2 outside this state and a greater proportion of the income-producing activity
+3 is performed in this state than in any other state, based on costs of
+4 performance.
+5
+6 26-51-718. Procedure when allocation does not fairly represent
+7 taxpayer's business activity.
+8 (a) If the allocation and apportionment provisions of this Act do not
+9 fairly represent the extent of the taxpayer's business activity in this
+10 state, the taxpayer may petition for or the Secretary of the Department of
+11 Finance and Administration may require, in respect to all or any part of the
+12 taxpayer's business activity, if reasonable:
+13 (a)(1) separate accounting;
+14 (b)(2) the inclusion of one or more additional factors
+15 which will fairly represent the taxpayer's business activity in this state;
+16 or
+17 (c)(3) the employment of any other method to effectuate an
+18 equitable allocation and apportionment of the taxpayer's income.
+19 (b)(1) If the allocation and apportionment provisions of this Act do
+20 not fairly represent the extent of business activity in this state of
+21 taxpayers engaged in a particular industry or in a particular transaction or
+22 activity, the secretary, in addition to the authority provided in subsection
+23 (a) of this section, may establish appropriate rules for determining
+24 alternative allocation and apportionment methods for the taxpayers.
+25 (2) A rule adopted under this subsection shall be applied
+26 uniformly, except that with respect to any taxpayer to which the rule
+27 applies, the taxpayer may petition for or the secretary may require an
+28 adjustment under subsection (a) of this section.
+29 (c) The party petitioning for or the secretary requiring the use of
+30 any method to effectuate an equitable allocation and apportionment of the
+31 taxpayer’s income under subsection (a) of this section shall prove that the:
+32 (1) Allocation and apportionment provisions of this Act do not
+33 fairly represent the extent of the taxpayer’s business activity in this
+34 state; and
+35 (2) Alternative to the allocation and apportionment provisions
+36 of this Act is reasonable.
+15 03/26/2025 2:53:52 PM JLL351
+SB567
+1 (d) The same burden of proof shall apply whether the taxpayer is
+2 petitioning for or the secretary is requiring the use of any reasonable
+3 method to effectuate an equitable allocation and apportionment of the
+4 taxpayer’s income.
+5 (e) Notwithstanding subsection (d) of this section, if the secretary
+6 demonstrates that in any two (2) of the prior five (5) tax years the taxpayer
+7 used an allocation or apportionment method at variance with the allocation or
+8 apportionment method or methods the taxpayer used for the other tax years,
+9 then the secretary shall not bear the burden of proof in imposing a different
+10 allocation or apportionment method under subsection (a) of this section.
+11 (f) If the secretary requires a different allocation or apportionment
+12 method under subsection (a) of this section to effectuate an equitable
+13 allocation and apportionment of the taxpayer’s income, the secretary shall
+14 not impose a civil or criminal penalty with reference to the tax due that is
+15 attributable to the taxpayer’s reasonable reliance solely on the allocation
+16 and apportionment provisions of this Act.
+17 (g) A taxpayer that has received written permission from the secretary
+18 to use a reasonable method of allocation or apportionment to effectuate an
+19 equitable allocation and apportionment of the taxpayer’s income shall not
+20 have that permission revoked with respect to transactions and activities that
+21 have already occurred unless there has been a material change in or a
+22 material misrepresentation of the facts provided by the taxpayer upon which
+23 the secretary reasonably relied.
+24
+25 SECTION 7. Arkansas Code § 26-51-722 is repealed.
+26 26-51-722. Effective date.
+27 The provisions of this Act shall be applicable to all income earned or
+28 accrued in the income years, both calendar and fiscal, beginning on or after
+29 January 1, 1961.
+30
+31 SECTION 8. EFFECTIVE DATE. This act is effective for tax years
+32 beginning on and after January 1, 2026.
+33
+34
+35
+36
+16 03/26/2025 2:53:52 PM JLL351
+[DELETED:       A U A A O R P P  T C D T R  B   S d f A D       r      ]
+[DELETED: S2 0 t b a p i      ( U i       ( a       ( i o t      ( s t     ( f     ( c p     (     ( i     ( w f e f f o     ( t t t]
+[DELETED: S3 0 t d     ( t p s     ( r t s f      w r i a b t i      u s m o t o a o b b h 3      p r i]
+[DELETED: S4 0 a    5 i       p p t o u       p f o t l t o p a    6 l       p i d w       i c      t    8 s t c t]
+[DELETED: S5 0       t p i a u c       e b s t d      b m s d d                                    p       p c       w i r        2]
+[DELETED: S6 0 p p        2 p h        2 p p        2 p p        2 p p        2 p h        J o      p     ( t     ( i a o     ( s t]
+[DELETED: S7 0      ( l t      ( o i      ( t      (       ( i i u i       ( t        ( l a t        ( p o l 1        ( s d     ( s a     ( w t s 1]
+[DELETED: S8 0 t     ( A t     ( a t a s c s b      ( s t s w      ( t       ( p       ( p i b      t a a t      (      ( a a      ( e]
+[DELETED: S9 0 i     ( p a p a a m      ( s t a     ( r a s      ( t a      ( a     ( t r t     ( a ( v u p s     ( o a s]
+[DELETED: S1 0 t t     ( f t i a c t   S n  ( p a c e i   S  2  A   ( a i m t    ( S i     ( t     ( p d t]
+[DELETED: S1 0    ( t p   ( t   ( o   (   ( t   ( o f o e   ( n t b f c   ( o t   (   S  2  R g t a   S  2  F]
+[DELETED: S1 0 a i t i   S a  2  S s   ( t   ( f t b    ( r ( (    ( r ( p    ( r ( (    ( r ( (    ( r ( (]
+[DELETED: S1 0    ( r w (    ( s s   2 s  S s   (   ( w s i  ( p s   ( p   ( p s   ( s   (    ( e u i    ( u     ( i]
+[DELETED: S1 0 i i     ( a p s     ( p f  ( s r  ( a s o r  ( p s  ( i t s t t J   ( b t s w   ( §    ( s]
+[DELETED: S1 0    ( o i p   2 t  ( f s F t    (    ( w o    ( e  ( n t a ( a   ( u a a  ( a t   ( f s   ( o]
+[DELETED: S1 0  ( p m t  ( d u a t a  ( m a n a a  ( t e h h m t   S  2  T a J   S b    ]
+
+
+================================================================================
+
+Raw Text:
+Stricken language would be deleted from and underlined language would be added to present law.
+1 State of Arkansas
+A Bill
+2 95th General Assembly
+3 Regular Session, 2025 SENATE BILL 567
+4
+5 By: Senator Crowell
+6 By: Representative R. Burkes
+7
+For An Act To Be Entitled
+8
+9 AN ACT TO AMEND THE MULTISTATE TAX COMPACT AND THE
+10 UNIFORM DIVISION OF INCOME FOR TAX PURPOSES ACT; TO
+11 AMEND AND MODERNIZE THE LAW CONCERNING THE
+12 APPORTIONMENT OF INCOME DERIVED FROM MULTISTATE
+13 OPERATIONS; TO CHANGE THE METHOD FOR SOURCING OF
+14 RECEIPTS FOR SERVICES AND INTANGIBLES FROM COST OF
+15 PERFORMANCE TO MARKET-BASED SOURCING; AND FOR OTHER
+16 PURPOSES.
+17
+18
+Subtitle
+19
+20 TO AMEND AND MODERNIZE THE LAW
+21 CONCERNING THE APPORTIONMENT OF INCOME
+22 DERIVED FROM MULTISTATE OPERATIONS; AND
+23 TO CHANGE THE METHOD FOR SOURCING OF
+24 RECEIPTS FOR SERVICES AND INTANGIBLES.
+25
+26 BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF ARKANSAS:
+27
+28 SECTION 1. Arkansas Code § 26-5-101, Article IV, concerning the
+29 division of income under the Multistate Tax Compact, is amended to read as
+30 follows:
+31 ARTICLE IV
+32 Division of Income
+33
+34 1. As used in this Article, unless the context otherwise
+35 requires:
+36 (a) “Business income” means income arising from
+*JLL351*
+03/26/2025 2:53:52 PM JLL351
+
+SB567
+1 transactions and activity in the regular course of the taxpayer's trade or
+2 business and includes income from tangible and intangible property if the
+3 acquisition, management, and disposition of the property constitute integral
+4 parts of the taxpayer's regular trade or business operation "Apportionable
+5 income" means:
+6 (1) All income that is apportionable under the
+7 United States Constitution and is not allocated under the laws of this state,
+8 including:
+9 (A) Income arising from transactions and
+10 activity in the regular course of the taxpayer's trade or business; and
+11 (B) Income arising from tangible and
+12 intangible property if the acquisition, management, employment, development,
+13 or disposition of the property is or was related to the operation of the
+14 taxpayer’s trade or business; and
+15 (2) Any income that would be allocable to this
+16 state under the United States Constitution, but that is apportioned rather
+17 than allocated pursuant to the laws of this state;
+18 (b) “Commercial domicile” means the principal place
+19 from which the trade or business of the taxpayer is directed or managed;
+20 (c) “Compensation” means wages, salaries,
+21 commissions, and any other form of remuneration paid to employees for
+22 personal services;
+23 (d) [Repealed.]
+24 (e) “Nonbusiness Nonapportionable income” means all
+25 income other than business apportionable income;
+26 (f) “Public utility” means any business entity (1)
+27 which owns or operates any plant, equipment, property, franchise, or license
+28 for the transmission of communications, transportation of goods or persons,
+29 except by pipeline, or the production, transmission, sale, delivery, or
+30 furnishing of electricity, water, or steam; and (2) whose rates of charges
+31 for goods or services have been established or approved by a federal, state,
+32 or local government or governmental agency;
+33 (g) “Sales” "Receipts" means all gross receipts of
+34 the taxpayer not allocated under paragraphs 4 through 8 of this article and
+35 that are received from transactions and activity in the regular course of the
+36 taxpayer’s trade or business; except that receipts of a taxpayer from hedging
+2 03/26/2025 2:53:52 PM JLL351
+
+SB567
+1 transactions and from the maturity, redemption, sale, exchange, loan or other
+2 disposition of cash or securities shall be excluded;
+3 (h) “State” means any state of the United States,
+4 the District of Columbia, the Commonwealth of Puerto Rico, any territory or
+5 possession of the United States, and any foreign country or political
+6 subdivision thereof;
+7 (i) “This state” means the state in which the
+8 relevant tax return is filed or, in the case of application of this article
+9 to the apportionment and allocation of income for local tax purposes, the
+10 subdivision or local taxing district in which the relevant tax return is
+11 filed State of Arkansas.
+12 2. Any taxpayer having income from business activity
+13 which is taxable both within and without this state, other than activity as a
+14 railroad or public utility or the rendering of purely personal services by an
+15 individual, shall allocate and apportion his net income as provided in this
+16 article. If a taxpayer has income from business activity as a public utility
+17 but derives the greater percentage of his income from activities subject to
+18 this article, the taxpayer may elect to allocate and apportion his entire net
+19 income as provided in this article.
+20 3. For purposes of allocation and apportionment of income
+21 under this article, a taxpayer is taxable in another state if (1) in that
+22 state he the taxpayer is subject to a net income tax, a franchise tax
+23 measured by net income, a franchise tax for the privilege of doing business,
+24 or a corporate stock tax, or (2) that state has jurisdiction to subject the
+25 taxpayer to a net income tax regardless of whether, in fact, the state does
+26 or does not or any other tax measured by income or other measure of business
+27 activity in the state and the taxpayer files the requisite tax return in the
+28 other state, or (2) the state has no net income tax, franchise tax measured
+29 by net income, or any other tax measured by income or other measure of
+30 business activity in the state as provided in this section and the taxpayer
+31 has activities in the other state that exceed those protected by 15 U.S.C. §§
+32 381 — 384.
+33 4. Rents and royalties from real or tangible personal
+34 property, capital gains, interest, dividends, or patent or copyright
+35 royalties, to the extent that they constitute nonbusiness nonapportionable
+36 income, shall be allocated as provided in paragraphs 5 through 8 of this
+3 03/26/2025 2:53:52 PM JLL351
+
+SB567
+1 article.
+2 5.(a) Net rents and royalties from real property located
+3 in this state are allocable to this state.
+4 (b) Net rents and royalties from tangible personal
+5 property are allocable to this state: (1) if and to the extent that the
+6 property is utilized in this state, or (2) in their entirety if the
+7 taxpayer's commercial domicile is in this state and the taxpayer is not
+8 organized under the laws of or taxable in the state in which the property is
+9 utilized.
+10 (c) The extent of utilization of tangible personal
+11 property in a state is determined by multiplying the rents and royalties by a
+12 fraction, the numerator of which is the number of days of physical location
+13 of the property in the state during the rental or royalty period in the
+14 taxable year and the denominator of which is the number of days of physical
+15 location of the property everywhere during all rental or royalty periods in
+16 the taxable year. If the physical location of the property during the rental
+17 or royalty period is unknown or unascertainable by the taxpayer, tangible
+18 personal property is utilized in the state in which the property was located
+19 at the time the rental or royalty payer obtained possession.
+20 6.(a) Capital gains and losses from sales of real property
+21 located in this state are allocable to this state.
+22 (b) Capital gains and losses from sales of tangible
+23 personal property are allocable to this state if (1) the property had a situs
+24 in this state at the time of the sale, or (2) the taxpayer's commercial
+25 domicile is in this state and the taxpayer is not taxable in the state in
+26 which the property had a situs.
+27 (c) Capital gains and losses from sales of
+28 intangible personal property are allocable to this state if the taxpayer's
+29 commercial domicile is in this state.
+30 7. Interest and dividends are allocable to this state if
+31 the taxpayer's commercial domicile is in this state.
+32 8.(a) Patent and copyright royalties are allocable to this
+33 state: (1) if and to the extent that the patent or copyright is utilized by
+34 the payer in this state, or (2) if and to the extent that the patent
+35 copyright is utilized by the payer in the state in which the taxpayer is not
+36 taxable and the taxpayer's commercial domicile is in this state.
+4 03/26/2025 2:53:52 PM JLL351
+
+SB567
+1 (b) A patent is utilized in a state to the extent
+2 that it is employed in production, fabrication, manufacturing, or other
+3 processing in the state or to the extent that a patented product is produced
+4 in the state. If the basis of receipts from patent royalties does not permit
+5 allocation to states or if the accounting procedures do not reflect states of
+6 utilization, the patent is utilized in the state in which the taxpayer's
+7 commercial domicile is located.
+8 (c) A copyright is utilized in a state to the
+9 extent that printing or other publication originates in the state. If the
+10 basis of receipts from copyright royalties does not permit allocation to
+11 states or if the accounting procedures do not reflect states of utilization,
+12 the copyright is utilized in the state in which the taxpayer's commercial
+13 domicile is located.
+14 9. For the tax year beginning January 1, 2021, all
+15 business All apportionable income shall be apportioned to this state by
+16 multiplying the income by a fraction, the numerator of which is the total
+17 sales receipts of the taxpayer in this state during the tax period and the
+18 denominator of which is the total sales receipts of the taxpayer everywhere
+19 during the tax period.
+20 10. [Repealed.]
+21 11. [Repealed.]
+22 12. [Repealed.]
+23 13. [Repealed.]
+24 14. [Repealed.]
+25 15. [Repealed.]
+26 16. Sales Receipts from the sale of tangible personal
+27 property are in this state if:
+28 (a) The property is delivered or shipped to a
+29 purchaser within this state regardless of the f.o.b. point or other
+30 conditions of the sale; or
+31 (b) The property is shipped from an office, store,
+32 warehouse, factory, or other place of storage in this state and the taxpayer
+33 is not taxable in the state of the purchaser, in which case the sales
+34 receipts shall be sourced as follows:
+35 (1) For the tax year beginning on January 1,
+36 2024, sales receipts shall be sourced eighty-five and seventy-one hundredths
+5 03/26/2025 2:53:52 PM JLL351
+
+SB567
+1 percent (85.71%) within this state and fourteen and twenty-nine hundredths
+2 percent (14.29%) outside this state;
+3 (2) For the tax year beginning on January 1,
+4 2025, sales receipts shall be sourced seventy-one and forty-two hundredths
+5 percent (71.42%) within this state and twenty-eight and fifty-eight
+6 hundredths percent (28.58%) outside this state;
+7 (3) For the tax year beginning on January 1,
+8 2026, sales receipts shall be sourced fifty-seven and thirteen hundredths
+9 percent (57.13%) within this state and forty-two and eighty-seven hundredths
+10 percent (42.87%) outside this state;
+11 (4) For the tax year beginning on January 1,
+12 2027, sales receipts shall be sourced forty-two and eighty-four hundredths
+13 percent (42.84%) within this state and fifty-seven and sixteen hundredths
+14 percent (57.16%) outside this state;
+15 (5) For the tax year beginning on January 1,
+16 2028, sales receipts shall be sourced twenty-eight and fifty-five hundredths
+17 percent (28.55%) within this state and seventy-one and forty-five hundredths
+18 percent (71.45%) outside this state;
+19 (6) For the tax year beginning on January 1,
+20 2029, sales receipts shall be sourced fourteen and twenty-six hundredths
+21 percent (14.26%) within this state and eighty-five and seventy-four
+22 hundredths percent (85.74%) outside this state; and
+23 (7) For tax years beginning on or after
+24 January 1, 2030, sales receipts shall be sourced one hundred percent (100%)
+25 outside this state.
+26 17. Sales, other than sales of tangible personal
+27 property, are in this state if:
+28 (a) The income-producing activity is performed in
+29 this state; or
+30 (b) The income-producing activity is performed both
+31 in and outside this state and a greater proportion of the income-producing
+32 activity is performed in this state than in any other state, based on costs
+33 of performance.
+34 (a) Receipts, other than receipts described in
+35 subsection 16 of this section, are in this state if the taxpayer’s market for
+36 the sales is in this state. The taxpayer’s market for sales is in this state:
+6 03/26/2025 2:53:52 PM JLL351
+
+SB567
+1 (1) In the case of sale, rental, lease, or
+2 license of real property, if and to the extent the property is located in
+3 this state;
+4 (2) In the case of rental, lease, or license
+5 of tangible personal property, if and to the extent the property is located
+6 in this state;
+7 (3) In the case of sale of a service, if and
+8 to the extent the service is delivered to a location in this state; and
+9 (4) In the case of intangible property:
+10 (A) That is rented, leased, or licensed,
+11 if and to the extent the property is used in this state, provided that
+12 intangible property utilized in marketing a good or service to a consumer is
+13 used in this state if that good or service is purchased by a consumer who is
+14 in this state; and
+15 (B) That is sold, if and to the extent
+16 the property is used in this state, provided that:
+17 (i) A contract right, government
+18 license, or similar intangible property that authorizes the holder to conduct
+19 a business activity in a specific geographic area is used in this state if
+20 the geographic area includes all or part of this state;
+21 (ii) Receipts from intangible
+22 property sales that are contingent on the productivity, use, or disposition
+23 of the intangible property shall be treated as receipts from the rental,
+24 lease, or licensing of such intangible property under subsection
+25 17(a)(4)(B)(i) of this article; and
+26 (iii) All other receipts from a
+27 sale of intangible property shall be excluded from the numerator and
+28 denominator of the receipts factor.
+29 (b) If the state or states of assignment under
+30 subsection 17(a) of this article cannot be determined, the state or states of
+31 assignment shall be reasonably approximated.
+32 (c) If the taxpayer is not taxable in a state to
+33 which a receipt is assigned under subsection 17(a) or subsection 17(b) of
+34 this article, or if the state of assignment cannot be determined under
+35 subsection 17(a) of this article or reasonably approximated under subsection
+36 17(b) of this article, such receipt shall be excluded from the denominator of
+7 03/26/2025 2:53:52 PM JLL351
+
+SB567
+1 the receipts factor.
+2 (d) The Secretary of the Department of Finance and
+3 Administration may prescribe rules as necessary or appropriate to carry out
+4 the purposes of this article.
+5 (e)(1) Notwithstanding subsection 17(a) of this
+6 article, a person that is principally engaged in the sale of
+7 telecommunications service, mobile telecommunications service, internet
+8 access service, cable television service, community antenna television
+9 service, or direct-to-home satellite television programming service, or a
+10 combination of these services, may elect to source sales under this
+11 subsection 17(e) for tax years beginning on or after January 1, 2026, but
+12 before December 31, 2035.
+13 (2) An election under this subsection 17(e)
+14 shall be made on the taxpayer’s return for the first tax year for which the
+15 taxpayer is eligible for the election, and once made, an election under this
+16 subsection 17(e) cannot be changed for subsequent years without approval in
+17 writing by the secretary.
+18 (3) Under this subsection 17(e), sales, other
+19 than sales described in subsection 16 of this article, are in this state if:
+20 (A) The income-producing activity is
+21 performed in this state; or
+22 (B) The income-producing activity is
+23 performed both in and outside this state and a greater proportion of the
+24 income-producing activity is performed in this state than in any other state,
+25 based on costs of performance.
+26 18.(a) If the allocation and apportionment provisions of
+27 this Article do not fairly represent the extent of the taxpayer's business
+28 activity in this state, the taxpayer may petition for or the tax
+29 administrator secretary may require, in respect to all or any part of the
+30 taxpayer's business activity, if reasonable:
+31 (a)(1) Separate accounting;
+32 (b)(2) The inclusion of one (1) or more
+33 additional factors which will fairly represent the taxpayer's business
+34 activity in this state; or
+35 (c)(3) The employment of any other method to
+36 effectuate an equitable allocation and apportionment of the taxpayer's
+8 03/26/2025 2:53:52 PM JLL351
+
+SB567
+1 income.
+2 (b)(1) If the allocation and apportionment
+3 provisions of this article do not fairly represent the extent of business
+4 activity in this state of taxpayers engaged in a particular industry or in a
+5 particular transaction or activity, the secretary, in addition to the
+6 authority provided in subsection 18(a) of this article, may establish
+7 appropriate rules for determining alternative allocation and apportionment
+8 methods for the taxpayers.
+9 (2) A rule adopted under this subsection 18(b)
+10 shall be applied uniformly, except that with respect to any taxpayer to which
+11 the rule applies, the taxpayer may petition for or the secretary may require
+12 an adjustment under subsection 18(a) of this article.
+13 (c) The party petitioning for or the secretary
+14 requiring the use of any method to effectuate an equitable allocation and
+15 apportionment of the taxpayer’s income under subsection 18(a) of this article
+16 shall prove that the:
+17 (1) Allocation and apportionment provisions of
+18 this article do not fairly represent the extent of the taxpayer’s business
+19 activity in this state; and
+20 (2) Alternative to the allocation and
+21 apportionment provisions of this article is reasonable.
+22 (d) The same burden of proof shall apply whether the
+23 taxpayer is petitioning for or the secretary is requiring the use of any
+24 reasonable method to effectuate an equitable allocation and apportionment of
+25 the taxpayer’s income.
+26 (e) Notwithstanding subsection 18(d) of this
+27 article, if the secretary demonstrates that in any two (2) of the prior five
+28 (5) tax years, the taxpayer used an allocation or apportionment method at
+29 variance with the allocation or apportionment method or methods the taxpayer
+30 used for the other tax years, then the secretary shall not bear the burden of
+31 proof in imposing a different allocation or apportionment method under
+32 subsection 18(a) of this article.
+33 (f) If the secretary requires a different allocation
+34 or apportionment method under subsection 18(a) of this article to effectuate
+35 an equitable allocation and apportionment of the taxpayer’s income, the
+36 secretary shall not impose a civil or criminal penalty with reference to the
+9 03/26/2025 2:53:52 PM JLL351
+
+SB567
+1 tax due that is attributable to the taxpayer’s reasonable reliance solely on
+2 the allocation and apportionment provisions of this article.
+3 (g) A taxpayer that has received written permission
+4 from the secretary to use a reasonable method of allocation or apportionment
+5 to effectuate an equitable allocation and apportionment of the taxpayer’s
+6 income shall not have that permission revoked with respect to transactions
+7 and activities that have already occurred unless there has been a material
+8 change in or a material misrepresentation of the facts provided by the
+9 taxpayer upon which the secretary reasonably relied.
+10
+11 SECTION 2. Arkansas Code § 26-51-202, concerning the income taxation of
+12 nonresidents, is amended to add an additional subsection to read as follows:
+13 (f) The income of a nonresident corporation or partnership with no
+14 physical presence in the state through real or personal property, employees,
+15 agents, representatives, or otherwise shall be subject to tax under this
+16 chapter if the nonresident's Arkansas receipts under §§ 26-51-701 — 26-51-718
+17 exceed two hundred fifty thousand dollars ($250,000) for the current or the
+18 immediately preceding tax year.
+19
+20 SECTION 3. Arkansas Code § 26-51-701 is amended to read as follows:
+21 26-51-701. Definitions.
+22 As used in this Act, unless the context otherwise requires:
+23 (a) “Business income” means income arising from transactions and
+24 activity in the regular course of the taxpayer's trade or business and
+25 includes income from tangible and intangible property if the acquisition,
+26 management, and disposition of the property constitute integral parts of the
+27 taxpayer's regular trade or business operations "Apportionable income" means:
+28 (1) All income that is apportionable under the United
+29 States Constitution and is not allocated under the laws of this state,
+30 including:
+31 (A) income arising from transactions and activity in
+32 the regular course of the taxpayer's trade or business; and
+33 (B) income arising from tangible and intangible
+34 property if the acquisition, management, employment, development, or
+35 disposition of the property is or was related to the operation of the
+36 taxpayer’s trade or business; and
+10 03/26/2025 2:53:52 PM JLL351
+
+SB567
+1 (2) Any income that would be allocable to this state under
+2 the United States Constitution, but that is apportioned rather than allocated
+3 pursuant to the laws of this state.
+4 (b) “Commercial domicile” means the principal place from which
+5 the trade or business of the taxpayer is directed or managed.
+6 (c) “Compensation” means wages, salaries, commissions, and any
+7 other form of remuneration paid to employees for personal services.
+8 (d) [Repealed.]
+9 (e) “Nonbusiness Nonapportionable income” means all income other
+10 than business apportionable income.
+11 (f) “Public utility” means any business entity which owns or
+12 operates for public use any plant, equipment, property, franchise, or license
+13 for the transmission of communications, transportation of goods or persons,
+14 or the production, storage, transmission, sale, delivery, or furnishing of
+15 electricity, water, steam, oil, oil products, or gas.
+16 (g) “Sales” "Receipts" means all gross receipts of the taxpayer
+17 not allocated under §§ 26-51-704 — 26-51-708 and that are received from
+18 transactions and activity in the regular course of the taxpayer’s trade or
+19 business; except that receipts of a taxpayer from hedging transactions and
+20 from the maturity, redemption, sale, exchange, loan, or other disposition of
+21 cash or securities shall be excluded.
+22 (h) “State” means any state of the United States, the District
+23 of Columbia, the Commonwealth of Puerto Rico, any territory or possession of
+24 the United States, and any foreign country or political subdivision thereof.
+25 (i) "This state" means the State of Arkansas.
+26
+27 SECTION 4. Arkansas Code § 26-51-704 is amended to read as follows:
+28 26-51-704. Nonbusiness Nonapportionable income.
+29 Rents and royalties from real or tangible personal property, capital
+30 gains, interest, dividends, or patent or copyright royalties, to the extent
+31 that they constitute nonbusiness nonapportionable income, shall be allocated
+32 as provided in §§ 26-51-705 — 26-51-708.
+33
+34 SECTION 5. Arkansas Code § 26-51-709 is amended to read as follows:
+35 26-51-709. Business Apportionable income.
+36 For the tax year beginning January 1, 2021, all business All
+11 03/26/2025 2:53:52 PM JLL351
+
+SB567
+1 apportionable income shall be apportioned to this state by multiplying the
+2 income by a fraction, the numerator of which is the total sales receipts of
+3 the taxpayer in this state during the tax period and the denominator of which
+4 is the total sales receipts of the taxpayer everywhere during the tax period.
+5
+6 SECTION 6. Arkansas Code §§ 26-51-716 — 26-51-718 are amended to read
+7 as follows:
+8 26-51-716. Sales Receipts from sales of tangible personal property.
+9 Sales Receipts from sales of tangible personal property are in this
+10 state if:
+11 (a) the property is delivered or shipped to a purchaser within
+12 this state regardless of the f.o.b. point or other conditions of the sale; or
+13 (b) the property is shipped from an office, store, warehouse,
+14 factory, or other place of storage in this state and the taxpayer is not
+15 taxable in the state of the purchaser, in which case the sales receipts shall
+16 be sourced as follows:
+17 (1) For the tax year beginning on January 1, 2024, sales
+18 receipts shall be sourced eighty-five and seventy-one hundredths percent
+19 (85.71%) within this state and fourteen and twenty-nine hundredths percent
+20 (14.29%) outside this state;
+21 (2) For the tax year beginning on January 1, 2025, sales
+22 receipts shall be sourced seventy-one and forty-two hundredths percent
+23 (71.42%) within this state and twenty-eight and fifty-eight hundredths
+24 percent (28.58%) outside this state;
+25 (3) For the tax year beginning on January 1, 2026, sales
+26 receipts shall be sourced fifty-seven and thirteen hundredths percent
+27 (57.13%) within this state and forty-two and eighty-seven hundredths percent
+28 (42.87%) outside this state;
+29 (4) For the tax year beginning on January 1, 2027, sales
+30 receipts shall be sourced forty-two and eighty-four hundredths percent
+31 (42.84%) within this state and fifty-seven and sixteen hundredths percent
+32 (57.16%) outside this state;
+33 (5) For the tax year beginning on January 1, 2028, sales
+34 receipts shall be sourced twenty-eight and fifty-five hundredths percent
+35 (28.55%) within this state and seventy-one and forty-five hundredths percent
+36 (71.45%) outside this state;
+12 03/26/2025 2:53:52 PM JLL351
+
+SB567
+1 (6) For the tax year beginning on January 1, 2029, sales
+2 receipts shall be sourced fourteen and twenty-six hundredths percent (14.26%)
+3 within this state and eighty-five and seventy-four hundredths percent
+4 (85.74%) outside this state; and
+5 (7) For tax years beginning on or after January 1, 2030,
+6 sales receipts shall be sourced one hundred percent (100%) outside this
+7 state.
+8
+9 26-51-717. Sales — Income-producing activity Receipts — Market for
+10 sales.
+11 Sales, other than sales of tangible personal property, are in this
+12 state if:
+13 (a) the income-producing activity is performed in this state; or
+14 (b) the income-producing activity is performed both within and
+15 without the state, in which event the portion of income allocable to this
+16 state shall be the percentage that is used in the formula for allocating
+17 income to Arkansas during the year of the sale.
+18 (a) Receipts, other than receipts of sales of tangible personal
+19 property, are in this state if the taxpayer’s market for the sales is in this
+20 state. The taxpayer’s market for sales is in this state:
+21 (1) in the case of sale, rental, lease, or license of real
+22 property, if and to the extent the property is located in this state;
+23 (2) in the case of rental, lease, or license of tangible
+24 personal property, if and to the extent the property is located in this
+25 state;
+26 (3) in the case of sale of a service, if and to the extent the
+27 service is delivered to a location in this state; and
+28 (4) in the case of intangible property:
+29 (A) that is rented, leased, or licensed, if and to the
+30 extent the property is used in this state, provided that intangible property
+31 utilized in marketing a good or service to a consumer is used in this state
+32 if that good or service is purchased by a consumer in this state; and
+33 (B) that is sold, if and to the extent the property is
+34 used in this state, provided that:
+35 (i) a contract right, government license, or similar
+36 intangible property that authorizes the holder to conduct a business activity
+13 03/26/2025 2:53:52 PM JLL351
+
+SB567
+1 in a specific geographic area is used in this state if the geographic area
+2 includes all or part of this state;
+3 (ii) receipts from intangible property sales that
+4 are contingent on the productivity, use, or disposition of the intangible
+5 property shall be treated as receipts from the rental, lease, or licensing of
+6 such intangible property under subdivision (a)(4)(B)(i) of this section; and
+7 (iii) all other receipts from a sale of intangible
+8 property shall be excluded from the numerator and denominator of the receipts
+9 factor.
+10 (b) If the state or states of assignment under subsection (a) of this
+11 section cannot be determined, the state or states of assignment shall be
+12 reasonably approximated.
+13 (c) If the taxpayer is not taxable in a state to which a receipt is
+14 assigned under subsection (a) or subsection (b) of this section, or if the
+15 state of assignment cannot be determined under subsection (a) of this section
+16 or reasonably approximated under subsection (b) of this section, such
+17 receipts shall be excluded from the denominator of the receipts factor.
+18 (d) The Secretary of the Department of Finance and Administration may
+19 prescribe rules as necessary or appropriate to carry out the purposes of this
+20 section.
+21 (e)(1) Notwithstanding subsection (a) of this section, a person that
+22 is principally engaged in the sale of telecommunications service, mobile
+23 telecommunications service, internet access service, cable television
+24 service, community antenna television service, or direct-to-home satellite
+25 television programming service, or a combination of these services, may elect
+26 to source sales under this subsection for tax years beginning on or after
+27 January 1, 2026, but before December 31, 2035.
+28 (2) An election under subdivision (e)(1) of this section shall
+29 be made on the taxpayer’s return for the first tax year for which the
+30 taxpayer is eligible for the election, and once made, an election under
+31 subdivision (e)(1) of this section cannot be changed for subsequent years
+32 without approval in writing by the secretary.
+33 (3) Under this subsection, sales, other than sales described in
+34 § 26-51-716, are in this state if:
+35 (A) The income-producing activity is performed in this
+36 state; or
+14 03/26/2025 2:53:52 PM JLL351
+
+SB567
+1 (B) The income-producing activity is performed both in and
+2 outside this state and a greater proportion of the income-producing activity
+3 is performed in this state than in any other state, based on costs of
+4 performance.
+5
+6 26-51-718. Procedure when allocation does not fairly represent
+7 taxpayer's business activity.
+8 (a) If the allocation and apportionment provisions of this Act do not
+9 fairly represent the extent of the taxpayer's business activity in this
+10 state, the taxpayer may petition for or the Secretary of the Department of
+11 Finance and Administration may require, in respect to all or any part of the
+12 taxpayer's business activity, if reasonable:
+13 (a)(1) separate accounting;
+14 (b)(2) the inclusion of one or more additional factors
+15 which will fairly represent the taxpayer's business activity in this state;
+16 or
+17 (c)(3) the employment of any other method to effectuate an
+18 equitable allocation and apportionment of the taxpayer's income.
+19 (b)(1) If the allocation and apportionment provisions of this Act do
+20 not fairly represent the extent of business activity in this state of
+21 taxpayers engaged in a particular industry or in a particular transaction or
+22 activity, the secretary, in addition to the authority provided in subsection
+23 (a) of this section, may establish appropriate rules for determining
+24 alternative allocation and apportionment methods for the taxpayers.
+25 (2) A rule adopted under this subsection shall be applied
+26 uniformly, except that with respect to any taxpayer to which the rule
+27 applies, the taxpayer may petition for or the secretary may require an
+28 adjustment under subsection (a) of this section.
+29 (c) The party petitioning for or the secretary requiring the use of
+30 any method to effectuate an equitable allocation and apportionment of the
+31 taxpayer’s income under subsection (a) of this section shall prove that the:
+32 (1) Allocation and apportionment provisions of this Act do not
+33 fairly represent the extent of the taxpayer’s business activity in this
+34 state; and
+35 (2) Alternative to the allocation and apportionment provisions
+36 of this Act is reasonable.
+15 03/26/2025 2:53:52 PM JLL351
+
+SB567
+1 (d) The same burden of proof shall apply whether the taxpayer is
+2 petitioning for or the secretary is requiring the use of any reasonable
+3 method to effectuate an equitable allocation and apportionment of the
+4 taxpayer’s income.
+5 (e) Notwithstanding subsection (d) of this section, if the secretary
+6 demonstrates that in any two (2) of the prior five (5) tax years the taxpayer
+7 used an allocation or apportionment method at variance with the allocation or
+8 apportionment method or methods the taxpayer used for the other tax years,
+9 then the secretary shall not bear the burden of proof in imposing a different
+10 allocation or apportionment method under subsection (a) of this section.
+11 (f) If the secretary requires a different allocation or apportionment
+12 method under subsection (a) of this section to effectuate an equitable
+13 allocation and apportionment of the taxpayer’s income, the secretary shall
+14 not impose a civil or criminal penalty with reference to the tax due that is
+15 attributable to the taxpayer’s reasonable reliance solely on the allocation
+16 and apportionment provisions of this Act.
+17 (g) A taxpayer that has received written permission from the secretary
+18 to use a reasonable method of allocation or apportionment to effectuate an
+19 equitable allocation and apportionment of the taxpayer’s income shall not
+20 have that permission revoked with respect to transactions and activities that
+21 have already occurred unless there has been a material change in or a
+22 material misrepresentation of the facts provided by the taxpayer upon which
+23 the secretary reasonably relied.
+24
+25 SECTION 7. Arkansas Code § 26-51-722 is repealed.
+26 26-51-722. Effective date.
+27 The provisions of this Act shall be applicable to all income earned or
+28 accrued in the income years, both calendar and fiscal, beginning on or after
+29 January 1, 1961.
+30
+31 SECTION 8. EFFECTIVE DATE. This act is effective for tax years
+32 beginning on and after January 1, 2026.
+33
+34
+35
+36
+16 03/26/2025 2:53:52 PM JLL351
+
+[DELETED:       A U A A O R P P  T C D T R  B   S d f A D       r      ]
+[DELETED: S2 0 t b a p i      ( U i       ( a       ( i o t      ( s t     ( f     ( c p     (     ( i     ( w f e f f o     ( t t t]
+[DELETED: S3 0 t d     ( t p s     ( r t s f      w r i a b t i      u s m o t o a o b b h 3      p r i]
+[DELETED: S4 0 a    5 i       p p t o u       p f o t l t o p a    6 l       p i d w       i c      t    8 s t c t]
+[DELETED: S5 0       t p i a u c       e b s t d      b m s d d                                    p       p c       w i r        2]
+[DELETED: S6 0 p p        2 p h        2 p p        2 p p        2 p p        2 p h        J o      p     ( t     ( i a o     ( s t]
+[DELETED: S7 0      ( l t      ( o i      ( t      (       ( i i u i       ( t        ( l a t        ( p o l 1        ( s d     ( s a     ( w t s 1]
+[DELETED: S8 0 t     ( A t     ( a t a s c s b      ( s t s w      ( t       ( p       ( p i b      t a a t      (      ( a a      ( e]
+[DELETED: S9 0 i     ( p a p a a m      ( s t a     ( r a s      ( t a      ( a     ( t r t     ( a ( v u p s     ( o a s]
+[DELETED: S1 0 t t     ( f t i a c t   S n  ( p a c e i   S  2  A   ( a i m t    ( S i     ( t     ( p d t]
+[DELETED: S1 0    ( t p   ( t   ( o   (   ( t   ( o f o e   ( n t b f c   ( o t   (   S  2  R g t a   S  2  F]
+[DELETED: S1 0 a i t i   S a  2  S s   ( t   ( f t b    ( r ( (    ( r ( p    ( r ( (    ( r ( (    ( r ( (]
+[DELETED: S1 0    ( r w (    ( s s   2 s  S s   (   ( w s i  ( p s   ( p   ( p s   ( s   (    ( e u i    ( u     ( i]
+[DELETED: S1 0 i i     ( a p s     ( p f  ( s r  ( a s o r  ( p s  ( i t s t t J   ( b t s w   ( §    ( s]
+[DELETED: S1 0    ( o i p   2 t  ( f s F t    (    ( w o    ( e  ( n t a ( a   ( u a a  ( a t   ( f s   ( o]
+[DELETED: S1 0  ( p m t  ( d u a t a  ( m a n a a  ( t e h h m t   S  2  T a J   S b    ]

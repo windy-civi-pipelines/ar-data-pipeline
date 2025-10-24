@@ -1,0 +1,2313 @@
+Title: Stricken language would be deleted from and underlined language would be added to present law.
+Official Title: Stricken language would be deleted from and underlined language would be added to present law.
+Number of Sections: 1
+Source: versions - SB 442
+Media Type: application/pdf
+Strikethrough Detection: 29 sections found
+
+================================================================================
+
+Section 1:
+1 State of Arkansas As Engrossed: S4/1/25
+A Bill
+2 95th General Assembly
+3 Regular Session, 2025 SENATE BILL 442
+4
+5 By: Senator J. Bryant
+6 By: Representative McAlindon
+7
+For An Act To Be Entitled
+8
+9 AN ACT TO AMEND THE LAW CONCERNING HUMAN TRAFFICKING;
+10 TO PROVIDE FOR FORFEITURE OF ASSETS USED TO CONDUCT
+11 HUMAN TRAFFICKING; TO CREATE THE OFFENSE OF HARBORING
+12 AN ENDANGERED RUNAWAY CHILD; TO CREATE THE ARKANSAS
+13 HUMAN TRAFFICKING COUNCIL SUPPORT FUND; TO AMEND THE
+14 FINE PAYMENTS FOR HUMAN TRAFFICKING OFFENSES AND
+15 PROSTITUTION OFFENSES; AND FOR OTHER PURPOSES.
+16
+17
+Subtitle
+18
+19 TO AMEND THE LAW CONCERNING HUMAN
+20 TRAFFICKING; TO PROVIDE FOR FORFEITURE
+21 OF ASSETS USED TO CONDUCT HUMAN
+22 TRAFFICKING; AND TO CREATE THE OFFENSE
+23 OF HARBORING AN ENDANGERED RUNAWAY
+24 CHILD.
+25
+26 BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF ARKANSAS:
+27
+28 SECTION 1. Arkansas Code § 5-5-201(a), concerning certain asset
+29 forfeiture proceedings, is amended to read as follows:
+30 (a) Upon conviction, any conveyance, including an aircraft, motor
+31 vehicle, or vessel, is subject to forfeiture under this subchapter if it is
+32 used in the commission or attempt of:
+33 (1) A burglary;
+34 (2) A robbery;
+35 (3) A theft; or
+36 (4) An arson; or
+*CEB072*
+04-01-2025 12:43:46 CEB072
+As Engrossed: S4/1/25 SB442
+1 (5) Trafficking of persons, § 5-18-103.
+2
+3 SECTION 2. Arkansas Code § 5-5-202(b)(2), concerning the seizure of
+4 conveyances for certain asset forfeiture proceedings, is amended to read as
+5 follows:
+6 (2) Any law enforcement officer has probable cause to believe
+7 that the conveyance was used in the commission or attempt of:
+8 (A) A burglary;
+9 (B) A robbery;
+10 (C) A theft; or
+11 (D) An arson; or
+12 (E) Trafficking of persons, § 5-18-103.
+13
+14 SECTION 3. Arkansas Code § 5-5-501(d), concerning the impoundment of a
+15 motor vehicle used in a prostitution offense and the assessment of the
+16 impoundment fee, is amended to read as follows:
+17 (d) An impoundment fee assessed under this section shall be collected
+18 by the impounding law enforcement agency and remitted to the Human
+19 Trafficking Victim Support Fund Arkansas Human Trafficking Council Support
+20 Fund on the first business day of each month.
+21
+22 SECTION 4. Arkansas Code Title 5, Chapter 5, is amended to add an
+23 additional subchapter to read as follows:
+24 Subchapter 6 — Forfeiture of Property used in Human Trafficking
+25
+26 5-5-601. Forfeiture of assets and disposition of proceeds.
+27 (a) In addition to any other civil or criminal penalties provided by
+28 law, real or personal property used in the commission of a violation of the
+29 Human Trafficking Act of 2013, § 5-18-101 et seq., shall be forfeited as
+30 provided in this subchapter.
+31 (b) Upon conviction for a violation of the Human Trafficking Act of
+32 2013, § 5-18-101 et seq., the following real or personal property is subject
+33 to forfeiture under this subchapter:
+34 (1) A conveyance, including an aircraft, a vehicle, or vessel;
+35 (2) A book, record, telecommunication equipment, or computer;
+36 (3) Money;
+2 04-01-2025 12:43:46 CEB072
+As Engrossed: S4/1/25 SB442
+1 (4) A negotiable instrument or security;
+2 (5) A weapon;
+3 (6) Anything of value furnished, or intended to be furnished, in
+4 exchange for a violation of the Human Trafficking Act of 2013, § 5-18-101 et
+5 seq.;
+6 (7) Any real or personal property acquired or received in a
+7 violation of or as an inducement to violate the Human Trafficking Act of
+8 2013, § 5-18-101 et seq.;
+9 (8) Any real or personal property traceable to proceeds from a
+10 violation of the Human Trafficking Act of 2013, § 5-18-101 et seq.; and
+11 (9) Any real property, including any right, title, and interest
+12 in the whole of or any part of any lot or tract of land used in furtherance
+13 of a violation of the Human Trafficking Act of 2013, § 5-18-101 et seq.
+14
+15 5-5-602. Real or personal property not subject to forfeiture.
+16 (a)(1) Real or personal property used in furtherance of a violation of
+17 the Human Trafficking Act of 2013, § 5-18-101 et seq., shall not be forfeited
+18 under this section unless the real or personal property was used with the
+19 owner's knowledge.
+20 (2) If the confiscating authority has reason to believe that the
+21 real or personal property is leased or rented, the confiscating authority
+22 shall notify the owner of the real or personal property within five (5) days
+23 of the confiscation or within five (5) days of learning that the real or
+24 personal property is leased or rented.
+25 (3) Forfeiture of real or personal property encumbered by a bona
+26 fide security interest is subject to the interest of the secured party if the
+27 secured party did not have knowledge of nor consented to the act or omission
+28 in violation of the Human Trafficking Act of 2013 § 5-18-101 et seq.
+29 (b) No property used by any person as a common carrier in the course
+30 of business as a common carrier is subject to forfeiture under this
+31 subchapter unless it appears that the owner or other person in charge of the
+32 property is a consenting party or privy to a violation of the Human
+33 Trafficking Act of 2013, § 5-18-101 et seq.
+34
+35 5-5-603. Seizure of real or personal property.
+36 (a) Real or personal property subject to forfeiture under this
+3 04-01-2025 12:43:46 CEB072
+As Engrossed: S4/1/25 SB442
+1 subchapter may be seized by any law enforcement agent upon process issued by
+2 any circuit court having jurisdiction over the real or personal property on
+3 petition filed by the prosecuting attorney of the judicial circuit.
+4 (b) Seizure without process may be made if:
+5 (1) The seizure is incident to an arrest or a search under a
+6 search warrant or an inspection under an administrative inspection warrant;
+7 (2) The real or personal property subject to seizure has been
+8 the subject of a prior judgment in favor of the state in a criminal
+9 injunction or forfeiture proceeding based upon this subchapter;
+10 (3) The seizing law enforcement agency has probable cause to
+11 believe that the real or personal property is directly or indirectly
+12 dangerous to health or safety; or
+13 (4) The seizing law enforcement agency has probable cause to
+14 believe that the real or personal property was used in the commission or
+15 attempt of a violation of the Human Trafficking Act of 2013, § 5-18-101 et
+16 seq.
+17
+18 5-5-604. Transfer of real or personal property seized by state or
+19 local agency to federal agency.
+20 (a) A state or local law enforcement agency shall not transfer real or
+21 personal property seized by the state or local agency to any federal entity
+22 for forfeiture under federal law unless the circuit court having jurisdiction
+23 over the property enters an order, upon petition by the prosecuting attorney,
+24 authorizing the property to be transferred to the federal entity.
+25 (b) A transfer under subsection (a) of this section shall not be
+26 approved unless it reasonably appears that the activity giving rise to the
+27 investigation or seizure involves more than one (1) state or the nature of
+28 the investigation or seizure would be better pursued under federal law.
+29
+30 5-5-605. Custody of real or personal property pending disposition.
+31 (a) Real or personal property seized for forfeiture under this
+32 subchapter is not subject to replevin, but is deemed to be in the custody of
+33 the seizing law enforcement agency subject only to an order or decree of the
+34 circuit court having jurisdiction over the property seized.
+35 (b) Subject to any need to retain the real or personal property as
+36 evidence, when real or personal property is seized under this subchapter the
+4 04-01-2025 12:43:46 CEB072
+As Engrossed: S4/1/25 SB442
+1 seizing law enforcement agency shall:
+2 (1) Remove the personal property to a place designated by the
+3 circuit court;
+4 (2) Place the real property under constructive seizure by
+5 posting notice of pending forfeiture on it, by giving notice of pending
+6 forfeiture to its owners and interest holders, or by filing notice of pending
+7 forfeiture in any appropriate public record relating to the real property;
+8 (3) Remove the personal property to a storage area for
+9 safekeeping or, if the personal property is a negotiable instrument or money,
+10 or is not needed for evidentiary purposes, deposit it in an interest-bearing
+11 account; or
+12 (4) Provide for another agency or custodian, including an owner,
+13 secured party, mortgagee, or lienholder, to take custody of the real or
+14 personal property and service, maintain, and operate it as reasonably
+15 necessary to maintain its value in any appropriate location within the
+16 jurisdiction of the court.
+17 (c)(1) In any transfer of real or personal property under § 5-5-604, a
+18 transfer receipt shall be prepared by the transferring law enforcement
+19 agency.
+20 (2) The transfer receipt shall:
+21 (A) List a detailed and complete description of the real
+22 or personal property being transferred;
+23 (B) State to which federal agency the real or personal
+24 property is being transferred and the source or authorization for the
+25 transfer; and
+26 (C) Be signed by both the transferor and the transferee.
+27 (3) Both transferor and transferee shall maintain a copy of the
+28 transfer receipt.
+29 (d) A person who acts as custodian of real or personal property under
+30 this section is not liable to any person on account of an act done in a
+31 reasonable manner in compliance with an order under this subchapter.
+32
+33 5-5-606. Inventory of real or personal property seized — Referral to
+34 prosecuting attorney — Failure to file confiscation report.
+35 (a) Real or personal property seized by a state or local law
+36 enforcement officer who is attached to, deputized or commissioned by, or
+5 04-01-2025 12:43:46 CEB072
+As Engrossed: S4/1/25 SB442
+1 working in conjunction with a federal agency remains subject to the
+2 provisions of this section.
+3 (b)(1) When real or personal property is seized for forfeiture by a
+4 law enforcement agency, the seizing law enforcement officer shall prepare and
+5 sign a confiscation report.
+6 (2)(A) The person from whom the real or personal property is
+7 seized shall sign the confiscation report if present and shall immediately
+8 receive a copy of the confiscation report.
+9 (B) If the person refuses to sign the confiscation report,
+10 the confiscation report shall be signed by one (1) additional law enforcement
+11 officer, stating that the person refused to sign the confiscation report.
+12 (3)(A) The original confiscation report shall be filed with the
+13 seizing law enforcement agency within forty-eight (48) hours after the
+14 seizure and maintained in a separate file.
+15 (B) One (1) copy of the confiscation report shall be
+16 retained by the seizing law enforcement officer.
+17 (4) The confiscation report shall contain the following
+18 information:
+19 (A) A detailed description of the real or personal
+20 property seized including without limitation any serial number, model number,
+21 and odometer reading or hour reading of a vehicle or equipment;
+22 (B) The date of seizure;
+23 (C) The name and address of the person from whom the real
+24 or personal property was seized;
+25 (D) The reason for the seizure;
+26 (E) Where the personal property will be held;
+27 (F) The seizing law enforcement officer's name; and
+28 (G) A signed statement by the seizing law enforcement
+29 officer stating that the confiscation report is true and complete.
+30 (5) Within three (3) business days of receiving the confiscation
+31 report, the seizing law enforcement agency shall forward a copy of the
+32 confiscation report to the prosecuting attorney for the district where the
+33 real or personal property was seized and to the Human Trafficking
+34 Coordinator.
+35 (c)(1) Arkansas Legislative Audit shall notify the Human Trafficking
+36 Coordinator and a circuit court in the county of a law enforcement agency,
+6 04-01-2025 12:43:46 CEB072
+As Engrossed: S4/1/25 SB442
+1 prosecuting attorney, or other public entity that the law enforcement agency,
+2 prosecuting attorney, or public entity is ineligible to receive any forfeited
+3 funds, forfeited real or personal property, or any grants from the Arkansas
+4 Human Trafficking Council Support Fund, if Arkansas Legislative Audit
+5 determines, by its own investigation or upon written notice from the Human
+6 Trafficking Coordinator, that:
+7 (A) The law enforcement agency has failed to complete and
+8 file the confiscation report as required by this section; or
+9 (B) The law enforcement agency, prosecuting attorney, or
+10 public entity has not properly accounted for any seized real or personal
+11 property.
+12 (2) After the notice by Arkansas Legislative Audit under
+13 subdivision (c)(1) of this section, the circuit court shall not issue any
+14 order distributing seized real or personal property to that law enforcement
+15 agency, prosecuting attorney, or public entity nor shall any grant be awarded
+16 by the Human Trafficking Operations Unit of the Division of Arkansas State
+17 Police to that law enforcement agency, prosecuting attorney, or public entity
+18 until:
+19 (A) The appropriate officials of the law enforcement
+20 agency, prosecuting attorney, or public entity have appeared before the
+21 Legislative Joint Auditing Committee; and
+22 (B) The Legislative Joint Auditing Committee has adopted a
+23 motion authorizing subsequent transfers of forfeited real or personal
+24 property to the law enforcement agency, prosecuting attorney, or public
+25 entity.
+26 (3)(A) While a law enforcement agency, prosecuting attorney, or
+27 other public entity is ineligible to receive forfeited real or personal
+28 property, the circuit court shall order any money that would have been
+29 distributed to that law enforcement agency, prosecuting attorney, or public
+30 entity to be transmitted to the Treasurer of State for deposit into the
+31 Arkansas Human Trafficking Council Support Fund.
+32 (B) If the real or personal property is not cash, the
+33 circuit court shall order the real or personal property converted to cash by
+34 selling the real or personal property under § 5-5-608(a)(2) and the proceeds
+35 transmitted to the Treasurer of State for deposit into the Arkansas Human
+36 Trafficking Council Support Fund.
+7 04-01-2025 12:43:46 CEB072
+As Engrossed: S4/1/25 SB442
+1 (4) Moneys deposited into the Arkansas Human Trafficking Council
+2 Support Fund pursuant to subdivision (c)(3) of this section are not subject
+3 to recovery or retrieval by the ineligible law enforcement agency,
+4 prosecuting attorney, or other public entity.
+5 (d) The Human Trafficking Coordinator shall make available a
+6 standardized confiscation report form to be used by all law enforcement
+7 agencies with specific instructions and guidelines concerning the type and
+8 monetary value of all real or personal property, including weapons, to be
+9 included in the confiscation report and forwarded to the office of the local
+10 prosecuting attorney and the Human Trafficking Coordinator under subdivision
+11 (b)(5) of this section.
+12
+13 5-5-607. Initiation of forfeiture proceedings — Notice to claimants —
+14 Judicial proceedings.
+15 (a)(1) A prosecuting attorney shall initiate a forfeiture proceeding
+16 under this subchapter by filing a complaint with the circuit clerk of the
+17 county where the real or personal property was seized and by serving the
+18 complaint on all known owners and interest holders of the seized property in
+19 accordance with the Arkansas Rules of Civil Procedure.
+20 (2) The complaint may be based on in rem or in personam
+21 jurisdiction but shall not be filed in such a way as to avoid the
+22 distribution requirements set forth in § 5-5-609.
+23 (3) The prosecuting attorney shall mail a copy of the complaint
+24 to the Human Trafficking Coordinator within five (5) calendar days after
+25 filing the complaint.
+26 (4) The complaint shall include a copy of the confiscation
+27 report and shall be filed within sixty (60) days after receiving a copy of
+28 the confiscation report from the seizing law enforcement agency.
+29 (5) In a case involving real property, the complaint shall be
+30 filed within sixty (60) days of the defendant's conviction on the charge
+31 giving rise to the forfeiture.
+32 (6)(A) The complaint may be filed after the expiration of the
+33 time set forth in subdivision (b)(1) of this section only if the complaint is
+34 accompanied by a statement of good cause for the late filing.
+35 (B) However, in no event shall the complaint be filed more
+36 than one hundred twenty (120) days after either the date of the seizure or,
+8 04-01-2025 12:43:46 CEB072
+As Engrossed: S4/1/25 SB442
+1 in a case involving real property, the date of the defendant's conviction.
+2 (C)(i) If the circuit court determines that good cause has
+3 not been established, the circuit court shall order that the seized real or
+4 personal property be returned to the owner or interest holder.
+5 (ii) In addition to the requirements in subdivision
+6 (a)(6)(C)(i) of this section, real or personal property seized but not
+7 subject to forfeiture under this subchapter or subject to disposition
+8 pursuant to law or the Arkansas Rules of Criminal Procedure may be ordered
+9 returned to the owner or interest holder.
+10 (iii) If the owner or interest holder cannot be
+11 determined, the court may order disposition of the real or personal property
+12 as provided in § 5-5-608.
+13 (b)(1) Subject to the Arkansas Rules of Civil Procedure, a defendant
+14 who was arrested for an offense in violation of the Human Trafficking Act of
+15 2013, § 5-18-101 et seq. shall file with the circuit clerk an answer to the
+16 complaint that shall include:
+17 (A) A statement describing the seized real or personal
+18 property and the owner's or interest holder's interest in the seized real or
+19 personal property, with supporting documents to establish the owner's or
+20 interest holder's interest;
+21 (B) A certification by the owner or interest holder
+22 stating that he or she has read the answer and that it is not filed for any
+23 improper purpose;
+24 (C) A statement setting forth any defense to forfeiture;
+25 and
+26 (D) The address at which the owner or interest holder
+27 accepts mail.
+28 (2) Subject to the Arkansas Rules of Civil Procedure, a
+29 defendant who is a third party who was not arrested for an offense giving
+30 rise to a forfeiture action under this subchapter shall file an answer to the
+31 complaint with the circuit clerk within forty-five (45) days of service of
+32 process.
+33 (c)(1) If the owner or interest holder fails to file an answer as
+34 required by subsection (b) of this section, the prosecuting attorney may move
+35 for default judgment pursuant to the Arkansas Rules of Civil Procedure.
+36 (2) If a timely answer is filed:
+9 04-01-2025 12:43:46 CEB072
+As Engrossed: S4/1/25 SB442
+1 (A) By a defendant who was arrested for an offense giving
+2 rise to the forfeiture action under this section, the prosecuting attorney
+3 shall prove by a preponderance of the evidence that the seized real or
+4 personal property should be forfeited; or
+5 (B) By a third party who was not arrested for an offense
+6 giving rise to the forfeiture action, the prosecuting attorney shall prove by
+7 clear and convincing evidence that the seized real or personal property
+8 should be forfeited.
+9 (3)(A) After the prosecuting attorney has presented proof under
+10 subdivision (c)(2) of this section, any owner or interest holder of the real
+11 or personal property seized may present evidence why the seized real or
+12 personal property should not be forfeited.
+13 (B) If the circuit court determines that grounds for
+14 forfeiting the seized real or personal property exist and that no defense to
+15 forfeiture has been established by the owner or interest holder, the circuit
+16 court shall enter an order under § 5-5-608.
+17 (C) If the circuit court determines that the prosecuting
+18 attorney has failed to establish that grounds for forfeiture of the seized
+19 real or personal property exist or that the owner or interest holder has
+20 established a defense to the forfeiture, the court shall order that the
+21 seized real or personal property be immediately returned to the owner or
+22 interest holder.
+23
+24 5-5-608. Final disposition.
+25 (a) When a circuit court having jurisdiction over real or personal
+26 property seized under this subchapter finds that grounds for a forfeiture
+27 exist and the burden of proof has been met under § 5-5-607, the circuit court
+28 shall enter an order:
+29 (1) Permitting the law enforcement agency or prosecuting
+30 attorney to retain the seized personal property for law enforcement or
+31 prosecutorial purposes subject to subsection (b) of this section;
+32 (2) Directing the retaining law enforcement agency or
+33 prosecuting attorney to sell at public sale, under § 5-5-101(e) and (f), the
+34 seized real or personal property that is not required by law to be destroyed
+35 and that is not harmful to the public; or
+36 (3) Transferring a motor vehicle to a school district for use in
+10 04-01-2025 12:43:46 CEB072
+As Engrossed: S4/1/25 SB442
+1 a driver education course.
+2 (b)(1) Seized personal property that is retained by the law
+3 enforcement agency or prosecuting attorney under subdivision (a)(1) of this
+4 section shall not be retained for official use for more than two (2) years,
+5 unless the circuit court finds that the seized property has been used for law
+6 enforcement or prosecutorial purposes and authorizes continued use for those
+7 purposes on an annual basis.
+8 (2) Except as provided in subdivision (b)(1) of this section, no
+9 later than two (2) years after entry of an order under subdivision (a)(1) of
+10 this section, the seized personal property shall be sold as provided in
+11 subdivision (a)(2) of this section, and the proceeds shall be deposited:
+12 (A) Eighty percent (80%) into the human trafficking
+13 control fund of the retaining law enforcement agency or prosecuting attorney;
+14 and
+15 (B) Twenty percent (20%) into the State Treasury as
+16 special revenues to be credited to the Arkansas Human Trafficking Council
+17 Support Fund.
+18 (3) The retaining law enforcement agency or prosecuting attorney
+19 may sell the retained seized personal property at any time during the time
+20 allowed for retention, and the proceeds of the sale shall be distributed as
+21 set forth in subdivisions (b)(2)(A) and (B) of this section.
+22 (4) If the circuit court determines that retained seized
+23 personal property has been used for personal use or by non-law enforcement
+24 personnel for non-law enforcement purposes, the circuit court shall order the
+25 seized personal property to be sold at public sale under § 5-5-101(e) and
+26 (f), and the proceeds shall be deposited into the State Treasury as special
+27 revenues to be credited to the Arkansas Human Trafficking Council Support
+28 Fund.
+29 (5)(A) A law enforcement agency may use seized personal property
+30 or money if the circuit court's order specifies that the seized personal
+31 property or money may be retained for official use by the prosecuting
+32 attorney, county sheriff, chief of police, Division of Arkansas State Police,
+33 or Arkansas Highway Police Division of the Arkansas Department of
+34 Transportation.
+35 (B) If the circuit court’s order specifies that the seized
+36 personal property or money may be retained for official use, the prosecuting
+11 04-01-2025 12:43:46 CEB072
+As Engrossed: S4/1/25 SB442
+1 attorney, county sheriff, chief of police, Division of Arkansas State Police,
+2 or Arkansas Highway Police Division of the Arkansas Department of
+3 Transportation shall:
+4 (i) Maintain an inventory of the seized personal
+5 property or money;
+6 (ii) Be accountable for the seized personal property
+7 or money; and
+8 (iii) Be subject to the provisions of § 5-5-606(c)
+9 with respect to the seized personal property or money.
+10 (6) Any weapon not retained for official use shall be disposed
+11 of in accordance with state and federal law.
+12 (c) Disposition of seized real or personal property under this section
+13 is subject to the need to retain the seized real or personal property as
+14 evidence in any related proceeding.
+15 (d) Within three (3) business days of the entry of an order, the
+16 circuit clerk shall forward to the Human Trafficking Coordinator copies of
+17 the confiscation report, the circuit court's order, and any other
+18 documentation detailing the disposition of the seized real or personal
+19 property.
+20
+21 5-5-609. Disposition of moneys received.
+22 (a)(1) Subject to the provisions of § 5-5-606, the proceeds of sales
+23 conducted pursuant to § 5-5-608 and any moneys forfeited or obtained by
+24 judgment or settlement under this subchapter shall be deposited and
+25 distributed in the manner set forth in this section.
+26 (2) Moneys received from a federal forfeiture shall be deposited
+27 and distributed under subsection (f) of this section.
+28 (b) The proceeds of any sale and any moneys forfeited or obtained by
+29 judgment or settlement under this subchapter shall be deposited into the
+30 asset forfeiture fund of the prosecuting attorney and is subject to the
+31 following provisions:
+32 (1) During a calendar year, if the the aggregate amount of
+33 moneys deposited into the asset forfeiture fund exceeds twenty thousand
+34 dollars ($20,000) per county, within fourteen (14) days of the time of the
+35 excess the prosecuting attorney shall notify the circuit judges in the
+36 judicial district and the Human Trafficking Coordinator;
+12 04-01-2025 12:43:46 CEB072
+As Engrossed: S4/1/25 SB442
+1 (2) After the notification required under subdivision (b)(1) of
+2 this section, twenty percent (20%) of the proceeds of any additional sale and
+3 any additional moneys forfeited or obtained by judgment or settlement under
+4 this subchapter in the same calendar year shall be deposited into the State
+5 Treasury as special revenues to be credited to the Arkansas Human Trafficking
+6 Council Support Fund, and the remainder shall be deposited into the asset
+7 forfeiture fund of the prosecuting attorney;
+8 (3) Failure of the prosecuting attorney to comply with the
+9 notification requirement under subdivision (b)(1) of this section renders the
+10 prosecuting attorney and any entity eligible to receive forfeited moneys or
+11 property from the prosecuting attorney ineligible to receive forfeited moneys
+12 or property, except as provided in § 5-5-606; and
+13 (4) Twenty percent (20%) of any moneys in excess of twenty
+14 thousand dollars ($20,000) that have been retained but not reported as
+15 required by subdivision (b)(1) of this section are subject to recovery for
+16 deposit into the State Treasury as special revenues to be credited to the
+17 Arkansas Human Trafficking Council Support Fund.
+18 (c)(1) The prosecuting attorney shall administer expenditures from the
+19 asset forfeiture fund, which is subject to audit by Arkansas Legislative
+20 Audit.
+21 (2) Moneys distributed from the asset forfeiture fund shall only
+22 be used for law enforcement and prosecutorial purposes and moneys in the
+23 asset forfeiture fund shall be distributed in the following order:
+24 (A) For satisfaction of any bona fide security interest or
+25 lien;
+26 (B) For payment of any proper expense of the proceeding
+27 for forfeiture and sale, including expenses of seizure, maintenance of
+28 custody, advertising, and court costs;
+29 (C) Any balance under two hundred fifty thousand dollars
+30 ($250,000) shall be distributed proportionally to reflect generally the
+31 contribution of the appropriate local or state law enforcement or
+32 prosecutorial agency's participation in any activity that led to the seizure
+33 or forfeiture of the property or deposit of moneys under this subchapter; and
+34 (D) Any balance over two hundred fifty thousand dollars
+35 ($250,000) resulting from the seizure or forfeiture of property or deposit of
+36 moneys under this subchapter shall be forwarded to the Human Trafficking
+13 04-01-2025 12:43:46 CEB072
+As Engrossed: S4/1/25 SB442
+1 Coordinator to be transferred to the State Treasury for deposit into the
+2 Arkansas Human Trafficking Support Fund.
+3 (d)(1) For a forfeiture in an amount greater than two hundred fifty
+4 thousand dollars ($250,000) from which expenses are paid for a proceeding for
+5 forfeiture and sale under subdivision (c)(2)(B) of this section, an itemized
+6 accounting of the expenses shall be delivered to the Human Trafficking
+7 Coordinator within ten (10) calendar days after the payment of the expenses.
+8 (2) The itemized accounting shall include the expenses paid, to
+9 whom paid, and for what purposes the expenses where paid.
+10 (e)(1)(A) There is created on the books of each law enforcement agency
+11 and prosecuting attorney a human trafficking control fund.
+12 (B) The human trafficking control fund shall consist of
+13 any moneys obtained under subsection (b) of this section and any other
+14 revenue as may be provided by law or ordinance.
+15 (C) Moneys in the human trafficking control fund:
+16 (i) May not supplant other local, state, or federal
+17 funds;
+18 (ii) Are appropriated on a continuing basis and are
+19 not subject to the Revenue Stabilization Law, § 19-5-101 et seq.; and
+20 (iii) Shall only be used for law enforcement and
+21 prosecutorial purposes, including without limitation to provide a grant of up
+22 to one thousand dollars ($1,000) to the family of a law enforcement officer
+23 who dies in the prosecuting attorney's jurisdiction.
+24 (D) The human trafficking control fund is subject to audit
+25 by Arkansas Legislative Audit.
+26 (2) A law enforcement agency and prosecuting attorney shall
+27 submit to the Human Trafficking Coordinator on or before January 1 and July 1
+28 of each year a report detailing any moneys received and expenditure made from
+29 the human trafficking control fund during the preceding six-month period.
+30 (f)(1) Any moneys received by a prosecuting attorney or law
+31 enforcement agency from a federal forfeiture shall be deposited and
+32 maintained in a separate account subject to the following provisions:
+33 (A) Any balance over two hundred fifty thousand dollars
+34 ($250,000) in the separate account shall be distributed as set forth in
+35 subdivision (f)(2) of this section;
+36 (B) No other moneys maybe maintained in the separate
+14 04-01-2025 12:43:46 CEB072
+As Engrossed: S4/1/25 SB442
+1 account except for any interest income generated by the separate account;
+2 (C) Moneys in the separate account shall only be used for
+3 law enforcement and prosecutorial purposes consistent with governing federal
+4 law; and
+5 (D) The separate account is subject to audit by Arkansas
+6 Legislative Audit.
+7 (2) Any balance over two hundred fifty thousand dollars
+8 ($250,000) shall be forwarded to the Division of Arkansas State Police to be
+9 transferred to the State Treasury for deposit into the Human Trafficking
+10 Council Support Fund in which the balance shall be maintained separately and
+11 distributed consistent with governing federal law.
+12
+13 5-5-610. In personam proceedings.
+14 (a) In personam jurisdiction may be based on a defendant's presence in
+15 the state, or on his or her conduct in the state, as set out in § 16-4-
+16 101(B), and is subject to the provisions of subsection (b) of this section.
+17 (b)(1) A temporary restraining order under this section may be entered
+18 ex parte on application of the state, upon a showing that:
+19 (A) There is probable cause to believe that the property
+20 with respect to which the order is sought is subject to forfeiture under this
+21 section; and
+22 (B) Notice of the action would jeopardize the availability
+23 of the property for forfeiture.
+24 (2) Notice of the entry of a temporary restraining order and an
+25 opportunity for a hearing shall be afforded to a person known to have an
+26 interest in the real or personal property.
+27 (3) A hearing under subdivision (b)(2) of this section shall be
+28 held at the earliest possible date consistent with Rule 65 of the Arkansas
+29 Rules of Civil Procedure and is limited to the issues of whether:
+30 (A) There is a probability that the state will prevail on
+31 the issue of forfeiture and that failure to enter the temporary restraining
+32 order will result in the real or personal property being destroyed, conveyed,
+33 alienated, encumbered, disposed of, received, removed from the jurisdiction
+34 of the circuit court, concealed, or otherwise made unavailable for
+35 forfeiture; and
+36 (B) The need to preserve the availability of real or
+15 04-01-2025 12:43:46 CEB072
+As Engrossed: S4/1/25 SB442
+1 personal property through the entry of the temporary restraining order
+2 outweighs the hardship on any owner or interest holder against whom the
+3 temporary restraining order is to be entered.
+4 (c) The state has the burden of proof by a preponderance of the
+5 evidence to show that the defendant's real or personal property is subject to
+6 forfeiture.
+7 (d)(1) After a determination of liability of a person for conduct
+8 giving rise to forfeiture under this subchapter, the circuit court shall
+9 enter a judgment of forfeiture of the real or personal property subject to
+10 forfeiture as alleged in the complaint and may authorize the prosecuting
+11 attorney or any law enforcement officer to seize any real or personal
+12 property subject to forfeiture under § 5-5-601 not previously seized or not
+13 then under seizure.
+14 (2) The order of forfeiture shall be consistent with § 5-5-608.
+15 (3) In connection with the judgment, on application of the
+16 state, the circuit court may enter any appropriate order to protect the
+17 interest of the state in the forfeited property.
+18 (e) Subsequent to the finding of liability and order of forfeiture,
+19 the following procedures apply:
+20 (1) The prosecuting attorney shall give notice of pending
+21 forfeiture, in the manner provided in Rule 4 of the Arkansas Rules of Civil
+22 Procedure, to any owner or interest holder who has not previously been given
+23 notice;
+24 (2) An owner of or interest holder in the real or personal
+25 property that has been ordered forfeited and whose claim is not precluded may
+26 file a claim within thirty (30) days after initial notice of pending
+27 forfeiture or after notice under Rule 4 of the Arkansas Rules of Civil
+28 Procedure, whichever is earlier; and
+29 (3) The circuit court may amend the in personam order of
+30 forfeiture if the circuit court determines that a claimant has established
+31 that he or she has an interest in the real or personal property and that the
+32 interest is exempt under § 5-5-602.
+33
+34 5-5-611. Forfeiture of absent, encumbered, or indivisible real or
+35 personal property.
+36 The circuit court shall order the forfeiture of any other real or
+16 04-01-2025 12:43:46 CEB072
+As Engrossed: S4/1/25 SB442
+1 personal property of an owner or defendant up to the value of the owner's or
+2 defendant's real or personal property found by the circuit court to be
+3 subject to forfeiture under this subchapter if any of the forfeitable real or
+4 personal property had remained under the control or custody of the owner or
+5 defendant and the forfeitable real or personal property:
+6 (1) Cannot be located;
+7 (2) Was transferred or conveyed to, sold to, or deposited with a
+8 third party;
+9 (3) Is beyond the jurisdiction of the circuit court;
+10 (4) Substantially diminished in value while not in the actual
+11 physical custody of the seizing law enforcement agency;
+12 (5) Was commingled with other property that cannot be divided
+13 without difficulty; or
+14 (6) Is subject to any interest exempted from forfeiture under §
+15 5-5-602.
+16
+17 5-5-612. Conviction required — Exceptions.
+18 (a) There shall be no civil judgment under this subchapter and no
+19 property shall be forfeited unless the person from whom the property is
+20 seized is convicted of a felony offense under the Human Trafficking Act of
+21 2013, § 5-18-101 et seq., that related to the property being seized and that
+22 permits the forfeiture of the property.
+23 (b) The court may waive the conviction requirement under this section
+24 if the prosecuting attorney shows by clear and convincing evidence that,
+25 before a conviction, the person from whom the property was seized:
+26 (1) Died;
+27 (2) Was deported by the United States Government;
+28 (3) Was granted immunity or reduced punishment in exchange for
+29 testifying or assisting a law enforcement agency or prosecution;
+30 (4) Fled the jurisdiction or failed to appear on the underlying
+31 criminal charge;
+32 (5) Failed to answer the complaint for civil asset forfeiture
+33 under § 5-64-505 as specified in the Arkansas Rules of Civil Procedure;
+34 (6) Abandoned or disclaimed his or her ownership interest in the real
+35 or personal property seized; or
+36 (7) Agreed in writing with the prosecuting attorney and other
+17 04-01-2025 12:43:46 CEB072
+As Engrossed: S4/1/25 SB442
+1 parties as to the disposition of the real or personal property.
+2
+3 SECTION 5. Arkansas Code § 5-18-103(d)(2), concerning the additional
+4 fine payment upon conviction for trafficking of persons, is amended to read
+5 as follows:
+6 (2) Fine payments received under subdivision (d)(1) of this
+7 section shall be deposited as follows:
+8 (A) Fifty percent (50%) into the Safe Harbor Fund for
+9 Sexually Exploited Children; and
+10 (B) Fifty percent (50%) into the Human Trafficking Victim
+11 Support Fund into the Arkansas Human Trafficking Council Support Fund.
+12
+13 SECTION 6. Arkansas Code § 5-18-104(c)(2), concerning the additional
+14 fine payment upon conviction for patronizing a victim of human trafficking,
+15 is amended to read as follows:
+16 (2) Fine payments received under subdivision (c)(1) of this
+17 section shall be deposited as follows:
+18 (A) Fifty percent (50%) into the Safe Harbor Fund for
+19 Sexually Exploited Children ; and
+20 (B) Fifty percent (50%) into the Human Trafficking Victim
+21 Support Fund into the Arkansas Human Trafficking Council Support Fund.
+22
+23 SECTION 7. Arkansas Code § 5-18-106(c)(2), concerning the additional
+24 fine payment upon conviction for grooming a minor for future sex trafficking,
+25 is amended to read as follows:
+26 (2) Fine payments received under subdivision (c)(1) of this
+27 section shall be deposited as follows:
+28 (A) Fifty percent (50%) into the Safe Harbor Fund for
+29 Sexually Exploited Children; and
+30 (B) Fifty percent (50%) into the Human Trafficking Victim
+31 Support Fund into the Arkansas Human Trafficking Council Support Fund.
+32
+33 SECTION 8. Arkansas Code § 5-18-107(f)(2), concerning the additional
+34 fine payment upon conviction for traveling for the purpose of an unlawful sex
+35 act with a minor, is amended to read as follows:
+36 (2) Fine payments received under subdivision (f)(1) of this
+18 04-01-2025 12:43:46 CEB072
+As Engrossed: S4/1/25 SB442
+1 section shall be deposited as follows:
+2 (A) Fifty percent (50%) into the Safe Harbor Fund for
+3 Sexually Exploited Children; and
+4 (B) Fifty percent (50%) into the Human Trafficking Victim
+5 Support Fund into the Arkansas Human Trafficking Council Support Fund.
+6
+7 SECTION 9. Arkansas Code Title 5, Chapter 27, Subchapter 2, is amended
+8 to add an additional section to read as follows:
+9 5-27-234. Harboring an endangered runaway minor.
+10 (a) A person commits the offense of harboring an endangered runaway
+11 minor if he or she knowingly harbors a minor who is an endangered runaway
+12 minor for a period of at least seventy-two (72) hours.
+13 (b) Harboring an endangered runaway minor is a:
+14 (1) Class A misdemeanor for a first offense; and
+15 (2) Class D felony for a second or subsequent offense.
+16 (c)(1) In addition to any other sentence authorized by this section, a
+17 person who violates this section upon conviction shall be ordered to pay a
+18 fine of one thousand dollars ($1,000).
+19 (2) Fine payments received under subdivision (c)(1) of this
+20 section shall be deposited one hundred percent (100%) into the Arkansas Human
+21 Trafficking Council Support Fund.
+22 (d) As used in this section, “endangered runaway minor” means an
+23 unemancipated minor who is voluntarily absent from his or her home for at
+24 least seventy-two (72) hours without a compelling reason and without the
+25 consent of his or her custodial parent, guardian, or legal custodian.
+26 (e) It is an affirmative defense to prosecution under this section
+27 that a person acted in good faith to protect the welfare, safety, or health
+28 of the minor, and that he or she:
+29 (1) Promptly notified law enforcement, child protective
+30 services, or another relevant authority upon discovering that the minor was
+31 an endangered runaway minor;
+32 (2) Provided temporary care or shelter solely to protect the
+33 minor from imminent harm; or
+34 (3) Did not have a purpose to interfere with the lawful custody
+35 or rights of a custodial parent or legal guardian of the minor.
+36
+19 04-01-2025 12:43:46 CEB072
+As Engrossed: S4/1/25 SB442
+1 SECTION 10. Arkansas Code § 5-70-102(e)(2), concerning the additional
+2 fine payment upon conviction for prostitution, is amended to read as follows:
+3 (2) Fine payments received under subdivision (e)(1) of this
+4 section shall be deposited as follows:
+5 (A) Fifty percent (50%) into the Safe Harbor Fund for
+6 Sexually Exploited Children; and
+7 (B) Fifty percent (50%) into the Human Trafficking Victim
+8 Support Fund into the Arkansas Human Trafficking Council Support Fund.
+9
+10 SECTION 11. Arkansas Code § 5-70-103 is amended to read as follows:
+11 5-70-103. Sexual solicitation.
+12 (a) A person commits the offense of sexual solicitation if he or she:
+13 (1) Offers or agrees to pay a fee to a person to engage in
+14 sexual activity with him or her or another person; or
+15 (2) Solicits or requests a person to engage in sexual activity
+16 with him or her in return for a fee.
+17 (b) Sexual solicitation is an unclassified misdemeanor with the
+18 following sentences: a:
+19 (1) For a first offense:
+20 (A) No more than ninety (90) days' imprisonment;
+21 (B) A fine of no more than two thousand dollars ($2,000);
+22 or
+23 (C) Both imprisonment and a fine; and
+24 (2) For a second or subsequent offense:
+25 (A) No more than one (1) year of imprisonment;
+26 (B) A fine of no more than three thousand five hundred
+27 dollars ($3,500); or
+28 (C) Both imprisonment and a fine.
+29 (1) Class A misdemeanor for a first offense; and
+30 (2) Class D felony for a second or subsequent offense.
+31 (c) It is an affirmative defense to prosecution under this section
+32 that the person engaged in an act of sexual solicitation as a result of being
+33 a victim of trafficking of persons, § 5-18-103.
+34 (d)(1) In addition to any other sentence authorized by this section, a
+35 person who violates this section by offering to pay, agreeing to pay, or
+36 paying a fee to engage in sexual activity upon conviction shall be ordered to
+20 04-01-2025 12:43:46 CEB072
+As Engrossed: S4/1/25 SB442
+1 pay a fine of two thousand five hundred dollars ($2,500).
+2 (2) Fine payments received under subdivision (d)(1) of this
+3 section shall be deposited as follows:
+4 (A) Fifty percent (50%) into the Safe Harbor Fund for
+5 Sexually Exploited Children; and
+6 (B) Fifty percent (50%) into the Human Trafficking Victim
+7 Support Fund into the Arkansas Human Trafficking Council Support Fund.
+8
+9 SECTION 12. Arkansas Code § 5-70-104(c)(2), concerning the additional
+10 fine payment upon conviction for promoting prostitution in the first degree,
+11 is amended to read as follows:
+12 (2) Fine payments received under subdivision (c)(1) of this
+13 section shall be deposited as follows:
+14 (A) Fifty percent (50%) into the Safe Harbor Fund for
+15 Sexually Exploited Children; and
+16 (B) Fifty percent (50%) into the Human Trafficking Victim
+17 Support Fund into the Arkansas Human Trafficking Council Support Fund.
+18
+19 SECTION 13. Arkansas Code § 5-70-105(c)(2), concerning the additional
+20 fine payment upon conviction for promoting prostitution in the second degree,
+21 is amended to read as follows:
+22 (2) Fine payments received under subdivision (c)(1) of this
+23 section shall be deposited as follows:
+24 (A) Fifty percent (50%) into the Safe Harbor Fund for
+25 Sexually Exploited Children; and
+26 (B) Fifty percent (50%) into the Human Trafficking Victim
+27 Support Fund into the Arkansas Human Trafficking Council Support Fund.
+28
+29 SECTION 14. Arkansas Code § 5-70-106(c)(2), concerning the additional
+30 fine payment upon conviction for promoting prostitution in the third degree,
+31 is amended to read as follows:
+32 (2) Fine payments received under subdivision (c)(1) of this
+33 section shall be deposited as follows:
+34 (A) Fifty percent (50%) into the Safe Harbor Fund for
+35 Sexually Exploited Children; and
+36 (B) Fifty percent (50%) into the Human Trafficking Victim
+21 04-01-2025 12:43:46 CEB072
+As Engrossed: S4/1/25 SB442
+1 Support Fund into the Arkansas Human Trafficking Council Support Fund.
+2
+3 SECTION 15. Arkansas Code § 5-70-107(e)(2), concerning the additional
+4 fine payment upon conviction for sexual solicitation of a minor, is amended
+5 to read as follows:
+6 (2) Fine payments received under subdivision (e)(1) of this
+7 section shall be deposited as follows:
+8 (A) Fifty percent (50%) into the Safe Harbor Fund for
+9 Sexually Exploited Children; and
+10 (B) Fifty percent (50%) into the Human Trafficking Victim
+11 Support Fund into the Arkansas Human Trafficking Council Support Fund.
+12
+13 SECTION 16. Arkansas Code § 5-70-107, concerning the offense of sexual
+14 solicitation of a minor, is amended to add an additional subsection to read
+15 as follows:
+16 (f) A person who violates this section upon conviction shall be
+17 ordered to attend an education or treatment program for the prevention of sex
+18 offenses and rehabilitation of sex offenders approved by the Human
+19 Trafficking Operations Unit of the Division of Arkansas State Police.
+20
+21 Section 17. Arkansas Code § 12-19-101 is repealed.
+22 12-19-101. State Task Force for the Prevention of Human Trafficking.
+23 (a)(1) The Attorney General may establish a State Task Force for the
+24 Prevention of Human Trafficking.
+25 (2) The task force shall address all aspects of human
+26 trafficking, including sex trafficking and labor trafficking of both United
+27 States citizens and foreign nationals.
+28 (b) If established, representatives on the task force shall be
+29 appointed by the Attorney General and may include representatives from:
+30 (1) The office of the Attorney General;
+31 (2) The office of the Governor;
+32 (3) The Department of Labor and Licensing;
+33 (4) The Department of Health;
+34 (5) The Department of Human Services;
+35 (6) The Arkansas Association of Chiefs of Police;
+36 (7) The Arkansas Sheriffs' Association;
+22 04-01-2025 12:43:46 CEB072
+As Engrossed: S4/1/25 SB442
+1 (8) The Division of Arkansas State Police;
+2 (9) The Arkansas Prosecuting Attorneys Association;
+3 (10) Local law enforcement; and
+4 (11) Nongovernmental organizations such as:
+5 (A) Those specializing in the problems of human
+6 trafficking;
+7 (B) Those representing diverse communities
+8 disproportionally affected by human trafficking;
+9 (C) Agencies devoted to child services and runaway
+10 services; and
+11 (D) Academic researchers dedicated to the subject of human
+12 trafficking.
+13 (c) If the task force is created by the Attorney General, he or she
+14 may invite federal agencies that operate in the state to be members of the
+15 task force, including without limitation:
+16 (1) The Federal Bureau of Investigation;
+17 (2) United States Immigration and Customs Enforcement; and
+18 (3) The United States Department of Labor.
+19 (d) If the task force is created by the Attorney General, the task
+20 force shall:
+21 (1) Develop a state plan;
+22 (2) Coordinate the implementation of the state plan;
+23 (3) Coordinate the collection and sharing of human trafficking
+24 data among government agencies in a manner that ensures that the privacy of
+25 victims of human trafficking is protected and that the data collection shall
+26 respect the privacy of victims of human trafficking;
+27 (4) Coordinate the sharing of information between agencies to
+28 detect individuals and groups engaged in human trafficking;
+29 (5) Explore the establishment of state policies for time limits
+30 for the issuance of law enforcement agency endorsements as described in 8
+31 C.F.R. § 214.11(f)(1), as it existed on January 1, 2013;
+32 (6) Establish policies to enable state government to work with
+33 nongovernmental organizations and other elements of the private sector to
+34 prevent human trafficking and provide assistance to victims of human
+35 trafficking who are United States citizens or foreign nationals;
+36 (7) Evaluate various approaches used by state and local
+23 04-01-2025 12:43:46 CEB072
+As Engrossed: S4/1/25 SB442
+1 governments to increase public awareness of human trafficking, including
+2 trafficking of United States citizens and foreign national victims;
+3 (8) Develop curriculum and train law enforcement agencies,
+4 prosecutors, public defenders, judges, and others involved in the criminal
+5 and juvenile justice systems on:
+6 (A) Offenses under the Human Trafficking Act of 2013, § 5-
+7 18-101 et seq.;
+8 (B) Methods used in identifying victims of human
+9 trafficking who are United States citizens or foreign nationals, including
+10 preliminary interview techniques and appropriate questioning methods;
+11 (C) Methods for prosecuting human traffickers;
+12 (D) Methods of increasing effective collaboration with
+13 nongovernmental organizations and other relevant social service organizations
+14 in the course of investigating and prosecuting a human trafficking case;
+15 (E) Methods for protecting the rights of victims of human
+16 trafficking, taking into account the need to consider human rights and
+17 special needs of women and minors;
+18 (F) The necessity of treating victims of human trafficking
+19 as crime victims rather than criminals; and
+20 (G) Methods for promoting the safety of victims of human
+21 trafficking; and
+22 (9) Submit a report of its findings and recommendations to the
+23 Governor, the Speaker of the House of Representatives, and the President Pro
+24 Tempore of the Senate.
+25 SECTION 18. Arkansas Code Title 12, Chapter 19, is amended to add an
+26 additional subchapter to read as follows:
+27 Subchapter 2 — Human Trafficking Operations Unit
+28
+29 12-19-201. Human Trafficking Operations Unit — Creation — Duties.
+30 (a) There is established a Human Trafficking Operations Unit within
+31 the Division of Arkansas State Police.
+32 (b) The Human Trafficking Operations Unit shall:
+33 (1) Consist of commissioned officers and analysts of the
+34 division;
+35 (2) Support and initiate criminal investigations of human
+36 trafficking, including sex trafficking and forced labor; and
+24 04-01-2025 12:43:46 CEB072
+As Engrossed: S4/1/25 SB442
+1 (3) Support and initiate investigations involving missing
+2 children that are considered high-risk victims.
+3
+4 12-19-202. Human Trafficking Coordinator — Creation — Duties.
+5 (a) There is created the position of Human Trafficking Coordinator
+6 within the Division of Arkansas State Police.
+7 (b) The Human Trafficking Coordinator shall:
+8 (1) Coordinate the implementation of this subchapter;
+9 (2) Serve as a commissioned officer within the Division of
+10 Arkansas State Police and perform duties as assigned;
+11 (3) Supervise the Human Trafficking Operations Unit and Human
+12 Trafficking Analyst;
+13 (4) Evaluate state efforts to combat human trafficking and
+14 identify areas for improvement;
+15 (5) Collect data on human trafficking activity within the state
+16 on an ongoing basis, including types of activities reported, efforts to
+17 combat human trafficking, and impact on victims and on the state;
+18 (6) Redact identifying information of any victim and his or her
+19 family from all publicly released portions of the collected data;
+20 (7) Promote public awareness about human trafficking, remedies
+21 and services for victims, and hotline information;
+22 (8) Create and maintain a website to publicize human trafficking
+23 prevention efforts;
+24 (9) Prepare and submit the annual report of the Human
+25 Trafficking Operations Unit to the Game and Fish/State Police Subcommittee of
+26 the Legislative Council, the Senate Interim Committee on Children and Youth,
+27 and the House Committee on Aging, Children and Youth, Legislative and
+28 Military Affairs;
+29 (10) Develop and implement policies pertaining to the use of the
+30 Arkansas Human Trafficking Council Support Fund to support investigations and
+31 services for victims of human trafficking in the state;
+32 (11) Assist in the creation and operations of local human
+33 trafficking task forces or working groups around the state, including serving
+34 on a task force or a multidisciplinary child protection team;
+35 (12) Prepare and submit applications for relevant available
+36 grants that may enhance the investigation and prosecution of trafficking
+25 04-01-2025 12:43:46 CEB072
+As Engrossed: S4/1/25 SB442
+1 offenses or to improve victim services to combat human trafficking within
+2 this state; and
+3 (13) Perform any other duties as required by the division.
+4 (c)(1) The Human Trafficking Coordinator may seek input and assistance
+5 from state agencies, nongovernmental agencies, service providers, and other
+6 individuals in the performance of the duties of the Human Trafficking
+7 Coordinator.
+8 (2) Each state agency, board, and commission shall be required
+9 to fully cooperate with the Human Trafficking Coordinator when assistance is
+10 requested under subdivision (c)(1) of this section.
+11 (3) Every investigation of a human trafficking offense shall be
+12 reported to the Human Trafficking Coordinator by the initiating law
+13 enforcement agency under guidelines established by the Human Trafficking
+14 Coordinator.
+15 (4) A state agency, nongovernmental agency, service provider, or
+16 local or state law enforcement agency providing information to the Human
+17 Trafficking Coordinator under this subchapter may disclose identifying
+18 information regarding a minor victim to the Human Trafficking Coordinator for
+19 the purposes of evaluating and collecting data regarding trafficking offenses
+20 in the state.
+21
+22 12-19-203. Human Trafficking Analyst — Creation — Duties.
+23 (a) There is created the position of Human Trafficking Analyst within
+24 the Division of Arkansas State Police.
+25 (b) The Human Trafficking Analyst shall:
+26 (1) Provide the Human Trafficking Operations Unit with
+27 objective, reliable, comparable, current data, and information in the field
+28 of human trafficking;
+29 (2) Direct support to a law enforcement officer investigating
+30 human trafficking on all tips, reports of possible human trafficking, and
+31 undercover operations; and
+32 (3) Assist the Human Trafficking Coordinator with carrying out
+33 the functions of the Human Trafficking Operations Unit.
+34
+35 SECTION 19. Arkansas Code § 19-5-1252(b) concerning the Safe Harbor
+36 Fund for Sexually Exploited Children, is amended to read as follows:
+26 04-01-2025 12:43:46 CEB072
+As Engrossed: S4/1/25 SB442
+1 (b) The fund shall consist of fines collected under § 5-18-103(d), § 5-
+2 18-104(c), § 5-18-106(c), § 5-18-107(f), § 5-70-102(e), § 5-70-103(d), § 5-
+3 70-104(c), § 5-70-105(c), § 5-70-106(c), and § 5-70-107(e) and any other
+4 general revenues as may be authorized by law.
+5
+6 SECTION 20. Arkansas Code § 19-5-1261 is repealed.
+7 19-5-1261. Human Trafficking Victim Support Fund — Definition.
+8 (a) There is created on the books of the Treasurer of State, the
+9 Auditor of State, and the Chief Fiscal Officer of the State a fund to be
+10 known as the “Human Trafficking Victim Support Fund”.
+11 (b) The fund shall consist of fees collected under § 5-5-501(d), fines
+12 collected under § 5-18-103(d), § 5-18-104(c), § 5-18-106(c), § 5-18-107(f), §
+13 5-70-102(e), § 5-70-103(d), § 5-70-104(c), § 5-70-105(c), § 5-70-106(c), and
+14 § 5-70-107(e), and any other revenues authorized by law.
+15 (c)(1) The fund shall be administered by the Attorney General.
+16 (2) The Attorney General shall use the fund to provide:
+17 (A) Grants to nonprofit, religious, and other third-party
+18 organizations that provide services and treatment, such as securing
+19 residential housing, health services, and social services for victims of
+20 human trafficking;
+21 (B) Training and education related to human trafficking to
+22 law enforcement; and
+23 (C) For the management and operation of the fund.
+24 (d) As used in this section, “victim of human trafficking” means a
+25 person who has been subject to sexual exploitation because the person:
+26 (1) Is a victim of trafficking of persons under § 5-18-103;
+27 (2) Is a victim of child sex trafficking under 18 U.S.C. § 1591,
+28 as it existed on January 1, 2017; or
+29 (3) Engages in an act of prostitution under § 5-70-102 or sexual
+30 solicitation under § 5-70-103 or § 5-70-107.
+31
+32 SECTION 21. Arkansas Code Title 19, Chapter 5, Subchapter 12, is
+33 amended to add an additional section to read as follows:
+34 19-5-1288. Arkansas Human Trafficking Council Support Fund —
+35 Definition.
+36 (a) There is created on the books of the Treasurer of State, the
+27 04-01-2025 12:43:46 CEB072
+As Engrossed: S4/1/25 SB442
+1 Auditor of State, and the Chief Fiscal Officer of the State a miscellaneous
+2 fund to be known as the "Arkansas Human Trafficking Council Support Fund".
+3 (b) The fund shall consist of:
+4 (1) Fees collected under § 5-5-501(d) and fines collected under
+5 §§ 5-18-103(d), 5-18-104(c), 5-18-106(c), 5-18-107(f), 5-27-234(c), 5-70-
+6 102(e), 5-70-103(d), 5-70-104(c), 5-70-105(c), 5-70-106(c), and 5-70-107(e);
+7 (2) Moneys appropriated by the General Assembly;
+8 (3) The interest accruing to the fund;
+9 (4) Donations to the fund; and
+10 (5) Any other revenues authorized by law.
+11 (c)(1) The fund shall be administered by the Division of Arkansas
+12 State Police.
+13 (2) The division shall use the fund to provide:
+14 (A) Services and treatment, such as securing residential
+15 housing, advocacy and coordination, legal services, health services, and
+16 social services for victims of human trafficking;
+17 (B) Grants to nonprofit, religious, and other third-party
+18 organizations that provide services and treatment, securing residential
+19 housing, advocacy and coordination, legal services, health services, and
+20 social services for victims of human trafficking;
+21 (C) Training for the Human Trafficking Operations Unit;
+22 (D) Equipment and supplies for the unit;
+23 (E) Software and subscription licensing for the unit;
+24 (F) Travel reimbursement and reconciliation for the unit;
+25 (G) Outreach material for the unit; and
+26 (H) Support for other duties of the unit prescribed by
+27 law.
+28 (3) The fund shall not be used to purchase motor vehicles or
+29 emergency equipment for motor vehicles.
+30 (d) As used in the section, "victim of human trafficking" means the
+31 same as defined in § 5-18-102.
+32
+33 SECTION 22. DO NOT CODIFY. Temporary language.
+34 (a) Any fund balance that remains in the Human Trafficking Victim
+35 Support Fund, § 19-5-1261, shall be transferred to the Arkansas Human
+36 Trafficking Council Support Fund.
+28 04-01-2025 12:43:46 CEB072
+As Engrossed: S4/1/25 SB442
+1 (b) Any fund balance that remains in the Safe Harbor Fund for Sexually
+2 Exploited Children, § 19-5-1252, shall be transferred to the Arkansas Human
+3 Trafficking Council Support Fund.
+4
+5 /s/J. Bryant
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+29 04-01-2025 12:43:46 CEB072
+[DELETED:  A   EBL4     A T H A H F P   T T O T O C  B   S f  ( v u   (   (   (   (]
+[DELETED:  S2 0   (   S c f   ( t    (    (    (    (    (   S m i  ( b T F   S a S   5  ( l H p  ( 2 t   (   (   (]
+[DELETED:  S3 0   (   (   ( e s   ( v 2   ( v   ( i o   5  ( t u o   ( r s o p   ( f s i  ( o s p T    5  (]
+[DELETED:  S4 0 s a p  (   ( s   ( t i   ( b d   ( b a s   5 l  ( p f o a  ( a i t   5  ( s t c  ( e]
+[DELETED:  S5 0 s   ( c   ( p f f   ( s o a   ( s p n j  ( t a   (    ( o    ( p t    (   ( t  ( t r   5 p  ( e]
+[DELETED:  S6 0 w p  ( l s   ( s r    ( t o   ( s s    ( r   ( i    ( p a    (    ( o    (    (    (    ( o   ( r c r C  ( C]
+[DELETED:  S7 0 p p f H d T    ( f    ( p p   ( s o a b P u    ( a L    ( m p e   ( o p d e A    ( c s t T]
+[DELETED:  S8 0   ( S t p  ( s a m i p (   5 J  ( u c c a   ( j d   ( t f   ( r t   ( f g   ( t a    ( t]
+[DELETED:  S9 0 i    ( n p     ( ( s p r     ( d a  ( w 2 c    ( p p i    ( s i    ( a    ( a   ( d r c p  ( r f   (]
+[DELETED:  S1 0    ( r s p    ( g c s   ( s o p    ( f f c    ( a r e s i   5  ( p e s   ( a p   ( p s a   (]
+[DELETED:  S1 0 a  ( e s u e p   ( l t s    ( c a    ( s S   ( m a s   ( p p s ( r F   ( o p a o T    ( p]
+[DELETED:  S1 0 a o T     ( p     ( o     ( w   ( o  ( i e  ( c t d p   5  ( c j d   ( a  ( j a f   ( m d e j]
+[DELETED:  S1 0   ( t a t T C f   ( n p p o   ( t r d A  ( a A   ( b a    ( l    ( f c    ( ( c p o    ( ( m]
+[DELETED:  S1 0 C A  ( t f a C   ( w  ( a    ( a r    (     ( f     ( n     ( p t w    ( b   ( s o t  ( e m    ( ( s    (]
+[DELETED:  S1 0 a    ( l l    ( L   ( ( t C d   5   ( t 1  ( e    ( w s    ( o   ( o i   ( h R    ( t o a o f    (]
+[DELETED:  S1 0 p o t  ( e f  ( g e f a p t   (   ( s i  ( t   ( f P n   ( p f f P   ( f t i   5 p  T]
+[DELETED:  S1 0 p d s p d   (   ( t   (   ( p   ( w   ( 5   5  ( p s 2 p  ( i b   (   (   ( t   ( c   ( u  ( o   (]
+[DELETED:  S1 0 p   S f a   ( s    ( S    ( S   S f i   ( s    ( S    ( S   S f i   ( s    ( S    ( S   S f a   (]
+[DELETED:  S1 0 s    ( S    ( S   S t  5  ( m m  (   (   (  ( p f   ( s T  ( u l c  ( t o   ( s a   ( m   ( o ]
+[DELETED:  S2 0  S f   ( s    ( S    ( S   S  5  (   ( s   ( w  ( f   (    (    ( o    (   (    (    ( d    (   (   (  ( t a  ( p p]
+[DELETED:  S2 0 p   ( s    ( S    ( S   S f i   ( s    ( S    ( S   S f i   ( s    ( S    ( S   S f i   ( s    ( S    (]
+[DELETED:  S2 0 S   S f t   ( s    ( S    ( S   S s a  ( o o T   S  1  ( P   ( t S  ( a   (   (   (   (   (   (   (]
+[DELETED:  S2 0   (   (   (   (    ( t    ( d    ( s    ( t  ( m t   (   (   (  ( f   (   (   ( d v r   ( d   ( f C   ( n p t   (]
+[DELETED:  S2 0 g t   ( p a    ( 1    ( t p    (    ( n i    ( t s    ( a    ( t   ( G T  S a S   1  ( t  (   ( d   ( t]
+[DELETED:  S2 0   ( c   1  ( w  (   (   ( A   ( T   ( i   ( o c   ( f   ( a   ( p   ( T t a M        ( A s   ( t o   ( g]
+[DELETED:  S2 0 o t   (  ( f i C   ( t r   ( r e C   ( l T i t i   1  ( t  (   ( o o   ( h u   ( t    S F]
+[DELETED:  S2 0  ( 1 7 g    S  1  ( A k  ( c 5 §  (   (    ( o r h    ( l    (  ( p   (   ( a   ( s    S a  1 D  (]
+[DELETED:  S2 0 A f  (   ( § 1   (   (   (   (  ( S   (    ( h s    ( o h s    (    (    (    (    (    ( l   ( e  ( s       S  ( S T]
+[DELETED:  S2 0  ( E T  /                               ]
+
+
+================================================================================
+
+Raw Text:
+Stricken language would be deleted from and underlined language would be added to present law.
+1 State of Arkansas As Engrossed: S4/1/25
+A Bill
+2 95th General Assembly
+3 Regular Session, 2025 SENATE BILL 442
+4
+5 By: Senator J. Bryant
+6 By: Representative McAlindon
+7
+For An Act To Be Entitled
+8
+9 AN ACT TO AMEND THE LAW CONCERNING HUMAN TRAFFICKING;
+10 TO PROVIDE FOR FORFEITURE OF ASSETS USED TO CONDUCT
+11 HUMAN TRAFFICKING; TO CREATE THE OFFENSE OF HARBORING
+12 AN ENDANGERED RUNAWAY CHILD; TO CREATE THE ARKANSAS
+13 HUMAN TRAFFICKING COUNCIL SUPPORT FUND; TO AMEND THE
+14 FINE PAYMENTS FOR HUMAN TRAFFICKING OFFENSES AND
+15 PROSTITUTION OFFENSES; AND FOR OTHER PURPOSES.
+16
+17
+Subtitle
+18
+19 TO AMEND THE LAW CONCERNING HUMAN
+20 TRAFFICKING; TO PROVIDE FOR FORFEITURE
+21 OF ASSETS USED TO CONDUCT HUMAN
+22 TRAFFICKING; AND TO CREATE THE OFFENSE
+23 OF HARBORING AN ENDANGERED RUNAWAY
+24 CHILD.
+25
+26 BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF ARKANSAS:
+27
+28 SECTION 1. Arkansas Code § 5-5-201(a), concerning certain asset
+29 forfeiture proceedings, is amended to read as follows:
+30 (a) Upon conviction, any conveyance, including an aircraft, motor
+31 vehicle, or vessel, is subject to forfeiture under this subchapter if it is
+32 used in the commission or attempt of:
+33 (1) A burglary;
+34 (2) A robbery;
+35 (3) A theft; or
+36 (4) An arson; or
+*CEB072*
+04-01-2025 12:43:46 CEB072
+
+As Engrossed: S4/1/25 SB442
+1 (5) Trafficking of persons, § 5-18-103.
+2
+3 SECTION 2. Arkansas Code § 5-5-202(b)(2), concerning the seizure of
+4 conveyances for certain asset forfeiture proceedings, is amended to read as
+5 follows:
+6 (2) Any law enforcement officer has probable cause to believe
+7 that the conveyance was used in the commission or attempt of:
+8 (A) A burglary;
+9 (B) A robbery;
+10 (C) A theft; or
+11 (D) An arson; or
+12 (E) Trafficking of persons, § 5-18-103.
+13
+14 SECTION 3. Arkansas Code § 5-5-501(d), concerning the impoundment of a
+15 motor vehicle used in a prostitution offense and the assessment of the
+16 impoundment fee, is amended to read as follows:
+17 (d) An impoundment fee assessed under this section shall be collected
+18 by the impounding law enforcement agency and remitted to the Human
+19 Trafficking Victim Support Fund Arkansas Human Trafficking Council Support
+20 Fund on the first business day of each month.
+21
+22 SECTION 4. Arkansas Code Title 5, Chapter 5, is amended to add an
+23 additional subchapter to read as follows:
+24 Subchapter 6 — Forfeiture of Property used in Human Trafficking
+25
+26 5-5-601. Forfeiture of assets and disposition of proceeds.
+27 (a) In addition to any other civil or criminal penalties provided by
+28 law, real or personal property used in the commission of a violation of the
+29 Human Trafficking Act of 2013, § 5-18-101 et seq., shall be forfeited as
+30 provided in this subchapter.
+31 (b) Upon conviction for a violation of the Human Trafficking Act of
+32 2013, § 5-18-101 et seq., the following real or personal property is subject
+33 to forfeiture under this subchapter:
+34 (1) A conveyance, including an aircraft, a vehicle, or vessel;
+35 (2) A book, record, telecommunication equipment, or computer;
+36 (3) Money;
+2 04-01-2025 12:43:46 CEB072
+
+As Engrossed: S4/1/25 SB442
+1 (4) A negotiable instrument or security;
+2 (5) A weapon;
+3 (6) Anything of value furnished, or intended to be furnished, in
+4 exchange for a violation of the Human Trafficking Act of 2013, § 5-18-101 et
+5 seq.;
+6 (7) Any real or personal property acquired or received in a
+7 violation of or as an inducement to violate the Human Trafficking Act of
+8 2013, § 5-18-101 et seq.;
+9 (8) Any real or personal property traceable to proceeds from a
+10 violation of the Human Trafficking Act of 2013, § 5-18-101 et seq.; and
+11 (9) Any real property, including any right, title, and interest
+12 in the whole of or any part of any lot or tract of land used in furtherance
+13 of a violation of the Human Trafficking Act of 2013, § 5-18-101 et seq.
+14
+15 5-5-602. Real or personal property not subject to forfeiture.
+16 (a)(1) Real or personal property used in furtherance of a violation of
+17 the Human Trafficking Act of 2013, § 5-18-101 et seq., shall not be forfeited
+18 under this section unless the real or personal property was used with the
+19 owner's knowledge.
+20 (2) If the confiscating authority has reason to believe that the
+21 real or personal property is leased or rented, the confiscating authority
+22 shall notify the owner of the real or personal property within five (5) days
+23 of the confiscation or within five (5) days of learning that the real or
+24 personal property is leased or rented.
+25 (3) Forfeiture of real or personal property encumbered by a bona
+26 fide security interest is subject to the interest of the secured party if the
+27 secured party did not have knowledge of nor consented to the act or omission
+28 in violation of the Human Trafficking Act of 2013 § 5-18-101 et seq.
+29 (b) No property used by any person as a common carrier in the course
+30 of business as a common carrier is subject to forfeiture under this
+31 subchapter unless it appears that the owner or other person in charge of the
+32 property is a consenting party or privy to a violation of the Human
+33 Trafficking Act of 2013, § 5-18-101 et seq.
+34
+35 5-5-603. Seizure of real or personal property.
+36 (a) Real or personal property subject to forfeiture under this
+3 04-01-2025 12:43:46 CEB072
+
+As Engrossed: S4/1/25 SB442
+1 subchapter may be seized by any law enforcement agent upon process issued by
+2 any circuit court having jurisdiction over the real or personal property on
+3 petition filed by the prosecuting attorney of the judicial circuit.
+4 (b) Seizure without process may be made if:
+5 (1) The seizure is incident to an arrest or a search under a
+6 search warrant or an inspection under an administrative inspection warrant;
+7 (2) The real or personal property subject to seizure has been
+8 the subject of a prior judgment in favor of the state in a criminal
+9 injunction or forfeiture proceeding based upon this subchapter;
+10 (3) The seizing law enforcement agency has probable cause to
+11 believe that the real or personal property is directly or indirectly
+12 dangerous to health or safety; or
+13 (4) The seizing law enforcement agency has probable cause to
+14 believe that the real or personal property was used in the commission or
+15 attempt of a violation of the Human Trafficking Act of 2013, § 5-18-101 et
+16 seq.
+17
+18 5-5-604. Transfer of real or personal property seized by state or
+19 local agency to federal agency.
+20 (a) A state or local law enforcement agency shall not transfer real or
+21 personal property seized by the state or local agency to any federal entity
+22 for forfeiture under federal law unless the circuit court having jurisdiction
+23 over the property enters an order, upon petition by the prosecuting attorney,
+24 authorizing the property to be transferred to the federal entity.
+25 (b) A transfer under subsection (a) of this section shall not be
+26 approved unless it reasonably appears that the activity giving rise to the
+27 investigation or seizure involves more than one (1) state or the nature of
+28 the investigation or seizure would be better pursued under federal law.
+29
+30 5-5-605. Custody of real or personal property pending disposition.
+31 (a) Real or personal property seized for forfeiture under this
+32 subchapter is not subject to replevin, but is deemed to be in the custody of
+33 the seizing law enforcement agency subject only to an order or decree of the
+34 circuit court having jurisdiction over the property seized.
+35 (b) Subject to any need to retain the real or personal property as
+36 evidence, when real or personal property is seized under this subchapter the
+4 04-01-2025 12:43:46 CEB072
+
+As Engrossed: S4/1/25 SB442
+1 seizing law enforcement agency shall:
+2 (1) Remove the personal property to a place designated by the
+3 circuit court;
+4 (2) Place the real property under constructive seizure by
+5 posting notice of pending forfeiture on it, by giving notice of pending
+6 forfeiture to its owners and interest holders, or by filing notice of pending
+7 forfeiture in any appropriate public record relating to the real property;
+8 (3) Remove the personal property to a storage area for
+9 safekeeping or, if the personal property is a negotiable instrument or money,
+10 or is not needed for evidentiary purposes, deposit it in an interest-bearing
+11 account; or
+12 (4) Provide for another agency or custodian, including an owner,
+13 secured party, mortgagee, or lienholder, to take custody of the real or
+14 personal property and service, maintain, and operate it as reasonably
+15 necessary to maintain its value in any appropriate location within the
+16 jurisdiction of the court.
+17 (c)(1) In any transfer of real or personal property under § 5-5-604, a
+18 transfer receipt shall be prepared by the transferring law enforcement
+19 agency.
+20 (2) The transfer receipt shall:
+21 (A) List a detailed and complete description of the real
+22 or personal property being transferred;
+23 (B) State to which federal agency the real or personal
+24 property is being transferred and the source or authorization for the
+25 transfer; and
+26 (C) Be signed by both the transferor and the transferee.
+27 (3) Both transferor and transferee shall maintain a copy of the
+28 transfer receipt.
+29 (d) A person who acts as custodian of real or personal property under
+30 this section is not liable to any person on account of an act done in a
+31 reasonable manner in compliance with an order under this subchapter.
+32
+33 5-5-606. Inventory of real or personal property seized — Referral to
+34 prosecuting attorney — Failure to file confiscation report.
+35 (a) Real or personal property seized by a state or local law
+36 enforcement officer who is attached to, deputized or commissioned by, or
+5 04-01-2025 12:43:46 CEB072
+
+As Engrossed: S4/1/25 SB442
+1 working in conjunction with a federal agency remains subject to the
+2 provisions of this section.
+3 (b)(1) When real or personal property is seized for forfeiture by a
+4 law enforcement agency, the seizing law enforcement officer shall prepare and
+5 sign a confiscation report.
+6 (2)(A) The person from whom the real or personal property is
+7 seized shall sign the confiscation report if present and shall immediately
+8 receive a copy of the confiscation report.
+9 (B) If the person refuses to sign the confiscation report,
+10 the confiscation report shall be signed by one (1) additional law enforcement
+11 officer, stating that the person refused to sign the confiscation report.
+12 (3)(A) The original confiscation report shall be filed with the
+13 seizing law enforcement agency within forty-eight (48) hours after the
+14 seizure and maintained in a separate file.
+15 (B) One (1) copy of the confiscation report shall be
+16 retained by the seizing law enforcement officer.
+17 (4) The confiscation report shall contain the following
+18 information:
+19 (A) A detailed description of the real or personal
+20 property seized including without limitation any serial number, model number,
+21 and odometer reading or hour reading of a vehicle or equipment;
+22 (B) The date of seizure;
+23 (C) The name and address of the person from whom the real
+24 or personal property was seized;
+25 (D) The reason for the seizure;
+26 (E) Where the personal property will be held;
+27 (F) The seizing law enforcement officer's name; and
+28 (G) A signed statement by the seizing law enforcement
+29 officer stating that the confiscation report is true and complete.
+30 (5) Within three (3) business days of receiving the confiscation
+31 report, the seizing law enforcement agency shall forward a copy of the
+32 confiscation report to the prosecuting attorney for the district where the
+33 real or personal property was seized and to the Human Trafficking
+34 Coordinator.
+35 (c)(1) Arkansas Legislative Audit shall notify the Human Trafficking
+36 Coordinator and a circuit court in the county of a law enforcement agency,
+6 04-01-2025 12:43:46 CEB072
+
+As Engrossed: S4/1/25 SB442
+1 prosecuting attorney, or other public entity that the law enforcement agency,
+2 prosecuting attorney, or public entity is ineligible to receive any forfeited
+3 funds, forfeited real or personal property, or any grants from the Arkansas
+4 Human Trafficking Council Support Fund, if Arkansas Legislative Audit
+5 determines, by its own investigation or upon written notice from the Human
+6 Trafficking Coordinator, that:
+7 (A) The law enforcement agency has failed to complete and
+8 file the confiscation report as required by this section; or
+9 (B) The law enforcement agency, prosecuting attorney, or
+10 public entity has not properly accounted for any seized real or personal
+11 property.
+12 (2) After the notice by Arkansas Legislative Audit under
+13 subdivision (c)(1) of this section, the circuit court shall not issue any
+14 order distributing seized real or personal property to that law enforcement
+15 agency, prosecuting attorney, or public entity nor shall any grant be awarded
+16 by the Human Trafficking Operations Unit of the Division of Arkansas State
+17 Police to that law enforcement agency, prosecuting attorney, or public entity
+18 until:
+19 (A) The appropriate officials of the law enforcement
+20 agency, prosecuting attorney, or public entity have appeared before the
+21 Legislative Joint Auditing Committee; and
+22 (B) The Legislative Joint Auditing Committee has adopted a
+23 motion authorizing subsequent transfers of forfeited real or personal
+24 property to the law enforcement agency, prosecuting attorney, or public
+25 entity.
+26 (3)(A) While a law enforcement agency, prosecuting attorney, or
+27 other public entity is ineligible to receive forfeited real or personal
+28 property, the circuit court shall order any money that would have been
+29 distributed to that law enforcement agency, prosecuting attorney, or public
+30 entity to be transmitted to the Treasurer of State for deposit into the
+31 Arkansas Human Trafficking Council Support Fund.
+32 (B) If the real or personal property is not cash, the
+33 circuit court shall order the real or personal property converted to cash by
+34 selling the real or personal property under § 5-5-608(a)(2) and the proceeds
+35 transmitted to the Treasurer of State for deposit into the Arkansas Human
+36 Trafficking Council Support Fund.
+7 04-01-2025 12:43:46 CEB072
+
+As Engrossed: S4/1/25 SB442
+1 (4) Moneys deposited into the Arkansas Human Trafficking Council
+2 Support Fund pursuant to subdivision (c)(3) of this section are not subject
+3 to recovery or retrieval by the ineligible law enforcement agency,
+4 prosecuting attorney, or other public entity.
+5 (d) The Human Trafficking Coordinator shall make available a
+6 standardized confiscation report form to be used by all law enforcement
+7 agencies with specific instructions and guidelines concerning the type and
+8 monetary value of all real or personal property, including weapons, to be
+9 included in the confiscation report and forwarded to the office of the local
+10 prosecuting attorney and the Human Trafficking Coordinator under subdivision
+11 (b)(5) of this section.
+12
+13 5-5-607. Initiation of forfeiture proceedings — Notice to claimants —
+14 Judicial proceedings.
+15 (a)(1) A prosecuting attorney shall initiate a forfeiture proceeding
+16 under this subchapter by filing a complaint with the circuit clerk of the
+17 county where the real or personal property was seized and by serving the
+18 complaint on all known owners and interest holders of the seized property in
+19 accordance with the Arkansas Rules of Civil Procedure.
+20 (2) The complaint may be based on in rem or in personam
+21 jurisdiction but shall not be filed in such a way as to avoid the
+22 distribution requirements set forth in § 5-5-609.
+23 (3) The prosecuting attorney shall mail a copy of the complaint
+24 to the Human Trafficking Coordinator within five (5) calendar days after
+25 filing the complaint.
+26 (4) The complaint shall include a copy of the confiscation
+27 report and shall be filed within sixty (60) days after receiving a copy of
+28 the confiscation report from the seizing law enforcement agency.
+29 (5) In a case involving real property, the complaint shall be
+30 filed within sixty (60) days of the defendant's conviction on the charge
+31 giving rise to the forfeiture.
+32 (6)(A) The complaint may be filed after the expiration of the
+33 time set forth in subdivision (b)(1) of this section only if the complaint is
+34 accompanied by a statement of good cause for the late filing.
+35 (B) However, in no event shall the complaint be filed more
+36 than one hundred twenty (120) days after either the date of the seizure or,
+8 04-01-2025 12:43:46 CEB072
+
+As Engrossed: S4/1/25 SB442
+1 in a case involving real property, the date of the defendant's conviction.
+2 (C)(i) If the circuit court determines that good cause has
+3 not been established, the circuit court shall order that the seized real or
+4 personal property be returned to the owner or interest holder.
+5 (ii) In addition to the requirements in subdivision
+6 (a)(6)(C)(i) of this section, real or personal property seized but not
+7 subject to forfeiture under this subchapter or subject to disposition
+8 pursuant to law or the Arkansas Rules of Criminal Procedure may be ordered
+9 returned to the owner or interest holder.
+10 (iii) If the owner or interest holder cannot be
+11 determined, the court may order disposition of the real or personal property
+12 as provided in § 5-5-608.
+13 (b)(1) Subject to the Arkansas Rules of Civil Procedure, a defendant
+14 who was arrested for an offense in violation of the Human Trafficking Act of
+15 2013, § 5-18-101 et seq. shall file with the circuit clerk an answer to the
+16 complaint that shall include:
+17 (A) A statement describing the seized real or personal
+18 property and the owner's or interest holder's interest in the seized real or
+19 personal property, with supporting documents to establish the owner's or
+20 interest holder's interest;
+21 (B) A certification by the owner or interest holder
+22 stating that he or she has read the answer and that it is not filed for any
+23 improper purpose;
+24 (C) A statement setting forth any defense to forfeiture;
+25 and
+26 (D) The address at which the owner or interest holder
+27 accepts mail.
+28 (2) Subject to the Arkansas Rules of Civil Procedure, a
+29 defendant who is a third party who was not arrested for an offense giving
+30 rise to a forfeiture action under this subchapter shall file an answer to the
+31 complaint with the circuit clerk within forty-five (45) days of service of
+32 process.
+33 (c)(1) If the owner or interest holder fails to file an answer as
+34 required by subsection (b) of this section, the prosecuting attorney may move
+35 for default judgment pursuant to the Arkansas Rules of Civil Procedure.
+36 (2) If a timely answer is filed:
+9 04-01-2025 12:43:46 CEB072
+
+As Engrossed: S4/1/25 SB442
+1 (A) By a defendant who was arrested for an offense giving
+2 rise to the forfeiture action under this section, the prosecuting attorney
+3 shall prove by a preponderance of the evidence that the seized real or
+4 personal property should be forfeited; or
+5 (B) By a third party who was not arrested for an offense
+6 giving rise to the forfeiture action, the prosecuting attorney shall prove by
+7 clear and convincing evidence that the seized real or personal property
+8 should be forfeited.
+9 (3)(A) After the prosecuting attorney has presented proof under
+10 subdivision (c)(2) of this section, any owner or interest holder of the real
+11 or personal property seized may present evidence why the seized real or
+12 personal property should not be forfeited.
+13 (B) If the circuit court determines that grounds for
+14 forfeiting the seized real or personal property exist and that no defense to
+15 forfeiture has been established by the owner or interest holder, the circuit
+16 court shall enter an order under § 5-5-608.
+17 (C) If the circuit court determines that the prosecuting
+18 attorney has failed to establish that grounds for forfeiture of the seized
+19 real or personal property exist or that the owner or interest holder has
+20 established a defense to the forfeiture, the court shall order that the
+21 seized real or personal property be immediately returned to the owner or
+22 interest holder.
+23
+24 5-5-608. Final disposition.
+25 (a) When a circuit court having jurisdiction over real or personal
+26 property seized under this subchapter finds that grounds for a forfeiture
+27 exist and the burden of proof has been met under § 5-5-607, the circuit court
+28 shall enter an order:
+29 (1) Permitting the law enforcement agency or prosecuting
+30 attorney to retain the seized personal property for law enforcement or
+31 prosecutorial purposes subject to subsection (b) of this section;
+32 (2) Directing the retaining law enforcement agency or
+33 prosecuting attorney to sell at public sale, under § 5-5-101(e) and (f), the
+34 seized real or personal property that is not required by law to be destroyed
+35 and that is not harmful to the public; or
+36 (3) Transferring a motor vehicle to a school district for use in
+10 04-01-2025 12:43:46 CEB072
+
+As Engrossed: S4/1/25 SB442
+1 a driver education course.
+2 (b)(1) Seized personal property that is retained by the law
+3 enforcement agency or prosecuting attorney under subdivision (a)(1) of this
+4 section shall not be retained for official use for more than two (2) years,
+5 unless the circuit court finds that the seized property has been used for law
+6 enforcement or prosecutorial purposes and authorizes continued use for those
+7 purposes on an annual basis.
+8 (2) Except as provided in subdivision (b)(1) of this section, no
+9 later than two (2) years after entry of an order under subdivision (a)(1) of
+10 this section, the seized personal property shall be sold as provided in
+11 subdivision (a)(2) of this section, and the proceeds shall be deposited:
+12 (A) Eighty percent (80%) into the human trafficking
+13 control fund of the retaining law enforcement agency or prosecuting attorney;
+14 and
+15 (B) Twenty percent (20%) into the State Treasury as
+16 special revenues to be credited to the Arkansas Human Trafficking Council
+17 Support Fund.
+18 (3) The retaining law enforcement agency or prosecuting attorney
+19 may sell the retained seized personal property at any time during the time
+20 allowed for retention, and the proceeds of the sale shall be distributed as
+21 set forth in subdivisions (b)(2)(A) and (B) of this section.
+22 (4) If the circuit court determines that retained seized
+23 personal property has been used for personal use or by non-law enforcement
+24 personnel for non-law enforcement purposes, the circuit court shall order the
+25 seized personal property to be sold at public sale under § 5-5-101(e) and
+26 (f), and the proceeds shall be deposited into the State Treasury as special
+27 revenues to be credited to the Arkansas Human Trafficking Council Support
+28 Fund.
+29 (5)(A) A law enforcement agency may use seized personal property
+30 or money if the circuit court's order specifies that the seized personal
+31 property or money may be retained for official use by the prosecuting
+32 attorney, county sheriff, chief of police, Division of Arkansas State Police,
+33 or Arkansas Highway Police Division of the Arkansas Department of
+34 Transportation.
+35 (B) If the circuit court’s order specifies that the seized
+36 personal property or money may be retained for official use, the prosecuting
+11 04-01-2025 12:43:46 CEB072
+
+As Engrossed: S4/1/25 SB442
+1 attorney, county sheriff, chief of police, Division of Arkansas State Police,
+2 or Arkansas Highway Police Division of the Arkansas Department of
+3 Transportation shall:
+4 (i) Maintain an inventory of the seized personal
+5 property or money;
+6 (ii) Be accountable for the seized personal property
+7 or money; and
+8 (iii) Be subject to the provisions of § 5-5-606(c)
+9 with respect to the seized personal property or money.
+10 (6) Any weapon not retained for official use shall be disposed
+11 of in accordance with state and federal law.
+12 (c) Disposition of seized real or personal property under this section
+13 is subject to the need to retain the seized real or personal property as
+14 evidence in any related proceeding.
+15 (d) Within three (3) business days of the entry of an order, the
+16 circuit clerk shall forward to the Human Trafficking Coordinator copies of
+17 the confiscation report, the circuit court's order, and any other
+18 documentation detailing the disposition of the seized real or personal
+19 property.
+20
+21 5-5-609. Disposition of moneys received.
+22 (a)(1) Subject to the provisions of § 5-5-606, the proceeds of sales
+23 conducted pursuant to § 5-5-608 and any moneys forfeited or obtained by
+24 judgment or settlement under this subchapter shall be deposited and
+25 distributed in the manner set forth in this section.
+26 (2) Moneys received from a federal forfeiture shall be deposited
+27 and distributed under subsection (f) of this section.
+28 (b) The proceeds of any sale and any moneys forfeited or obtained by
+29 judgment or settlement under this subchapter shall be deposited into the
+30 asset forfeiture fund of the prosecuting attorney and is subject to the
+31 following provisions:
+32 (1) During a calendar year, if the the aggregate amount of
+33 moneys deposited into the asset forfeiture fund exceeds twenty thousand
+34 dollars ($20,000) per county, within fourteen (14) days of the time of the
+35 excess the prosecuting attorney shall notify the circuit judges in the
+36 judicial district and the Human Trafficking Coordinator;
+12 04-01-2025 12:43:46 CEB072
+
+As Engrossed: S4/1/25 SB442
+1 (2) After the notification required under subdivision (b)(1) of
+2 this section, twenty percent (20%) of the proceeds of any additional sale and
+3 any additional moneys forfeited or obtained by judgment or settlement under
+4 this subchapter in the same calendar year shall be deposited into the State
+5 Treasury as special revenues to be credited to the Arkansas Human Trafficking
+6 Council Support Fund, and the remainder shall be deposited into the asset
+7 forfeiture fund of the prosecuting attorney;
+8 (3) Failure of the prosecuting attorney to comply with the
+9 notification requirement under subdivision (b)(1) of this section renders the
+10 prosecuting attorney and any entity eligible to receive forfeited moneys or
+11 property from the prosecuting attorney ineligible to receive forfeited moneys
+12 or property, except as provided in § 5-5-606; and
+13 (4) Twenty percent (20%) of any moneys in excess of twenty
+14 thousand dollars ($20,000) that have been retained but not reported as
+15 required by subdivision (b)(1) of this section are subject to recovery for
+16 deposit into the State Treasury as special revenues to be credited to the
+17 Arkansas Human Trafficking Council Support Fund.
+18 (c)(1) The prosecuting attorney shall administer expenditures from the
+19 asset forfeiture fund, which is subject to audit by Arkansas Legislative
+20 Audit.
+21 (2) Moneys distributed from the asset forfeiture fund shall only
+22 be used for law enforcement and prosecutorial purposes and moneys in the
+23 asset forfeiture fund shall be distributed in the following order:
+24 (A) For satisfaction of any bona fide security interest or
+25 lien;
+26 (B) For payment of any proper expense of the proceeding
+27 for forfeiture and sale, including expenses of seizure, maintenance of
+28 custody, advertising, and court costs;
+29 (C) Any balance under two hundred fifty thousand dollars
+30 ($250,000) shall be distributed proportionally to reflect generally the
+31 contribution of the appropriate local or state law enforcement or
+32 prosecutorial agency's participation in any activity that led to the seizure
+33 or forfeiture of the property or deposit of moneys under this subchapter; and
+34 (D) Any balance over two hundred fifty thousand dollars
+35 ($250,000) resulting from the seizure or forfeiture of property or deposit of
+36 moneys under this subchapter shall be forwarded to the Human Trafficking
+13 04-01-2025 12:43:46 CEB072
+
+As Engrossed: S4/1/25 SB442
+1 Coordinator to be transferred to the State Treasury for deposit into the
+2 Arkansas Human Trafficking Support Fund.
+3 (d)(1) For a forfeiture in an amount greater than two hundred fifty
+4 thousand dollars ($250,000) from which expenses are paid for a proceeding for
+5 forfeiture and sale under subdivision (c)(2)(B) of this section, an itemized
+6 accounting of the expenses shall be delivered to the Human Trafficking
+7 Coordinator within ten (10) calendar days after the payment of the expenses.
+8 (2) The itemized accounting shall include the expenses paid, to
+9 whom paid, and for what purposes the expenses where paid.
+10 (e)(1)(A) There is created on the books of each law enforcement agency
+11 and prosecuting attorney a human trafficking control fund.
+12 (B) The human trafficking control fund shall consist of
+13 any moneys obtained under subsection (b) of this section and any other
+14 revenue as may be provided by law or ordinance.
+15 (C) Moneys in the human trafficking control fund:
+16 (i) May not supplant other local, state, or federal
+17 funds;
+18 (ii) Are appropriated on a continuing basis and are
+19 not subject to the Revenue Stabilization Law, § 19-5-101 et seq.; and
+20 (iii) Shall only be used for law enforcement and
+21 prosecutorial purposes, including without limitation to provide a grant of up
+22 to one thousand dollars ($1,000) to the family of a law enforcement officer
+23 who dies in the prosecuting attorney's jurisdiction.
+24 (D) The human trafficking control fund is subject to audit
+25 by Arkansas Legislative Audit.
+26 (2) A law enforcement agency and prosecuting attorney shall
+27 submit to the Human Trafficking Coordinator on or before January 1 and July 1
+28 of each year a report detailing any moneys received and expenditure made from
+29 the human trafficking control fund during the preceding six-month period.
+30 (f)(1) Any moneys received by a prosecuting attorney or law
+31 enforcement agency from a federal forfeiture shall be deposited and
+32 maintained in a separate account subject to the following provisions:
+33 (A) Any balance over two hundred fifty thousand dollars
+34 ($250,000) in the separate account shall be distributed as set forth in
+35 subdivision (f)(2) of this section;
+36 (B) No other moneys maybe maintained in the separate
+14 04-01-2025 12:43:46 CEB072
+
+As Engrossed: S4/1/25 SB442
+1 account except for any interest income generated by the separate account;
+2 (C) Moneys in the separate account shall only be used for
+3 law enforcement and prosecutorial purposes consistent with governing federal
+4 law; and
+5 (D) The separate account is subject to audit by Arkansas
+6 Legislative Audit.
+7 (2) Any balance over two hundred fifty thousand dollars
+8 ($250,000) shall be forwarded to the Division of Arkansas State Police to be
+9 transferred to the State Treasury for deposit into the Human Trafficking
+10 Council Support Fund in which the balance shall be maintained separately and
+11 distributed consistent with governing federal law.
+12
+13 5-5-610. In personam proceedings.
+14 (a) In personam jurisdiction may be based on a defendant's presence in
+15 the state, or on his or her conduct in the state, as set out in § 16-4-
+16 101(B), and is subject to the provisions of subsection (b) of this section.
+17 (b)(1) A temporary restraining order under this section may be entered
+18 ex parte on application of the state, upon a showing that:
+19 (A) There is probable cause to believe that the property
+20 with respect to which the order is sought is subject to forfeiture under this
+21 section; and
+22 (B) Notice of the action would jeopardize the availability
+23 of the property for forfeiture.
+24 (2) Notice of the entry of a temporary restraining order and an
+25 opportunity for a hearing shall be afforded to a person known to have an
+26 interest in the real or personal property.
+27 (3) A hearing under subdivision (b)(2) of this section shall be
+28 held at the earliest possible date consistent with Rule 65 of the Arkansas
+29 Rules of Civil Procedure and is limited to the issues of whether:
+30 (A) There is a probability that the state will prevail on
+31 the issue of forfeiture and that failure to enter the temporary restraining
+32 order will result in the real or personal property being destroyed, conveyed,
+33 alienated, encumbered, disposed of, received, removed from the jurisdiction
+34 of the circuit court, concealed, or otherwise made unavailable for
+35 forfeiture; and
+36 (B) The need to preserve the availability of real or
+15 04-01-2025 12:43:46 CEB072
+
+As Engrossed: S4/1/25 SB442
+1 personal property through the entry of the temporary restraining order
+2 outweighs the hardship on any owner or interest holder against whom the
+3 temporary restraining order is to be entered.
+4 (c) The state has the burden of proof by a preponderance of the
+5 evidence to show that the defendant's real or personal property is subject to
+6 forfeiture.
+7 (d)(1) After a determination of liability of a person for conduct
+8 giving rise to forfeiture under this subchapter, the circuit court shall
+9 enter a judgment of forfeiture of the real or personal property subject to
+10 forfeiture as alleged in the complaint and may authorize the prosecuting
+11 attorney or any law enforcement officer to seize any real or personal
+12 property subject to forfeiture under § 5-5-601 not previously seized or not
+13 then under seizure.
+14 (2) The order of forfeiture shall be consistent with § 5-5-608.
+15 (3) In connection with the judgment, on application of the
+16 state, the circuit court may enter any appropriate order to protect the
+17 interest of the state in the forfeited property.
+18 (e) Subsequent to the finding of liability and order of forfeiture,
+19 the following procedures apply:
+20 (1) The prosecuting attorney shall give notice of pending
+21 forfeiture, in the manner provided in Rule 4 of the Arkansas Rules of Civil
+22 Procedure, to any owner or interest holder who has not previously been given
+23 notice;
+24 (2) An owner of or interest holder in the real or personal
+25 property that has been ordered forfeited and whose claim is not precluded may
+26 file a claim within thirty (30) days after initial notice of pending
+27 forfeiture or after notice under Rule 4 of the Arkansas Rules of Civil
+28 Procedure, whichever is earlier; and
+29 (3) The circuit court may amend the in personam order of
+30 forfeiture if the circuit court determines that a claimant has established
+31 that he or she has an interest in the real or personal property and that the
+32 interest is exempt under § 5-5-602.
+33
+34 5-5-611. Forfeiture of absent, encumbered, or indivisible real or
+35 personal property.
+36 The circuit court shall order the forfeiture of any other real or
+16 04-01-2025 12:43:46 CEB072
+
+As Engrossed: S4/1/25 SB442
+1 personal property of an owner or defendant up to the value of the owner's or
+2 defendant's real or personal property found by the circuit court to be
+3 subject to forfeiture under this subchapter if any of the forfeitable real or
+4 personal property had remained under the control or custody of the owner or
+5 defendant and the forfeitable real or personal property:
+6 (1) Cannot be located;
+7 (2) Was transferred or conveyed to, sold to, or deposited with a
+8 third party;
+9 (3) Is beyond the jurisdiction of the circuit court;
+10 (4) Substantially diminished in value while not in the actual
+11 physical custody of the seizing law enforcement agency;
+12 (5) Was commingled with other property that cannot be divided
+13 without difficulty; or
+14 (6) Is subject to any interest exempted from forfeiture under §
+15 5-5-602.
+16
+17 5-5-612. Conviction required — Exceptions.
+18 (a) There shall be no civil judgment under this subchapter and no
+19 property shall be forfeited unless the person from whom the property is
+20 seized is convicted of a felony offense under the Human Trafficking Act of
+21 2013, § 5-18-101 et seq., that related to the property being seized and that
+22 permits the forfeiture of the property.
+23 (b) The court may waive the conviction requirement under this section
+24 if the prosecuting attorney shows by clear and convincing evidence that,
+25 before a conviction, the person from whom the property was seized:
+26 (1) Died;
+27 (2) Was deported by the United States Government;
+28 (3) Was granted immunity or reduced punishment in exchange for
+29 testifying or assisting a law enforcement agency or prosecution;
+30 (4) Fled the jurisdiction or failed to appear on the underlying
+31 criminal charge;
+32 (5) Failed to answer the complaint for civil asset forfeiture
+33 under § 5-64-505 as specified in the Arkansas Rules of Civil Procedure;
+34 (6) Abandoned or disclaimed his or her ownership interest in the real
+35 or personal property seized; or
+36 (7) Agreed in writing with the prosecuting attorney and other
+17 04-01-2025 12:43:46 CEB072
+
+As Engrossed: S4/1/25 SB442
+1 parties as to the disposition of the real or personal property.
+2
+3 SECTION 5. Arkansas Code § 5-18-103(d)(2), concerning the additional
+4 fine payment upon conviction for trafficking of persons, is amended to read
+5 as follows:
+6 (2) Fine payments received under subdivision (d)(1) of this
+7 section shall be deposited as follows:
+8 (A) Fifty percent (50%) into the Safe Harbor Fund for
+9 Sexually Exploited Children; and
+10 (B) Fifty percent (50%) into the Human Trafficking Victim
+11 Support Fund into the Arkansas Human Trafficking Council Support Fund.
+12
+13 SECTION 6. Arkansas Code § 5-18-104(c)(2), concerning the additional
+14 fine payment upon conviction for patronizing a victim of human trafficking,
+15 is amended to read as follows:
+16 (2) Fine payments received under subdivision (c)(1) of this
+17 section shall be deposited as follows:
+18 (A) Fifty percent (50%) into the Safe Harbor Fund for
+19 Sexually Exploited Children ; and
+20 (B) Fifty percent (50%) into the Human Trafficking Victim
+21 Support Fund into the Arkansas Human Trafficking Council Support Fund.
+22
+23 SECTION 7. Arkansas Code § 5-18-106(c)(2), concerning the additional
+24 fine payment upon conviction for grooming a minor for future sex trafficking,
+25 is amended to read as follows:
+26 (2) Fine payments received under subdivision (c)(1) of this
+27 section shall be deposited as follows:
+28 (A) Fifty percent (50%) into the Safe Harbor Fund for
+29 Sexually Exploited Children; and
+30 (B) Fifty percent (50%) into the Human Trafficking Victim
+31 Support Fund into the Arkansas Human Trafficking Council Support Fund.
+32
+33 SECTION 8. Arkansas Code § 5-18-107(f)(2), concerning the additional
+34 fine payment upon conviction for traveling for the purpose of an unlawful sex
+35 act with a minor, is amended to read as follows:
+36 (2) Fine payments received under subdivision (f)(1) of this
+18 04-01-2025 12:43:46 CEB072
+
+As Engrossed: S4/1/25 SB442
+1 section shall be deposited as follows:
+2 (A) Fifty percent (50%) into the Safe Harbor Fund for
+3 Sexually Exploited Children; and
+4 (B) Fifty percent (50%) into the Human Trafficking Victim
+5 Support Fund into the Arkansas Human Trafficking Council Support Fund.
+6
+7 SECTION 9. Arkansas Code Title 5, Chapter 27, Subchapter 2, is amended
+8 to add an additional section to read as follows:
+9 5-27-234. Harboring an endangered runaway minor.
+10 (a) A person commits the offense of harboring an endangered runaway
+11 minor if he or she knowingly harbors a minor who is an endangered runaway
+12 minor for a period of at least seventy-two (72) hours.
+13 (b) Harboring an endangered runaway minor is a:
+14 (1) Class A misdemeanor for a first offense; and
+15 (2) Class D felony for a second or subsequent offense.
+16 (c)(1) In addition to any other sentence authorized by this section, a
+17 person who violates this section upon conviction shall be ordered to pay a
+18 fine of one thousand dollars ($1,000).
+19 (2) Fine payments received under subdivision (c)(1) of this
+20 section shall be deposited one hundred percent (100%) into the Arkansas Human
+21 Trafficking Council Support Fund.
+22 (d) As used in this section, “endangered runaway minor” means an
+23 unemancipated minor who is voluntarily absent from his or her home for at
+24 least seventy-two (72) hours without a compelling reason and without the
+25 consent of his or her custodial parent, guardian, or legal custodian.
+26 (e) It is an affirmative defense to prosecution under this section
+27 that a person acted in good faith to protect the welfare, safety, or health
+28 of the minor, and that he or she:
+29 (1) Promptly notified law enforcement, child protective
+30 services, or another relevant authority upon discovering that the minor was
+31 an endangered runaway minor;
+32 (2) Provided temporary care or shelter solely to protect the
+33 minor from imminent harm; or
+34 (3) Did not have a purpose to interfere with the lawful custody
+35 or rights of a custodial parent or legal guardian of the minor.
+36
+19 04-01-2025 12:43:46 CEB072
+
+As Engrossed: S4/1/25 SB442
+1 SECTION 10. Arkansas Code § 5-70-102(e)(2), concerning the additional
+2 fine payment upon conviction for prostitution, is amended to read as follows:
+3 (2) Fine payments received under subdivision (e)(1) of this
+4 section shall be deposited as follows:
+5 (A) Fifty percent (50%) into the Safe Harbor Fund for
+6 Sexually Exploited Children; and
+7 (B) Fifty percent (50%) into the Human Trafficking Victim
+8 Support Fund into the Arkansas Human Trafficking Council Support Fund.
+9
+10 SECTION 11. Arkansas Code § 5-70-103 is amended to read as follows:
+11 5-70-103. Sexual solicitation.
+12 (a) A person commits the offense of sexual solicitation if he or she:
+13 (1) Offers or agrees to pay a fee to a person to engage in
+14 sexual activity with him or her or another person; or
+15 (2) Solicits or requests a person to engage in sexual activity
+16 with him or her in return for a fee.
+17 (b) Sexual solicitation is an unclassified misdemeanor with the
+18 following sentences: a:
+19 (1) For a first offense:
+20 (A) No more than ninety (90) days' imprisonment;
+21 (B) A fine of no more than two thousand dollars ($2,000);
+22 or
+23 (C) Both imprisonment and a fine; and
+24 (2) For a second or subsequent offense:
+25 (A) No more than one (1) year of imprisonment;
+26 (B) A fine of no more than three thousand five hundred
+27 dollars ($3,500); or
+28 (C) Both imprisonment and a fine.
+29 (1) Class A misdemeanor for a first offense; and
+30 (2) Class D felony for a second or subsequent offense.
+31 (c) It is an affirmative defense to prosecution under this section
+32 that the person engaged in an act of sexual solicitation as a result of being
+33 a victim of trafficking of persons, § 5-18-103.
+34 (d)(1) In addition to any other sentence authorized by this section, a
+35 person who violates this section by offering to pay, agreeing to pay, or
+36 paying a fee to engage in sexual activity upon conviction shall be ordered to
+20 04-01-2025 12:43:46 CEB072
+
+As Engrossed: S4/1/25 SB442
+1 pay a fine of two thousand five hundred dollars ($2,500).
+2 (2) Fine payments received under subdivision (d)(1) of this
+3 section shall be deposited as follows:
+4 (A) Fifty percent (50%) into the Safe Harbor Fund for
+5 Sexually Exploited Children; and
+6 (B) Fifty percent (50%) into the Human Trafficking Victim
+7 Support Fund into the Arkansas Human Trafficking Council Support Fund.
+8
+9 SECTION 12. Arkansas Code § 5-70-104(c)(2), concerning the additional
+10 fine payment upon conviction for promoting prostitution in the first degree,
+11 is amended to read as follows:
+12 (2) Fine payments received under subdivision (c)(1) of this
+13 section shall be deposited as follows:
+14 (A) Fifty percent (50%) into the Safe Harbor Fund for
+15 Sexually Exploited Children; and
+16 (B) Fifty percent (50%) into the Human Trafficking Victim
+17 Support Fund into the Arkansas Human Trafficking Council Support Fund.
+18
+19 SECTION 13. Arkansas Code § 5-70-105(c)(2), concerning the additional
+20 fine payment upon conviction for promoting prostitution in the second degree,
+21 is amended to read as follows:
+22 (2) Fine payments received under subdivision (c)(1) of this
+23 section shall be deposited as follows:
+24 (A) Fifty percent (50%) into the Safe Harbor Fund for
+25 Sexually Exploited Children; and
+26 (B) Fifty percent (50%) into the Human Trafficking Victim
+27 Support Fund into the Arkansas Human Trafficking Council Support Fund.
+28
+29 SECTION 14. Arkansas Code § 5-70-106(c)(2), concerning the additional
+30 fine payment upon conviction for promoting prostitution in the third degree,
+31 is amended to read as follows:
+32 (2) Fine payments received under subdivision (c)(1) of this
+33 section shall be deposited as follows:
+34 (A) Fifty percent (50%) into the Safe Harbor Fund for
+35 Sexually Exploited Children; and
+36 (B) Fifty percent (50%) into the Human Trafficking Victim
+21 04-01-2025 12:43:46 CEB072
+
+As Engrossed: S4/1/25 SB442
+1 Support Fund into the Arkansas Human Trafficking Council Support Fund.
+2
+3 SECTION 15. Arkansas Code § 5-70-107(e)(2), concerning the additional
+4 fine payment upon conviction for sexual solicitation of a minor, is amended
+5 to read as follows:
+6 (2) Fine payments received under subdivision (e)(1) of this
+7 section shall be deposited as follows:
+8 (A) Fifty percent (50%) into the Safe Harbor Fund for
+9 Sexually Exploited Children; and
+10 (B) Fifty percent (50%) into the Human Trafficking Victim
+11 Support Fund into the Arkansas Human Trafficking Council Support Fund.
+12
+13 SECTION 16. Arkansas Code § 5-70-107, concerning the offense of sexual
+14 solicitation of a minor, is amended to add an additional subsection to read
+15 as follows:
+16 (f) A person who violates this section upon conviction shall be
+17 ordered to attend an education or treatment program for the prevention of sex
+18 offenses and rehabilitation of sex offenders approved by the Human
+19 Trafficking Operations Unit of the Division of Arkansas State Police.
+20
+21 Section 17. Arkansas Code § 12-19-101 is repealed.
+22 12-19-101. State Task Force for the Prevention of Human Trafficking.
+23 (a)(1) The Attorney General may establish a State Task Force for the
+24 Prevention of Human Trafficking.
+25 (2) The task force shall address all aspects of human
+26 trafficking, including sex trafficking and labor trafficking of both United
+27 States citizens and foreign nationals.
+28 (b) If established, representatives on the task force shall be
+29 appointed by the Attorney General and may include representatives from:
+30 (1) The office of the Attorney General;
+31 (2) The office of the Governor;
+32 (3) The Department of Labor and Licensing;
+33 (4) The Department of Health;
+34 (5) The Department of Human Services;
+35 (6) The Arkansas Association of Chiefs of Police;
+36 (7) The Arkansas Sheriffs' Association;
+22 04-01-2025 12:43:46 CEB072
+
+As Engrossed: S4/1/25 SB442
+1 (8) The Division of Arkansas State Police;
+2 (9) The Arkansas Prosecuting Attorneys Association;
+3 (10) Local law enforcement; and
+4 (11) Nongovernmental organizations such as:
+5 (A) Those specializing in the problems of human
+6 trafficking;
+7 (B) Those representing diverse communities
+8 disproportionally affected by human trafficking;
+9 (C) Agencies devoted to child services and runaway
+10 services; and
+11 (D) Academic researchers dedicated to the subject of human
+12 trafficking.
+13 (c) If the task force is created by the Attorney General, he or she
+14 may invite federal agencies that operate in the state to be members of the
+15 task force, including without limitation:
+16 (1) The Federal Bureau of Investigation;
+17 (2) United States Immigration and Customs Enforcement; and
+18 (3) The United States Department of Labor.
+19 (d) If the task force is created by the Attorney General, the task
+20 force shall:
+21 (1) Develop a state plan;
+22 (2) Coordinate the implementation of the state plan;
+23 (3) Coordinate the collection and sharing of human trafficking
+24 data among government agencies in a manner that ensures that the privacy of
+25 victims of human trafficking is protected and that the data collection shall
+26 respect the privacy of victims of human trafficking;
+27 (4) Coordinate the sharing of information between agencies to
+28 detect individuals and groups engaged in human trafficking;
+29 (5) Explore the establishment of state policies for time limits
+30 for the issuance of law enforcement agency endorsements as described in 8
+31 C.F.R. § 214.11(f)(1), as it existed on January 1, 2013;
+32 (6) Establish policies to enable state government to work with
+33 nongovernmental organizations and other elements of the private sector to
+34 prevent human trafficking and provide assistance to victims of human
+35 trafficking who are United States citizens or foreign nationals;
+36 (7) Evaluate various approaches used by state and local
+23 04-01-2025 12:43:46 CEB072
+
+As Engrossed: S4/1/25 SB442
+1 governments to increase public awareness of human trafficking, including
+2 trafficking of United States citizens and foreign national victims;
+3 (8) Develop curriculum and train law enforcement agencies,
+4 prosecutors, public defenders, judges, and others involved in the criminal
+5 and juvenile justice systems on:
+6 (A) Offenses under the Human Trafficking Act of 2013, § 5-
+7 18-101 et seq.;
+8 (B) Methods used in identifying victims of human
+9 trafficking who are United States citizens or foreign nationals, including
+10 preliminary interview techniques and appropriate questioning methods;
+11 (C) Methods for prosecuting human traffickers;
+12 (D) Methods of increasing effective collaboration with
+13 nongovernmental organizations and other relevant social service organizations
+14 in the course of investigating and prosecuting a human trafficking case;
+15 (E) Methods for protecting the rights of victims of human
+16 trafficking, taking into account the need to consider human rights and
+17 special needs of women and minors;
+18 (F) The necessity of treating victims of human trafficking
+19 as crime victims rather than criminals; and
+20 (G) Methods for promoting the safety of victims of human
+21 trafficking; and
+22 (9) Submit a report of its findings and recommendations to the
+23 Governor, the Speaker of the House of Representatives, and the President Pro
+24 Tempore of the Senate.
+25 SECTION 18. Arkansas Code Title 12, Chapter 19, is amended to add an
+26 additional subchapter to read as follows:
+27 Subchapter 2 — Human Trafficking Operations Unit
+28
+29 12-19-201. Human Trafficking Operations Unit — Creation — Duties.
+30 (a) There is established a Human Trafficking Operations Unit within
+31 the Division of Arkansas State Police.
+32 (b) The Human Trafficking Operations Unit shall:
+33 (1) Consist of commissioned officers and analysts of the
+34 division;
+35 (2) Support and initiate criminal investigations of human
+36 trafficking, including sex trafficking and forced labor; and
+24 04-01-2025 12:43:46 CEB072
+
+As Engrossed: S4/1/25 SB442
+1 (3) Support and initiate investigations involving missing
+2 children that are considered high-risk victims.
+3
+4 12-19-202. Human Trafficking Coordinator — Creation — Duties.
+5 (a) There is created the position of Human Trafficking Coordinator
+6 within the Division of Arkansas State Police.
+7 (b) The Human Trafficking Coordinator shall:
+8 (1) Coordinate the implementation of this subchapter;
+9 (2) Serve as a commissioned officer within the Division of
+10 Arkansas State Police and perform duties as assigned;
+11 (3) Supervise the Human Trafficking Operations Unit and Human
+12 Trafficking Analyst;
+13 (4) Evaluate state efforts to combat human trafficking and
+14 identify areas for improvement;
+15 (5) Collect data on human trafficking activity within the state
+16 on an ongoing basis, including types of activities reported, efforts to
+17 combat human trafficking, and impact on victims and on the state;
+18 (6) Redact identifying information of any victim and his or her
+19 family from all publicly released portions of the collected data;
+20 (7) Promote public awareness about human trafficking, remedies
+21 and services for victims, and hotline information;
+22 (8) Create and maintain a website to publicize human trafficking
+23 prevention efforts;
+24 (9) Prepare and submit the annual report of the Human
+25 Trafficking Operations Unit to the Game and Fish/State Police Subcommittee of
+26 the Legislative Council, the Senate Interim Committee on Children and Youth,
+27 and the House Committee on Aging, Children and Youth, Legislative and
+28 Military Affairs;
+29 (10) Develop and implement policies pertaining to the use of the
+30 Arkansas Human Trafficking Council Support Fund to support investigations and
+31 services for victims of human trafficking in the state;
+32 (11) Assist in the creation and operations of local human
+33 trafficking task forces or working groups around the state, including serving
+34 on a task force or a multidisciplinary child protection team;
+35 (12) Prepare and submit applications for relevant available
+36 grants that may enhance the investigation and prosecution of trafficking
+25 04-01-2025 12:43:46 CEB072
+
+As Engrossed: S4/1/25 SB442
+1 offenses or to improve victim services to combat human trafficking within
+2 this state; and
+3 (13) Perform any other duties as required by the division.
+4 (c)(1) The Human Trafficking Coordinator may seek input and assistance
+5 from state agencies, nongovernmental agencies, service providers, and other
+6 individuals in the performance of the duties of the Human Trafficking
+7 Coordinator.
+8 (2) Each state agency, board, and commission shall be required
+9 to fully cooperate with the Human Trafficking Coordinator when assistance is
+10 requested under subdivision (c)(1) of this section.
+11 (3) Every investigation of a human trafficking offense shall be
+12 reported to the Human Trafficking Coordinator by the initiating law
+13 enforcement agency under guidelines established by the Human Trafficking
+14 Coordinator.
+15 (4) A state agency, nongovernmental agency, service provider, or
+16 local or state law enforcement agency providing information to the Human
+17 Trafficking Coordinator under this subchapter may disclose identifying
+18 information regarding a minor victim to the Human Trafficking Coordinator for
+19 the purposes of evaluating and collecting data regarding trafficking offenses
+20 in the state.
+21
+22 12-19-203. Human Trafficking Analyst — Creation — Duties.
+23 (a) There is created the position of Human Trafficking Analyst within
+24 the Division of Arkansas State Police.
+25 (b) The Human Trafficking Analyst shall:
+26 (1) Provide the Human Trafficking Operations Unit with
+27 objective, reliable, comparable, current data, and information in the field
+28 of human trafficking;
+29 (2) Direct support to a law enforcement officer investigating
+30 human trafficking on all tips, reports of possible human trafficking, and
+31 undercover operations; and
+32 (3) Assist the Human Trafficking Coordinator with carrying out
+33 the functions of the Human Trafficking Operations Unit.
+34
+35 SECTION 19. Arkansas Code § 19-5-1252(b) concerning the Safe Harbor
+36 Fund for Sexually Exploited Children, is amended to read as follows:
+26 04-01-2025 12:43:46 CEB072
+
+As Engrossed: S4/1/25 SB442
+1 (b) The fund shall consist of fines collected under § 5-18-103(d), § 5-
+2 18-104(c), § 5-18-106(c), § 5-18-107(f), § 5-70-102(e), § 5-70-103(d), § 5-
+3 70-104(c), § 5-70-105(c), § 5-70-106(c), and § 5-70-107(e) and any other
+4 general revenues as may be authorized by law.
+5
+6 SECTION 20. Arkansas Code § 19-5-1261 is repealed.
+7 19-5-1261. Human Trafficking Victim Support Fund — Definition.
+8 (a) There is created on the books of the Treasurer of State, the
+9 Auditor of State, and the Chief Fiscal Officer of the State a fund to be
+10 known as the “Human Trafficking Victim Support Fund”.
+11 (b) The fund shall consist of fees collected under § 5-5-501(d), fines
+12 collected under § 5-18-103(d), § 5-18-104(c), § 5-18-106(c), § 5-18-107(f), §
+13 5-70-102(e), § 5-70-103(d), § 5-70-104(c), § 5-70-105(c), § 5-70-106(c), and
+14 § 5-70-107(e), and any other revenues authorized by law.
+15 (c)(1) The fund shall be administered by the Attorney General.
+16 (2) The Attorney General shall use the fund to provide:
+17 (A) Grants to nonprofit, religious, and other third-party
+18 organizations that provide services and treatment, such as securing
+19 residential housing, health services, and social services for victims of
+20 human trafficking;
+21 (B) Training and education related to human trafficking to
+22 law enforcement; and
+23 (C) For the management and operation of the fund.
+24 (d) As used in this section, “victim of human trafficking” means a
+25 person who has been subject to sexual exploitation because the person:
+26 (1) Is a victim of trafficking of persons under § 5-18-103;
+27 (2) Is a victim of child sex trafficking under 18 U.S.C. § 1591,
+28 as it existed on January 1, 2017; or
+29 (3) Engages in an act of prostitution under § 5-70-102 or sexual
+30 solicitation under § 5-70-103 or § 5-70-107.
+31
+32 SECTION 21. Arkansas Code Title 19, Chapter 5, Subchapter 12, is
+33 amended to add an additional section to read as follows:
+34 19-5-1288. Arkansas Human Trafficking Council Support Fund —
+35 Definition.
+36 (a) There is created on the books of the Treasurer of State, the
+27 04-01-2025 12:43:46 CEB072
+
+As Engrossed: S4/1/25 SB442
+1 Auditor of State, and the Chief Fiscal Officer of the State a miscellaneous
+2 fund to be known as the "Arkansas Human Trafficking Council Support Fund".
+3 (b) The fund shall consist of:
+4 (1) Fees collected under § 5-5-501(d) and fines collected under
+5 §§ 5-18-103(d), 5-18-104(c), 5-18-106(c), 5-18-107(f), 5-27-234(c), 5-70-
+6 102(e), 5-70-103(d), 5-70-104(c), 5-70-105(c), 5-70-106(c), and 5-70-107(e);
+7 (2) Moneys appropriated by the General Assembly;
+8 (3) The interest accruing to the fund;
+9 (4) Donations to the fund; and
+10 (5) Any other revenues authorized by law.
+11 (c)(1) The fund shall be administered by the Division of Arkansas
+12 State Police.
+13 (2) The division shall use the fund to provide:
+14 (A) Services and treatment, such as securing residential
+15 housing, advocacy and coordination, legal services, health services, and
+16 social services for victims of human trafficking;
+17 (B) Grants to nonprofit, religious, and other third-party
+18 organizations that provide services and treatment, securing residential
+19 housing, advocacy and coordination, legal services, health services, and
+20 social services for victims of human trafficking;
+21 (C) Training for the Human Trafficking Operations Unit;
+22 (D) Equipment and supplies for the unit;
+23 (E) Software and subscription licensing for the unit;
+24 (F) Travel reimbursement and reconciliation for the unit;
+25 (G) Outreach material for the unit; and
+26 (H) Support for other duties of the unit prescribed by
+27 law.
+28 (3) The fund shall not be used to purchase motor vehicles or
+29 emergency equipment for motor vehicles.
+30 (d) As used in the section, "victim of human trafficking" means the
+31 same as defined in § 5-18-102.
+32
+33 SECTION 22. DO NOT CODIFY. Temporary language.
+34 (a) Any fund balance that remains in the Human Trafficking Victim
+35 Support Fund, § 19-5-1261, shall be transferred to the Arkansas Human
+36 Trafficking Council Support Fund.
+28 04-01-2025 12:43:46 CEB072
+
+As Engrossed: S4/1/25 SB442
+1 (b) Any fund balance that remains in the Safe Harbor Fund for Sexually
+2 Exploited Children, § 19-5-1252, shall be transferred to the Arkansas Human
+3 Trafficking Council Support Fund.
+4
+5 /s/J. Bryant
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+29 04-01-2025 12:43:46 CEB072
+
+[DELETED:  A   EBL4     A T H A H F P   T T O T O C  B   S f  ( v u   (   (   (   (]
+[DELETED:  S2 0   (   S c f   ( t    (    (    (    (    (   S m i  ( b T F   S a S   5  ( l H p  ( 2 t   (   (   (]
+[DELETED:  S3 0   (   (   ( e s   ( v 2   ( v   ( i o   5  ( t u o   ( r s o p   ( f s i  ( o s p T    5  (]
+[DELETED:  S4 0 s a p  (   ( s   ( t i   ( b d   ( b a s   5 l  ( p f o a  ( a i t   5  ( s t c  ( e]
+[DELETED:  S5 0 s   ( c   ( p f f   ( s o a   ( s p n j  ( t a   (    ( o    ( p t    (   ( t  ( t r   5 p  ( e]
+[DELETED:  S6 0 w p  ( l s   ( s r    ( t o   ( s s    ( r   ( i    ( p a    (    ( o    (    (    (    ( o   ( r c r C  ( C]
+[DELETED:  S7 0 p p f H d T    ( f    ( p p   ( s o a b P u    ( a L    ( m p e   ( o p d e A    ( c s t T]
+[DELETED:  S8 0   ( S t p  ( s a m i p (   5 J  ( u c c a   ( j d   ( t f   ( r t   ( f g   ( t a    ( t]
+[DELETED:  S9 0 i    ( n p     ( ( s p r     ( d a  ( w 2 c    ( p p i    ( s i    ( a    ( a   ( d r c p  ( r f   (]
+[DELETED:  S1 0    ( r s p    ( g c s   ( s o p    ( f f c    ( a r e s i   5  ( p e s   ( a p   ( p s a   (]
+[DELETED:  S1 0 a  ( e s u e p   ( l t s    ( c a    ( s S   ( m a s   ( p p s ( r F   ( o p a o T    ( p]
+[DELETED:  S1 0 a o T     ( p     ( o     ( w   ( o  ( i e  ( c t d p   5  ( c j d   ( a  ( j a f   ( m d e j]
+[DELETED:  S1 0   ( t a t T C f   ( n p p o   ( t r d A  ( a A   ( b a    ( l    ( f c    ( ( c p o    ( ( m]
+[DELETED:  S1 0 C A  ( t f a C   ( w  ( a    ( a r    (     ( f     ( n     ( p t w    ( b   ( s o t  ( e m    ( ( s    (]
+[DELETED:  S1 0 a    ( l l    ( L   ( ( t C d   5   ( t 1  ( e    ( w s    ( o   ( o i   ( h R    ( t o a o f    (]
+[DELETED:  S1 0 p o t  ( e f  ( g e f a p t   (   ( s i  ( t   ( f P n   ( p f f P   ( f t i   5 p  T]
+[DELETED:  S1 0 p d s p d   (   ( t   (   ( p   ( w   ( 5   5  ( p s 2 p  ( i b   (   (   ( t   ( c   ( u  ( o   (]
+[DELETED:  S1 0 p   S f a   ( s    ( S    ( S   S f i   ( s    ( S    ( S   S f i   ( s    ( S    ( S   S f a   (]
+[DELETED:  S1 0 s    ( S    ( S   S t  5  ( m m  (   (   (  ( p f   ( s T  ( u l c  ( t o   ( s a   ( m   ( o ]
+[DELETED:  S2 0  S f   ( s    ( S    ( S   S  5  (   ( s   ( w  ( f   (    (    ( o    (   (    (    ( d    (   (   (  ( t a  ( p p]
+[DELETED:  S2 0 p   ( s    ( S    ( S   S f i   ( s    ( S    ( S   S f i   ( s    ( S    ( S   S f i   ( s    ( S    (]
+[DELETED:  S2 0 S   S f t   ( s    ( S    ( S   S s a  ( o o T   S  1  ( P   ( t S  ( a   (   (   (   (   (   (   (]
+[DELETED:  S2 0   (   (   (   (    ( t    ( d    ( s    ( t  ( m t   (   (   (  ( f   (   (   ( d v r   ( d   ( f C   ( n p t   (]
+[DELETED:  S2 0 g t   ( p a    ( 1    ( t p    (    ( n i    ( t s    ( a    ( t   ( G T  S a S   1  ( t  (   ( d   ( t]
+[DELETED:  S2 0   ( c   1  ( w  (   (   ( A   ( T   ( i   ( o c   ( f   ( a   ( p   ( T t a M        ( A s   ( t o   ( g]
+[DELETED:  S2 0 o t   (  ( f i C   ( t r   ( r e C   ( l T i t i   1  ( t  (   ( o o   ( h u   ( t    S F]
+[DELETED:  S2 0  ( 1 7 g    S  1  ( A k  ( c 5 §  (   (    ( o r h    ( l    (  ( p   (   ( a   ( s    S a  1 D  (]
+[DELETED:  S2 0 A f  (   ( § 1   (   (   (   (  ( S   (    ( h s    ( o h s    (    (    (    (    (    ( l   ( e  ( s       S  ( S T]
+[DELETED:  S2 0  ( E T  /                               ]

@@ -1,0 +1,1760 @@
+Title: Stricken language would be deleted from and underlined language would be added to present law.
+Official Title: Stricken language would be deleted from and underlined language would be added to present law.
+Number of Sections: 1
+Source: versions - HB 1124
+Media Type: application/pdf
+Strikethrough Detection: 22 sections found
+
+================================================================================
+
+Section 1:
+1 State of Arkansas As Engrossed: H3/18/25
+A Bill
+2 95th General Assembly
+3 Regular Session, 2025 HOUSE BILL 1124
+4
+5 By: Joint Budget Committee
+6
+7
+For An Act To Be Entitled
+8
+9 AN ACT TO MAKE AN APPROPRIATION FOR PERSONAL SERVICES
+10 AND OPERATING EXPENSES FOR THE DEPARTMENT OF FINANCE
+11 AND ADMINISTRATION FOR THE FISCAL YEAR ENDING JUNE
+12 30, 2026; AND FOR OTHER PURPOSES.
+13
+14
+Subtitle
+15
+16 AN ACT FOR THE DEPARTMENT OF FINANCE AND
+17 ADMINISTRATION APPROPRIATION FOR THE
+18 2025-2026 FISCAL YEAR.
+19
+20
+21 BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF ARKANSAS:
+22
+23 SECTION 1. REGULAR SALARIES - SHARED SERVICES. There is hereby
+24 established for the Department of Finance and Administration - Shared
+25 Services for the 2025-2026 fiscal year, the following maximum number of
+26 regular employees.
+27
+28 Maximum Annual
+29 Maximum Salary Rate
+30 Item Class No. of Fiscal Year
+31 No. Code Title Employees 2025-2026
+32 (1) SC006 SECRETARY OF FINANCE & ADMINISTRATION 1 GRADE SE05
+33 (2) U002U DFA DEPUTY DIRECTOR AND CHIEF OF STAFF 1 GRADE SE04
+34 (3) N033N DFA ADMINISTRATIVE SVCS ADMINISTRATOR 1 GRADE SE02
+35 (4) G001C DFA ASSISTANT ADMIN SVCS ADMINISTRATOR 1 GRADE GS15
+36 (5) P006N DFA DIRECTOR OF COMMUNICATIONS 1 GRADE GS15
+*JAP009*
+03-18-2025 16:40:39 JAP009
+As Engrossed: H3/18/25 HB1124
+1 (6) G332C STATE INFRASTRUCTURE COORDINATOR 1 GRADE GS15
+2 (7) A003C DFA REVENUE ASSISTANT ADMINISTRATOR 1 GRADE GS14
+3 (8) R040C DFA STATEWIDE PROGRAM MANAGER 1 GRADE GS13
+4 (9) A027C ACCOUNTING OPERATIONS MANAGER 1 GRADE GS11
+5 (10) R013C AGENCY HUMAN RESOURCES MANAGER 1 GRADE GS11
+6 (11) R041C DFA STATEWIDE PROGRAM COORDINATOR 3 GRADE GS11
+7 (12) A082C ACCOUNTANT II 1 GRADE GS08
+8 (13) R021C BUDGET ANALYST 1 GRADE GS08
+9 (14) E023C TRAINING PROJECT MANAGER 1 GRADE GS08
+10 (15) A089C ACCOUNTANT I 1 GRADE GS07
+11 (16) V008C BUYER SUPERVISOR 1 GRADE GS07
+12 (17) G132C DFA PROGRAM MANAGER 2 GRADE GS07
+13 (18) C010C EXECUTIVE ASSISTANT TO THE DIRECTOR 1 GRADE GS07
+14 (19) C037C ADMINISTRATIVE ANALYST 5 GRADE GS06
+15 (20) R022C BENEFITS COORDINATOR 1 GRADE GS06
+16 (21) V010C DFA BUYER 4 GRADE GS06
+17 (22) C018C DFA EXECUTIVE ASSISTANT TO THE CMSNR 1 GRADE GS06
+18 (23) R025C HUMAN RESOURCES ANALYST 9 GRADE GS06
+19 (24) G179C LEGAL SERVICES SPECIALIST 1 GRADE GS06
+20 (25) C022C BUSINESS OPERATIONS SPECIALIST 1 GRADE GS05
+21 (26) A091C FISCAL SUPPORT ANALYST 2 GRADE GS05
+22 MAX. NO. OF EMPLOYEES 45
+23
+24 SECTION 2. EXTRA HELP - SHARED SERVICES. There is hereby authorized,
+25 for the Department of Finance and Administration - Shared Services for the
+26 2025-2026 fiscal year, the following maximum number of part-time or temporary
+27 employees, to be known as "Extra Help", payable from funds appropriated
+28 herein for such purposes: twenty (20) temporary or part-time employees, when
+29 needed, at rates of pay not to exceed those provided in the Uniform
+30 Classification and Compensation Act, or its successor, or this act for the
+31 appropriate classification.
+32
+33 SECTION 3. APPROPRIATION - SHARED SERVICES. There is hereby
+34 appropriated, to the Department of Finance and Administration, to be payable
+35 from the State Central Services Fund, for personal services and operating
+36 expenses of the Department of Finance and Administration - Shared Services
+2 03-18-2025 16:40:39 JAP009
+As Engrossed: H3/18/25 HB1124
+1 for the fiscal year ending June 30, 2026, the following:
+2
+3 ITEM FISCAL YEAR
+4 NO. 2025-2026
+5 (01) REGULAR SALARIES $3,006,694
+6 (02) EXTRA HELP 60,000
+7 (03) PERSONAL SERVICES MATCHING 1,049,119
+8 (04) MAINT. & GEN. OPERATION
+9 (A) OPER. EXPENSE 418,450
+10 (B) CONF. & TRAVEL 41,368
+11 (C) PROF. FEES 154,000
+12 (D) CAP. OUTLAY 0
+13 (E) DATA PROC. 0
+14 TOTAL AMOUNT APPROPRIATED $4,729,631
+15
+16 SECTION 4. REGULAR SALARIES - BUDGET AND MANAGEMENT SERVICES. There is
+17 hereby established for the Department of Finance and Administration - Budget
+18 and Management Services Division for the 2025-2026 fiscal year, the following
+19 maximum number of regular employees.
+20
+21 Maximum Annual
+22 Maximum Salary Rate
+23 Item Class No. of Fiscal Year
+24 No. Code Title Employees 2025-2026
+25 (1) N012N DFA DEPUTY DIRECTOR AND CONTROLLER 2 GRADE SE03
+26 (2) D004N DFA INTERGOVERNMENTAL SVCS ADMIN 1 GRADE SE02
+27 (3) N038N DFA BUDGET ADMINISTRATOR 1 GRADE SE02
+28 (4) N011N DFA CHIEF INFORMATION OFFICER 1 GRADE SE02
+29 (5) N042N DFA TAX RESEARCH ADMINISTRATOR 1 GRADE SE02
+30 (6) D005N DFA IT TECHNICAL SPECIALIST 7 GRADE IT11
+31 (7) D002C DFA OIS ASSISTANT ADMINISTRATOR 1 GRADE IT10
+32 (8) D011C DFA ERP SYSTEM MANAGER 4 GRADE IT09
+33 (9) D021C DFA ERP GROUP LEAD 6 GRADE IT08
+34 (10) D007C INFORMATION SYSTEMS MANAGER 2 GRADE IT08
+35 (11) D030C INFORMATION SYSTEMS COORDINATOR 1 GRADE IT07
+36 (12) D028C SENIOR SOFTWARE SUPPORT SPECIALIST 3 GRADE IT07
+3 03-18-2025 16:40:39 JAP009
+As Engrossed: H3/18/25 HB1124
+1 (13) D033C DFA ERP ANALYST 32 GRADE IT06
+2 (14) D039C NETWORK SUPPORT SPECIALIST 1 GRADE IT06
+3 (15) D038C SENIOR SOFTWARE SUPPORT ANALYST 5 GRADE IT06
+4 (16) D016C SENIOR TECHNOLOGY ANALYST 4 GRADE IT06
+5 (17) D054C COMPUTER SUPPORT COORDINATOR 1 GRADE IT05
+6 (18) D063C COMPUTER SUPPORT SPECIALIST 2 GRADE IT05
+7 (19) D061C INFORMATION SYSTEMS COORDINATION SPEC 1 GRADE IT05
+8 (20) D052C SOFTWARE SUPPORT ANALYST 8 GRADE IT05
+9 (21) D056C SYSTEMS COORDINATION ANALYST 1 GRADE IT05
+10 (22) D058C COMPUTER OPERATIONS COORDINATOR 1 GRADE IT04
+11 (23) D065C NETWORK SUPPORT ANALYST 6 GRADE IT04
+12 (24) D064C WEBSITE DEVELOPER 2 GRADE IT04
+13 (25) D071C COMPUTER SUPPORT ANALYST 5 GRADE IT03
+14 (26) D084C COMPUTER OPERATOR 2 GRADE IT02
+15 (27) D079C COMPUTER SUPPORT TECHNICIAN 3 GRADE IT02
+16 (28) A002C DFA ASSISTANT ACCOUNTING ADMINISTRATOR 3 GRADE GS15
+17 (29) R002C DFA ASSISTANT BUDGET ADMINISTRATOR 2 GRADE GS15
+18 (30) A001C DFA ASSISTANT TAX RESEARCH ADMINISTRATOR 1 GRADE GS14
+19 (31) A006C DFA REVENUE TAX DIVISION MANAGER 1 GRADE GS13
+20 (32) R040C DFA STATEWIDE PROGRAM MANAGER 7 GRADE GS13
+21 (33) A021C AGENCY CONTROLLER I 2 GRADE GS12
+22 (34) A025C DFA ACCOUNTING ACFR COORDINATOR 5 GRADE GS12
+23 (35) G002C DFA ASSISTANT IGS ADMINISTRATOR 1 GRADE GS12
+24 (36) A007C AUDIT MANAGER 1 GRADE GS11
+25 (37) R041C DFA STATEWIDE PROGRAM COORDINATOR 28 GRADE GS11
+26 (38) R043C DFA STATEWIDE PROGRAM SPECIALIST 4 GRADE GS09
+27 (39) G109C GRANTS MANAGER 3 GRADE GS09
+28 (40) A082C ACCOUNTANT II 1 GRADE GS08
+29 (41) A047C FINANCIAL ANALYST II 1 GRADE GS08
+30 (42) A089C ACCOUNTANT I 7 GRADE GS07
+31 (43) G133C DFA DIVISION MANAGER I 1 GRADE GS07
+32 (44) G132C DFA PROGRAM MANAGER 3 GRADE GS07
+33 (45) G147C GRANTS COORDINATOR 5 GRADE GS07
+34 (46) A065C PAYROLL SERVICES COORDINATOR 1 GRADE GS07
+35 (47) C037C ADMINISTRATIVE ANALYST 5 GRADE GS06
+36 (48) A074C FISCAL SUPPORT SUPERVISOR 1 GRADE GS06
+4 03-18-2025 16:40:39 JAP009
+As Engrossed: H3/18/25 HB1124
+1 (49) G180C GRANTS ANALYST 9 GRADE GS06
+2 (50) A091C FISCAL SUPPORT ANALYST 1 GRADE GS05
+3 (51) D077C HELP DESK SPECIALIST 4 GRADE GS05
+4 (52) E051C STAFF DEVELOPMENT SPECIALIST 1 GRADE GS05
+5 (53) A098C FISCAL SUPPORT SPECIALIST 5 GRADE GS04
+6 MAX. NO. OF EMPLOYEES 207
+7
+8 SECTION 5. EXTRA HELP - BUDGET AND MANAGEMENT SERVICES. There is
+9 hereby authorized, for the Department of Finance and Administration - Budget
+10 and Management Services Division for the 2025-2026 fiscal year, the following
+11 maximum number of part-time or temporary employees, to be known as "Extra
+12 Help", payable from funds appropriated herein for such purposes: twelve (12)
+13 temporary or part-time employees, when needed, at rates of pay not to exceed
+14 those provided in the Uniform Classification and Compensation Act, or its
+15 successor, or this act for the appropriate classification.
+16
+17 SECTION 6. APPROPRIATION - BUDGET AND MANAGEMENT SERVICES - OPERATIONS.
+18 There is hereby appropriated, to the Department of Finance and
+19 Administration, to be payable from the State Central Services Fund, for
+20 personal services and operating expenses of the Department of Finance and
+21 Administration - Budget and Management Services Division for the fiscal year
+22 ending June 30, 2026, the following:
+23
+24 ITEM FISCAL YEAR
+25 NO. 2025-2026
+26 (01) REGULAR SALARIES $14,002,675
+27 (02) EXTRA HELP 130,000
+28 (03) PERSONAL SERVICES MATCHING 4,716,355
+29 (04) OVERTIME 5,000
+30 (05) MAINT. & GEN. OPERATION
+31 (A) OPER. EXPENSE 1,500,000
+32 (B) CONF. & TRAVEL 75,000
+33 (C) PROF. FEES 211,000
+34 (D) CAP. OUTLAY 100,000
+35 (E) DATA PROC. 0
+36 TOTAL AMOUNT APPROPRIATED $20,740,030
+5 03-18-2025 16:40:39 JAP009
+As Engrossed: H3/18/25 HB1124
+1
+2 SECTION 7. APPROPRIATION - BUDGET AND MANAGEMENT SERVICES -
+3 MISCELLANEOUS CASH. There is hereby appropriated, to the Department of
+4 Finance and Administration, to be payable from the cash fund deposited in the
+5 State Treasury as determined by the Chief Fiscal Officer of the State, for
+6 operating expenses of the Department of Finance and Administration - Budget
+7 and Management Services Division for the fiscal year ending June 30, 2026,
+8 the following:
+9
+10 ITEM FISCAL YEAR
+11 NO. 2025-2026
+12 (01) MAINT. & GEN. OPERATION
+13 (A) OPER. EXPENSE $35,000
+14 (B) CONF. & TRAVEL 0
+15 (C) PROF. FEES 5,000
+16 (D) CAP. OUTLAY 0
+17 (E) DATA PROC. 0
+18 (02) REFUNDS/REIMBURSEMENTS 300,000
+19 TOTAL AMOUNT APPROPRIATED $340,000
+20
+21 SECTION 8. EXTRA HELP - BUDGET AND MANAGEMENT SERVICES - VICTIMS OF
+22 CRIME JUSTICE ASSISTANCE - FEDERAL. There is hereby authorized, for the
+23 Department of Finance and Administration - Budget and Management Services
+24 Division for the 2025-2026 fiscal year, the following maximum number of part-
+25 time or temporary employees, to be known as "Extra Help", payable from funds
+26 appropriated herein for such purposes: one (1) temporary or part-time
+27 employees, when needed, at rates of pay not to exceed those provided in the
+28 Uniform Classification and Compensation Act, or its successor, or this act
+29 for the appropriate classification.
+30
+31 SECTION 9. APPROPRIATION - BUDGET AND MANAGEMENT SERVICES - VICTIMS OF
+32 CRIME JUSTICE ASSISTANCE - FEDERAL. There is hereby appropriated, to the
+33 Department of Finance and Administration - Budget and Management Services
+34 Division, to be payable from the federal funds as designated by the Chief
+35 Fiscal Officer of the State, for personal services, operating expenses and
+36 administration of federal funds received through the Federal Victims of Crime
+6 03-18-2025 16:40:39 JAP009
+As Engrossed: H3/18/25 HB1124
+1 Act, Stop Violence Against Women Act, and the Family Violence Prevention and
+2 Services Act for the fiscal year ending June 30, 2026, the following:
+3
+4 ITEM FISCAL YEAR
+5 NO. 2025-2026
+6 (01) REGULAR SALARIES $521,862
+7 (02) EXTRA HELP 6,272
+8 (03) PERSONAL SERVICES MATCHING 212,388
+9 (04) OVERTIME 2,500
+10 (05) MAINT. & GEN. OPERATION
+11 (A) OPER. EXPENSE 150,000
+12 (B) CONF. & TRAVEL 13,000
+13 (C) PROF. FEES 74,219
+14 (D) CAP. OUTLAY 0
+15 (E) DATA PROC. 0
+16 (06) GRANTS AND AID - STATEWIDE VIOLENCE
+17 PREVENTION ACTIVITIES 30,440,304
+18 (07) REFUNDS/REIMBURSEMENTS 78,125
+19 (08) GRANTS MGMT SYSTEM 200,000
+20 TOTAL AMOUNT APPROPRIATED $31,698,670
+21
+22 SECTION 10. APPROPRIATION - BUDGET AND MANAGEMENT SERVICES - VICTIMS OF
+23 CRIME JUSTICE ASSISTANCE - STATE. There is hereby appropriated, to the
+24 Department of Finance and Administration - Budget and Management Services
+25 Division, to be payable from the Miscellaneous Agencies Fund Account, for
+26 grants-in-aid to state agencies, local governments, and nonprofit
+27 organizations for matching funds to implement approved programs through the
+28 Victims of Crime Justice Assistance Program for the fiscal year ending June
+29 30, 2026, the following:
+30
+31 ITEM FISCAL YEAR
+32 NO. 2025-2026
+33 (01) VICTIMS OF CRIME JUSTICE ASSISTANCE
+34 PROGRAM MATCHING GRANTS $359,196
+35
+36 SECTION 11. APPROPRIATION - BUDGET AND MANAGEMENT SERVICES - DEPARTMENT
+7 03-18-2025 16:40:39 JAP009
+As Engrossed: H3/18/25 HB1124
+1 OF JUSTICE NON-VICTIM ASSISTANCE GRANTS - FEDERAL. There is hereby
+2 appropriated, to the Department of Finance and Administration - Budget and
+3 Management Services Division, to be payable from the federal funds as
+4 designated by the Chief Fiscal Officer of the State, for personal services,
+5 operating expenses and distribution of federal funds to state agencies, local
+6 governments and entities that support improvements in the State's criminal
+7 justice system for the fiscal year ending June 30, 2026, the following:
+8
+9 ITEM FISCAL YEAR
+10 NO. 2025-2026
+11 (01) REGULAR SALARIES $169,991
+12 (02) PERSONAL SERVICES MATCHING 81,485
+13 (03) MAINT. & GEN. OPERATION
+14 (A) OPER. EXPENSE 168,129
+15 (B) CONF. & TRAVEL 3,500
+16 (C) PROF. FEES 205,000
+17 (D) CAP. OUTLAY 0
+18 (E) DATA PROC. 0
+19 (04) GRANTS/AID - DEPT OF JUSTICE
+20 NON-VICTIM ASSISTANCE MATCHING GRANTS 4,000,000
+21 (05) REFUNDS/REIMBURSEMENTS 200,000
+22 TOTAL AMOUNT APPROPRIATED $4,828,105
+23
+24 SECTION 12. APPROPRIATION - BUDGET AND MANAGEMENT SERVICES - DEPARTMENT
+25 OF JUSTICE NON-VICTIM ASSISTANCE GRANTS - STATE. There is hereby
+26 appropriated, to the Department of Finance and Administration - Budget and
+27 Management Services Division, to be payable from the Miscellaneous Agencies
+28 Fund Account, for grants and aid to state agencies and local governments for
+29 matching funds and to implement or sustain approved drug law enforcement,
+30 violent offender, substance abuse and other non-victim assistance program
+31 grants for the fiscal year ending June 30, 2026, the following:
+32
+33 ITEM FISCAL YEAR
+34 NO. 2025-2026
+35 (01) DEPT OF JUSTICE NON-VICTIM ASSISTANCE
+36 MATCHING GRANTS $1,000,000
+8 03-18-2025 16:40:39 JAP009
+As Engrossed: H3/18/25 HB1124
+1
+2 SECTION 13. APPROPRIATION - BUDGET AND MANAGEMENT SERVICES -
+3 INFORMATION TECHNOLOGY. There is hereby appropriated, to the Department of
+4 Finance and Administration, to be payable from the State Central Services
+5 Fund, for personal services and operating expenses of the Department of
+6 Finance and Administration - Budget and Management Services Division for the
+7 fiscal year ending June 30, 2026, the following:
+8
+9 ITEM FISCAL YEAR
+10 NO. 2025-2026
+11 (01) INFORMATION TECHNOLOGY SERVICES $31,000,000
+12 (02) AASIS BILLINGS 15,200,000
+13 (03) IT APPRENTICESHIP PROGRAM 150,000
+14 TOTAL AMOUNT APPROPRIATED $46,350,000
+15
+16 SECTION 14. APPROPRIATION - BUDGET AND MANAGEMENT SERVICES - STATEWIDE
+17 PAYROLL PAYING. There is hereby appropriated, to the Department of Finance
+18 and Administration - Budget and Management Services Division, to be payable
+19 from the paying account as determined by the Chief Fiscal Officer of the
+20 State, for providing disbursement of personal services of the various state
+21 agencies as a result of the consolidation to one federal identification
+22 number for all state agencies in the State of Arkansas for the fiscal year
+23 ending June 30, 2026, the following:
+24
+25 ITEM FISCAL YEAR
+26 NO. 2025-2026
+27 (01) STATEWIDE PAYROLL PAYING $50,000
+28
+29 SECTION 15. APPROPRIATION - BUDGET AND MANAGEMENT SERVICES - DOMESTIC
+30 VIOLENCE SHELTER FUND. There is hereby appropriated, to the Department of
+31 Finance and Administration, to be payable from the Domestic Violence Shelter
+32 Fund, for statewide grants awarded to a statewide domestic violence entity
+33 under the Arkansas Domestic Violence Shelter Act of the Department of Finance
+34 and Administration - Budget and Management Services Division for the fiscal
+35 year ending June 30, 2026, the following:
+36
+9 03-18-2025 16:40:39 JAP009
+As Engrossed: H3/18/25 HB1124
+1 ITEM FISCAL YEAR
+2 NO. 2025-2026
+3 (01) DOMESTIC VIOLENCE SHELTER GRANTS $100,000
+4
+5 SECTION 16. APPROPRIATION - BUDGET AND MANAGEMENT SERVICES - PROJECT
+6 SAFE NEIGHBORHOODS. There is hereby appropriated, to the Department of
+7 Finance and Administration, to be payable from the federal funds as
+8 designated by the Chief Fiscal Officer of the State, for personal services,
+9 operating expenses, and grants and aid related to Project Safe Neighborhoods
+10 of the Department of Finance and Administration - Budget and Management
+11 Services Division for the fiscal year ending June 30, 2026, the following:
+12
+13 ITEM FISCAL YEAR
+14 NO. 2025-2026
+15 (01) REGULAR SALARIES $27,467
+16 (02) PERSONAL SERVICES MATCHING 13,976
+17 (03) MAINT. & GEN. OPERATION
+18 (A) OPER. EXPENSE 4,946
+19 (B) CONF. & TRAVEL 11,320
+20 (C) PROF. FEES 0
+21 (D) CAP. OUTLAY 0
+22 (E) DATA PROC. 0
+23 (04) GRANTS & AID - PROJECT SAFE
+24 NEIGHBORHOODS 349,550
+25 TOTAL AMOUNT APPROPRIATED $407,259
+26
+27 SECTION 17. APPROPRIATION - BUDGET AND MANAGEMENT SERVICES -
+28 COMPREHENSIVE OPIOID ABUSE PROGRAM. There is hereby appropriated, to the
+29 Department of Finance and Administration, to be payable from the federal
+30 funds as designated by the Chief Fiscal Officer of the State, for personal
+31 services, operating expenses, and grants and aid related to the Comprehensive
+32 Opioid Abuse Program of the Department of Finance and Administration - Budget
+33 and Management Services Division for the fiscal year ending June 30, 2026,
+34 the following:
+35
+36 ITEM FISCAL YEAR
+10 03-18-2025 16:40:39 JAP009
+As Engrossed: H3/18/25 HB1124
+1 NO. 2025-2026
+2 (01) REGULAR SALARIES $158,475
+3 (02) PERSONAL SERVICES MATCHING 112,291
+4 (03) MAINT. & GEN. OPERATION
+5 (A) OPER. EXPENSE 295,597
+6 (B) CONF. & TRAVEL 74,902
+7 (C) PROF. FEES 263,290
+8 (D) CAP. OUTLAY 0
+9 (E) DATA PROC. 0
+10 (04) GRANTS & AID - COMPREHENSIVE OPIOID
+11 ABUSE PROGRAM 6,955,800
+12 TOTAL AMOUNT APPROPRIATED $7,860,355
+13
+14 SECTION 18. APPROPRIATION - CHILD ABUSE AND NEGLECT PROGRAMS. There is
+15 hereby appropriated, to the Department of Finance and Administration, to be
+16 payable from the Miscellaneous Agencies Fund Account, for child abuse and
+17 neglect expenses and grants for the fiscal year ending June 30, 2026, the
+18 following:
+19
+20 ITEM FISCAL YEAR
+21 NO. 2025-2026
+22 (01) CHILD ABUSE AND NEGLECT PROGRAM
+23 EXPENSES $5,251,521
+24
+25 SECTION 19. APPROPRIATION - CHILDREN'S ADVOCACY CENTERS OF ARKANSAS.
+26 There is hereby appropriated, to the Department of Finance and
+27 Administration, to be payable from the Arkansas Children's Advocacy Center
+28 Fund, for grants to children's advocacy centers in Arkansas for the fiscal
+29 year ending June 30, 2026, the following:
+30
+31 ITEM FISCAL YEAR
+32 NO. 2025-2026
+33 (01) CHILDREN'S ADVOCACY CENTERS GRANTS $500,000
+34
+35 SECTION 20. REGULAR SALARIES - BUDGET AND MANAGEMENT SERVICES -
+36 DEVELOPMENTAL DISABILITIES PLANNING COUNCIL. There is hereby established for
+11 03-18-2025 16:40:39 JAP009
+As Engrossed: H3/18/25 HB1124
+1 the Department of Finance and Administration - Budget and Management Services
+2 Division for the 2025-2026 fiscal year, the following maximum number of
+3 regular employees.
+4
+5 Maximum Annual
+6 Maximum Salary Rate
+7 Item Class No. of Fiscal Year
+8 No. Code Title Employees 2025-2026
+9 (1) U127U EXEC DIR DEVLPMTL DISABILITIES COUNCIL 1 GRADE GS11
+10 (2) G109C GRANTS MANAGER 1 GRADE GS09
+11 (3) G147C GRANTS COORDINATOR 2 GRADE GS07
+12 (4) C022C BUSINESS OPERATIONS SPECIALIST 1 GRADE GS05
+13 MAX. NO. OF EMPLOYEES 5
+14
+15 SECTION 21. APPROPRIATION - BUDGET AND MANAGEMENT SERVICES -
+16 DEVELOPMENTAL DISABILITIES PLANNING COUNCIL - STATE. There is hereby
+17 appropriated, to the Department of Finance and Administration, to be payable
+18 from the Miscellaneous Agencies Fund Account, for personal services of the
+19 Department of Finance and Administration - Budget and Management Services
+20 Division - Developmental Disabilities Planning Council - State for the fiscal
+21 year ending June 30, 2026, the following:
+22
+23 ITEM FISCAL YEAR
+24 NO. 2025-2026
+25 (01) REGULAR SALARIES $28,407
+26 (02) PERSONAL SERVICES MATCHING 9,118
+27 TOTAL AMOUNT APPROPRIATED $37,525
+28
+29 SECTION 22. APPROPRIATION - BUDGET AND MANAGEMENT SERVICES -
+30 DEVELOPMENTAL DISABILITIES PLANNING COUNCIL - FEDERAL. There is hereby
+31 appropriated, to the Department of Finance and Administration, to be payable
+32 from the federal funds as designated by the Chief Fiscal Officer of the
+33 State, for personal services, operating experiences and grants and aid of the
+34 Department of Finance and Administration - Budget and Management Services
+35 Division - Developmental Disabilities Planning Council - Federal for the
+36 fiscal year ending June 30, 2026, the following:
+12 03-18-2025 16:40:39 JAP009
+As Engrossed: H3/18/25 HB1124
+1
+2 ITEM FISCAL YEAR
+3 NO. 2025-2026
+4 (01) REGULAR SALARIES $282,710
+5 (02) PERSONAL SERVICES MATCHING 103,389
+6 (03) MAINT. & GEN. OPERATION
+7 (A) OPER. EXPENSE 259,025
+8 (B) CONF. & TRAVEL 10,843
+9 (C) PROF. FEES 120,000
+10 (D) CAP. OUTLAY 0
+11 (E) DATA PROC. 0
+12 (04) GRANTS AND AID 1,190,929
+13 TOTAL AMOUNT APPROPRIATED $1,966,896
+14
+15 SECTION 23. REGULAR SALARIES - REVENUE SERVICES DIVISION. There is
+16 hereby established for the Department of Finance and Administration - Revenue
+17 Services Division for the 2025-2026 fiscal year, the following maximum number
+18 of regular employees.
+19
+20 Maximum Annual
+21 Maximum Salary Rate
+22 Item Class No. of Fiscal Year
+23 No. Code Title Employees 2025-2026
+24 (1) N003N DFA DEP DIR AND COMMISSIONER OF REVENUE 1 GRADE SE03
+25 (2) N035N DFA MOTOR VEHICLE ADMINISTRATOR 1 GRADE SE02
+26 (3) N004N DFA REV ASST COMMISSIONER POLICY & LEGAL 1 GRADE SE02
+27 (4) G002N DFA REVENUE CHIEF COUNSEL 1 GRADE SE02
+28 (5) N030N DFA STATE REVENUE OFFICE ADMINISTRATOR 1 GRADE SE02
+29 (6) N029N DFA TAX ADMINISTRATOR 2 GRADE SE02
+30 (7) N028N DFA TAX AUDIT ADMINISTRATOR 1 GRADE SE02
+31 (8) D054C COMPUTER SUPPORT COORDINATOR 1 GRADE IT05
+32 (9) D056C SYSTEMS COORDINATION ANALYST 1 GRADE IT05
+33 (10) D084C COMPUTER OPERATOR 1 GRADE IT02
+34 (11) A003C DFA REVENUE ASSISTANT ADMINISTRATOR 12 GRADE GS14
+35 (12) A006C DFA REVENUE TAX DIVISION MANAGER 11 GRADE GS13
+36 (13) R040C DFA STATEWIDE PROGRAM MANAGER 1 GRADE GS13
+13 03-18-2025 16:40:39 JAP009
+As Engrossed: H3/18/25 HB1124
+1 (14) G004C MANAGING ATTORNEY 6 GRADE GS13
+2 (15) G310C TAX APPEALS STAFF ATTORNEY 4 GRADE GS13
+3 (16) G025C ATTORNEY SUPERVISOR 4 GRADE GS12
+4 (17) G024C DEPARTMENT ADMINISTRATIVE LAW JUDGE 3 GRADE GS12
+5 (18) A014C FISCAL DIVISION MANAGER 5 GRADE GS12
+6 (19) G047C ATTORNEY SPECIALIST 12 GRADE GS11
+7 (20) G044C DFA REVENUE PROBLEM RESOLUTION OFFICER 2 GRADE GS11
+8 (21) R041C DFA STATEWIDE PROGRAM COORDINATOR 6 GRADE GS11
+9 (22) A033C TAX AUDITOR SUPERVISOR 21 GRADE GS11
+10 (23) G061C ACD DEPUTY DIRECTOR 1 GRADE GS10
+11 (24) A049C DFA REVENUE OFFICE DISTRICT MANAGER 5 GRADE GS10
+12 (25) G045C DFA DIVISION MANAGER III 10 GRADE GS09
+13 (26) T106C DFA REVENUE SECURITY SUPERVISOR 1 GRADE GS09
+14 (27) R043C DFA STATEWIDE PROGRAM SPECIALIST 1 GRADE GS09
+15 (28) P004C PUBLIC INFORMATION MANAGER 1 GRADE GS09
+16 (29) A054C TAX AUDITOR II 172 GRADE GS09
+17 (30) G084C DFA DIVISION MANAGER II 7 GRADE GS08
+18 (31) G133C DFA DIVISION MANAGER I 18 GRADE GS07
+19 (32) A069C DFA REVENUE OFFICE ASST DISTRICT MNGR 5 GRADE GS07
+20 (33) T032C DFA REVENUE SECURITY COORDINATOR 4 GRADE GS07
+21 (34) S017C MAINTENANCE COORDINATOR 2 GRADE GS07
+22 (35) E040C STAFF DEVELOPMENT COORDINATOR 1 GRADE GS07
+23 (36) A059C TAX AUDITOR 2 GRADE GS07
+24 (37) C037C ADMINISTRATIVE ANALYST 6 GRADE GS06
+25 (38) A077C DFA LOCAL REVENUE OFFICE MANAGER 53 GRADE GS06
+26 (39) E033C DFA ORGANIZATIONAL DEVELOPMENT SPEC 1 GRADE GS06
+27 (40) A074C FISCAL SUPPORT SUPERVISOR 4 GRADE GS06
+28 (41) C029C HEARING OFFICER 26 GRADE GS06
+29 (42) G179C LEGAL SERVICES SPECIALIST 5 GRADE GS06
+30 (43) B076C RESEARCH PROJECT ANALYST 2 GRADE GS06
+31 (44) E046C TRAINING INSTRUCTOR 1 GRADE GS06
+32 (45) S041C BOILER OPERATOR 6 GRADE GS05
+33 (46) C022C BUSINESS OPERATIONS SPECIALIST 2 GRADE GS05
+34 (47) A094C DFA LOCAL REVENUE OFFICE SUPERVISOR 88 GRADE GS05
+35 (48) C042C DFA REVENUE SUPERVISOR 33 GRADE GS05
+36 (49) A091C FISCAL SUPPORT ANALYST 20 GRADE GS05
+14 03-18-2025 16:40:39 JAP009
+As Engrossed: H3/18/25 HB1124
+1 (50) R032C HUMAN RESOURCES PROGRAM REPRESENTATIVE 1 GRADE GS05
+2 (51) V015C PURCHASING SPECIALIST 1 GRADE GS05
+3 (52) C056C ADMINISTRATIVE SPECIALIST III 12 GRADE GS04
+4 (53) C048C DFA SUPERVISOR 92 GRADE GS04
+5 (54) A098C FISCAL SUPPORT SPECIALIST 2 GRADE GS04
+6 (55) A102C FISCAL SUPPORT TECHNICIAN 6 GRADE GS04
+7 (56) C046C LEGAL SUPPORT SPECIALIST 2 GRADE GS04
+8 (57) S046C MAINTENANCE TECHNICIAN 1 GRADE GS04
+9 (58) C073C ADMINISTRATIVE SPECIALIST II 28 GRADE GS03
+10 (59) C059C DFA SERVICE REPRESENTATIVE 780 GRADE GS03
+11 (60) S064C SKILLED TRADES HELPER 2 GRADE GS03
+12 (61) X172C TAX INVESTIGATOR 33 GRADE GS03
+13 (62) S087C INSTITUTIONAL SERVICES ASSISTANT 10 GRADE GS01
+14 MAX. NO. OF EMPLOYEES 1,545
+15
+16 SECTION 24. EXTRA HELP - REVENUE SERVICES DIVISION. There is hereby
+17 authorized, for the Department of Finance and Administration - Revenue
+18 Services Division for the 2025-2026 fiscal year, the following maximum number
+19 of part-time or temporary employees, to be known as "Extra Help", payable
+20 from funds appropriated herein for such purposes: eighty (80) temporary or
+21 part-time employees, when needed, at rates of pay not to exceed those
+22 provided in the Uniform Classification and Compensation Act, or its
+23 successor, or this act for the appropriate classification.
+24
+25 SECTION 25. APPROPRIATION - REVENUE SERVICES DIVISION - OPERATIONS.
+26 There is hereby appropriated, to the Department of Finance and
+27 Administration, to be payable from the State Central Services Fund, for
+28 personal services and operating expenses of the Department of Finance and
+29 Administration - Revenue Services Division for the fiscal year ending June
+30 30, 2026, the following:
+31
+32 ITEM FISCAL YEAR
+33 NO. 2025-2026
+34 (01) REGULAR SALARIES $68,627,649
+35 (02) EXTRA HELP 400,000
+36 (03) PERSONAL SERVICES MATCHING 28,257,216
+15 03-18-2025 16:40:39 JAP009
+As Engrossed: H3/18/25 HB1124
+1 (04) OVERTIME 500,000
+2 (05) MAINT. & GEN. OPERATION
+3 (A) OPER. EXPENSE 24,990,000
+4 (B) CONF. & TRAVEL 106,000
+5 (C) PROF. FEES 100,000
+6 (D) CAP. OUTLAY 600,000
+7 (E) DATA PROC. 0
+8 TOTAL AMOUNT APPROPRIATED $123,580,865
+9
+10 SECTION 26. APPROPRIATION REVENUE SERVICES DIVISION - DRIVER
+11 SERVICES/MOTOR VEHICLES PROGRAM. There is hereby appropriated, to the
+12 Department of Finance and Administration, to be payable from the Commercial
+13 Driver License Fund, for personal services and operating expenses of the
+14 Department of Finance and Administration - Revenue Services Division - Driver
+15 Services/Motor Vehicles Program for the fiscal year ending June 30, 2026, the
+16 following:
+17
+18 ITEM FISCAL YEAR
+19 NO. 2025-2026
+20 (01) REGULAR SALARIES $330,510
+21 (02) PERSONAL SERVICES MATCHING 152,309
+22 (03) OVERTIME 30,000
+23 (04) MAINT. & GEN. OPERATION
+24 (A) OPER. EXPENSE 5,352,352
+25 (B) CONF. & TRAVEL 0
+26 (C) PROF. FEES 0
+27 (D) CAP. OUTLAY 0
+28 (E) DATA PROC. 0
+29 TOTAL AMOUNT APPROPRIATED $5,865,171
+30
+31 SECTION 27. APPROPRIATION - REVENUE SERVICES DIVISION - INDIVIDUAL
+32 INCOME TAX AND AD VALOREM PROPERTY TAX REBATES. There is hereby
+33 appropriated, to the Department of Finance and Administration - Revenue
+34 Services Division, to be payable from the Individual Income Tax Withholding
+35 Fund, for the purpose of making individual income tax refunds of taxes
+36 withheld under the provisions of Arkansas Code beginning at 26-51-901 and
+16 03-18-2025 16:40:39 JAP009
+As Engrossed: H3/18/25 HB1124
+1 property tax rebates under Amendment 79 of the Arkansas Constitution for the
+2 fiscal year ending June 30, 2026, the following:
+3
+4 ITEM FISCAL YEAR
+5 NO. 2025-2026
+6 (01) INDIVIDUAL INCOME TAX & AD VALOREM
+7 PROPERTY TAX REBATES - REFUND/REIMB $780,000,000
+8
+9 SECTION 28. APPROPRIATION - REVENUE SERVICES DIVISION - CORPORATE
+10 INCOME TAX. There is hereby appropriated, to the Department of Finance and
+11 Administration - Revenue Services Division, to be payable from the Corporate
+12 Income Tax Withholding Fund, for the purpose of making corporate income tax
+13 refunds of taxes withheld under the provisions of Arkansas Code 26-51-901 for
+14 the fiscal year ending June 30, 2026, the following:
+15
+16 ITEM FISCAL YEAR
+17 NO. 2025-2026
+18 (01) CORPORATE INCOME TAX -
+19 REFUND/REIMBURSEMENTS $200,000,000
+20
+21 SECTION 29. APPROPRIATION - REVENUE SERVICES DIVISION - GASOLINE TAX
+22 REFUNDS. There is hereby appropriated, to the Department of Finance and
+23 Administration - Revenue Services Division, to be payable from the Gasoline
+24 Tax Refund Fund, for paying the valid gasoline tax refund claims of
+25 agricultural users and bus drivers in the manner and to the extent provided
+26 by law for the fiscal year ending June 30, 2026, the following:
+27
+28 ITEM FISCAL YEAR
+29 NO. 2025-2026
+30 (01) GASOLINE TAX REFUND CLAIMS $1,500,000
+31
+32 SECTION 30. APPROPRIATION - REVENUE SERVICES DIVISION - INTERSTATE
+33 MOTOR FUEL TAX REFUNDS. There is hereby appropriated, to the Department of
+34 Finance and Administration - Revenue Services Division, to be payable from
+35 the Interstate Motor Fuel Tax Refund Fund, for paying refunds to interstate
+36 users of motor fuels and special motor fuels as authorized by law for the
+17 03-18-2025 16:40:39 JAP009
+As Engrossed: H3/18/25 HB1124
+1 fiscal year ending June 30, 2026, the following:
+2
+3 ITEM FISCAL YEAR
+4 NO. 2025-2026
+5 (01) INTERSTATE MOTOR FUEL TAX -
+6 REFUND/REIMBURSEMENTS $10,000,000
+7
+8 SECTION 31. APPROPRIATION - REVENUE SERVICES DIVISION - MISCELLANEOUS
+9 TAX REFUNDS. There is hereby appropriated, to the Department of Finance and
+10 Administration - Revenue Services Division, to be payable from the
+11 Miscellaneous Revolving Fund, for making refunds of taxes erroneously paid
+12 and for refunds of the gross receipts taxes paid upon tickets to athletic
+13 events pursuant to Arkansas Code 26-52-412 and for other purposes as
+14 authorized by law for the fiscal year ending June 30, 2026, the following:
+15
+16 ITEM FISCAL YEAR
+17 NO. 2025-2026
+18 (01) MISCELLANEOUS TAX -
+19 REFUND/REIMBURSEMENTS $175,000,000
+20
+21 SECTION 32. APPROPRIATION - REVENUE SERVICES DIVISION - SPECIAL PLATES.
+22 There is hereby appropriated, to the Department of Finance and Administration
+23 - Revenue Services Division, to be payable from the cash fund deposited in
+24 the State Treasury as determined by the Chief Fiscal Officer of the State,
+25 for administrative and operating expenses of disbursing the Motor Vehicle
+26 Special License Plate fees to the proper entities for the fiscal year ending
+27 June 30, 2026, the following:
+28
+29 ITEM FISCAL YEAR
+30 NO. 2025-2026
+31 (01) MV SPECIAL PLATES-ADMINISTRATIVE &
+32 OPERATING EXPENSES $5,000,000
+33
+34 SECTION 33. APPROPRIATION - REVENUE SERVICES DIVISION - REVENUE
+35 MISCELLANEOUS CASH. There is hereby appropriated, to the Department of
+36 Finance and Administration - Revenue Services Division, to be payable from
+18 03-18-2025 16:40:39 JAP009
+As Engrossed: H3/18/25 HB1124
+1 the cash fund deposited in the State Treasury as determined by the Chief
+2 Fiscal Officer of the State, for distribution of fees and service charges
+3 collected on behalf of other entities and for other purposes as authorized by
+4 law for the fiscal year ending June 30, 2026, the following:
+5
+6 ITEM FISCAL YEAR
+7 NO. 2025-2026
+8 (01) DISTRIBUTION OF FEES / SERVICE CHARGES $100,000
+9
+10 SECTION 34. SPECIAL LANGUAGE. NOT TO BE INCORPORATED INTO THE ARKANSAS
+11 CODE NOR PUBLISHED SEPARATELY AS SPECIAL, LOCAL AND TEMPORARY LAW. SHARED
+12 SERVICES. (a)(1) The Chief Fiscal Officer of the State may create a Shared
+13 Services paying accounts on his or her books and on the books of the
+14 Treasurer of State and the Auditor of State for the payment of personal
+15 services and operating expenses in the Shared Services Paying Account
+16 Appropriation by the Department of Finance and Administration.
+17 (2) The Chief Fiscal Officer of the State shall direct the transfer
+18 of funds and appropriations to the Shared Services Paying Account
+19 appropriation section of this act on the books of the Treasurer of State, the
+20 Auditor of State, and the Chief Fiscal Officer of the State.
+21 (3) The transfer authority provided to the department in
+22 subdivision (a)(2) of this section may be used to make transfers only within
+23 the department's appropriation act or between other appropriation acts
+24 authorized for the department.
+25 (4) The provisions of this section shall be in effect from the date of
+26 passage through June 30, 2025 2026.
+27
+28 SECTION 35. SPECIAL LANGUAGE. NOT TO BE INCORPORATED INTO THE ARKANSAS
+29 CODE NOR PUBLISHED SEPARATELY AS SPECIAL, LOCAL AND TEMPORARY LAW. BUDGET
+30 AND MANAGEMENT SERVICES - DEPARTMENT OF JUSTICE NON-VICTIM ASSISTANCE GRANTS.
+31 The funds appropriated in this Act for Department of Justice Non-Victim
+32 Assistance Matching Grants shall be used for matching funds for administering
+33 the Federal Grants provided in this Act for the Department of Justice Non-
+34 Victim Assistance Grants. The Department of Finance and Administration -
+35 Budget and Management Services Division is hereby authorized to call upon all
+36 state agencies to assist in the implementation of the Department of Justice
+19 03-18-2025 16:40:39 JAP009
+As Engrossed: H3/18/25 HB1124
+1 Non-Victim Assistance Grants. However, if no Federal Grants are available to
+2 be matched with these funds, the funding provided from the Miscellaneous
+3 Agencies Fund Account may be used to provide funding for Drug Task Force
+4 operations across the State. The funds appropriated in this Act for
+5 Department of Justice Non-Victim Assistance Matching Grants may be used to
+6 provide one hundred percent (100%) of the required matching funds for state
+7 agencies and to provide up to sixty percent (60%) of the required matching
+8 funds for local governments should Federal Grants be available. Such funds
+9 and appropriation may be transferred to eligible state agencies or paid to
+10 local governments to be used for matching federal funds for administration of
+11 the Department of Justice Non-Victim Assistance Grants or paid to local
+12 governments to be used to fund Drug Task Force operations in such amounts as
+13 determined by the Arkansas Alcohol and Drug Abuse Coordinating Council or
+14 other oversight agency as designated by the Governor. Any unobligated
+15 balances in funds in this Act for the Department of Justice Non-Victim
+16 Assistance Grants may be used by state agencies as matching funds for other
+17 U.S. Department of Justice Grants in an amount determined by the Chief Fiscal
+18 Officer of the State.
+19 Any unexpended balances in funds provided for Department of Justice Non-
+20 Victim Assistance Matching Grants in this act remaining on June 30, 2024
+21 2025, may be carried forward and used for the same purpose during the fiscal
+22 year ending June 30, 2025 2026.
+23 The provisions of this section shall be in effect only from July 1, 2024
+24 2025 through June 30, 2025 2026.
+25
+26 SECTION 36. SPECIAL LANGUAGE. NOT TO BE INCORPORATED INTO THE ARKANSAS
+27 CODE NOR PUBLISHED SEPARATELY AS SPECIAL, LOCAL AND TEMPORARY LAW. REVENUE
+28 SERVICES DIVISION - APPROPRIATION TRANSFERS. The Secretary of the Department
+29 of Finance and Administration is authorized to transfer appropriation between
+30 refund line item appropriations in this Act. The Secretary of the Department
+31 of Finance and Administration shall immediately report any such transfers to
+32 the Arkansas Legislative Council or Joint Budget Committee. Such report
+33 shall contain the amounts transferred and the reasons for the same.
+34 The provisions of this section shall be in effect only from July 1, 2024
+35 2025 through June 30, 2025 2026.
+36
+20 03-18-2025 16:40:39 JAP009
+As Engrossed: H3/18/25 HB1124
+1 SECTION 37. SPECIAL LANGUAGE. NOT TO BE INCORPORATED INTO THE ARKANSAS
+2 CODE NOR PUBLISHED SEPARATELY AS SPECIAL, LOCAL AND TEMPORARY LAW. REVENUE
+3 SERVICES DIVISION - EXTRA HELP EXEMPTION. Extra Help positions authorized
+4 herein are specifically exempt from limitation of hours, either by act or
+5 regulation. Provided, however, when a temporary or part-time employee is
+6 employed by the Department of Finance and Administration - Revenue Services
+7 Division for a period of time exceeding seven (7) months, a report of such
+8 shall be filed with the Arkansas Legislative Council or Joint Budget
+9 Committee.
+10 The provisions of this section shall be in effect only from July 1, 2024
+11 2025 through June 30, 2025 2026.
+12
+13 SECTION 38. SPECIAL LANGUAGE. NOT TO BE INCORPORATED INTO THE ARKANSAS
+14 CODE NOR PUBLISHED SEPARATELY AS SPECIAL, LOCAL AND TEMPORARY LAW. REVENUE
+15 SERVICES DIVISION - AUTHORITY TO EMPLOY CERTIFIED LAW ENFORCEMENT OFFICERS.
+16 The Secretary of the Department of Finance and Administration is authorized
+17 to employ certified law enforcement officers and specialized police personnel
+18 as certified under § 12-9-101 et seq. The certified law enforcement officers
+19 and specialized police personnel employed under this section shall be
+20 responsible for maintaining order and providing for the security, protection,
+21 and safety of the Department of Finance and Administration buildings,
+22 grounds, property, employees and customers. The certified law enforcement
+23 officer shall have the powers, duties, privileges, and immunities of a
+24 certified law enforcement officer.
+25 The following two classifications shall be used by the agency for
+26 security, protection, and safety personnel:
+27 Maximum Salary Rate
+28 Item Class No. of Fiscal Year
+29 No. Code Title Employees 2024-2025 2025-2026
+30 (1) T106C DFA REVENUE SECURITY SUPERVISOR 1 GRADE GS09
+31 (2) T032C DFA REVENUE SECURITY COORDINATOR 4 GRADE GS07
+32 MAX. NO. OF EMPLOYEES 5
+33
+34 Department of Finance and Administration Alcoholic Beverage Control
+35 Enforcement Division will manage training and certification of the certified
+36 law enforcement officers and specialized police personnel and maintain all
+21 03-18-2025 16:40:39 JAP009
+As Engrossed: H3/18/25 HB1124
+1 required documentation.
+2 The provisions of this section shall be in effect only from July 1, 2024
+3 2025 through June 30, 2025 2026.
+4
+5 SECTION 39. COMPLIANCE WITH OTHER LAWS. Disbursement of funds
+6 authorized by this act shall be limited to the appropriation for such agency
+7 and funds made available by law for the support of such appropriations; and
+8 the restrictions of the State Procurement Law, the General Accounting and
+9 Budgetary Procedures Law, the Revenue Stabilization Law, the Regular Salary
+10 Procedures and Restrictions Act, or their successors, and other fiscal
+11 control laws of this State, where applicable, and regulations promulgated by
+12 the Department of Finance and Administration, as authorized by law, shall be
+13 strictly complied with in disbursement of said funds.
+14
+15 SECTION 40. LEGISLATIVE INTENT. It is the intent of the General
+16 Assembly that any funds disbursed under the authority of the appropriations
+17 contained in this act shall be in compliance with the stated reasons for
+18 which this act was adopted, as evidenced by the Agency Requests, Executive
+19 Recommendations and Legislative Recommendations contained in the budget
+20 manuals prepared by the Department of Finance and Administration, letters, or
+21 summarized oral testimony in the official minutes of the Arkansas Legislative
+22 Council or Joint Budget Committee which relate to its passage and adoption.
+23
+24 SECTION 41. EMERGENCY CLAUSE. It is found and determined by the
+25 General Assembly, that the Constitution of the State of Arkansas prohibits
+26 the appropriation of funds for more than a one (1) year period; that the
+27 effectiveness of this Act on July 1, 2025 is essential to the operation of
+28 the agency for which the appropriations in this Act are provided, and that in
+29 the event of an extension of the legislative session, the delay in the
+30 effective date of this Act beyond July 1, 2025 could work irreparable harm
+31 upon the proper administration and provision of essential governmental
+32 programs. Therefore, an emergency is hereby declared to exist and this Act
+33 being necessary for the immediate preservation of the public peace, health
+34 and safety shall be in full force and effect from and after July 1, 2025.
+35
+36 /s/Joint Budget Committee
+22 03-18-2025 16:40:39 JAP009
+[DELETED:  A      A A A 3   A A 2    B   S e S r                   ]
+[DELETED:  H2 0                                               S f 2 e h n C a   S a f e]
+[DELETED:  H3 0 f  I   ( ( ( (               S h a m                                 ]
+[DELETED:  H4 0                                                                        ]
+[DELETED:  H5 0               S h a m H t t s   S T A p A e  I   ( ( ( ( (            ]
+[DELETED:  H6 0   S M F S o a t  I   (           (     S C D D t a e U f   S C D D F a]
+[DELETED:  H7 0 A S  I   ( ( ( ( (           (   ( (     S C D D g o V 3  I   (     S]
+[DELETED:  H8 0 O a M d o g j  I   ( ( (           (   (     S O a M F m v g  I   (  ]
+[DELETED:  H9 0   S I F F F f  I   ( ( (     S P a f S a n e  I   (   S V F F u a y ]
+[DELETED:  H1 0 I   (   S S F d o o S  I   ( ( (           (       S C D f s O a t  I]
+[DELETED:  H1 0   ( ( (           (       S h p n f  I   (     S T A F y  I   (   S D]
+[DELETED:  H1 0 t D r                      S D a f D D y  I   ( (     S D a f S D D f]
+[DELETED:  H1 0  I   ( ( (           (     S h S o                                   ]
+[DELETED:  H1 0                                                                        ]
+[DELETED:  H1 0                               S a S o f p p s   S T A p A 3  I   ( ( (]
+[DELETED:  H1 0 ( (               S S D D D S f  I   ( ( ( (               S I a S F w]
+[DELETED:  H1 0 p f  I   (     S I A I r t  I   (     S R A T a b  I   (   S M F t u]
+[DELETED:  H1 0 f  I   (     S T A M a e a  I   (     S T - t f S J  I   (     S M F]
+[DELETED:  H1 0 t F c l  I   (   S C S S T s A   o a A   s t a   p   S C A T A t V B s]
+[DELETED:  H2 0 N b A o D p a f a l t g d o b A U O A V 2 y   2   S C S o r o t s   2 ]
+[DELETED:  H2 0  S C S h r e D s C   2   S C S T t a a r a g o c   s                E l]
+[DELETED:  H2 0 r   2   S a a t B P c t s   S A c w R m s C   S G t e t t e u p b a  /]
+
+
+================================================================================
+
+Raw Text:
+Stricken language would be deleted from and underlined language would be added to present law.
+1 State of Arkansas As Engrossed: H3/18/25
+A Bill
+2 95th General Assembly
+3 Regular Session, 2025 HOUSE BILL 1124
+4
+5 By: Joint Budget Committee
+6
+7
+For An Act To Be Entitled
+8
+9 AN ACT TO MAKE AN APPROPRIATION FOR PERSONAL SERVICES
+10 AND OPERATING EXPENSES FOR THE DEPARTMENT OF FINANCE
+11 AND ADMINISTRATION FOR THE FISCAL YEAR ENDING JUNE
+12 30, 2026; AND FOR OTHER PURPOSES.
+13
+14
+Subtitle
+15
+16 AN ACT FOR THE DEPARTMENT OF FINANCE AND
+17 ADMINISTRATION APPROPRIATION FOR THE
+18 2025-2026 FISCAL YEAR.
+19
+20
+21 BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF ARKANSAS:
+22
+23 SECTION 1. REGULAR SALARIES - SHARED SERVICES. There is hereby
+24 established for the Department of Finance and Administration - Shared
+25 Services for the 2025-2026 fiscal year, the following maximum number of
+26 regular employees.
+27
+28 Maximum Annual
+29 Maximum Salary Rate
+30 Item Class No. of Fiscal Year
+31 No. Code Title Employees 2025-2026
+32 (1) SC006 SECRETARY OF FINANCE & ADMINISTRATION 1 GRADE SE05
+33 (2) U002U DFA DEPUTY DIRECTOR AND CHIEF OF STAFF 1 GRADE SE04
+34 (3) N033N DFA ADMINISTRATIVE SVCS ADMINISTRATOR 1 GRADE SE02
+35 (4) G001C DFA ASSISTANT ADMIN SVCS ADMINISTRATOR 1 GRADE GS15
+36 (5) P006N DFA DIRECTOR OF COMMUNICATIONS 1 GRADE GS15
+*JAP009*
+03-18-2025 16:40:39 JAP009
+
+As Engrossed: H3/18/25 HB1124
+1 (6) G332C STATE INFRASTRUCTURE COORDINATOR 1 GRADE GS15
+2 (7) A003C DFA REVENUE ASSISTANT ADMINISTRATOR 1 GRADE GS14
+3 (8) R040C DFA STATEWIDE PROGRAM MANAGER 1 GRADE GS13
+4 (9) A027C ACCOUNTING OPERATIONS MANAGER 1 GRADE GS11
+5 (10) R013C AGENCY HUMAN RESOURCES MANAGER 1 GRADE GS11
+6 (11) R041C DFA STATEWIDE PROGRAM COORDINATOR 3 GRADE GS11
+7 (12) A082C ACCOUNTANT II 1 GRADE GS08
+8 (13) R021C BUDGET ANALYST 1 GRADE GS08
+9 (14) E023C TRAINING PROJECT MANAGER 1 GRADE GS08
+10 (15) A089C ACCOUNTANT I 1 GRADE GS07
+11 (16) V008C BUYER SUPERVISOR 1 GRADE GS07
+12 (17) G132C DFA PROGRAM MANAGER 2 GRADE GS07
+13 (18) C010C EXECUTIVE ASSISTANT TO THE DIRECTOR 1 GRADE GS07
+14 (19) C037C ADMINISTRATIVE ANALYST 5 GRADE GS06
+15 (20) R022C BENEFITS COORDINATOR 1 GRADE GS06
+16 (21) V010C DFA BUYER 4 GRADE GS06
+17 (22) C018C DFA EXECUTIVE ASSISTANT TO THE CMSNR 1 GRADE GS06
+18 (23) R025C HUMAN RESOURCES ANALYST 9 GRADE GS06
+19 (24) G179C LEGAL SERVICES SPECIALIST 1 GRADE GS06
+20 (25) C022C BUSINESS OPERATIONS SPECIALIST 1 GRADE GS05
+21 (26) A091C FISCAL SUPPORT ANALYST 2 GRADE GS05
+22 MAX. NO. OF EMPLOYEES 45
+23
+24 SECTION 2. EXTRA HELP - SHARED SERVICES. There is hereby authorized,
+25 for the Department of Finance and Administration - Shared Services for the
+26 2025-2026 fiscal year, the following maximum number of part-time or temporary
+27 employees, to be known as "Extra Help", payable from funds appropriated
+28 herein for such purposes: twenty (20) temporary or part-time employees, when
+29 needed, at rates of pay not to exceed those provided in the Uniform
+30 Classification and Compensation Act, or its successor, or this act for the
+31 appropriate classification.
+32
+33 SECTION 3. APPROPRIATION - SHARED SERVICES. There is hereby
+34 appropriated, to the Department of Finance and Administration, to be payable
+35 from the State Central Services Fund, for personal services and operating
+36 expenses of the Department of Finance and Administration - Shared Services
+2 03-18-2025 16:40:39 JAP009
+
+As Engrossed: H3/18/25 HB1124
+1 for the fiscal year ending June 30, 2026, the following:
+2
+3 ITEM FISCAL YEAR
+4 NO. 2025-2026
+5 (01) REGULAR SALARIES $3,006,694
+6 (02) EXTRA HELP 60,000
+7 (03) PERSONAL SERVICES MATCHING 1,049,119
+8 (04) MAINT. & GEN. OPERATION
+9 (A) OPER. EXPENSE 418,450
+10 (B) CONF. & TRAVEL 41,368
+11 (C) PROF. FEES 154,000
+12 (D) CAP. OUTLAY 0
+13 (E) DATA PROC. 0
+14 TOTAL AMOUNT APPROPRIATED $4,729,631
+15
+16 SECTION 4. REGULAR SALARIES - BUDGET AND MANAGEMENT SERVICES. There is
+17 hereby established for the Department of Finance and Administration - Budget
+18 and Management Services Division for the 2025-2026 fiscal year, the following
+19 maximum number of regular employees.
+20
+21 Maximum Annual
+22 Maximum Salary Rate
+23 Item Class No. of Fiscal Year
+24 No. Code Title Employees 2025-2026
+25 (1) N012N DFA DEPUTY DIRECTOR AND CONTROLLER 2 GRADE SE03
+26 (2) D004N DFA INTERGOVERNMENTAL SVCS ADMIN 1 GRADE SE02
+27 (3) N038N DFA BUDGET ADMINISTRATOR 1 GRADE SE02
+28 (4) N011N DFA CHIEF INFORMATION OFFICER 1 GRADE SE02
+29 (5) N042N DFA TAX RESEARCH ADMINISTRATOR 1 GRADE SE02
+30 (6) D005N DFA IT TECHNICAL SPECIALIST 7 GRADE IT11
+31 (7) D002C DFA OIS ASSISTANT ADMINISTRATOR 1 GRADE IT10
+32 (8) D011C DFA ERP SYSTEM MANAGER 4 GRADE IT09
+33 (9) D021C DFA ERP GROUP LEAD 6 GRADE IT08
+34 (10) D007C INFORMATION SYSTEMS MANAGER 2 GRADE IT08
+35 (11) D030C INFORMATION SYSTEMS COORDINATOR 1 GRADE IT07
+36 (12) D028C SENIOR SOFTWARE SUPPORT SPECIALIST 3 GRADE IT07
+3 03-18-2025 16:40:39 JAP009
+
+As Engrossed: H3/18/25 HB1124
+1 (13) D033C DFA ERP ANALYST 32 GRADE IT06
+2 (14) D039C NETWORK SUPPORT SPECIALIST 1 GRADE IT06
+3 (15) D038C SENIOR SOFTWARE SUPPORT ANALYST 5 GRADE IT06
+4 (16) D016C SENIOR TECHNOLOGY ANALYST 4 GRADE IT06
+5 (17) D054C COMPUTER SUPPORT COORDINATOR 1 GRADE IT05
+6 (18) D063C COMPUTER SUPPORT SPECIALIST 2 GRADE IT05
+7 (19) D061C INFORMATION SYSTEMS COORDINATION SPEC 1 GRADE IT05
+8 (20) D052C SOFTWARE SUPPORT ANALYST 8 GRADE IT05
+9 (21) D056C SYSTEMS COORDINATION ANALYST 1 GRADE IT05
+10 (22) D058C COMPUTER OPERATIONS COORDINATOR 1 GRADE IT04
+11 (23) D065C NETWORK SUPPORT ANALYST 6 GRADE IT04
+12 (24) D064C WEBSITE DEVELOPER 2 GRADE IT04
+13 (25) D071C COMPUTER SUPPORT ANALYST 5 GRADE IT03
+14 (26) D084C COMPUTER OPERATOR 2 GRADE IT02
+15 (27) D079C COMPUTER SUPPORT TECHNICIAN 3 GRADE IT02
+16 (28) A002C DFA ASSISTANT ACCOUNTING ADMINISTRATOR 3 GRADE GS15
+17 (29) R002C DFA ASSISTANT BUDGET ADMINISTRATOR 2 GRADE GS15
+18 (30) A001C DFA ASSISTANT TAX RESEARCH ADMINISTRATOR 1 GRADE GS14
+19 (31) A006C DFA REVENUE TAX DIVISION MANAGER 1 GRADE GS13
+20 (32) R040C DFA STATEWIDE PROGRAM MANAGER 7 GRADE GS13
+21 (33) A021C AGENCY CONTROLLER I 2 GRADE GS12
+22 (34) A025C DFA ACCOUNTING ACFR COORDINATOR 5 GRADE GS12
+23 (35) G002C DFA ASSISTANT IGS ADMINISTRATOR 1 GRADE GS12
+24 (36) A007C AUDIT MANAGER 1 GRADE GS11
+25 (37) R041C DFA STATEWIDE PROGRAM COORDINATOR 28 GRADE GS11
+26 (38) R043C DFA STATEWIDE PROGRAM SPECIALIST 4 GRADE GS09
+27 (39) G109C GRANTS MANAGER 3 GRADE GS09
+28 (40) A082C ACCOUNTANT II 1 GRADE GS08
+29 (41) A047C FINANCIAL ANALYST II 1 GRADE GS08
+30 (42) A089C ACCOUNTANT I 7 GRADE GS07
+31 (43) G133C DFA DIVISION MANAGER I 1 GRADE GS07
+32 (44) G132C DFA PROGRAM MANAGER 3 GRADE GS07
+33 (45) G147C GRANTS COORDINATOR 5 GRADE GS07
+34 (46) A065C PAYROLL SERVICES COORDINATOR 1 GRADE GS07
+35 (47) C037C ADMINISTRATIVE ANALYST 5 GRADE GS06
+36 (48) A074C FISCAL SUPPORT SUPERVISOR 1 GRADE GS06
+4 03-18-2025 16:40:39 JAP009
+
+As Engrossed: H3/18/25 HB1124
+1 (49) G180C GRANTS ANALYST 9 GRADE GS06
+2 (50) A091C FISCAL SUPPORT ANALYST 1 GRADE GS05
+3 (51) D077C HELP DESK SPECIALIST 4 GRADE GS05
+4 (52) E051C STAFF DEVELOPMENT SPECIALIST 1 GRADE GS05
+5 (53) A098C FISCAL SUPPORT SPECIALIST 5 GRADE GS04
+6 MAX. NO. OF EMPLOYEES 207
+7
+8 SECTION 5. EXTRA HELP - BUDGET AND MANAGEMENT SERVICES. There is
+9 hereby authorized, for the Department of Finance and Administration - Budget
+10 and Management Services Division for the 2025-2026 fiscal year, the following
+11 maximum number of part-time or temporary employees, to be known as "Extra
+12 Help", payable from funds appropriated herein for such purposes: twelve (12)
+13 temporary or part-time employees, when needed, at rates of pay not to exceed
+14 those provided in the Uniform Classification and Compensation Act, or its
+15 successor, or this act for the appropriate classification.
+16
+17 SECTION 6. APPROPRIATION - BUDGET AND MANAGEMENT SERVICES - OPERATIONS.
+18 There is hereby appropriated, to the Department of Finance and
+19 Administration, to be payable from the State Central Services Fund, for
+20 personal services and operating expenses of the Department of Finance and
+21 Administration - Budget and Management Services Division for the fiscal year
+22 ending June 30, 2026, the following:
+23
+24 ITEM FISCAL YEAR
+25 NO. 2025-2026
+26 (01) REGULAR SALARIES $14,002,675
+27 (02) EXTRA HELP 130,000
+28 (03) PERSONAL SERVICES MATCHING 4,716,355
+29 (04) OVERTIME 5,000
+30 (05) MAINT. & GEN. OPERATION
+31 (A) OPER. EXPENSE 1,500,000
+32 (B) CONF. & TRAVEL 75,000
+33 (C) PROF. FEES 211,000
+34 (D) CAP. OUTLAY 100,000
+35 (E) DATA PROC. 0
+36 TOTAL AMOUNT APPROPRIATED $20,740,030
+5 03-18-2025 16:40:39 JAP009
+
+As Engrossed: H3/18/25 HB1124
+1
+2 SECTION 7. APPROPRIATION - BUDGET AND MANAGEMENT SERVICES -
+3 MISCELLANEOUS CASH. There is hereby appropriated, to the Department of
+4 Finance and Administration, to be payable from the cash fund deposited in the
+5 State Treasury as determined by the Chief Fiscal Officer of the State, for
+6 operating expenses of the Department of Finance and Administration - Budget
+7 and Management Services Division for the fiscal year ending June 30, 2026,
+8 the following:
+9
+10 ITEM FISCAL YEAR
+11 NO. 2025-2026
+12 (01) MAINT. & GEN. OPERATION
+13 (A) OPER. EXPENSE $35,000
+14 (B) CONF. & TRAVEL 0
+15 (C) PROF. FEES 5,000
+16 (D) CAP. OUTLAY 0
+17 (E) DATA PROC. 0
+18 (02) REFUNDS/REIMBURSEMENTS 300,000
+19 TOTAL AMOUNT APPROPRIATED $340,000
+20
+21 SECTION 8. EXTRA HELP - BUDGET AND MANAGEMENT SERVICES - VICTIMS OF
+22 CRIME JUSTICE ASSISTANCE - FEDERAL. There is hereby authorized, for the
+23 Department of Finance and Administration - Budget and Management Services
+24 Division for the 2025-2026 fiscal year, the following maximum number of part-
+25 time or temporary employees, to be known as "Extra Help", payable from funds
+26 appropriated herein for such purposes: one (1) temporary or part-time
+27 employees, when needed, at rates of pay not to exceed those provided in the
+28 Uniform Classification and Compensation Act, or its successor, or this act
+29 for the appropriate classification.
+30
+31 SECTION 9. APPROPRIATION - BUDGET AND MANAGEMENT SERVICES - VICTIMS OF
+32 CRIME JUSTICE ASSISTANCE - FEDERAL. There is hereby appropriated, to the
+33 Department of Finance and Administration - Budget and Management Services
+34 Division, to be payable from the federal funds as designated by the Chief
+35 Fiscal Officer of the State, for personal services, operating expenses and
+36 administration of federal funds received through the Federal Victims of Crime
+6 03-18-2025 16:40:39 JAP009
+
+As Engrossed: H3/18/25 HB1124
+1 Act, Stop Violence Against Women Act, and the Family Violence Prevention and
+2 Services Act for the fiscal year ending June 30, 2026, the following:
+3
+4 ITEM FISCAL YEAR
+5 NO. 2025-2026
+6 (01) REGULAR SALARIES $521,862
+7 (02) EXTRA HELP 6,272
+8 (03) PERSONAL SERVICES MATCHING 212,388
+9 (04) OVERTIME 2,500
+10 (05) MAINT. & GEN. OPERATION
+11 (A) OPER. EXPENSE 150,000
+12 (B) CONF. & TRAVEL 13,000
+13 (C) PROF. FEES 74,219
+14 (D) CAP. OUTLAY 0
+15 (E) DATA PROC. 0
+16 (06) GRANTS AND AID - STATEWIDE VIOLENCE
+17 PREVENTION ACTIVITIES 30,440,304
+18 (07) REFUNDS/REIMBURSEMENTS 78,125
+19 (08) GRANTS MGMT SYSTEM 200,000
+20 TOTAL AMOUNT APPROPRIATED $31,698,670
+21
+22 SECTION 10. APPROPRIATION - BUDGET AND MANAGEMENT SERVICES - VICTIMS OF
+23 CRIME JUSTICE ASSISTANCE - STATE. There is hereby appropriated, to the
+24 Department of Finance and Administration - Budget and Management Services
+25 Division, to be payable from the Miscellaneous Agencies Fund Account, for
+26 grants-in-aid to state agencies, local governments, and nonprofit
+27 organizations for matching funds to implement approved programs through the
+28 Victims of Crime Justice Assistance Program for the fiscal year ending June
+29 30, 2026, the following:
+30
+31 ITEM FISCAL YEAR
+32 NO. 2025-2026
+33 (01) VICTIMS OF CRIME JUSTICE ASSISTANCE
+34 PROGRAM MATCHING GRANTS $359,196
+35
+36 SECTION 11. APPROPRIATION - BUDGET AND MANAGEMENT SERVICES - DEPARTMENT
+7 03-18-2025 16:40:39 JAP009
+
+As Engrossed: H3/18/25 HB1124
+1 OF JUSTICE NON-VICTIM ASSISTANCE GRANTS - FEDERAL. There is hereby
+2 appropriated, to the Department of Finance and Administration - Budget and
+3 Management Services Division, to be payable from the federal funds as
+4 designated by the Chief Fiscal Officer of the State, for personal services,
+5 operating expenses and distribution of federal funds to state agencies, local
+6 governments and entities that support improvements in the State's criminal
+7 justice system for the fiscal year ending June 30, 2026, the following:
+8
+9 ITEM FISCAL YEAR
+10 NO. 2025-2026
+11 (01) REGULAR SALARIES $169,991
+12 (02) PERSONAL SERVICES MATCHING 81,485
+13 (03) MAINT. & GEN. OPERATION
+14 (A) OPER. EXPENSE 168,129
+15 (B) CONF. & TRAVEL 3,500
+16 (C) PROF. FEES 205,000
+17 (D) CAP. OUTLAY 0
+18 (E) DATA PROC. 0
+19 (04) GRANTS/AID - DEPT OF JUSTICE
+20 NON-VICTIM ASSISTANCE MATCHING GRANTS 4,000,000
+21 (05) REFUNDS/REIMBURSEMENTS 200,000
+22 TOTAL AMOUNT APPROPRIATED $4,828,105
+23
+24 SECTION 12. APPROPRIATION - BUDGET AND MANAGEMENT SERVICES - DEPARTMENT
+25 OF JUSTICE NON-VICTIM ASSISTANCE GRANTS - STATE. There is hereby
+26 appropriated, to the Department of Finance and Administration - Budget and
+27 Management Services Division, to be payable from the Miscellaneous Agencies
+28 Fund Account, for grants and aid to state agencies and local governments for
+29 matching funds and to implement or sustain approved drug law enforcement,
+30 violent offender, substance abuse and other non-victim assistance program
+31 grants for the fiscal year ending June 30, 2026, the following:
+32
+33 ITEM FISCAL YEAR
+34 NO. 2025-2026
+35 (01) DEPT OF JUSTICE NON-VICTIM ASSISTANCE
+36 MATCHING GRANTS $1,000,000
+8 03-18-2025 16:40:39 JAP009
+
+As Engrossed: H3/18/25 HB1124
+1
+2 SECTION 13. APPROPRIATION - BUDGET AND MANAGEMENT SERVICES -
+3 INFORMATION TECHNOLOGY. There is hereby appropriated, to the Department of
+4 Finance and Administration, to be payable from the State Central Services
+5 Fund, for personal services and operating expenses of the Department of
+6 Finance and Administration - Budget and Management Services Division for the
+7 fiscal year ending June 30, 2026, the following:
+8
+9 ITEM FISCAL YEAR
+10 NO. 2025-2026
+11 (01) INFORMATION TECHNOLOGY SERVICES $31,000,000
+12 (02) AASIS BILLINGS 15,200,000
+13 (03) IT APPRENTICESHIP PROGRAM 150,000
+14 TOTAL AMOUNT APPROPRIATED $46,350,000
+15
+16 SECTION 14. APPROPRIATION - BUDGET AND MANAGEMENT SERVICES - STATEWIDE
+17 PAYROLL PAYING. There is hereby appropriated, to the Department of Finance
+18 and Administration - Budget and Management Services Division, to be payable
+19 from the paying account as determined by the Chief Fiscal Officer of the
+20 State, for providing disbursement of personal services of the various state
+21 agencies as a result of the consolidation to one federal identification
+22 number for all state agencies in the State of Arkansas for the fiscal year
+23 ending June 30, 2026, the following:
+24
+25 ITEM FISCAL YEAR
+26 NO. 2025-2026
+27 (01) STATEWIDE PAYROLL PAYING $50,000
+28
+29 SECTION 15. APPROPRIATION - BUDGET AND MANAGEMENT SERVICES - DOMESTIC
+30 VIOLENCE SHELTER FUND. There is hereby appropriated, to the Department of
+31 Finance and Administration, to be payable from the Domestic Violence Shelter
+32 Fund, for statewide grants awarded to a statewide domestic violence entity
+33 under the Arkansas Domestic Violence Shelter Act of the Department of Finance
+34 and Administration - Budget and Management Services Division for the fiscal
+35 year ending June 30, 2026, the following:
+36
+9 03-18-2025 16:40:39 JAP009
+
+As Engrossed: H3/18/25 HB1124
+1 ITEM FISCAL YEAR
+2 NO. 2025-2026
+3 (01) DOMESTIC VIOLENCE SHELTER GRANTS $100,000
+4
+5 SECTION 16. APPROPRIATION - BUDGET AND MANAGEMENT SERVICES - PROJECT
+6 SAFE NEIGHBORHOODS. There is hereby appropriated, to the Department of
+7 Finance and Administration, to be payable from the federal funds as
+8 designated by the Chief Fiscal Officer of the State, for personal services,
+9 operating expenses, and grants and aid related to Project Safe Neighborhoods
+10 of the Department of Finance and Administration - Budget and Management
+11 Services Division for the fiscal year ending June 30, 2026, the following:
+12
+13 ITEM FISCAL YEAR
+14 NO. 2025-2026
+15 (01) REGULAR SALARIES $27,467
+16 (02) PERSONAL SERVICES MATCHING 13,976
+17 (03) MAINT. & GEN. OPERATION
+18 (A) OPER. EXPENSE 4,946
+19 (B) CONF. & TRAVEL 11,320
+20 (C) PROF. FEES 0
+21 (D) CAP. OUTLAY 0
+22 (E) DATA PROC. 0
+23 (04) GRANTS & AID - PROJECT SAFE
+24 NEIGHBORHOODS 349,550
+25 TOTAL AMOUNT APPROPRIATED $407,259
+26
+27 SECTION 17. APPROPRIATION - BUDGET AND MANAGEMENT SERVICES -
+28 COMPREHENSIVE OPIOID ABUSE PROGRAM. There is hereby appropriated, to the
+29 Department of Finance and Administration, to be payable from the federal
+30 funds as designated by the Chief Fiscal Officer of the State, for personal
+31 services, operating expenses, and grants and aid related to the Comprehensive
+32 Opioid Abuse Program of the Department of Finance and Administration - Budget
+33 and Management Services Division for the fiscal year ending June 30, 2026,
+34 the following:
+35
+36 ITEM FISCAL YEAR
+10 03-18-2025 16:40:39 JAP009
+
+As Engrossed: H3/18/25 HB1124
+1 NO. 2025-2026
+2 (01) REGULAR SALARIES $158,475
+3 (02) PERSONAL SERVICES MATCHING 112,291
+4 (03) MAINT. & GEN. OPERATION
+5 (A) OPER. EXPENSE 295,597
+6 (B) CONF. & TRAVEL 74,902
+7 (C) PROF. FEES 263,290
+8 (D) CAP. OUTLAY 0
+9 (E) DATA PROC. 0
+10 (04) GRANTS & AID - COMPREHENSIVE OPIOID
+11 ABUSE PROGRAM 6,955,800
+12 TOTAL AMOUNT APPROPRIATED $7,860,355
+13
+14 SECTION 18. APPROPRIATION - CHILD ABUSE AND NEGLECT PROGRAMS. There is
+15 hereby appropriated, to the Department of Finance and Administration, to be
+16 payable from the Miscellaneous Agencies Fund Account, for child abuse and
+17 neglect expenses and grants for the fiscal year ending June 30, 2026, the
+18 following:
+19
+20 ITEM FISCAL YEAR
+21 NO. 2025-2026
+22 (01) CHILD ABUSE AND NEGLECT PROGRAM
+23 EXPENSES $5,251,521
+24
+25 SECTION 19. APPROPRIATION - CHILDREN'S ADVOCACY CENTERS OF ARKANSAS.
+26 There is hereby appropriated, to the Department of Finance and
+27 Administration, to be payable from the Arkansas Children's Advocacy Center
+28 Fund, for grants to children's advocacy centers in Arkansas for the fiscal
+29 year ending June 30, 2026, the following:
+30
+31 ITEM FISCAL YEAR
+32 NO. 2025-2026
+33 (01) CHILDREN'S ADVOCACY CENTERS GRANTS $500,000
+34
+35 SECTION 20. REGULAR SALARIES - BUDGET AND MANAGEMENT SERVICES -
+36 DEVELOPMENTAL DISABILITIES PLANNING COUNCIL. There is hereby established for
+11 03-18-2025 16:40:39 JAP009
+
+As Engrossed: H3/18/25 HB1124
+1 the Department of Finance and Administration - Budget and Management Services
+2 Division for the 2025-2026 fiscal year, the following maximum number of
+3 regular employees.
+4
+5 Maximum Annual
+6 Maximum Salary Rate
+7 Item Class No. of Fiscal Year
+8 No. Code Title Employees 2025-2026
+9 (1) U127U EXEC DIR DEVLPMTL DISABILITIES COUNCIL 1 GRADE GS11
+10 (2) G109C GRANTS MANAGER 1 GRADE GS09
+11 (3) G147C GRANTS COORDINATOR 2 GRADE GS07
+12 (4) C022C BUSINESS OPERATIONS SPECIALIST 1 GRADE GS05
+13 MAX. NO. OF EMPLOYEES 5
+14
+15 SECTION 21. APPROPRIATION - BUDGET AND MANAGEMENT SERVICES -
+16 DEVELOPMENTAL DISABILITIES PLANNING COUNCIL - STATE. There is hereby
+17 appropriated, to the Department of Finance and Administration, to be payable
+18 from the Miscellaneous Agencies Fund Account, for personal services of the
+19 Department of Finance and Administration - Budget and Management Services
+20 Division - Developmental Disabilities Planning Council - State for the fiscal
+21 year ending June 30, 2026, the following:
+22
+23 ITEM FISCAL YEAR
+24 NO. 2025-2026
+25 (01) REGULAR SALARIES $28,407
+26 (02) PERSONAL SERVICES MATCHING 9,118
+27 TOTAL AMOUNT APPROPRIATED $37,525
+28
+29 SECTION 22. APPROPRIATION - BUDGET AND MANAGEMENT SERVICES -
+30 DEVELOPMENTAL DISABILITIES PLANNING COUNCIL - FEDERAL. There is hereby
+31 appropriated, to the Department of Finance and Administration, to be payable
+32 from the federal funds as designated by the Chief Fiscal Officer of the
+33 State, for personal services, operating experiences and grants and aid of the
+34 Department of Finance and Administration - Budget and Management Services
+35 Division - Developmental Disabilities Planning Council - Federal for the
+36 fiscal year ending June 30, 2026, the following:
+12 03-18-2025 16:40:39 JAP009
+
+As Engrossed: H3/18/25 HB1124
+1
+2 ITEM FISCAL YEAR
+3 NO. 2025-2026
+4 (01) REGULAR SALARIES $282,710
+5 (02) PERSONAL SERVICES MATCHING 103,389
+6 (03) MAINT. & GEN. OPERATION
+7 (A) OPER. EXPENSE 259,025
+8 (B) CONF. & TRAVEL 10,843
+9 (C) PROF. FEES 120,000
+10 (D) CAP. OUTLAY 0
+11 (E) DATA PROC. 0
+12 (04) GRANTS AND AID 1,190,929
+13 TOTAL AMOUNT APPROPRIATED $1,966,896
+14
+15 SECTION 23. REGULAR SALARIES - REVENUE SERVICES DIVISION. There is
+16 hereby established for the Department of Finance and Administration - Revenue
+17 Services Division for the 2025-2026 fiscal year, the following maximum number
+18 of regular employees.
+19
+20 Maximum Annual
+21 Maximum Salary Rate
+22 Item Class No. of Fiscal Year
+23 No. Code Title Employees 2025-2026
+24 (1) N003N DFA DEP DIR AND COMMISSIONER OF REVENUE 1 GRADE SE03
+25 (2) N035N DFA MOTOR VEHICLE ADMINISTRATOR 1 GRADE SE02
+26 (3) N004N DFA REV ASST COMMISSIONER POLICY & LEGAL 1 GRADE SE02
+27 (4) G002N DFA REVENUE CHIEF COUNSEL 1 GRADE SE02
+28 (5) N030N DFA STATE REVENUE OFFICE ADMINISTRATOR 1 GRADE SE02
+29 (6) N029N DFA TAX ADMINISTRATOR 2 GRADE SE02
+30 (7) N028N DFA TAX AUDIT ADMINISTRATOR 1 GRADE SE02
+31 (8) D054C COMPUTER SUPPORT COORDINATOR 1 GRADE IT05
+32 (9) D056C SYSTEMS COORDINATION ANALYST 1 GRADE IT05
+33 (10) D084C COMPUTER OPERATOR 1 GRADE IT02
+34 (11) A003C DFA REVENUE ASSISTANT ADMINISTRATOR 12 GRADE GS14
+35 (12) A006C DFA REVENUE TAX DIVISION MANAGER 11 GRADE GS13
+36 (13) R040C DFA STATEWIDE PROGRAM MANAGER 1 GRADE GS13
+13 03-18-2025 16:40:39 JAP009
+
+As Engrossed: H3/18/25 HB1124
+1 (14) G004C MANAGING ATTORNEY 6 GRADE GS13
+2 (15) G310C TAX APPEALS STAFF ATTORNEY 4 GRADE GS13
+3 (16) G025C ATTORNEY SUPERVISOR 4 GRADE GS12
+4 (17) G024C DEPARTMENT ADMINISTRATIVE LAW JUDGE 3 GRADE GS12
+5 (18) A014C FISCAL DIVISION MANAGER 5 GRADE GS12
+6 (19) G047C ATTORNEY SPECIALIST 12 GRADE GS11
+7 (20) G044C DFA REVENUE PROBLEM RESOLUTION OFFICER 2 GRADE GS11
+8 (21) R041C DFA STATEWIDE PROGRAM COORDINATOR 6 GRADE GS11
+9 (22) A033C TAX AUDITOR SUPERVISOR 21 GRADE GS11
+10 (23) G061C ACD DEPUTY DIRECTOR 1 GRADE GS10
+11 (24) A049C DFA REVENUE OFFICE DISTRICT MANAGER 5 GRADE GS10
+12 (25) G045C DFA DIVISION MANAGER III 10 GRADE GS09
+13 (26) T106C DFA REVENUE SECURITY SUPERVISOR 1 GRADE GS09
+14 (27) R043C DFA STATEWIDE PROGRAM SPECIALIST 1 GRADE GS09
+15 (28) P004C PUBLIC INFORMATION MANAGER 1 GRADE GS09
+16 (29) A054C TAX AUDITOR II 172 GRADE GS09
+17 (30) G084C DFA DIVISION MANAGER II 7 GRADE GS08
+18 (31) G133C DFA DIVISION MANAGER I 18 GRADE GS07
+19 (32) A069C DFA REVENUE OFFICE ASST DISTRICT MNGR 5 GRADE GS07
+20 (33) T032C DFA REVENUE SECURITY COORDINATOR 4 GRADE GS07
+21 (34) S017C MAINTENANCE COORDINATOR 2 GRADE GS07
+22 (35) E040C STAFF DEVELOPMENT COORDINATOR 1 GRADE GS07
+23 (36) A059C TAX AUDITOR 2 GRADE GS07
+24 (37) C037C ADMINISTRATIVE ANALYST 6 GRADE GS06
+25 (38) A077C DFA LOCAL REVENUE OFFICE MANAGER 53 GRADE GS06
+26 (39) E033C DFA ORGANIZATIONAL DEVELOPMENT SPEC 1 GRADE GS06
+27 (40) A074C FISCAL SUPPORT SUPERVISOR 4 GRADE GS06
+28 (41) C029C HEARING OFFICER 26 GRADE GS06
+29 (42) G179C LEGAL SERVICES SPECIALIST 5 GRADE GS06
+30 (43) B076C RESEARCH PROJECT ANALYST 2 GRADE GS06
+31 (44) E046C TRAINING INSTRUCTOR 1 GRADE GS06
+32 (45) S041C BOILER OPERATOR 6 GRADE GS05
+33 (46) C022C BUSINESS OPERATIONS SPECIALIST 2 GRADE GS05
+34 (47) A094C DFA LOCAL REVENUE OFFICE SUPERVISOR 88 GRADE GS05
+35 (48) C042C DFA REVENUE SUPERVISOR 33 GRADE GS05
+36 (49) A091C FISCAL SUPPORT ANALYST 20 GRADE GS05
+14 03-18-2025 16:40:39 JAP009
+
+As Engrossed: H3/18/25 HB1124
+1 (50) R032C HUMAN RESOURCES PROGRAM REPRESENTATIVE 1 GRADE GS05
+2 (51) V015C PURCHASING SPECIALIST 1 GRADE GS05
+3 (52) C056C ADMINISTRATIVE SPECIALIST III 12 GRADE GS04
+4 (53) C048C DFA SUPERVISOR 92 GRADE GS04
+5 (54) A098C FISCAL SUPPORT SPECIALIST 2 GRADE GS04
+6 (55) A102C FISCAL SUPPORT TECHNICIAN 6 GRADE GS04
+7 (56) C046C LEGAL SUPPORT SPECIALIST 2 GRADE GS04
+8 (57) S046C MAINTENANCE TECHNICIAN 1 GRADE GS04
+9 (58) C073C ADMINISTRATIVE SPECIALIST II 28 GRADE GS03
+10 (59) C059C DFA SERVICE REPRESENTATIVE 780 GRADE GS03
+11 (60) S064C SKILLED TRADES HELPER 2 GRADE GS03
+12 (61) X172C TAX INVESTIGATOR 33 GRADE GS03
+13 (62) S087C INSTITUTIONAL SERVICES ASSISTANT 10 GRADE GS01
+14 MAX. NO. OF EMPLOYEES 1,545
+15
+16 SECTION 24. EXTRA HELP - REVENUE SERVICES DIVISION. There is hereby
+17 authorized, for the Department of Finance and Administration - Revenue
+18 Services Division for the 2025-2026 fiscal year, the following maximum number
+19 of part-time or temporary employees, to be known as "Extra Help", payable
+20 from funds appropriated herein for such purposes: eighty (80) temporary or
+21 part-time employees, when needed, at rates of pay not to exceed those
+22 provided in the Uniform Classification and Compensation Act, or its
+23 successor, or this act for the appropriate classification.
+24
+25 SECTION 25. APPROPRIATION - REVENUE SERVICES DIVISION - OPERATIONS.
+26 There is hereby appropriated, to the Department of Finance and
+27 Administration, to be payable from the State Central Services Fund, for
+28 personal services and operating expenses of the Department of Finance and
+29 Administration - Revenue Services Division for the fiscal year ending June
+30 30, 2026, the following:
+31
+32 ITEM FISCAL YEAR
+33 NO. 2025-2026
+34 (01) REGULAR SALARIES $68,627,649
+35 (02) EXTRA HELP 400,000
+36 (03) PERSONAL SERVICES MATCHING 28,257,216
+15 03-18-2025 16:40:39 JAP009
+
+As Engrossed: H3/18/25 HB1124
+1 (04) OVERTIME 500,000
+2 (05) MAINT. & GEN. OPERATION
+3 (A) OPER. EXPENSE 24,990,000
+4 (B) CONF. & TRAVEL 106,000
+5 (C) PROF. FEES 100,000
+6 (D) CAP. OUTLAY 600,000
+7 (E) DATA PROC. 0
+8 TOTAL AMOUNT APPROPRIATED $123,580,865
+9
+10 SECTION 26. APPROPRIATION REVENUE SERVICES DIVISION - DRIVER
+11 SERVICES/MOTOR VEHICLES PROGRAM. There is hereby appropriated, to the
+12 Department of Finance and Administration, to be payable from the Commercial
+13 Driver License Fund, for personal services and operating expenses of the
+14 Department of Finance and Administration - Revenue Services Division - Driver
+15 Services/Motor Vehicles Program for the fiscal year ending June 30, 2026, the
+16 following:
+17
+18 ITEM FISCAL YEAR
+19 NO. 2025-2026
+20 (01) REGULAR SALARIES $330,510
+21 (02) PERSONAL SERVICES MATCHING 152,309
+22 (03) OVERTIME 30,000
+23 (04) MAINT. & GEN. OPERATION
+24 (A) OPER. EXPENSE 5,352,352
+25 (B) CONF. & TRAVEL 0
+26 (C) PROF. FEES 0
+27 (D) CAP. OUTLAY 0
+28 (E) DATA PROC. 0
+29 TOTAL AMOUNT APPROPRIATED $5,865,171
+30
+31 SECTION 27. APPROPRIATION - REVENUE SERVICES DIVISION - INDIVIDUAL
+32 INCOME TAX AND AD VALOREM PROPERTY TAX REBATES. There is hereby
+33 appropriated, to the Department of Finance and Administration - Revenue
+34 Services Division, to be payable from the Individual Income Tax Withholding
+35 Fund, for the purpose of making individual income tax refunds of taxes
+36 withheld under the provisions of Arkansas Code beginning at 26-51-901 and
+16 03-18-2025 16:40:39 JAP009
+
+As Engrossed: H3/18/25 HB1124
+1 property tax rebates under Amendment 79 of the Arkansas Constitution for the
+2 fiscal year ending June 30, 2026, the following:
+3
+4 ITEM FISCAL YEAR
+5 NO. 2025-2026
+6 (01) INDIVIDUAL INCOME TAX & AD VALOREM
+7 PROPERTY TAX REBATES - REFUND/REIMB $780,000,000
+8
+9 SECTION 28. APPROPRIATION - REVENUE SERVICES DIVISION - CORPORATE
+10 INCOME TAX. There is hereby appropriated, to the Department of Finance and
+11 Administration - Revenue Services Division, to be payable from the Corporate
+12 Income Tax Withholding Fund, for the purpose of making corporate income tax
+13 refunds of taxes withheld under the provisions of Arkansas Code 26-51-901 for
+14 the fiscal year ending June 30, 2026, the following:
+15
+16 ITEM FISCAL YEAR
+17 NO. 2025-2026
+18 (01) CORPORATE INCOME TAX -
+19 REFUND/REIMBURSEMENTS $200,000,000
+20
+21 SECTION 29. APPROPRIATION - REVENUE SERVICES DIVISION - GASOLINE TAX
+22 REFUNDS. There is hereby appropriated, to the Department of Finance and
+23 Administration - Revenue Services Division, to be payable from the Gasoline
+24 Tax Refund Fund, for paying the valid gasoline tax refund claims of
+25 agricultural users and bus drivers in the manner and to the extent provided
+26 by law for the fiscal year ending June 30, 2026, the following:
+27
+28 ITEM FISCAL YEAR
+29 NO. 2025-2026
+30 (01) GASOLINE TAX REFUND CLAIMS $1,500,000
+31
+32 SECTION 30. APPROPRIATION - REVENUE SERVICES DIVISION - INTERSTATE
+33 MOTOR FUEL TAX REFUNDS. There is hereby appropriated, to the Department of
+34 Finance and Administration - Revenue Services Division, to be payable from
+35 the Interstate Motor Fuel Tax Refund Fund, for paying refunds to interstate
+36 users of motor fuels and special motor fuels as authorized by law for the
+17 03-18-2025 16:40:39 JAP009
+
+As Engrossed: H3/18/25 HB1124
+1 fiscal year ending June 30, 2026, the following:
+2
+3 ITEM FISCAL YEAR
+4 NO. 2025-2026
+5 (01) INTERSTATE MOTOR FUEL TAX -
+6 REFUND/REIMBURSEMENTS $10,000,000
+7
+8 SECTION 31. APPROPRIATION - REVENUE SERVICES DIVISION - MISCELLANEOUS
+9 TAX REFUNDS. There is hereby appropriated, to the Department of Finance and
+10 Administration - Revenue Services Division, to be payable from the
+11 Miscellaneous Revolving Fund, for making refunds of taxes erroneously paid
+12 and for refunds of the gross receipts taxes paid upon tickets to athletic
+13 events pursuant to Arkansas Code 26-52-412 and for other purposes as
+14 authorized by law for the fiscal year ending June 30, 2026, the following:
+15
+16 ITEM FISCAL YEAR
+17 NO. 2025-2026
+18 (01) MISCELLANEOUS TAX -
+19 REFUND/REIMBURSEMENTS $175,000,000
+20
+21 SECTION 32. APPROPRIATION - REVENUE SERVICES DIVISION - SPECIAL PLATES.
+22 There is hereby appropriated, to the Department of Finance and Administration
+23 - Revenue Services Division, to be payable from the cash fund deposited in
+24 the State Treasury as determined by the Chief Fiscal Officer of the State,
+25 for administrative and operating expenses of disbursing the Motor Vehicle
+26 Special License Plate fees to the proper entities for the fiscal year ending
+27 June 30, 2026, the following:
+28
+29 ITEM FISCAL YEAR
+30 NO. 2025-2026
+31 (01) MV SPECIAL PLATES-ADMINISTRATIVE &
+32 OPERATING EXPENSES $5,000,000
+33
+34 SECTION 33. APPROPRIATION - REVENUE SERVICES DIVISION - REVENUE
+35 MISCELLANEOUS CASH. There is hereby appropriated, to the Department of
+36 Finance and Administration - Revenue Services Division, to be payable from
+18 03-18-2025 16:40:39 JAP009
+
+As Engrossed: H3/18/25 HB1124
+1 the cash fund deposited in the State Treasury as determined by the Chief
+2 Fiscal Officer of the State, for distribution of fees and service charges
+3 collected on behalf of other entities and for other purposes as authorized by
+4 law for the fiscal year ending June 30, 2026, the following:
+5
+6 ITEM FISCAL YEAR
+7 NO. 2025-2026
+8 (01) DISTRIBUTION OF FEES / SERVICE CHARGES $100,000
+9
+10 SECTION 34. SPECIAL LANGUAGE. NOT TO BE INCORPORATED INTO THE ARKANSAS
+11 CODE NOR PUBLISHED SEPARATELY AS SPECIAL, LOCAL AND TEMPORARY LAW. SHARED
+12 SERVICES. (a)(1) The Chief Fiscal Officer of the State may create a Shared
+13 Services paying accounts on his or her books and on the books of the
+14 Treasurer of State and the Auditor of State for the payment of personal
+15 services and operating expenses in the Shared Services Paying Account
+16 Appropriation by the Department of Finance and Administration.
+17 (2) The Chief Fiscal Officer of the State shall direct the transfer
+18 of funds and appropriations to the Shared Services Paying Account
+19 appropriation section of this act on the books of the Treasurer of State, the
+20 Auditor of State, and the Chief Fiscal Officer of the State.
+21 (3) The transfer authority provided to the department in
+22 subdivision (a)(2) of this section may be used to make transfers only within
+23 the department's appropriation act or between other appropriation acts
+24 authorized for the department.
+25 (4) The provisions of this section shall be in effect from the date of
+26 passage through June 30, 2025 2026.
+27
+28 SECTION 35. SPECIAL LANGUAGE. NOT TO BE INCORPORATED INTO THE ARKANSAS
+29 CODE NOR PUBLISHED SEPARATELY AS SPECIAL, LOCAL AND TEMPORARY LAW. BUDGET
+30 AND MANAGEMENT SERVICES - DEPARTMENT OF JUSTICE NON-VICTIM ASSISTANCE GRANTS.
+31 The funds appropriated in this Act for Department of Justice Non-Victim
+32 Assistance Matching Grants shall be used for matching funds for administering
+33 the Federal Grants provided in this Act for the Department of Justice Non-
+34 Victim Assistance Grants. The Department of Finance and Administration -
+35 Budget and Management Services Division is hereby authorized to call upon all
+36 state agencies to assist in the implementation of the Department of Justice
+19 03-18-2025 16:40:39 JAP009
+
+As Engrossed: H3/18/25 HB1124
+1 Non-Victim Assistance Grants. However, if no Federal Grants are available to
+2 be matched with these funds, the funding provided from the Miscellaneous
+3 Agencies Fund Account may be used to provide funding for Drug Task Force
+4 operations across the State. The funds appropriated in this Act for
+5 Department of Justice Non-Victim Assistance Matching Grants may be used to
+6 provide one hundred percent (100%) of the required matching funds for state
+7 agencies and to provide up to sixty percent (60%) of the required matching
+8 funds for local governments should Federal Grants be available. Such funds
+9 and appropriation may be transferred to eligible state agencies or paid to
+10 local governments to be used for matching federal funds for administration of
+11 the Department of Justice Non-Victim Assistance Grants or paid to local
+12 governments to be used to fund Drug Task Force operations in such amounts as
+13 determined by the Arkansas Alcohol and Drug Abuse Coordinating Council or
+14 other oversight agency as designated by the Governor. Any unobligated
+15 balances in funds in this Act for the Department of Justice Non-Victim
+16 Assistance Grants may be used by state agencies as matching funds for other
+17 U.S. Department of Justice Grants in an amount determined by the Chief Fiscal
+18 Officer of the State.
+19 Any unexpended balances in funds provided for Department of Justice Non-
+20 Victim Assistance Matching Grants in this act remaining on June 30, 2024
+21 2025, may be carried forward and used for the same purpose during the fiscal
+22 year ending June 30, 2025 2026.
+23 The provisions of this section shall be in effect only from July 1, 2024
+24 2025 through June 30, 2025 2026.
+25
+26 SECTION 36. SPECIAL LANGUAGE. NOT TO BE INCORPORATED INTO THE ARKANSAS
+27 CODE NOR PUBLISHED SEPARATELY AS SPECIAL, LOCAL AND TEMPORARY LAW. REVENUE
+28 SERVICES DIVISION - APPROPRIATION TRANSFERS. The Secretary of the Department
+29 of Finance and Administration is authorized to transfer appropriation between
+30 refund line item appropriations in this Act. The Secretary of the Department
+31 of Finance and Administration shall immediately report any such transfers to
+32 the Arkansas Legislative Council or Joint Budget Committee. Such report
+33 shall contain the amounts transferred and the reasons for the same.
+34 The provisions of this section shall be in effect only from July 1, 2024
+35 2025 through June 30, 2025 2026.
+36
+20 03-18-2025 16:40:39 JAP009
+
+As Engrossed: H3/18/25 HB1124
+1 SECTION 37. SPECIAL LANGUAGE. NOT TO BE INCORPORATED INTO THE ARKANSAS
+2 CODE NOR PUBLISHED SEPARATELY AS SPECIAL, LOCAL AND TEMPORARY LAW. REVENUE
+3 SERVICES DIVISION - EXTRA HELP EXEMPTION. Extra Help positions authorized
+4 herein are specifically exempt from limitation of hours, either by act or
+5 regulation. Provided, however, when a temporary or part-time employee is
+6 employed by the Department of Finance and Administration - Revenue Services
+7 Division for a period of time exceeding seven (7) months, a report of such
+8 shall be filed with the Arkansas Legislative Council or Joint Budget
+9 Committee.
+10 The provisions of this section shall be in effect only from July 1, 2024
+11 2025 through June 30, 2025 2026.
+12
+13 SECTION 38. SPECIAL LANGUAGE. NOT TO BE INCORPORATED INTO THE ARKANSAS
+14 CODE NOR PUBLISHED SEPARATELY AS SPECIAL, LOCAL AND TEMPORARY LAW. REVENUE
+15 SERVICES DIVISION - AUTHORITY TO EMPLOY CERTIFIED LAW ENFORCEMENT OFFICERS.
+16 The Secretary of the Department of Finance and Administration is authorized
+17 to employ certified law enforcement officers and specialized police personnel
+18 as certified under § 12-9-101 et seq. The certified law enforcement officers
+19 and specialized police personnel employed under this section shall be
+20 responsible for maintaining order and providing for the security, protection,
+21 and safety of the Department of Finance and Administration buildings,
+22 grounds, property, employees and customers. The certified law enforcement
+23 officer shall have the powers, duties, privileges, and immunities of a
+24 certified law enforcement officer.
+25 The following two classifications shall be used by the agency for
+26 security, protection, and safety personnel:
+27 Maximum Salary Rate
+28 Item Class No. of Fiscal Year
+29 No. Code Title Employees 2024-2025 2025-2026
+30 (1) T106C DFA REVENUE SECURITY SUPERVISOR 1 GRADE GS09
+31 (2) T032C DFA REVENUE SECURITY COORDINATOR 4 GRADE GS07
+32 MAX. NO. OF EMPLOYEES 5
+33
+34 Department of Finance and Administration Alcoholic Beverage Control
+35 Enforcement Division will manage training and certification of the certified
+36 law enforcement officers and specialized police personnel and maintain all
+21 03-18-2025 16:40:39 JAP009
+
+As Engrossed: H3/18/25 HB1124
+1 required documentation.
+2 The provisions of this section shall be in effect only from July 1, 2024
+3 2025 through June 30, 2025 2026.
+4
+5 SECTION 39. COMPLIANCE WITH OTHER LAWS. Disbursement of funds
+6 authorized by this act shall be limited to the appropriation for such agency
+7 and funds made available by law for the support of such appropriations; and
+8 the restrictions of the State Procurement Law, the General Accounting and
+9 Budgetary Procedures Law, the Revenue Stabilization Law, the Regular Salary
+10 Procedures and Restrictions Act, or their successors, and other fiscal
+11 control laws of this State, where applicable, and regulations promulgated by
+12 the Department of Finance and Administration, as authorized by law, shall be
+13 strictly complied with in disbursement of said funds.
+14
+15 SECTION 40. LEGISLATIVE INTENT. It is the intent of the General
+16 Assembly that any funds disbursed under the authority of the appropriations
+17 contained in this act shall be in compliance with the stated reasons for
+18 which this act was adopted, as evidenced by the Agency Requests, Executive
+19 Recommendations and Legislative Recommendations contained in the budget
+20 manuals prepared by the Department of Finance and Administration, letters, or
+21 summarized oral testimony in the official minutes of the Arkansas Legislative
+22 Council or Joint Budget Committee which relate to its passage and adoption.
+23
+24 SECTION 41. EMERGENCY CLAUSE. It is found and determined by the
+25 General Assembly, that the Constitution of the State of Arkansas prohibits
+26 the appropriation of funds for more than a one (1) year period; that the
+27 effectiveness of this Act on July 1, 2025 is essential to the operation of
+28 the agency for which the appropriations in this Act are provided, and that in
+29 the event of an extension of the legislative session, the delay in the
+30 effective date of this Act beyond July 1, 2025 could work irreparable harm
+31 upon the proper administration and provision of essential governmental
+32 programs. Therefore, an emergency is hereby declared to exist and this Act
+33 being necessary for the immediate preservation of the public peace, health
+34 and safety shall be in full force and effect from and after July 1, 2025.
+35
+36 /s/Joint Budget Committee
+22 03-18-2025 16:40:39 JAP009
+
+[DELETED:  A      A A A 3   A A 2    B   S e S r                   ]
+[DELETED:  H2 0                                               S f 2 e h n C a   S a f e]
+[DELETED:  H3 0 f  I   ( ( ( (               S h a m                                 ]
+[DELETED:  H4 0                                                                        ]
+[DELETED:  H5 0               S h a m H t t s   S T A p A e  I   ( ( ( ( (            ]
+[DELETED:  H6 0   S M F S o a t  I   (           (     S C D D t a e U f   S C D D F a]
+[DELETED:  H7 0 A S  I   ( ( ( ( (           (   ( (     S C D D g o V 3  I   (     S]
+[DELETED:  H8 0 O a M d o g j  I   ( ( (           (   (     S O a M F m v g  I   (  ]
+[DELETED:  H9 0   S I F F F f  I   ( ( (     S P a f S a n e  I   (   S V F F u a y ]
+[DELETED:  H1 0 I   (   S S F d o o S  I   ( ( (           (       S C D f s O a t  I]
+[DELETED:  H1 0   ( ( (           (       S h p n f  I   (     S T A F y  I   (   S D]
+[DELETED:  H1 0 t D r                      S D a f D D y  I   ( (     S D a f S D D f]
+[DELETED:  H1 0  I   ( ( (           (     S h S o                                   ]
+[DELETED:  H1 0                                                                        ]
+[DELETED:  H1 0                               S a S o f p p s   S T A p A 3  I   ( ( (]
+[DELETED:  H1 0 ( (               S S D D D S f  I   ( ( ( (               S I a S F w]
+[DELETED:  H1 0 p f  I   (     S I A I r t  I   (     S R A T a b  I   (   S M F t u]
+[DELETED:  H1 0 f  I   (     S T A M a e a  I   (     S T - t f S J  I   (     S M F]
+[DELETED:  H1 0 t F c l  I   (   S C S S T s A   o a A   s t a   p   S C A T A t V B s]
+[DELETED:  H2 0 N b A o D p a f a l t g d o b A U O A V 2 y   2   S C S o r o t s   2 ]
+[DELETED:  H2 0  S C S h r e D s C   2   S C S T t a a r a g o c   s                E l]
+[DELETED:  H2 0 r   2   S a a t B P c t s   S A c w R m s C   S G t e t t e u p b a  /]

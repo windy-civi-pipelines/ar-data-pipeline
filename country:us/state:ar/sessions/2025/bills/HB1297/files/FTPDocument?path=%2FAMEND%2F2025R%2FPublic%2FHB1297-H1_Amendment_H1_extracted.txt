@@ -1,0 +1,67 @@
+Title: ______________________________________________________________________
+Official Title: ______________________________________________________________________
+Number of Sections: 1
+Source: versions - Amendment H1
+Media Type: application/pdf
+Strikethrough Detection: 1 sections found
+
+================================================================================
+
+Section 1:
+Hall of the House of Representatives
+95th General Assembly - Regular Session, 2025
+Amendment Form
+Subtitle of House Bill 1297
+CONCERNING ARTIFICIAL INTELLIGENCE, ALGORITHMS, AND OTHER AUTOMATED
+TECHNOLOGIES; AND TO REGULATE CERTAIN PRACTICES OF HEALTHCARE
+INSURERS.
+______________________________________________________________________
+Amendment No. 1 to House Bill 1297
+Amend House Bill 1297 as originally introduced:
+Page 2, delete lines 8 through 11, and substitute the following:
+"(B) "Health benefit plan" includes indemnity and managed
+care plans."
+AND
+Page 2, delete lines 27 and 28, and substitute the following:
+"(ix) A specified disease plan;
+(x) A long-term-care-only plan; or
+(xi) A nonfederal governmental plan as defined in 29
+U.S.C. § 1002(32), as it existed on January 1, 2025;"
+*.ANS296*
+The Amendment was read ________________________________________________________________________________
+By: Representative L. Johnson
+ANS/ANS - 02-26-2025 07:59:54 _________________________
+ANS296 Chief Clerk
+[DELETED:  _ CA    "   "   (   (]
+
+
+================================================================================
+
+Raw Text:
+Hall of the House of Representatives
+95th General Assembly - Regular Session, 2025
+Amendment Form
+______________________________________________________________________
+Subtitle of House Bill 1297
+CONCERNING ARTIFICIAL INTELLIGENCE, ALGORITHMS, AND OTHER AUTOMATED
+TECHNOLOGIES; AND TO REGULATE CERTAIN PRACTICES OF HEALTHCARE
+INSURERS.
+______________________________________________________________________
+Amendment No. 1 to House Bill 1297
+Amend House Bill 1297 as originally introduced:
+Page 2, delete lines 8 through 11, and substitute the following:
+"(B) "Health benefit plan" includes indemnity and managed
+care plans."
+AND
+Page 2, delete lines 27 and 28, and substitute the following:
+"(ix) A specified disease plan;
+(x) A long-term-care-only plan; or
+(xi) A nonfederal governmental plan as defined in 29
+U.S.C. § 1002(32), as it existed on January 1, 2025;"
+*.ANS296*
+The Amendment was read ________________________________________________________________________________
+By: Representative L. Johnson
+ANS/ANS - 02-26-2025 07:59:54 _________________________
+ANS296 Chief Clerk
+
+[DELETED:  _ CA    "   "   (   (]

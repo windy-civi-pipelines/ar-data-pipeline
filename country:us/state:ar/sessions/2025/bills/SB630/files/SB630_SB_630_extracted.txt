@@ -1,0 +1,259 @@
+Title: Stricken language would be deleted from and underlined language would be added to present law.
+Official Title: Stricken language would be deleted from and underlined language would be added to present law.
+Number of Sections: 1
+Source: versions - SB 630
+Media Type: application/pdf
+Strikethrough Detection: 3 sections found
+
+================================================================================
+
+Section 1:
+1 State of Arkansas
+A Bill
+2 95th General Assembly
+3 Regular Session, 2025 SENATE BILL 630
+4
+5 By: Senator B. Davis
+6
+7
+For An Act To Be Entitled
+8
+9 AN ACT TO REQUIRE ONLY A COURT TO FIX PUNISHMENT IF A
+10 DEFENDANT IS CHARGED WITH A FELONY OR MISDEMEANOR; TO
+11 AMEND THE LAW CONCERNING BIFURCATED SENTENCING
+12 PROCEDURES; TO REQUIRE ONLY A JUDGE TO SENTENCE A
+13 DEFENDANT FOR A CHARGE THAT RESULTS IN A CONVICTION;
+14 AND FOR OTHER PURPOSES.
+15
+16
+Subtitle
+17
+18 TO REQUIRE ONLY A COURT TO FIX
+19 PUNISHMENT IF A DEFENDANT IS CHARGED
+20 WITH A FELONY OR MISDEMEANOR; AND TO
+21 REQUIRE ONLY A JUDGE TO SENTENCE A
+22 DEFENDANT FOR A CHARGE THAT RESULTS IN A
+23 CONVICTION.
+24
+25 BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF ARKANSAS:
+26
+27 SECTION 1. Arkansas Code § 5-4-103 is amended to read as follows:
+28 5-4-103. Sentencing — Role of jury and court.
+29 (a) If Except in a case in which a defendant is charged with capital
+30 murder, § 5-10-101, if a defendant is charged with a felony or misdemeanor
+31 and is found guilty of an offense by a jury, the jury court shall fix
+32 punishment in a separate proceeding as authorized by this chapter according
+33 to § 16-97-101 et seq.
+34 (b) Except as provided by §§ 5-4-601 — 5-4-605, § 5-4-607, and § 5-4-
+35 608, the court shall fix punishment as authorized by this chapter in any case
+36 in which:
+*CEB312*
+04/04/2025 4:50:47 PM CEB312
+SB630
+1 (1) The defendant pleads guilty to an offense;
+2 (2) The defendant's guilt is tried by the court;
+3 (3) The jury fails to agree on punishment defendant's guilt is
+4 tried by a jury;
+5 (4) The prosecution and the defense agree that the court may fix
+6 punishment; or
+7 (5) A jury sentence is found by the trial court or an appellate
+8 court to be in excess of the punishment authorized by law.
+9 (c) It is the intent of this section to require sentencing in non-
+10 capital criminal cases be conducted by the court and not by a jury because of
+11 the:
+12 (1) Technical nature of sentencing;
+13 (2) Public interest in consistent and predictable sentencing for
+14 similar offenses;
+15 (3) Cost of incarceration; and
+16 (4) Opportunity to address sentencing in a coordinated fashion,
+17 which is available when sentencing is conducted by trained judicial officers.
+18
+19 SECTION 2. Arkansas Code § 16-97-101 is amended to read as follows:
+20 16-97-101. Bifurcated sentencing procedures.
+21 The following procedure shall govern jury trials, which include any
+22 felony or misdemeanor charges, except in a case in which the defendant is
+23 charged with capital murder, § 5-10-101:
+24 (1) The jury shall first hear all evidence relevant to every
+25 charge on which a defendant is being tried and shall retire to reach a
+26 verdict on each charge;
+27 (2)(A) If the defendant is found guilty of one (1) or more
+28 charges, the jury shall then hear additional evidence relevant to sentencing
+29 on those charges. Evidence introduced in the guilt phase may be considered,
+30 but need not be reintroduced at the sentencing phase Following the conclusion
+31 of the jury finding of the defendant's guilt or innocence, the court shall
+32 discharge the jury and order an applicable conviction.
+33 (B) The court shall then sentence the defendant for a
+34 charge that results in a conviction.
+35 (C) In order to sentence the defendant, the court may:
+36 (i) Consider evidence admitted at the first stage of
+2 04/04/2025 4:50:47 PM CEB312
+SB630
+1 the trial; and
+2 (ii) Conduct additional proceedings that are
+3 necessary or beneficial in determining an appropriate sentence or other
+4 judicial response to the conviction entered by the court;
+5 (3) Following the introduction of additional evidence relevant
+6 to sentencing, if any, instruction on the law, and argument, the jury shall
+7 again retire and determine a sentence within the statutory range;
+8 (4) The court, in its discretion, may also instruct the jury
+9 that counsel may argue as to alternative sentences for which the defendant
+10 may qualify. The jury, in its discretion, may make a recommendation as to an
+11 alternative sentence. However, this recommendation shall not be binding on
+12 the court;
+13 (5) After a jury finds guilt, the defendant, with the agreement
+14 of the prosecution and the consent of the court, may waive jury sentencing,
+15 in which case the court shall impose sentence; and
+16 (6) After a plea of guilty, the defendant, with the agreement of
+17 the prosecution and the consent of the court, may shall be sentenced by a
+18 jury impaneled for purposes of sentencing only the court.
+19 (4) It is the intent of this section to require sentencing in
+20 noncapital criminal cases be conducted by the court and not by a jury because
+21 of the:
+22 (A) Technical nature of sentencing;
+23 (B) Public interest in consistent and predictable
+24 sentencing for similar offenses;
+25 (C) Cost of incarceration; and
+26 (D) Opportunity to address sentencing in a coordinated
+27 fashion, which is available when sentencing is conducted by trained judicial
+28 officers.
+29
+30
+31
+32
+33
+34
+35
+36
+3 04/04/2025 4:50:47 PM CEB312
+[DELETED:       A D A P D A  T P W R D C  B   S  5  ( m a p t  ( 6 i]
+[DELETED: S2 0   (   (   ( t   ( p   ( c  ( c t   (   ( s   (   ( w   S  1  T f c   ( c v   ( c o b o d    ( c    (     (]
+[DELETED: S3 0 t     ( n j   ( t a   ( t m a t   ( o i   ( t j   ( n o    (    ( s    (    ( f o]
+
+
+================================================================================
+
+Raw Text:
+Stricken language would be deleted from and underlined language would be added to present law.
+1 State of Arkansas
+A Bill
+2 95th General Assembly
+3 Regular Session, 2025 SENATE BILL 630
+4
+5 By: Senator B. Davis
+6
+7
+For An Act To Be Entitled
+8
+9 AN ACT TO REQUIRE ONLY A COURT TO FIX PUNISHMENT IF A
+10 DEFENDANT IS CHARGED WITH A FELONY OR MISDEMEANOR; TO
+11 AMEND THE LAW CONCERNING BIFURCATED SENTENCING
+12 PROCEDURES; TO REQUIRE ONLY A JUDGE TO SENTENCE A
+13 DEFENDANT FOR A CHARGE THAT RESULTS IN A CONVICTION;
+14 AND FOR OTHER PURPOSES.
+15
+16
+Subtitle
+17
+18 TO REQUIRE ONLY A COURT TO FIX
+19 PUNISHMENT IF A DEFENDANT IS CHARGED
+20 WITH A FELONY OR MISDEMEANOR; AND TO
+21 REQUIRE ONLY A JUDGE TO SENTENCE A
+22 DEFENDANT FOR A CHARGE THAT RESULTS IN A
+23 CONVICTION.
+24
+25 BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF ARKANSAS:
+26
+27 SECTION 1. Arkansas Code § 5-4-103 is amended to read as follows:
+28 5-4-103. Sentencing — Role of jury and court.
+29 (a) If Except in a case in which a defendant is charged with capital
+30 murder, § 5-10-101, if a defendant is charged with a felony or misdemeanor
+31 and is found guilty of an offense by a jury, the jury court shall fix
+32 punishment in a separate proceeding as authorized by this chapter according
+33 to § 16-97-101 et seq.
+34 (b) Except as provided by §§ 5-4-601 — 5-4-605, § 5-4-607, and § 5-4-
+35 608, the court shall fix punishment as authorized by this chapter in any case
+36 in which:
+*CEB312*
+04/04/2025 4:50:47 PM CEB312
+
+SB630
+1 (1) The defendant pleads guilty to an offense;
+2 (2) The defendant's guilt is tried by the court;
+3 (3) The jury fails to agree on punishment defendant's guilt is
+4 tried by a jury;
+5 (4) The prosecution and the defense agree that the court may fix
+6 punishment; or
+7 (5) A jury sentence is found by the trial court or an appellate
+8 court to be in excess of the punishment authorized by law.
+9 (c) It is the intent of this section to require sentencing in non-
+10 capital criminal cases be conducted by the court and not by a jury because of
+11 the:
+12 (1) Technical nature of sentencing;
+13 (2) Public interest in consistent and predictable sentencing for
+14 similar offenses;
+15 (3) Cost of incarceration; and
+16 (4) Opportunity to address sentencing in a coordinated fashion,
+17 which is available when sentencing is conducted by trained judicial officers.
+18
+19 SECTION 2. Arkansas Code § 16-97-101 is amended to read as follows:
+20 16-97-101. Bifurcated sentencing procedures.
+21 The following procedure shall govern jury trials, which include any
+22 felony or misdemeanor charges, except in a case in which the defendant is
+23 charged with capital murder, § 5-10-101:
+24 (1) The jury shall first hear all evidence relevant to every
+25 charge on which a defendant is being tried and shall retire to reach a
+26 verdict on each charge;
+27 (2)(A) If the defendant is found guilty of one (1) or more
+28 charges, the jury shall then hear additional evidence relevant to sentencing
+29 on those charges. Evidence introduced in the guilt phase may be considered,
+30 but need not be reintroduced at the sentencing phase Following the conclusion
+31 of the jury finding of the defendant's guilt or innocence, the court shall
+32 discharge the jury and order an applicable conviction.
+33 (B) The court shall then sentence the defendant for a
+34 charge that results in a conviction.
+35 (C) In order to sentence the defendant, the court may:
+36 (i) Consider evidence admitted at the first stage of
+2 04/04/2025 4:50:47 PM CEB312
+
+SB630
+1 the trial; and
+2 (ii) Conduct additional proceedings that are
+3 necessary or beneficial in determining an appropriate sentence or other
+4 judicial response to the conviction entered by the court;
+5 (3) Following the introduction of additional evidence relevant
+6 to sentencing, if any, instruction on the law, and argument, the jury shall
+7 again retire and determine a sentence within the statutory range;
+8 (4) The court, in its discretion, may also instruct the jury
+9 that counsel may argue as to alternative sentences for which the defendant
+10 may qualify. The jury, in its discretion, may make a recommendation as to an
+11 alternative sentence. However, this recommendation shall not be binding on
+12 the court;
+13 (5) After a jury finds guilt, the defendant, with the agreement
+14 of the prosecution and the consent of the court, may waive jury sentencing,
+15 in which case the court shall impose sentence; and
+16 (6) After a plea of guilty, the defendant, with the agreement of
+17 the prosecution and the consent of the court, may shall be sentenced by a
+18 jury impaneled for purposes of sentencing only the court.
+19 (4) It is the intent of this section to require sentencing in
+20 noncapital criminal cases be conducted by the court and not by a jury because
+21 of the:
+22 (A) Technical nature of sentencing;
+23 (B) Public interest in consistent and predictable
+24 sentencing for similar offenses;
+25 (C) Cost of incarceration; and
+26 (D) Opportunity to address sentencing in a coordinated
+27 fashion, which is available when sentencing is conducted by trained judicial
+28 officers.
+29
+30
+31
+32
+33
+34
+35
+36
+3 04/04/2025 4:50:47 PM CEB312
+
+[DELETED:       A D A P D A  T P W R D C  B   S  5  ( m a p t  ( 6 i]
+[DELETED: S2 0   (   (   ( t   ( p   ( c  ( c t   (   ( s   (   ( w   S  1  T f c   ( c v   ( c o b o d    ( c    (     (]
+[DELETED: S3 0 t     ( n j   ( t a   ( t m a t   ( o i   ( t j   ( n o    (    ( s    (    ( f o]

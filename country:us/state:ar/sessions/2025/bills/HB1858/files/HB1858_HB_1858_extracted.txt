@@ -1,0 +1,259 @@
+Title: Stricken language would be deleted from and underlined language would be added to present law.
+Official Title: Stricken language would be deleted from and underlined language would be added to present law.
+Number of Sections: 1
+Source: versions - HB 1858
+Media Type: application/pdf
+Strikethrough Detection: 3 sections found
+
+================================================================================
+
+Section 1:
+1 State of Arkansas
+A Bill
+2 95th General Assembly
+3 Regular Session, 2025 HOUSE BILL 1858
+4
+5 By: Representative Ladyman
+6
+7
+For An Act To Be Entitled
+8
+9 AN ACT TO REQUIRE A PEDIATRICIAN TO SCREEN FOR TYPE 1
+10 DIABETES AT THE YEARLY WELL-CHILD VISIT; TO REQUIRE
+11 THAT THE ARKANSAS MEDICAID PROGRAM AND HEALTH BENEFIT
+12 PLANS COVER TYPE 1 DIABETES SCREENINGS; AND FOR OTHER
+13 PURPOSES.
+14
+15
+Subtitle
+16
+17 TO REQUIRE A PEDIATRICIAN TO SCREEN FOR
+18 TYPE 1 DIABETES AT THE YEARLY WELL-CHILD
+19 VISIT; AND TO REQUIRE THAT THE ARKANSAS
+20 MEDICAID PROGRAM AND HEALTH BENEFIT
+21 PLANS COVER TYPE 1 DIABETES SCREENINGS.
+22
+23 BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF ARKANSAS:
+24
+25 SECTION 1. Arkansas Code Title 20, Chapter 15, Subchapter 1, is
+26 amended to add an additional section to read as follows:
+27 20-15-103. Screening for Type 1 diabetes — Legislative findings.
+28 (a) The General Assembly finds that pediatricians do not regularly
+29 screen for Type 1 diabetes and often the diagnosis is only discovered due to
+30 an emergency hospitalization.
+31 (b) A pediatrician shall screen for Type 1 diabetes during the yearly
+32 well-child visit beginning at three (3) years of age.
+33 (c) The screening under subsection (b) of this section shall include a
+34 hemoglobin A1c testing, blood sugar testing, and further antibody testing if
+35 the pediatrician determines the antibody testing is necessary or if there is
+36 a family history of Type 1 diabetes.
+*JMB517*
+03/19/2025 2:21:11 PM JMB517
+HB1858
+1
+2 SECTION 2. Arkansas Code Title 20, Chapter 77, Subchapter 1, is
+3 amended to add an additional section to read as follows:
+4 20-77-155. Screening for Type 1 diabetes.
+5 (a) The Arkansas Medicaid Program shall cover screening for Type 1
+6 diabetes under § 20-15-103.
+7 (b) The Department of Human Services shall apply for any federal
+8 waiver, Medicaid state plan amendment, or other authorization necessary to
+9 implement this section.
+10
+11 SECTION 3. Arkansas Code Title 23, Chapter 79, Subchapter 1 is amended
+12 to add an additional section to read as follows:
+13 23-79-170. Coverage of Type 1 diabetes screening — Definition.
+14 (a)(1) As used in this section, “health benefit plan” means:
+15 (A) An individual, blanket, or group plan, policy, or
+16 contract for healthcare services issued or delivered by an insurer, health
+17 maintenance organization, hospital medical service corporation, or self-
+18 insured governmental or church plan in this state; and
+19 (B) Any health benefit program receiving state or federal
+20 appropriations from the State of Arkansas, including the Arkansas Medicaid
+21 Program and the Arkansas Health and Opportunity for Me Program, or any
+22 successor program.
+23 (2) As used in this section, “health benefit plan” includes:
+24 (A) An indemnity and managed care plan; and
+25 (B) A nonfederal governmental plan as defined in 29 U.S.C.
+26 § 1002(32), as it existed on January 1, 2025.
+27 (3) As used in this section, “health benefit plan” does not
+28 include:
+29 (A) A disability income plan;
+30 (B) A credit insurance plan;
+31 (C) Insurance coverage issued as a supplement to liability
+32 insurance;
+33 (D) Medical payments under an automobile or homeowner's
+34 insurance plan;
+35 (E) A health benefit plan provided under Arkansas
+36 Constitution, Article 5, § 32, the Workers' Compensation Law, § 11-9-101 et
+2 03/19/2025 2:21:11 PM JMB517
+HB1858
+1 seq., or the Public Employee Workers' Compensation Act, § 21-5-601 et seq.;
+2 (F) A plan that provides only indemnity for hospital
+3 confinement;
+4 (G) An accident-only plan;
+5 (H) A specified disease plan; or
+6 (I) A long-term-care-only plan.
+7 (b) A health benefit plan that is offered, issued, or renewed in this
+8 state shall provide coverage for Type 1 diabetes screening under § 20-15-103
+9 by a pediatrician on or after January 1, 2026.
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+3 03/19/2025 2:21:11 PM JMB517
+[DELETED:          A D T P P   T T V M P  B   S a  2  ( s a  ( w  ( h t a]
+[DELETED: H2 0   S a  2  ( d  ( w i   S t  2  (    ( c m i    ( a P s   (    (    ( §   ( i    (    (    ( i    ( i    ( C]
+[DELETED: H3 0 s    ( c    (    (    (  ( s b                           ]
+
+
+================================================================================
+
+Raw Text:
+Stricken language would be deleted from and underlined language would be added to present law.
+1 State of Arkansas
+A Bill
+2 95th General Assembly
+3 Regular Session, 2025 HOUSE BILL 1858
+4
+5 By: Representative Ladyman
+6
+7
+For An Act To Be Entitled
+8
+9 AN ACT TO REQUIRE A PEDIATRICIAN TO SCREEN FOR TYPE 1
+10 DIABETES AT THE YEARLY WELL-CHILD VISIT; TO REQUIRE
+11 THAT THE ARKANSAS MEDICAID PROGRAM AND HEALTH BENEFIT
+12 PLANS COVER TYPE 1 DIABETES SCREENINGS; AND FOR OTHER
+13 PURPOSES.
+14
+15
+Subtitle
+16
+17 TO REQUIRE A PEDIATRICIAN TO SCREEN FOR
+18 TYPE 1 DIABETES AT THE YEARLY WELL-CHILD
+19 VISIT; AND TO REQUIRE THAT THE ARKANSAS
+20 MEDICAID PROGRAM AND HEALTH BENEFIT
+21 PLANS COVER TYPE 1 DIABETES SCREENINGS.
+22
+23 BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF ARKANSAS:
+24
+25 SECTION 1. Arkansas Code Title 20, Chapter 15, Subchapter 1, is
+26 amended to add an additional section to read as follows:
+27 20-15-103. Screening for Type 1 diabetes — Legislative findings.
+28 (a) The General Assembly finds that pediatricians do not regularly
+29 screen for Type 1 diabetes and often the diagnosis is only discovered due to
+30 an emergency hospitalization.
+31 (b) A pediatrician shall screen for Type 1 diabetes during the yearly
+32 well-child visit beginning at three (3) years of age.
+33 (c) The screening under subsection (b) of this section shall include a
+34 hemoglobin A1c testing, blood sugar testing, and further antibody testing if
+35 the pediatrician determines the antibody testing is necessary or if there is
+36 a family history of Type 1 diabetes.
+*JMB517*
+03/19/2025 2:21:11 PM JMB517
+
+HB1858
+1
+2 SECTION 2. Arkansas Code Title 20, Chapter 77, Subchapter 1, is
+3 amended to add an additional section to read as follows:
+4 20-77-155. Screening for Type 1 diabetes.
+5 (a) The Arkansas Medicaid Program shall cover screening for Type 1
+6 diabetes under § 20-15-103.
+7 (b) The Department of Human Services shall apply for any federal
+8 waiver, Medicaid state plan amendment, or other authorization necessary to
+9 implement this section.
+10
+11 SECTION 3. Arkansas Code Title 23, Chapter 79, Subchapter 1 is amended
+12 to add an additional section to read as follows:
+13 23-79-170. Coverage of Type 1 diabetes screening — Definition.
+14 (a)(1) As used in this section, “health benefit plan” means:
+15 (A) An individual, blanket, or group plan, policy, or
+16 contract for healthcare services issued or delivered by an insurer, health
+17 maintenance organization, hospital medical service corporation, or self-
+18 insured governmental or church plan in this state; and
+19 (B) Any health benefit program receiving state or federal
+20 appropriations from the State of Arkansas, including the Arkansas Medicaid
+21 Program and the Arkansas Health and Opportunity for Me Program, or any
+22 successor program.
+23 (2) As used in this section, “health benefit plan” includes:
+24 (A) An indemnity and managed care plan; and
+25 (B) A nonfederal governmental plan as defined in 29 U.S.C.
+26 § 1002(32), as it existed on January 1, 2025.
+27 (3) As used in this section, “health benefit plan” does not
+28 include:
+29 (A) A disability income plan;
+30 (B) A credit insurance plan;
+31 (C) Insurance coverage issued as a supplement to liability
+32 insurance;
+33 (D) Medical payments under an automobile or homeowner's
+34 insurance plan;
+35 (E) A health benefit plan provided under Arkansas
+36 Constitution, Article 5, § 32, the Workers' Compensation Law, § 11-9-101 et
+2 03/19/2025 2:21:11 PM JMB517
+
+HB1858
+1 seq., or the Public Employee Workers' Compensation Act, § 21-5-601 et seq.;
+2 (F) A plan that provides only indemnity for hospital
+3 confinement;
+4 (G) An accident-only plan;
+5 (H) A specified disease plan; or
+6 (I) A long-term-care-only plan.
+7 (b) A health benefit plan that is offered, issued, or renewed in this
+8 state shall provide coverage for Type 1 diabetes screening under § 20-15-103
+9 by a pediatrician on or after January 1, 2026.
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+3 03/19/2025 2:21:11 PM JMB517
+
+[DELETED:          A D T P P   T T V M P  B   S a  2  ( s a  ( w  ( h t a]
+[DELETED: H2 0   S a  2  ( d  ( w i   S t  2  (    ( c m i    ( a P s   (    (    ( §   ( i    (    (    ( i    ( i    ( C]
+[DELETED: H3 0 s    ( c    (    (    (  ( s b                           ]

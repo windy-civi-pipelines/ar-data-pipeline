@@ -1,0 +1,654 @@
+Title: Stricken language would be deleted from and underlined language would be added to present law.
+Official Title: Stricken language would be deleted from and underlined language would be added to present law.
+Number of Sections: 1
+Source: versions - HB 2004
+Media Type: application/pdf
+Strikethrough Detection: 8 sections found
+
+================================================================================
+
+Section 1:
+1 State of Arkansas
+A Bill
+2 95th General Assembly
+3 Regular Session, 2025 HOUSE BILL 2004
+4
+5 By: Representative D. Whitaker
+6
+7
+For An Act To Be Entitled
+8
+9 AN ACT TO AMEND THE LAW CONCERNING THE OPERATION AND
+10 MAINTENANCE OF RAILROADS; TO CREATE STANDARD
+11 REQUIREMENTS CONCERNING RAILROAD TRAIN DEFECT
+12 DETECTORS AND TRENDING DEFECT DETECTOR TECHNOLOGY; TO
+13 REQUIRE CERTAIN INFORMATION TO BE PUBLISHED REGARDING
+14 DEFECT DETECTORS AND TRENDING DEFECT DETECTOR
+15 TECHNOLOGY; TO CREATE A PROCEDURE FOR THE DETECTION
+16 OF A DISCREPANCY IN THE NUMBER OF AXLES ON A RAILROAD
+17 TRAIN BY A DEFECT DETECTOR; TO CREATE CIVIL
+18 PENALTIES; AND FOR OTHER PURPOSES.
+19
+20
+Subtitle
+21
+22 TO CREATE STANDARD REQUIREMENTS
+23 CONCERNING RAILROAD TRAIN DEFECT
+24 DETECTORS AND TRENDING DEFECT DETECTOR
+25 TECHNOLOGY.
+26
+27 BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF ARKANSAS:
+28
+29 SECTION 1. Arkansas Code Title 23, Chapter 12, is amended to add an
+30 additional subchapter to read as follows:
+31 Subchapter 11 — Train Defect Detector Safety
+32
+33 23-12-1101. Legislative findings and intent.
+34 (a) The General Assembly finds that in light of the February 2023
+35 railroad train derailment in East Palestine, Ohio, and in light of the
+36 absence of any federal regulation of train defect detectors, the continuing
+*ZRC133*
+04/09/2025 9:44:10 PM ZRC133
+HB2004
+1 operation of railroad corporations with no oversight or regulation of hot box
+2 detectors operating within the state on a main railroad line or branch
+3 railroad line exposes the public to unnecessary dangers and disruptions of
+4 commerce.
+5 (b) The General assembly intends for this act to eliminate unnecessary
+6 dangers and disruptions of commerce imposed on communities and residents of
+7 Arkansas.
+8
+9 23-12-1102. Definitions.
+10 As used in this subchapter:
+11 (1)(A) "Defect detector" means an integrated or standalone
+12 electronic device that scans passing railroad trains or equipment for a
+13 defect, including without limitation:
+14 (i) A hot wheel bearing;
+15 (ii) A hot wheel;
+16 (iii) A shipment that has an excessive height or
+17 width;
+18 (iv) Shifted lading; and
+19 (v) Dragging equipment.
+20 (B) "Defect detector" includes without limitation:
+21 (i) An acoustic bearing detector;
+22 (ii) A dragging equipment detector; and
+23 (iii) A wheel impact detector;
+24 (2)(A) “Railroad” means non-highway ground transportation that
+25 runs on rails or electromagnetic guideways in this state.
+26 (B) "Railroad" includes without limitation a:
+27 (i) Commuter railroad service or other short-haul
+28 railroad passenger service in a metropolitan or suburban area; and
+29 (ii) High-speed ground transportation system that
+30 connects metropolitan areas without regard to whether the high-speed ground
+31 transportation system uses new technologies not associated with traditional
+32 railroads.
+33 (C) "Railroad" does not include a rapid transit operation
+34 in an urban area that is not connected to the general railroad system of
+35 transportation;
+36 (3) "Railroad corporation" means a corporation, company, or
+2 04/09/2025 9:44:10 PM ZRC133
+HB2004
+1 individual that owns or operates a railroad in this state as an owner,
+2 lessee, mortgagee, trustee, assignee, or receiver;
+3 (4)(A) “Railroad train" means a locomotive, multiple locomotives
+4 coupled together, or one (1) or more locomotives coupled with one (1) or more
+5 cars that require an air brake test under 49 C.F.R. Part 232, as it existed
+6 on January 1, 2025, or 49 C.F.R. Part 238, as it existed on January 1, 2025.
+7 (B) "Railroad train" does not include:
+8 (i) A locomotive or car during switching operations;
+9 or
+10 (ii) A locomotive or car is that operated to
+11 classify and assemble cars within a railroad yard for the purpose of making
+12 or breaking up railroad trains;
+13 (5) "Restricted speed" means a speed that:
+14 (A) Permits a railroad train to stop within one-half (1/2)
+15 of the range of vision; and
+16 (B) Does not exceed twenty miles per hour (20 m.p.h.); and
+17 (6)(A) "Trending defect detector technology" means an algorithm-
+18 based technology applied to a defect detector that allows for communication
+19 from one (1) defect detector to another defect detector in order to predict
+20 or detect a defect of a railroad train.
+21 (B) "Trending defect detector technology" includes without
+22 limitation the communication between defect detectors of information
+23 concerning:
+24 (i) The changing temperature of wheel bearings on a
+25 railroad;
+26 (ii) Acoustic information; and
+27 (iii) Other data that would lead to the discovery of
+28 a failure of rolling equipment.
+29
+30 23-12-1103. Defect detector — Minimum requirements.
+31 (a) A defect detector shall be equipped with:
+32 (1) A hot box detector;
+33 (2) A hot wheel detector; and
+34 (3) Dragging equipment detector technology.
+35 (b)(1) A defect detector shall be equipped with an audible alarm that
+36 broadcasts on a radio channel frequency assigned to the specific territory in
+3 04/09/2025 9:44:10 PM ZRC133
+HB2004
+1 which the defect detector is located by the Association of American
+2 Railroads.
+3 (2) If a defect is detected, a defect detector shall be equipped
+4 to:
+5 (A) Sound an alarm over the assigned radio channel
+6 frequency three (3) consecutive times for no longer than five (5) seconds and
+7 with five (5) seconds of silence in between each sounding of the alarm; and
+8 (B) Repeat an audible message three (3) times with twenty
+9 (20) seconds of silence between each broadcast of the audible message stating
+10 the following information:
+11 (i) The defect detector location milepost and name;
+12 (ii) The track number if the defect detector is
+13 located in multiple track territory;
+14 (iii) The total number of axles in the railroad
+15 train, including motive power; and
+16 (iv) The location of defects within the railroad
+17 train or equipment.
+18 (3) If a defect is not detected, the defect detector shall be
+19 equipped to provide an audible message that states the following:
+20 (A) The location of the defect detector milepost and name;
+21 (B) The track number in multiple track territory;
+22 (C) The total number of axles in the railroad train,
+23 including motive power;
+24 (D) The speed of the railroad train; and
+25 (E) A statement that no defect was detected, including the
+26 phrase, "repeat no defects, out".
+27
+28 23-12-1104. Trending defect detector technology.
+29 (a) A defect detector equipped with trending defect detector
+30 technology or similar technology shall:
+31 (1) Not have a silent alarm; and
+32 (2) Be listed to all operating crew who operate equipment on the
+33 railroad track on which the defect detector is located.
+34 (b) If a railroad train passes a defect detector equipped with
+35 trending defect detector technology and a trending defect issue is detected:
+36 (1) The operating crew of the railroad train shall stop in
+4 04/09/2025 9:44:10 PM ZRC133
+HB2004
+1 accordance with safe railroad train handling procedures issued by the
+2 railroad corporation that owns or operates the railroad train;
+3 (2) An inspection of the railroad train shall be made by the
+4 operating crew from a position on the ground;
+5 (3) The railroad train inspection results shall be noted by the
+6 operating crew and presented to the appropriate officer of the railroad
+7 corporation, the dispatcher, or another qualified person; and
+8 (4) If the inspection under subdivision (b)(2) of this section
+9 finds that the railroad train is safe to move, the railroad train may proceed
+10 at a speed that does not exceed:
+11 (A) Ten miles per hour (10 m.p.h.) if the railroad train
+12 is carrying hazardous materials; or
+13 (B) Thirty miles per hour (30 m.p.h.) if the railroad
+14 train is not carrying hazardous materials.
+15 (c) If a railroad train that has a trending defect issue detected
+16 under subsection (b) of this section passes another defect detector equipped
+17 with trending defect detector technology and a trending defect issue is
+18 detected a second time:
+19 (1) The operating crew of the railroad train shall stop in
+20 accordance with safe railroad train handling procedures issued by the
+21 railroad corporation that owns or operates the railroad train;
+22 (2) The railroad train or equipment shall be inspected by the
+23 operating crew from a position on the ground;
+24 (3) A determination shall be made by a qualified person whether
+25 the railroad train is safe to move based on the inspection required under
+26 subdivision (c)(2) of this section;
+27 (4) After the inspection required under subdivision (c)(2) of
+28 this section, the railroad train or equipment shall be set out immediately by
+29 the operating crew at the nearest siding, spur, or designated repair track;
+30 and
+31 (5) The railroad train or equipment shall not be moved unless a
+32 qualified person has thoroughly inspected and repaired the railroad train or
+33 equipment.
+34
+35 23-12-1105. Defect detector — Requirements.
+36 (a) An installed defect detector shall remain on with all audible
+5 04/09/2025 9:44:10 PM ZRC133
+HB2004
+1 alarms set to a volume high enough for an operating crew to hear reporting
+2 from the defect detector.
+3 (b) A defect detector that is equipped with a hot wheel bearing
+4 detector shall have a sensitivity level no higher than one hundred ten
+5 degrees Fahrenheit (110°F).
+6 (c)(1) If the repair of a defect detector is required, the railroad
+7 corporation that owns the defect detector shall notify the Arkansas
+8 Department of Transportation.
+9 (2) A railroad train operating on a railroad around a defect
+10 detector that requires repair:
+11 (A) Shall not exceed the restricted speed; and
+12 (B) May resume timetable speed if the next defect detector
+13 on the railroad indicates that the railroad train has no defects.
+14
+15 23-12-1106. Information required to be published.
+16 A railroad corporation shall publish and make known to all operating
+17 crews that operate railroad trains over railroad tracks equipped with defect
+18 detectors that:
+19 (1) An operating crew of a railroad train that receives an alarm
+20 from a defect detector or a defect detector equipped with trending defect
+21 detector technology shall reduce the speed of the railroad train in
+22 accordance with the railroad corporation's operating rules until the defect
+23 detector is cleared;
+24 (2) After receiving a defect detector message indicating a
+25 defect, the operating crew of the railroad train shall stop in accordance
+26 with the railroad corporation's operating rules and inspect the railroad
+27 train from a position on the ground;
+28 (3) An operating crew of a railroad train receiving a defect
+29 message of dragging equipment or a similar message from a defect detector
+30 shall stop immediately in accordance with the railroad corporation's
+31 operating rules and inspect the railroad train from a position on the ground;
+32 (4) If defects are found, the railroad train shall be inspected
+33 by the operating crew based on the industry standard of twenty (20) axles
+34 before and after the reported defect on both sides of the railroad train;
+35 (5) An inspection of a railroad train that is required based on
+36 a report from a defect detector shall not be made from a vehicle or any other
+6 04/09/2025 9:44:10 PM ZRC133
+HB2004
+1 form of transportation; and
+2 (6) A person shall not relieve a railroad train operating crew
+3 or an operator of a railroad train or equipment from an inspection under this
+4 section while operating the railroad train or equipment within the state.
+5
+6 23-12-1107. Discrepancy in number of axles detected by defect
+7 detector.
+8 (a) If a defect detector detects that a railroad train has at least
+9 two (2) fewer axles than the number of axles known to be in the railroad
+10 train, the discrepancy shall be reported to the proper railroad authority
+11 governing railroad train movement in the territory.
+12 (b) If an axle count provided by a defect detector is at least two (2)
+13 or more axles than the number of axles known to be in the railroad train:
+14 (1) The proper railroad authority governing railroad train
+15 movement in the territory shall be notified;
+16 (2) The extra equipment or extra railroad train car shall be
+17 identified within five (5) miles of the location where the defect detector
+18 reported the defect;
+19 (3) If communication is not established with the proper railroad
+20 authority, all movement of the railroad train shall stop within five (5)
+21 miles of the location where the defect detector reported the defect;
+22 (4) The railroad train shall not proceed unless the extra
+23 equipment or extra railroad train has been identified;
+24 (5) If the extra equipment is known to be hazardous, the
+25 railroad train shall not proceed without a radio waybill or proper
+26 documentation; and
+27 (6) Operating crew at the operating controls of a moving
+28 railroad train or equipment shall not be permitted to copy or repeat radio
+29 waybill information.
+30
+31 23-12-1108. Civil penalty.
+32 (a)(1) A person or railroad corporation who violates this subchapter
+33 is subject to a civil penalty of at least ten thousand dollars ($10,000) but
+34 not more than twenty-five thousand dollars ($25,000) for each day that the
+35 violation continues.
+36 (2) A person or railroad corporation that violates this
+7 04/09/2025 9:44:10 PM ZRC133
+HB2004
+1 subchapter is subject to a one-time civil penalty of five hundred thousand
+2 dollars ($500,000) if the Director of the State Highways and Transportation
+3 finds:
+4 (A) The violation to be grossly negligent; or
+5 (B) That a pattern of repeated violations has caused:
+6 (i) An imminent hazard of death or injury to an
+7 individual; or
+8 (ii) Death or injury to an individual.
+9 (b) A civil penalty collected under this section shall be deposited
+10 into the State Highway and Transportation Department Fund to be used for the
+11 maintenance, repair, and construction of the state highway system.
+12 (c) If a violation of this subchapter results in a railroad train
+13 derailment in the vicinity of a municipality and a civil penalty is assessed
+14 under subdivision (a)(2) of this section, one-half (1/2) of the civil penalty
+15 shall be remitted to the Arkansas Department of Transportation and one-half
+16 (1/2) of the civil penalty shall be remitted to the affected municipality.
+17 (d) The director shall determine the amount of a civil penalty imposed
+18 under subsection (a) of this section based on:
+19 (1) The nature, circumstances, extent, and gravity of the
+20 violation;
+21 (2) With respect to the violator, the:
+22 (A) Degree of the violator's culpability;
+23 (B) Violator's history of violations;
+24 (C) Violator's ability to pay; and
+25 (D) Effect on the violator's ability to continue to do
+26 business; and
+27 (3) Any other factors required by law.
+28
+29 SECTION 2. DO NOT CODIFY. Compliance.
+30 A railroad corporation operating within this state has twelve (12)
+31 months from the effective date of this act to retune all defect detectors
+32 within the state to ensure compliance with this act.
+33
+34
+35
+36
+8 04/09/2025 9:44:10 PM ZRC133
+[DELETED:          A M R D R D T O T P   T C D T  B   S a S   2  ( r a]
+[DELETED: H2 0 o d r c  ( d A   2  A   ( e d     (     (     ( w     (     (    (     (     (     (   ( r    (     ( r     ( c t r    ( i t   (]
+[DELETED: H3 0 i l   ( c c o    (     ( o     ( c o   (    ( o    (   ( b f o    ( l c     ( r     (     ( a   2  (   (   (   (  ( b]
+[DELETED: H4 0 w R   ( t    ( f w    ( ( t     (     ( l     ( t     ( t   ( e    (    (    ( i    (    ( p   2  ( t   (   ( r  ( t   (]
+[DELETED: H5 0 a r   ( o   ( o c   ( f a    ( i    ( t  ( u w d   ( a r   ( o   ( t s   ( t t a   ( q e   2  (]
+[DELETED: H6 0 a f  ( d d  ( c D   ( d    (    ( o   2  A c d   ( f d a d   ( d w t   ( m s o   ( b b   ( a]
+[DELETED: H7 0 f   ( o s   2 d  ( t t g  ( o   ( m   ( i r   ( a m   ( e   ( r d   ( r w   2  ( i n v   (]
+[DELETED: H8 0 s d f    (    (     ( i     (  ( i m  ( d u s (  ( u   ( v   (    (    (    (    ( b   (   S  A m w    ]
+
+
+================================================================================
+
+Raw Text:
+Stricken language would be deleted from and underlined language would be added to present law.
+1 State of Arkansas
+A Bill
+2 95th General Assembly
+3 Regular Session, 2025 HOUSE BILL 2004
+4
+5 By: Representative D. Whitaker
+6
+7
+For An Act To Be Entitled
+8
+9 AN ACT TO AMEND THE LAW CONCERNING THE OPERATION AND
+10 MAINTENANCE OF RAILROADS; TO CREATE STANDARD
+11 REQUIREMENTS CONCERNING RAILROAD TRAIN DEFECT
+12 DETECTORS AND TRENDING DEFECT DETECTOR TECHNOLOGY; TO
+13 REQUIRE CERTAIN INFORMATION TO BE PUBLISHED REGARDING
+14 DEFECT DETECTORS AND TRENDING DEFECT DETECTOR
+15 TECHNOLOGY; TO CREATE A PROCEDURE FOR THE DETECTION
+16 OF A DISCREPANCY IN THE NUMBER OF AXLES ON A RAILROAD
+17 TRAIN BY A DEFECT DETECTOR; TO CREATE CIVIL
+18 PENALTIES; AND FOR OTHER PURPOSES.
+19
+20
+Subtitle
+21
+22 TO CREATE STANDARD REQUIREMENTS
+23 CONCERNING RAILROAD TRAIN DEFECT
+24 DETECTORS AND TRENDING DEFECT DETECTOR
+25 TECHNOLOGY.
+26
+27 BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF ARKANSAS:
+28
+29 SECTION 1. Arkansas Code Title 23, Chapter 12, is amended to add an
+30 additional subchapter to read as follows:
+31 Subchapter 11 — Train Defect Detector Safety
+32
+33 23-12-1101. Legislative findings and intent.
+34 (a) The General Assembly finds that in light of the February 2023
+35 railroad train derailment in East Palestine, Ohio, and in light of the
+36 absence of any federal regulation of train defect detectors, the continuing
+*ZRC133*
+04/09/2025 9:44:10 PM ZRC133
+
+HB2004
+1 operation of railroad corporations with no oversight or regulation of hot box
+2 detectors operating within the state on a main railroad line or branch
+3 railroad line exposes the public to unnecessary dangers and disruptions of
+4 commerce.
+5 (b) The General assembly intends for this act to eliminate unnecessary
+6 dangers and disruptions of commerce imposed on communities and residents of
+7 Arkansas.
+8
+9 23-12-1102. Definitions.
+10 As used in this subchapter:
+11 (1)(A) "Defect detector" means an integrated or standalone
+12 electronic device that scans passing railroad trains or equipment for a
+13 defect, including without limitation:
+14 (i) A hot wheel bearing;
+15 (ii) A hot wheel;
+16 (iii) A shipment that has an excessive height or
+17 width;
+18 (iv) Shifted lading; and
+19 (v) Dragging equipment.
+20 (B) "Defect detector" includes without limitation:
+21 (i) An acoustic bearing detector;
+22 (ii) A dragging equipment detector; and
+23 (iii) A wheel impact detector;
+24 (2)(A) “Railroad” means non-highway ground transportation that
+25 runs on rails or electromagnetic guideways in this state.
+26 (B) "Railroad" includes without limitation a:
+27 (i) Commuter railroad service or other short-haul
+28 railroad passenger service in a metropolitan or suburban area; and
+29 (ii) High-speed ground transportation system that
+30 connects metropolitan areas without regard to whether the high-speed ground
+31 transportation system uses new technologies not associated with traditional
+32 railroads.
+33 (C) "Railroad" does not include a rapid transit operation
+34 in an urban area that is not connected to the general railroad system of
+35 transportation;
+36 (3) "Railroad corporation" means a corporation, company, or
+2 04/09/2025 9:44:10 PM ZRC133
+
+HB2004
+1 individual that owns or operates a railroad in this state as an owner,
+2 lessee, mortgagee, trustee, assignee, or receiver;
+3 (4)(A) “Railroad train" means a locomotive, multiple locomotives
+4 coupled together, or one (1) or more locomotives coupled with one (1) or more
+5 cars that require an air brake test under 49 C.F.R. Part 232, as it existed
+6 on January 1, 2025, or 49 C.F.R. Part 238, as it existed on January 1, 2025.
+7 (B) "Railroad train" does not include:
+8 (i) A locomotive or car during switching operations;
+9 or
+10 (ii) A locomotive or car is that operated to
+11 classify and assemble cars within a railroad yard for the purpose of making
+12 or breaking up railroad trains;
+13 (5) "Restricted speed" means a speed that:
+14 (A) Permits a railroad train to stop within one-half (1/2)
+15 of the range of vision; and
+16 (B) Does not exceed twenty miles per hour (20 m.p.h.); and
+17 (6)(A) "Trending defect detector technology" means an algorithm-
+18 based technology applied to a defect detector that allows for communication
+19 from one (1) defect detector to another defect detector in order to predict
+20 or detect a defect of a railroad train.
+21 (B) "Trending defect detector technology" includes without
+22 limitation the communication between defect detectors of information
+23 concerning:
+24 (i) The changing temperature of wheel bearings on a
+25 railroad;
+26 (ii) Acoustic information; and
+27 (iii) Other data that would lead to the discovery of
+28 a failure of rolling equipment.
+29
+30 23-12-1103. Defect detector — Minimum requirements.
+31 (a) A defect detector shall be equipped with:
+32 (1) A hot box detector;
+33 (2) A hot wheel detector; and
+34 (3) Dragging equipment detector technology.
+35 (b)(1) A defect detector shall be equipped with an audible alarm that
+36 broadcasts on a radio channel frequency assigned to the specific territory in
+3 04/09/2025 9:44:10 PM ZRC133
+
+HB2004
+1 which the defect detector is located by the Association of American
+2 Railroads.
+3 (2) If a defect is detected, a defect detector shall be equipped
+4 to:
+5 (A) Sound an alarm over the assigned radio channel
+6 frequency three (3) consecutive times for no longer than five (5) seconds and
+7 with five (5) seconds of silence in between each sounding of the alarm; and
+8 (B) Repeat an audible message three (3) times with twenty
+9 (20) seconds of silence between each broadcast of the audible message stating
+10 the following information:
+11 (i) The defect detector location milepost and name;
+12 (ii) The track number if the defect detector is
+13 located in multiple track territory;
+14 (iii) The total number of axles in the railroad
+15 train, including motive power; and
+16 (iv) The location of defects within the railroad
+17 train or equipment.
+18 (3) If a defect is not detected, the defect detector shall be
+19 equipped to provide an audible message that states the following:
+20 (A) The location of the defect detector milepost and name;
+21 (B) The track number in multiple track territory;
+22 (C) The total number of axles in the railroad train,
+23 including motive power;
+24 (D) The speed of the railroad train; and
+25 (E) A statement that no defect was detected, including the
+26 phrase, "repeat no defects, out".
+27
+28 23-12-1104. Trending defect detector technology.
+29 (a) A defect detector equipped with trending defect detector
+30 technology or similar technology shall:
+31 (1) Not have a silent alarm; and
+32 (2) Be listed to all operating crew who operate equipment on the
+33 railroad track on which the defect detector is located.
+34 (b) If a railroad train passes a defect detector equipped with
+35 trending defect detector technology and a trending defect issue is detected:
+36 (1) The operating crew of the railroad train shall stop in
+4 04/09/2025 9:44:10 PM ZRC133
+
+HB2004
+1 accordance with safe railroad train handling procedures issued by the
+2 railroad corporation that owns or operates the railroad train;
+3 (2) An inspection of the railroad train shall be made by the
+4 operating crew from a position on the ground;
+5 (3) The railroad train inspection results shall be noted by the
+6 operating crew and presented to the appropriate officer of the railroad
+7 corporation, the dispatcher, or another qualified person; and
+8 (4) If the inspection under subdivision (b)(2) of this section
+9 finds that the railroad train is safe to move, the railroad train may proceed
+10 at a speed that does not exceed:
+11 (A) Ten miles per hour (10 m.p.h.) if the railroad train
+12 is carrying hazardous materials; or
+13 (B) Thirty miles per hour (30 m.p.h.) if the railroad
+14 train is not carrying hazardous materials.
+15 (c) If a railroad train that has a trending defect issue detected
+16 under subsection (b) of this section passes another defect detector equipped
+17 with trending defect detector technology and a trending defect issue is
+18 detected a second time:
+19 (1) The operating crew of the railroad train shall stop in
+20 accordance with safe railroad train handling procedures issued by the
+21 railroad corporation that owns or operates the railroad train;
+22 (2) The railroad train or equipment shall be inspected by the
+23 operating crew from a position on the ground;
+24 (3) A determination shall be made by a qualified person whether
+25 the railroad train is safe to move based on the inspection required under
+26 subdivision (c)(2) of this section;
+27 (4) After the inspection required under subdivision (c)(2) of
+28 this section, the railroad train or equipment shall be set out immediately by
+29 the operating crew at the nearest siding, spur, or designated repair track;
+30 and
+31 (5) The railroad train or equipment shall not be moved unless a
+32 qualified person has thoroughly inspected and repaired the railroad train or
+33 equipment.
+34
+35 23-12-1105. Defect detector — Requirements.
+36 (a) An installed defect detector shall remain on with all audible
+5 04/09/2025 9:44:10 PM ZRC133
+
+HB2004
+1 alarms set to a volume high enough for an operating crew to hear reporting
+2 from the defect detector.
+3 (b) A defect detector that is equipped with a hot wheel bearing
+4 detector shall have a sensitivity level no higher than one hundred ten
+5 degrees Fahrenheit (110°F).
+6 (c)(1) If the repair of a defect detector is required, the railroad
+7 corporation that owns the defect detector shall notify the Arkansas
+8 Department of Transportation.
+9 (2) A railroad train operating on a railroad around a defect
+10 detector that requires repair:
+11 (A) Shall not exceed the restricted speed; and
+12 (B) May resume timetable speed if the next defect detector
+13 on the railroad indicates that the railroad train has no defects.
+14
+15 23-12-1106. Information required to be published.
+16 A railroad corporation shall publish and make known to all operating
+17 crews that operate railroad trains over railroad tracks equipped with defect
+18 detectors that:
+19 (1) An operating crew of a railroad train that receives an alarm
+20 from a defect detector or a defect detector equipped with trending defect
+21 detector technology shall reduce the speed of the railroad train in
+22 accordance with the railroad corporation's operating rules until the defect
+23 detector is cleared;
+24 (2) After receiving a defect detector message indicating a
+25 defect, the operating crew of the railroad train shall stop in accordance
+26 with the railroad corporation's operating rules and inspect the railroad
+27 train from a position on the ground;
+28 (3) An operating crew of a railroad train receiving a defect
+29 message of dragging equipment or a similar message from a defect detector
+30 shall stop immediately in accordance with the railroad corporation's
+31 operating rules and inspect the railroad train from a position on the ground;
+32 (4) If defects are found, the railroad train shall be inspected
+33 by the operating crew based on the industry standard of twenty (20) axles
+34 before and after the reported defect on both sides of the railroad train;
+35 (5) An inspection of a railroad train that is required based on
+36 a report from a defect detector shall not be made from a vehicle or any other
+6 04/09/2025 9:44:10 PM ZRC133
+
+HB2004
+1 form of transportation; and
+2 (6) A person shall not relieve a railroad train operating crew
+3 or an operator of a railroad train or equipment from an inspection under this
+4 section while operating the railroad train or equipment within the state.
+5
+6 23-12-1107. Discrepancy in number of axles detected by defect
+7 detector.
+8 (a) If a defect detector detects that a railroad train has at least
+9 two (2) fewer axles than the number of axles known to be in the railroad
+10 train, the discrepancy shall be reported to the proper railroad authority
+11 governing railroad train movement in the territory.
+12 (b) If an axle count provided by a defect detector is at least two (2)
+13 or more axles than the number of axles known to be in the railroad train:
+14 (1) The proper railroad authority governing railroad train
+15 movement in the territory shall be notified;
+16 (2) The extra equipment or extra railroad train car shall be
+17 identified within five (5) miles of the location where the defect detector
+18 reported the defect;
+19 (3) If communication is not established with the proper railroad
+20 authority, all movement of the railroad train shall stop within five (5)
+21 miles of the location where the defect detector reported the defect;
+22 (4) The railroad train shall not proceed unless the extra
+23 equipment or extra railroad train has been identified;
+24 (5) If the extra equipment is known to be hazardous, the
+25 railroad train shall not proceed without a radio waybill or proper
+26 documentation; and
+27 (6) Operating crew at the operating controls of a moving
+28 railroad train or equipment shall not be permitted to copy or repeat radio
+29 waybill information.
+30
+31 23-12-1108. Civil penalty.
+32 (a)(1) A person or railroad corporation who violates this subchapter
+33 is subject to a civil penalty of at least ten thousand dollars ($10,000) but
+34 not more than twenty-five thousand dollars ($25,000) for each day that the
+35 violation continues.
+36 (2) A person or railroad corporation that violates this
+7 04/09/2025 9:44:10 PM ZRC133
+
+HB2004
+1 subchapter is subject to a one-time civil penalty of five hundred thousand
+2 dollars ($500,000) if the Director of the State Highways and Transportation
+3 finds:
+4 (A) The violation to be grossly negligent; or
+5 (B) That a pattern of repeated violations has caused:
+6 (i) An imminent hazard of death or injury to an
+7 individual; or
+8 (ii) Death or injury to an individual.
+9 (b) A civil penalty collected under this section shall be deposited
+10 into the State Highway and Transportation Department Fund to be used for the
+11 maintenance, repair, and construction of the state highway system.
+12 (c) If a violation of this subchapter results in a railroad train
+13 derailment in the vicinity of a municipality and a civil penalty is assessed
+14 under subdivision (a)(2) of this section, one-half (1/2) of the civil penalty
+15 shall be remitted to the Arkansas Department of Transportation and one-half
+16 (1/2) of the civil penalty shall be remitted to the affected municipality.
+17 (d) The director shall determine the amount of a civil penalty imposed
+18 under subsection (a) of this section based on:
+19 (1) The nature, circumstances, extent, and gravity of the
+20 violation;
+21 (2) With respect to the violator, the:
+22 (A) Degree of the violator's culpability;
+23 (B) Violator's history of violations;
+24 (C) Violator's ability to pay; and
+25 (D) Effect on the violator's ability to continue to do
+26 business; and
+27 (3) Any other factors required by law.
+28
+29 SECTION 2. DO NOT CODIFY. Compliance.
+30 A railroad corporation operating within this state has twelve (12)
+31 months from the effective date of this act to retune all defect detectors
+32 within the state to ensure compliance with this act.
+33
+34
+35
+36
+8 04/09/2025 9:44:10 PM ZRC133
+
+[DELETED:          A M R D R D T O T P   T C D T  B   S a S   2  ( r a]
+[DELETED: H2 0 o d r c  ( d A   2  A   ( e d     (     (     ( w     (     (    (     (     (     (   ( r    (     ( r     ( c t r    ( i t   (]
+[DELETED: H3 0 i l   ( c c o    (     ( o     ( c o   (    ( o    (   ( b f o    ( l c     ( r     (     ( a   2  (   (   (   (  ( b]
+[DELETED: H4 0 w R   ( t    ( f w    ( ( t     (     ( l     ( t     ( t   ( e    (    (    ( i    (    ( p   2  ( t   (   ( r  ( t   (]
+[DELETED: H5 0 a r   ( o   ( o c   ( f a    ( i    ( t  ( u w d   ( a r   ( o   ( t s   ( t t a   ( q e   2  (]
+[DELETED: H6 0 a f  ( d d  ( c D   ( d    (    ( o   2  A c d   ( f d a d   ( d w t   ( m s o   ( b b   ( a]
+[DELETED: H7 0 f   ( o s   2 d  ( t t g  ( o   ( m   ( i r   ( a m   ( e   ( r d   ( r w   2  ( i n v   (]
+[DELETED: H8 0 s d f    (    (     ( i     (  ( i m  ( d u s (  ( u   ( v   (    (    (    (    ( b   (   S  A m w    ]

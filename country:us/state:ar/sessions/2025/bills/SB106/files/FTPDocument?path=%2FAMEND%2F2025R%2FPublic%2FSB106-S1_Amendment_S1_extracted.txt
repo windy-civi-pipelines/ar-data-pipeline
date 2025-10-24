@@ -1,0 +1,65 @@
+Title: ______________________________________________________________________
+Official Title: ______________________________________________________________________
+Number of Sections: 1
+Source: versions - Amendment S1
+Media Type: application/pdf
+Strikethrough Detection: 1 sections found
+
+================================================================================
+
+Section 1:
+ARKANSAS SENATE
+95th General Assembly - Regular Session, 2025
+Amendment Form
+JBC ERROR CORRECTION
+Subtitle of Senate Bill 106
+AN ACT FOR THE DEPARTMENT OF AGRICULTURE APPROPRIATION FOR THE 2025-
+2026 FISCAL YEAR.
+______________________________________________________________________
+Amendment No. 1 to Senate Bill 106
+Amend Senate Bill 106 as originally introduced:
+Page 21, delete line 35 in its entirety and insert the following:
+" (06) NORTHEAST DISTRICT FAIR 54,000
+(07) NORTHWEST DISTRICT FAIR 54,000
+(08) SOUTHWEST DISTRICT FAIR 54,000
+(09) SOUTHEAST DISTRICT FAIR 54,000
+(10) NORTH CENTRAL DISTRICT FAIR 54,000"
+And
+Appropriately renumber the Item Numbers in Section 36.
+*.BSS014*
+The Amendment was read the first time, rules suspended and read the second time and _______________________
+By: JOINT BUDGET COMMITTEE
+BSS/BSS - 01-28-2025 11:49:27 _________________________
+BSS014 Secretary
+[DELETED:  _ SA     5   5   5   5]
+
+
+================================================================================
+
+Raw Text:
+ARKANSAS SENATE
+95th General Assembly - Regular Session, 2025
+Amendment Form
+JBC ERROR CORRECTION
+______________________________________________________________________
+Subtitle of Senate Bill 106
+AN ACT FOR THE DEPARTMENT OF AGRICULTURE APPROPRIATION FOR THE 2025-
+2026 FISCAL YEAR.
+______________________________________________________________________
+Amendment No. 1 to Senate Bill 106
+Amend Senate Bill 106 as originally introduced:
+Page 21, delete line 35 in its entirety and insert the following:
+" (06) NORTHEAST DISTRICT FAIR 54,000
+(07) NORTHWEST DISTRICT FAIR 54,000
+(08) SOUTHWEST DISTRICT FAIR 54,000
+(09) SOUTHEAST DISTRICT FAIR 54,000
+(10) NORTH CENTRAL DISTRICT FAIR 54,000"
+And
+Appropriately renumber the Item Numbers in Section 36.
+*.BSS014*
+The Amendment was read the first time, rules suspended and read the second time and _______________________
+By: JOINT BUDGET COMMITTEE
+BSS/BSS - 01-28-2025 11:49:27 _________________________
+BSS014 Secretary
+
+[DELETED:  _ SA     5   5   5   5]

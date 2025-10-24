@@ -1,0 +1,85 @@
+Title: ______________________________________________________________________
+Official Title: ______________________________________________________________________
+Number of Sections: 1
+Source: versions - Amendment H1
+Media Type: application/pdf
+Strikethrough Detection: 1 sections found
+
+================================================================================
+
+Section 1:
+Hall of the House of Representatives
+95th General Assembly - Regular Session, 2025
+Amendment Form
+JBC 04/02/25 (1j)
+Subtitle of House Bill 1101
+AN ACT FOR THE ARKANSAS GOVERNOR'S MANSION COMMISSION
+APPROPRIATION FOR THE 2025-2026 FISCAL YEAR.
+______________________________________________________________________
+Amendment No. 1 to House Bill 1101
+Amend House Bill 1101 as originally introduced:
+Page 1, delete SECTION 1 in its entirety and replace with the following:
+" SECTION 1. REGULAR SALARIES - OPERATIONS. There is hereby established
+for the Arkansas Governor's Mansion Commission for the 2025-2026 fiscal year,
+the following maximum number of regular employees.
+Maximum Annual
+Maximum Salary Rate
+Item Class No. of Fiscal Year
+No. Code Title Employees 2025-2026
+(1) GOV42G GOV MANSION ADMINISTRATOR 1 GRADE SPC09
+(2) GOV41G GOV CHEF 1 GRADE SGS11
+(3) GOV39G GOV HORTICULTURALIST 1 GRADE SGS08
+(4) GOV44G GOV MANSION EVENTS MANAGER 1 GRADE SGS07
+(5) GOV40G GOV FOOD SERVICES EXPERT 2 GRADE SGS05
+(6) GOV38G GOV EXECUTIVE COORDINATOR 1 GRADE SGS05
+(7) GOV43G GOV MAINTENANCE MANAGER 1 GRADE SGS02
+(8) GOV45G GOV MANSION EVENTS AIDE 1 GRADE SGS04
+(9) GOV46G GOV MANSION EVENTS COORDINATOR 1 GRADE SGS05
+MAX NO. OF EMPLOYEES 10”.
+*.JAR053*
+The Amendment was read ________________________________________________________________________________
+By: JOINT BUDGET COMMITTEE
+JAR/JAR - 04-03-2025 09:36:13 _________________________
+JAR053 Chief Clerk
+[DELETED:  _ CA   S                                  ]
+
+
+================================================================================
+
+Raw Text:
+Hall of the House of Representatives
+95th General Assembly - Regular Session, 2025
+Amendment Form
+JBC 04/02/25 (1j)
+______________________________________________________________________
+Subtitle of House Bill 1101
+AN ACT FOR THE ARKANSAS GOVERNOR'S MANSION COMMISSION
+APPROPRIATION FOR THE 2025-2026 FISCAL YEAR.
+______________________________________________________________________
+Amendment No. 1 to House Bill 1101
+Amend House Bill 1101 as originally introduced:
+Page 1, delete SECTION 1 in its entirety and replace with the following:
+" SECTION 1. REGULAR SALARIES - OPERATIONS. There is hereby established
+for the Arkansas Governor's Mansion Commission for the 2025-2026 fiscal year,
+the following maximum number of regular employees.
+Maximum Annual
+Maximum Salary Rate
+Item Class No. of Fiscal Year
+No. Code Title Employees 2025-2026
+(1) GOV42G GOV MANSION ADMINISTRATOR 1 GRADE SPC09
+(2) GOV41G GOV CHEF 1 GRADE SGS11
+(3) GOV39G GOV HORTICULTURALIST 1 GRADE SGS08
+(4) GOV44G GOV MANSION EVENTS MANAGER 1 GRADE SGS07
+(5) GOV40G GOV FOOD SERVICES EXPERT 2 GRADE SGS05
+(6) GOV38G GOV EXECUTIVE COORDINATOR 1 GRADE SGS05
+(7) GOV43G GOV MAINTENANCE MANAGER 1 GRADE SGS02
+(8) GOV45G GOV MANSION EVENTS AIDE 1 GRADE SGS04
+(9) GOV46G GOV MANSION EVENTS COORDINATOR 1 GRADE SGS05
+MAX NO. OF EMPLOYEES 10”.
+*.JAR053*
+The Amendment was read ________________________________________________________________________________
+By: JOINT BUDGET COMMITTEE
+JAR/JAR - 04-03-2025 09:36:13 _________________________
+JAR053 Chief Clerk
+
+[DELETED:  _ CA   S                                  ]

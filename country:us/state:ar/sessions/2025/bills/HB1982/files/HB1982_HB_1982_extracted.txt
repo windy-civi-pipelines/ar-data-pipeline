@@ -1,0 +1,2629 @@
+Title: Stricken language would be deleted from and underlined language would be added to present law.
+Official Title: Stricken language would be deleted from and underlined language would be added to present law.
+Number of Sections: 1
+Source: versions - HB 1982
+Media Type: application/pdf
+Strikethrough Detection: 33 sections found
+
+================================================================================
+
+Section 1:
+1 State of Arkansas
+A Bill
+2 95th General Assembly
+3 Regular Session, 2025 HOUSE BILL 1982
+4
+5 By: Representative Wooldridge
+6 By: Senator B. Davis
+7
+For An Act To Be Entitled
+8
+9 AN ACT TO AMEND THE USED TIRE RECYCLING AND
+10 ACCOUNTABILITY ACT; TO CREATE THE TIRE MANAGEMENT AND
+11 RECYCLING ACT; TO REPEAL THE USED TIRE RECYCLING
+12 FUND; TO CREATE THE WASTE TIRE ABATEMENT FUND; AND
+13 FOR OTHER PURPOSES.
+14
+15
+Subtitle
+16
+17 TO AMEND THE USED TIRE RECYCLING AND
+18 ACCOUNTABILITY ACT; TO CREATE THE TIRE
+19 MANAGEMENT AND RECYCLING ACT; TO REPEAL
+20 THE USED TIRE RECYCLING FUND; AND TO
+21 CREATE THE WASTE TIRE ABATEMENT FUND.
+22
+23
+24 BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF ARKANSAS:
+25
+26 SECTION 1. Arkansas Code Title 8, Chapter 9, Subchapter 4 is amended
+27 to read as follows:
+28 Subchapter 4 — Used Tire Recycling and Accountability Act Tire Management and
+29 Recycling Act
+30
+31 8-9-401. Title — Legislative intent — Findings.
+32 (a) This subchapter shall be known and may be cited as the “Used Tire
+33 Recycling and Accountability Act” "Tire Management and Recycling Act".
+34 (b) The purpose of this subchapter is to:
+35 (1) Protect the public health and the state's environmental
+36 quality by setting and implementing standards to be followed in the hauling,
+*JMB636*
+04/03/2025 8:44:54 AM JMB636
+HB1982
+1 collection, storage, and recycling or disposal of recyclable tires, waste
+2 tires, and used tires culled for resale; and
+3 (2) Provide accountability and sustainability for used tire
+4 programs by requiring use of the electronic uniform used tire manifest system
+5 developed by the Division of Environmental Quality and business plans for
+6 used tire programs;
+7 (3) Equalize the application of fees for all tires removed from
+8 rims; and
+9 (4) Ensure that reimbursements for used tire programs are
+10 related to the overall used tire program goals.
+11 (c) The General Assembly finds that:
+12 (1) If not properly managed, used tires pose a potential threat
+13 to human health and safety and the environment because used tires:
+14 (A) Are a known breeding habitat for mosquitoes and other
+15 disease-transmitting vectors; and
+16 (B) Pose substantial fire hazards;
+17 (2) The state must have a used tire program for recyclable
+18 tires, waste tires, and used tires culled for resale that is accountable,
+19 effective, and efficient; and
+20 (3) The primary goal of the used tire program this subchapter is
+21 to recycle or put to beneficial use as many used tires as possible.
+22
+23 8-9-402. Definitions.
+24 As used in this subchapter:
+25 (1)(A) “Abatement” means proper removal of tires from a waste
+26 tire site or from a tire retailer who can show the waste tire district failed
+27 to pick up or remove tires from the location of the tire retailer in a
+28 reasonable time frame to a permitted tire processor, to a site authorized by
+29 the Division of Environmental Quality, or for use in a beneficial use
+30 project.
+31 (B) Abated tires are not abandoned or discarded;
+32 (2) “Beneficial use” means using a tire or part of a tire:
+33 (A) To make another product;
+34 (B) To make a component material of another product;
+35 (C) As a substitute for a commercial product or material;
+36 or
+2 04/03/2025 8:44:54 AM JMB636
+HB1982
+1 (D) As a component to produce an alternative fuel for
+2 commercial purposes;
+3 (E) For civil engineering purposes; or
+4 (F) For lightweight aggregate fill;
+5 (2)(A) “Commercial generator” means a person who sells new tires
+6 or provides delivery of new tires as part of fleet services to any one (1) or
+7 more of the following:
+8 (i) A municipality;
+9 (ii) A county;
+10 (iii) A state agency;
+11 (iv) A federal agency;
+12 (v) A school district;
+13 (vi) A political subdivision of the state; or
+14 (vii) A person who in the ordinary course of
+15 business buys tires in bulk for use on commercial vehicles.
+16 (B) “Commercial generator” does not include a tire
+17 retailer;
+18 (3) “Electronic uniform used tire manifest system” means an
+19 administrative method developed by the Division of Environmental Quality
+20 under § 8-9-407 that:
+21 (A) Primarily uses an electronic application for the
+22 submission and management of information related to the generation,
+23 collection, transportation, distribution, and recycling, disposal, or resale
+24 of each recyclable tire, waste tire, and used tire culled for resale
+25 regulated under this subchapter;
+26 (B) Secondarily may allow submission of used tire data
+27 that is manifested using an equivalent paper documentation; and
+28 (C) Records the origin, date of collection, date of
+29 transfer, quantity, type, transporter, and destination for each recyclable
+30 tire, waste tire, and used tire culled for resale regulated under this
+31 subchapter;
+32 (4)(A) “Extra-large tire” means a tire that, due to its size or
+33 construction, is more difficult to process for recycling or disposal than a
+34 large tire and costs substantially more to process than a large tire.
+35 (B) “Extra-large tire” includes without limitation a tire
+36 used, capable of being used, or designed to be used on any of the following
+3 04/03/2025 8:44:54 AM JMB636
+HB1982
+1 vehicles or equipment:
+2 (i) A skid steer loader;
+3 (ii) Excavation equipment;
+4 (iii) A farm implement, including without limitation
+5 a tractor;
+6 (iv) A backhoe;
+7 (v) A road grader;
+8 (vi) Industrial equipment;
+9 (vii) A skidder; or
+10 (viii) A heavy duty truck used off-road for mining.
+11 (C) “Extra-large tire” includes without limitation a wide-
+12 base tire or extra-wide single tire;
+13 (5) “Inter-district used tire program” means a program formed by
+14 agreement of two (2) or more regional solid waste management boards to pool
+15 resources of all regional solid waste management boards that are parties to
+16 the agreement for the administration of one (1) consolidated used tire
+17 program;
+18 (6) “Large tire” means a tire with a load rating of “F” or
+19 higher;
+20 (7) “Load rating” means the system of trade designations that
+21 identifies the weight-carrying capacity range of a tire;
+22 (8)(A)(3)(A) “Operator” means a person who performs a function
+23 that:
+24 (i) Requires individual judgment; and
+25 (ii) May directly affect the proper operation at one
+26 (1) or more of the following:
+27 (a) A tire collection center;
+28 (b) A tire processing facility;
+29 (c) A tire generator facility; or
+30 (d) A waste tire monofill.
+31 (B) “Operator” includes a person who performs a function
+32 at a waste tire site.
+33 (C) “Operator” does not include a person who exclusively
+34 exercises general administrative supervision;
+35 (9)(4) “Owner” means a person who holds legal title to property
+36 where a tire collection center, tire processing facility, tire generator
+4 04/03/2025 8:44:54 AM JMB636
+HB1982
+1 facility, waste tire monofill, waste tire site, or other waste tire facility
+2 exists;
+3 (10)(5) “Person” means an individual, government entity, or any
+4 other entity that is recognized by law with rights and duties;
+5 (11) “Qualified entity” means an entity that demonstrates to the
+6 division that the entity has the capability, experience, and resources to
+7 operate and administer a used tire program in compliance with this
+8 subchapter;
+9 (12) “Recyclable tire” means a worn, damaged, or defective tire
+10 that is recycled because it is no longer repairable, reusable, or suitable
+11 for its original intended purpose;
+12 (6) “Proceeds from tire retailer fees” means all moneys
+13 collected and received by the Department of Finance and Administration under
+14 this subchapter for tire retailer fees imposed under this subchapter and
+15 interest and penalties on delinquent tire retailer fees;
+16 (13)(7) “Recycle” means the systematic process of collecting,
+17 sorting, decontaminating, and returning waste materials to commerce as
+18 commodities for use, other beneficial use, or exchange;
+19 (14)(A) “Small tire” means a tire that has a load rating lower
+20 than “F”.
+21 (B) “Small tire” includes a tire from any of the following
+22 vehicles:
+23 (i) An automobile;
+24 (ii) A motorcycle; or
+25 (iii) An all-terrain vehicle;
+26 (15)(A)(8)(A) “Tire” means any one (1) or more of the following:
+27 (i) A continuous, ring-shaped, removable cover made
+28 of solid rubber, pneumatic rubber, or semipneumatic rubber that is installed
+29 around a wheel rim; or
+30 (ii) Any other round piece of equipment that is
+31 attached or could be attached to a vehicle, tractor, or aircraft and has a
+32 primary function of enabling surface mobility.
+33 (B) “Tire” does not include a solid wheel rim with an
+34 integral rubber covering or a tire used on a nonmotorized bicycle, golf cart,
+35 or lawn mower;
+36 (16)(9) “Tire collection center” means a site where tires are
+5 04/03/2025 8:44:54 AM JMB636
+HB1982
+1 collected from tire generators, tire transporters, or the public before being
+2 recycled or disposed of by a used tire program;
+3 (17)(A)(10)(A) “Tire generator” means a person who:
+4 (i) Removes tires from rims for disposal or resale;
+5 or
+6 (ii) Stores used tires on or in property owned,
+7 leased, or otherwise controlled by that person;
+8 (iii) Sells new tires; or
+9 (iv) Provides delivery of new tires as part of fleet
+10 services.
+11 (B) “Tire generator” includes without limitation:
+12 (i) A tire retailer;
+13 (ii) A tire wholesaler;
+14 (iii) A tire transporter;
+15 (iv) A tire manufacturer;
+16 (v) A manufacturer of retreaded tires;
+17 (vi) A new car dealer;
+18 (vii) A used car dealer;
+19 (viii) An auto repair shop; or
+20 (ix) A salvage yard.
+21 (C) “Tire generator” does not include a commercial
+22 generator;
+23 (18)(11) “Tire manufacturer” means a manufacturing operation
+24 engaged in the final assembly of the basic components of a tire;
+25 (19)(12) “Tire processing facility” means a site where equipment
+26 is used to cut, chip, grind, or otherwise alter used tires;
+27 (20)(A)(13)(A) “Tire retailer” means any one (1) or more of the
+28 following:
+29 (i) A person who is in the business of selling new
+30 tires, used tires, or both new tires and used tires to the end consumer; or
+31 (ii) A person who is in the business of or receives
+32 compensation for removing tires from rims.
+33 (B) “Tire retailer” does not include a person who sells
+34 tires to another person exclusively for the purpose of resale if the
+35 subsequent retail sale is subject to the fee fees imposed under § 8-9-404 or
+36 a commercial generator;
+6 04/03/2025 8:44:54 AM JMB636
+HB1982
+1 (21)(14) “Tire transporter” means a person who is in the
+2 business of or receives compensation for transferring used tires from one (1)
+3 location to another location for collection, storage, processing, recycling,
+4 disposal, reuse, or resale;
+5 (15) “Uniform used tire manifest system” means an administrative
+6 method developed by the division under § 8-9-407 that:
+7 (A) For the management of information related to the
+8 generation, collection, transportation, distribution, and recycling,
+9 disposal, or resale of each recyclable tire, waste tire, and used tire culled
+10 for resale regulated under this subchapter; and
+11 (B) Records the origin, date of collection, date of
+12 transfer, quantity, type, transporter, and destination for each recyclable
+13 tire, waste tire, and used tire culled for resale regulated under this
+14 subchapter;
+15 (22)(A)(16)(A) “Used tire” means a tire that meets one (1) or
+16 more of the following criteria:
+17 (i) Is repairable or retreadable for its original
+18 intended purpose;
+19 (ii) Is reusable;
+20 (iii) Is recyclable; or
+21 (iv) Has been collected by a tire retailer or at a
+22 tire collection center operated under this subchapter.
+23 (B) “Used tire” includes without limitation a recyclable
+24 tire, waste tire, and used tire culled for resale.
+25 (C) “Used tire” does not include a tire being held for
+26 ninety (90) days or less for the purpose of retreading or repairing the tire;
+27 (23)(17) “Used tire culled for resale” means a tire that is
+28 removed from the rim but is diverted from a tire collection center, tire
+29 processing facility, or tire transporter with the intention of selling for
+30 reuse;
+31 (24) “Used tire program” means a program that receives funding
+32 under this subchapter and is operated by:
+33 (A) A regional solid waste management board; or
+34 (B) An inter-district used tire program;
+35 (25)(18) “Vehicle” means any piece of equipment that uses wheels
+36 for surface mobility;
+7 04/03/2025 8:44:54 AM JMB636
+HB1982
+1 (26)(19) “Waste tire” means a worn, damaged, or defective tire,
+2 or a tire remnant destined for disposal that is land disposed because it is
+3 no longer repairable, reusable, or suitable for its original intended
+4 purpose;
+5 (27)(A)(20)(A) “Waste tire site” means a location where
+6 unpermitted used tires are accumulated, whether loosely stored, compacted and
+7 baled, or a combination of both loosely stored and compacted and baled.
+8 (B) “Waste tire site” does not include:
+9 (i) A location where only new tires are stored; or
+10 (ii) A location that is authorized to store tires by
+11 the division or rules promulgated by the Arkansas Pollution Control and
+12 Ecology Commission; and
+13 (28)(21) “Waste tires originating from a tire manufacturer”
+14 means those new tires that originate from a tire assembly process and are
+15 determined by the tire manufacturer to be either defective or unfit for use
+16 on a vehicle; and
+17 (29) “Wide-base tire” or “extra-wide single tire” means a tire
+18 approximately four hundred fifty-five millimeters (455 mm) wide that is used
+19 on a vehicle in which the front axle load exceeds the load capacity of a
+20 truck tire.
+21
+22 8-9-403. Operation of waste tire sites — Requirements and prohibited
+23 activities.
+24 (a)(1) The owner or operator of any waste tire site shall provide the
+25 Division of Environmental Quality and the applicable regional solid waste
+26 management district with:
+27 (A) Information concerning the waste tire site's location
+28 and size and the approximate number of tires that are accumulated at the
+29 waste tire site; and
+30 (B) A written plan specifying a method and time schedule,
+31 subject to approval by the division, for the removal, disposal, or recycling
+32 of the tires.
+33 (2) The owner or operator shall implement a written plan
+34 approved by the division according to the written plan's schedule.
+35 (b) A person shall not cause or permit the open burning of tires in
+36 the state.
+8 04/03/2025 8:44:54 AM JMB636
+HB1982
+1 (c)(1) A person shall not maintain a waste tire site.
+2 (2) It is illegal for any person to dispose of tires or portions
+3 of tires in the state unless the tires or portions of tires are disposed of
+4 for processing or collected for processing at a permitted tire processing
+5 facility, a tire collection center, or a permitted solid waste disposal
+6 facility.
+7 (3)(A) Unless otherwise provided by law or rule, whole tires
+8 shall not be deposited into a landfill or a waste tire monofill as a method
+9 of final disposal unless shredded or split into sufficiently small parts to
+10 assure their proper disposal.
+11 (B) Unless otherwise provided by law or rule, only small
+12 tires that have been processed by cutting, shredding, or splitting into
+13 sufficiently small parts to assure proper disposal or small tires processed
+14 by baling may be disposed of at a disposal site that has a permit issued for
+15 a landfill designed and operated as a waste tire monofill.
+16 (C) Suitable processed-tire materials may be used in the
+17 construction of daily and intermediate cover systems for all landfills if the
+18 use is:
+19 (i) Authorized by the division;
+20 (ii) Shown to not present a threat to human health
+21 and the environment; and
+22 (iii) Shown to control disease, vectors, fires,
+23 odors, blowing litter, or scavenging.
+24 (4) A person who leases, owns, or otherwise controls real
+25 property may use tires in compliance with procedures approved by and rules
+26 promulgated by the Arkansas Pollution Control and Ecology Commission and
+27 procedures approved by each district:
+28 (A) For soil erosion abatement and drainage purposes; or
+29 (B) To secure covers over silage, hay, straw, or
+30 agricultural products.
+31 (d) A tire processing facility permit or tire collection center
+32 permit, or both, is required for:
+33 (1) A tire retreading business where tires are kept on any real
+34 property owned, leased, or otherwise controlled by the tire retreading
+35 business;
+36 (2) A person that in the ordinary course of business removes
+9 04/03/2025 8:44:54 AM JMB636
+HB1982
+1 tires from rims and the tires removed from rims are stored for more than
+2 ninety (90) calendar days on any real property owned, leased, or otherwise
+3 controlled by the person; or
+4 (3) A tire retailer that is serving as a tire collection center
+5 if recyclable tires, waste tires, or used tires culled for resale are kept on
+6 any real property owned, leased, or otherwise controlled by the tire
+7 retailer.
+8 (e)(1) If disposed or recycled in the state, waste tires originating
+9 from a tire manufacturer shall be disposed of at transported to a permitted
+10 tire collection center or disposed of at a permitted tire processing facility
+11 for a fee to be established by the permitted tire collection center or
+12 permitted tire processing facility.
+13 (2) Records of the disposition of the waste tires originating
+14 from a tire manufacturer shall be maintained by that tire manufacturer for a
+15 period of at least three (3) years and shall be available for review by the
+16 division.
+17
+18 8-9-404. Rim removal fees — Import fees — Commercial generator Tire
+19 retailer fees — Definitions.
+20 (a)(1) There is imposed a rim removal fee upon the transaction of
+21 removing a tire from a rim that is related to the sale of a replacement tire
+22 by a tire retailer.
+23 (2) The rim removal fee shall be charged by the tire retailer to
+24 a person who:
+25 (A) Purchases a replacement tire for a rim that
+26 necessitates the removal of a different tire from the same rim; or
+27 (B) Purchases the service of removal of a tire from a rim
+28 and replacement with a tire that was not purchased from the tire retailer if
+29 the person requesting the rim removal cannot show proof of payment of the rim
+30 removal fee under this section for the replacement tire.
+31 (3)(A) The rim removal fee shall be imposed at the rate of three
+32 dollars ($3.00) for each new tire that replaces a tire removed from a rim and
+33 one dollar ($1.00) for each used tire that replaces the tire removed from the
+34 rim.
+35 (B) Except for the rim removal fees imposed under this
+36 section, a tire retailer shall not charge any other fee to a person who
+10 04/03/2025 8:44:54 AM JMB636
+HB1982
+1 purchases the service of removal of a tire from a rim.
+2 (C) For any tires collected by a tire retailer, the tire
+3 retailer shall ensure that the tires are transported by a licensed tire
+4 transporter to a permitted tire collection center, a solid waste management
+5 facility, a tire processing facility, or another tire retailer.
+6 (D) The tire retailer shall account for each tire removed
+7 from a rim in the manner prescribed by the Department of Finance and
+8 Administration.
+9 (E) Each tire retailer shall register with the department
+10 and comply with all requirements related to collecting and reporting rim
+11 removal fees.
+12 (4) The rim removal fees imposed under this section shall be
+13 added to the total cost charged by the tire retailer to the purchaser after
+14 all applicable gross receipts or compensating use taxes on the tires have
+15 been computed and shall be separately stated on the invoice or bill of sale.
+16 (5)(A) The rim removal fees imposed under this section shall be
+17 paid monthly to the Secretary of the Department of Finance and
+18 Administration.
+19 (B) However, the tire retailer may retain five percent
+20 (5%) of the rim removal fee imposed under subdivision (a)(3)(A) of this
+21 section for administrative costs.
+22 (6)(A) The rim removal fees remitted under subdivision (a)(5)(A)
+23 of this section shall be collected by the secretary and shall be subject to
+24 the Arkansas Tax Procedure Act, § 26-18-101 et seq. and the business closure
+25 procedures under § 26-18-1001 et seq.
+26 (B)(i) Each tire retailer shall file a return with the
+27 secretary on or before the twentieth of each month.
+28 (ii) The return shall show the total rim removal
+29 fees collected for each tire removed from the rim during the preceding
+30 calendar month.
+31 (iii) The tire retailer shall remit the rim removal
+32 fees with the return.
+33 (iv) The secretary shall prescribe the form and
+34 contents of the return.
+35 (b)(1) The department shall deposit the proceeds from rim removal fees
+36 collected under subsection (a) of this section into the State Treasury as
+11 04/03/2025 8:44:54 AM JMB636
+HB1982
+1 special revenues to the credit of the following funds in the following
+2 percentages:
+3 (A) Ninety-three percent (93%) to be deposited into the
+4 Used Tire Recycling Fund; and
+5 (B) Seven percent (7%) to be deposited into the Division
+6 of Environmental Quality Fee Trust Fund.
+7 (2) As used in this section, “proceeds from rim removal fees”
+8 means all moneys collected and received by the department under this section
+9 for rim removal fees imposed under subsection (a) of this section and
+10 interest and penalties on delinquent rim removal fees.
+11 (c)(1)(A) There is imposed an import fee of one dollar ($1.00) on each
+12 used tire that is imported into Arkansas.
+13 (B) A person who imports a used tire shall be registered
+14 with the department and comply with all requirements related to collecting
+15 and reporting import fees.
+16 (2) The import fee imposed under this subsection shall be paid
+17 by the person who imports the used tire to the department in accordance with
+18 the Arkansas Tax Procedure Act, § 26-18-101 et seq., the business closure
+19 procedures under § 26-18-1001 et seq., and any rules promulgated by the
+20 department.
+21 (3)(A) The department shall deposit the proceeds from import
+22 fees imposed under this subsection into the State Treasury as special
+23 revenues to the credit of the following funds in the following percentages:
+24 (i) Ninety-three percent (93%) to be deposited into
+25 the Used Tire Recycling Fund; and
+26 (ii) Seven percent (7%) to be deposited into the
+27 Division of Environmental Quality Fee Trust Fund.
+28 (B) As used in this section, “proceeds from import fees”
+29 means all moneys collected and received by the department under this
+30 subsection and interest and penalties on delinquent import fees.
+31 (a)(1) A person who imports a used tire into this state shall be
+32 responsible for legally hauling and disposing of or recycling the waste tires
+33 and residuals.
+34 (2) A tire retailer may collect and charge a fee for the cost of
+35 legally hauling and disposing of or recycling the waste tires and residuals.
+36 (d)(1)(b)(1) There is imposed a commercial generator tire retailer fee
+12 04/03/2025 8:44:54 AM JMB636
+HB1982
+1 upon the transaction of a commercial generator tire retailer selling or
+2 delivering a new tire as part of fleet services.
+3 (2) The commercial generator tire retailer fee shall be charged
+4 by the commercial generator tire retailer to a person who in the ordinary
+5 course of business is an end user that removes used tires from the rim and
+6 replaces them with of a new tire.
+7 (3)(A) The commercial generator tire retailer fee shall be
+8 imposed at the rate of three dollars ($3.00) one dollar and fifty cents
+9 ($1.50) for each new tire that is sold or delivered to an end user that
+10 removes used tires from the rim and replaces them with a new tire.
+11 (B) Except for the commercial generator fees imposed under
+12 this section, the commercial generator shall not charge any other fee to the
+13 end user.
+14 (C)(i)(B)(i) For any used tires collected by a commercial
+15 generator tire retailer, the first transportation of the used tire from the
+16 end user to the commercial generator's tire retailer's facility does not
+17 require a licensed tire transporter.
+18 (ii) Any subsequent transportation of the used tire
+19 by the commercial generator tire retailer for recycling or disposal requires
+20 a licensed tire transporter and shall be accounted for using the electronic
+21 uniform used tire manifest system.
+22 (D)(C) Each commercial generator tire retailer shall
+23 register with the department Department of Finance and Administration and
+24 comply with all requirements related to collecting and reporting commercial
+25 generator tire retailer fees.
+26 (4) The commercial generator tire retailer fees imposed under
+27 this section shall be added to the total cost charged by the commercial
+28 generator tire retailer to the end user after all applicable gross receipts
+29 or compensating use taxes on the tires have been computed and shall be
+30 separately stated on the invoice or bill of sale.
+31 (5)(A) The commercial generator tire retailer fees imposed under
+32 this section shall be paid monthly to the secretary department.
+33 (B) However, the commercial generator tire retailer may
+34 retain five percent (5%) two percent (2%) of the commercial generator tire
+35 retailer fee imposed under subdivision (d)(3)(A) (b)(3)(A) of this section
+36 for administrative costs.
+13 04/03/2025 8:44:54 AM JMB636
+HB1982
+1 (6)(A) The commercial generator tire retailer fees remitted in
+2 subdivision (d)(5)(A) (b)(5)(A) of this section shall be collected by the
+3 secretary department and shall be subject to the Arkansas Tax Procedure Act,
+4 § 26-18-101 et seq., and the business closure procedures under § 26-18-1001
+5 et seq.
+6 (B)(i)(a) Each commercial generator tire retailer shall
+7 file a return with the secretary department on or before the twentieth of
+8 each month.
+9 (b) The return shall show the total commercial
+10 generator tire retailer fees collected for each tire sold or delivered to the
+11 end user during the preceding calendar month.
+12 (c) The commercial generator tire retailer
+13 shall remit the commercial generator tire retailer fees with the return.
+14 (ii) The secretary department shall prescribe the
+15 form and contents of the return.
+16 (7)(A) The department shall deposit the proceeds from commercial
+17 generator tire retailer fees collected under this subsection into the State
+18 Treasury as special revenues to the credit of the following funds in the
+19 following percentages:
+20 (A) Ninety-three percent (93%) to be deposited into the
+21 Used Tire Recycling Fund; and
+22 (B) Seven percent (7%) to be deposited into the Division
+23 of Environmental Quality Fee Trust Fund Waste Tire Abatement Fund.
+24 (B) No more than five hundred thousand ($500,000)
+25 annually, with an annual escalator not to exceed two percent (2%), shall be
+26 transferred to the Division of Environmental Quality Fee Trust Fund to be
+27 used for administration expenses.
+28 (8) As used in this section, “proceeds from commercial generator
+29 fees” means all moneys collected and received by the department under this
+30 section for commercial generator fees imposed under this subsection and
+31 interest and penalties on delinquent commercial generator fees.
+32 (e)(1) It is the purpose and intent of this section that only one (1)
+33 of the following fees imposed under this section be charged for the
+34 transaction of removing a tire from a rim that is related to the sale of a
+35 replacement tire:
+36 (A) The rim removal fee; or
+14 04/03/2025 8:44:54 AM JMB636
+HB1982
+1 (B) The commercial generator fee.
+2 (2) If a person establishes that he or she has paid one (1) of
+3 the fees for a tire, the tire retailer or tire generator shall not charge an
+4 additional fee for that tire.
+5 (c)(1) If the balance of the Waste Tire Abatement Fund exceeds five
+6 million dollars ($5,000,000), the Arkansas Pollution Control and Ecology
+7 Commission may reduce the tire retailer fee up to fifty percent (50%).
+8 (2) A decision to reduce the tire retailer fee under subdivision
+9 (c)(1) of this section is effective for the fiscal year following the
+10 commission’s decision.
+11 (d)(1) If the Division of Environmental Quality is unable to locate
+12 the person that is responsible for the waste tire site or compel the person
+13 responsible for the waste tire site to remove the waste tires, the division
+14 may use Waste Tire Abatement Fund moneys for the abatement of the waste tires
+15 or offer a waste tire abatement grant to:
+16 (A) A regional solid waste management district;
+17 (B) A city;
+18 (C) A county;
+19 (D) A tire retailer that can prove that the waste tire
+20 district failed to pick up or remove tires from the location of the tire
+21 retailer in a reasonable time frame; or
+22 (E) A planning and development district.
+23 (2) If a waste tire abatement grant is awarded to a person
+24 described in subdivision (d)(1) of this section, the person shall provide
+25 manifests demonstrating ultimate disposal or recycling in conformity with §
+26 8-9-403(c)(1).
+27 (3) The division may deny an application for reimbursement of
+28 waste tire site removal and delivery costs if the division determines that
+29 the cost would result in insufficient moneys in the Waste Tire Abatement
+30 Fund.
+31
+32 8-9-405. Used tire program reimbursements.
+33 (a) The Division of Environmental Quality shall establish the Used
+34 Tire Recycling and Accountability Program to:
+35 (1) Reimburse used tire programs for used tire recycling and
+36 disposal costs;
+15 04/03/2025 8:44:54 AM JMB636
+HB1982
+1 (2) Incentivize recycling used tires collected under this
+2 subchapter;
+3 (3) Provide accountability for the disbursement of moneys to
+4 used tire programs; and
+5 (4) Otherwise improve the sustainability of used tire programs.
+6 (b) To be eligible for reimbursements under this subchapter, a used
+7 tire program shall:
+8 (1) Be included in the solid waste management system under § 8-
+9 9-101 et seq. for each regional solid waste management district that the used
+10 tire program serves;
+11 (2) Have a used tire management plan for each regional solid
+12 waste management district that the used tire program serves to include
+13 without limitation a schedule for identification and cleanup of waste tire
+14 sites that is updated until abatement of each identified waste tire site is
+15 completed;
+16 (3) Be included in each regional solid waste management
+17 district's recycling program under § 8-9-203 that the used tire program
+18 serves;
+19 (4) If operated by a political subdivision of the state or other
+20 public entity:
+21 (A) Use the financial management system under § 14-21-101
+22 et seq.;
+23 (B) Comply with the county purchasing procedures under §
+24 14-22-101 et seq.;
+25 (C) Comply with the Arkansas County Accounting Law of
+26 1973, § 14-25-101 et seq.; and
+27 (D) Comply with the Local Fiscal Management Responsibility
+28 Act, § 14-77-101 et seq.;
+29 (5) Be operated in compliance with this subchapter and all other
+30 laws and rules related to the administration of solid waste management
+31 systems and recycling programs in Arkansas;
+32 (6) Encourage the voluntary establishment of tire collection
+33 centers at tire retailers, tire processing facilities, and solid waste
+34 disposal facilities for the deposit of tires generated in the state;
+35 (7) Provide the division with business plan information required
+36 under § 8-9-408;
+16 04/03/2025 8:44:54 AM JMB636
+HB1982
+1 (8) Provide the division with all quarterly financial
+2 information and progress reports related to § 8-9-409;
+3 (9)(A) Establish tire collection centers within each county
+4 served by the used tire program that accepts tires from tire retailers at no
+5 charge if the tire retailer establishes that it:
+6 (i) Collects the rim removal fee imposed under § 8-
+7 9-404(a); and
+8 (ii) Complies with the electronic uniform used tire
+9 manifest system under § 8-9-407.
+10 (B) The tire collection centers under this subdivision
+11 (b)(9) may be at any one (1) or more of the following:
+12 (i) A solid waste disposal facility;
+13 (ii) A tire processing facility; or
+14 (iii) A tire retailer; and
+15 (10) Establish at least one (1) tire collection center within
+16 each county served by the used tire program.
+17 (c) A used tire program that receives reimbursements under this
+18 section may:
+19 (1) Contract with a tire processing facility that is approved by
+20 the Director of the Division of Environmental Quality;
+21 (2) Remove or contract for the removal of tires from waste tire
+22 sites within the regional solid waste management district;
+23 (3) Provide incentives for establishing privately operated tire
+24 collection centers for the public; and
+25 (4) Form an inter-district used tire program.
+26 (d) Moneys disbursed from the Used Tire Recycling Fund by the division
+27 for reimbursements under this section shall be:
+28 (1) Distributed as provided under this section only to the used
+29 tire programs that comply with all applicable requirements in this subchapter
+30 related to the operation of used tire programs;
+31 (2) Based on moneys available in the fund, the approved business
+32 plan rate, quarterly financial reports, and other documentation submitted by
+33 the used tire programs; and
+34 (3) Made on a quarterly basis to the used tire programs.
+35 (e)(1) Quarterly disbursements from the fund shall be paid each
+36 quarter from all moneys available for disbursement in that quarter.
+17 04/03/2025 8:44:54 AM JMB636
+HB1982
+1 (2) If there are insufficient moneys available in a quarter to
+2 make reimbursements for all submitted requests under subsection (f) of this
+3 section, the division shall calculate the total remaining funding available
+4 and allocate the moneys available for reimbursement to each used tire program
+5 based on a pro rata share of each used tire program's reimbursement request
+6 compared to the total moneys available.
+7 (3)(A) The Arkansas Pollution Control and Ecology Commission may
+8 increase reimbursement rates if the director recommends an increase because
+9 of one (1) or more of the following:
+10 (i) The relevant consumer price index for the
+11 preceding calendar year exceeded the consumer price index for calendar year
+12 2018; or
+13 (ii) The used tire programs have established an
+14 increase in operation costs.
+15 (B) An increase to any reimbursement rate under subsection
+16 (f) of this section shall not exceed ten percent (10%) each calendar year.
+17 (f) Based on data received from the electronic uniform used tire
+18 manifest system and quarterly reports, the funding for reimbursement for
+19 processing, recycling, or disposing of used tires at the approved business
+20 plan rate may be available from the fund for used tire programs that are in
+21 compliance with all applicable requirements of this subchapter.
+22 (g) At the request of a used tire program that needs operational
+23 assistance or guidance on compliance with this subchapter, the division shall
+24 provide to the used tire program operational assistance or guidance on
+25 compliance with this subchapter.
+26 (h) The division shall:
+27 (1) Develop market opportunities for beneficial use of used tire
+28 material; and
+29 (2) Educate the public on the Used Tire Recycling and
+30 Accountability Program.
+31
+32 8-9-406. [Repealed.]
+33
+34 8-9-407. Electronic uniform Uniform used tire manifest system.
+35 (a) The following entities shall use the electronic uniform used tire
+36 manifest system to accurately report record all information related to the
+18 04/03/2025 8:44:54 AM JMB636
+HB1982
+1 collection, transportation, distribution, and recycling or disposal of
+2 recyclable tires, waste tires, and used tires culled for resale:
+3 (1) Used tire programs Tire processors;
+4 (2) Tire generators; and
+5 (3) Tire collection centers;
+6 (4) Any person who:
+7 (A) Removes a tire from the used tire program after it is
+8 collected; or
+9 (B) Imports a tire under § 8-9-404(c); and
+10 (5) Commercial generators.
+11 (b) If any of the persons or entities listed in subsection (a) of this
+12 section cannot use the electronic uniform used tire manifest system, the
+13 person or entity may submit to the used tire program an equivalent paper
+14 version which shall be entered into the electronic uniform used tire manifest
+15 system.
+16
+17 8-9-408. Accountability requirements for used tire programs — Business
+18 plans.
+19 (a) On or before December 31, 2017, a used tire program that receives
+20 funding under this subchapter shall provide the Arkansas Department of
+21 Environmental Quality, now the Division of Environmental Quality, with a
+22 business plan that establishes its current operating plan and a proposed
+23 operating plan for calendar year 2018 and approved by its board.
+24 (b) The minimum required information for the business plan is:
+25 (1) Current operation information to include:
+26 (A) An explanation of debt and debt repayment obligations,
+27 including scheduled payments;
+28 (B) A description of equipment used, including type, year
+29 manufactured, debt obligations related to the equipment, and whether it is
+30 leased or owned;
+31 (C) An explanation of contract obligations including the
+32 amount, length, and scope of the contract;
+33 (D) A description of how tires are managed, to include
+34 without limitation collection, transportation, and disposal or recycling;
+35 (E) An explanation of costs, including the cost of tire
+36 collection centers, other collection facilities, trailers, transfer stations,
+19 04/03/2025 8:44:54 AM JMB636
+HB1982
+1 processing, mileage, fuel, and personnel; and
+2 (F) The number of tires currently on any property owned,
+3 leased, or otherwise controlled by each regional solid waste management
+4 district included in the used tire program; and
+5 (2) Proposed operation costs for calendar year 2018, to include:
+6 (A) A description of how tires will be managed, to include
+7 without limitation collection, storage, transportation, and disposal or
+8 recycling;
+9 (B) Estimated cost of utilities, personnel, equipment,
+10 fees, leases, facilities, and any other costs related to the primary
+11 operation of the used tire program;
+12 (C) The capital improvement and maintenance plan with
+13 estimated expenditures and costs;
+14 (D) The estimated transportation cost including mileage,
+15 fuel, equipment, personnel, utilities, insurance, bonds, and fees;
+16 (E) The locations of all tire collection centers; and
+17 (F) The types of tires managed, to include recyclable
+18 tires, waste tires, and used tires culled for resale.
+19 (c) A used tire program shall submit a revised business plan if there
+20 is a substantial change in the used tire program operations or if the
+21 division requests a revised business plan.
+22 (d) A business plan or revised business plan submitted under this
+23 subchapter is effective after approval by the division or its designee.
+24 (e)(1) The approved business plan or approved revised business plan
+25 shall include the approved business plan rates for each used tire program.
+26 (2)(A) The division shall cooperate with the used tire programs
+27 and other entities to develop each used tire program's approved business plan
+28 rates for recyclable tires and waste tires.
+29 (B) The approved business plan rates shall also use the
+30 size of a tire, including without limitation small tires, large tires, and
+31 extra-large tires, as a factor for determining the approved business plan
+32 rates.
+33 (f) A business plan or revised business plan that results in a
+34 business plan rate increase is subject to review by the Legislative Council.
+35
+36 8-9-409. Performance and efficiency evaluations.
+20 04/03/2025 8:44:54 AM JMB636
+HB1982
+1 (a) The Division of Environmental Quality shall develop a system to
+2 evaluate and report the performance and efficiency of used tire programs and
+3 the Used Tire Recycling and Accountability Program.
+4 (b) The evaluation and reporting system shall use the following
+5 performance indicators for each used tire program:
+6 (1) The number of:
+7 (A) Recyclable tires;
+8 (B) Waste tires disposed in a landfill; and
+9 (C) Waste tires disposed in a monofill;
+10 (2) The number of reported waste tire sites located in the
+11 regional solid waste management districts that are included in the used tire
+12 program;
+13 (3) Electronic uniform used tire manifest system compliance;
+14 (4) Administrative expenses;
+15 (5) Transportation expenses;
+16 (6) Building, warehouse, and other facilities expenses;
+17 (7) Revenue sources and the amount of revenue received from each
+18 source;
+19 (8) The number, location, and type of tire collection centers;
+20 (9) Any identified operational issues;
+21 (10) The number of enforcement actions against the used tire
+22 program; and
+23 (11) Any other performance indicators that are determined to be
+24 useful to evaluate performance and efficiency.
+25 (c) The evaluations under this section shall be completed on a
+26 biennial basis for each used tire program.
+27
+28 8-9-410. Used tire programs.
+29 (a)(1) In order to address efficiency in tire processing, including
+30 without limitation transportation, there are created four (4) used tire
+31 programs in the state.
+32 (2) The four (4) used tire programs created under subdivision
+33 (a)(1) of this section are composed as follows:
+34 (A) Used Tire Program 1 consists of the following
+35 counties: Benton, Carroll, Boone, Marion, Baxter, Washington, Madison,
+36 Newton, Searcy, Crawford, Franklin, Johnson, Pope, Van Buren, Sebastian,
+21 04/03/2025 8:44:54 AM JMB636
+HB1982
+1 Logan, Conway, Scott, Yell, and Perry;
+2 (B) Used Tire Program 2 consists of the following
+3 counties: Fulton, Sharp, Randolph, Clay, Izard, Lawrence, Greene, Stone,
+4 Independence, Jackson, Craighead, Mississippi, Cleburne, Faulkner, White,
+5 Poinsett, Woodruff, Cross, Pulaski, and Crittenden;
+6 (C) Used Tire Program 3 consists of the following
+7 counties: Polk, Montgomery, Sevier, Howard, Pike, Clark, Little River,
+8 Hempstead, Nevada, Miller, Lafayette, Saline, Dallas, Ouachita, Union,
+9 Garland, Hot Spring, and Columbia; and
+10 (D) Used Tire Program 4 consists of the following
+11 counties: Grant, Jefferson, Arkansas, Phillips, Cleveland, Lincoln, Desha,
+12 Calhoun, Bradley, Drew, Ashley, Lonoke, Prairie, Monroe, St. Francis, Lee,
+13 and Chicot.
+14 (b)(1) Each new used tire program is governed by a tire accountability
+15 board that is composed of eleven (11) members:
+16 (A) Five (5) county judges, elected by the county judges
+17 of the used tire program;
+18 (B) Two (2) county judges, appointed from the two (2) most
+19 populous counties in the used tire program according to the most recent
+20 federal census; and
+21 (C) Four (4) mayors, elected by the mayors of all of the
+22 cities in the used tire program.
+23 (2) Each member of the tire accountability board shall serve for
+24 a term of three (3) years.
+25 (3) The members of the tire accountability board shall draw lots
+26 for staggered terms at the first organizational meeting.
+27 (4) A vacancy on the tire accountability board shall be filled
+28 through the process described in the bylaws of the tire accountability board.
+29 (c)(1) A tire accountability board shall:
+30 (A) Elect a chair and a vice-chair at an organizational
+31 meeting;
+32 (B) Develop bylaws to govern the tire accountability
+33 board, including without limitation rules related to the replacement of
+34 members of the tire accountability board in the event of a vacancy; and
+35 (C) Submit a business plan to the Division of
+36 Environmental Quality for approval on or before September 1, 2023.
+22 04/03/2025 8:44:54 AM JMB636
+HB1982
+1 (2) The division shall approve or seek additional information
+2 regarding the business plan submitted under subdivision (c)(1)(C) of this
+3 section within sixty (60) days.
+4 (d) The tire accountability board in each of the used tire programs
+5 may enter into an interlocal agreement to determine the highest level of
+6 efficiency regarding tire processing in the respective used tire program.
+7 (e) Arkansas Legislative Audit shall audit the four (4) used tire
+8 programs on the following schedule:
+9 (1) Used Tire Program 1 and Used Tire Program 3 every odd-
+10 numbered year; and
+11 (2) Used Tire Program 2 and Used Tire Program 4 every even-
+12 numbered year.
+13
+14 8-9-411. Tire transporters — Licenses.
+15 (a) A tire transporter shall meet the following requirements to
+16 perform or be compensated be licensed for any duties under this subchapter
+17 related to the administration and operation of a used tire program:
+18 (1) Obtain for each vehicle a license;
+19 (2) Obtain for each vehicle a tire transporter number provided
+20 by the Division of Environmental Quality used for the electronic uniform used
+21 tire manifest system;
+22 (3) Provide proof that each vehicle has passed an annual safety
+23 inspection;
+24 (4) Provide proof of financial responsibility for each vehicle
+25 and authorized driver;
+26 (5) Provide a bond in the amount of ten thousand dollars
+27 ($10,000);
+28 (6) Establish that each authorized driver has completed training
+29 for the electronic uniform used tire manifest system; and
+30 (7)(6) Pay a fee of fifty dollars ($50.00) for each vehicle that
+31 is licensed.
+32 (b) For each tire transporter licensed under this section, the
+33 division shall assign a tire transporter number and include the tire
+34 transporter information in the electronic uniform used tire manifest system.
+35 (c)(1) If a tire transporter is found to have not complied with this
+36 subchapter, the tire transporter's license shall be suspended for three (3)
+23 04/03/2025 8:44:54 AM JMB636
+HB1982
+1 months.
+2 (2) If the license of a tire transporter is suspended more than
+3 one (1) time in three (3) years, the tire transporter's license shall be
+4 revoked and the tire transporter is ineligible for a tire transporter license
+5 for three (3) years.
+6
+7 8-9-412. Additional fees.
+8 (a) A used tire program may charge an additional fee for the
+9 collection and recycling of extra-large tires from sources other than
+10 registered tire retailers and for any tires in excess of the maximum under §
+11 8-9-414(b)(7).
+12 (b) If a used tire program charges an additional fee under this
+13 section, the fee shall be collected and retained by the used tire program for
+14 costs related to the processing of extra-large tires.
+15
+16 8-9-413. Applicability.
+17 The fees imposed by this subchapter shall not apply to:
+18 (1) Large retreaded retreaded tires;
+19 (2) Tires included as part of the equipment of a new vehicle; or
+20 (3) Tires included as part of the equipment of a used vehicle if
+21 included on the used vehicle at the time of sale and in the sales price of
+22 the used vehicle.
+23
+24 8-9-414. Powers and duties of the Arkansas Pollution Control and
+25 Ecology Commission.
+26 (a) The Arkansas Pollution Control and Ecology Commission shall
+27 promulgate rules to carry out the intent and purposes of this subchapter.
+28 (b) The rules shall:
+29 (1)(A) Except as provided under subdivision (b)(1)(B) of this
+30 section, provide for the administration of permits for tire processing
+31 facilities, tire collection centers, commercial tire generators, and any
+32 other person or entity that collects, receives, processes, recycles, or
+33 disposes of used waste tires regulated under this subchapter with the maximum
+34 permit fee not to exceed two hundred fifty dollars ($250) annually fees
+35 calculated to generate revenues not to exceed the reasonable administrative
+36 costs of licensing, evaluating, and taking action on permit applications and
+24 04/03/2025 8:44:54 AM JMB636
+HB1982
+1 costs of implementing and enforcing the terms and conditions of permits and
+2 licenses.
+3 (B) The maximum permit fee under this subdivision (b)(1)
+4 shall not apply to tire transporters but shall provide for the administration
+5 of licensing for tire transports;
+6 (2) Establish standards for tire processing facilities, tire
+7 collection centers, tire transporters, and beneficial use projects;
+8 (3) Establish procedures for administering reimbursements to
+9 used tire programs under § 8-9-405;
+10 (4)(3) Unless otherwise provided by law, authorize the final
+11 disposition of waste tires at a permitted solid waste disposal facility if
+12 the waste tires have been cut into sufficiently small parts for proper
+13 disposal and in compliance with this subchapter and all other applicable
+14 provisions in this title; and
+15 (5)(4) Establish procedures for administering the electronic
+16 uniform used tire manifest system;.
+17 (6) Establish accountability procedures for the sustainability
+18 of used tire programs operated under this subchapter; and
+19 (7)(A) Establish the number of tires that each individual who is
+20 a resident of a regional solid waste management district may discard monthly
+21 without a fee.
+22 (B) The maximum number of tires under this subdivision
+23 (b)(7) shall not be more than four (4) tires per month.
+24 (c) The commission may:
+25 (1) Develop an alternative tire transporter licensing program to
+26 be administered by used tire programs, regional solid waste management
+27 boards, or both;
+28 (2) Promulgate rules that are necessary to administer the fees
+29 and reimbursement rates for services provided under this subchapter by the
+30 used tire programs; and
+31 (3) Clarify and add definitions for sizes of tires using
+32 technical information and specifications.
+33 (d)(1)(c)(1) The commission shall encourage the establishment of
+34 voluntary tire collection centers where used tires generated in Arkansas can
+35 be deposited.
+36 (2) The voluntary tire collection centers shall include without
+25 04/03/2025 8:44:54 AM JMB636
+HB1982
+1 limitation tire retailers, tire processing facilities, and solid waste
+2 disposal facilities.
+3 (3) The voluntary tire collection centers shall not include the
+4 collection of tires generated by a tire manufacturer.
+5 (e)(d) The commission shall not prohibit the disposal of whole waste
+6 tires in landfills or monofills for three (3) years from August 1, 2017 and
+7 new or expanded tire monofill permits.
+8 (f) The commission shall waive the imposition of any permit fee
+9 imposed under this subchapter on any used tire program created by § 8-9-410.
+10
+11 8-9-415. Permitting, licensing, inspections, procedures, enforcement,
+12 and penalties.
+13 (a) A person who receives funding under this subchapter, tire Tire
+14 collection centers, tire retailers, tire processing facilities, tire
+15 transporters, tire generators, commercial generators, used tires regulated
+16 under this subchapter, and waste tire sites are subject to:
+17 (1) All provisions in § 8-1-101 et seq., § 8-1-201 et seq., § 8-
+18 1-301 et seq., § 8-4-101 et seq., and § 8-4-201 et seq., concerning permits,
+19 licensing, inspections, and procedures;
+20 (2) Sections 8-6-204, 8-6-205, 8-6-207(a)(6), and 8-9-105
+21 concerning penalties and enforcement; and
+22 (3) All applicable rules promulgated by the Arkansas Pollution
+23 Control and Ecology Commission.;
+24 (4)(A) Tire retailers and tire wholesalers who sell used tires
+25 as a commodity shall do so only from stock that has been sorted, marked,
+26 classified, and arranged in an organized manner for sale to a consumer.
+27 (B)(i) Tires stored outside shall be monitored for
+28 vectors.
+29 (ii) Appropriate vector control measures shall be
+30 utilized at least once every two (2) weeks; and
+31 (5) Tire processors shall maintain received or generated uniform
+32 used tire manifests for a period of three (3) years to be available upon
+33 request by the division.
+34 (b) A used tire program is subject to penalties and enforcement under
+35 this subchapter for noncompliance with this subchapter to include without
+36 limitation:
+26 04/03/2025 8:44:54 AM JMB636
+HB1982
+1 (1) Failure to use the electronic uniform used tire manifest
+2 system;
+3 (2) Failure to submit accurate information to the electronic
+4 uniform used tire manifest system;
+5 (3) Failure to submit an approved business plan on or before
+6 July 1, 2018;
+7 (4) Failure to submit a revised business plan as required under
+8 § 8-9-408(c);
+9 (5) Failure to submit an approved revised business plan within
+10 three (3) months after submission; or
+11 (6) Failure to provide documentation or reports required to be
+12 filed with the Division of Environmental Quality under this subchapter.
+13 (c)(1) If a used tire program fails to submit a business plan that is
+14 approved by the Arkansas Department of Environmental Quality or the division
+15 on or before July 1, 2018, the used tire program and all regional solid waste
+16 management boards included in the used tire program on July 1, 2018, are:
+17 (A) Ineligible to receive funding under this subchapter
+18 and from the Used Tire Recycling Fund;
+19 (B) Prohibited from administering and operating a used
+20 tire program; and
+21 (C) Prohibited from imposing any fees to support the
+22 administration and operation of a used tire program.
+23 (2)(A) The division may designate a qualified entity to perform
+24 the duties related to the operation and administration of a used tire program
+25 deemed ineligible under subdivision (c)(1) of this section.
+26 (B) A qualified entity that is designated to perform the
+27 duties related to the operation and administration of a used tire program
+28 under this subsection shall operate the used tire program in compliance with
+29 this subchapter.
+30 (C) If the qualified entity performs the duties related to
+31 the operation and administration of the used tire program in compliance with
+32 this subchapter, the qualified entity is eligible to receive funding under
+33 this subchapter and from the fund.
+34 (d)(b) In addition to any other penalty provided by law, a tire
+35 processing facility permit or a tire collection center permit shall may be
+36 suspended or revoked by the Division of Environmental Quality for
+27 04/03/2025 8:44:54 AM JMB636
+HB1982
+1 noncompliance with this subchapter.
+2
+3 SECTION 2. Arkansas Code Title 8, Chapter 9, Subchapter 4, is amended
+4 to add an additional section to read as follows:
+5 8-9-416. Cost recovery — Liability for costs — Immunity from
+6 liability.
+7 (a) Any of the following shall be liable to the state for all costs of
+8 waste tire abatement under this subchapter:
+9 (1) The owner or operator of a waste tire site;
+10 (2) Any person that, at the time of disposal of any waste tires,
+11 owns or operates a waste tire site;
+12 (3) Any generator of tires that creates a waste tire site;
+13 (4) Any tire transporter that creates or adds to a waste tire
+14 site; or
+15 (5) Any tire processor or landfill that creates or adds to a
+16 waste tire site.
+17 (b)(1) A person shall not be liable under this subchapter for damages
+18 as a result of actions taken or omitted in the course of rendering care,
+19 assistance, or advice at the direction of the Department of Energy and
+20 Environment, the Secretary of the Department of Energy and Environment, or
+21 the Division of Environmental Quality with respect to an incident creating a
+22 danger to public health, safety, or welfare or the environment as a result of
+23 a waste tire site.
+24 (2)(A) This subsection shall not preclude liability for damages
+25 as a result of gross negligence or intentional misconduct on the part of the
+26 person, nor shall this subsection preclude liability for damages and costs of
+27 waste tire abatement of any person liable for such damages and costs under
+28 subsection (a) of this section.
+29 (B) For the purposes of subdivision (b)(2)(A) of this
+30 section, reckless, willful, or wanton misconduct shall constitute gross
+31 negligence.
+32 (c)(1) A person performing waste tire abatement under this subchapter
+33 as a contractor for the division shall not be liable under this subchapter or
+34 under any other state law to any person for injuries, costs, damages,
+35 expenses, or other liability, including without limitation claims for
+36 indemnification or contribution and claims by third parties for death,
+28 04/03/2025 8:44:54 AM JMB636
+HB1982
+1 personal injury, illness, loss of or damage to property, or economic loss
+2 resulting from the abatement.
+3 (2) However, this subsection shall not apply in an action that
+4 is caused by the conduct of the person performing abatement that is negligent
+5 or grossly negligent or which constitutes intentional misconduct.
+6 (d)(1) A state employee or an employee of a political subdivision who
+7 provides services relating to abatement while acting within the scope of his
+8 or her authority as a governmental employee shall not be liable, subject to
+9 the other provisions of this section, to any person for injuries, costs,
+10 damages, expenses, or other liability, including without limitation claims
+11 for indemnification or contribution and claims by third parties for death,
+12 personal injury, illness, loss of or damage to property, or economic loss
+13 resulting from the abatement.
+14 (2) However, this subsection shall not apply in an action that
+15 is caused by the conduct of the person performing abatement that is negligent
+16 or grossly negligent or which constitutes intentional misconduct.
+17 (e)(1) Subsection (c) or subsection (d) of this section does not
+18 affect the liability of any person under warranty law.
+19 (2) The section does not affect the liability of an employer
+20 performing abatement to any employee of any such employer under any provision
+21 of law, including any provision of any law relating to workers' compensation.
+22
+23 SECTION 3. Arkansas Code § 8-6-1002(b)(3), concerning the Landfill
+24 Post-Closure Trust Fund, is amended to read as follows:
+25 (3) The fund shall be administered by the division and may be
+26 used by the division to complete all activities necessary for the closure of
+27 a permitted waste tire processing or disposal site that is owned or operated
+28 by a regional solid waste management district or formerly owned and operated
+29 by a used tire program if the division determines that the district lacks
+30 sufficient funds to complete closure of the permitted waste tire processing
+31 or disposal site.
+32
+33 SECTION 4. Effective July 1, 2026, Arkansas Code § 19-5-1148 is
+34 repealed.
+35 19-5-1148. Used Tire Recycling Fund.
+36 (a) There is created on the books of the Treasurer of State, the
+29 04/03/2025 8:44:54 AM JMB636
+HB1982
+1 Auditor of State, and the Chief Fiscal Officer of the State a trust fund to
+2 be known as the “Used Tire Recycling Fund”.
+3 (b)(1) The Department of Finance and Administration shall deposit into
+4 the State Treasury ninety-three percent (93%) of the moneys collected under §
+5 8-9-404 to the credit of the Used Tire Recycling Fund.
+6 (2) The Used Tire Recycling Fund shall consist of:
+7 (A) Penalties assessed and collected under the Used Tire
+8 Recycling and Accountability Act, § 8-9-401 et seq.;
+9 (B) Interest, earnings, and any other revenues as may be
+10 authorized by law;
+11 (C) Any United States Government moneys designated for
+12 deposit into the Used Tire Recycling Fund;
+13 (D) Any gift or donation to the Used Tire Recycling Fund;
+14 and
+15 (E) Those special revenues specified in § 8-9-404 and §
+16 19-6-301(165).
+17 (3) The Used Tire Recycling Fund shall not include:
+18 (A) Five percent (5%) of the rim removal fee retained for
+19 administrative costs by tire retailers under § 8-9-404(a)(5)(B) and
+20 commercial generators under § 8-9-404(d)(5)(B);
+21 (B) The percentage of net special revenue deducted and
+22 deposited to the credit of the Special Revenue Fund Account of the State
+23 Apportionment Fund under § 19-5-203; or
+24 (C) Seven percent (7%) deducted from the proceeds of fees
+25 imposed under § 8-9-404 and deposited into the Division of Environmental
+26 Quality Fee Trust Fund under § 8-9-404(b)(1)(B), § 8-9-404(c)(3)(A)(ii), and
+27 § 8-9-404(d)(7)(B).
+28 (c)(1) At least ninety percent (90%) of the moneys available in the
+29 Used Tire Recycling Fund each fiscal year shall be used by the Division of
+30 Environmental Quality to provide reimbursements to used tire programs, to
+31 administer the Used Tire Recycling and Accountability Program, and to perform
+32 other duties under the Used Tire Recycling and Accountability Act, § 8-9-401
+33 et seq.
+34 (2) The Director of the Division of Environmental Quality may
+35 use not more than ten percent (10%) of the moneys available in the Used Tire
+36 Recycling Fund each fiscal year:
+30 04/03/2025 8:44:54 AM JMB636
+HB1982
+1 (A) For waste tire site abatement aid;
+2 (B) For the development, implementation, and maintenance
+3 of the electronic uniform used tire manifest system; and
+4 (C) To provide market and economic stimulus incentives.
+5
+6 SECTION 5. Effective January 1, 2026, Arkansas Code Title 19, Chapter
+7 5, Subchapter 11, is amended to add an additional section to read as follows:
+8 19-5-1161. Waste Tire Abatement Fund.
+9 (a) There is created on the books of the Treasurer of State, the
+10 Auditor of State, and the Chief Fiscal Officer of the State a trust fund to
+11 be known as the "Waste Tire Abatement Fund".
+12 (b)(1) The Department of Finance and Administration shall deposit into
+13 the State Treasury the moneys collected under § 8-9-404 to the credit of the
+14 Waste Tire Abatement Fund.
+15 (2) No more than five hundred thousand dollars ($500,000)
+16 annually, with an annual escalator not to exceed two percent (2%), shall be
+17 transferred from the Waste Tire Abatement Fund to the Division of
+18 Environmental Quality Fee Trust Fund to be used for administration expenses.
+19 (3) The Waste Tire Abatement Fund shall consist of:
+20 (A) Penalties assessed and collected under the Tire
+21 Management and Recycling Act, § 8-9-401 et seq.;
+22 (B) Interest, earnings, and any other revenues as may be
+23 authorized by law;
+24 (C) Any United States Government moneys designated for
+25 deposit into the Waste Tire Abatement Fund;
+26 (D) Any gift or donation to the Waste Tire Abatement Fund;
+27 and
+28 (E) Those special revenues specified in §§ 8-9-404 and 19-
+29 6-301(165).
+30 (4) The Waste Tire Abatement Fund shall not include:
+31 (A) Two percent (2%) of the fees retained for
+32 administrative costs by tire retailers under § 8-9-404(b)(5)(B); or
+33 (B) The percentage of net special revenue deducted and
+34 deposited to the credit of the Special Revenue Fund Account of the State
+35 Apportionment Fund under § 19-5-203.
+36 (c) The Waste Tire Abatement Fund moneys shall be used:
+31 04/03/2025 8:44:54 AM JMB636
+HB1982
+1 (A) For the administration of the Tire Management
+2 Recycling Program by the Division of Environmental Quality;
+3 (B) For waste tire site abatement grants to entities
+4 eligible under § 8-9-404(d)(1);
+5 (C) To provide equipment grants and to promote economic
+6 stimulus incentives;
+7 (D) For funding of beneficial use projects and other waste
+8 tire-related projects; and
+9 (E) To ensure that waste tires handled under the Tire
+10 Management Recycling Program that are collected by or sent through a tire
+11 collection center or a tire processing facility for beneficial use are not
+12 abandoned or discarded.
+13
+14 SECTION 6. DO NOT CODIFY. TEMPORARY LANGUAGE. Distribution of funds
+15 from Used Tire Recycling Fund.
+16 (a)(1) The chief fiscal officer of the Department of Energy and
+17 Environment shall determine the total moneys available on February 28, 2026,
+18 at 11:59 p.m. that were collected under § 8-9-404(a)(1) rim removal fees.
+19 (2) Until January 1, 2026, the rim removal fee under § 8-9-404
+20 shall remain at three dollars ($3.00) for each new tire that replaces a tire
+21 removed from a rim and one dollar ($1.00) for each used tire that replaces
+22 the tire removed from the rim.
+23 (3) On January 1, 2026, the rim removal fee under § 8-9-404
+24 shall expire and the tire retailer fee shall be imposed at the rate of one
+25 dollar and fifty cents ($1.50) for each new tire.
+26 (b) The moneys available under subdivision (a)(1) of this section
+27 shall be used to reimburse used tire programs for used tire recycling and
+28 disposal costs at the approved business rate through the second quarter of
+29 fiscal year 2026.
+30 (c) Any moneys remaining after all used tire programs have been
+31 reimbursed, including any interest earnings or investment earnings on the
+32 moneys available under subdivision (a)(1) of this section shall be
+33 transferred to the Waste Tire Abatement Fund.
+34 (d) This section expires after all used tire programs have received
+35 reimbursement for the fourth quarter of fiscal year 2025 under subdivision
+36 (a)(2) of this section.
+32 04/03/2025 8:44:54 AM JMB636
+HB1982
+1
+2 SECTION 7. EFFECTIVE DATE.
+3 (a) Section 4 concerning the repeal of the Used Tire Recycling Fund
+4 shall be effective on July 1, 2026.
+5 (b) Section 5 concerning the creation of the Waste Tire Abatement Fund
+6 shall be effective on January 1, 2026.
+7 (c) The fee that may be collected and charged by a tire retailer for
+8 the cost of legally hauling and disposing of or recycling the waste tires and
+9 residuals shall be effective on the effective date of this act.
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+33 04/03/2025 8:44:54 AM JMB636
+[DELETED:          A A R F F   T A M T C   B   S t S R   8  ( R  (   ( q]
+[DELETED: H2 0 c t   ( p d u   ( r   ( r  (   ( t    ( d    (   ( t e   ( t   8  A   ( t t r t p    (   (    (    (    ( o]
+[DELETED: H3 0    ( c    (    (   ( o m     (     (     (     (     (     (     ( b    ( r   ( a u    ( s c o r    ( t    ( t t s   ( c l    ( u]
+[DELETED: H4 0 v     (     (     ( a     (     (     (     (     (    ( b   ( a r t p   ( h   ( i   ( t     (     ( (      (      (      (      (    ( a    ( e   ( w]
+[DELETED: H5 0 f e   ( o   ( d o s   ( t f   ( c t i   ( s c   ( t    ( v     (     (     (   (     ( o a     ( a p    ( i o   (]
+[DELETED: H6 0 c r   (     ( o     ( l     (     ( s    (     (     (     (     (     (     (     (     (     (    ( g   ( e   ( i   ( f     ( t     ( c    ( t s a]
+[DELETED: H7 0   ( b l d   ( m    ( g d f    ( t t s   ( m     ( i     (     (     ( t    ( t    ( n   ( r p r   ( u    (    (   ( f]
+[DELETED: H8 0   ( o n p   ( u b    (     (     ( t E   ( m d o   ( a o t   8 a  ( D m    ( a w    ( s o   ( a  ( t]
+[DELETED: H9 0  (   ( o f f f   ( s o a    ( t s b a    ( c u     (     ( a     ( o   ( p p p    (    ( a  ( p   ( p b   (]
+[DELETED: H1 0 t n c   ( i a r  ( f t f p   ( f p d   8 r  ( r b   ( a    ( n    ( a t r   ( d o r    ( s]
+[DELETED: H1 0 p    ( r t f    ( f A    ( a r   ( a a b   ( p A    ( ( s   ( o t p    ( s     ( f c     ( f     ( c  ( c]
+[DELETED: H1 0 s p    ( U    ( o   ( m f i  ( u    ( w a   ( b t p d   ( f r     ( t     ( D    ( m s  ( r a   ( l  (]
+[DELETED: H1 0 u d   ( b c r   ( i ( r    ( t e    ( g e r     ( b a u    ( r c g   ( t g o s   ( t    ( r r f]
+[DELETED: H1 0   ( s s § e    ( f e      ( g e      ( s     ( f   ( g T f    ( U    ( o    ( a t u   ( f s i  ( o t r    (]
+[DELETED: H1 0    (   ( t a  ( m C   ( ( c  ( t r m o    (    (    (    ( d r    (   ( d m 8   ( w t F   8  ( T   ( d]
+[DELETED: H1 0   ( s   ( u   (  ( t   ( 9 t   ( w w s c   ( d s   ( p    ( e    ( 1    ( 1    ( A   ( l s   ( c d   ( u]
+[DELETED: H1 0   ( i   ( s c     ( 9     ( m    ( (     (     (     (   ( e  ( s   ( t   ( s   ( c   (  ( f   ( t r   ( p t   (  ( q]
+[DELETED: H1 0   ( m s a b c   ( i o     ( p 2     ( i    ( (  ( m p p c  ( a p c  (   ( m   ( A   8   8  ( m]
+[DELETED: H1 0 c r   (   (   (   (    ( c    (   (  ( s p v s   8 p  ( f E b o  (   (    ( i    ( m l    ( a    ( w    ( c]
+[DELETED: H2 0 p    ( l d   (    ( w r    ( f o    ( e    ( f    (    ( t  ( i d  ( s  ( s   ( a r    ( s e r  ( b   8]
+[DELETED: H2 0  ( e t  ( p   (    (    (    (   ( r p   (   (   (   (   ( s   (   (   ( p   ( u  ( b   8  ( w p   ( (    ( c N]
+[DELETED: H2 0 L    ( c I P    ( c H G    ( c C a  ( b    ( o    ( p f    ( c   ( a   ( f   ( t  (    ( m    ( b m    ( E]
+[DELETED: H2 0   ( r s  ( m e  ( p   ( n   ( n   8  ( p r   (   ( b t   ( i   ( a   ( (   ( f   ( i  ( d t  ( s]
+[DELETED: H2 0 m   ( o r f   8  ( c r 8  ( s c   8  T   (   (   ( i t   8 E  ( p  (   ( s f o d p c c]
+[DELETED: H2 0 c l    ( s o   ( c   ( u   ( d t d p   ( u   ( o   ( a w    ( (  (   ( b b   ( a u   ( t  ( v b   (]
+[DELETED: H2 0 l d   ( c  ( t n  ( i   8 a  ( c t u   ( 1 l   ( c   ( C   ( a c    ( v     ( u   ( u r  ( t l]
+[DELETED: H2 0   ( s   ( u   ( J   ( §   ( t   ( f  ( a o m    ( a    ( t    ( a   ( t d    ( d u t    ( t t t  ( p s]
+[DELETED: H2 0 n   S t  8 l  ( w   (   ( o   (   ( s   ( w  ( a a E t d a   ( a p w s    ( s n  ( a u e i]
+[DELETED: H2 0 p r   ( i o  ( p o t d f p r   ( i o  ( a   ( p o   S P   ( u a b b s o   S r  1  (]
+[DELETED: H3 0 A b  ( t 8   (    ( R    ( a    ( d    ( a    ( 1   (    ( a c    ( d A    ( i Q §  ( U E a o e   ( u R]
+[DELETED: H3 0    (    ( o    (   S 5  1  ( A b  ( t W   ( a t E   (    ( M    ( a    ( d    ( a    ( 6   (    ( a    ( d A  (]
+[DELETED: H3 0    ( R    ( e    ( s    ( t    ( M c a   S f  ( E a   ( s r t   ( s d  ( s d f  ( r m t  ( r (]
+[DELETED: H3 0   S  ( s  ( s  ( t r                           ]
+
+
+================================================================================
+
+Raw Text:
+Stricken language would be deleted from and underlined language would be added to present law.
+1 State of Arkansas
+A Bill
+2 95th General Assembly
+3 Regular Session, 2025 HOUSE BILL 1982
+4
+5 By: Representative Wooldridge
+6 By: Senator B. Davis
+7
+For An Act To Be Entitled
+8
+9 AN ACT TO AMEND THE USED TIRE RECYCLING AND
+10 ACCOUNTABILITY ACT; TO CREATE THE TIRE MANAGEMENT AND
+11 RECYCLING ACT; TO REPEAL THE USED TIRE RECYCLING
+12 FUND; TO CREATE THE WASTE TIRE ABATEMENT FUND; AND
+13 FOR OTHER PURPOSES.
+14
+15
+Subtitle
+16
+17 TO AMEND THE USED TIRE RECYCLING AND
+18 ACCOUNTABILITY ACT; TO CREATE THE TIRE
+19 MANAGEMENT AND RECYCLING ACT; TO REPEAL
+20 THE USED TIRE RECYCLING FUND; AND TO
+21 CREATE THE WASTE TIRE ABATEMENT FUND.
+22
+23
+24 BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF ARKANSAS:
+25
+26 SECTION 1. Arkansas Code Title 8, Chapter 9, Subchapter 4 is amended
+27 to read as follows:
+28 Subchapter 4 — Used Tire Recycling and Accountability Act Tire Management and
+29 Recycling Act
+30
+31 8-9-401. Title — Legislative intent — Findings.
+32 (a) This subchapter shall be known and may be cited as the “Used Tire
+33 Recycling and Accountability Act” "Tire Management and Recycling Act".
+34 (b) The purpose of this subchapter is to:
+35 (1) Protect the public health and the state's environmental
+36 quality by setting and implementing standards to be followed in the hauling,
+*JMB636*
+04/03/2025 8:44:54 AM JMB636
+
+HB1982
+1 collection, storage, and recycling or disposal of recyclable tires, waste
+2 tires, and used tires culled for resale; and
+3 (2) Provide accountability and sustainability for used tire
+4 programs by requiring use of the electronic uniform used tire manifest system
+5 developed by the Division of Environmental Quality and business plans for
+6 used tire programs;
+7 (3) Equalize the application of fees for all tires removed from
+8 rims; and
+9 (4) Ensure that reimbursements for used tire programs are
+10 related to the overall used tire program goals.
+11 (c) The General Assembly finds that:
+12 (1) If not properly managed, used tires pose a potential threat
+13 to human health and safety and the environment because used tires:
+14 (A) Are a known breeding habitat for mosquitoes and other
+15 disease-transmitting vectors; and
+16 (B) Pose substantial fire hazards;
+17 (2) The state must have a used tire program for recyclable
+18 tires, waste tires, and used tires culled for resale that is accountable,
+19 effective, and efficient; and
+20 (3) The primary goal of the used tire program this subchapter is
+21 to recycle or put to beneficial use as many used tires as possible.
+22
+23 8-9-402. Definitions.
+24 As used in this subchapter:
+25 (1)(A) “Abatement” means proper removal of tires from a waste
+26 tire site or from a tire retailer who can show the waste tire district failed
+27 to pick up or remove tires from the location of the tire retailer in a
+28 reasonable time frame to a permitted tire processor, to a site authorized by
+29 the Division of Environmental Quality, or for use in a beneficial use
+30 project.
+31 (B) Abated tires are not abandoned or discarded;
+32 (2) “Beneficial use” means using a tire or part of a tire:
+33 (A) To make another product;
+34 (B) To make a component material of another product;
+35 (C) As a substitute for a commercial product or material;
+36 or
+2 04/03/2025 8:44:54 AM JMB636
+
+HB1982
+1 (D) As a component to produce an alternative fuel for
+2 commercial purposes;
+3 (E) For civil engineering purposes; or
+4 (F) For lightweight aggregate fill;
+5 (2)(A) “Commercial generator” means a person who sells new tires
+6 or provides delivery of new tires as part of fleet services to any one (1) or
+7 more of the following:
+8 (i) A municipality;
+9 (ii) A county;
+10 (iii) A state agency;
+11 (iv) A federal agency;
+12 (v) A school district;
+13 (vi) A political subdivision of the state; or
+14 (vii) A person who in the ordinary course of
+15 business buys tires in bulk for use on commercial vehicles.
+16 (B) “Commercial generator” does not include a tire
+17 retailer;
+18 (3) “Electronic uniform used tire manifest system” means an
+19 administrative method developed by the Division of Environmental Quality
+20 under § 8-9-407 that:
+21 (A) Primarily uses an electronic application for the
+22 submission and management of information related to the generation,
+23 collection, transportation, distribution, and recycling, disposal, or resale
+24 of each recyclable tire, waste tire, and used tire culled for resale
+25 regulated under this subchapter;
+26 (B) Secondarily may allow submission of used tire data
+27 that is manifested using an equivalent paper documentation; and
+28 (C) Records the origin, date of collection, date of
+29 transfer, quantity, type, transporter, and destination for each recyclable
+30 tire, waste tire, and used tire culled for resale regulated under this
+31 subchapter;
+32 (4)(A) “Extra-large tire” means a tire that, due to its size or
+33 construction, is more difficult to process for recycling or disposal than a
+34 large tire and costs substantially more to process than a large tire.
+35 (B) “Extra-large tire” includes without limitation a tire
+36 used, capable of being used, or designed to be used on any of the following
+3 04/03/2025 8:44:54 AM JMB636
+
+HB1982
+1 vehicles or equipment:
+2 (i) A skid steer loader;
+3 (ii) Excavation equipment;
+4 (iii) A farm implement, including without limitation
+5 a tractor;
+6 (iv) A backhoe;
+7 (v) A road grader;
+8 (vi) Industrial equipment;
+9 (vii) A skidder; or
+10 (viii) A heavy duty truck used off-road for mining.
+11 (C) “Extra-large tire” includes without limitation a wide-
+12 base tire or extra-wide single tire;
+13 (5) “Inter-district used tire program” means a program formed by
+14 agreement of two (2) or more regional solid waste management boards to pool
+15 resources of all regional solid waste management boards that are parties to
+16 the agreement for the administration of one (1) consolidated used tire
+17 program;
+18 (6) “Large tire” means a tire with a load rating of “F” or
+19 higher;
+20 (7) “Load rating” means the system of trade designations that
+21 identifies the weight-carrying capacity range of a tire;
+22 (8)(A)(3)(A) “Operator” means a person who performs a function
+23 that:
+24 (i) Requires individual judgment; and
+25 (ii) May directly affect the proper operation at one
+26 (1) or more of the following:
+27 (a) A tire collection center;
+28 (b) A tire processing facility;
+29 (c) A tire generator facility; or
+30 (d) A waste tire monofill.
+31 (B) “Operator” includes a person who performs a function
+32 at a waste tire site.
+33 (C) “Operator” does not include a person who exclusively
+34 exercises general administrative supervision;
+35 (9)(4) “Owner” means a person who holds legal title to property
+36 where a tire collection center, tire processing facility, tire generator
+4 04/03/2025 8:44:54 AM JMB636
+
+HB1982
+1 facility, waste tire monofill, waste tire site, or other waste tire facility
+2 exists;
+3 (10)(5) “Person” means an individual, government entity, or any
+4 other entity that is recognized by law with rights and duties;
+5 (11) “Qualified entity” means an entity that demonstrates to the
+6 division that the entity has the capability, experience, and resources to
+7 operate and administer a used tire program in compliance with this
+8 subchapter;
+9 (12) “Recyclable tire” means a worn, damaged, or defective tire
+10 that is recycled because it is no longer repairable, reusable, or suitable
+11 for its original intended purpose;
+12 (6) “Proceeds from tire retailer fees” means all moneys
+13 collected and received by the Department of Finance and Administration under
+14 this subchapter for tire retailer fees imposed under this subchapter and
+15 interest and penalties on delinquent tire retailer fees;
+16 (13)(7) “Recycle” means the systematic process of collecting,
+17 sorting, decontaminating, and returning waste materials to commerce as
+18 commodities for use, other beneficial use, or exchange;
+19 (14)(A) “Small tire” means a tire that has a load rating lower
+20 than “F”.
+21 (B) “Small tire” includes a tire from any of the following
+22 vehicles:
+23 (i) An automobile;
+24 (ii) A motorcycle; or
+25 (iii) An all-terrain vehicle;
+26 (15)(A)(8)(A) “Tire” means any one (1) or more of the following:
+27 (i) A continuous, ring-shaped, removable cover made
+28 of solid rubber, pneumatic rubber, or semipneumatic rubber that is installed
+29 around a wheel rim; or
+30 (ii) Any other round piece of equipment that is
+31 attached or could be attached to a vehicle, tractor, or aircraft and has a
+32 primary function of enabling surface mobility.
+33 (B) “Tire” does not include a solid wheel rim with an
+34 integral rubber covering or a tire used on a nonmotorized bicycle, golf cart,
+35 or lawn mower;
+36 (16)(9) “Tire collection center” means a site where tires are
+5 04/03/2025 8:44:54 AM JMB636
+
+HB1982
+1 collected from tire generators, tire transporters, or the public before being
+2 recycled or disposed of by a used tire program;
+3 (17)(A)(10)(A) “Tire generator” means a person who:
+4 (i) Removes tires from rims for disposal or resale;
+5 or
+6 (ii) Stores used tires on or in property owned,
+7 leased, or otherwise controlled by that person;
+8 (iii) Sells new tires; or
+9 (iv) Provides delivery of new tires as part of fleet
+10 services.
+11 (B) “Tire generator” includes without limitation:
+12 (i) A tire retailer;
+13 (ii) A tire wholesaler;
+14 (iii) A tire transporter;
+15 (iv) A tire manufacturer;
+16 (v) A manufacturer of retreaded tires;
+17 (vi) A new car dealer;
+18 (vii) A used car dealer;
+19 (viii) An auto repair shop; or
+20 (ix) A salvage yard.
+21 (C) “Tire generator” does not include a commercial
+22 generator;
+23 (18)(11) “Tire manufacturer” means a manufacturing operation
+24 engaged in the final assembly of the basic components of a tire;
+25 (19)(12) “Tire processing facility” means a site where equipment
+26 is used to cut, chip, grind, or otherwise alter used tires;
+27 (20)(A)(13)(A) “Tire retailer” means any one (1) or more of the
+28 following:
+29 (i) A person who is in the business of selling new
+30 tires, used tires, or both new tires and used tires to the end consumer; or
+31 (ii) A person who is in the business of or receives
+32 compensation for removing tires from rims.
+33 (B) “Tire retailer” does not include a person who sells
+34 tires to another person exclusively for the purpose of resale if the
+35 subsequent retail sale is subject to the fee fees imposed under § 8-9-404 or
+36 a commercial generator;
+6 04/03/2025 8:44:54 AM JMB636
+
+HB1982
+1 (21)(14) “Tire transporter” means a person who is in the
+2 business of or receives compensation for transferring used tires from one (1)
+3 location to another location for collection, storage, processing, recycling,
+4 disposal, reuse, or resale;
+5 (15) “Uniform used tire manifest system” means an administrative
+6 method developed by the division under § 8-9-407 that:
+7 (A) For the management of information related to the
+8 generation, collection, transportation, distribution, and recycling,
+9 disposal, or resale of each recyclable tire, waste tire, and used tire culled
+10 for resale regulated under this subchapter; and
+11 (B) Records the origin, date of collection, date of
+12 transfer, quantity, type, transporter, and destination for each recyclable
+13 tire, waste tire, and used tire culled for resale regulated under this
+14 subchapter;
+15 (22)(A)(16)(A) “Used tire” means a tire that meets one (1) or
+16 more of the following criteria:
+17 (i) Is repairable or retreadable for its original
+18 intended purpose;
+19 (ii) Is reusable;
+20 (iii) Is recyclable; or
+21 (iv) Has been collected by a tire retailer or at a
+22 tire collection center operated under this subchapter.
+23 (B) “Used tire” includes without limitation a recyclable
+24 tire, waste tire, and used tire culled for resale.
+25 (C) “Used tire” does not include a tire being held for
+26 ninety (90) days or less for the purpose of retreading or repairing the tire;
+27 (23)(17) “Used tire culled for resale” means a tire that is
+28 removed from the rim but is diverted from a tire collection center, tire
+29 processing facility, or tire transporter with the intention of selling for
+30 reuse;
+31 (24) “Used tire program” means a program that receives funding
+32 under this subchapter and is operated by:
+33 (A) A regional solid waste management board; or
+34 (B) An inter-district used tire program;
+35 (25)(18) “Vehicle” means any piece of equipment that uses wheels
+36 for surface mobility;
+7 04/03/2025 8:44:54 AM JMB636
+
+HB1982
+1 (26)(19) “Waste tire” means a worn, damaged, or defective tire,
+2 or a tire remnant destined for disposal that is land disposed because it is
+3 no longer repairable, reusable, or suitable for its original intended
+4 purpose;
+5 (27)(A)(20)(A) “Waste tire site” means a location where
+6 unpermitted used tires are accumulated, whether loosely stored, compacted and
+7 baled, or a combination of both loosely stored and compacted and baled.
+8 (B) “Waste tire site” does not include:
+9 (i) A location where only new tires are stored; or
+10 (ii) A location that is authorized to store tires by
+11 the division or rules promulgated by the Arkansas Pollution Control and
+12 Ecology Commission; and
+13 (28)(21) “Waste tires originating from a tire manufacturer”
+14 means those new tires that originate from a tire assembly process and are
+15 determined by the tire manufacturer to be either defective or unfit for use
+16 on a vehicle; and
+17 (29) “Wide-base tire” or “extra-wide single tire” means a tire
+18 approximately four hundred fifty-five millimeters (455 mm) wide that is used
+19 on a vehicle in which the front axle load exceeds the load capacity of a
+20 truck tire.
+21
+22 8-9-403. Operation of waste tire sites — Requirements and prohibited
+23 activities.
+24 (a)(1) The owner or operator of any waste tire site shall provide the
+25 Division of Environmental Quality and the applicable regional solid waste
+26 management district with:
+27 (A) Information concerning the waste tire site's location
+28 and size and the approximate number of tires that are accumulated at the
+29 waste tire site; and
+30 (B) A written plan specifying a method and time schedule,
+31 subject to approval by the division, for the removal, disposal, or recycling
+32 of the tires.
+33 (2) The owner or operator shall implement a written plan
+34 approved by the division according to the written plan's schedule.
+35 (b) A person shall not cause or permit the open burning of tires in
+36 the state.
+8 04/03/2025 8:44:54 AM JMB636
+
+HB1982
+1 (c)(1) A person shall not maintain a waste tire site.
+2 (2) It is illegal for any person to dispose of tires or portions
+3 of tires in the state unless the tires or portions of tires are disposed of
+4 for processing or collected for processing at a permitted tire processing
+5 facility, a tire collection center, or a permitted solid waste disposal
+6 facility.
+7 (3)(A) Unless otherwise provided by law or rule, whole tires
+8 shall not be deposited into a landfill or a waste tire monofill as a method
+9 of final disposal unless shredded or split into sufficiently small parts to
+10 assure their proper disposal.
+11 (B) Unless otherwise provided by law or rule, only small
+12 tires that have been processed by cutting, shredding, or splitting into
+13 sufficiently small parts to assure proper disposal or small tires processed
+14 by baling may be disposed of at a disposal site that has a permit issued for
+15 a landfill designed and operated as a waste tire monofill.
+16 (C) Suitable processed-tire materials may be used in the
+17 construction of daily and intermediate cover systems for all landfills if the
+18 use is:
+19 (i) Authorized by the division;
+20 (ii) Shown to not present a threat to human health
+21 and the environment; and
+22 (iii) Shown to control disease, vectors, fires,
+23 odors, blowing litter, or scavenging.
+24 (4) A person who leases, owns, or otherwise controls real
+25 property may use tires in compliance with procedures approved by and rules
+26 promulgated by the Arkansas Pollution Control and Ecology Commission and
+27 procedures approved by each district:
+28 (A) For soil erosion abatement and drainage purposes; or
+29 (B) To secure covers over silage, hay, straw, or
+30 agricultural products.
+31 (d) A tire processing facility permit or tire collection center
+32 permit, or both, is required for:
+33 (1) A tire retreading business where tires are kept on any real
+34 property owned, leased, or otherwise controlled by the tire retreading
+35 business;
+36 (2) A person that in the ordinary course of business removes
+9 04/03/2025 8:44:54 AM JMB636
+
+HB1982
+1 tires from rims and the tires removed from rims are stored for more than
+2 ninety (90) calendar days on any real property owned, leased, or otherwise
+3 controlled by the person; or
+4 (3) A tire retailer that is serving as a tire collection center
+5 if recyclable tires, waste tires, or used tires culled for resale are kept on
+6 any real property owned, leased, or otherwise controlled by the tire
+7 retailer.
+8 (e)(1) If disposed or recycled in the state, waste tires originating
+9 from a tire manufacturer shall be disposed of at transported to a permitted
+10 tire collection center or disposed of at a permitted tire processing facility
+11 for a fee to be established by the permitted tire collection center or
+12 permitted tire processing facility.
+13 (2) Records of the disposition of the waste tires originating
+14 from a tire manufacturer shall be maintained by that tire manufacturer for a
+15 period of at least three (3) years and shall be available for review by the
+16 division.
+17
+18 8-9-404. Rim removal fees — Import fees — Commercial generator Tire
+19 retailer fees — Definitions.
+20 (a)(1) There is imposed a rim removal fee upon the transaction of
+21 removing a tire from a rim that is related to the sale of a replacement tire
+22 by a tire retailer.
+23 (2) The rim removal fee shall be charged by the tire retailer to
+24 a person who:
+25 (A) Purchases a replacement tire for a rim that
+26 necessitates the removal of a different tire from the same rim; or
+27 (B) Purchases the service of removal of a tire from a rim
+28 and replacement with a tire that was not purchased from the tire retailer if
+29 the person requesting the rim removal cannot show proof of payment of the rim
+30 removal fee under this section for the replacement tire.
+31 (3)(A) The rim removal fee shall be imposed at the rate of three
+32 dollars ($3.00) for each new tire that replaces a tire removed from a rim and
+33 one dollar ($1.00) for each used tire that replaces the tire removed from the
+34 rim.
+35 (B) Except for the rim removal fees imposed under this
+36 section, a tire retailer shall not charge any other fee to a person who
+10 04/03/2025 8:44:54 AM JMB636
+
+HB1982
+1 purchases the service of removal of a tire from a rim.
+2 (C) For any tires collected by a tire retailer, the tire
+3 retailer shall ensure that the tires are transported by a licensed tire
+4 transporter to a permitted tire collection center, a solid waste management
+5 facility, a tire processing facility, or another tire retailer.
+6 (D) The tire retailer shall account for each tire removed
+7 from a rim in the manner prescribed by the Department of Finance and
+8 Administration.
+9 (E) Each tire retailer shall register with the department
+10 and comply with all requirements related to collecting and reporting rim
+11 removal fees.
+12 (4) The rim removal fees imposed under this section shall be
+13 added to the total cost charged by the tire retailer to the purchaser after
+14 all applicable gross receipts or compensating use taxes on the tires have
+15 been computed and shall be separately stated on the invoice or bill of sale.
+16 (5)(A) The rim removal fees imposed under this section shall be
+17 paid monthly to the Secretary of the Department of Finance and
+18 Administration.
+19 (B) However, the tire retailer may retain five percent
+20 (5%) of the rim removal fee imposed under subdivision (a)(3)(A) of this
+21 section for administrative costs.
+22 (6)(A) The rim removal fees remitted under subdivision (a)(5)(A)
+23 of this section shall be collected by the secretary and shall be subject to
+24 the Arkansas Tax Procedure Act, § 26-18-101 et seq. and the business closure
+25 procedures under § 26-18-1001 et seq.
+26 (B)(i) Each tire retailer shall file a return with the
+27 secretary on or before the twentieth of each month.
+28 (ii) The return shall show the total rim removal
+29 fees collected for each tire removed from the rim during the preceding
+30 calendar month.
+31 (iii) The tire retailer shall remit the rim removal
+32 fees with the return.
+33 (iv) The secretary shall prescribe the form and
+34 contents of the return.
+35 (b)(1) The department shall deposit the proceeds from rim removal fees
+36 collected under subsection (a) of this section into the State Treasury as
+11 04/03/2025 8:44:54 AM JMB636
+
+HB1982
+1 special revenues to the credit of the following funds in the following
+2 percentages:
+3 (A) Ninety-three percent (93%) to be deposited into the
+4 Used Tire Recycling Fund; and
+5 (B) Seven percent (7%) to be deposited into the Division
+6 of Environmental Quality Fee Trust Fund.
+7 (2) As used in this section, “proceeds from rim removal fees”
+8 means all moneys collected and received by the department under this section
+9 for rim removal fees imposed under subsection (a) of this section and
+10 interest and penalties on delinquent rim removal fees.
+11 (c)(1)(A) There is imposed an import fee of one dollar ($1.00) on each
+12 used tire that is imported into Arkansas.
+13 (B) A person who imports a used tire shall be registered
+14 with the department and comply with all requirements related to collecting
+15 and reporting import fees.
+16 (2) The import fee imposed under this subsection shall be paid
+17 by the person who imports the used tire to the department in accordance with
+18 the Arkansas Tax Procedure Act, § 26-18-101 et seq., the business closure
+19 procedures under § 26-18-1001 et seq., and any rules promulgated by the
+20 department.
+21 (3)(A) The department shall deposit the proceeds from import
+22 fees imposed under this subsection into the State Treasury as special
+23 revenues to the credit of the following funds in the following percentages:
+24 (i) Ninety-three percent (93%) to be deposited into
+25 the Used Tire Recycling Fund; and
+26 (ii) Seven percent (7%) to be deposited into the
+27 Division of Environmental Quality Fee Trust Fund.
+28 (B) As used in this section, “proceeds from import fees”
+29 means all moneys collected and received by the department under this
+30 subsection and interest and penalties on delinquent import fees.
+31 (a)(1) A person who imports a used tire into this state shall be
+32 responsible for legally hauling and disposing of or recycling the waste tires
+33 and residuals.
+34 (2) A tire retailer may collect and charge a fee for the cost of
+35 legally hauling and disposing of or recycling the waste tires and residuals.
+36 (d)(1)(b)(1) There is imposed a commercial generator tire retailer fee
+12 04/03/2025 8:44:54 AM JMB636
+
+HB1982
+1 upon the transaction of a commercial generator tire retailer selling or
+2 delivering a new tire as part of fleet services.
+3 (2) The commercial generator tire retailer fee shall be charged
+4 by the commercial generator tire retailer to a person who in the ordinary
+5 course of business is an end user that removes used tires from the rim and
+6 replaces them with of a new tire.
+7 (3)(A) The commercial generator tire retailer fee shall be
+8 imposed at the rate of three dollars ($3.00) one dollar and fifty cents
+9 ($1.50) for each new tire that is sold or delivered to an end user that
+10 removes used tires from the rim and replaces them with a new tire.
+11 (B) Except for the commercial generator fees imposed under
+12 this section, the commercial generator shall not charge any other fee to the
+13 end user.
+14 (C)(i)(B)(i) For any used tires collected by a commercial
+15 generator tire retailer, the first transportation of the used tire from the
+16 end user to the commercial generator's tire retailer's facility does not
+17 require a licensed tire transporter.
+18 (ii) Any subsequent transportation of the used tire
+19 by the commercial generator tire retailer for recycling or disposal requires
+20 a licensed tire transporter and shall be accounted for using the electronic
+21 uniform used tire manifest system.
+22 (D)(C) Each commercial generator tire retailer shall
+23 register with the department Department of Finance and Administration and
+24 comply with all requirements related to collecting and reporting commercial
+25 generator tire retailer fees.
+26 (4) The commercial generator tire retailer fees imposed under
+27 this section shall be added to the total cost charged by the commercial
+28 generator tire retailer to the end user after all applicable gross receipts
+29 or compensating use taxes on the tires have been computed and shall be
+30 separately stated on the invoice or bill of sale.
+31 (5)(A) The commercial generator tire retailer fees imposed under
+32 this section shall be paid monthly to the secretary department.
+33 (B) However, the commercial generator tire retailer may
+34 retain five percent (5%) two percent (2%) of the commercial generator tire
+35 retailer fee imposed under subdivision (d)(3)(A) (b)(3)(A) of this section
+36 for administrative costs.
+13 04/03/2025 8:44:54 AM JMB636
+
+HB1982
+1 (6)(A) The commercial generator tire retailer fees remitted in
+2 subdivision (d)(5)(A) (b)(5)(A) of this section shall be collected by the
+3 secretary department and shall be subject to the Arkansas Tax Procedure Act,
+4 § 26-18-101 et seq., and the business closure procedures under § 26-18-1001
+5 et seq.
+6 (B)(i)(a) Each commercial generator tire retailer shall
+7 file a return with the secretary department on or before the twentieth of
+8 each month.
+9 (b) The return shall show the total commercial
+10 generator tire retailer fees collected for each tire sold or delivered to the
+11 end user during the preceding calendar month.
+12 (c) The commercial generator tire retailer
+13 shall remit the commercial generator tire retailer fees with the return.
+14 (ii) The secretary department shall prescribe the
+15 form and contents of the return.
+16 (7)(A) The department shall deposit the proceeds from commercial
+17 generator tire retailer fees collected under this subsection into the State
+18 Treasury as special revenues to the credit of the following funds in the
+19 following percentages:
+20 (A) Ninety-three percent (93%) to be deposited into the
+21 Used Tire Recycling Fund; and
+22 (B) Seven percent (7%) to be deposited into the Division
+23 of Environmental Quality Fee Trust Fund Waste Tire Abatement Fund.
+24 (B) No more than five hundred thousand ($500,000)
+25 annually, with an annual escalator not to exceed two percent (2%), shall be
+26 transferred to the Division of Environmental Quality Fee Trust Fund to be
+27 used for administration expenses.
+28 (8) As used in this section, “proceeds from commercial generator
+29 fees” means all moneys collected and received by the department under this
+30 section for commercial generator fees imposed under this subsection and
+31 interest and penalties on delinquent commercial generator fees.
+32 (e)(1) It is the purpose and intent of this section that only one (1)
+33 of the following fees imposed under this section be charged for the
+34 transaction of removing a tire from a rim that is related to the sale of a
+35 replacement tire:
+36 (A) The rim removal fee; or
+14 04/03/2025 8:44:54 AM JMB636
+
+HB1982
+1 (B) The commercial generator fee.
+2 (2) If a person establishes that he or she has paid one (1) of
+3 the fees for a tire, the tire retailer or tire generator shall not charge an
+4 additional fee for that tire.
+5 (c)(1) If the balance of the Waste Tire Abatement Fund exceeds five
+6 million dollars ($5,000,000), the Arkansas Pollution Control and Ecology
+7 Commission may reduce the tire retailer fee up to fifty percent (50%).
+8 (2) A decision to reduce the tire retailer fee under subdivision
+9 (c)(1) of this section is effective for the fiscal year following the
+10 commission’s decision.
+11 (d)(1) If the Division of Environmental Quality is unable to locate
+12 the person that is responsible for the waste tire site or compel the person
+13 responsible for the waste tire site to remove the waste tires, the division
+14 may use Waste Tire Abatement Fund moneys for the abatement of the waste tires
+15 or offer a waste tire abatement grant to:
+16 (A) A regional solid waste management district;
+17 (B) A city;
+18 (C) A county;
+19 (D) A tire retailer that can prove that the waste tire
+20 district failed to pick up or remove tires from the location of the tire
+21 retailer in a reasonable time frame; or
+22 (E) A planning and development district.
+23 (2) If a waste tire abatement grant is awarded to a person
+24 described in subdivision (d)(1) of this section, the person shall provide
+25 manifests demonstrating ultimate disposal or recycling in conformity with §
+26 8-9-403(c)(1).
+27 (3) The division may deny an application for reimbursement of
+28 waste tire site removal and delivery costs if the division determines that
+29 the cost would result in insufficient moneys in the Waste Tire Abatement
+30 Fund.
+31
+32 8-9-405. Used tire program reimbursements.
+33 (a) The Division of Environmental Quality shall establish the Used
+34 Tire Recycling and Accountability Program to:
+35 (1) Reimburse used tire programs for used tire recycling and
+36 disposal costs;
+15 04/03/2025 8:44:54 AM JMB636
+
+HB1982
+1 (2) Incentivize recycling used tires collected under this
+2 subchapter;
+3 (3) Provide accountability for the disbursement of moneys to
+4 used tire programs; and
+5 (4) Otherwise improve the sustainability of used tire programs.
+6 (b) To be eligible for reimbursements under this subchapter, a used
+7 tire program shall:
+8 (1) Be included in the solid waste management system under § 8-
+9 9-101 et seq. for each regional solid waste management district that the used
+10 tire program serves;
+11 (2) Have a used tire management plan for each regional solid
+12 waste management district that the used tire program serves to include
+13 without limitation a schedule for identification and cleanup of waste tire
+14 sites that is updated until abatement of each identified waste tire site is
+15 completed;
+16 (3) Be included in each regional solid waste management
+17 district's recycling program under § 8-9-203 that the used tire program
+18 serves;
+19 (4) If operated by a political subdivision of the state or other
+20 public entity:
+21 (A) Use the financial management system under § 14-21-101
+22 et seq.;
+23 (B) Comply with the county purchasing procedures under §
+24 14-22-101 et seq.;
+25 (C) Comply with the Arkansas County Accounting Law of
+26 1973, § 14-25-101 et seq.; and
+27 (D) Comply with the Local Fiscal Management Responsibility
+28 Act, § 14-77-101 et seq.;
+29 (5) Be operated in compliance with this subchapter and all other
+30 laws and rules related to the administration of solid waste management
+31 systems and recycling programs in Arkansas;
+32 (6) Encourage the voluntary establishment of tire collection
+33 centers at tire retailers, tire processing facilities, and solid waste
+34 disposal facilities for the deposit of tires generated in the state;
+35 (7) Provide the division with business plan information required
+36 under § 8-9-408;
+16 04/03/2025 8:44:54 AM JMB636
+
+HB1982
+1 (8) Provide the division with all quarterly financial
+2 information and progress reports related to § 8-9-409;
+3 (9)(A) Establish tire collection centers within each county
+4 served by the used tire program that accepts tires from tire retailers at no
+5 charge if the tire retailer establishes that it:
+6 (i) Collects the rim removal fee imposed under § 8-
+7 9-404(a); and
+8 (ii) Complies with the electronic uniform used tire
+9 manifest system under § 8-9-407.
+10 (B) The tire collection centers under this subdivision
+11 (b)(9) may be at any one (1) or more of the following:
+12 (i) A solid waste disposal facility;
+13 (ii) A tire processing facility; or
+14 (iii) A tire retailer; and
+15 (10) Establish at least one (1) tire collection center within
+16 each county served by the used tire program.
+17 (c) A used tire program that receives reimbursements under this
+18 section may:
+19 (1) Contract with a tire processing facility that is approved by
+20 the Director of the Division of Environmental Quality;
+21 (2) Remove or contract for the removal of tires from waste tire
+22 sites within the regional solid waste management district;
+23 (3) Provide incentives for establishing privately operated tire
+24 collection centers for the public; and
+25 (4) Form an inter-district used tire program.
+26 (d) Moneys disbursed from the Used Tire Recycling Fund by the division
+27 for reimbursements under this section shall be:
+28 (1) Distributed as provided under this section only to the used
+29 tire programs that comply with all applicable requirements in this subchapter
+30 related to the operation of used tire programs;
+31 (2) Based on moneys available in the fund, the approved business
+32 plan rate, quarterly financial reports, and other documentation submitted by
+33 the used tire programs; and
+34 (3) Made on a quarterly basis to the used tire programs.
+35 (e)(1) Quarterly disbursements from the fund shall be paid each
+36 quarter from all moneys available for disbursement in that quarter.
+17 04/03/2025 8:44:54 AM JMB636
+
+HB1982
+1 (2) If there are insufficient moneys available in a quarter to
+2 make reimbursements for all submitted requests under subsection (f) of this
+3 section, the division shall calculate the total remaining funding available
+4 and allocate the moneys available for reimbursement to each used tire program
+5 based on a pro rata share of each used tire program's reimbursement request
+6 compared to the total moneys available.
+7 (3)(A) The Arkansas Pollution Control and Ecology Commission may
+8 increase reimbursement rates if the director recommends an increase because
+9 of one (1) or more of the following:
+10 (i) The relevant consumer price index for the
+11 preceding calendar year exceeded the consumer price index for calendar year
+12 2018; or
+13 (ii) The used tire programs have established an
+14 increase in operation costs.
+15 (B) An increase to any reimbursement rate under subsection
+16 (f) of this section shall not exceed ten percent (10%) each calendar year.
+17 (f) Based on data received from the electronic uniform used tire
+18 manifest system and quarterly reports, the funding for reimbursement for
+19 processing, recycling, or disposing of used tires at the approved business
+20 plan rate may be available from the fund for used tire programs that are in
+21 compliance with all applicable requirements of this subchapter.
+22 (g) At the request of a used tire program that needs operational
+23 assistance or guidance on compliance with this subchapter, the division shall
+24 provide to the used tire program operational assistance or guidance on
+25 compliance with this subchapter.
+26 (h) The division shall:
+27 (1) Develop market opportunities for beneficial use of used tire
+28 material; and
+29 (2) Educate the public on the Used Tire Recycling and
+30 Accountability Program.
+31
+32 8-9-406. [Repealed.]
+33
+34 8-9-407. Electronic uniform Uniform used tire manifest system.
+35 (a) The following entities shall use the electronic uniform used tire
+36 manifest system to accurately report record all information related to the
+18 04/03/2025 8:44:54 AM JMB636
+
+HB1982
+1 collection, transportation, distribution, and recycling or disposal of
+2 recyclable tires, waste tires, and used tires culled for resale:
+3 (1) Used tire programs Tire processors;
+4 (2) Tire generators; and
+5 (3) Tire collection centers;
+6 (4) Any person who:
+7 (A) Removes a tire from the used tire program after it is
+8 collected; or
+9 (B) Imports a tire under § 8-9-404(c); and
+10 (5) Commercial generators.
+11 (b) If any of the persons or entities listed in subsection (a) of this
+12 section cannot use the electronic uniform used tire manifest system, the
+13 person or entity may submit to the used tire program an equivalent paper
+14 version which shall be entered into the electronic uniform used tire manifest
+15 system.
+16
+17 8-9-408. Accountability requirements for used tire programs — Business
+18 plans.
+19 (a) On or before December 31, 2017, a used tire program that receives
+20 funding under this subchapter shall provide the Arkansas Department of
+21 Environmental Quality, now the Division of Environmental Quality, with a
+22 business plan that establishes its current operating plan and a proposed
+23 operating plan for calendar year 2018 and approved by its board.
+24 (b) The minimum required information for the business plan is:
+25 (1) Current operation information to include:
+26 (A) An explanation of debt and debt repayment obligations,
+27 including scheduled payments;
+28 (B) A description of equipment used, including type, year
+29 manufactured, debt obligations related to the equipment, and whether it is
+30 leased or owned;
+31 (C) An explanation of contract obligations including the
+32 amount, length, and scope of the contract;
+33 (D) A description of how tires are managed, to include
+34 without limitation collection, transportation, and disposal or recycling;
+35 (E) An explanation of costs, including the cost of tire
+36 collection centers, other collection facilities, trailers, transfer stations,
+19 04/03/2025 8:44:54 AM JMB636
+
+HB1982
+1 processing, mileage, fuel, and personnel; and
+2 (F) The number of tires currently on any property owned,
+3 leased, or otherwise controlled by each regional solid waste management
+4 district included in the used tire program; and
+5 (2) Proposed operation costs for calendar year 2018, to include:
+6 (A) A description of how tires will be managed, to include
+7 without limitation collection, storage, transportation, and disposal or
+8 recycling;
+9 (B) Estimated cost of utilities, personnel, equipment,
+10 fees, leases, facilities, and any other costs related to the primary
+11 operation of the used tire program;
+12 (C) The capital improvement and maintenance plan with
+13 estimated expenditures and costs;
+14 (D) The estimated transportation cost including mileage,
+15 fuel, equipment, personnel, utilities, insurance, bonds, and fees;
+16 (E) The locations of all tire collection centers; and
+17 (F) The types of tires managed, to include recyclable
+18 tires, waste tires, and used tires culled for resale.
+19 (c) A used tire program shall submit a revised business plan if there
+20 is a substantial change in the used tire program operations or if the
+21 division requests a revised business plan.
+22 (d) A business plan or revised business plan submitted under this
+23 subchapter is effective after approval by the division or its designee.
+24 (e)(1) The approved business plan or approved revised business plan
+25 shall include the approved business plan rates for each used tire program.
+26 (2)(A) The division shall cooperate with the used tire programs
+27 and other entities to develop each used tire program's approved business plan
+28 rates for recyclable tires and waste tires.
+29 (B) The approved business plan rates shall also use the
+30 size of a tire, including without limitation small tires, large tires, and
+31 extra-large tires, as a factor for determining the approved business plan
+32 rates.
+33 (f) A business plan or revised business plan that results in a
+34 business plan rate increase is subject to review by the Legislative Council.
+35
+36 8-9-409. Performance and efficiency evaluations.
+20 04/03/2025 8:44:54 AM JMB636
+
+HB1982
+1 (a) The Division of Environmental Quality shall develop a system to
+2 evaluate and report the performance and efficiency of used tire programs and
+3 the Used Tire Recycling and Accountability Program.
+4 (b) The evaluation and reporting system shall use the following
+5 performance indicators for each used tire program:
+6 (1) The number of:
+7 (A) Recyclable tires;
+8 (B) Waste tires disposed in a landfill; and
+9 (C) Waste tires disposed in a monofill;
+10 (2) The number of reported waste tire sites located in the
+11 regional solid waste management districts that are included in the used tire
+12 program;
+13 (3) Electronic uniform used tire manifest system compliance;
+14 (4) Administrative expenses;
+15 (5) Transportation expenses;
+16 (6) Building, warehouse, and other facilities expenses;
+17 (7) Revenue sources and the amount of revenue received from each
+18 source;
+19 (8) The number, location, and type of tire collection centers;
+20 (9) Any identified operational issues;
+21 (10) The number of enforcement actions against the used tire
+22 program; and
+23 (11) Any other performance indicators that are determined to be
+24 useful to evaluate performance and efficiency.
+25 (c) The evaluations under this section shall be completed on a
+26 biennial basis for each used tire program.
+27
+28 8-9-410. Used tire programs.
+29 (a)(1) In order to address efficiency in tire processing, including
+30 without limitation transportation, there are created four (4) used tire
+31 programs in the state.
+32 (2) The four (4) used tire programs created under subdivision
+33 (a)(1) of this section are composed as follows:
+34 (A) Used Tire Program 1 consists of the following
+35 counties: Benton, Carroll, Boone, Marion, Baxter, Washington, Madison,
+36 Newton, Searcy, Crawford, Franklin, Johnson, Pope, Van Buren, Sebastian,
+21 04/03/2025 8:44:54 AM JMB636
+
+HB1982
+1 Logan, Conway, Scott, Yell, and Perry;
+2 (B) Used Tire Program 2 consists of the following
+3 counties: Fulton, Sharp, Randolph, Clay, Izard, Lawrence, Greene, Stone,
+4 Independence, Jackson, Craighead, Mississippi, Cleburne, Faulkner, White,
+5 Poinsett, Woodruff, Cross, Pulaski, and Crittenden;
+6 (C) Used Tire Program 3 consists of the following
+7 counties: Polk, Montgomery, Sevier, Howard, Pike, Clark, Little River,
+8 Hempstead, Nevada, Miller, Lafayette, Saline, Dallas, Ouachita, Union,
+9 Garland, Hot Spring, and Columbia; and
+10 (D) Used Tire Program 4 consists of the following
+11 counties: Grant, Jefferson, Arkansas, Phillips, Cleveland, Lincoln, Desha,
+12 Calhoun, Bradley, Drew, Ashley, Lonoke, Prairie, Monroe, St. Francis, Lee,
+13 and Chicot.
+14 (b)(1) Each new used tire program is governed by a tire accountability
+15 board that is composed of eleven (11) members:
+16 (A) Five (5) county judges, elected by the county judges
+17 of the used tire program;
+18 (B) Two (2) county judges, appointed from the two (2) most
+19 populous counties in the used tire program according to the most recent
+20 federal census; and
+21 (C) Four (4) mayors, elected by the mayors of all of the
+22 cities in the used tire program.
+23 (2) Each member of the tire accountability board shall serve for
+24 a term of three (3) years.
+25 (3) The members of the tire accountability board shall draw lots
+26 for staggered terms at the first organizational meeting.
+27 (4) A vacancy on the tire accountability board shall be filled
+28 through the process described in the bylaws of the tire accountability board.
+29 (c)(1) A tire accountability board shall:
+30 (A) Elect a chair and a vice-chair at an organizational
+31 meeting;
+32 (B) Develop bylaws to govern the tire accountability
+33 board, including without limitation rules related to the replacement of
+34 members of the tire accountability board in the event of a vacancy; and
+35 (C) Submit a business plan to the Division of
+36 Environmental Quality for approval on or before September 1, 2023.
+22 04/03/2025 8:44:54 AM JMB636
+
+HB1982
+1 (2) The division shall approve or seek additional information
+2 regarding the business plan submitted under subdivision (c)(1)(C) of this
+3 section within sixty (60) days.
+4 (d) The tire accountability board in each of the used tire programs
+5 may enter into an interlocal agreement to determine the highest level of
+6 efficiency regarding tire processing in the respective used tire program.
+7 (e) Arkansas Legislative Audit shall audit the four (4) used tire
+8 programs on the following schedule:
+9 (1) Used Tire Program 1 and Used Tire Program 3 every odd-
+10 numbered year; and
+11 (2) Used Tire Program 2 and Used Tire Program 4 every even-
+12 numbered year.
+13
+14 8-9-411. Tire transporters — Licenses.
+15 (a) A tire transporter shall meet the following requirements to
+16 perform or be compensated be licensed for any duties under this subchapter
+17 related to the administration and operation of a used tire program:
+18 (1) Obtain for each vehicle a license;
+19 (2) Obtain for each vehicle a tire transporter number provided
+20 by the Division of Environmental Quality used for the electronic uniform used
+21 tire manifest system;
+22 (3) Provide proof that each vehicle has passed an annual safety
+23 inspection;
+24 (4) Provide proof of financial responsibility for each vehicle
+25 and authorized driver;
+26 (5) Provide a bond in the amount of ten thousand dollars
+27 ($10,000);
+28 (6) Establish that each authorized driver has completed training
+29 for the electronic uniform used tire manifest system; and
+30 (7)(6) Pay a fee of fifty dollars ($50.00) for each vehicle that
+31 is licensed.
+32 (b) For each tire transporter licensed under this section, the
+33 division shall assign a tire transporter number and include the tire
+34 transporter information in the electronic uniform used tire manifest system.
+35 (c)(1) If a tire transporter is found to have not complied with this
+36 subchapter, the tire transporter's license shall be suspended for three (3)
+23 04/03/2025 8:44:54 AM JMB636
+
+HB1982
+1 months.
+2 (2) If the license of a tire transporter is suspended more than
+3 one (1) time in three (3) years, the tire transporter's license shall be
+4 revoked and the tire transporter is ineligible for a tire transporter license
+5 for three (3) years.
+6
+7 8-9-412. Additional fees.
+8 (a) A used tire program may charge an additional fee for the
+9 collection and recycling of extra-large tires from sources other than
+10 registered tire retailers and for any tires in excess of the maximum under §
+11 8-9-414(b)(7).
+12 (b) If a used tire program charges an additional fee under this
+13 section, the fee shall be collected and retained by the used tire program for
+14 costs related to the processing of extra-large tires.
+15
+16 8-9-413. Applicability.
+17 The fees imposed by this subchapter shall not apply to:
+18 (1) Large retreaded retreaded tires;
+19 (2) Tires included as part of the equipment of a new vehicle; or
+20 (3) Tires included as part of the equipment of a used vehicle if
+21 included on the used vehicle at the time of sale and in the sales price of
+22 the used vehicle.
+23
+24 8-9-414. Powers and duties of the Arkansas Pollution Control and
+25 Ecology Commission.
+26 (a) The Arkansas Pollution Control and Ecology Commission shall
+27 promulgate rules to carry out the intent and purposes of this subchapter.
+28 (b) The rules shall:
+29 (1)(A) Except as provided under subdivision (b)(1)(B) of this
+30 section, provide for the administration of permits for tire processing
+31 facilities, tire collection centers, commercial tire generators, and any
+32 other person or entity that collects, receives, processes, recycles, or
+33 disposes of used waste tires regulated under this subchapter with the maximum
+34 permit fee not to exceed two hundred fifty dollars ($250) annually fees
+35 calculated to generate revenues not to exceed the reasonable administrative
+36 costs of licensing, evaluating, and taking action on permit applications and
+24 04/03/2025 8:44:54 AM JMB636
+
+HB1982
+1 costs of implementing and enforcing the terms and conditions of permits and
+2 licenses.
+3 (B) The maximum permit fee under this subdivision (b)(1)
+4 shall not apply to tire transporters but shall provide for the administration
+5 of licensing for tire transports;
+6 (2) Establish standards for tire processing facilities, tire
+7 collection centers, tire transporters, and beneficial use projects;
+8 (3) Establish procedures for administering reimbursements to
+9 used tire programs under § 8-9-405;
+10 (4)(3) Unless otherwise provided by law, authorize the final
+11 disposition of waste tires at a permitted solid waste disposal facility if
+12 the waste tires have been cut into sufficiently small parts for proper
+13 disposal and in compliance with this subchapter and all other applicable
+14 provisions in this title; and
+15 (5)(4) Establish procedures for administering the electronic
+16 uniform used tire manifest system;.
+17 (6) Establish accountability procedures for the sustainability
+18 of used tire programs operated under this subchapter; and
+19 (7)(A) Establish the number of tires that each individual who is
+20 a resident of a regional solid waste management district may discard monthly
+21 without a fee.
+22 (B) The maximum number of tires under this subdivision
+23 (b)(7) shall not be more than four (4) tires per month.
+24 (c) The commission may:
+25 (1) Develop an alternative tire transporter licensing program to
+26 be administered by used tire programs, regional solid waste management
+27 boards, or both;
+28 (2) Promulgate rules that are necessary to administer the fees
+29 and reimbursement rates for services provided under this subchapter by the
+30 used tire programs; and
+31 (3) Clarify and add definitions for sizes of tires using
+32 technical information and specifications.
+33 (d)(1)(c)(1) The commission shall encourage the establishment of
+34 voluntary tire collection centers where used tires generated in Arkansas can
+35 be deposited.
+36 (2) The voluntary tire collection centers shall include without
+25 04/03/2025 8:44:54 AM JMB636
+
+HB1982
+1 limitation tire retailers, tire processing facilities, and solid waste
+2 disposal facilities.
+3 (3) The voluntary tire collection centers shall not include the
+4 collection of tires generated by a tire manufacturer.
+5 (e)(d) The commission shall not prohibit the disposal of whole waste
+6 tires in landfills or monofills for three (3) years from August 1, 2017 and
+7 new or expanded tire monofill permits.
+8 (f) The commission shall waive the imposition of any permit fee
+9 imposed under this subchapter on any used tire program created by § 8-9-410.
+10
+11 8-9-415. Permitting, licensing, inspections, procedures, enforcement,
+12 and penalties.
+13 (a) A person who receives funding under this subchapter, tire Tire
+14 collection centers, tire retailers, tire processing facilities, tire
+15 transporters, tire generators, commercial generators, used tires regulated
+16 under this subchapter, and waste tire sites are subject to:
+17 (1) All provisions in § 8-1-101 et seq., § 8-1-201 et seq., § 8-
+18 1-301 et seq., § 8-4-101 et seq., and § 8-4-201 et seq., concerning permits,
+19 licensing, inspections, and procedures;
+20 (2) Sections 8-6-204, 8-6-205, 8-6-207(a)(6), and 8-9-105
+21 concerning penalties and enforcement; and
+22 (3) All applicable rules promulgated by the Arkansas Pollution
+23 Control and Ecology Commission.;
+24 (4)(A) Tire retailers and tire wholesalers who sell used tires
+25 as a commodity shall do so only from stock that has been sorted, marked,
+26 classified, and arranged in an organized manner for sale to a consumer.
+27 (B)(i) Tires stored outside shall be monitored for
+28 vectors.
+29 (ii) Appropriate vector control measures shall be
+30 utilized at least once every two (2) weeks; and
+31 (5) Tire processors shall maintain received or generated uniform
+32 used tire manifests for a period of three (3) years to be available upon
+33 request by the division.
+34 (b) A used tire program is subject to penalties and enforcement under
+35 this subchapter for noncompliance with this subchapter to include without
+36 limitation:
+26 04/03/2025 8:44:54 AM JMB636
+
+HB1982
+1 (1) Failure to use the electronic uniform used tire manifest
+2 system;
+3 (2) Failure to submit accurate information to the electronic
+4 uniform used tire manifest system;
+5 (3) Failure to submit an approved business plan on or before
+6 July 1, 2018;
+7 (4) Failure to submit a revised business plan as required under
+8 § 8-9-408(c);
+9 (5) Failure to submit an approved revised business plan within
+10 three (3) months after submission; or
+11 (6) Failure to provide documentation or reports required to be
+12 filed with the Division of Environmental Quality under this subchapter.
+13 (c)(1) If a used tire program fails to submit a business plan that is
+14 approved by the Arkansas Department of Environmental Quality or the division
+15 on or before July 1, 2018, the used tire program and all regional solid waste
+16 management boards included in the used tire program on July 1, 2018, are:
+17 (A) Ineligible to receive funding under this subchapter
+18 and from the Used Tire Recycling Fund;
+19 (B) Prohibited from administering and operating a used
+20 tire program; and
+21 (C) Prohibited from imposing any fees to support the
+22 administration and operation of a used tire program.
+23 (2)(A) The division may designate a qualified entity to perform
+24 the duties related to the operation and administration of a used tire program
+25 deemed ineligible under subdivision (c)(1) of this section.
+26 (B) A qualified entity that is designated to perform the
+27 duties related to the operation and administration of a used tire program
+28 under this subsection shall operate the used tire program in compliance with
+29 this subchapter.
+30 (C) If the qualified entity performs the duties related to
+31 the operation and administration of the used tire program in compliance with
+32 this subchapter, the qualified entity is eligible to receive funding under
+33 this subchapter and from the fund.
+34 (d)(b) In addition to any other penalty provided by law, a tire
+35 processing facility permit or a tire collection center permit shall may be
+36 suspended or revoked by the Division of Environmental Quality for
+27 04/03/2025 8:44:54 AM JMB636
+
+HB1982
+1 noncompliance with this subchapter.
+2
+3 SECTION 2. Arkansas Code Title 8, Chapter 9, Subchapter 4, is amended
+4 to add an additional section to read as follows:
+5 8-9-416. Cost recovery — Liability for costs — Immunity from
+6 liability.
+7 (a) Any of the following shall be liable to the state for all costs of
+8 waste tire abatement under this subchapter:
+9 (1) The owner or operator of a waste tire site;
+10 (2) Any person that, at the time of disposal of any waste tires,
+11 owns or operates a waste tire site;
+12 (3) Any generator of tires that creates a waste tire site;
+13 (4) Any tire transporter that creates or adds to a waste tire
+14 site; or
+15 (5) Any tire processor or landfill that creates or adds to a
+16 waste tire site.
+17 (b)(1) A person shall not be liable under this subchapter for damages
+18 as a result of actions taken or omitted in the course of rendering care,
+19 assistance, or advice at the direction of the Department of Energy and
+20 Environment, the Secretary of the Department of Energy and Environment, or
+21 the Division of Environmental Quality with respect to an incident creating a
+22 danger to public health, safety, or welfare or the environment as a result of
+23 a waste tire site.
+24 (2)(A) This subsection shall not preclude liability for damages
+25 as a result of gross negligence or intentional misconduct on the part of the
+26 person, nor shall this subsection preclude liability for damages and costs of
+27 waste tire abatement of any person liable for such damages and costs under
+28 subsection (a) of this section.
+29 (B) For the purposes of subdivision (b)(2)(A) of this
+30 section, reckless, willful, or wanton misconduct shall constitute gross
+31 negligence.
+32 (c)(1) A person performing waste tire abatement under this subchapter
+33 as a contractor for the division shall not be liable under this subchapter or
+34 under any other state law to any person for injuries, costs, damages,
+35 expenses, or other liability, including without limitation claims for
+36 indemnification or contribution and claims by third parties for death,
+28 04/03/2025 8:44:54 AM JMB636
+
+HB1982
+1 personal injury, illness, loss of or damage to property, or economic loss
+2 resulting from the abatement.
+3 (2) However, this subsection shall not apply in an action that
+4 is caused by the conduct of the person performing abatement that is negligent
+5 or grossly negligent or which constitutes intentional misconduct.
+6 (d)(1) A state employee or an employee of a political subdivision who
+7 provides services relating to abatement while acting within the scope of his
+8 or her authority as a governmental employee shall not be liable, subject to
+9 the other provisions of this section, to any person for injuries, costs,
+10 damages, expenses, or other liability, including without limitation claims
+11 for indemnification or contribution and claims by third parties for death,
+12 personal injury, illness, loss of or damage to property, or economic loss
+13 resulting from the abatement.
+14 (2) However, this subsection shall not apply in an action that
+15 is caused by the conduct of the person performing abatement that is negligent
+16 or grossly negligent or which constitutes intentional misconduct.
+17 (e)(1) Subsection (c) or subsection (d) of this section does not
+18 affect the liability of any person under warranty law.
+19 (2) The section does not affect the liability of an employer
+20 performing abatement to any employee of any such employer under any provision
+21 of law, including any provision of any law relating to workers' compensation.
+22
+23 SECTION 3. Arkansas Code § 8-6-1002(b)(3), concerning the Landfill
+24 Post-Closure Trust Fund, is amended to read as follows:
+25 (3) The fund shall be administered by the division and may be
+26 used by the division to complete all activities necessary for the closure of
+27 a permitted waste tire processing or disposal site that is owned or operated
+28 by a regional solid waste management district or formerly owned and operated
+29 by a used tire program if the division determines that the district lacks
+30 sufficient funds to complete closure of the permitted waste tire processing
+31 or disposal site.
+32
+33 SECTION 4. Effective July 1, 2026, Arkansas Code § 19-5-1148 is
+34 repealed.
+35 19-5-1148. Used Tire Recycling Fund.
+36 (a) There is created on the books of the Treasurer of State, the
+29 04/03/2025 8:44:54 AM JMB636
+
+HB1982
+1 Auditor of State, and the Chief Fiscal Officer of the State a trust fund to
+2 be known as the “Used Tire Recycling Fund”.
+3 (b)(1) The Department of Finance and Administration shall deposit into
+4 the State Treasury ninety-three percent (93%) of the moneys collected under §
+5 8-9-404 to the credit of the Used Tire Recycling Fund.
+6 (2) The Used Tire Recycling Fund shall consist of:
+7 (A) Penalties assessed and collected under the Used Tire
+8 Recycling and Accountability Act, § 8-9-401 et seq.;
+9 (B) Interest, earnings, and any other revenues as may be
+10 authorized by law;
+11 (C) Any United States Government moneys designated for
+12 deposit into the Used Tire Recycling Fund;
+13 (D) Any gift or donation to the Used Tire Recycling Fund;
+14 and
+15 (E) Those special revenues specified in § 8-9-404 and §
+16 19-6-301(165).
+17 (3) The Used Tire Recycling Fund shall not include:
+18 (A) Five percent (5%) of the rim removal fee retained for
+19 administrative costs by tire retailers under § 8-9-404(a)(5)(B) and
+20 commercial generators under § 8-9-404(d)(5)(B);
+21 (B) The percentage of net special revenue deducted and
+22 deposited to the credit of the Special Revenue Fund Account of the State
+23 Apportionment Fund under § 19-5-203; or
+24 (C) Seven percent (7%) deducted from the proceeds of fees
+25 imposed under § 8-9-404 and deposited into the Division of Environmental
+26 Quality Fee Trust Fund under § 8-9-404(b)(1)(B), § 8-9-404(c)(3)(A)(ii), and
+27 § 8-9-404(d)(7)(B).
+28 (c)(1) At least ninety percent (90%) of the moneys available in the
+29 Used Tire Recycling Fund each fiscal year shall be used by the Division of
+30 Environmental Quality to provide reimbursements to used tire programs, to
+31 administer the Used Tire Recycling and Accountability Program, and to perform
+32 other duties under the Used Tire Recycling and Accountability Act, § 8-9-401
+33 et seq.
+34 (2) The Director of the Division of Environmental Quality may
+35 use not more than ten percent (10%) of the moneys available in the Used Tire
+36 Recycling Fund each fiscal year:
+30 04/03/2025 8:44:54 AM JMB636
+
+HB1982
+1 (A) For waste tire site abatement aid;
+2 (B) For the development, implementation, and maintenance
+3 of the electronic uniform used tire manifest system; and
+4 (C) To provide market and economic stimulus incentives.
+5
+6 SECTION 5. Effective January 1, 2026, Arkansas Code Title 19, Chapter
+7 5, Subchapter 11, is amended to add an additional section to read as follows:
+8 19-5-1161. Waste Tire Abatement Fund.
+9 (a) There is created on the books of the Treasurer of State, the
+10 Auditor of State, and the Chief Fiscal Officer of the State a trust fund to
+11 be known as the "Waste Tire Abatement Fund".
+12 (b)(1) The Department of Finance and Administration shall deposit into
+13 the State Treasury the moneys collected under § 8-9-404 to the credit of the
+14 Waste Tire Abatement Fund.
+15 (2) No more than five hundred thousand dollars ($500,000)
+16 annually, with an annual escalator not to exceed two percent (2%), shall be
+17 transferred from the Waste Tire Abatement Fund to the Division of
+18 Environmental Quality Fee Trust Fund to be used for administration expenses.
+19 (3) The Waste Tire Abatement Fund shall consist of:
+20 (A) Penalties assessed and collected under the Tire
+21 Management and Recycling Act, § 8-9-401 et seq.;
+22 (B) Interest, earnings, and any other revenues as may be
+23 authorized by law;
+24 (C) Any United States Government moneys designated for
+25 deposit into the Waste Tire Abatement Fund;
+26 (D) Any gift or donation to the Waste Tire Abatement Fund;
+27 and
+28 (E) Those special revenues specified in §§ 8-9-404 and 19-
+29 6-301(165).
+30 (4) The Waste Tire Abatement Fund shall not include:
+31 (A) Two percent (2%) of the fees retained for
+32 administrative costs by tire retailers under § 8-9-404(b)(5)(B); or
+33 (B) The percentage of net special revenue deducted and
+34 deposited to the credit of the Special Revenue Fund Account of the State
+35 Apportionment Fund under § 19-5-203.
+36 (c) The Waste Tire Abatement Fund moneys shall be used:
+31 04/03/2025 8:44:54 AM JMB636
+
+HB1982
+1 (A) For the administration of the Tire Management
+2 Recycling Program by the Division of Environmental Quality;
+3 (B) For waste tire site abatement grants to entities
+4 eligible under § 8-9-404(d)(1);
+5 (C) To provide equipment grants and to promote economic
+6 stimulus incentives;
+7 (D) For funding of beneficial use projects and other waste
+8 tire-related projects; and
+9 (E) To ensure that waste tires handled under the Tire
+10 Management Recycling Program that are collected by or sent through a tire
+11 collection center or a tire processing facility for beneficial use are not
+12 abandoned or discarded.
+13
+14 SECTION 6. DO NOT CODIFY. TEMPORARY LANGUAGE. Distribution of funds
+15 from Used Tire Recycling Fund.
+16 (a)(1) The chief fiscal officer of the Department of Energy and
+17 Environment shall determine the total moneys available on February 28, 2026,
+18 at 11:59 p.m. that were collected under § 8-9-404(a)(1) rim removal fees.
+19 (2) Until January 1, 2026, the rim removal fee under § 8-9-404
+20 shall remain at three dollars ($3.00) for each new tire that replaces a tire
+21 removed from a rim and one dollar ($1.00) for each used tire that replaces
+22 the tire removed from the rim.
+23 (3) On January 1, 2026, the rim removal fee under § 8-9-404
+24 shall expire and the tire retailer fee shall be imposed at the rate of one
+25 dollar and fifty cents ($1.50) for each new tire.
+26 (b) The moneys available under subdivision (a)(1) of this section
+27 shall be used to reimburse used tire programs for used tire recycling and
+28 disposal costs at the approved business rate through the second quarter of
+29 fiscal year 2026.
+30 (c) Any moneys remaining after all used tire programs have been
+31 reimbursed, including any interest earnings or investment earnings on the
+32 moneys available under subdivision (a)(1) of this section shall be
+33 transferred to the Waste Tire Abatement Fund.
+34 (d) This section expires after all used tire programs have received
+35 reimbursement for the fourth quarter of fiscal year 2025 under subdivision
+36 (a)(2) of this section.
+32 04/03/2025 8:44:54 AM JMB636
+
+HB1982
+1
+2 SECTION 7. EFFECTIVE DATE.
+3 (a) Section 4 concerning the repeal of the Used Tire Recycling Fund
+4 shall be effective on July 1, 2026.
+5 (b) Section 5 concerning the creation of the Waste Tire Abatement Fund
+6 shall be effective on January 1, 2026.
+7 (c) The fee that may be collected and charged by a tire retailer for
+8 the cost of legally hauling and disposing of or recycling the waste tires and
+9 residuals shall be effective on the effective date of this act.
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+33 04/03/2025 8:44:54 AM JMB636
+
+[DELETED:          A A R F F   T A M T C   B   S t S R   8  ( R  (   ( q]
+[DELETED: H2 0 c t   ( p d u   ( r   ( r  (   ( t    ( d    (   ( t e   ( t   8  A   ( t t r t p    (   (    (    (    ( o]
+[DELETED: H3 0    ( c    (    (   ( o m     (     (     (     (     (     (     ( b    ( r   ( a u    ( s c o r    ( t    ( t t s   ( c l    ( u]
+[DELETED: H4 0 v     (     (     ( a     (     (     (     (     (    ( b   ( a r t p   ( h   ( i   ( t     (     ( (      (      (      (      (    ( a    ( e   ( w]
+[DELETED: H5 0 f e   ( o   ( d o s   ( t f   ( c t i   ( s c   ( t    ( v     (     (     (   (     ( o a     ( a p    ( i o   (]
+[DELETED: H6 0 c r   (     ( o     ( l     (     ( s    (     (     (     (     (     (     (     (     (     (    ( g   ( e   ( i   ( f     ( t     ( c    ( t s a]
+[DELETED: H7 0   ( b l d   ( m    ( g d f    ( t t s   ( m     ( i     (     (     ( t    ( t    ( n   ( r p r   ( u    (    (   ( f]
+[DELETED: H8 0   ( o n p   ( u b    (     (     ( t E   ( m d o   ( a o t   8 a  ( D m    ( a w    ( s o   ( a  ( t]
+[DELETED: H9 0  (   ( o f f f   ( s o a    ( t s b a    ( c u     (     ( a     ( o   ( p p p    (    ( a  ( p   ( p b   (]
+[DELETED: H1 0 t n c   ( i a r  ( f t f p   ( f p d   8 r  ( r b   ( a    ( n    ( a t r   ( d o r    ( s]
+[DELETED: H1 0 p    ( r t f    ( f A    ( a r   ( a a b   ( p A    ( ( s   ( o t p    ( s     ( f c     ( f     ( c  ( c]
+[DELETED: H1 0 s p    ( U    ( o   ( m f i  ( u    ( w a   ( b t p d   ( f r     ( t     ( D    ( m s  ( r a   ( l  (]
+[DELETED: H1 0 u d   ( b c r   ( i ( r    ( t e    ( g e r     ( b a u    ( r c g   ( t g o s   ( t    ( r r f]
+[DELETED: H1 0   ( s s § e    ( f e      ( g e      ( s     ( f   ( g T f    ( U    ( o    ( a t u   ( f s i  ( o t r    (]
+[DELETED: H1 0    (   ( t a  ( m C   ( ( c  ( t r m o    (    (    (    ( d r    (   ( d m 8   ( w t F   8  ( T   ( d]
+[DELETED: H1 0   ( s   ( u   (  ( t   ( 9 t   ( w w s c   ( d s   ( p    ( e    ( 1    ( 1    ( A   ( l s   ( c d   ( u]
+[DELETED: H1 0   ( i   ( s c     ( 9     ( m    ( (     (     (     (   ( e  ( s   ( t   ( s   ( c   (  ( f   ( t r   ( p t   (  ( q]
+[DELETED: H1 0   ( m s a b c   ( i o     ( p 2     ( i    ( (  ( m p p c  ( a p c  (   ( m   ( A   8   8  ( m]
+[DELETED: H1 0 c r   (   (   (   (    ( c    (   (  ( s p v s   8 p  ( f E b o  (   (    ( i    ( m l    ( a    ( w    ( c]
+[DELETED: H2 0 p    ( l d   (    ( w r    ( f o    ( e    ( f    (    ( t  ( i d  ( s  ( s   ( a r    ( s e r  ( b   8]
+[DELETED: H2 0  ( e t  ( p   (    (    (    (   ( r p   (   (   (   (   ( s   (   (   ( p   ( u  ( b   8  ( w p   ( (    ( c N]
+[DELETED: H2 0 L    ( c I P    ( c H G    ( c C a  ( b    ( o    ( p f    ( c   ( a   ( f   ( t  (    ( m    ( b m    ( E]
+[DELETED: H2 0   ( r s  ( m e  ( p   ( n   ( n   8  ( p r   (   ( b t   ( i   ( a   ( (   ( f   ( i  ( d t  ( s]
+[DELETED: H2 0 m   ( o r f   8  ( c r 8  ( s c   8  T   (   (   ( i t   8 E  ( p  (   ( s f o d p c c]
+[DELETED: H2 0 c l    ( s o   ( c   ( u   ( d t d p   ( u   ( o   ( a w    ( (  (   ( b b   ( a u   ( t  ( v b   (]
+[DELETED: H2 0 l d   ( c  ( t n  ( i   8 a  ( c t u   ( 1 l   ( c   ( C   ( a c    ( v     ( u   ( u r  ( t l]
+[DELETED: H2 0   ( s   ( u   ( J   ( §   ( t   ( f  ( a o m    ( a    ( t    ( a   ( t d    ( d u t    ( t t t  ( p s]
+[DELETED: H2 0 n   S t  8 l  ( w   (   ( o   (   ( s   ( w  ( a a E t d a   ( a p w s    ( s n  ( a u e i]
+[DELETED: H2 0 p r   ( i o  ( p o t d f p r   ( i o  ( a   ( p o   S P   ( u a b b s o   S r  1  (]
+[DELETED: H3 0 A b  ( t 8   (    ( R    ( a    ( d    ( a    ( 1   (    ( a c    ( d A    ( i Q §  ( U E a o e   ( u R]
+[DELETED: H3 0    (    ( o    (   S 5  1  ( A b  ( t W   ( a t E   (    ( M    ( a    ( d    ( a    ( 6   (    ( a    ( d A  (]
+[DELETED: H3 0    ( R    ( e    ( s    ( t    ( M c a   S f  ( E a   ( s r t   ( s d  ( s d f  ( r m t  ( r (]
+[DELETED: H3 0   S  ( s  ( s  ( t r                           ]

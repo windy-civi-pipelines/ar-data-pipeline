@@ -1,0 +1,180 @@
+Title: Stricken language would be deleted from and underlined language would be added to present law.
+Official Title: Stricken language would be deleted from and underlined language would be added to present law.
+Number of Sections: 1
+Source: versions - SB 509
+Media Type: application/pdf
+Strikethrough Detection: 2 sections found
+
+================================================================================
+
+Section 1:
+1 State of Arkansas
+A Bill
+2 95th General Assembly
+3 Regular Session, 2025 SENATE BILL 509
+4
+5 By: Senator G. Stubblefield
+6
+7
+For An Act To Be Entitled
+8
+9 AN ACT TO CREATE THE OFFENSE OF THEFT OF EQUIPMENT
+10 RENTAL SERVICES; AND FOR OTHER PURPOSES.
+11
+12
+Subtitle
+13
+14 TO CREATE THE OFFENSE OF THEFT OF
+15 EQUIPMENT RENTAL SERVICES.
+16
+17 BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF ARKANSAS:
+18
+19 SECTION 1. Arkansas Code Title 5, Chapter 36, Subchapter 1, is amended
+20 to add an additional section to read as follows:
+21 5-36-127. Theft of Equipment Rental Services.
+22 (a) As used in this section, "equipment rental services" means the
+23 commercial service of providing equipment for rent or lease.
+24 (b) A person commits the offense of theft of equipment rental services
+25 if he or she knowingly:
+26 (1) After the expiration of a lease or rental period, exercises
+27 unauthorized control or otherwise deprives the lessor or renter of equipment
+28 that is leased, rented, or entrusted to the person;
+29 (2) Causes damage to equipment that is leased, rented, or
+30 entrusted to the person such that the equipment is not in a condition to be
+31 provided for rent or lease without repair; or
+32 (3) Fails to pay for all or part of the time in which the person
+33 had control of the equipment that is leased, rented, or entrusted to the
+34 person, whether part of the initial lease or rental period or not.
+35 (c) It is a defense to prosecution under this section that the person
+36 compensated the lessor or renter of the equipment for:
+*CEB234*
+03/18/2025 2:53:22 PM CEB234
+SB509
+1 (1) The value of the equipment rental service for the time
+2 between the expiration of the lease or rental period and the return of the
+3 equipment to the lessor or renter; and
+4 (2) The value of any damage to the equipment.
+5 (d) A violation of this section is a:
+6 (1) Class B felony if the value of the equipment rental service
+7 for the time between the expiration of the lease or rental period and the
+8 return of the equipment, the damage to the equipment, or both, is twenty-five
+9 thousand dollars ($25,000) or more;
+10 (2) Class C felony if the value of the equipment rental service
+11 for the time between the expiration of the lease or rental period and the
+12 return of the equipment, the damage to the equipment, or both, is less than
+13 twenty-five thousand dollars ($25,000) but more than five thousand dollars
+14 ($5,000);
+15 (3) Class D felony if the value of the equipment rental service
+16 for the time between the expiration of the lease or rental period and the
+17 return of the equipment, the damage to the equipment, or both, is five
+18 thousand dollars ($5,000) or less but more than one thousand dollars
+19 ($1,000);
+20 (4) Class A misdemeanor if the value of the equipment rental
+21 service for the time between the expiration of the lease or rental period and
+22 the return of the equipment, the damage to the equipment, or both, is one
+23 thousand dollars ($1,000) or less.
+24 (e) In addition to any other sentence authorized by law, the court
+25 shall order a person convicted of theft of rental services to pay restitution
+26 to the lessor or renter of the equipment for the value of the equipment
+27 rental service for the time between the expiration of the lease or rental
+28 period and the return of the equipment and any damage to the equipment.
+29
+30
+31
+32
+33
+34
+35
+36
+2 03/18/2025 2:53:22 PM CEB234
+[DELETED:       A R  T E  B   S t  5  ( c  ( i   ( u t   ( e p   ( h p  ( c]
+[DELETED: S2 0   ( b e   (  (   ( f r t   ( f r t (   ( f r t (   ( s t t  ( s t r p]
+
+
+================================================================================
+
+Raw Text:
+Stricken language would be deleted from and underlined language would be added to present law.
+1 State of Arkansas
+A Bill
+2 95th General Assembly
+3 Regular Session, 2025 SENATE BILL 509
+4
+5 By: Senator G. Stubblefield
+6
+7
+For An Act To Be Entitled
+8
+9 AN ACT TO CREATE THE OFFENSE OF THEFT OF EQUIPMENT
+10 RENTAL SERVICES; AND FOR OTHER PURPOSES.
+11
+12
+Subtitle
+13
+14 TO CREATE THE OFFENSE OF THEFT OF
+15 EQUIPMENT RENTAL SERVICES.
+16
+17 BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF ARKANSAS:
+18
+19 SECTION 1. Arkansas Code Title 5, Chapter 36, Subchapter 1, is amended
+20 to add an additional section to read as follows:
+21 5-36-127. Theft of Equipment Rental Services.
+22 (a) As used in this section, "equipment rental services" means the
+23 commercial service of providing equipment for rent or lease.
+24 (b) A person commits the offense of theft of equipment rental services
+25 if he or she knowingly:
+26 (1) After the expiration of a lease or rental period, exercises
+27 unauthorized control or otherwise deprives the lessor or renter of equipment
+28 that is leased, rented, or entrusted to the person;
+29 (2) Causes damage to equipment that is leased, rented, or
+30 entrusted to the person such that the equipment is not in a condition to be
+31 provided for rent or lease without repair; or
+32 (3) Fails to pay for all or part of the time in which the person
+33 had control of the equipment that is leased, rented, or entrusted to the
+34 person, whether part of the initial lease or rental period or not.
+35 (c) It is a defense to prosecution under this section that the person
+36 compensated the lessor or renter of the equipment for:
+*CEB234*
+03/18/2025 2:53:22 PM CEB234
+
+SB509
+1 (1) The value of the equipment rental service for the time
+2 between the expiration of the lease or rental period and the return of the
+3 equipment to the lessor or renter; and
+4 (2) The value of any damage to the equipment.
+5 (d) A violation of this section is a:
+6 (1) Class B felony if the value of the equipment rental service
+7 for the time between the expiration of the lease or rental period and the
+8 return of the equipment, the damage to the equipment, or both, is twenty-five
+9 thousand dollars ($25,000) or more;
+10 (2) Class C felony if the value of the equipment rental service
+11 for the time between the expiration of the lease or rental period and the
+12 return of the equipment, the damage to the equipment, or both, is less than
+13 twenty-five thousand dollars ($25,000) but more than five thousand dollars
+14 ($5,000);
+15 (3) Class D felony if the value of the equipment rental service
+16 for the time between the expiration of the lease or rental period and the
+17 return of the equipment, the damage to the equipment, or both, is five
+18 thousand dollars ($5,000) or less but more than one thousand dollars
+19 ($1,000);
+20 (4) Class A misdemeanor if the value of the equipment rental
+21 service for the time between the expiration of the lease or rental period and
+22 the return of the equipment, the damage to the equipment, or both, is one
+23 thousand dollars ($1,000) or less.
+24 (e) In addition to any other sentence authorized by law, the court
+25 shall order a person convicted of theft of rental services to pay restitution
+26 to the lessor or renter of the equipment for the value of the equipment
+27 rental service for the time between the expiration of the lease or rental
+28 period and the return of the equipment and any damage to the equipment.
+29
+30
+31
+32
+33
+34
+35
+36
+2 03/18/2025 2:53:22 PM CEB234
+
+[DELETED:       A R  T E  B   S t  5  ( c  ( i   ( u t   ( e p   ( h p  ( c]
+[DELETED: S2 0   ( b e   (  (   ( f r t   ( f r t (   ( f r t (   ( s t t  ( s t r p]

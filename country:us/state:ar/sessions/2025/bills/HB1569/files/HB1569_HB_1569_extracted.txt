@@ -1,0 +1,496 @@
+Title: Stricken language would be deleted from and underlined language would be added to present law.
+Official Title: Stricken language would be deleted from and underlined language would be added to present law.
+Number of Sections: 1
+Source: versions - HB 1569
+Media Type: application/pdf
+Strikethrough Detection: 6 sections found
+
+================================================================================
+
+Section 1:
+1 State of Arkansas As Engrossed: H3/12/25
+A Bill
+2 95th General Assembly
+3 Regular Session, 2025 HOUSE BILL 1569
+4
+5 By: Representative Long
+6 By: Senator J. Payton
+7
+For An Act To Be Entitled
+8
+9 AN ACT TO CREATE THE SECURE ROADS AND SAFE TRUCKING
+10 ACT OF 2025; TO AMEND THE LAW CONCERNING A COMMERCIAL
+11 DRIVER LICENSE AND THE OPERATORS OF COMMERCIAL MOTOR
+12 VEHICLES; TO REQUIRE THAT OPERATORS OF COMMERCIAL
+13 MOTOR VEHICLES HAVE PROFICIENCY IN THE ENGLISH
+14 LANGUAGE; TO REQUIRE THAT OPERATORS OF COMMERCIAL
+15 MOTOR VEHICLES HAVE A VALID COMMERCIAL DRIVER
+16 LICENSE; TO CREATE ADDITIONAL CRIMINAL PENALTIES FOR
+17 OFFENSES COMMITTED WHILE OPERATING A COMMERCIAL MOTOR
+18 VEHICLE; TO DECLARE AN EMERGENCY; AND FOR OTHER
+19 PURPOSES.
+20
+21
+Subtitle
+22
+23 TO CREATE THE SECURE ROADS AND SAFE
+24 TRUCKING ACT OF 2025; TO AMEND THE LAW
+25 CONCERNING COMMERCIAL DRIVERS; TO CREATE
+26 PENALTIES FOR OFFENSES COMMITTED WHILE
+27 OPERATING A COMMERCIAL MOTOR VEHICLE;
+28 AND TO DECLARE AN EMERGENCY.
+29
+30 BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF ARKANSAS:
+31
+32 SECTION 1. DO NOT CODIFY. Title.
+33 This act shall be known and may be cited as the "Secure Roads and Safe
+34 Trucking Act of 2025".
+35
+36 SECTION 2. DO NOT CODIFY. Legislative findings.
+*ZRC054*
+03-12-2025 11:21:40 ZRC054
+As Engrossed: H3/12/25 HB1569
+1 The General Assembly finds that:
+2 (1) Government entities have existing requirements for the
+3 operators of various modes of commercial transportation to demonstrate
+4 English proficiency;
+5 (2) A requirement to demonstrate English proficiency is not
+6 unique to the operation of a commercial motor vehicle and is required for
+7 other modes of commercial transportation;
+8 (3) A demonstration of English proficiency is required during
+9 the licensure process for a pilot's license and instrument rating under 14
+10 C.F.R. Parts 61, 63, 65, and 107; and
+11 (4) The International Civil Aviation Organization, of which the
+12 United States is a member, requires operators of commercial aircraft to
+13 demonstrate English language proficiency.
+14
+15 SECTION 3. Arkansas Code Title 27, Chapter 23, Subchapter 1, is
+16 amended to add additional sections to read as follows:
+17 27-23-132. Requirement to possess commercial driver license from valid
+18 jurisdiction.
+19 An individual operating a commercial motor vehicle within this state
+20 shall possess:
+21 (1) A valid commercial driver license issued by a state,
+22 territory, or possession of the United States, the District of Columbia, or
+23 the Commonwealth of Puerto Rico; or
+24 (2) Both:
+25 (A) A valid commercial driver license issued by a state,
+26 territory, district, or province of Canada or Mexico; and
+27 (B) A valid work visa.
+28 27-23-133. Operation of commercial motor vehicle by certain visa
+29 holders.
+30 (a)(1) A holder of a B-1, B-2, or B-1/B-2 nonimmigrant visitor visa
+31 under 22 C.F.R. §§ 41.31 - 41.33, as they existed on January 1, 2025, shall
+32 not perform labor or services operating a commercial motor vehicle within
+33 this state.
+34 (2) The act of operating a commercial motor vehicle is
+35 considered labor.
+36 (b) A commercial motor carrier as defined in § 27-14-613 that is
+2 03-12-2025 11:21:40 ZRC054
+As Engrossed: H3/12/25 HB1569
+1 domiciled in the United States and operating in Arkansas shall not employ or
+2 contract with a holder of a B-1, B-2, or B-1/B-2 nonimmigrant visitor visa
+3 under 22 C.F.R. §§ 41.31 — 41.33, as they existed on January 1, 2025, as an
+4 operator of a commercial motor vehicle within this state.
+5 (c) Upon a finding that the holder of a B-1, B-2, or B-1/B-2
+6 nonimmigrant visitor visa under 22 C.F.R. §§ 41.31—41.33, as it existed on
+7 January 1, 2025, operated a commercial motor vehicle:
+8 (1) The commercial motor vehicle shall be impounded, subject to
+9 the process for the impoundment of a motor vehicle as set forth under § 27-
+10 22-109(b) and (c);
+11 (2) The operator of the commercial motor vehicle who violates
+12 this section shall be subject to a fine of five thousand ($5,000) dollars.
+13
+14 27-23-134. Exclusion of reciprocity.
+15 A nondomiciled commercial driver license or nondomiciled commercial
+16 learner's permit issued by a state other than Arkansas under 49 C.F.R. §
+17 383.71, as it existed on January 1, 2025, is not valid to authorize the
+18 operation of a commercial motor vehicle within this state.
+19
+20 27-23-135. English proficiency.
+21 An operator of a commercial motor vehicle shall demonstrate proficiency
+22 in the English language sufficient to:
+23 (1) Read road signs and warning signs;
+24 (2) Understand traffic control devices; and
+25 (3) Communicate effectively in an emergency with:
+26 (A) Emergency services;
+27 (B) Law enforcement; and
+28 (C) Other drivers.
+29
+30 27-23-136. Noncitizen operating commercial motor vehicle without
+31 domestic commercial driver license.
+32 (a) A person commits the offense of operating a commercial motor
+33 vehicle without a domestic commercial driver license if he or she:
+34 (1) Is not a citizen of the United States;
+35 (2) Operates a commercial motor vehicle; and
+36 (3) Does not hold a valid commercial driver license under § 27-
+3 03-12-2025 11:21:40 ZRC054
+As Engrossed: H3/12/25 HB1569
+1 23-132.
+2 (b)(1) The offense of operating a commercial motor vehicle without a
+3 domestic commercial driver license is a violation and is subject to a fine of
+4 five thousand dollars ($5,000).
+5 (2) Upon an arrest for a violation of this section, the
+6 commercial motor vehicle that the person was operating shall be impounded,
+7 subject to the process for the impoundment of a motor vehicle stated under §
+8 27-22-109(b) and (c).
+9 (c) An offense under this section is a strict liability offense.
+10
+11 27-23-137. Criminal use of a commercial motor vehicle.
+12 (a) A person commits the offense of criminal use of a commercial motor
+13 vehicle if he or she:
+14 (1) Is not a citizen of the United States;
+15 (2) Does not hold a valid commercial driver license under § 27-
+16 23-132; and
+17 (3) Causes the bodily harm of another person while operating a
+18 commercial motor vehicle.
+19 (b) The offense of criminal use of a commercial motor vehicle is a
+20 Class D felony with a minimum term of imprisonment of six (6) months.
+21 (c) An offense under this section is a strict liability offense.
+22
+23 27-23-138. Vehicular homicide with a commercial motor vehicle.
+24 (a) A person commits the offense of vehicular homicide with a
+25 commercial motor vehicle if he or she:
+26 (1) Is not a citizen of the United States;
+27 (2) Does not hold a valid commercial driver license under § 27-
+28 23-132; and
+29 (3) Causes the death of another person while operating a
+30 commercial motor vehicle.
+31 (b) The offense of vehicular homicide with a commercial motor vehicle
+32 is a Class B felony with a minimum term of imprisonment of ten (10) years.
+33 (c) An offense under this section is a strict liability offense.
+34
+35 27-23-139. Operating commercial motor vehicle without sufficient
+36 English language proficiency.
+4 03-12-2025 11:21:40 ZRC054
+As Engrossed: H3/12/25 HB1569
+1 (a) A person commits the offense of operating a commercial motor
+2 vehicle without sufficient English language proficiency if he or she:
+3 (1) Operates a commercial vehicle; and
+4 (2) Fails to demonstrate proficiency in the English language as
+5 required under § 27-23-135.
+6 (b) The offense of operating a commercial motor vehicle without
+7 sufficient English language proficiency is a violation and is subject to a
+8 fine of five thousand dollars ($5,000).
+9 (c) An offense under this section is a strict liability offense.
+10
+11 27-23-140. Providing commercial motor vehicle to ineligible operator —
+12 Penalties — Definition.
+13 (a) A commercial motor carrier commits the offense of providing a
+14 commercial motor vehicle to an ineligible operator if the commercial motor
+15 carrier negligently provides a commercial vehicle to a person who:
+16 (1) Operates the commercial motor vehicle; and
+17 (2) Violates § 27-23-133, § 27-23-136, or § 27-23-139.
+18 (b) The offense of providing a commercial motor vehicle to an
+19 ineligible operator is a violation and is subject to a fine of ten thousand
+20 dollars ($10,000).
+21 (c) As used in this section, "commercial motor carrier" means the same
+22 as used in § 27-14-613.
+23
+24 SECTION 4. EMERGENCY CLAUSE. It is found and determined by the
+25 General Assembly of the State of Arkansas that that the implementation of
+26 this act is essential to the safety of the citizens of the State of Arkansas;
+27 and that this act is immediately necessary because a delay in implementing
+28 this act could cause irreparable harm to public safety. Therefore, an
+29 emergency is declared to exist, and this act being immediately necessary for
+30 the preservation of the public peace, health, and safety shall become
+31 effective on:
+32 (1) The date of its approval by the Governor;
+33 (2) If the bill is neither approved nor vetoed by the Governor,
+34 the expiration of the period of time during which the Governor may veto the
+35 bill; or
+36 (3) If the bill is vetoed by the Governor and the veto is
+5 03-12-2025 11:21:40 ZRC054
+As Engrossed: H3/12/25 HB1569
+1 overridden, the date the last house overrides the veto.
+2
+3 /s/Long
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+6 03-12-2025 11:21:40 ZRC054
+[DELETED:  A   EBL1     A A D V M L M L O V P   T T C P O A  B   S  T T   S]
+[DELETED:  H2 0  T   ( o E   ( u o   ( t C   ( U d    S a  2 j  A s   ( t t   (    ( t    (  2 h  ( u n t   ( c  (]
+[DELETED:  H3 0 d c u o  ( n J   ( t 2   ( t   2  A l 3 o   2  A i   (   (   (    (    (    (   2 d  ( v   (   (   (]
+[DELETED:  H4 0 2  ( d f   ( c s 2  (   2  ( v   (   ( 2   ( c  ( C  (   2  ( c   (   ( 2   ( c  ( i  (   2 E]
+[DELETED:  H5 0  ( v   (   ( r  ( s f  (   2 P  ( c c   (   (  ( i d  ( a     S G t a t e t e   (   ( t b   (]
+[DELETED:  H6 0 o  /                                 ]
+
+
+================================================================================
+
+Raw Text:
+Stricken language would be deleted from and underlined language would be added to present law.
+1 State of Arkansas As Engrossed: H3/12/25
+A Bill
+2 95th General Assembly
+3 Regular Session, 2025 HOUSE BILL 1569
+4
+5 By: Representative Long
+6 By: Senator J. Payton
+7
+For An Act To Be Entitled
+8
+9 AN ACT TO CREATE THE SECURE ROADS AND SAFE TRUCKING
+10 ACT OF 2025; TO AMEND THE LAW CONCERNING A COMMERCIAL
+11 DRIVER LICENSE AND THE OPERATORS OF COMMERCIAL MOTOR
+12 VEHICLES; TO REQUIRE THAT OPERATORS OF COMMERCIAL
+13 MOTOR VEHICLES HAVE PROFICIENCY IN THE ENGLISH
+14 LANGUAGE; TO REQUIRE THAT OPERATORS OF COMMERCIAL
+15 MOTOR VEHICLES HAVE A VALID COMMERCIAL DRIVER
+16 LICENSE; TO CREATE ADDITIONAL CRIMINAL PENALTIES FOR
+17 OFFENSES COMMITTED WHILE OPERATING A COMMERCIAL MOTOR
+18 VEHICLE; TO DECLARE AN EMERGENCY; AND FOR OTHER
+19 PURPOSES.
+20
+21
+Subtitle
+22
+23 TO CREATE THE SECURE ROADS AND SAFE
+24 TRUCKING ACT OF 2025; TO AMEND THE LAW
+25 CONCERNING COMMERCIAL DRIVERS; TO CREATE
+26 PENALTIES FOR OFFENSES COMMITTED WHILE
+27 OPERATING A COMMERCIAL MOTOR VEHICLE;
+28 AND TO DECLARE AN EMERGENCY.
+29
+30 BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF ARKANSAS:
+31
+32 SECTION 1. DO NOT CODIFY. Title.
+33 This act shall be known and may be cited as the "Secure Roads and Safe
+34 Trucking Act of 2025".
+35
+36 SECTION 2. DO NOT CODIFY. Legislative findings.
+*ZRC054*
+03-12-2025 11:21:40 ZRC054
+
+As Engrossed: H3/12/25 HB1569
+1 The General Assembly finds that:
+2 (1) Government entities have existing requirements for the
+3 operators of various modes of commercial transportation to demonstrate
+4 English proficiency;
+5 (2) A requirement to demonstrate English proficiency is not
+6 unique to the operation of a commercial motor vehicle and is required for
+7 other modes of commercial transportation;
+8 (3) A demonstration of English proficiency is required during
+9 the licensure process for a pilot's license and instrument rating under 14
+10 C.F.R. Parts 61, 63, 65, and 107; and
+11 (4) The International Civil Aviation Organization, of which the
+12 United States is a member, requires operators of commercial aircraft to
+13 demonstrate English language proficiency.
+14
+15 SECTION 3. Arkansas Code Title 27, Chapter 23, Subchapter 1, is
+16 amended to add additional sections to read as follows:
+17 27-23-132. Requirement to possess commercial driver license from valid
+18 jurisdiction.
+19 An individual operating a commercial motor vehicle within this state
+20 shall possess:
+21 (1) A valid commercial driver license issued by a state,
+22 territory, or possession of the United States, the District of Columbia, or
+23 the Commonwealth of Puerto Rico; or
+24 (2) Both:
+25 (A) A valid commercial driver license issued by a state,
+26 territory, district, or province of Canada or Mexico; and
+27 (B) A valid work visa.
+28 27-23-133. Operation of commercial motor vehicle by certain visa
+29 holders.
+30 (a)(1) A holder of a B-1, B-2, or B-1/B-2 nonimmigrant visitor visa
+31 under 22 C.F.R. §§ 41.31 - 41.33, as they existed on January 1, 2025, shall
+32 not perform labor or services operating a commercial motor vehicle within
+33 this state.
+34 (2) The act of operating a commercial motor vehicle is
+35 considered labor.
+36 (b) A commercial motor carrier as defined in § 27-14-613 that is
+2 03-12-2025 11:21:40 ZRC054
+
+As Engrossed: H3/12/25 HB1569
+1 domiciled in the United States and operating in Arkansas shall not employ or
+2 contract with a holder of a B-1, B-2, or B-1/B-2 nonimmigrant visitor visa
+3 under 22 C.F.R. §§ 41.31 — 41.33, as they existed on January 1, 2025, as an
+4 operator of a commercial motor vehicle within this state.
+5 (c) Upon a finding that the holder of a B-1, B-2, or B-1/B-2
+6 nonimmigrant visitor visa under 22 C.F.R. §§ 41.31—41.33, as it existed on
+7 January 1, 2025, operated a commercial motor vehicle:
+8 (1) The commercial motor vehicle shall be impounded, subject to
+9 the process for the impoundment of a motor vehicle as set forth under § 27-
+10 22-109(b) and (c);
+11 (2) The operator of the commercial motor vehicle who violates
+12 this section shall be subject to a fine of five thousand ($5,000) dollars.
+13
+14 27-23-134. Exclusion of reciprocity.
+15 A nondomiciled commercial driver license or nondomiciled commercial
+16 learner's permit issued by a state other than Arkansas under 49 C.F.R. §
+17 383.71, as it existed on January 1, 2025, is not valid to authorize the
+18 operation of a commercial motor vehicle within this state.
+19
+20 27-23-135. English proficiency.
+21 An operator of a commercial motor vehicle shall demonstrate proficiency
+22 in the English language sufficient to:
+23 (1) Read road signs and warning signs;
+24 (2) Understand traffic control devices; and
+25 (3) Communicate effectively in an emergency with:
+26 (A) Emergency services;
+27 (B) Law enforcement; and
+28 (C) Other drivers.
+29
+30 27-23-136. Noncitizen operating commercial motor vehicle without
+31 domestic commercial driver license.
+32 (a) A person commits the offense of operating a commercial motor
+33 vehicle without a domestic commercial driver license if he or she:
+34 (1) Is not a citizen of the United States;
+35 (2) Operates a commercial motor vehicle; and
+36 (3) Does not hold a valid commercial driver license under § 27-
+3 03-12-2025 11:21:40 ZRC054
+
+As Engrossed: H3/12/25 HB1569
+1 23-132.
+2 (b)(1) The offense of operating a commercial motor vehicle without a
+3 domestic commercial driver license is a violation and is subject to a fine of
+4 five thousand dollars ($5,000).
+5 (2) Upon an arrest for a violation of this section, the
+6 commercial motor vehicle that the person was operating shall be impounded,
+7 subject to the process for the impoundment of a motor vehicle stated under §
+8 27-22-109(b) and (c).
+9 (c) An offense under this section is a strict liability offense.
+10
+11 27-23-137. Criminal use of a commercial motor vehicle.
+12 (a) A person commits the offense of criminal use of a commercial motor
+13 vehicle if he or she:
+14 (1) Is not a citizen of the United States;
+15 (2) Does not hold a valid commercial driver license under § 27-
+16 23-132; and
+17 (3) Causes the bodily harm of another person while operating a
+18 commercial motor vehicle.
+19 (b) The offense of criminal use of a commercial motor vehicle is a
+20 Class D felony with a minimum term of imprisonment of six (6) months.
+21 (c) An offense under this section is a strict liability offense.
+22
+23 27-23-138. Vehicular homicide with a commercial motor vehicle.
+24 (a) A person commits the offense of vehicular homicide with a
+25 commercial motor vehicle if he or she:
+26 (1) Is not a citizen of the United States;
+27 (2) Does not hold a valid commercial driver license under § 27-
+28 23-132; and
+29 (3) Causes the death of another person while operating a
+30 commercial motor vehicle.
+31 (b) The offense of vehicular homicide with a commercial motor vehicle
+32 is a Class B felony with a minimum term of imprisonment of ten (10) years.
+33 (c) An offense under this section is a strict liability offense.
+34
+35 27-23-139. Operating commercial motor vehicle without sufficient
+36 English language proficiency.
+4 03-12-2025 11:21:40 ZRC054
+
+As Engrossed: H3/12/25 HB1569
+1 (a) A person commits the offense of operating a commercial motor
+2 vehicle without sufficient English language proficiency if he or she:
+3 (1) Operates a commercial vehicle; and
+4 (2) Fails to demonstrate proficiency in the English language as
+5 required under § 27-23-135.
+6 (b) The offense of operating a commercial motor vehicle without
+7 sufficient English language proficiency is a violation and is subject to a
+8 fine of five thousand dollars ($5,000).
+9 (c) An offense under this section is a strict liability offense.
+10
+11 27-23-140. Providing commercial motor vehicle to ineligible operator —
+12 Penalties — Definition.
+13 (a) A commercial motor carrier commits the offense of providing a
+14 commercial motor vehicle to an ineligible operator if the commercial motor
+15 carrier negligently provides a commercial vehicle to a person who:
+16 (1) Operates the commercial motor vehicle; and
+17 (2) Violates § 27-23-133, § 27-23-136, or § 27-23-139.
+18 (b) The offense of providing a commercial motor vehicle to an
+19 ineligible operator is a violation and is subject to a fine of ten thousand
+20 dollars ($10,000).
+21 (c) As used in this section, "commercial motor carrier" means the same
+22 as used in § 27-14-613.
+23
+24 SECTION 4. EMERGENCY CLAUSE. It is found and determined by the
+25 General Assembly of the State of Arkansas that that the implementation of
+26 this act is essential to the safety of the citizens of the State of Arkansas;
+27 and that this act is immediately necessary because a delay in implementing
+28 this act could cause irreparable harm to public safety. Therefore, an
+29 emergency is declared to exist, and this act being immediately necessary for
+30 the preservation of the public peace, health, and safety shall become
+31 effective on:
+32 (1) The date of its approval by the Governor;
+33 (2) If the bill is neither approved nor vetoed by the Governor,
+34 the expiration of the period of time during which the Governor may veto the
+35 bill; or
+36 (3) If the bill is vetoed by the Governor and the veto is
+5 03-12-2025 11:21:40 ZRC054
+
+As Engrossed: H3/12/25 HB1569
+1 overridden, the date the last house overrides the veto.
+2
+3 /s/Long
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+6 03-12-2025 11:21:40 ZRC054
+
+[DELETED:  A   EBL1     A A D V M L M L O V P   T T C P O A  B   S  T T   S]
+[DELETED:  H2 0  T   ( o E   ( u o   ( t C   ( U d    S a  2 j  A s   ( t t   (    ( t    (  2 h  ( u n t   ( c  (]
+[DELETED:  H3 0 d c u o  ( n J   ( t 2   ( t   2  A l 3 o   2  A i   (   (   (    (    (    (   2 d  ( v   (   (   (]
+[DELETED:  H4 0 2  ( d f   ( c s 2  (   2  ( v   (   ( 2   ( c  ( C  (   2  ( c   (   ( 2   ( c  ( i  (   2 E]
+[DELETED:  H5 0  ( v   (   ( r  ( s f  (   2 P  ( c c   (   (  ( i d  ( a     S G t a t e t e   (   ( t b   (]
+[DELETED:  H6 0 o  /                                 ]

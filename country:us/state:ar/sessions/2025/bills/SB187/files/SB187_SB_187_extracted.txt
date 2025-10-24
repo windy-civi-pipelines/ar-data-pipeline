@@ -1,0 +1,101 @@
+Title: Stricken language would be deleted from and underlined language would be added to present law.
+Official Title: Stricken language would be deleted from and underlined language would be added to present law.
+Number of Sections: 1
+Source: versions - SB 187
+Media Type: application/pdf
+Strikethrough Detection: 1 sections found
+
+================================================================================
+
+Section 1:
+1 State of Arkansas
+A Bill
+2 95th General Assembly
+3 Regular Session, 2025 SENATE BILL 187
+4
+5 By: Senator Irvin
+6 By: Representative K. Moore
+7
+For An Act To Be Entitled
+8
+9 AN ACT TO AMEND THE COMPOSITION OF THE ARKANSAS
+10 MEDICAID DRUG UTILIZATION REVIEW BOARD TO INCLUDE
+11 PHYSICIAN ASSISTANTS; AND FOR OTHER PURPOSES.
+12
+13
+Subtitle
+14
+15 TO AMEND THE COMPOSITION OF THE ARKANSAS
+16 MEDICAID DRUG UTILIZATION REVIEW BOARD
+17 TO INCLUDE PHYSICIAN ASSISTANTS.
+18
+19 BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF ARKANSAS:
+20
+21 SECTION 1. Arkansas Code § 20-77-143(c)(2), concerning the individuals
+22 appointed to the Arkansas Medicaid Drug Utilization Review Board, is amended
+23 to read as follows:
+24 (2) The individuals appointed under subdivision (c)(1) of this
+25 section shall be:
+26 (A) Either physicians Physicians, physician assistants, or
+27 advanced practice registered nurses;
+28 (B) Licensed and practicing in this state; and
+29 (C) Currently treating rare diseases or conditions.
+30
+31
+32
+33
+34
+35
+36
+*JMB167*
+02/04/2025 8:25:10 AM JMB167
+[DELETED:          A M P   T M T  B   S a t   ( s    ( a    (    (]
+
+
+================================================================================
+
+Raw Text:
+Stricken language would be deleted from and underlined language would be added to present law.
+1 State of Arkansas
+A Bill
+2 95th General Assembly
+3 Regular Session, 2025 SENATE BILL 187
+4
+5 By: Senator Irvin
+6 By: Representative K. Moore
+7
+For An Act To Be Entitled
+8
+9 AN ACT TO AMEND THE COMPOSITION OF THE ARKANSAS
+10 MEDICAID DRUG UTILIZATION REVIEW BOARD TO INCLUDE
+11 PHYSICIAN ASSISTANTS; AND FOR OTHER PURPOSES.
+12
+13
+Subtitle
+14
+15 TO AMEND THE COMPOSITION OF THE ARKANSAS
+16 MEDICAID DRUG UTILIZATION REVIEW BOARD
+17 TO INCLUDE PHYSICIAN ASSISTANTS.
+18
+19 BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF ARKANSAS:
+20
+21 SECTION 1. Arkansas Code § 20-77-143(c)(2), concerning the individuals
+22 appointed to the Arkansas Medicaid Drug Utilization Review Board, is amended
+23 to read as follows:
+24 (2) The individuals appointed under subdivision (c)(1) of this
+25 section shall be:
+26 (A) Either physicians Physicians, physician assistants, or
+27 advanced practice registered nurses;
+28 (B) Licensed and practicing in this state; and
+29 (C) Currently treating rare diseases or conditions.
+30
+31
+32
+33
+34
+35
+36
+*JMB167*
+02/04/2025 8:25:10 AM JMB167
+
+[DELETED:          A M P   T M T  B   S a t   ( s    ( a    (    (]

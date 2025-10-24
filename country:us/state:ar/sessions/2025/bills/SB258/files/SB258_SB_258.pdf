@@ -1,0 +1,1124 @@
+Stricken language would be deleted from and underlined language would be added to present law.
+1 State of Arkansas As Engrossed: S2/27/25 S3/13/25 S4/7/25
+A Bill
+2 95th General Assembly
+3 Regular Session, 2025 SENATE BILL 258
+4
+5 By: Senator C. Penzo
+6 By: Representative S. Meeks
+7
+For An Act To Be Entitled
+8
+9 AN ACT TO CREATE THE ARKANSAS DIGITAL RESPONSIBILITY,
+10 SAFETY, AND TRUST ACT; AND FOR OTHER PURPOSES.
+11
+12
+Subtitle
+13
+14 TO CREATE THE ARKANSAS DIGITAL
+15 RESPONSIBILITY, SAFETY, AND TRUST ACT.
+16
+17 BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF ARKANSAS:
+18
+19 SECTION 1. Arkansas Code Title 4, is amended to add an additional
+20 chapter to read as follows:
+21
+22 CHAPTER 120
+23 ARKANSAS DIGITAL RESPONSIBILITY, SAFETY, AND TRUST ACT
+24
+25 Subchapter 1 — General Provisions
+26
+27 4-120-101. Title.
+28 This chapter shall be known and may be cited as the "Arkansas Digital
+29 Responsibility, Safety, and Trust Act".
+30
+31 4-120-102. Legislative findings.
+32 The General Assembly finds that:
+33 (1) Arkansans and Americans have long valued personal privacy as
+34 something that serves essential human needs of liberty, personal autonomy,
+35 seclusion, family, intimacy, and other relationships, and security;
+36 (2) Privacy safeguards foundational American values of self-
+*ANS146*
+04-07-2025 19:31:27 ANS146
+
+As Engrossed: S2/27/25 S3/13/25 S4/7/25 SB258
+1 government;
+2 (3) The United States and Arkansas have long protected aspects
+3 of personal privacy since the nation’s founding, including through the First,
+4 Third, Fourth, Fifth, Ninth, and Fourteenth Amendments to the United States
+5 Constitution and Article 2, §§ 2, 6, 8, 10, 15, 21, and 24 of the Arkansas
+6 Constitution;
+7 (4) The United States has a history of leadership in privacy
+8 rights, passing some of the first privacy laws as early as the eighteenth
+9 century and adopting one (1) of the first national privacy and data
+10 protection laws globally in addition to the “fair information practice
+11 principles” that have influenced laws and privacy practices around the world;
+12 (5)(A) The expansion of computers, internet connectivity, mobile
+13 telephones, and other digital information and communications technology has
+14 magnified the risks to an individual's privacy that can occur from the
+15 collection, processing, storage, or dissemination of personal information.
+16 (B) The overwhelming majority of Arkansans and Americans
+17 have smartphones equipped with powerful computers, immense storage capacity,
+18 arrays of sensors, and the capacity to transmit information around the world
+19 instantaneously.
+20 (C) Some people use these devices continuously and use
+21 them to store a digital record of nearly every aspect of their lives.
+22 (D) Arkansans increasingly have other “smart devices” such
+23 as automobiles, televisions, home appliances, and wearable accessories that
+24 collect, process, and transmit information linked to Arkansans and their
+25 activities to entities around the world.
+26 (E) Participation in modern society necessitates the
+27 adoption of technology, and Arkansans who fail to embrace technological
+28 advancements face significant competitive disadvantages in education,
+29 employment, healthcare access, and economic opportunity;
+30 (6)(A) The personal information of Arkansans and Americans has
+31 been used against them to steal their identities, open financial and credit
+32 accounts in their names, and do other personal and financial harm.
+33 (B) Troves of Arkansan and American personal information
+34 lie in the hands of state adversaries and criminals;
+35 (7) The aggregation of an increasing volume of data among many
+36 different entities expands the exposure to malicious actors in cyberspace and
+2 04-07-2025 19:31:27 ANS146
+
+As Engrossed: S2/27/25 S3/13/25 S4/7/25 SB258
+1 the availability of personal information to such actors;
+2 (8)(A) The risks of harm from privacy violations are
+3 significant.
+4 (B) Unwanted or unexpected disclosure of personal
+5 information and loss of privacy can have devastating effects for individuals,
+6 including financial fraud and loss, identity theft, and the resulting loss of
+7 personal time and money, destruction of property, harassment, and even
+8 potential physical injury.
+9 (C) Other effects such as reputational or emotional damage
+10 can be equally or even more substantial;
+11 (9)(A) With the development of artificial intelligence and
+12 machine learning, the potential to use personal and other information in ways
+13 that replicate existing social problems has increased in scale.
+14 (B) Algorithms use personal and other information to guide
+15 decision-making related to critical issues, such as credit determination,
+16 housing advertisements, and hiring processes, and can result in differing
+17 accuracy rates;
+18 (10)(A) Individuals need to feel confident that data that
+19 relates to them will not be used or shared in ways that can harm themselves,
+20 their families, or society.
+21 (B) As such, organizations that collect, use, retain, and
+22 share personal information should be subject to meaningful and effective
+23 boundaries on such activities, obligated to take reasonable steps to protect
+24 the privacy and security of personal information, and required to mitigate
+25 privacy risks to the individuals whose data they steward; and
+26 (11)(A) The majority of governments around the world already
+27 impose such restrictions on businesses, but Arkansans do not yet have their
+28 right to privacy protected.
+29 (B) It is proper for the General Assembly to protect
+30 Arkansans’ privacy rights, enforce the rights against those who collect, use,
+31 retain, and share their personal information, and establish the legislative
+32 framework for responsible, safe, and trustworthy technology in Arkansas.
+33
+34 4-120-103. Definitions.
+35 As used in this chapter:
+36 (1) "Affiliate" means a legal entity that:
+3 04-07-2025 19:31:27 ANS146
+
+As Engrossed: S2/27/25 S3/13/25 S4/7/25 SB258
+1 (A) Controls, is controlled by, or is under common control
+2 with another legal entity; or
+3 (B) Shares common branding with another legal entity;
+4 (2) "Authenticate" means to verify through reasonable means that
+5 the consumer who is entitled to exercise the consumer’s right is the same
+6 consumer exercising those consumer rights with respect to the personal data
+7 at issue;
+8 (3)(A) "Biometric data" means data generated by automatic
+9 measurements of an individual’s biological characteristics that are used to
+10 identify a specific individual.
+11 (B) "Biometric data" includes a fingerprint, voiceprint,
+12 eye retina or iris scans, or other unique biological pattern or
+13 characteristic that is used to identify a specific individual.
+14 (C) "Biometric data" does not include a physical or
+15 digital photograph or data generated from a physical or digital photograph, a
+16 video or audio recording or data generated from a video or audio recording,
+17 or information collected, used, or stored for healthcare treatment, payment,
+18 or operations under the Health Insurance Portability and Accountability Act
+19 of 1996, 42 U.S.C. § 1320d et seq., as it existed on January 1, 2025;
+20 (4) "Business associate" means the same as defined in the Health
+21 Insurance Portability and Accountability Act of 1996, 42 U.S.C. § 1320d et
+22 seq., as it existed on January 1, 2025;
+23 (5) "Child" means an individual younger than thirteen (13) years
+24 of age;
+25 (6)(A) "Consent" means a clear affirmative act, if referring to
+26 a consumer, that signifies a consumer’s freely given, specific, informed, and
+27 unambiguous agreement to process personal data relating to the consumer.
+28 (B) "Consent" includes a written statement, including a
+29 statement written by electronic means, or any other unambiguous affirmative
+30 action.
+31 (C) "Consent" does not include:
+32 (i) An acceptance of a general or broad terms of use
+33 or similar document that contains descriptions of personal data processing
+34 along with other unrelated information;
+35 (ii) The hovering over, muting, pausing, or closing
+36 a given piece of content; or
+4 04-07-2025 19:31:27 ANS146
+
+As Engrossed: S2/27/25 S3/13/25 S4/7/25 SB258
+1 (iii) An agreement obtained through the use of dark
+2 patterns;
+3 (7)(A) "Consumer" means an individual who is a resident of this
+4 state acting only in an individual or household context.
+5 (B) "Consumer" does not include an individual acting in a
+6 commercial or employment context;
+7 (8) "Consumer health data" means any personal data that a
+8 controller uses to identify a consumer's physical or mental health condition
+9 or diagnosis;
+10 (9) "Control" means:
+11 (A) The ownership of, or power to vote, more than fifty
+12 percent (50%) of the outstanding shares of any class of voting security of a
+13 company;
+14 (B) The control in any manner over the election of a
+15 majority of the directors or of individuals exercising similar functions; or
+16 (C) The power to exercise controlling influence over the
+17 management of a company;
+18 (10) "Controller" means an individual or other person that,
+19 alone or jointly with others, determines the purpose and means of processing
+20 personal data;
+21 (11) "Covered entity" has the same meaning as defined in the
+22 Health Insurance Portability and Accountability Act of 1996, 42 U.S.C. §
+23 1320d et seq., as it existed on January 1, 2025;
+24 (12)(A) "Dark pattern" means a user interface designed or
+25 manipulated with the effect of substantially subverting or impairing user
+26 autonomy, decision-making, or choice.
+27 (B) "Dark pattern" includes any practice that the Federal
+28 Trade Commission refers to as a dark pattern;
+29 (13) "Decision that produces a legal or similarly significant
+30 effect concerning a consumer" means a decision made by a controller that
+31 results in the provision or denial by the controller of:
+32 (A) Financial and lending services;
+33 (B) Housing, insurance, or healthcare services;
+34 (C) Education enrollment;
+35 (D) Employment opportunities;
+36 (E) Criminal justice; or
+5 04-07-2025 19:31:27 ANS146
+
+As Engrossed: S2/27/25 S3/13/25 S4/7/25 SB258
+1 (F) Access to basic necessities, such as food and water;
+2 (14) "Deidentified data" means data that cannot reasonably be
+3 linked to an identified or identifiable individual or a device linked to that
+4 individual;
+5 (15)(A) "Health record" means a written, printed, or
+6 electronically recorded material maintained by a healthcare provider in the
+7 course of providing healthcare services to an individual that concerns the
+8 individual and the services provided.
+9 (B) "Health record" includes:
+10 (i) The substance of any communication made by an
+11 individual to a healthcare provider in confidence during or in connection
+12 with the provision of healthcare services; or
+13 (ii) Information otherwise acquired by the
+14 healthcare provider about an individual in confidence and in connection with
+15 healthcare services provided to the individual;
+16 (16) "Healthcare provider" means the same as defined in the
+17 Health Insurance Portability and Accountability Act of 1996, 42 U.S.C. §
+18 1320d et seq., as it existed on January 1, 2025;
+19 (17) "Healthcare services" has the same meaning as provided in
+20 42 U.S.C. § 234(d)(2), as it existed on January 1, 2025;
+21 (18) "Identified or identifiable individual" means a consumer
+22 who can be readily identified, directly or indirectly;
+23 (19) "Institution of higher education" means:
+24 (A) A vocational or technical school governed by Arkansas
+25 Code Title 6, Subtitle 4; or
+26 (B) A postsecondary or higher education institution governed
+27 by Arkansas Code Title 6, Subtitle 5;
+28 (20) "Known child" means a child under circumstances where a
+29 controller has actual knowledge of, or willfully disregards, the child's age;
+30 (21) "Nonprofit organization" means:
+31 (A) A corporation governed by Arkansas Code Title 4,
+32 Chapter 28 or Chapter 33 to extent applicable to nonprofit corporations;
+33 (B) An organization exempt from federal taxation as
+34 a nonprofit entity under § 501(a) of the Internal Revenue Code, by being
+35 listed as an exempt organization under §§ 501(c)(3), 501(c)(4), 501(c)(6),
+36 501(c)(12), or 501(c)(19) of the Internal Revenue Code; or
+6 04-07-2025 19:31:27 ANS146
+
+As Engrossed: S2/27/25 S3/13/25 S4/7/25 SB258
+1 (C) A political organization;
+2 (22)(A) "Personal data" means any information, including
+3 sensitive data, that is linked or reasonably linkable to an identified or
+4 identifiable individual.
+5 (B) "Personal data" includes pseudonymous data when the
+6 data is used by a controller or processor in conjunction with additional
+7 information that reasonably links the data to an identified or identifiable
+8 individual.
+9 (C) "Personal data" does not include deidentified data or
+10 publicly available information;
+11 (23) "Political organization" means a party, committee,
+12 association, fund, or other organization, regardless of whether incorporated,
+13 that is organized and operated primarily for the purpose of influencing or
+14 attempting to influence:
+15 (A) The selection, nomination, election, or
+16 appointment of an individual to federal, state, or local public office or an
+17 office in a political organization, regardless of whether the individual is
+18 ultimately selected, nominated, elected, or appointed; or
+19 (B) The election of a presidential or vice-
+20 presidential elector, regardless of whether the elector is ultimately
+21 selected, nominated, elected, or appointed;
+22 (24)(A) "Precise geolocation data" means information derived
+23 from technology, including Global Positioning System level latitude and
+24 longitude coordinates or other mechanisms, that directly identifies the
+25 specific location of an individual with precision and accuracy within a
+26 radius of one thousand seven hundred fifty feet (1,750').
+27 (B) "Precise geolocation data" does not include the
+28 content of communications or any data generated by or connected to an
+29 advanced utility metering infrastructure system or to equipment for use by a
+30 utility;
+31 (25) "Process" means an operation or set of operations
+32 performed, whether by manual or automated means, on personal data or on sets
+33 of personal data, such as the collection, use, storage, disclosure, analysis,
+34 deletion, or modification of personal data;
+35 (26) "Processor" means a person who processes personal data on
+36 behalf of a controller;
+7 04-07-2025 19:31:27 ANS146
+
+As Engrossed: S2/27/25 S3/13/25 S4/7/25 SB258
+1 (27) "Profiling" means a form of automated processing performed
+2 on personal data to evaluate, analyze, or predict personal aspects related to
+3 an identified or identifiable individual’s economic situation, health,
+4 personal preferences, interests, reliability, behavior, location, or
+5 movements;
+6 (28) "Protected health information" means the same as defined
+7 under the Health Insurance Portability and Accountability Act of 1996, 42
+8 U.S.C. § 1320d et seq., as it existed on January 1, 2025;
+9 (29) "Pseudonymous data" means any information that cannot be
+10 attributed to a specific individual without the use of additional
+11 information, provided that the additional information is kept separately and
+12 is subject to appropriate technical and organizational measures to ensure
+13 that the personal data is not attributed to an identified or identifiable
+14 individual;
+15 (30) "Publicly available information" means information that is
+16 lawfully made available through government records, or information that a
+17 business has a reasonable basis to believe is lawfully made available to the
+18 general public through widely distributed media, by a consumer, or by a
+19 person to whom a consumer has disclosed the information, unless the consumer
+20 has restricted the information to a specific audience;
+21 (31)(A) "Sale of personal data" means the exchange of personal
+22 data for monetary or other valuable consideration by a controller to a third
+23 party.
+24 (B) "Sale of personal data" does not include:
+25 (i) The disclosure of personal data to a processor
+26 that processes the personal data on the controller’s behalf;
+27 (ii) The disclosure of personal data to a third
+28 party for purposes of providing a product or service requested by the
+29 consumer;
+30 (iii) The disclosure or transfer of personal data to
+31 an affiliate of a controller;
+32 (iv) The disclosure of information that the
+33 consumer:
+34 (a) Intentionally made available to the
+35 general public through a mass media channel; and
+36 (b) Did not restrict to a specific audience;
+8 04-07-2025 19:31:27 ANS146
+
+As Engrossed: S2/27/25 S3/13/25 S4/7/25 SB258
+1 or
+2 (v) The disclosure or transfer of personal data to a
+3 third party as an asset that is part of a merger or acquisition;
+4 (32)(A) "Sensitive data" means a category of personal data.
+5 (B) "Sensitive data" includes:
+6 (i) Personal data revealing racial or ethnic origin,
+7 religious beliefs, mental or physical health diagnosis, sexuality, or
+8 citizenship or immigration status;
+9 (ii) Genetic or biometric data that is processed for
+10 the purpose of uniquely identifying an individual;
+11 (iii) Personal data collected from a known child;
+12 (iv) Precise geolocation data;
+13 (v) A person's Social Security number, driver's
+14 license number, or other government-issued identification number;
+15 (vi) A consumer's account number, account login,
+16 financial account, or credit or debit card number, in combination with a
+17 required security code, access code, or password that would permit access to
+18 a consumer's online financial account; or
+19 (vii) Consumer health data;
+20 (33) "State agency" means a department, commission, board, office,
+21 council, authority, or other agency in any branch of state government that is
+22 created by the Arkansas Constitution or a statute of this state, including a
+23 university system or institution of higher education as governed by Arkansas
+24 Code Title 6, Subtitles 4 or 5 that receives state funding or has directors
+25 appointed by the Governor;
+26 (34)(A) "Targeted advertising" means displaying to a consumer
+27 advertisement that is selected based on personal data obtained from that
+28 consumer’s activities over time and across nonaffiliated websites or online
+29 applications to predict the consumer’s preferences or interests.
+30 (B) "Targeted advertising" does not include an
+31 advertisement that:
+32 (i) Is based on activities within a controller’s own
+33 websites or online applications;
+34 (ii) Is based on the context of a consumer’s current
+35 search query, visit to a website, or online application;
+36 (iii) Is directed to a consumer in response to the
+9 04-07-2025 19:31:27 ANS146
+
+As Engrossed: S2/27/25 S3/13/25 S4/7/25 SB258
+1 consumer’s request for information or feedback; or
+2 (iv) Is used for the processing of personal data
+3 solely for measuring or reporting advertising performance, reach, or
+4 frequency;
+5 (35) "Third party" means a person, other than the consumer, the
+6 controller, the processor, or an affiliate of the controller or processor;
+7 and
+8 (36) "Trade secret" means all forms and types of information,
+9 including business, scientific, technical, economic, or engineering
+10 information, and any formula, design, prototype, pattern, plan, compilation,
+11 program device, program, code, device, method, technique, process, procedure,
+12 financial data, or list of actual or potential customers or suppliers,
+13 whether tangible or intangible and irrespective of how stored, compiled, or
+14 memorialized physically, electronically, graphically, photographically, or in
+15 writing if:
+16 (A) The owner of the trade secret has taken reasonable
+17 measures under the circumstances to keep the information secret; and
+18 (B) The information derives independent economic value,
+19 actual or potential, from not being generally known to, and not being readily
+20 ascertainable through proper means by, another person who can obtain economic
+21 value from the disclosure or use of the information.
+22
+23 4-120-104. Applicability.
+24 (a) This chapter applies only to a person that:
+25 (1) Conducts business in this state or produces a product or
+26 service consumed by residents of this state;
+27 (2) Processes or engages in the sale of personal data; and
+28 (3) Is not a small business as defined by the United States
+29 Small Business Administration, as it existed on January 1, 2025, except to
+30 the extent that § 4-120-302(a) applies to a person described by this section.
+31 (b) This chapter shall only apply to nonprofit organizations whose
+32 annual receipts in any of the preceding five (5) calendar years exceeded
+33 fifteen million dollars ($15,000,000).
+34
+35 4-120-105. Exemptions.
+36 This chapter does not apply to:
+10 04-07-2025 19:31:27 ANS146
+
+As Engrossed: S2/27/25 S3/13/25 S4/7/25 SB258
+1 (1) A state agency or political subdivision of this state;
+2 (2) A financial institution, affiliates of financial
+3 institutions, or data subject to Title V, Gramm-Leach-Bliley Act, 15 U.S.C. §
+4 6801 et seq., as it existed on January 1, 2025;
+5 (3) A covered entity or business associate governed by the
+6 privacy, security, and breach notification rules issued by the United States
+7 Department of Health and Human Services, 45 C.F.R. Parts 160 and 164,
+8 established under the Health Insurance Portability and Accountability Act of
+9 1996, 42 U.S.C. § 1320d et seq., as it existed on January 1, 2025, and the
+10 Health Information Technology for Economic and Clinical Health Act, Division
+11 A, Title XIII, and Division B, Title IV, Pub. L. No. 111-5;
+12 (4) An institution of higher education;
+13 (5) An electric utility governed by Arkansas Code Title 23,
+14 Chapter 18;
+15 (6) Protected health information under the Health Insurance
+16 Portability and Accountability Act of 1996, 42 U.S.C. § 1320d et seq., as it
+17 existed on January 1, 2025;
+18 (7) Health records;
+19 (8) Patient identifying information for purposes of 42 U.S.C. §
+20 290dd-2;
+21 (9) Identifiable private information:
+22 (A) For purposes of the federal policy for the protection
+23 of human subjects under 45 C.F.R. Part 46, as it existed on January 1, 2025;
+24 (B) Collected as part of human subjects research under the
+25 good clinical practice guidelines issued by the International Council for
+26 Harmonisation of Technical Requirements for Pharmaceuticals for Human Use or
+27 of the protection of human subjects under 21 C.F.R. Parts 50 and 56, as it
+28 existed on January 1, 2025; or
+29 (C) That is personal data used or shared in research
+30 conducted according to the requirements stated in this chapter or other
+31 research conducted according to applicable law;
+32 (10) Information and documents created for purposes of the
+33 Health Care Quality Improvement Act of 1986, 42 U.S.C. § 11101 et seq., as it
+34 existed on January 1, 2025;
+35 (11) Patient safety work product for purposes of the Patient
+36 Safety and Quality Improvement Act of 2005, 42 U.S.C. § 299b-21 et seq., as
+11 04-07-2025 19:31:27 ANS146
+
+As Engrossed: S2/27/25 S3/13/25 S4/7/25 SB258
+1 it existed on January 1, 2025;
+2 (12) Information derived from any of the healthcare-related
+3 information listed in this section that is deidentified according to the
+4 requirements for deidentification under the Health Insurance Portability and
+5 Accountability Act of 1996, 42 U.S.C. § 1320d et seq., as it existed on
+6 January 1, 2025;
+7 (13) Information originating from, intermingled to be
+8 indistinguishable with, or information treated in the same manner as
+9 information exempt under this section that is maintained by a covered entity
+10 or business associate as defined by the Health Insurance Portability and
+11 Accountability Act of 1996, 42 U.S.C. Section 1320d et seq., or by a program
+12 or a qualified service organization as defined by 42 U.S.C. Section 290dd-2;
+13 (14) Information that is included in a limited data set as
+14 described by 45 C.F.R. Section 164.514(e), as it existed on January 1, 2025,
+15 to the extent that the information is used, disclosed, and maintained in the
+16 manner specified by 45 C.F.R. Section 164.514(e), as it existed on January 1,
+17 2025;
+18 (15) Information collected or used only for public health
+19 activities and purposes as authorized by the Health Insurance Portability and
+20 Accountability Act of 1996, 42 U.S.C. § 1320d et seq., as it existed on
+21 January 1, 2025;
+22 (16) The collection, maintenance, disclosure, sale,
+23 communication, or use of any personal information bearing on a consumer’s
+24 creditworthiness, credit standing, credit capacity, character, general
+25 reputation, personal characteristics, or mode of living by a consumer
+26 reporting agency or furnisher that provides information for use in a consumer
+27 report, and by a user of the consumer report, but only to the extent that the
+28 activity is regulated by and authorized under the Fair Credit Reporting Act,
+29 15 U.S.C. §§ 1681-1681t, as it existed on January 1, 2025;
+30 (17) Personal data collected, processed, sold, or disclosed in
+31 compliance with the Driver’s Privacy Protection Act of 1994, 18 U.S.C. § 2721
+32 et seq., as it existed on January 1, 2025;
+33 (18) Personal data regulated by the Family Educational Rights
+34 and Privacy Act of 1974, 20 U.S.C. § 1232g, as it existed on January 1, 2025;
+35 (19) Personal data collected, processed, sold, or disclosed in
+36 compliance with the Farm Credit Act of 1971, 12 U.S.C. § 2001 et seq., as it
+12 04-07-2025 19:31:27 ANS146
+
+As Engrossed: S2/27/25 S3/13/25 S4/7/25 SB258
+1 existed on January 1, 2025;
+2 (20) Data processed or maintained in the course of an individual
+3 applying to, being employed by, or acting as an agent or independent
+4 contractor of a controller, processor, or third party, to the extent that the
+5 data is collected and used within the context of that role, except as
+6 specifically provided in § 4-120-602;
+7 (21) Data processed or maintained as the emergency contact
+8 information of an individual under this chapter that is used only for
+9 emergency contact purposes;
+10 (22) Data that is processed or maintained and is necessary to
+11 retain to administer benefits for another individual that relates to an
+12 individual described in subdivision (20) of this section and used only for
+13 the purposes of administering those benefits;
+14 (23) The processing of personal data by a person in the course
+15 of a purely personal or household activity;
+16 (24) Organizations such as the National Insurance Crime Bureau
+17 whose sole purpose is the detection, investigation, tracking, reporting,
+18 mitigating, or preventing fraudulent activity, or data that is processed or
+19 maintained for the sole purpose of detecting, investigating, tracking,
+20 reporting, mitigating, or preventing fraudulent or criminal activity, either
+21 for the person responsible for the data or on behalf of another person or
+22 persons, or assisting law enforcement in any of those activities; or
+23 (25) Personal data collected, processed, maintained, or
+24 disclosed by a national securities association, as defined in section
+25 3(a)(26) of the Securities Exchange Act of 1934, 15 U.S.C. § 78a et seq., as
+26 it existed on January 1, 2025, and the rules and implementing regulations
+27 promulgated thereunder.
+28
+29 4-120-106. Construction of chapter — Exceptions.
+30 (a) This chapter shall not be construed:
+31 (1) To restrict a controller’s or processor’s ability to:
+32 (A) Comply with state laws or rules, or federal or local
+33 laws, rules, or regulations;
+34 (B) Comply with a civil, criminal, or regulatory inquiry,
+35 investigation, subpoena, or summons by federal, state, local, or other
+36 governmental authorities;
+13 04-07-2025 19:31:27 ANS146
+
+As Engrossed: S2/27/25 S3/13/25 S4/7/25 SB258
+1 (C) Investigate, establish, exercise, prepare for, or
+2 defend legal claims;
+3 (D) Provide a product or service specifically requested by
+4 a consumer or the parent or guardian of a child, perform a contract to which
+5 the consumer is a party, including fulfilling the terms of a written
+6 warranty, or take steps at the request of the consumer before entering into a
+7 contract;
+8 (E) Take immediate steps to protect an interest that is
+9 essential for the life or physical safety of the consumer or of another
+10 individual and in which the processing cannot be manifestly based on another
+11 legal basis;
+12 (F) Prevent, detect, protect against, or respond to
+13 security incidents, identity theft, fraud, harassment, malicious or deceptive
+14 activities, or any illegal activity, and preserve the integrity or security
+15 of systems and investigate, report, or prosecute those responsible for
+16 breaches of system security;
+17 (G) Engage in public or peer-reviewed scientific or
+18 statistical research in the public interest that adheres to all other
+19 applicable ethics and privacy laws and is approved, monitored, and governed
+20 by an institutional review board or similar independent oversight entity that
+21 determines:
+22 (i) If the deletion of the information is likely to
+23 provide substantial benefits that do not exclusively accrue to the
+24 controller;
+25 (ii) Whether or not the expected benefits of the
+26 research outweigh the privacy risks; and
+27 (iii) If the controller has implemented reasonable
+28 safeguards to mitigate privacy risks associated with research, including any
+29 risks associated with reidentification; or
+30 (H) Assist another controller, processor, or third party
+31 with any of the requirements under this section;
+32 (2) As imposing a requirement on controllers and processors that
+33 adversely affects the rights or freedoms of any person or entity, including
+34 the right of free speech; or
+35 (3) As requiring a controller, processor, third party, or
+36 consumer to disclose a trade secret.
+14 04-07-2025 19:31:27 ANS146
+
+As Engrossed: S2/27/25 S3/13/25 S4/7/25 SB258
+1 ((b) This chapter may not restrict a controller's or processor's
+2 ability to collect, use, or retain data to:
+3 (1) Conduct internal research to develop, improve, or repair
+4 products, services, or technology;
+5 (2) Effect a product recall;
+6 (3) Identify and repair technical errors that impair existing or
+7 intended functionality; or
+8 (4) Perform internal operations that:
+9 (A) Are reasonably aligned with the expectations of the
+10 consumer;
+11 (B) Are reasonably anticipated based on the consumer’s
+12 existing relationship with the controller; or
+13 (C) Are otherwise compatible with processing data in
+14 furtherance of the provision of a product or service specifically requested
+15 by a consumer or the performance of a contract to which the consumer is a
+16 party.
+17 (c) A controller or processor that processes personal data under an
+18 exemption in this subchapter bears the burden of demonstrating that the
+19 processing of the personal data:
+20 (1) Qualifies for the exemption; and
+21 (2) Complies with the requirements of § 4-120-306, § 4-120-405;
+22 and § 4-120-106(b).
+23 (d) The processing of personal data by an entity for the purposes
+24 described by this chapter does not solely make the entity a controller with
+25 respect to the processing of the data.
+26 (e) This chapter supersedes and preempts an ordinance, resolution,
+27 rule, or other regulation adopted by a political subdivision regarding the
+28 processing of personal data by a controller or processor.
+29 (f) A controller or processor that complies with the verifiable
+30 parental consent requirements of the Children’s Online Privacy Protection Act
+31 of 1998, 15 U.S.C. § 6501 et seq., as it existed on January 1, 2025, with
+32 respect to data collected online is considered to be in compliance with any
+33 requirement to obtain parental consent under this chapter.
+34
+35 4-120-107. Requirements for small businesses and nonprofit
+36 organizations.
+15 04-07-2025 19:31:27 ANS146
+
+As Engrossed: S2/27/25 S3/13/25 S4/7/25 SB258
+1 (a) A person that is a small business as described by § 4-120-
+2 104(a)(3) or a nonprofit organized as described by § 4-120-104(b) shall not
+3 engage in the sale of personal data without receiving prior consent from the
+4 consumer.
+5 (b) A person who violates this section is subject to the penalty under
+6 § 4-120-701 et seq.
+7
+8 Subchapter 2 — Consumer Rights
+9
+10 4-120-201. Consumer’s personal data rights — Request to exercise
+11 rights.
+12 (a)(1) A consumer is entitled to exercise the consumer rights under
+13 this subchapter at any time by submitting a request to a controller
+14 specifying the consumer rights the consumer wishes to exercise.
+15 (2) With respect to the processing of personal data belonging to
+16 a known child, a parent or legal guardian of the child may exercise the
+17 consumer rights on behalf of the child.
+18 (b) A controller shall comply with an authenticated consumer request
+19 to exercise the right to:
+20 (1) Confirm whether a controller is processing the consumer’s
+21 personal data and to access the personal data;
+22 (2) Correct inaccuracies in the consumer’s personal data, taking
+23 into account the nature of the personal data and the purposes of the
+24 processing of the consumer’s personal data;
+25 (3) Delete personal data provided by or obtained about the
+26 consumer;
+27 (4) If the data is available in a digital format, obtain a copy
+28 of the consumer’s personal data that the consumer previously provided to the
+29 controller in a portable and, to the extent technically feasible, readily
+30 usable format that allows the consumer to transmit the data to another
+31 controller without hindrance; or
+32 (5) Opt out of the processing of the personal data for the
+33 purpose of:
+34 (A) Targeted advertising;
+35 (B) The sale of personal data; or
+36 (C) Profiling in furtherance of a solely automated
+16 04-07-2025 19:31:27 ANS146
+
+As Engrossed: S2/27/25 S3/13/25 S4/7/25 SB258
+1 decision that produces a legal or similarly significant effect concerning the
+2 consumer.
+3
+4 4-120-202. Waiver or limitation of consumer rights prohibited.
+5 A provision of a contract or agreement that waives or limits a consumer
+6 right described by §§ 4-120-201, 4-120-204, and 4-120-205 is contrary to
+7 public policy and is void.
+8
+9 4-120-203. Methods for submitting consumer requests.
+10 (a)(1) A controller shall establish two (2) or more secure and
+11 reliable methods to enable consumers to submit a request to exercise their
+12 consumer rights under this chapter.
+13 (2) The methods shall take into account:
+14 (A) The ways in which consumers normally interact with the
+15 controller;
+16 (B) The necessity for secure and reliable communications
+17 of any request under subdivision (a)(1) of this section; and
+18 (C) The ability of the controller to authenticate the
+19 identity of the consumer making the request.
+20 (b) A controller may not require a consumer to create a new account to
+21 exercise the consumer’s rights under this chapter but may require a consumer
+22 to use an existing account.
+23 (c) Except as provided by subsection (d) of this section, if the
+24 controller maintains a website, the controller shall provide a mechanism on
+25 the website for consumers to submit requests for information required to be
+26 disclosed under this chapter.
+27 (d) A controller that operates exclusively online and has a direct
+28 relationship with a consumer from whom the controller collects personal
+29 information is only required to provide an email address for the submission
+30 of requests described by subsection (c) of this section.
+31 (e)(1) A consumer may designate:
+32 (A) Another person to serve as the consumer’s authorized
+33 agent and act on the consumer’s behalf to opt out of the processing of the
+34 consumer’s personal data under § 4-120-201(b)(5)(A) and (B); or
+35 (B) An authorized agent using a technology, including a
+36 link to a website, a browser setting or an extension, or a global setting on
+17 04-07-2025 19:31:27 ANS146
+
+As Engrossed: S2/27/25 S3/13/25 S4/7/25 SB258
+1 an electronic device, which allows the consumer to indicate the consumer’s
+2 intent to opt out of the processing of the consumer's personal data under §
+3 4-120-201(b)(5)(A) and (B).
+4 (2) A controller shall comply with an opt-out request received
+5 from an authorized agent under this section if the controller is able to
+6 verify, with commercially reasonable effort, the identity of the consumer and
+7 the authorized agent’s authority to act on the consumer’s behalf.
+8 (3) A controller is not required to comply with an opt-out
+9 request received from an authorized agent under this subsection if:
+10 (A) The authorized agent does not communicate the request
+11 to the controller in a clear and unambiguous manner or comply with the
+12 controller's reasonable requirements for submitting requests;
+13 (B) The controller is not able to verify, with commercially reasonable
+14 effort, that the consumer is a resident of this state;
+15 (C) The controller does not possess the ability to process
+16 the request; or
+17 (D) The controller does not process similar or identical
+18 requests the controller receives from consumers for the purpose of complying
+19 with similar or identical laws or regulations of another state.
+20 (f) A technology described under subsection (e) of this section:
+21 (1) Shall not:
+22 (A) Unfairly disadvantage another controller; or
+23 (B) Make use of a default setting, but must require the
+24 consumer to consent and indicate the consumer’s intent to opt out of any
+25 processing of a consumer’s personal data; and
+26 (2) Shall be consumer-friendly and easy to use by the average
+27 consumer.
+28
+29 4-120-204. Controller response to consumer request.
+30 (a) Except as otherwise provided by this chapter, a controller shall
+31 comply with a request submitted by a consumer to exercise the consumer’s
+32 rights under § 4-120-201 as provided by this section.
+33 (b)(1) A controller shall respond to the consumer request without
+34 undue delay, which may not be later than the forty-fifth day after the date
+35 of receipt of the request.
+36 (2) The controller may extend the response period once by an
+18 04-07-2025 19:31:27 ANS146
+
+As Engrossed: S2/27/25 S3/13/25 S4/7/25 SB258
+1 additional forty-five (45) days when reasonably necessary, taking into
+2 account the complexity and number of the consumer’s requests, so long as the
+3 controller informs the consumer of the extension within the initial forty-
+4 five-day response period, together with the reason for the extension.
+5 (c) If a controller declines to take action regarding the consumer’s
+6 request, the controller shall inform the consumer without undue delay, which
+7 shall not be later than the forty-fifth day after the date of receipt of the
+8 request, of the justification for declining to take action and provide
+9 instructions on how to appeal the decision according to § 4-120-205.
+10 (d)(1) A controller shall provide information in response to a
+11 consumer request free of charge, at least twice annually per consumer.
+12 (2)(A) If a request from a consumer is manifestly unfounded,
+13 excessive, or repetitive, the controller may charge the consumer a reasonable
+14 fee to cover the administrative costs of complying with the request or
+15 rejecting the request.
+16 (B) The controller bears the burden of demonstrating for
+17 purposes of this subsection that a request is manifestly unfounded,
+18 excessive, or repetitive.
+19 (e) If a controller is unable to authenticate the request using
+20 commercially reasonable efforts, the controller is not required to comply
+21 with a consumer request submitted under § 4-120-201 and may request that the
+22 consumer provide additional information reasonably necessary to authenticate
+23 the consumer and the consumer’s request.
+24 (f) A controller that has obtained personal data about a consumer from
+25 a source other than the consumer is considered in compliance with a
+26 consumer’s request to delete the consumer's personal data under § 4-120-
+27 201(b)(3) by:
+28 (1) Retaining a record of the deletion request and the minimum
+29 data necessary for the purpose of ensuring the consumer’s personal data
+30 remains deleted form the business’s records and not using the retained data
+31 for any other purpose under this chapter; or
+32 (2) Opting the consumer out of the processing of that personal
+33 data for any purpose other than a purpose that is exempt under the provisions
+34 of this chapter.
+35
+36 4-120-205. Appeal.
+19 04-07-2025 19:31:27 ANS146
+
+As Engrossed: S2/27/25 S3/13/25 S4/7/25 SB258
+1 (a) A controller shall establish a process for a consumer to appeal
+2 the controller’s refusal to take action on the consumer's request under § 4-
+3 120-204(c).
+4 (b) The appeal process must be conspicuously available and similar to
+5 the process for initiating action to exercise consumer rights by submitting a
+6 request under § 4-120-201.
+7 (c) A controller shall inform the consumer in writing of any action
+8 taken or not taken in response to an appeal under this section not later than
+9 the sixtieth day after the date of receipt of the appeal, including a written
+10 explanation of the reason or reasons for the decision.
+11 (d) If the controller denies an appeal, the controller shall provide
+12 the consumer with the contact information of the Attorney General to submit a
+13 complaint.
+14
+15 4-120-206. Loyalty programs.
+16 This subchapter does not require a controller to provide a product or a
+17 service that requires the personal data of a consumer that the controller
+18 does not collect or maintain or to prohibit a controller from offering a
+19 different price, rate, level, quality, or selection of goods or services to a
+20 consumer, including offering goods or services for no fee, if:
+21 (1) The consumer has exercised the consumer’s right to delete or
+22 opt out under § 4-120-201; or
+23 (2) The offer is related to a consumer’s voluntary participation
+24 in a bona fide loyalty, rewards, premium features, discounts, or club card
+25 program.
+26
+27 Subchapter 3 — Controller Responsibilities
+28
+29 4-120-301. Notice of privacy practices.
+30 (a) A controller shall provide consumers with a reasonably accessible
+31 and clear privacy notice that includes:
+32 (1) The categories of personal data processed by the controller,
+33 including, if applicable, any sensitive data processed by the controller;
+34 (2) The purpose for processing personal data;
+35 (3) How consumers may exercise their consumer rights under § 4-
+36 120-201 et seq., including the process by which a consumer may appeal a
+20 04-07-2025 19:31:27 ANS146
+
+As Engrossed: S2/27/25 S3/13/25 S4/7/25 SB258
+1 controller’s decision with regard to the consumer’s request;
+2 (4) If applicable, the categories of personal data that the
+3 controller shares with third parties;
+4 (5) If applicable, the categories of third parties with whom the
+5 controller shares personal data; and
+6 (6) A description of the methods required under § 4-120-201
+7 through which consumers can submit requests to exercise their consumer rights
+8 under this chapter.
+9 (b)(1) If a controller engages in the sale of personal data that is
+10 sensitive data, the controller shall include the following notice:
+11 "NOTICE: We may sell your sensitive personal data.".
+12 (2) The notice required under subdivision (b)(1) of this section
+13 shall be posted in the same location and in the same manner as the privacy
+14 notice described by subsection (a) of this section.
+15 (c)(1) If a controller engages in the sale of personal data that is
+16 biometric data, the controller shall include the following notice:
+17 “NOTICE: We may sell your biometric personal data.”.
+18 (2) The notice required under subdivision (c)(1) of this section
+19 shall be posted in the same location and in the same manner as the privacy
+20 notice described by subsection (a) of this section.
+21 (d)(1) If a controller sells personal data to third parties or
+22 processes personal data for targeted advertising, the controller shall
+23 clearly and conspicuously disclose the sale or processing.
+24 (2) The controller shall disclose the manner in which a consumer
+25 may exercise the right to opt out of the sale or processing of personal data
+26 for the purpose of targeted advertising under subdivision (d)(1) of this
+27 section.
+28
+29 4-120-302. Processing sensitive data.
+30 A person shall not process the sensitive data of a consumer
+31 without obtaining the consumer’s consent or, in the case of processing the
+32 sensitive data of a known child, without processing that data according to
+33 the Children’s Online Privacy Protection Act of 1998, 15 U.S.C. § 6501 et
+34 seq., as it existed on January 1, 2025.
+35
+36 4-120-303. Dark patterns.
+21 04-07-2025 19:31:27 ANS146
+
+As Engrossed: S2/27/25 S3/13/25 S4/7/25 SB258
+1 (a) A controller that collects personal information via a website,
+2 mobile application, or similar technology shall not utilize dark patterns in
+3 its consent mechanisms.
+4 (b) A lawful basis for processing personal data described under § 4-
+5 120-302 obtained by use of a dark pattern is void.
+6
+7 4-120-304. Data minimization.
+8 (a) A controller shall limit the collection of personal data to what
+9 is adequate, relevant, and reasonably necessary in relation to the purposes
+10 for which that personal data is processed, as disclosed to the consumer.
+11 (b) A controller in possession of deidentified data shall:
+12 (1) Take reasonable measures to ensure that the data cannot be
+13 associated with an individual;
+14 (2) Publicly commit to maintaining and using deidentified data
+15 without attempting to reidentify the data; and
+16 (3) Contractually obligate any recipient of the deidentified
+17 data to comply with this section.
+18 (c) This section does not require a controller to:
+19 (1) Reidentify deidentified data or pseudonymous data;
+20 (2) Maintain data in identifiable form or obtain, retain, or
+21 access any data or technology for the purpose of allowing the controller or
+22 processor to associate a consumer request with personal data; or
+23 (3) Comply with an authenticated consumer rights request under §
+24 4-120-201, if the controller:
+25 (A) Is not reasonably capable of associating the request
+26 with the personal data or it would be unreasonably burdensome for the
+27 controller to associate the request with the personal data;
+28 (B) Does not use the personal data to recognize or respond
+29 to the specific consumer who is the subject of the personal data or associate
+30 the personal data with other personal data about the same consumer; and
+31 (C) Does not sell the personal data to a third party or
+32 otherwise voluntarily disclose the personal data to a third party other than
+33 a processor, except as otherwise permitted by this section.
+34 (d) A controller that discloses pseudonymous data or deidentified data
+35 shall exercise reasonable oversight to monitor compliance with any
+36 contractual commitments to which the pseudonymous data or deidentified data
+22 04-07-2025 19:31:27 ANS146
+
+As Engrossed: S2/27/25 S3/13/25 S4/7/25 SB258
+1 is subject and shall take appropriate steps to address any breach of the
+2 contractual commitments.
+3
+4 4-120-305. Data security.
+5 A controller, for purposes of protecting the confidentiality,
+6 integrity, and accessibility of personal data, shall establish, implement,
+7 and maintain reasonable administrative, technical, and physical data security
+8 practices that are appropriate to the volume and nature of the personal data
+9 at issue.
+10
+11 4-120-306. Purpose limitation.
+12 Except as otherwise provided by this subchapter, a controller shall not
+13 process personal data for a purpose that is neither reasonably necessary to
+14 nor compatible with the purpose for which the personal data is processed, as
+15 disclosed to the consumer, unless the controller obtains the consumer’s
+16 consent.
+17
+18 4-120-307. Data protection assessments.
+19 (a) A controller shall conduct and document a data protection
+20 assessment of each of the following processing activities involving personal
+21 data:
+22 (1) The processing of personal data for purposes of targeted
+23 advertising;
+24 (2) The sale of personal data;
+25 (3) The processing of personal data for purposes of profiling if
+26 the profiling presents a reasonably foreseeable risk of:
+27 (A) Unfair or deceptive treatment of or unlawful disparate
+28 impact on consumers;
+29 (B) Financial, physical, or reputational injury to
+30 consumers;
+31 (C) A physical or other intrusion on the solitude or
+32 seclusion, or the private affairs or concerns, of consumers, if the intrusion
+33 would be offensive to a reasonable person; or
+34 (D) Other substantial injury to consumers;
+35 (4) The processing of sensitive data; and
+36 (5) Any processing activities involving personal data that
+23 04-07-2025 19:31:27 ANS146
+
+As Engrossed: S2/27/25 S3/13/25 S4/7/25 SB258
+1 present a heightened risk of harm to consumers.
+2 (b) A data protection assessment conducted under subsection (a) of
+3 this section shall:
+4 (1) Identify and weigh the direct or indirect benefits that may
+5 flow from the processing to the controller, the consumer, other stakeholders,
+6 and the public against the potential risks to the rights of the consumer
+7 associated with that processing as mitigated by safeguards that can be
+8 employed by the controller to reduce the risks; and
+9 (2) Factor into the assessment:
+10 (A) The use of deidentified data;
+11 (B) The reasonable expectations of consumers;
+12 (C) The context of the processing; and
+13 (D) The relationship between the controller and the
+14 consumer whose personal data will be processed.
+15 (c) A controller shall make a data protection assessment requested
+16 under § 4-120-701 et seq. available to the Attorney General under an Attorney
+17 General’s subpoena under § 25-16-705.
+18 (d)(1) A data protection assessment is confidential and exempt from
+19 public inspection and copying under the Freedom of Information Act of 1967, §
+20 25-19-101 et seq.
+21 (2) Disclosure of a data protection assessment in compliance
+22 with a request from the Attorney General does not constitute a waiver of
+23 attorney-client privilege or work product protection with respect to the
+24 assessment and any information contained in the assessment.
+25 (e) A single data protection assessment may address a comparable set
+26 of processing operations that include similar activities.
+27 (f) A data protection assessment conducted by a controller for the
+28 purpose of compliance with other laws or regulations may constitute
+29 compliance with the requirements of this section if the assessment has a
+30 reasonably comparable scope and effect.
+31 (g) Data protection assessments shall apply to processing activities
+32 created or generated after the effective date of this act and are not
+33 retroactive.
+34
+35 4-120-308. Pseudonymous data.
+36 The consumer rights under § 4-120-201 and controller duties under this
+24 04-07-2025 19:31:27 ANS146
+
+As Engrossed: S2/27/25 S3/13/25 S4/7/25 SB258
+1 subchapter do not apply to pseudonymous data in cases in which the controller
+2 is able to demonstrate any information necessary to identify the consumer is
+3 kept separately and is subject to effective technical and organizational
+4 controls that prevent the controller from accessing the information.
+5
+6 4-120-309. Miscellaneous prohibitions.
+7 A controller shall not:
+8 (1) Process personal data in violation of state and federal laws
+9 that prohibit unlawful discrimination against consumers; or
+10 (2) Discriminate against a consumer for exercising any of the
+11 consumer rights contained in this chapter, including by denying goods or
+12 services, charging different prices or rates for goods or services, or
+13 providing a different level of quality of goods or services to the consumer.
+14
+15 Subchapter 4 — Processor Responsibilities
+16
+17 4-120-401. Compliance with contractual obligations.
+18 (a) A processor shall adhere to the instructions of a controller and
+19 shall assist the controller in meeting or complying with the controller’s
+20 duties or requirements under this chapter, including without limitation:
+21 (1) Assisting the controller in responding to consumer rights
+22 requests submitted under § 4-120-201 by using appropriate technical and
+23 organizational measures, as reasonably practicable, taking into account the
+24 nature of processing and the information available to the processor;
+25 (2) Assisting the controller with regard to complying with the
+26 requirement relating to the security of processing personal data and to the
+27 notification of a breach of security of the processor’s system, taking into
+28 account the nature of processing and the information available to the
+29 processor; and
+30 (3) Providing necessary information to enable the controller to
+31 conduct and document data protection assessments under § 4-120-307.
+32 (b)(1) A contract between a controller and a processor shall govern
+33 the processor’s data processing procedures with respect to processing
+34 performed on behalf of the controller.
+35 (2) The contract shall include:
+36 (A) Clear instructions for processing data;
+25 04-07-2025 19:31:27 ANS146
+
+As Engrossed: S2/27/25 S3/13/25 S4/7/25 SB258
+1 (B) The nature and purpose of processing;
+2 (C) The type of data subject to processing;
+3 (D) The duration of processing;
+4 (E) The rights and obligations of both parties; and
+5 (F) A requirement that the processor shall:
+6 (i) Ensure that each person processing personal data
+7 is subject to a duty of confidentiality with respect to the data;
+8 (ii) At the controller’s direction, delete or return
+9 all personal data to the controller as requested after the provision of the
+10 service is completed, unless retention of the personal data is required by
+11 law;
+12 (iii) Make available to the controller, on
+13 reasonable request, all information in the processor’s possession necessary
+14 to demonstrate the processor’s compliance with the requirements of this
+15 chapter;
+16 (iv) Allow, and cooperate with, reasonable
+17 assessments by the controller or the controller’s designated assessor; and
+18 (v) Engage a subcontractor under a written contract
+19 that requires the subcontractor to meet the requirements of the processor
+20 with respect to the personal data.
+21 (c)(1) Notwithstanding the requirement described by subdivision
+22 (b)(2)(F) of this section, a processor, in the alternative, may arrange for a
+23 qualified and independent assessor to conduct an assessment of the
+24 processor’s policies and technical and organizational measures in support of
+25 the requirements under this chapter using an appropriate and accepted control
+26 standard or framework and assessment procedure.
+27 (2) The processor shall provide a report of the assessment to
+28 the controller on request.
+29 (d) This section does not relieve a controller or a processor from the
+30 liabilities imposed on the controller or processor by virtue of its role in
+31 the processing relationship as described by this chapter.
+32 (e)(1) A determination of whether a person is acting as a controller
+33 or processor with respect to a specific processing of data is a fact-based
+34 determination that depends on the context in which personal data is to be
+35 processed.
+36 (2) A processor that continues to adhere to a controller’s
+26 04-07-2025 19:31:27 ANS146
+
+As Engrossed: S2/27/25 S3/13/25 S4/7/25 SB258
+1 instructions with respect to a specific processing of personal data remains
+2 in the role of a processor.
+3
+4 Subchapter 5. [Reserved.]
+5 Subchapter 6. [Reserved.]
+6 Subchapter 7 — Enforcement
+7
+8 4-120-701. Attorney General.
+9 The Attorney General has exclusive authority to enforce this chapter.
+10
+11 4-120-702. Procedures.
+12 The Attorney General shall post on the Attorney General’s website:
+13 (1) Information relating to:
+14 (A) The responsibilities of a controller under this
+15 chapter;
+16 (B) The responsibilities of a processor under this
+17 chapter; and
+18 (C) A consumer's rights under this chapter; and
+19 (2) An online mechanism through which a consumer may submit a
+20 complaint under this chapter to the Attorney General.
+21
+22 4-120-703. Remedies.
+23 (a)(1) If the Attorney General has reasonable cause to believe that a
+24 person has engaged in or is engaging in a violation of this chapter, the
+25 Attorney General may issue an Attorney General’s subpoena.
+26 (2) The procedures established for the issuance of an Attorney
+27 General’s subpoena under § 25-16-705 apply to the same extent and manner to
+28 the issuance of an Attorney General’s subpoena under this section.
+29 (b)(1) The Attorney General may request, under an Attorney General’s
+30 subpoena issued under subdivision (a)(1) of this section, that a person
+31 governed by this chapter disclose to any data protection assessment that is
+32 relevant to an investigation conducted by the Attorney General.
+33 (2) The Attorney General may evaluate the data protection
+34 assessment for compliance with the requirements under § 4-120-307.
+35 (c) A violation of this chapter is an unfair and deceptive act or
+36 practice, as defined by the Deceptive Trade Practices Act, § 4-88-101 et seq.
+27 04-07-2025 19:31:27 ANS146
+
+As Engrossed: S2/27/25 S3/13/25 S4/7/25 SB258
+1 (d) All remedies, penalties, and authority granted to the Attorney
+2 General under the Deceptive Trade Practices Act, § 4-88-101 et seq., shall be
+3 available to the Attorney General for the enforcement of this chapter.
+4
+5 4-120-704. Private right of action.
+6 This chapter does not provide a basis for, or being subject to, a
+7 private right of action for a violation of this chapter or any other law.
+8
+9 SECTION 2. DO NOT CODIFY. EFFECTIVE DATE.
+10 This chapter is effective on and after July 1, 2026.
+11
+12 /s/C. Penzo
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+28 04-07-2025 19:31:27 ANS146
+
+[DELETED:  A   EBL2     A S   T R  B   S c  C A  S   4  T R   4  T   ( s s   (]
+[DELETED:  S2 0 g   ( o T C C   ( r c p p   ( t m c    ( h a i    ( t    ( a c a    ( a a e   ( b a    ( l   ( d]
+[DELETED:  S3 0 t   ( s    ( i i p p    ( c   ( m t    ( d h a   ( r t    ( s b t p   ( i r    ( A r f   4  A   (]
+[DELETED:  S4 0    ( w    (   ( t c a   ( m i ( e c ( d v o o o   ( I s   ( o   ( a u    ( s a    (     ( o a     ( a]
+[DELETED:  S5 0     ( p   ( s    ( c   ( c o   (    ( p c    ( m    ( m   ( a p   ( H 1   ( m a    ( T   ( e r    (    (    (    (    (]
+[DELETED:  S6 0    (   ( l i   ( e c i    (     ( i w     ( h h   ( H 1   ( 4   ( w   (    ( C    ( b   (  " c m a c u c w a c   (     ( C     ( a l 5]
+[DELETED:  S7 0     (   ( s i    ( d i i    ( p   ( a t a     ( a o u     ( p s   ( f l s r    ( c a u   ( p o d   ( b]
+[DELETED:  S8 0   ( o a p m   ( u U   ( a i i t i   ( l b g p h   ( d p    (     ( t     ( p c     ( a     ( c      ( g      (]
+[DELETED:  S9 0 o     ( t   (    (     ( r c     ( t     (     (     ( l     ( f r a     (   ( c c u C a   ( a c a    ( a     ( w     ( s     (]
+[DELETED:  S1 0 c     ( s f   ( c a   ( i i p f w m w    ( m    ( a a v   4  (   ( s   (   ( S t  ( a f    4  T]
+[DELETED:  S1 0   (   ( i 6   ( p D e 1 H A   (   ( C   ( P e   (   ( 2   (    ( o    ( g H o e    ( c r   ( H e   ( S]
+[DELETED:  S1 0 i   ( i r A J   ( i i o A o   ( d t m 2   ( a A J   ( c c r r r a 1   ( c e   ( a   ( c]
+[DELETED:  S1 0 e   ( a c d s   ( i e   ( r i t   ( o ( w m m r f p   ( d 3 i p   4  (   (    ( l    ( i g]
+[DELETED:  S1 0    ( d    ( a t w c    ( e i l    ( s a o b    ( s a b d     ( p c     ( r     ( s r    ( w   ( a t   ( c]
+[DELETED:  S1 0  ( a   ( p   (   ( i   (    ( c    ( e    ( f b p  ( e p   (   ( a  ( d r  ( r p  ( p o r r   4 o]
+[DELETED:  S1 0  ( 1 e c  ( §  S   4 r  ( t s   ( a c  ( t   ( p   ( i p   ( c   ( o c u c   ( p    (    (    (]
+[DELETED:  S1 0 d c   4  A r p   4  ( r c   (    ( c    ( o    ( i  ( e t  ( c t d  ( r i o  (    ( a c    ( l]
+[DELETED:  S1 0 a i 4   ( f v t   ( r    ( t c   ( e    ( t    ( r w  (   (    (    ( c p   ( c   4  ( c r  ( u o   (]
+[DELETED:  S1 0 a a c f  ( r s r i  ( c   ( e f r    ( p e  ( c w c t  ( a c 2   ( d r f   ( d o   4]
+[DELETED:  S2 0  ( t 1  ( t r  ( t t e  ( t c   4  T s d d c   ( o   ( i p  S   4  ( a   ( i   (   ( 1]
+[DELETED:  S2 0 c   ( c   ( c   ( t u  ( s "   ( s n  ( b “   ( s n  ( p c   ( m f s   4  A w s t s   4]
+[DELETED:  S2 0  ( m i  ( 1   4  ( i f  (   ( a   ( w   ( d  (   (   ( a p   ( 4    ( w c    ( t t    ( o a  ( s c]
+[DELETED:  S2 0 i c   4  A i a p a   4  E p n d c   4  ( a d   ( a   (   ( t    ( i    ( c    ( s w    (   (   (]
+[DELETED:  S2 0 p  ( t   ( f a a e   (    (    (    (    ( c  ( u G  ( p 2   ( w a a  ( o  ( p c r  ( c r   4  T]
+[DELETED:  S2 0 s i k c   4  A   ( t   ( c s p  S   4  ( s d   ( r o n   ( r n a p   ( c  ( t p   (    (]
+[DELETED:  S2 0    (    (    (    (    (     ( i     ( a s l     ( r t c     ( a     ( t w  ( ( q p t s   ( t  ( l t  ( o d p   (]
+[DELETED:  S2 0 i i              S   4  T   4  T   (    ( c    ( c    (  ( c   4  ( p A   ( G t  ( s g r   ( a  ( p]
+[DELETED:  S2 0  ( G a   4  T p   S  T  /                        ]

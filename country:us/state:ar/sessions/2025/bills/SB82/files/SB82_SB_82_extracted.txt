@@ -1,0 +1,417 @@
+Title: Stricken language would be deleted from and underlined language would be added to present law.
+Official Title: Stricken language would be deleted from and underlined language would be added to present law.
+Number of Sections: 1
+Source: versions - SB 82
+Media Type: application/pdf
+Strikethrough Detection: 5 sections found
+
+================================================================================
+
+Section 1:
+1 State of Arkansas As Engrossed: S4/1/25
+A Bill
+2 95th General Assembly
+3 Regular Session, 2025 SENATE BILL 82
+4
+5 By: Senators J. Payton, J. Boyd, Dees, J. Dotson, Flippo, Hill, B. Johnson, M. Johnson, G. Leding, F.
+6 Love, M. McKee, C. Penzo, J. Petty, Rice, Stone, G. Stubblefield, D. Sullivan, C. Tucker
+7
+8
+9
+For An Act To Be Entitled
+10 AN ACT TO AMEND THE LAW CONCERNING THE SALES AND USE
+11 TAX APPLICABLE TO PURCHASES OF NEW OR USED MOTOR
+12 VEHICLES, TRAILERS, AND SEMITRAILERS; TO INCREASE THE
+13 SALES AND USE TAX EXEMPTION FOR USED MOTOR VEHICLES;
+14 TO AMEND THE REDUCED SALES AND USE TAX RATE
+15 APPLICABLE TO PURCHASES OF USED MOTOR VEHICLES; AND
+16 FOR OTHER PURPOSES.
+17
+18
+19
+Subtitle
+20 TO INCREASE THE SALES AND USE TAX
+21 EXEMPTION FOR USED MOTOR VEHICLES; AND
+22 TO AMEND THE REDUCED SALES AND USE TAX
+23 RATE APPLICABLE TO PURCHASES OF USED
+24 MOTOR VEHICLES.
+25
+26 BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF ARKANSAS:
+27
+28 SECTION 1. DO NOT CODIFY. Legislative findings.
+29 The General Assembly finds that:
+30 (1) Because Arkansas is a rural state, having reliable personal
+31 transportation is essential for Arkansans to maintain employment, access
+32 medical care, and obtain groceries and other daily necessities;
+33 (2) Many working Arkansans have limited income and need
+34 affordable personal transportation, which is impeded by the added expense of
+35 sales and use tax on motor vehicles;
+36 (3) The majority of motor vehicles that are sold for fifteen
+*JLL104*
+04-01-2025 10:29:36 JLL104
+As Engrossed: S4/1/25 SB82
+1 thousand dollars ($15,000) or less are used motor vehicles, which means that
+2 sales or use tax has been collected previously on those motor vehicles at
+3 least one (1) time and often multiple times for motor vehicles that have been
+4 sold several times; and
+5 (4) Arkansans who can afford only a motor vehicle valued at
+6 fifteen thousand dollars ($15,000) or less often have to trade motor vehicles
+7 more often than those who can afford more expensive motor vehicles, which
+8 results in these Arkansans continually having to pay sales or use tax on
+9 motor vehicle purchases even though they have the least ability to afford the
+10 repeated payment of those taxes.
+11
+12 SECTION 2. Arkansas Code § 26-52-324(a), concerning the special tax
+13 rate for certain used motor vehicles, trailers, and semitrailers, is amended
+14 to read as follows:
+15 (a) In lieu of the gross receipts or gross proceeds taxes levied under
+16 §§ 26-52-301 and 26-52-302, there is levied an excise tax on the gross
+17 receipts or gross proceeds derived from the sale of a used motor vehicle,
+18 trailer, or semitrailer that has a sales price of at least four thousand
+19 dollars ($4,000) but less than ten thousand dollars ($10,000) the following
+20 at the rate of two and eight hundred seventy-five thousandths percent
+21 (2.875%):
+22 (1) A used motor vehicle that has a sales price of at least ten
+23 thousand dollars ($10,000) but less than fifteen thousand dollars ($15,000);
+24 and
+25 (2) A used trailer or semitrailer that has a sales price of at
+26 least four thousand dollars ($4,000) but less than ten thousand dollars
+27 ($10,000).
+28
+29 SECTION 3. Arkansas Code § 26-52-324, concerning the special tax rate
+30 for certain used motor vehicles, trailers, and semitrailers, is amended to
+31 add an additional subsection to read as follows:
+32 (f) This section does not affect the exemptions provided under § 26-
+33 52-436.
+34
+35 SECTION 4. Arkansas Code § 26-52-510(b)(1)(B), concerning the direct
+36 payment of sales tax by consumer-users on new and used motor vehicles,
+2 04-01-2025 10:29:36 JLL104
+As Engrossed: S4/1/25 SB82
+1 trailers, or semitrailers, is amended to read as follows:
+2 (B)(i)(a) If the total consideration for the sale of the
+3 new or used motor vehicle, or the new or used trailer, or semitrailer is less
+4 than four thousand dollars ($4,000), no tax is due.
+5 (b) If the total consideration for the sale of
+6 the used motor vehicle is less than ten thousand dollars ($10,000), no tax is
+7 due.
+8 (c) If the total consideration for the sale of
+9 a new motor vehicle, trailer, or semitrailer is four thousand dollars
+10 ($4,000) or more, the full gross receipts tax rate levied under this chapter
+11 shall be levied and collected.
+12 (ii) If the total consideration for the sale of a
+13 used motor vehicle, trailer, or semitrailer is at least four thousand dollars
+14 ($4,000) but less than ten thousand dollars ($10,000), the gross receipts tax
+15 due shall be determined under § 26-52-324.
+16 (iii) If the total consideration for the sale of a
+17 used motor vehicle, trailer, or semitrailer is ten thousand dollars ($10,000)
+18 or more:,
+19 (a) The exemption under subdivision
+20 (b)(1)(B)(i)(a) of this section does not apply;
+21 (b) The special tax rate provided in § 26-52-
+22 324 does not apply; and
+23 (c) The the full gross receipts tax rate
+24 levied under this chapter shall be levied and collected.
+25 (iv) If the total consideration for the sale of the
+26 used motor vehicle is at least ten thousand dollars ($10,000) but less than
+27 fifteen thousand dollars ($15,000), the gross receipts tax due shall be
+28 determined under § 26-52-324.
+29 (v) If the total consideration for the sale of the
+30 used motor vehicle is fifteen thousand dollars ($15,000) or more, the full
+31 gross receipts tax rate levied under this chapter shall be levied and
+32 collected.
+33 (vi) This subdivision (b)(1)(B) does not affect the
+34 exemptions provided under § 26-52-436.
+35
+36 SECTION 5. Arkansas Code § 26-53-126(b)(2), concerning the
+3 04-01-2025 10:29:36 JLL104
+As Engrossed: S4/1/25 SB82
+1 compensating use tax on new and used motor vehicles, trailers, or
+2 semitrailers, is amended to read as follows:
+3 (2)(A)(i) If the total consideration for the sale of the new or
+4 used motor vehicle, or the new or used trailer, or semitrailer is less than
+5 four thousand dollars ($4,000), no tax is due.
+6 (ii) If the total consideration for the sale of the
+7 used motor vehicle is less than ten thousand dollars ($10,000), no tax is
+8 due.
+9 (iii) If the total consideration for the sale of a
+10 new motor vehicle, trailer, or semitrailer is four thousand dollars ($4,000)
+11 or more, the full compensating use tax rate levied under this chapter shall
+12 be levied and collected.
+13 (B) If the total consideration for the sale of a used
+14 motor vehicle, trailer, or semitrailer is at least four thousand dollars
+15 ($4,000) but less than ten thousand dollars ($10,000), the compensating use
+16 tax due shall be determined under § 26-53-150.
+17 (C) If the total consideration for the sale of a used
+18 motor vehicle, trailer, or semitrailer is ten thousand dollars ($10,000) or
+19 more:,
+20 (i) The exemption under subdivision (b)(2)(A)(i) of
+21 this section does not apply;
+22 (ii) The special tax rate provided in § 26-53-150
+23 does not apply; and
+24 (iii) The the full compensating use tax rate levied
+25 under this chapter shall be levied and collected.
+26 (D) If the total consideration for the sale of the used
+27 motor vehicle is at least ten thousand dollars ($10,000) but less than
+28 fifteen thousand dollars ($15,000), the compensating use tax due shall be
+29 determined under § 26-53-150.
+30 (E) If the total consideration for the sale of the used
+31 motor vehicle is fifteen thousand dollars ($15,000) or more, the full
+32 compensating use tax rate levied under this chapter shall be levied and
+33 collected.
+34 (F) This subdivision (b)(2) does not affect the exemptions
+35 provided under § 26-53-144.
+36
+4 04-01-2025 10:29:36 JLL104
+As Engrossed: S4/1/25 SB82
+1 SECTION 6. Arkansas Code § 26-53-150(a)(1), concerning the special tax
+2 rate for certain used motor vehicles, trailers, and semitrailers, is amended
+3 to read as follows:
+4 (a)(1) In lieu of the compensating use taxes levied under §§ 26-53-106
+5 and 26-53-107, there is levied an excise tax for the privilege of storing,
+6 using, distributing, or consuming a used motor vehicle, trailer, or
+7 semitrailer within this state if the sales price of the used motor vehicle,
+8 trailer, or semitrailer is:
+9 (A) For a used motor vehicle, at least ten thousand
+10 dollars ($10,000) but less than fifteen thousand dollars ($15,000); and
+11 (B) For a used trailer or semitrailer, at least four
+12 thousand dollars ($4,000) but less than ten thousand dollars ($10,000).
+13
+14 SECTION 7. Arkansas Code § 26-53-150, concerning the special tax rate
+15 for certain used motor vehicles, trailers, and semitrailers, is amended to
+16 add an additional subsection to read as follows:
+17 (f) This section does not affect the exemptions provided under § 26-
+18 53-144.
+19
+20 SECTION 8. EFFECTIVE DATE. Sections 2-7 of this act are effective on
+21 the first day of the calendar quarter following the effective date of this
+22 act.
+23
+24 /s/J. Payton
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+5 04-01-2025 10:29:36 JLL104
+[DELETED:  A  EBL8       A T V S T A F   T E T R M  B   S  T   ( t m   ( a s   (]
+[DELETED:  S2 0 t s l s   ( f m r m r    S r t  ( § r t d a (   ( t a   ( l (   S f a  ( 5    S p]
+[DELETED:  S3 0 t    ( n t      ( t d      ( a ( s     ( u ( d     ( u o      ( (      ( 3      ( l     ( u f d     ( u g c     ( e      S]
+[DELETED:  S4 0 c s   ( u f     ( u d     ( n o b    ( m ( t    ( m m     ( t     ( d     ( u    ( m f d    ( m c c     ( p      ]
+[DELETED:  S5 0  S r t  ( a u s t    ( d    ( t   S f a  ( 5   S t a  /            ]
+
+
+================================================================================
+
+Raw Text:
+Stricken language would be deleted from and underlined language would be added to present law.
+1 State of Arkansas As Engrossed: S4/1/25
+A Bill
+2 95th General Assembly
+3 Regular Session, 2025 SENATE BILL 82
+4
+5 By: Senators J. Payton, J. Boyd, Dees, J. Dotson, Flippo, Hill, B. Johnson, M. Johnson, G. Leding, F.
+6 Love, M. McKee, C. Penzo, J. Petty, Rice, Stone, G. Stubblefield, D. Sullivan, C. Tucker
+7
+8
+9
+For An Act To Be Entitled
+10 AN ACT TO AMEND THE LAW CONCERNING THE SALES AND USE
+11 TAX APPLICABLE TO PURCHASES OF NEW OR USED MOTOR
+12 VEHICLES, TRAILERS, AND SEMITRAILERS; TO INCREASE THE
+13 SALES AND USE TAX EXEMPTION FOR USED MOTOR VEHICLES;
+14 TO AMEND THE REDUCED SALES AND USE TAX RATE
+15 APPLICABLE TO PURCHASES OF USED MOTOR VEHICLES; AND
+16 FOR OTHER PURPOSES.
+17
+18
+19
+Subtitle
+20 TO INCREASE THE SALES AND USE TAX
+21 EXEMPTION FOR USED MOTOR VEHICLES; AND
+22 TO AMEND THE REDUCED SALES AND USE TAX
+23 RATE APPLICABLE TO PURCHASES OF USED
+24 MOTOR VEHICLES.
+25
+26 BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF ARKANSAS:
+27
+28 SECTION 1. DO NOT CODIFY. Legislative findings.
+29 The General Assembly finds that:
+30 (1) Because Arkansas is a rural state, having reliable personal
+31 transportation is essential for Arkansans to maintain employment, access
+32 medical care, and obtain groceries and other daily necessities;
+33 (2) Many working Arkansans have limited income and need
+34 affordable personal transportation, which is impeded by the added expense of
+35 sales and use tax on motor vehicles;
+36 (3) The majority of motor vehicles that are sold for fifteen
+*JLL104*
+04-01-2025 10:29:36 JLL104
+
+As Engrossed: S4/1/25 SB82
+1 thousand dollars ($15,000) or less are used motor vehicles, which means that
+2 sales or use tax has been collected previously on those motor vehicles at
+3 least one (1) time and often multiple times for motor vehicles that have been
+4 sold several times; and
+5 (4) Arkansans who can afford only a motor vehicle valued at
+6 fifteen thousand dollars ($15,000) or less often have to trade motor vehicles
+7 more often than those who can afford more expensive motor vehicles, which
+8 results in these Arkansans continually having to pay sales or use tax on
+9 motor vehicle purchases even though they have the least ability to afford the
+10 repeated payment of those taxes.
+11
+12 SECTION 2. Arkansas Code § 26-52-324(a), concerning the special tax
+13 rate for certain used motor vehicles, trailers, and semitrailers, is amended
+14 to read as follows:
+15 (a) In lieu of the gross receipts or gross proceeds taxes levied under
+16 §§ 26-52-301 and 26-52-302, there is levied an excise tax on the gross
+17 receipts or gross proceeds derived from the sale of a used motor vehicle,
+18 trailer, or semitrailer that has a sales price of at least four thousand
+19 dollars ($4,000) but less than ten thousand dollars ($10,000) the following
+20 at the rate of two and eight hundred seventy-five thousandths percent
+21 (2.875%):
+22 (1) A used motor vehicle that has a sales price of at least ten
+23 thousand dollars ($10,000) but less than fifteen thousand dollars ($15,000);
+24 and
+25 (2) A used trailer or semitrailer that has a sales price of at
+26 least four thousand dollars ($4,000) but less than ten thousand dollars
+27 ($10,000).
+28
+29 SECTION 3. Arkansas Code § 26-52-324, concerning the special tax rate
+30 for certain used motor vehicles, trailers, and semitrailers, is amended to
+31 add an additional subsection to read as follows:
+32 (f) This section does not affect the exemptions provided under § 26-
+33 52-436.
+34
+35 SECTION 4. Arkansas Code § 26-52-510(b)(1)(B), concerning the direct
+36 payment of sales tax by consumer-users on new and used motor vehicles,
+2 04-01-2025 10:29:36 JLL104
+
+As Engrossed: S4/1/25 SB82
+1 trailers, or semitrailers, is amended to read as follows:
+2 (B)(i)(a) If the total consideration for the sale of the
+3 new or used motor vehicle, or the new or used trailer, or semitrailer is less
+4 than four thousand dollars ($4,000), no tax is due.
+5 (b) If the total consideration for the sale of
+6 the used motor vehicle is less than ten thousand dollars ($10,000), no tax is
+7 due.
+8 (c) If the total consideration for the sale of
+9 a new motor vehicle, trailer, or semitrailer is four thousand dollars
+10 ($4,000) or more, the full gross receipts tax rate levied under this chapter
+11 shall be levied and collected.
+12 (ii) If the total consideration for the sale of a
+13 used motor vehicle, trailer, or semitrailer is at least four thousand dollars
+14 ($4,000) but less than ten thousand dollars ($10,000), the gross receipts tax
+15 due shall be determined under § 26-52-324.
+16 (iii) If the total consideration for the sale of a
+17 used motor vehicle, trailer, or semitrailer is ten thousand dollars ($10,000)
+18 or more:,
+19 (a) The exemption under subdivision
+20 (b)(1)(B)(i)(a) of this section does not apply;
+21 (b) The special tax rate provided in § 26-52-
+22 324 does not apply; and
+23 (c) The the full gross receipts tax rate
+24 levied under this chapter shall be levied and collected.
+25 (iv) If the total consideration for the sale of the
+26 used motor vehicle is at least ten thousand dollars ($10,000) but less than
+27 fifteen thousand dollars ($15,000), the gross receipts tax due shall be
+28 determined under § 26-52-324.
+29 (v) If the total consideration for the sale of the
+30 used motor vehicle is fifteen thousand dollars ($15,000) or more, the full
+31 gross receipts tax rate levied under this chapter shall be levied and
+32 collected.
+33 (vi) This subdivision (b)(1)(B) does not affect the
+34 exemptions provided under § 26-52-436.
+35
+36 SECTION 5. Arkansas Code § 26-53-126(b)(2), concerning the
+3 04-01-2025 10:29:36 JLL104
+
+As Engrossed: S4/1/25 SB82
+1 compensating use tax on new and used motor vehicles, trailers, or
+2 semitrailers, is amended to read as follows:
+3 (2)(A)(i) If the total consideration for the sale of the new or
+4 used motor vehicle, or the new or used trailer, or semitrailer is less than
+5 four thousand dollars ($4,000), no tax is due.
+6 (ii) If the total consideration for the sale of the
+7 used motor vehicle is less than ten thousand dollars ($10,000), no tax is
+8 due.
+9 (iii) If the total consideration for the sale of a
+10 new motor vehicle, trailer, or semitrailer is four thousand dollars ($4,000)
+11 or more, the full compensating use tax rate levied under this chapter shall
+12 be levied and collected.
+13 (B) If the total consideration for the sale of a used
+14 motor vehicle, trailer, or semitrailer is at least four thousand dollars
+15 ($4,000) but less than ten thousand dollars ($10,000), the compensating use
+16 tax due shall be determined under § 26-53-150.
+17 (C) If the total consideration for the sale of a used
+18 motor vehicle, trailer, or semitrailer is ten thousand dollars ($10,000) or
+19 more:,
+20 (i) The exemption under subdivision (b)(2)(A)(i) of
+21 this section does not apply;
+22 (ii) The special tax rate provided in § 26-53-150
+23 does not apply; and
+24 (iii) The the full compensating use tax rate levied
+25 under this chapter shall be levied and collected.
+26 (D) If the total consideration for the sale of the used
+27 motor vehicle is at least ten thousand dollars ($10,000) but less than
+28 fifteen thousand dollars ($15,000), the compensating use tax due shall be
+29 determined under § 26-53-150.
+30 (E) If the total consideration for the sale of the used
+31 motor vehicle is fifteen thousand dollars ($15,000) or more, the full
+32 compensating use tax rate levied under this chapter shall be levied and
+33 collected.
+34 (F) This subdivision (b)(2) does not affect the exemptions
+35 provided under § 26-53-144.
+36
+4 04-01-2025 10:29:36 JLL104
+
+As Engrossed: S4/1/25 SB82
+1 SECTION 6. Arkansas Code § 26-53-150(a)(1), concerning the special tax
+2 rate for certain used motor vehicles, trailers, and semitrailers, is amended
+3 to read as follows:
+4 (a)(1) In lieu of the compensating use taxes levied under §§ 26-53-106
+5 and 26-53-107, there is levied an excise tax for the privilege of storing,
+6 using, distributing, or consuming a used motor vehicle, trailer, or
+7 semitrailer within this state if the sales price of the used motor vehicle,
+8 trailer, or semitrailer is:
+9 (A) For a used motor vehicle, at least ten thousand
+10 dollars ($10,000) but less than fifteen thousand dollars ($15,000); and
+11 (B) For a used trailer or semitrailer, at least four
+12 thousand dollars ($4,000) but less than ten thousand dollars ($10,000).
+13
+14 SECTION 7. Arkansas Code § 26-53-150, concerning the special tax rate
+15 for certain used motor vehicles, trailers, and semitrailers, is amended to
+16 add an additional subsection to read as follows:
+17 (f) This section does not affect the exemptions provided under § 26-
+18 53-144.
+19
+20 SECTION 8. EFFECTIVE DATE. Sections 2-7 of this act are effective on
+21 the first day of the calendar quarter following the effective date of this
+22 act.
+23
+24 /s/J. Payton
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+5 04-01-2025 10:29:36 JLL104
+
+[DELETED:  A  EBL8       A T V S T A F   T E T R M  B   S  T   ( t m   ( a s   (]
+[DELETED:  S2 0 t s l s   ( f m r m r    S r t  ( § r t d a (   ( t a   ( l (   S f a  ( 5    S p]
+[DELETED:  S3 0 t    ( n t      ( t d      ( a ( s     ( u ( d     ( u o      ( (      ( 3      ( l     ( u f d     ( u g c     ( e      S]
+[DELETED:  S4 0 c s   ( u f     ( u d     ( n o b    ( m ( t    ( m m     ( t     ( d     ( u    ( m f d    ( m c c     ( p      ]
+[DELETED:  S5 0  S r t  ( a u s t    ( d    ( t   S f a  ( 5   S t a  /            ]

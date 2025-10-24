@@ -1,0 +1,338 @@
+Title: Stricken language would be deleted from and underlined language would be added to present law.
+Official Title: Stricken language would be deleted from and underlined language would be added to present law.
+Number of Sections: 1
+Source: versions - SB 178
+Media Type: application/pdf
+Strikethrough Detection: 4 sections found
+
+================================================================================
+
+Section 1:
+1 State of Arkansas
+A Bill
+2 95th General Assembly
+3 Regular Session, 2025 SENATE BILL 178
+4
+5 By: Senator J. Boyd
+6 By: Representative Rose
+7
+For An Act To Be Entitled
+8
+9 AN ACT TO AMEND THE ARKANSAS HEALTHCARE DECISIONS
+10 ACT; TO CLARIFY THE ABILITY OF A SURROGATE TO OBTAIN
+11 RECORDS ON A PRINCIPAL'S INCOME, ASSETS, AND BANKING
+12 AND FINANCIAL RECORDS; AND FOR OTHER PURPOSES.
+13
+14
+Subtitle
+15
+16 TO AMEND THE ARKANSAS HEALTHCARE
+17 DECISIONS ACT; AND TO CLARIFY THE
+18 ABILITY OF A SURROGATE TO OBTAIN RECORDS
+19 ON A PRINCIPAL'S INCOME, ASSETS, AND
+20 BANKING AND FINANCIAL RECORDS.
+21
+22 BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF ARKANSAS:
+23
+24 SECTION 1. Arkansas Code § 20-6-106(d), concerning the authority of a
+25 surrogate under the Arkansas Healthcare Decisions Act, is amended to read as
+26 follows:
+27 (d)(1) A surrogate may apply for public benefits, such as Medicare and
+28 Medicaid, for the principal, subject to any federal restrictions or
+29 requirements, and have access to information to the extent required to make
+30 an application, may obtain records regarding the principal's income, assets,
+31 and banking and financial records to the extent required to make an
+32 application on an account of which the principal is:
+33 (A) The owner or co-owner; or
+34 (B) A beneficiary, including without limitation a trust,
+35 guardianship, or conservatorship.
+36 (2) The authority under subdivision (d)(1) of this section
+*JMB196*
+02/03/2025 8:41:19 AM JMB196
+SB178
+1 includes without limitation the ability to assist with, submit, and execute
+2 applications for benefits, redetermination of eligibility, and other ongoing
+3 related communications.
+4 (3) The authority under subdivision (d)(1) of this section shall
+5 terminate when revoked by a principal who no longer lacks decisional
+6 capacity, upon appointment or availability of a power of attorney or guardian
+7 with such authority, or upon the death of the principal.
+8 (4)(A) The authority under subdivision (d)(1) of this section
+9 shall be granted to a surrogate from a principal in writing or recorded
+10 orally shall only be exercised by the surrogate upon presentation of written
+11 designation signed by the principal or supervising healthcare provider as
+12 provided in § 20-6-105(c) that is either notarized or signed by two (2) non-
+13 familial witnesses.
+14 (B) The written designation shall:
+15 (i) Identify the principal;
+16 (ii) Identify the designated surrogate;
+17 (iii) State the date of the designation of the
+18 surrogate by the principal or by the supervising healthcare provider; and
+19 (iv) If appointed by a supervising healthcare
+20 provider:
+21 (a) Attest that the principal has been
+22 determined by a licensed physician to lack capacity and an agent or guardian
+23 has not been appointed or the agent or guardian is not reasonably available;
+24 and
+25 (b) State that the written document is
+26 executed in conformance with this section for the purpose of allowing the
+27 surrogate to apply for public benefits on behalf of the principal.
+28 (5) The authority under subdivision (d)(1) of this section to
+29 access records regarding the principal’s income and assets, including bank
+30 account and financial records, does not confer the authority to control,
+31 direct, or otherwise access the principal’s income, assets, or accounts upon
+32 the surrogate.
+33 (6)(A) A person or entity to whom a written designation is
+34 presented as described in subdivision (d)(4) of this section may rely on the
+35 written designation if the written designation appears on its face to comply
+36 with this section.
+2 02/03/2025 8:41:19 AM JMB196
+SB178
+1 (B) If the written designation does not appear on its face
+2 to comply with this section or if the recipient has reasonable cause to
+3 suspect the written designation does not comply with this section, the
+4 recipient may decline to provide the requested record.
+5 (C) A person or entity that provides information or
+6 records, or both, to a surrogate under this section is not liable to the
+7 principal, surrogate, or other person or entity for providing the information
+8 or records, or both.
+9 (7)(A) If bank account or financial records are sought for an
+10 account co-owned by the principal and another person or entity or an account
+11 of which the principal is a beneficiary, the bank or financial institution
+12 shall give written notice to the joint account holder or the signatory on the
+13 entity account of the request and allow them an opportunity to object in
+14 writing to the request within ten (10) business days.
+15 (B) If the bank or financial institution does not receive
+16 a written objection within ten (10) business days of the date on the notice
+17 described in subdivision (d)(7)(A) of this section, the bank or financial
+18 institution may allow the surrogate to obtain the records if the request is
+19 otherwise in accordance with the requirements of this subchapter.
+20 (C) If the bank or financial institution receives a
+21 written objection within ten (10) business days of the date of the notice
+22 described in subdivision (d)(7)(A) of this section, the bank or financial
+23 institution shall notify the surrogate of the objection and decline the
+24 request for records.
+25 (8) Except as provided in subdivision (d)(7) of this section,
+26 the surrogate may receive only records which the principal would be entitled
+27 upon request to receive when making a request for records.
+28 (9)(A) The records, materials, data, and information made
+29 available by a financial services provider are confidential and shall not be
+30 disclosed to any person other than as necessary to apply for public benefits
+31 on behalf of the principal.
+32 (B) The surrogate shall securely destroy all copies of the
+33 information upon termination of the authority under subdivision (d)(3) of
+34 this section.
+35 (C) Upon request, all information and records obtained by
+36 a surrogate under subdivision (d)(1) of this section shall be promptly and
+3 02/03/2025 8:41:19 AM JMB196
+SB178
+1 securely transferred to a properly appointed successor surrogate, power of
+2 attorney, or guardian or to a principal who no longer lacks decisional
+3 capacity.
+4
+5 SECTION 2. Arkansas Code § 20-6-111, concerning liability for a
+6 healthcare provider or healthcare institution under the Arkansas Healthcare
+7 Decisions Act, is amended to add an additional subsection to read as follows:
+8 (d) A person or entity that relies in good faith on a written
+9 surrogacy designation under this subchapter is not subject to civil or
+10 criminal liability, including any administrative proceeding, for providing
+11 the surrogate with access to records regarding the principal’s income,
+12 assets, and banking and financial accounts for the surrogate to make an
+13 application for public benefits on behalf of the principal.
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+4 02/03/2025 8:41:19 AM JMB196
+[DELETED:          A A R A   T D A O B  B   S s f  ( M r a a a    (    ( g   (]
+[DELETED: S2 0 i a r   ( t c w   ( s o d p f    (     (     (     ( s     ( p      ( d h a      ( e s   ( a a d t   ( p w w]
+[DELETED: S3 0    ( t s r    ( r p o   ( a o s e w    ( a d i o    ( w d i r   ( t u   ( a d o    ( i t    ( a]
+[DELETED: S4 0 s a c   S h D  ( s c t a a                       ]
+
+
+================================================================================
+
+Raw Text:
+Stricken language would be deleted from and underlined language would be added to present law.
+1 State of Arkansas
+A Bill
+2 95th General Assembly
+3 Regular Session, 2025 SENATE BILL 178
+4
+5 By: Senator J. Boyd
+6 By: Representative Rose
+7
+For An Act To Be Entitled
+8
+9 AN ACT TO AMEND THE ARKANSAS HEALTHCARE DECISIONS
+10 ACT; TO CLARIFY THE ABILITY OF A SURROGATE TO OBTAIN
+11 RECORDS ON A PRINCIPAL'S INCOME, ASSETS, AND BANKING
+12 AND FINANCIAL RECORDS; AND FOR OTHER PURPOSES.
+13
+14
+Subtitle
+15
+16 TO AMEND THE ARKANSAS HEALTHCARE
+17 DECISIONS ACT; AND TO CLARIFY THE
+18 ABILITY OF A SURROGATE TO OBTAIN RECORDS
+19 ON A PRINCIPAL'S INCOME, ASSETS, AND
+20 BANKING AND FINANCIAL RECORDS.
+21
+22 BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF ARKANSAS:
+23
+24 SECTION 1. Arkansas Code § 20-6-106(d), concerning the authority of a
+25 surrogate under the Arkansas Healthcare Decisions Act, is amended to read as
+26 follows:
+27 (d)(1) A surrogate may apply for public benefits, such as Medicare and
+28 Medicaid, for the principal, subject to any federal restrictions or
+29 requirements, and have access to information to the extent required to make
+30 an application, may obtain records regarding the principal's income, assets,
+31 and banking and financial records to the extent required to make an
+32 application on an account of which the principal is:
+33 (A) The owner or co-owner; or
+34 (B) A beneficiary, including without limitation a trust,
+35 guardianship, or conservatorship.
+36 (2) The authority under subdivision (d)(1) of this section
+*JMB196*
+02/03/2025 8:41:19 AM JMB196
+
+SB178
+1 includes without limitation the ability to assist with, submit, and execute
+2 applications for benefits, redetermination of eligibility, and other ongoing
+3 related communications.
+4 (3) The authority under subdivision (d)(1) of this section shall
+5 terminate when revoked by a principal who no longer lacks decisional
+6 capacity, upon appointment or availability of a power of attorney or guardian
+7 with such authority, or upon the death of the principal.
+8 (4)(A) The authority under subdivision (d)(1) of this section
+9 shall be granted to a surrogate from a principal in writing or recorded
+10 orally shall only be exercised by the surrogate upon presentation of written
+11 designation signed by the principal or supervising healthcare provider as
+12 provided in § 20-6-105(c) that is either notarized or signed by two (2) non-
+13 familial witnesses.
+14 (B) The written designation shall:
+15 (i) Identify the principal;
+16 (ii) Identify the designated surrogate;
+17 (iii) State the date of the designation of the
+18 surrogate by the principal or by the supervising healthcare provider; and
+19 (iv) If appointed by a supervising healthcare
+20 provider:
+21 (a) Attest that the principal has been
+22 determined by a licensed physician to lack capacity and an agent or guardian
+23 has not been appointed or the agent or guardian is not reasonably available;
+24 and
+25 (b) State that the written document is
+26 executed in conformance with this section for the purpose of allowing the
+27 surrogate to apply for public benefits on behalf of the principal.
+28 (5) The authority under subdivision (d)(1) of this section to
+29 access records regarding the principal’s income and assets, including bank
+30 account and financial records, does not confer the authority to control,
+31 direct, or otherwise access the principal’s income, assets, or accounts upon
+32 the surrogate.
+33 (6)(A) A person or entity to whom a written designation is
+34 presented as described in subdivision (d)(4) of this section may rely on the
+35 written designation if the written designation appears on its face to comply
+36 with this section.
+2 02/03/2025 8:41:19 AM JMB196
+
+SB178
+1 (B) If the written designation does not appear on its face
+2 to comply with this section or if the recipient has reasonable cause to
+3 suspect the written designation does not comply with this section, the
+4 recipient may decline to provide the requested record.
+5 (C) A person or entity that provides information or
+6 records, or both, to a surrogate under this section is not liable to the
+7 principal, surrogate, or other person or entity for providing the information
+8 or records, or both.
+9 (7)(A) If bank account or financial records are sought for an
+10 account co-owned by the principal and another person or entity or an account
+11 of which the principal is a beneficiary, the bank or financial institution
+12 shall give written notice to the joint account holder or the signatory on the
+13 entity account of the request and allow them an opportunity to object in
+14 writing to the request within ten (10) business days.
+15 (B) If the bank or financial institution does not receive
+16 a written objection within ten (10) business days of the date on the notice
+17 described in subdivision (d)(7)(A) of this section, the bank or financial
+18 institution may allow the surrogate to obtain the records if the request is
+19 otherwise in accordance with the requirements of this subchapter.
+20 (C) If the bank or financial institution receives a
+21 written objection within ten (10) business days of the date of the notice
+22 described in subdivision (d)(7)(A) of this section, the bank or financial
+23 institution shall notify the surrogate of the objection and decline the
+24 request for records.
+25 (8) Except as provided in subdivision (d)(7) of this section,
+26 the surrogate may receive only records which the principal would be entitled
+27 upon request to receive when making a request for records.
+28 (9)(A) The records, materials, data, and information made
+29 available by a financial services provider are confidential and shall not be
+30 disclosed to any person other than as necessary to apply for public benefits
+31 on behalf of the principal.
+32 (B) The surrogate shall securely destroy all copies of the
+33 information upon termination of the authority under subdivision (d)(3) of
+34 this section.
+35 (C) Upon request, all information and records obtained by
+36 a surrogate under subdivision (d)(1) of this section shall be promptly and
+3 02/03/2025 8:41:19 AM JMB196
+
+SB178
+1 securely transferred to a properly appointed successor surrogate, power of
+2 attorney, or guardian or to a principal who no longer lacks decisional
+3 capacity.
+4
+5 SECTION 2. Arkansas Code § 20-6-111, concerning liability for a
+6 healthcare provider or healthcare institution under the Arkansas Healthcare
+7 Decisions Act, is amended to add an additional subsection to read as follows:
+8 (d) A person or entity that relies in good faith on a written
+9 surrogacy designation under this subchapter is not subject to civil or
+10 criminal liability, including any administrative proceeding, for providing
+11 the surrogate with access to records regarding the principal’s income,
+12 assets, and banking and financial accounts for the surrogate to make an
+13 application for public benefits on behalf of the principal.
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+4 02/03/2025 8:41:19 AM JMB196
+
+[DELETED:          A A R A   T D A O B  B   S s f  ( M r a a a    (    ( g   (]
+[DELETED: S2 0 i a r   ( t c w   ( s o d p f    (     (     (     ( s     ( p      ( d h a      ( e s   ( a a d t   ( p w w]
+[DELETED: S3 0    ( t s r    ( r p o   ( a o s e w    ( a d i o    ( w d i r   ( t u   ( a d o    ( i t    ( a]
+[DELETED: S4 0 s a c   S h D  ( s c t a a                       ]

@@ -1,0 +1,284 @@
+Stricken language would be deleted from and underlined language would be added to present law.
+1 State of Arkansas As Engrossed: H3/31/25 H4/3/25
+A Bill
+2 95th General Assembly
+3 Regular Session, 2025 HOUSE BILL 1852
+4
+5 By: Representative J. Moore
+6 By: Senator Stone
+7
+For An Act To Be Entitled
+8
+9 AN ACT TO AMEND THE LAW REGARDING AGRICULTURAL
+10 EQUIPMENT; TO ESTABLISH A RIGHT TO REPAIR FOR CERTAIN
+11 AGRICULTURAL EQUIPMENT; AND FOR OTHER PURPOSES.
+12
+13
+Subtitle
+14
+15 TO ESTABLISH A RIGHT TO REPAIR FOR
+16 CERTAIN AGRICULTURAL EQUIPMENT.
+17
+18 BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF ARKANSAS:
+19
+20 SECTION 1. Arkansas Code Title 4, Chapter 96, is amended to add an
+21 additional subchapter to read as follows:
+22 Subchapter 4 — Right to Repair
+23
+24 4-96-401. Legislative intent.
+25 It is the intent of the General Assembly to:
+26 (1) Continue to enhance the ability of farmers to timely control
+27 the lawful operation and upkeep of agricultural equipment;
+28 (2) Assure the timely availability, on fair and reasonable
+29 terms, of tools, specialty tools, software, and documentation originating
+30 from a manufacturer and data from the operation of agricultural equipment
+31 originating from a manufacturer;
+32 (3) Assure that no safety controls or protocols on agricultural
+33 equipment are compromised through the modification of protective measures
+34 installed for the benefit of agricultural equipment owners, operators, and
+35 bystanders;
+36 (4) Assure that the intellectual property of a manufacturer,
+*CRH264*
+04-03-2025 11:02:30 CRH264
+
+As Engrossed: H3/31/25 H4/3/25 HB1852
+1 including copyrighted software, is fully protected from illegal infringement
+2 through the modification of embedded software; and
+3 (5) Assure that compliance with federal and state emissions
+4 control requirements is not compromised through changes to power ratings or
+5 other modification of control measures installed for the purpose of complying
+6 with the Clean Air Act, 42 U.S.C. § 7401 et seq., as it existed on January 1,
+7 2025, and other environmental laws and regulations.
+8
+9 4-96-402. Definitions.
+10 As used in this subchapter:
+11 (1)(A) "Agricultural equipment" means a product primarily designed for use
+12 in an agricultural operation and located in Arkansas.
+13 (B) "Agricultural equipment" includes without limitation the following
+14 pieces of equipment:
+15 (i) A tractor;
+16 (ii) A combine;
+17 (iii) Harvesting equipment;
+18 (iv) Tillage equipment;
+19 (v) Planting, irrigation, or cultivating implements;
+20 (vi) A baler; and
+21 (vii) Other off-road vehicles primarily designed for
+22 use in an agricultural operation.
+23 (C) "Agricultural equipment" does not include:
+24 (i) Motor vehicles designed and sold primarily for
+25 passenger or property transportation on public roadways;
+26 (ii) Motorcycles; or
+27 (iii) Class 1 or Class 2 all-terrain vehicles;
+28 (2) "Authorized repair facility" means an individual or business:
+29 (A) That has an arrangement for a definite or indefinite
+30 period with a manufacturer under which the manufacturer grants to the
+31 individual or business a permission, license, or franchise to use a trade
+32 name, service mark, or related characteristic for the purposes of offering
+33 diagnosis, repair, or maintenance services of agricultural equipment under
+34 the name of or on behalf of the manufacturer; or
+35 (B) That is otherwise utilized by the manufacturer to
+36 provide repair or maintenance services on agricultural equipment;
+2 04-03-2025 11:02:30 CRH264
+
+As Engrossed: H3/31/25 H4/3/25 HB1852
+1 (3) "Code" means:
+2 (A) Human or machine-readable information related to a
+3 performance issue arising from the operation of a farmer's agricultural
+4 equipment; or
+5 (B) Information necessary to be transmitted to a farmer's
+6 agricultural equipment to maintain, repair, or activate the agricultural
+7 equipment or a part of the agricultural equipment;
+8 (4) "Data" means transmitted or compiled information arising
+9 from the operation of a farmer's agricultural equipment or parts of the
+10 agricultural equipment;
+11 (5) "Documentation" means a manual, diagram, reporting output,
+12 service code description, schematic, or other guidance or information used in
+13 affecting the services of diagnosis, maintenance, repair, or upgrade of
+14 agricultural equipment;
+15 (6)(A) "Embedded software" means programmable instructions
+16 provided on firmware delivered with or loaded to the agricultural equipment,
+17 with respect to agricultural equipment operation, including all relevant
+18 patches and fixes made by the manufacturer including without limitation:
+19 (i) Basic internal operating system;
+20 (ii) Internal operating system;
+21 (iii) Machine code;
+22 (iv) Assembly code;
+23 (v) Root code; and
+24 (vi) Microcode.
+25 (B) "Embedded software" includes a software program or set
+26 of instructions programmed on agricultural equipment or on a part of the
+27 agricultural equipment to allow the agricultural equipment or part of the
+28 agricultural equipment to communicate within the agricultural equipment or
+29 with other computer hardware;
+30 (7)(A) "Fair and reasonable" means equitable terms for access to
+31 or receipt of an item pertaining to agricultural equipment, including any
+32 tools, specialty tools, software, and documentation.
+33 (B) "Fair and reasonable" includes a consideration of
+34 relevant factors, including without limitation the manufacturer's suggested
+35 retail price and the distribution model of a respective item;
+36 (8) "Farmer" means:
+3 04-03-2025 11:02:30 CRH264
+
+As Engrossed: H3/31/25 H4/3/25 HB1852
+1 (A) An individual or business engaged in agriculture as a
+2 means of livelihood or commerce, including without limitation the production
+3 of crops, livestock, or aquaculture, excluding recreational fishing; and
+4 (B) That owns or leases agricultural equipment;
+5 (9) "Independent repair facility" means an individual or
+6 business that is not affiliated with an authorized repair facility or a
+7 manufacturer with respect to agricultural equipment but is:
+8 (A) Engaged in diagnosing, maintaining, or repairing
+9 agricultural equipment generally; and
+10 (B) Is willing and capable of repairing agricultural
+11 equipment if provided access to tools, specialty tools, software, and
+12 documentation regarding the agricultural equipment, whether or not the
+13 individual or business is a farmer;
+14 (10) "Manufacturer" means an entity engaged in the business of
+15 selling, leasing, or otherwise supplying new agricultural equipment
+16 manufactured by or on behalf of the manufacturer to an individual or a
+17 business;
+18 (11) "Specialty tool" means a mechanical implement originating
+19 from a manufacturer that is necessary for facilitation of mechanical or
+20 electronic maintenance, repair, or upgrade of the manufacturer's agricultural
+21 equipment that is not generally available other than from the manufacturer's
+22 authorized repair facilities; and
+23 (12)(A) "Tool" means software, a hardware implement, a specialty
+24 hardware implement, or other apparatus originating from the manufacturer used
+25 for data readout, diagnosis, maintenance, or repair of agricultural
+26 equipment.
+27 (B) "Tool" includes without limitation software or other
+28 mechanisms that calibrate functionality or perform any other function
+29 required to operate, maintain, upgrade, activate, or bring the agricultural
+30 equipment back to a fully functional condition.
+31
+32 4-96-403. Manufacturer obligations.
+33 (a) A manufacturer shall ensure that a farmer, a farmer's staff
+34 member, or an independent technician assisting a farmer at the farmer's
+35 request, and an independent repair facility:
+36 (1) Has electronic access on fair and reasonable terms to the
+4 04-03-2025 11:02:30 CRH264
+
+As Engrossed: H3/31/25 H4/3/25 HB1852
+1 manufacturer's tools, specialty tools, software, and documentation, including
+2 without limitation:
+3 (A) Manuals related to operation, parts, and service;
+4 (B) Product service demonstrations, training, seminars, or
+5 clinics;
+6 (C) On-board diagnostics via a diagnostics port or
+7 wireless interface; and
+8 (D) Other publications with information on operation,
+9 parts, service, and safety;
+10 (2) Has access to obtain, per subscription or sale,
+11 manufacturer's tools, specialty tools, software, and documentation from the
+12 manufacturer or from an authorized repair facility on fair and reasonable
+13 terms;
+14 (3) Has electronic access on fair and reasonable terms to
+15 manufacturer's codes and data; and
+16 (4) Makes available, with a farmer's authorization, codes and
+17 data to the farmer's selected independent repair facility.
+18 (b) This subchapter does not require a manufacturer to:
+19 (1) Divulge trade secrets, proprietary information, or
+20 confidential information;
+21 (2) Allow owners or independent repair facilities to override
+22 safety features or emissions controls or to adjust agricultural equipment
+23 power levels; or
+24 (3) Violate any federal, state, or local laws or regulations.
+25
+26 4-96-404. Provision to farmers on fair and reasonable basis.
+27 (a)(1) If a manufacturer provides to an authorized repair facility a
+28 tool, specialty tool, software, or documentation for functions listed in § 4-
+29 96-403(a)(1) separately or as fully or partially integrated software, the
+30 manufacturer shall ensure that the tool, specialty tool, software, and
+31 documentation are available to a farmer on a fair and reasonable basis.
+32 (2) Subdivision (a)(1) of this section shall apply whether the:
+33 (A) Tool, as part of software or otherwise, or specialty
+34 tool is purchased, leased, or subscribed to; or
+35 (B) Fulfillment is made directly by the manufacturer or an
+36 authorized repair facility.
+5 04-03-2025 11:02:30 CRH264
+
+As Engrossed: H3/31/25 H4/3/25 HB1852
+1 (b) When a manufacturer receives a code or real-time data with respect
+2 to the in-field operation of a farmer's agricultural equipment, the
+3 manufacturer shall ensure that the code or data is also available to the
+4 farmer using the agricultural equipment.
+5 (c) Subject to the limitations of § 4-96-403(b), a manufacturer shall
+6 make available on fair and reasonable terms to a farmer that owns or leases
+7 agricultural equipment manufactured by or on behalf of the manufacturer the
+8 tools, specialty tools, software, and documentation, inclusive of any updates
+9 to information or embedded software, for diagnosis, maintenance, or repair
+10 purposes of the agricultural equipment.
+11 (d) For agricultural equipment that contains an electronic lock,
+12 immobilizer, or other security-related function, subject to the limitations
+13 of § 4-96-403(b), a manufacturer shall make available to the farmer on fair
+14 and reasonable terms any special documentation and tools needed to:
+15 (1) Disable the lock, immobilizer, or other security-related
+16 function; and
+17 (2) Reset the lock when disabled in the ordinary course of
+18 diagnosis, maintenance, or repair of the agricultural equipment.
+19 (e) To the extent practicable and as a manufacturer deems secure,
+20 subject to the limitations of § 4-96-403(b), tools, specialty tools,
+21 software, and documentation shall be provided on a remote, immediate basis,
+22 whether delivery is made from the manufacturer or through an authorized
+23 repair facility.
+24 (f) A manufacturer shall provide a farmer and an independent repair
+25 facility with an opportunity on fair and reasonable terms to acquire any
+26 software integrally with or within a tool or subsequently as necessary for
+27 the operation, maintenance, repair, or upgrade of the agricultural equipment
+28 or a mechanical part of the agricultural equipment.
+29 (g) A manufacturer is not required to sell tools, specialty tools,
+30 software, or documentation if the tools, specialty tools, software, or
+31 documentation are no longer available to the manufacturer or the authorized
+32 repair facility of the manufacturer.
+33 (h)(1) A manufacturer shall not prevent a farmer or independent repair
+34 facility from legally fabricating or otherwise obtaining tools, specialty
+35 tools, software, or documentation from a third party, whether or not the
+36 tools, specialty tools, software, or documentation are currently available
+6 04-03-2025 11:02:30 CRH264
+
+As Engrossed: H3/31/25 H4/3/25 HB1852
+1 from the manufacturer or an authorized repair facility, for use solely in the
+2 ordinary course of his or her own lawful businesses and not for resale or
+3 distribution.
+4 (2) Subdivision (h)(1) of this section does not prevent or
+5 preclude a manufacturer from pursuing an action to enforce a trademark,
+6 copyright, or other claim of infringement regarding the manufacturer's
+7 intellectual property.
+8 (i) If an independent repair facility requests that a manufacturer
+9 provide any tools, specialty tools, software, or documentation as provided to
+10 farmers under subsections (a)—(h) of this section, or if a farmer makes a
+11 request in connection with his or her own agricultural equipment, the
+12 manufacturer shall provide the tools, specialty tools, software, or
+13 documentation on fair and reasonable terms with respect to the independent
+14 repair facility.
+15
+16 /s/J. Moore
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+7 04-03-2025 11:02:30 CRH264
+
+[DELETED:  A      A E A   T C  B   S a S    4  I   ( t   ( t f o   ( e i b   (]
+[DELETED:  H2 0 i t   ( c o w 2   4  A ( i  ( p     (     (     (     (     (     (     ( u (     ( p     (     (  (    ( p i n d t    ( p]
+[DELETED:  H3 0   (    ( p e    ( a e   ( f a   ( s a a   ( p w p     (     (     (     (     (     (    ( o a a w   ( o t    ( r r   (]
+[DELETED:  H4 0    ( m o    (   ( b m    ( a    ( e d i   ( s m b   ( f e e a   ( h f e    ( m r e   4  ( m r   (]
+[DELETED:  H5 0 m w    (    ( c    ( w    ( p   ( m m t   ( m   ( d  (   ( c   ( s p   (   4  ( t 9 m d   (    ( t    ( a]
+[DELETED:  H6 0  ( t m f  ( m a t t p  ( i o a   ( f   ( d  ( s s w r  ( f s t o  ( s d r  ( f t t]
+[DELETED:  H7 0 f o d   ( p c i  ( p f r m d r  /                    ]

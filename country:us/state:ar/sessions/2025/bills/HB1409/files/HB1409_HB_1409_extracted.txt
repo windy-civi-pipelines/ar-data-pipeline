@@ -1,0 +1,338 @@
+Title: Stricken language would be deleted from and underlined language would be added to present law.
+Official Title: Stricken language would be deleted from and underlined language would be added to present law.
+Number of Sections: 1
+Source: versions - HB 1409
+Media Type: application/pdf
+Strikethrough Detection: 4 sections found
+
+================================================================================
+
+Section 1:
+1 State of Arkansas
+A Bill
+2 95th General Assembly
+3 Regular Session, 2025 HOUSE BILL 1409
+4
+5 By: Representative Long
+6
+7
+For An Act To Be Entitled
+8
+9 AN ACT TO AMEND THE LAW REGARDING ENERGY; TO CREATE
+10 THE ELECTRIC RELIABILITY ACT; AND FOR OTHER PURPOSES.
+11
+12
+Subtitle
+13
+14 TO AMEND THE LAW REGARDING ENERGY; AND
+15 TO CREATE THE ELECTRIC RELIABILITY ACT.
+16
+17 BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF ARKANSAS:
+18
+19 SECTION 1. Arkansas Code Title 23, Chapter 18, is amended to add an
+20 additional subchapter to read as follows:
+21
+22 Subchapter 13 — Electric Reliability Act
+23
+24 23-18-1301. Title.
+25 This subchapter shall be known and may be cited as the "Electric
+26 Reliability Act".
+27
+28 23-18-1302. Legislative findings.
+29 The General Assembly finds that:
+30 (1) Arkansas residents, including families and industries in
+31 this state, depend on reliable and affordable electric utility service for
+32 innumerable things they do, from operating lifesaving medical equipment to
+33 operating lifesaving building temperature and humidity control;
+34 (2) Electric utility service demand must be met with instant
+35 electric utility service supply or interruptions of electric utility service
+36 result;
+*ANS044*
+02/05/2025 7:49:39 AM ANS044
+HB1409
+1 (3) In 2022, two hundred thirty (230) coal plants, that produce
+2 twenty percent (20%) of American electric utility service, were targeted for
+3 closure by activist groups, state and federal regulators, and utility
+4 companies, with dozens of coal plants across the United States slated for
+5 closure in the next three (3) years;
+6 (4) Also in 2022, eighty thousand (80,000) wind towers produced
+7 nine percent (9%) of electric utility service in the United States, and
+8 approximately six thousand (6,000) wind towers are added per year, but at
+9 least seven hundred fifty thousand (750,000) more wind towers are needed to
+10 replace coal and natural gas generation, and sufficient battery storage is
+11 needed to cover the seventy percent (70%) of the time during which wind
+12 towers produce little to no electric utility service;
+13 (5) Solar energy produced less than three percent (3%) of
+14 electricity in the United States in 2022, and only produces electricity
+15 during daylight hours when the sun shines, producing little or no electricity
+16 during daily peak demands of 5:00 p.m. to 9:00 p.m.;
+17 (6) The North American Electric Reliability Corporation, the
+18 regional transmission organizations, Midcontinent Independent System
+19 Operator, and Pennsylvania-New Jersey-Maryland Interconnection have warned
+20 that large swathes of the United States face elevated risks of electric
+21 utility service shortfalls now and in the future;
+22 (7) Restricting the supply of electric utility service without
+23 immediate substitutes jeopardizes reliability and affordability and will
+24 cause interruptions of electric utility service, often when needed most,
+25 during the hottest and coldest months;
+26 (8) Electric utility service in the United States has remained
+27 static for the last twenty (20) years, yet investments in new electric power
+28 generation have accelerated;
+29 (9) Rising electric utility service prices and decreased
+30 reliability will contribute to overall inflation;
+31 (10) America's coal and natural gas plants should not be
+32 recklessly decommissioned or regulated out of existence. Instead, they
+33 should be kept online and readily available to provide flexibility for
+34 national security in times of war, economic security, supply security, price
+35 stability, and reliability;
+36 (11) Winter storms have caused millions to lose electric utility
+2 02/05/2025 7:49:39 AM ANS044
+HB1409
+1 service for extended periods, costing lives and billions of dollars in
+2 damages because of electric utility service shortages and outages;
+3 (12) The affordability and reliability of electric service is of
+4 major importance to low-income Arkansans because they spend the largest
+5 percentage of their income on energy and are harmed the most by high energy
+6 prices; and
+7 (13) Arkansas will use all means necessary to protect this
+8 state's electric utility service reliability because regulation of electric
+9 utility service and pollutants are not among the constitutionally delegated
+10 powers assigned to the United States Government and are reserved to the state
+11 under the Tenth Amendment to the United States Constitution.
+12
+13 23-18-1303. Reliability and availability of electric generation
+14 facilities — Definitions.
+15 (a) As used in this section:
+16 (1)(A) "Dispatchable" means a source of electric utility service
+17 that:
+18 (i) Is readily available for use on demand and can
+19 be dispatched upon request of a power grid operator; or
+20 (ii) Can have its power output adjusted according to
+21 market needs, except for routine maintenance or repairs.
+22 (B) "Dispatchable" includes on-demand power;
+23 (2) "Electric generation facility" means a facility that uses
+24 hydroelectric, coal, natural gas, or nuclear fuel to generate reliable or
+25 dispatchable electric utility service to a retail customer for compensation;
+26 (3)(A) "Firm power" means dispatchable, reliable power
+27 generation and battery storage of more than twenty-four (24) hours.
+28 (B) "Firm power" does not include power that is not
+29 dispatchable; and
+30 (4) "Reliable" means a source of electric utility service that:
+31 (A) Is not subject to intermittent availability;
+32 (B) Has a performance standard of eighty percent (80%) or
+33 higher; and
+34 (C) Has a performance standard that only falls below
+35 eighty percent (80%) during routine maintenance or repairs.
+36 (b)(1) The Arkansas Public Service Commission shall not authorize or
+3 02/05/2025 7:49:39 AM ANS044
+HB1409
+1 approve the retirement of an electric generation facility as proposed in a
+2 rate case, integrated resource plan, or other submission to the commission
+3 until there is an equal or greater contracted new means of firm power
+4 available on the electric grid to replace the loss of firm power brought
+5 about by the proposed closure of the electric generation facility.
+6 (2) An equal or greater contracted new means of firm power under
+7 subdivision (b)(1) of this section shall not be from any future prospects.
+8 (c)(1) In assessing the amount of replacement firm power needed under
+9 subdivision (b)(1) of this section, the commission shall consider imminent
+10 and planned closures of electric generation facilities in other states of the
+11 member regional transmission organizations in addition to the imminent and
+12 planned closures in this state.
+13 (2) If other states of the member regional transmission
+14 organizations are not replacing their retired or closed electric generation
+15 facilities or other means of firm power that are scheduled for retirement
+16 with an equal or greater amount of firm power, the commission shall include
+17 the lack of replacements to the calculations of this state's replacement of
+18 firm power under subdivision (b)(1) of this section before approving the
+19 proposed closure of an electric generation facility.
+20 (d)(1) If the United States Government through regulation forces
+21 costly upgrades or other requirements leading to the closure of existing
+22 electric generation facilities, the commission shall seek a waiver from the
+23 federal government until there is sufficient replacement firm power available
+24 to the electric grid to replace the retired electric generation facility.
+25 (2) If a waiver is requested under subdivision (d)(1) of this
+26 section but is not granted, the commission shall seek a court injunction and
+27 bring litigation against the implementation of the closure of an electric
+28 generation facility.
+29
+30
+31
+32
+33
+34
+35
+36
+4 02/05/2025 7:49:39 AM ANS044
+[DELETED:       A T  T T  B   S a  S   2  T R   2  T   ( t i o   ( e r]
+[DELETED: H2 0   ( t c c c   ( n a l r n t   ( e d d   ( r O t u   ( i c d   ( s g   ( r   ( r s n s   (]
+[DELETED: H3 0 s d   ( m p p   ( s u p u   2 f  (   ( t     ( b     ( m    (   ( h d   ( g    ( d   (    (    ( h    ( e  (]
+[DELETED: H4 0 a r u a a   ( s  ( s a m p   ( o f w t f p  ( c e f t   ( s b g        ]
+
+
+================================================================================
+
+Raw Text:
+Stricken language would be deleted from and underlined language would be added to present law.
+1 State of Arkansas
+A Bill
+2 95th General Assembly
+3 Regular Session, 2025 HOUSE BILL 1409
+4
+5 By: Representative Long
+6
+7
+For An Act To Be Entitled
+8
+9 AN ACT TO AMEND THE LAW REGARDING ENERGY; TO CREATE
+10 THE ELECTRIC RELIABILITY ACT; AND FOR OTHER PURPOSES.
+11
+12
+Subtitle
+13
+14 TO AMEND THE LAW REGARDING ENERGY; AND
+15 TO CREATE THE ELECTRIC RELIABILITY ACT.
+16
+17 BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF ARKANSAS:
+18
+19 SECTION 1. Arkansas Code Title 23, Chapter 18, is amended to add an
+20 additional subchapter to read as follows:
+21
+22 Subchapter 13 — Electric Reliability Act
+23
+24 23-18-1301. Title.
+25 This subchapter shall be known and may be cited as the "Electric
+26 Reliability Act".
+27
+28 23-18-1302. Legislative findings.
+29 The General Assembly finds that:
+30 (1) Arkansas residents, including families and industries in
+31 this state, depend on reliable and affordable electric utility service for
+32 innumerable things they do, from operating lifesaving medical equipment to
+33 operating lifesaving building temperature and humidity control;
+34 (2) Electric utility service demand must be met with instant
+35 electric utility service supply or interruptions of electric utility service
+36 result;
+*ANS044*
+02/05/2025 7:49:39 AM ANS044
+
+HB1409
+1 (3) In 2022, two hundred thirty (230) coal plants, that produce
+2 twenty percent (20%) of American electric utility service, were targeted for
+3 closure by activist groups, state and federal regulators, and utility
+4 companies, with dozens of coal plants across the United States slated for
+5 closure in the next three (3) years;
+6 (4) Also in 2022, eighty thousand (80,000) wind towers produced
+7 nine percent (9%) of electric utility service in the United States, and
+8 approximately six thousand (6,000) wind towers are added per year, but at
+9 least seven hundred fifty thousand (750,000) more wind towers are needed to
+10 replace coal and natural gas generation, and sufficient battery storage is
+11 needed to cover the seventy percent (70%) of the time during which wind
+12 towers produce little to no electric utility service;
+13 (5) Solar energy produced less than three percent (3%) of
+14 electricity in the United States in 2022, and only produces electricity
+15 during daylight hours when the sun shines, producing little or no electricity
+16 during daily peak demands of 5:00 p.m. to 9:00 p.m.;
+17 (6) The North American Electric Reliability Corporation, the
+18 regional transmission organizations, Midcontinent Independent System
+19 Operator, and Pennsylvania-New Jersey-Maryland Interconnection have warned
+20 that large swathes of the United States face elevated risks of electric
+21 utility service shortfalls now and in the future;
+22 (7) Restricting the supply of electric utility service without
+23 immediate substitutes jeopardizes reliability and affordability and will
+24 cause interruptions of electric utility service, often when needed most,
+25 during the hottest and coldest months;
+26 (8) Electric utility service in the United States has remained
+27 static for the last twenty (20) years, yet investments in new electric power
+28 generation have accelerated;
+29 (9) Rising electric utility service prices and decreased
+30 reliability will contribute to overall inflation;
+31 (10) America's coal and natural gas plants should not be
+32 recklessly decommissioned or regulated out of existence. Instead, they
+33 should be kept online and readily available to provide flexibility for
+34 national security in times of war, economic security, supply security, price
+35 stability, and reliability;
+36 (11) Winter storms have caused millions to lose electric utility
+2 02/05/2025 7:49:39 AM ANS044
+
+HB1409
+1 service for extended periods, costing lives and billions of dollars in
+2 damages because of electric utility service shortages and outages;
+3 (12) The affordability and reliability of electric service is of
+4 major importance to low-income Arkansans because they spend the largest
+5 percentage of their income on energy and are harmed the most by high energy
+6 prices; and
+7 (13) Arkansas will use all means necessary to protect this
+8 state's electric utility service reliability because regulation of electric
+9 utility service and pollutants are not among the constitutionally delegated
+10 powers assigned to the United States Government and are reserved to the state
+11 under the Tenth Amendment to the United States Constitution.
+12
+13 23-18-1303. Reliability and availability of electric generation
+14 facilities — Definitions.
+15 (a) As used in this section:
+16 (1)(A) "Dispatchable" means a source of electric utility service
+17 that:
+18 (i) Is readily available for use on demand and can
+19 be dispatched upon request of a power grid operator; or
+20 (ii) Can have its power output adjusted according to
+21 market needs, except for routine maintenance or repairs.
+22 (B) "Dispatchable" includes on-demand power;
+23 (2) "Electric generation facility" means a facility that uses
+24 hydroelectric, coal, natural gas, or nuclear fuel to generate reliable or
+25 dispatchable electric utility service to a retail customer for compensation;
+26 (3)(A) "Firm power" means dispatchable, reliable power
+27 generation and battery storage of more than twenty-four (24) hours.
+28 (B) "Firm power" does not include power that is not
+29 dispatchable; and
+30 (4) "Reliable" means a source of electric utility service that:
+31 (A) Is not subject to intermittent availability;
+32 (B) Has a performance standard of eighty percent (80%) or
+33 higher; and
+34 (C) Has a performance standard that only falls below
+35 eighty percent (80%) during routine maintenance or repairs.
+36 (b)(1) The Arkansas Public Service Commission shall not authorize or
+3 02/05/2025 7:49:39 AM ANS044
+
+HB1409
+1 approve the retirement of an electric generation facility as proposed in a
+2 rate case, integrated resource plan, or other submission to the commission
+3 until there is an equal or greater contracted new means of firm power
+4 available on the electric grid to replace the loss of firm power brought
+5 about by the proposed closure of the electric generation facility.
+6 (2) An equal or greater contracted new means of firm power under
+7 subdivision (b)(1) of this section shall not be from any future prospects.
+8 (c)(1) In assessing the amount of replacement firm power needed under
+9 subdivision (b)(1) of this section, the commission shall consider imminent
+10 and planned closures of electric generation facilities in other states of the
+11 member regional transmission organizations in addition to the imminent and
+12 planned closures in this state.
+13 (2) If other states of the member regional transmission
+14 organizations are not replacing their retired or closed electric generation
+15 facilities or other means of firm power that are scheduled for retirement
+16 with an equal or greater amount of firm power, the commission shall include
+17 the lack of replacements to the calculations of this state's replacement of
+18 firm power under subdivision (b)(1) of this section before approving the
+19 proposed closure of an electric generation facility.
+20 (d)(1) If the United States Government through regulation forces
+21 costly upgrades or other requirements leading to the closure of existing
+22 electric generation facilities, the commission shall seek a waiver from the
+23 federal government until there is sufficient replacement firm power available
+24 to the electric grid to replace the retired electric generation facility.
+25 (2) If a waiver is requested under subdivision (d)(1) of this
+26 section but is not granted, the commission shall seek a court injunction and
+27 bring litigation against the implementation of the closure of an electric
+28 generation facility.
+29
+30
+31
+32
+33
+34
+35
+36
+4 02/05/2025 7:49:39 AM ANS044
+
+[DELETED:       A T  T T  B   S a  S   2  T R   2  T   ( t i o   ( e r]
+[DELETED: H2 0   ( t c c c   ( n a l r n t   ( e d d   ( r O t u   ( i c d   ( s g   ( r   ( r s n s   (]
+[DELETED: H3 0 s d   ( m p p   ( s u p u   2 f  (   ( t     ( b     ( m    (   ( h d   ( g    ( d   (    (    ( h    ( e  (]
+[DELETED: H4 0 a r u a a   ( s  ( s a m p   ( o f w t f p  ( c e f t   ( s b g        ]

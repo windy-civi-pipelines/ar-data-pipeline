@@ -1,0 +1,259 @@
+Title: Stricken language would be deleted from and underlined language would be added to present law.
+Official Title: Stricken language would be deleted from and underlined language would be added to present law.
+Number of Sections: 1
+Source: versions - HB 1980
+Media Type: application/pdf
+Strikethrough Detection: 3 sections found
+
+================================================================================
+
+Section 1:
+1 State of Arkansas As Engrossed: H4/7/25
+A Bill
+2 95th General Assembly
+3 Regular Session, 2025 HOUSE BILL 1980
+4
+5 By: Representative Gazaway
+6 By: Senator B. Johnson
+7
+For An Act To Be Entitled
+8
+9 AN ACT T0 CREATE THE TECHNOLOGY AND ENERGY FOR
+10 SUSTAINABLE LOGISTICS ACT (TESLA); TO ADD ELECTRIC
+11 VEHICLE CHARGING STATIONS TO THE DEFINITION OF
+12 "CRITICAL INFRASTRUCTURE" WITH RESPECT TO CRIMINAL
+13 OFFENSES RELATED TO DAMAGE OR DESTRUCTION OF
+14 PROPERTY; AND FOR OTHER PURPOSES.
+15
+16
+Subtitle
+17
+18 TO CREATE THE TECHNOLOGY AND ENERGY FOR
+19 SUSTAINABLE LOGISTICS ACT (TESLA); AND
+20 TO ADD ELECTRIC VEHICLE CHARGING
+21 STATIONS TO THE DEFINITION OF "CRITICAL
+22 INFRASTRUCTURE".
+23
+24 BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF ARKANSAS:
+25
+26 SECTION 1. DO NOT CODIFY. This act shall be known and may be cited as
+27 the "Technology and Energy for Sustainable Logistics Act (TESLA)".
+28
+29 SECTION 2. Arkansas Code § 5-38-101(2), concerning the definition of
+30 critical infrastructure with respect to damage or destruction of property, is
+31 amended to read as follows:
+32 (2) “Critical infrastructure” means any of the following
+33 facilities that are either completely enclosed by a fence or other physical
+34 barrier that is designed to exclude persons without permission to be in the
+35 facility or otherwise is clearly marked with signs that are reasonably likely
+36 to be seen by another person that indicate entry or unauthorized access or
+*CEB300*
+04-07-2025 11:13:22 CEB300
+As Engrossed: H4/7/25 HB1980
+1 use is limited or restricted or otherwise forbidden without facility
+2 authorization:
+3 (A) A chemical or rubber manufacturing facility;
+4 (B) A water intake structure, water treatment facility,
+5 wastewater facility, drainage facility, water management facility, or any
+6 similar water or sewage treatment system and the water or sewage treatment
+7 system's piping;
+8 (C) A food processing or manufacturing facility;
+9 (D) A natural gas company facility, an underground gas
+10 storage facility, or interstate natural gas pipeline, including without
+11 limitation:
+12 (i) A pipeline interconnection;
+13 (ii) A natural gas compressor station and associated
+14 facility;
+15 (iii) A city gate or town border station;
+16 (iv) A metering station;
+17 (v) Aboveground piping;
+18 (vi) A regulator station;
+19 (vii) A valve site;
+20 (viii) A delivery station; and
+21 (ix) Fabricated assembly and any part of a natural
+22 gas storage facility involved in the gathering, storage, transmission, or
+23 distribution of gas;
+24 (E) Wireline or wireless telecommunications
+25 infrastructure, including telecommunications towers, telephone poles,
+26 telephone lines, and fiber optic lines;
+27 (F) A port, trucking terminal, or other freight
+28 transportation facility;
+29 (G) A gas processing plant, including a gas processing
+30 plant used in the processing, treatment, or fractionation of natural gas or
+31 natural gas liquids;
+32 (H) A crude oil or refined products storage and
+33 distribution facility, including without limitation:
+34 (i) A valve site;
+35 (ii) A pipeline interconnection;
+36 (iii) A pump station;
+2 04-07-2025 11:13:22 CEB300
+As Engrossed: H4/7/25 HB1980
+1 (iv) A metering station;
+2 (v) A belowground or aboveground pipeline or piping;
+3 (vi) A truck loading or off-loading facility; and
+4 (vii) An aboveground portion of a well, well pad, or
+5 production operation;
+6 (I) A laydown area or construction site for pipe and other
+7 equipment intended for use on an interstate or intrastate natural gas or
+8 crude oil pipeline;
+9 (J) A portion of an oil, gas, hazardous liquid, or
+10 chemical pipeline, tank, or other storage facility that is aboveground;
+11 (K) A video service network and broadband infrastructure,
+12 including without limitation:
+13 (i) Associated buildings and facilities;
+14 (ii) Video service headends, towers, utility poles,
+15 and utility lines; and
+16 (iii) Fiber optic lines;
+17 (L) A mining operation, including any processing
+18 equipment, batching operation, or support facility for that mining operation;
+19 (M) A facility installed in a public right-of-way on a
+20 utility pole or in a conduit that is aboveground and concerns a video service
+21 network or broadband or wireless telecommunications infrastructure;
+22 (N) Railroad property; and
+23 (O) Property owned by and considered an electronic asset
+24 of any of the following:
+25 (i) An electric utility;
+26 (ii) An electric cooperative;
+27 (iii) A municipal electric utility;
+28 (iv) A natural gas company that is a public utility;
+29 (v) A telephone company that is a public utility; or
+30 (vi) A video service provider, including a cable
+31 operator; and
+32 (P) An electric vehicle charging station;
+33
+34 /s/Gazaway
+35
+36
+3 04-07-2025 11:13:22 CEB300
+[DELETED:  A   EBL1    A S V " O P   T S T S I  B   S t    S c a   ( f b f t]
+[DELETED:  H2 0 u a    (    ( w s s    (    ( s l     (     ( f     (     (     (     (     (     (     ( g d    ( i t    ( t    ( p n    ( d     (     (     (]
+[DELETED:  H3 0     (     (     (     ( p    ( e c    ( c    ( i     (     ( a     (    ( e    ( u n    (    ( o     (     (     (     (     (     ( o    (  /  ]
+
+
+================================================================================
+
+Raw Text:
+Stricken language would be deleted from and underlined language would be added to present law.
+1 State of Arkansas As Engrossed: H4/7/25
+A Bill
+2 95th General Assembly
+3 Regular Session, 2025 HOUSE BILL 1980
+4
+5 By: Representative Gazaway
+6 By: Senator B. Johnson
+7
+For An Act To Be Entitled
+8
+9 AN ACT T0 CREATE THE TECHNOLOGY AND ENERGY FOR
+10 SUSTAINABLE LOGISTICS ACT (TESLA); TO ADD ELECTRIC
+11 VEHICLE CHARGING STATIONS TO THE DEFINITION OF
+12 "CRITICAL INFRASTRUCTURE" WITH RESPECT TO CRIMINAL
+13 OFFENSES RELATED TO DAMAGE OR DESTRUCTION OF
+14 PROPERTY; AND FOR OTHER PURPOSES.
+15
+16
+Subtitle
+17
+18 TO CREATE THE TECHNOLOGY AND ENERGY FOR
+19 SUSTAINABLE LOGISTICS ACT (TESLA); AND
+20 TO ADD ELECTRIC VEHICLE CHARGING
+21 STATIONS TO THE DEFINITION OF "CRITICAL
+22 INFRASTRUCTURE".
+23
+24 BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF ARKANSAS:
+25
+26 SECTION 1. DO NOT CODIFY. This act shall be known and may be cited as
+27 the "Technology and Energy for Sustainable Logistics Act (TESLA)".
+28
+29 SECTION 2. Arkansas Code § 5-38-101(2), concerning the definition of
+30 critical infrastructure with respect to damage or destruction of property, is
+31 amended to read as follows:
+32 (2) “Critical infrastructure” means any of the following
+33 facilities that are either completely enclosed by a fence or other physical
+34 barrier that is designed to exclude persons without permission to be in the
+35 facility or otherwise is clearly marked with signs that are reasonably likely
+36 to be seen by another person that indicate entry or unauthorized access or
+*CEB300*
+04-07-2025 11:13:22 CEB300
+
+As Engrossed: H4/7/25 HB1980
+1 use is limited or restricted or otherwise forbidden without facility
+2 authorization:
+3 (A) A chemical or rubber manufacturing facility;
+4 (B) A water intake structure, water treatment facility,
+5 wastewater facility, drainage facility, water management facility, or any
+6 similar water or sewage treatment system and the water or sewage treatment
+7 system's piping;
+8 (C) A food processing or manufacturing facility;
+9 (D) A natural gas company facility, an underground gas
+10 storage facility, or interstate natural gas pipeline, including without
+11 limitation:
+12 (i) A pipeline interconnection;
+13 (ii) A natural gas compressor station and associated
+14 facility;
+15 (iii) A city gate or town border station;
+16 (iv) A metering station;
+17 (v) Aboveground piping;
+18 (vi) A regulator station;
+19 (vii) A valve site;
+20 (viii) A delivery station; and
+21 (ix) Fabricated assembly and any part of a natural
+22 gas storage facility involved in the gathering, storage, transmission, or
+23 distribution of gas;
+24 (E) Wireline or wireless telecommunications
+25 infrastructure, including telecommunications towers, telephone poles,
+26 telephone lines, and fiber optic lines;
+27 (F) A port, trucking terminal, or other freight
+28 transportation facility;
+29 (G) A gas processing plant, including a gas processing
+30 plant used in the processing, treatment, or fractionation of natural gas or
+31 natural gas liquids;
+32 (H) A crude oil or refined products storage and
+33 distribution facility, including without limitation:
+34 (i) A valve site;
+35 (ii) A pipeline interconnection;
+36 (iii) A pump station;
+2 04-07-2025 11:13:22 CEB300
+
+As Engrossed: H4/7/25 HB1980
+1 (iv) A metering station;
+2 (v) A belowground or aboveground pipeline or piping;
+3 (vi) A truck loading or off-loading facility; and
+4 (vii) An aboveground portion of a well, well pad, or
+5 production operation;
+6 (I) A laydown area or construction site for pipe and other
+7 equipment intended for use on an interstate or intrastate natural gas or
+8 crude oil pipeline;
+9 (J) A portion of an oil, gas, hazardous liquid, or
+10 chemical pipeline, tank, or other storage facility that is aboveground;
+11 (K) A video service network and broadband infrastructure,
+12 including without limitation:
+13 (i) Associated buildings and facilities;
+14 (ii) Video service headends, towers, utility poles,
+15 and utility lines; and
+16 (iii) Fiber optic lines;
+17 (L) A mining operation, including any processing
+18 equipment, batching operation, or support facility for that mining operation;
+19 (M) A facility installed in a public right-of-way on a
+20 utility pole or in a conduit that is aboveground and concerns a video service
+21 network or broadband or wireless telecommunications infrastructure;
+22 (N) Railroad property; and
+23 (O) Property owned by and considered an electronic asset
+24 of any of the following:
+25 (i) An electric utility;
+26 (ii) An electric cooperative;
+27 (iii) A municipal electric utility;
+28 (iv) A natural gas company that is a public utility;
+29 (v) A telephone company that is a public utility; or
+30 (vi) A video service provider, including a cable
+31 operator; and
+32 (P) An electric vehicle charging station;
+33
+34 /s/Gazaway
+35
+36
+3 04-07-2025 11:13:22 CEB300
+
+[DELETED:  A   EBL1    A S V " O P   T S T S I  B   S t    S c a   ( f b f t]
+[DELETED:  H2 0 u a    (    ( w s s    (    ( s l     (     ( f     (     (     (     (     (     (     ( g d    ( i t    ( t    ( p n    ( d     (     (     (]
+[DELETED:  H3 0     (     (     (     ( p    ( e c    ( c    ( i     (     ( a     (    ( e    ( u n    (    ( o     (     (     (     (     (     ( o    (  /  ]

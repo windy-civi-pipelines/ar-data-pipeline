@@ -1,0 +1,59 @@
+Title: ______________________________________________________________________
+Official Title: ______________________________________________________________________
+Number of Sections: 1
+Source: versions - Amendment H3
+Media Type: application/pdf
+Strikethrough Detection: 1 sections found
+
+================================================================================
+
+Section 1:
+Hall of the House of Representatives
+95th General Assembly - Regular Session, 2025
+Amendment Form
+Subtitle of House Bill 1288
+TO AMEND THE ARKANSAS HEALTH CARE CONSUMER ACT; AND TO REQUIRE A
+HEALTHCARE INSURER TO MAKE CERTAIN RETROACTIVE PAYMENTS TO A
+PROVIDER UPON CREDENTIALING OF A PROVIDER.
+______________________________________________________________________
+Amendment No. 3 to House Bill 1288
+Amend House Bill 1288 as engrossed H2/13/25 (version: 2/13/25 10:28:38 AM):
+Page 1 , delete lines 28 through 33 and substitute the following:
+"section, for payment purposes, a healthcare insurer shall treat an applicant
+physician as a participating physician from the date of submission of a
+substantially completed application once an applicant physician has been
+approved through an insurer's credentialing process."
+*.ANS265*
+The Amendment was read ________________________________________________________________________________
+By: Representative L. Johnson
+ANS/ANS - 02-18-2025 09:36:04 _________________________
+ANS265 Chief Clerk
+[DELETED:  _ CA  ]
+
+
+================================================================================
+
+Raw Text:
+Hall of the House of Representatives
+95th General Assembly - Regular Session, 2025
+Amendment Form
+______________________________________________________________________
+Subtitle of House Bill 1288
+TO AMEND THE ARKANSAS HEALTH CARE CONSUMER ACT; AND TO REQUIRE A
+HEALTHCARE INSURER TO MAKE CERTAIN RETROACTIVE PAYMENTS TO A
+PROVIDER UPON CREDENTIALING OF A PROVIDER.
+______________________________________________________________________
+Amendment No. 3 to House Bill 1288
+Amend House Bill 1288 as engrossed H2/13/25 (version: 2/13/25 10:28:38 AM):
+Page 1 , delete lines 28 through 33 and substitute the following:
+"section, for payment purposes, a healthcare insurer shall treat an applicant
+physician as a participating physician from the date of submission of a
+substantially completed application once an applicant physician has been
+approved through an insurer's credentialing process."
+*.ANS265*
+The Amendment was read ________________________________________________________________________________
+By: Representative L. Johnson
+ANS/ANS - 02-18-2025 09:36:04 _________________________
+ANS265 Chief Clerk
+
+[DELETED:  _ CA  ]

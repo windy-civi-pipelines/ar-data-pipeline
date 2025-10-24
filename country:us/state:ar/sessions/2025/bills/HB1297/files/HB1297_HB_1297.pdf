@@ -1,0 +1,444 @@
+Stricken language would be deleted from and underlined language would be added to present law.
+1 State of Arkansas As Engrossed: H2/27/25
+A Bill
+2 95th General Assembly
+3 Regular Session, 2025 HOUSE BILL 1297
+4
+5 By: Representative L. Johnson
+6 By: Senator Irvin
+7
+For An Act To Be Entitled
+8
+9 AN ACT CONCERNING ARTIFICIAL INTELLIGENCE,
+10 ALGORITHMS, AND OTHER AUTOMATED TECHNOLOGIES; TO
+11 REGULATE CERTAIN PRACTICES OF HEALTHCARE INSURERS;
+12 AND FOR OTHER PURPOSES.
+13
+14
+Subtitle
+15
+16 CONCERNING ARTIFICIAL INTELLIGENCE,
+17 ALGORITHMS, AND OTHER AUTOMATED
+18 TECHNOLOGIES; AND TO REGULATE CERTAIN
+19 PRACTICES OF HEALTHCARE INSURERS.
+20
+21 BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF ARKANSAS:
+22
+23 SECTION 1. Arkansas Code Title 23, Chapter 63, is amended to add an
+24 additional subchapter to read as follows:
+25
+26 Subchapter 21 — Artificial Intelligence, Algorithms, and Other Automated
+27 Technologies
+28
+29 23-63-2101. Definitions.
+30 As used in this subchapter:
+31 (1) "Artificial intelligence" means a machine-based system that
+32 for a given set of human-defined objectives, can make predictions,
+33 recommendations, or decisions influencing real or virtual environments;
+34 (2) "Enrollee" means an individual who is entitled to receive
+35 healthcare services under the terms of a health benefit plan;
+36 (3)(A) "Health benefit plan" means:
+*ANS071*
+02-27-2025 11:07:44 ANS071
+
+As Engrossed: H2/27/25 HB1297
+1 (i) An individual, blanket, or group plan, or a
+2 policy or contract for healthcare services offered, issued, renewed,
+3 delivered, or extended in this state by a healthcare insurer; and
+4 (ii) A health benefit program receiving state or
+5 federal appropriations from the State of Arkansas, including the Arkansas
+6 Medicaid Program and the Arkansas Health and Opportunity for Me Program or
+7 any successor program.
+8 (B) "Health benefit plan" includes indemnity and managed care
+9 plans.
+10 (C) "Health benefit plan" does not include:
+11 (i) A plan that provides only dental benefits or eye
+12 and vision care benefits;
+13 (ii) A disability income plan;
+14 (iii) A credit insurance plan;
+15 (iv) Insurance coverage issued as a supplement to
+16 liability insurance;
+17 (v) A medical payment under an automobile or
+18 homeowners insurance plan;
+19 (vi) A health benefit plan provided under Arkansas
+20 Constitution, Article 5, § 32, the Workers' Compensation Law, § 11-9-101 et
+21 seq., or the Public Employee Workers' Compensation Act, § 21-5-601 et seq.;
+22 (vii) A plan that provides only indemnity for
+23 hospital confinement;
+24 (viii) An accident-only plan;
+25 (ix) A specified disease plan;
+26 (x) A long-term-care-only plan; or
+27 (xi) A nonfederal governmental plan as defined in 29
+28 U.S.C. § 1002(32), as it existed on January 1, 2025;
+29 (4)(A) "Healthcare insurer" means an insurance company, hospital
+30 and medical service corporation, or health maintenance organization that
+31 issues or delivers health benefit plans in this state and is subject to:
+32 (i) The insurance laws of this state;
+33 (ii) Section 23-75-101 et seq., pertaining to
+34 hospital and medical service corporations; or
+35 (iii) Section 23-76-101 et seq., pertaining to
+36 health maintenance organizations.
+2 02-27-2025 11:07:44 ANS071
+
+As Engrossed: H2/27/25 HB1297
+1 (B) "Healthcare insurer" does not include an entity that
+2 provides only dental benefits or eye and vision care benefits;
+3 (5) "Healthcare provider" means a type of provider that renders
+4 healthcare services to patients for compensation, including a doctor of
+5 medicine or another licensed healthcare professional acting within the
+6 professional's licensed scope of practice; and
+7 (6) "Managed care entity" means an insurance company, hospital
+8 or medical service plan, healthcare provider network, physician hospital
+9 organization, health maintenance organization, healthcare service
+10 corporation, employer or employee organization, or managed care contractor.
+11
+12 23-63-2102. Disclosure of algorithm use — Privacy and data
+13 accessibility.
+14 (a)(1) On and after January 1, 2026, a healthcare insurer that offers,
+15 issues, renews, delivers, or extends a health benefit plan in this state
+16 shall disclose to the following through an applied model card the strengths
+17 and limitations of artificial intelligence-based algorithms, including
+18 without limitation known biases, performance variability, and populations
+19 where artificial based-intelligence algorithms are more less effective, used
+20 or to be used in the healthcare insurer's utilization review process:
+21 (A) The Insurance Commissioner;
+22 (B) A healthcare provider in the healthcare insurer's
+23 network;
+24 (C) An enrollee; and
+25 (D) The general public on the healthcare insurer's
+26 publicly accessible website.
+27 (2) The disclosure under subdivision (a)(1) of this section
+28 shall include:
+29 (A) The algorithm criteria;
+30 (B) Data sets used to train the algorithm, including
+31 mitigation of any known bias;
+32 (C) The algorithm itself;
+33 (D) A description of how the algorithm is used in an
+34 applied use case;
+35 (E) The outcomes of the software or workflow in which the
+36 algorithm is used; and
+3 02-27-2025 11:07:44 ANS071
+
+As Engrossed: H2/27/25 HB1297
+1 (F) Any results of independent third-party validation for
+2 improved transparency and trustworthiness.
+3 (b) A healthcare insurer shall ensure that:
+4 (1) An algorithm should leverage federated data-sharing models
+5 to minimize data centralization and protect enrollee privacy;
+6 (2) An algorithm is compliant with national interoperability
+7 standards, including Fast Healthcare Interoperability Resources and the
+8 United States Core Data for Interoperability;
+9 (3) Enrollee data that is used for training or validation of
+10 artificial intelligence models are following privacy and security standards
+11 that align with the Trusted Exchange Framework and Common Agreement; and
+12 (4) Established mechanisms document and obtain explicit enrollee
+13 consent for using health data in artificial development and validation.
+14
+15 23-63-2103. Explanation of artificial intelligence-based algorithm
+16 recommendations.
+17 (a) If artificial intelligence-based algorithms are used in the
+18 utilization review process, the artificial intelligence-based algorithm
+19 recommendations shall be supported by an explanation, understandable at all
+20 literacy levels, of the rationale used by the healthcare insurer-operated
+21 algorithm or system used in making a recommendation to deny, delay, or modify
+22 healthcare services covered under a health benefit plan.
+23 (b)(1) A healthcare insurer using an automated decision-making system
+24 shall identify and cite peer-reviewed studies assessing the automated
+25 decision-making system's accuracy measured against enrollee outcomes and the
+26 validity of automated decision-making systems.
+27 (2) The peer-reviewed studies under subdivision (b)(1) of this
+28 section shall be concordant or based on easily accessible evidence-based
+29 clinical guidelines, as opposed to proprietary healthcare insurer criteria.
+30 (3) An enrollee shall be provided a process for contesting
+31 enrollee outcomes.
+32
+33 23-63-2104. Clinician supervision of artificial intelligence.
+34 (a) A healthcare insurer shall not make a decision regarding the care
+35 of enrollees based solely on the results derived from the use or application
+36 of artificial intelligence.
+4 02-27-2025 11:07:44 ANS071
+
+As Engrossed: H2/27/25 HB1297
+1 (b) A healthcare provider who participates in a utilization review
+2 process for a healthcare insurer that initially uses artificial intelligence-
+3 based algorithms for a utilization review determination shall:
+4 (1) Ensure that a utilization review entity guarantees that an
+5 initial adverse prior authorization determination or appeal of an adverse
+6 prior authorization determination or precertification determination is
+7 reviewed by a healthcare provider who:
+8 (A) Possesses a current and valid nonrestricted license to
+9 practice medicine in this state;
+10 (B) Has experience treating patients with the medical
+11 condition or disease for which the healthcare service or supply is being
+12 requested under initial prior authorization determination or appeal;
+13 (C) Is not employed by a utilization review entity, is not
+14 under contract with a utilization review entity other than to participate in
+15 one (1) or more of the utilization review entity’s healthcare provider
+16 networks or to perform reviews of appeals, and does not otherwise have a
+17 financial interest in the outcome of the appeal;
+18 (D) Has not been directly involved in making the adverse
+19 determination; and
+20 (E)(i) Has considered known clinical aspects of the
+21 healthcare service under review, including without limitation:
+22 (a) A review of pertinent medical records
+23 provided to the utilization review entity by the enrollee’s healthcare
+24 provider;
+25 (b) Relevant records provided to the
+26 utilization review entity by a healthcare facility; and
+27 (c) Medical literature provided to the
+28 utilization review entity by the healthcare provider.
+29 (ii) If the decision is an adverse determination,
+30 the healthcare provider shall complete and sign the denial notice, providing
+31 the required information described under this subdivision (b)(1); and
+32 (2) Open and document the review of the individual clinical
+33 records or data before the individualized documented decision of a denial.
+34 (c) The healthcare insurer shall submit to the Insurance Commissioner,
+35 in the form and manner as the commissioner may require, data on the amount of
+36 time a human reviewer spends examining an adverse organizational
+5 02-27-2025 11:07:44 ANS071
+
+As Engrossed: H2/27/25 HB1297
+1 determination before signing off on each denial under subsection (b) of this
+2 section.
+3 (d) An artificial intelligence-based algorithm shall not be the sole
+4 basis of a decision to deny, delay, or modify healthcare services based in
+5 whole or in part on medical necessity.
+6 (e) An adverse determination of medical necessity shall be made only
+7 by a healthcare provider or a licensed healthcare professional competent to
+8 evaluate the specific clinical issues involved in the healthcare services
+9 requested by the healthcare provider as required under subdivision (b)(1) of
+10 this section, by reviewing and considering the requesting healthcare
+11 provider's recommendation, the enrollee's medical or other clinical history,
+12 as applicable, and individual clinical circumstances.
+13 (f) A healthcare insurer that uses clinical supervision of artificial
+14 intelligence under this section shall provide ongoing education and
+15 certification, if applicable, for a clinician reviewing artificial
+16 intelligence determinations to ensure the clinician's ability to critically
+17 assess artificial intelligence outputs.
+18
+19 23-63-2105. State audit automated utilization management system.
+20 (a) The Insurance Commissioner may audit at any time a healthcare
+21 insurer's automated utilization management system.
+22 (b) The commissioner may contract with a third-party entity to perform
+23 an audit under subsection (a) of this section.
+24 (c) A healthcare insurer that uses an automated decision-making system
+25 shall:
+26 (1) Engage in a regular system audit to ensure use of the
+27 automated decision-making system is not increasing overall or disparate
+28 claims denials or coverage limitations or otherwise decreasing access to
+29 care; and
+30 (2) Publish statistics regarding the automated decision-making
+31 systems’ approval, denial, and appeal rates on the payor's website or another
+32 publicly available website in a readily accessible format with enrollee
+33 population demographics to report and contextualize equity implications of
+34 automated decisions.
+35
+36 23-63-2106. Use of artificial intelligence to shift coverage
+6 02-27-2025 11:07:44 ANS071
+
+As Engrossed: H2/27/25 HB1297
+1 prohibited.
+2 (a) A healthcare insurer shall:
+3 (1) Reference publicly accessible internal coverage criteria
+4 that are based on current evidence in widely used treatment guidelines or
+5 clinical literature; or
+6 (2) Use artificial intelligence-based algorithms solely to
+7 implement internal coverage criteria that have been made public and adopted
+8 in compliance with this subchapter.
+9 (b) A healthcare insurer shall not use artificial intelligence-based
+10 algorithms that:
+11 (1) Rely on any information not in compliance with this section;
+12 or
+13 (2) Independently change or create coverage criteria.
+14
+15 23-63-2107. Quality assurance testing of artificial intelligence.
+16 (a)(1) A healthcare insurer shall establish an ongoing, biannual
+17 quality assurance testing process that meets requirements established by rule
+18 by the Insurance Commissioner that specify defined parameters on safety and
+19 efficacy of an artificial intelligence-based algorithm.
+20 (2) The requirements under subdivision (a)(1) of this section
+21 shall meet standardized benchmarks or definitions achieved by consensus-
+22 building at a national level.
+23 (b) A healthcare insurer shall ensure that the artificial
+24 intelligence-based algorithms used in the quality assurance testing process
+25 under subsection (a) of this section are consistent with state and federal
+26 antidiscrimination laws and meet certain parameters of safety and fairness.
+27 (c) A healthcare insurer shall submit the results of the quality
+28 assurance testing under subsection (a) of this section to the commissioner at
+29 the time and in the form and manner as the commissioner may specify, but not
+30 less frequently than semiannually.
+31 (d) The results submitted under subsection (c) of this section shall
+32 be published on a public website within thirty (30) days of the submission of
+33 the results to the commissioner.
+34 (e) Any quality assurance testing shall include:
+35 (1) Validation for generalizability as well as mechanisms to
+36 support local site testing, where necessary, and on-site monitoring
+7 02-27-2025 11:07:44 ANS071
+
+As Engrossed: H2/27/25 HB1297
+1 applicability for artificial intelligence solutions to ensure safety,
+2 robustness, adaptability, and fairness; and
+3 (2) Testing based on the risk level of the model’s intended use,
+4 with higher-risk applications requiring more rigorous evaluation and
+5 monitoring.
+6 (f)(1) A healthcare insurer shall build capabilities for generating
+7 and curating real-world evidence to ensure artificial intelligence-based
+8 algorithms are tested for the highest standards for safety, accuracy, and
+9 reliability to identify potential risks.
+10 (2) All artificial intelligence solutions shall undergo
+11 benchmarking against standardized metrics approved by the commissioner,
+12 including without limitation safety, efficacy, and reliability in
+13 representative enrollee populations from Arkansas.
+14 (g) Quality assurance testing datasets under this section shall:
+15 (1) Be multi-institutional and representative of Arkansas’s
+16 demographic makeup;
+17 (2) Explain data provenance and origin;
+18 (3) Contain relevant characteristics pertaining to the
+19 artificial intelligence being used; and
+20 (4) Be updated regularly to ensure the highest quality data is
+21 used at all times.
+22 (h) The commissioner shall allocate resources to federally qualified
+23 health centers, critical access hospitals, and rural clinics in this state to
+24 enable participation in quality assurance testing.
+25
+26 23-63-2108. Healthcare insurer requirements.
+27 (a) Except as provided in subsection (b) of this section, this
+28 subchapter applies to a healthcare insurer offering a health benefit plan in
+29 this state.
+30 (b) This subchapter does not apply to a managed care entity or
+31 healthcare service contractor that is:
+32 (1) Majority-owned or controlled by a nonprofit hospital,
+33 hospital system, or managed care entity; or
+34 (2) A nonprofit legal entity under 26 U.S.C. § 501(c) that
+35 provides a majority of covered professional services in a specific geographic
+36 area through employed healthcare providers or a single contracted medical
+8 02-27-2025 11:07:44 ANS071
+
+As Engrossed: H2/27/25 HB1297
+1 group.
+2
+3 23-63-2109. Enforcement — Penalties.
+4 If the Insurance Commissioner determines that a healthcare insurer is
+5 not in compliance with this subchapter, the commissioner may impose:
+6 (1) A penalty, including without limitation:
+7 (A) A civil money penalty of not more than twenty-five
+8 thousand dollars ($25,000) for each determination of noncompliance;
+9 (B) A civil money penalty of not more than ten thousand
+10 dollars ($10,000) for each week beginning on and after the date on which a
+11 civil money penalty under subdivision (a)(1)(A) of this section is imposed by
+12 the commissioner during which the deficiency that is the basis of a
+13 determination of noncompliance exists; and
+14 (C) Suspension of enrollment of individuals in health
+15 benefit plans offered by the healthcare insurer on and after the date the
+16 commissioner notifies the healthcare insurer of a determination of
+17 noncompliance and until the commissioner is satisfied that the basis for the
+18 determination has been corrected and is not likely to recur;
+19 (2) Administrative fees, including a fee charged or allocated
+20 for collection activities conducted by the commissioner that will be passed
+21 on to a health benefit plan on a pro-rata basis and added to a civil money
+22 penalty under subdivision (a)(1) of this section collected from the health
+23 benefit plan;
+24 (3) If the commissioner determines that a healthcare provider or
+25 enrollee was adversely affected by the noncompliance of the healthcare
+26 insurer, an amount necessary to compensate the healthcare provider or
+27 enrollee for the harm attributable to the noncompliance that is not otherwise
+28 compensated and may require the healthcare insurer to pay the amount,
+29 including appropriate interest, to the healthcare provider or enrollee in
+30 addition to any other penalties under this section; or
+31 (4) Any other remedy available to the commissioner under state
+32 law.
+33
+34 23-63-2110. No waiver, modification, or nullification by contract.
+35 (a) Except as provided in subsection (b) of this section, a writing or
+36 other agreement shall not contain a provision that constitutes a waiver,
+9 02-27-2025 11:07:44 ANS071
+
+As Engrossed: H2/27/25 HB1297
+1 modification, or nullification of a requirement or remedy under this
+2 subchapter.
+3 (b) This section does not prohibit a writing or other agreement that
+4 grants to a healthcare provider more protection or remedy than contained in
+5 this subchapter or a waiver given in settlement of a dispute or action.
+6
+7 23-63-2111. Private right of action.
+8 (a) The Attorney General may bring a civil action in an appropriate
+9 court for declaratory or injunctive relief as is necessary to carry out this
+10 subchapter.
+11 (b) A person who is aggrieved by a violation of this subchapter may
+12 provide written notice of the violation to the Insurance Commissioner.
+13 (c) If the violation of this subchapter is not corrected within ninety
+14 (90) days after receipt of a notice under subsection (b) of this section, the
+15 aggrieved person may bring a civil action in an appropriate court for
+16 declaratory or injunctive relief with respect to the violation.
+17 (d) In a civil action under this section, the court may allow the
+18 prevailing party, other than the state, reasonable attorney's fees, including
+19 litigation expenses, and costs.
+20
+21 23-63-2112. Education artificial intelligence tools.
+22 The Insurance Commissioner may:
+23 (1) Collaborate with academic institutions and healthcare
+24 organizations to establish training programs for ethical artificial
+25 intelligence deployment; and
+26 (2) Fund public-private partnerships to create education
+27 initiatives for a healthcare provider to use artificial intelligence tools.
+28
+29 23-63-2113. Rules.
+30 The Insurance Commissioner shall promulgate rules to:
+31 (1) Strengthen oversight and enforcement of existing rules to
+32 ensure health benefit plan compliance with applicable legal and contractual
+33 requirements for coverage and appeals;
+34 (2) Ensure compliance with quality and performance standards;
+35 (3) Ensure that health benefit plan compliance with this
+36 subchapter is not eroded by using artificial intelligence tools, including
+10 02-27-2025 11:07:44 ANS071
+
+As Engrossed: H2/27/25 HB1297
+1 auto-denial software;
+2 (4) Include continuous post-deployment monitoring of artificial
+3 intelligence to ensure models maintain efficacy and safety; and
+4 (5) Establish a process for biannual reporting and public
+5 disclosure of quality assurance outcomes.
+6
+7 /s/L. Johnson
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+11 02-27-2025 11:07:44 ANS071
+
+[DELETED:  A   EBL1     A A R A   C A T P  B   S a  S T   2  A   ( f r   ( h   (]
+[DELETED:  H2 0     ( p d     ( f M a ( p    (     ( a     (     (     ( l     ( h     ( C s     ( h     (     (     (     ( U   ( a i     (     ( h     ( h]
+[DELETED:  H3 0    ( p   ( h m p   ( o o c   2 a  ( i s a w w o    (    ( n    (    ( p   ( s    (    ( m    (    ( a    ( a]
+[DELETED:  H4 0    ( i  (   ( t   ( s U   ( a t   ( c   2 r  ( u r l a h  ( s d v   ( s c   ( e   2  ( o o]
+[DELETED:  H5 0  ( p b   ( i p r    ( p    ( c r    ( u o n f    ( d    ( h      ( p p      ( u      ( u     ( t t   ( r  ( i t]
+[DELETED:  H6 0 d s  ( b w  ( b e r t p a  ( i c i a   2  ( i  ( a  ( s   ( a c c   ( s p p a   2]
+[DELETED:  H7 0 p  (   ( t c   ( i i  ( a   ( o   (   2  ( q b e   ( s b  ( i u a  ( a t l  ( b t  (   ( s]
+[DELETED:  H8 0 a r   ( w m  ( a a r   ( b i r  (   ( d   (   ( a   ( u  ( h e   2  ( s t  ( h   ( h   ( p a]
+[DELETED:  H9 0 g   2  I n   (    ( t    ( d c t d    ( b c n d   ( f o p b   ( e i e c i a   ( l   2  ( o]
+[DELETED:  H1 0 m s  ( g t   2  ( c s  ( p  ( ( a d  ( p l   2  T   ( o i   ( i   2  T   ( e r   (   ( s]
+[DELETED:  H1 0 a   ( i   ( d  /                             ]

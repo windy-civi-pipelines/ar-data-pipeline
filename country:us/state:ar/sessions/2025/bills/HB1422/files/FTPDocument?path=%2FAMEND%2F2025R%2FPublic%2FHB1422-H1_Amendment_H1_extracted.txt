@@ -1,0 +1,505 @@
+Title: ________________________________________________________________
+Official Title: ________________________________________________________________
+Number of Sections: 18
+Source: versions - Amendment H1
+Media Type: application/pdf
+Strikethrough Detection: 7 sections found
+
+================================================================================
+
+Section 1:
+Hall of the House of Representatives
+95th General Assembly - Regular Session, 2025
+Amendment Form
+______
+Subtitle of House Bill 1422
+TO CREATE THE ONLY CITIZENS VOTE ACT; TO AMEND THE LAW CONCERNING THE
+DRIVER'S LICENSES OF CERTAIN NONCITIZENS; AND TO AMEND ARKANSAS
+CONSTITUTION, AMENDMENT 51, SECTION 13.
+________________________________________________________________
+______
+Amendment No. 1 to House Bill 1422
+Amend House Bill 1422 as originally introduced:
+Page 1, delete lines 9 through 17, and substitute the following:
+"AN ACT TO CREATE THE ONLY CITIZENS VOTE ACT; TO MODIFY THE CONTENTS OF
+DRIVER'S LICENSES AND IDENTIFICATION CARDS; TO AMEND THE CONTENTS OF A
+DRIVER'S LICENSE OR IDENTIFICATION CARD FOR CERTAIN NONCITIZENS; TO CREATE A
+TRAINING REQUIREMENT FOR ELECTION OFFICIALS REGARDING THE DRIVER'S LICENSES
+OR IDENTIFICATION CARDS OF CERTAIN NONCITIZENS; TO AMEND ARKANSAS
+CONSTITUTION, AMENDMENT 51, SECTION 13; AND FOR OTHER PURPOSES."
+AND
+Delete the subtitle in its entirety, and substitute the following:
+"TO CREATE THE ONLY CITIZENS VOTE ACT; TO
+AMEND THE LAW CONCERNING THE DRIVER'S
+LICENSES AND IDENTIFICATION CARDS OF
+CERTAIN NONCITIZENS; AND TO AMEND
+ARKANSAS CONSTITUTION, AMENDMENT 51,
+
+Section 2:
+SECTION 13."
+*.ZRC056*
+ZRC056 - 03-06-2025 11:33:50 Page 1 of 7
+AND
+Delete everything after the enacting clause, and substitute the following:
+"SECTION 1. DO NOT CODIFY. Title.
+This act shall be known and may be cited as the "Only Citizens Vote
+Act".
+
+Section 3:
+SECTION 2. Under the authority permitted under Arkansas Constitution,
+Amendment 51, § 19, Arkansas Constitution, Amendment 51, § 13(b)(1)(C),
+concerning verification of voter registration, is amended to read as follows:
+(C) Documents and identification cards that comply with
+the requirements of subdivision (b)(1)(A) of this section include without
+limitation:
+(i) A driver's license, except as provided by
+Arkansas Code § 27-16-801(b)(2)(C);
+(ii) A photo identification card, except as provided
+by Arkansas Code § 27-16-805(e)(2);
+(iii) A concealed handgun carry license;
+(iv) A United States passport;
+(v) An employee badge or identification document
+issued by an accredited postsecondary educational institution in the State of
+Arkansas;
+(vi)(iv) A United States military identification
+document; and
+(vii) A public assistance identification card if the
+card shows a photograph of the person to whom the document or identification
+card was issued; and
+(viii)(v) A voter verification card under Arkansas
+Code § 7-5-324.
+
+Section 4:
+SECTION 3. Arkansas Code § 7-1-101(40)(C)(i)—(viii), concerning the
+documents and identification cards that meet the definition of "verification
+of voter registration" used in relation to elections, is amended to read as
+follows:
+(i) A driver's license, except as provided under §
+ZRC056 - 03-06-2025 11:33:50 Amendment No. 1 to House Bill 1422 Page 2 of 7
+27-16-801(b)(2)(C);
+(ii) A photo identification card, except as provided
+under § 27-16-805(e)(2);
+(iii) A concealed handgun carry license;
+(iv) A United States passport;
+(v) An employee badge or identification document
+issued by an accredited postsecondary educational institution in the State of
+Arkansas;
+(vi)(iv) A United States Armed Forces identification
+document; and
+(vii) A public assistance identification card if the
+card shows a photograph of the person to whom the document or identification
+card was issued; and
+(viii)(v) A voter verification card under § 7-5-324;
+
+Section 5:
+SECTION 4. Arkansas Code § 7-4-109(e)(2)(D), concerning the
+qualifications of state and county election commissioners, election
+officials, poll workers, and certified election monitors, is amended to read
+as follows:
+(D)(i) The State Board of Election Commissioners shall
+promulgate rules under the Arkansas Administrative Procedure Act, § 25-15-201
+et seq., concerning the training requirements, materials, and examination of
+essential skills.
+(ii) The training required under subdivision
+(e)(2)(D)(i) of this section shall include instruction on recognizing and
+refusing a driver's license under § 27-16-801(b)(2)(C) or an identification
+card under § 27-16-805(e)(2) that is not valid for voter identification
+purposes.
+
+Section 6:
+SECTION 5. Arkansas Code Title 7, Chapter 5, Subchapter 1, is amended
+to add an additional section to read as follows:
+7-5-113. Reporting of persons holding noncitizen driver's license or
+identification card.
+(a) The Secretary of the Department of Finance and Administration
+shall prepare and deliver to the Secretary of State a monthly report listing
+the names and identifying information of each person holding a driver's
+ZRC056 - 03-06-2025 11:33:50 Amendment No. 1 to House Bill 1422 Page 3 of 7
+license issued under § 27-16-801(a)(1)(C) or an identification card under §
+27-16-805(b)(1)(D).
+(b)(1)(A) Upon receipt of the report prepared under subsection (a) of
+this section, the Secretary of State shall verify if any person listed in the
+report is listed in the voter registration record files maintained by the
+Secretary of State.
+(B) The Secretary of State may use any database available
+to the office of the Secretary of State to assist in the verification of the
+citizenship of a person listed in the report prepared under subdivision (a)
+of this section.
+(2) If a person listed in the report prepared under subsection
+(a) of this section is found to be registered as a voter in the Secretary of
+State's voter registration record files:
+(A) The Secretary of State shall notify the county clerk
+of the county in which the person is registered to vote of the identity of
+the person;
+(B) A county clerk who receives notification under
+subdivision (b)(2)(A) of this section shall cancel the registration to vote
+of the person identified under subdivision (b)(2)(A) of this section; and
+(C) The Secretary of State shall refer to the Attorney
+General for prosecution the person who was found to be registered as a voter
+in the Secretary of State's voter registration files under subdivision (b)(2)
+of this section.
+(c)(1) The Secretary of State shall provide written notice to a person
+who has had his or her registration to vote canceled under subdivision (b)(2)
+of this section that the Secretary of State found that the person was not a
+citizen of the United States, that the person possessed a driver's license
+issued under § 27-16-801(a)(1)(C) or an identification card issued under §
+27-16-805(b)(1)(D), that the person was referred to the Attorney General for
+prosecution, and that the person's registration to vote was canceled.
+(2) The written notice provided under subdivision (c)(1) of this
+
+Section 7:
+section shall inform the person that if he or she wishes to contest the
+findings of the Secretary of State under subdivision (c)(1) of this section
+he or she may provide evidence or documentary proof of United States
+citizenship to the Secretary of State.
+(d) The Secretary of State shall promulgate rules to implement this
+ZRC056 - 03-06-2025 11:33:50 Amendment No. 1 to House Bill 1422 Page 4 of 7
+
+Section 8:
+section, including without limitation rules to contest a finding under
+subdivision (c)(2) of this section.
+
+Section 9:
+SECTION 6. Arkansas Code § 27-16-801(a)(1), concerning the types of
+licenses that may be issued by the Office of Driver Services, is amended to
+add an additional subdivision to read as follows:
+(C) A license issued to a person who is not a citizen of
+the United States shall expire no later than:
+(i) The expiration date of the documentary evidence
+of person's lawful status in the United States provided under § 27-16-
+1105(a)(1)(D)(ii)—(xi); or
+(ii) The period provided for under § 27-16-1111.
+
+Section 10:
+SECTION 7. Arkansas Code § 27-16-801(b)(1), concerning the contents
+required to be contained on the face of a driver's license, is amended to add
+an additional subdivision to read as follows:
+(C) A license issued under subdivision (a)(1)(C) of this
+
+Section 11:
+section shall clearly display on its face the phrase "Limited Term" or
+"Limited-Term".
+
+Section 12:
+SECTION 8. Arkansas Code § 27-16-801(b)(2)(C), concerning the purposes
+for which a driver's license is valid, is amended to read as follows:
+(C)(i) A license issued under subdivision (a)(1)(C) or
+subdivision (b)(2)(B) of this section is not valid for:
+(a) Federal identification purposes; or
+(b) Voter identification purposes.
+(ii) The license issued under subdivision (a)(1)(C)
+or subdivision (b)(2)(B) of this section shall clearly display on its face
+the phrase “Not valid for federal identification purposes or voter
+identification purposes”.
+
+Section 13:
+SECTION 9. Arkansas Code § 27-16-801(e), concerning the administrative
+requirements for the issuance of a driver's license, is amended to add an
+additional subdivision to read as follows:
+(6) A license issued under subdivision (a)(1)(C) of this section
+shall be:
+ZRC056 - 03-06-2025 11:33:50 Amendment No. 1 to House Bill 1422 Page 5 of 7
+(A) Distinctive in appearance from the regular driver's
+license issued to a person who is twenty-one (21) years of age or older; and
+(B) Printed in a vertical or portrait format.
+
+Section 14:
+SECTION 10. Arkansas Code § 27-16-805(b), concerning the issuance of
+identification cards, is amended to add an additional subdivision to read as
+follows:
+(3) If the applicant is not a citizen of the United States and
+provided evidence of his or her lawful status in the United States under §
+27-16-1105(a)(1)(D)(ii)—(xi), the identification card shall expire no later
+than:
+(A) The expiration date of the documentary evidence of
+person's lawful status in the United States provided under § 27-16-
+1105(a)(1)(D)(ii)—(xi); or
+(B) The period provided for under § 27-16-1112.
+
+Section 15:
+SECTION 11. Arkansas Code § 27-16-805(c), concerning the issuance of
+identification cards, is amended to read as follows:
+(c)(1) Except as provided in subsection (e) of this section, each
+identification card shall contain:
+(1)(A) A color photograph of the applicant;
+(2)(B) A physical description of the applicant;
+(3)(C) The birthdate of the applicant;
+(4)(D) The address of the applicant;
+(5)(E) The date of issue; and
+(6)(F) The expiration date.
+(2) If the applicant is not a citizen of the United States and
+has provided evidence of his or her lawful status in the United States under
+
+Section 16:
+§ 27-16-1105(a)(1)(D)(ii)—(xi), the identification card shall:
+(A) Be distinctive in appearance from an identification
+card issued to a citizen of the United States;
+(B) Clearly display on its face the phrase "Limited Term"
+or "Limited-Term"; and
+(C) Be printed in a vertical or portrait format.
+
+Section 17:
+SECTION 12. Arkansas Code § 27-16-805(e)(2), concerning the issuance
+ZRC056 - 03-06-2025 11:33:50 Amendment No. 1 to House Bill 1422 Page 6 of 7
+of identification cards is amended to read as follows:
+(2)(A) An identification card issued under subdivision (b)(1)(C)
+or subdivision (e)(1) of this section is not valid for:
+(i) Federal identification purposes; or
+(ii) Voter identification purposes.
+(B) The identification card issued under subdivision
+(b)(1)(C) or subdivision (e)(1) of this section shall clearly display on its
+face the phrase “Not valid for federal identification purposes or voter
+identification purposes”.
+
+Section 18:
+SECTION 13. EFFECTIVE DATE. Sections 1-12 of this act are effective
+on and after January 1, 2026."
+The Amendment was read ________________________________________________________________________________
+By: Representative Long
+ZRC/ZRC - 03-06-2025 11:33:50 _________________________
+ZRC056 Chief Clerk
+ZRC056 - 03-06-2025 11:33:50 Amendment No. 1 to House Bill 1422 Page 7 of 7
+[DELETED:  PA  ]
+[DELETED:  P"TS      (   (   (   (   (   (   (   (S   (]
+[DELETED:  P   (   (   (   (   (   (    S  (   (S7(]
+[DELETED:  P(  ( (  (  (  (( ((]
+[DELETED:  PS  (   (   (S  (S  (    (    (   (S (]
+[DELETED:  P  (  (S (  (  (S(  (  (  (  (  (  ( (  (  (  (S]
+[DELETED:  P (   (   (  ( S _ C]
+
+
+================================================================================
+
+Raw Text:
+Hall of the House of Representatives
+95th General Assembly - Regular Session, 2025
+Amendment Form
+________________________________________________________________
+______
+Subtitle of House Bill 1422
+TO CREATE THE ONLY CITIZENS VOTE ACT; TO AMEND THE LAW CONCERNING THE
+DRIVER'S LICENSES OF CERTAIN NONCITIZENS; AND TO AMEND ARKANSAS
+CONSTITUTION, AMENDMENT 51, SECTION 13.
+________________________________________________________________
+______
+Amendment No. 1 to House Bill 1422
+Amend House Bill 1422 as originally introduced:
+Page 1, delete lines 9 through 17, and substitute the following:
+"AN ACT TO CREATE THE ONLY CITIZENS VOTE ACT; TO MODIFY THE CONTENTS OF
+DRIVER'S LICENSES AND IDENTIFICATION CARDS; TO AMEND THE CONTENTS OF A
+DRIVER'S LICENSE OR IDENTIFICATION CARD FOR CERTAIN NONCITIZENS; TO CREATE A
+TRAINING REQUIREMENT FOR ELECTION OFFICIALS REGARDING THE DRIVER'S LICENSES
+OR IDENTIFICATION CARDS OF CERTAIN NONCITIZENS; TO AMEND ARKANSAS
+CONSTITUTION, AMENDMENT 51, SECTION 13; AND FOR OTHER PURPOSES."
+AND
+Delete the subtitle in its entirety, and substitute the following:
+"TO CREATE THE ONLY CITIZENS VOTE ACT; TO
+AMEND THE LAW CONCERNING THE DRIVER'S
+LICENSES AND IDENTIFICATION CARDS OF
+CERTAIN NONCITIZENS; AND TO AMEND
+ARKANSAS CONSTITUTION, AMENDMENT 51,
+SECTION 13."
+*.ZRC056*
+ZRC056 - 03-06-2025 11:33:50 Page 1 of 7
+
+AND
+Delete everything after the enacting clause, and substitute the following:
+"SECTION 1. DO NOT CODIFY. Title.
+This act shall be known and may be cited as the "Only Citizens Vote
+Act".
+SECTION 2. Under the authority permitted under Arkansas Constitution,
+Amendment 51, § 19, Arkansas Constitution, Amendment 51, § 13(b)(1)(C),
+concerning verification of voter registration, is amended to read as follows:
+(C) Documents and identification cards that comply with
+the requirements of subdivision (b)(1)(A) of this section include without
+limitation:
+(i) A driver's license, except as provided by
+Arkansas Code § 27-16-801(b)(2)(C);
+(ii) A photo identification card, except as provided
+by Arkansas Code § 27-16-805(e)(2);
+(iii) A concealed handgun carry license;
+(iv) A United States passport;
+(v) An employee badge or identification document
+issued by an accredited postsecondary educational institution in the State of
+Arkansas;
+(vi)(iv) A United States military identification
+document; and
+(vii) A public assistance identification card if the
+card shows a photograph of the person to whom the document or identification
+card was issued; and
+(viii)(v) A voter verification card under Arkansas
+Code § 7-5-324.
+SECTION 3. Arkansas Code § 7-1-101(40)(C)(i)—(viii), concerning the
+documents and identification cards that meet the definition of "verification
+of voter registration" used in relation to elections, is amended to read as
+follows:
+(i) A driver's license, except as provided under §
+ZRC056 - 03-06-2025 11:33:50 Amendment No. 1 to House Bill 1422 Page 2 of 7
+
+27-16-801(b)(2)(C);
+(ii) A photo identification card, except as provided
+under § 27-16-805(e)(2);
+(iii) A concealed handgun carry license;
+(iv) A United States passport;
+(v) An employee badge or identification document
+issued by an accredited postsecondary educational institution in the State of
+Arkansas;
+(vi)(iv) A United States Armed Forces identification
+document; and
+(vii) A public assistance identification card if the
+card shows a photograph of the person to whom the document or identification
+card was issued; and
+(viii)(v) A voter verification card under § 7-5-324;
+SECTION 4. Arkansas Code § 7-4-109(e)(2)(D), concerning the
+qualifications of state and county election commissioners, election
+officials, poll workers, and certified election monitors, is amended to read
+as follows:
+(D)(i) The State Board of Election Commissioners shall
+promulgate rules under the Arkansas Administrative Procedure Act, § 25-15-201
+et seq., concerning the training requirements, materials, and examination of
+essential skills.
+(ii) The training required under subdivision
+(e)(2)(D)(i) of this section shall include instruction on recognizing and
+refusing a driver's license under § 27-16-801(b)(2)(C) or an identification
+card under § 27-16-805(e)(2) that is not valid for voter identification
+purposes.
+SECTION 5. Arkansas Code Title 7, Chapter 5, Subchapter 1, is amended
+to add an additional section to read as follows:
+7-5-113. Reporting of persons holding noncitizen driver's license or
+identification card.
+(a) The Secretary of the Department of Finance and Administration
+shall prepare and deliver to the Secretary of State a monthly report listing
+the names and identifying information of each person holding a driver's
+ZRC056 - 03-06-2025 11:33:50 Amendment No. 1 to House Bill 1422 Page 3 of 7
+
+license issued under § 27-16-801(a)(1)(C) or an identification card under §
+27-16-805(b)(1)(D).
+(b)(1)(A) Upon receipt of the report prepared under subsection (a) of
+this section, the Secretary of State shall verify if any person listed in the
+report is listed in the voter registration record files maintained by the
+Secretary of State.
+(B) The Secretary of State may use any database available
+to the office of the Secretary of State to assist in the verification of the
+citizenship of a person listed in the report prepared under subdivision (a)
+of this section.
+(2) If a person listed in the report prepared under subsection
+(a) of this section is found to be registered as a voter in the Secretary of
+State's voter registration record files:
+(A) The Secretary of State shall notify the county clerk
+of the county in which the person is registered to vote of the identity of
+the person;
+(B) A county clerk who receives notification under
+subdivision (b)(2)(A) of this section shall cancel the registration to vote
+of the person identified under subdivision (b)(2)(A) of this section; and
+(C) The Secretary of State shall refer to the Attorney
+General for prosecution the person who was found to be registered as a voter
+in the Secretary of State's voter registration files under subdivision (b)(2)
+of this section.
+(c)(1) The Secretary of State shall provide written notice to a person
+who has had his or her registration to vote canceled under subdivision (b)(2)
+of this section that the Secretary of State found that the person was not a
+citizen of the United States, that the person possessed a driver's license
+issued under § 27-16-801(a)(1)(C) or an identification card issued under §
+27-16-805(b)(1)(D), that the person was referred to the Attorney General for
+prosecution, and that the person's registration to vote was canceled.
+(2) The written notice provided under subdivision (c)(1) of this
+section shall inform the person that if he or she wishes to contest the
+findings of the Secretary of State under subdivision (c)(1) of this section
+he or she may provide evidence or documentary proof of United States
+citizenship to the Secretary of State.
+(d) The Secretary of State shall promulgate rules to implement this
+ZRC056 - 03-06-2025 11:33:50 Amendment No. 1 to House Bill 1422 Page 4 of 7
+
+section, including without limitation rules to contest a finding under
+subdivision (c)(2) of this section.
+SECTION 6. Arkansas Code § 27-16-801(a)(1), concerning the types of
+licenses that may be issued by the Office of Driver Services, is amended to
+add an additional subdivision to read as follows:
+(C) A license issued to a person who is not a citizen of
+the United States shall expire no later than:
+(i) The expiration date of the documentary evidence
+of person's lawful status in the United States provided under § 27-16-
+1105(a)(1)(D)(ii)—(xi); or
+(ii) The period provided for under § 27-16-1111.
+SECTION 7. Arkansas Code § 27-16-801(b)(1), concerning the contents
+required to be contained on the face of a driver's license, is amended to add
+an additional subdivision to read as follows:
+(C) A license issued under subdivision (a)(1)(C) of this
+section shall clearly display on its face the phrase "Limited Term" or
+"Limited-Term".
+SECTION 8. Arkansas Code § 27-16-801(b)(2)(C), concerning the purposes
+for which a driver's license is valid, is amended to read as follows:
+(C)(i) A license issued under subdivision (a)(1)(C) or
+subdivision (b)(2)(B) of this section is not valid for:
+(a) Federal identification purposes; or
+(b) Voter identification purposes.
+(ii) The license issued under subdivision (a)(1)(C)
+or subdivision (b)(2)(B) of this section shall clearly display on its face
+the phrase “Not valid for federal identification purposes or voter
+identification purposes”.
+SECTION 9. Arkansas Code § 27-16-801(e), concerning the administrative
+requirements for the issuance of a driver's license, is amended to add an
+additional subdivision to read as follows:
+(6) A license issued under subdivision (a)(1)(C) of this section
+shall be:
+ZRC056 - 03-06-2025 11:33:50 Amendment No. 1 to House Bill 1422 Page 5 of 7
+
+(A) Distinctive in appearance from the regular driver's
+license issued to a person who is twenty-one (21) years of age or older; and
+(B) Printed in a vertical or portrait format.
+SECTION 10. Arkansas Code § 27-16-805(b), concerning the issuance of
+identification cards, is amended to add an additional subdivision to read as
+follows:
+(3) If the applicant is not a citizen of the United States and
+provided evidence of his or her lawful status in the United States under §
+27-16-1105(a)(1)(D)(ii)—(xi), the identification card shall expire no later
+than:
+(A) The expiration date of the documentary evidence of
+person's lawful status in the United States provided under § 27-16-
+1105(a)(1)(D)(ii)—(xi); or
+(B) The period provided for under § 27-16-1112.
+SECTION 11. Arkansas Code § 27-16-805(c), concerning the issuance of
+identification cards, is amended to read as follows:
+(c)(1) Except as provided in subsection (e) of this section, each
+identification card shall contain:
+(1)(A) A color photograph of the applicant;
+(2)(B) A physical description of the applicant;
+(3)(C) The birthdate of the applicant;
+(4)(D) The address of the applicant;
+(5)(E) The date of issue; and
+(6)(F) The expiration date.
+(2) If the applicant is not a citizen of the United States and
+has provided evidence of his or her lawful status in the United States under
+§ 27-16-1105(a)(1)(D)(ii)—(xi), the identification card shall:
+(A) Be distinctive in appearance from an identification
+card issued to a citizen of the United States;
+(B) Clearly display on its face the phrase "Limited Term"
+or "Limited-Term"; and
+(C) Be printed in a vertical or portrait format.
+SECTION 12. Arkansas Code § 27-16-805(e)(2), concerning the issuance
+ZRC056 - 03-06-2025 11:33:50 Amendment No. 1 to House Bill 1422 Page 6 of 7
+
+of identification cards is amended to read as follows:
+(2)(A) An identification card issued under subdivision (b)(1)(C)
+or subdivision (e)(1) of this section is not valid for:
+(i) Federal identification purposes; or
+(ii) Voter identification purposes.
+(B) The identification card issued under subdivision
+(b)(1)(C) or subdivision (e)(1) of this section shall clearly display on its
+face the phrase “Not valid for federal identification purposes or voter
+identification purposes”.
+SECTION 13. EFFECTIVE DATE. Sections 1-12 of this act are effective
+on and after January 1, 2026."
+The Amendment was read ________________________________________________________________________________
+By: Representative Long
+ZRC/ZRC - 03-06-2025 11:33:50 _________________________
+ZRC056 Chief Clerk
+ZRC056 - 03-06-2025 11:33:50 Amendment No. 1 to House Bill 1422 Page 7 of 7
+
+[DELETED:  PA  ]
+[DELETED:  P"TS      (   (   (   (   (   (   (   (S   (]
+[DELETED:  P   (   (   (   (   (   (    S  (   (S7(]
+[DELETED:  P(  ( (  (  (  (( ((]
+[DELETED:  PS  (   (   (S  (S  (    (    (   (S (]
+[DELETED:  P  (  (S (  (  (S(  (  (  (  (  (  ( (  (  (  (S]
+[DELETED:  P (   (   (  ( S _ C]

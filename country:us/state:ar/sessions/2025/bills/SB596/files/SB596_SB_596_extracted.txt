@@ -1,0 +1,733 @@
+Title: Stricken language would be deleted from and underlined language would be added to present law.
+Official Title: Stricken language would be deleted from and underlined language would be added to present law.
+Number of Sections: 1
+Source: versions - SB 596
+Media Type: application/pdf
+Strikethrough Detection: 9 sections found
+
+================================================================================
+
+Section 1:
+1 State of Arkansas As Engrossed: S4/7/25 S4/14/25
+A Bill
+2 95th General Assembly
+3 Regular Session, 2025 SENATE BILL 596
+4
+5 By: Senator M. McKee
+6 By: Representative McAlindon
+7
+For An Act To Be Entitled
+8
+9 AN ACT TO AMEND THE LAW REGARDING ENERGY; TO
+10 ESTABLISH A STATE ENERGY POLICY; TO REGULATE
+11 RETIREMENT OF DISPATCHABLE ELECTRIC GENERATION
+12 FACILITIES; TO DECLARE AN EMERGENCY; AND FOR OTHER
+13 PURPOSES.
+14
+15
+Subtitle
+16
+17 TO AMEND THE LAW REGARDING ENERGY; TO
+18 ESTABLISH A STATE ENERGY POLICY; TO
+19 REGULATE RETIREMENT OF DISPATCHABLE
+20 ELECTRIC GENERATION FACILITIES; AND TO
+21 DECLARE AN EMERGENCY.
+22
+23 BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF ARKANSAS:
+24
+25 SECTION 1. Arkansas Code Title 15, Chapter 10, Subchapter 1, is
+26 amended to add an additional section to read as follows:
+27 15-10-103. State energy policy.
+28 (a) It is the policy of this state that the state shall have an
+29 adequate, affordable, reliable, dispatchable, secure, and resilient electric
+30 generation and transmission system.
+31 (b) To further the policy described in subsection (a) of this section,
+32 the state shall seek to:
+33 (1) Remove policy barriers to the development of a diverse
+34 electric generation portfolio;
+35 (2) Maintain a regulatory environment that fosters growth and
+36 innovation sufficient to meet the state's growing demand for energy while
+*ANS459*
+04-14-2025 19:32:40 ANS459
+As Engrossed: S4/7/25 S4/14/25 SB596
+1 contributing to the regional and national energy supply, thereby reducing
+2 dependence on international energy sources; and
+3 (3) Promote resources, tools, and infrastructure to enhance the
+4 state's ability to:
+5 (A) Respond effectively to significant disruptions to the
+6 state's energy generation, energy delivery systems, or fuel supplies for
+7 energy;
+8 (B) Maintain an adequate supply of energy resources,
+9 including without limitation proven and cost-effective dispatchable electric
+10 generation to meet power grid demand; and
+11 (C) Ensure the state's energy independence by removing
+12 policy barriers to the use of energy resources generated within the state.
+13 (c) The state shall seek to:
+14 (1) Promote the development of a secure supply chain from
+15 resource extraction to energy production and consumption;
+16 (2) Maintain an environment that provides for stable consumer
+17 prices that are as low as possible while providing producers and suppliers a
+18 reasonable return on investment, recognizing that economic prosperity is
+19 linked to the availability, reliability, and affordability of consumer energy
+20 supplies; and
+21 (3) Promote training and education programs focused on
+22 developing a comprehensive understanding of energy, including without
+23 limitation:
+24 (A) Programs addressing:
+25 (i) Energy conservation;
+26 (ii) Energy efficiency;
+27 (iii) Energy supply and demand; and
+28 (iv) Energy-related workforce development; and
+29 (B) Energy education programs in kindergarten through
+30 grade twelve (K-12).
+31 (d)(1) State regulatory processes regarding energy should be
+32 streamlined to balance the economic costs of the regulation with the level of
+33 review necessary to ensure protection of the state's various interests.
+34 (2) When federal action regarding energy is required, the state
+35 shall encourage expedited federal action and collaborate with United States
+36 Government agencies to expedite review.
+2 04-14-2025 19:32:40 ANS459
+As Engrossed: S4/7/25 S4/14/25 SB596
+1 (e) A state agency is encouraged to conduct state agency activities
+2 consistent with this section.
+3
+4 SECTION 2. Arkansas Code Title 23, Chapter 18, is amended to add an
+5 additional subchapter to read as follows:
+6 Subchapter 13 — Retirement of Dispatchable Electric Generation Facilities
+7
+8 23-18-1301. Legislative findings.
+9 The General Assembly finds that:
+10 (1) The long-term economic health and well-being of Arkansas
+11 residents depends upon the availability and affordability of reliable sources
+12 of energy;
+13 (2) Arkansas has abundant reserves of natural gas and other
+14 natural resources;
+15 (3) The current economy and future economic development of
+16 Arkansas requires reliable, resilient, dispatchable, secure, and abundant
+17 supplies of electrical power;
+18 (4) The demand for reliable, resilient, dispatchable electrical
+19 power is anticipated to significantly increase in the coming decades as
+20 Arkansas becomes home to additional manufacturing and other economic
+21 development projects that increase demand for electrical power;
+22 (5) It is in the interest of this state that it be able to
+23 generate sufficient electricity within its borders to serve its own
+24 industrial, residential, and commercial demand and to power the state's own
+25 economy;
+26 (6) The electrification of the United States' economy combined
+27 with unprecedented federal regulatory pressures have created an electric
+28 generation resource crisis;
+29 (7) Existing state and federal policies with respect to energy
+30 do not adequately address the concerns of the General Assembly or Arkansas
+31 residents such that a comprehensive state energy policy is required;
+32 (8) Current policies at the state and federal level do not
+33 adequately assess capacity, availability, reliability, or resilience of
+34 existing and new dispatchable, nuclear, or other emerging electric generating
+35 resources;
+36 (9) Retirement of dispatchable electric generating resources is
+3 04-14-2025 19:32:40 ANS459
+As Engrossed: S4/7/25 S4/14/25 SB596
+1 not necessary for the protection of the environment or the health, safety,
+2 and welfare of the residents of this state;
+3 (10) The health, happiness, safety, economic opportunity, and
+4 general welfare of Arkansas residents will be promoted and protected by the
+5 operation of dispatchable electric generating resources and, conversely,
+6 those interests would be harmed by the premature retirement of those
+7 generating resources;
+8 (11) Arkansas can support a multitude of potential electric
+9 generating resources and energy fuel supply sources so as to be a national
+10 leader in the production of energy in all forms;
+11 (12) Local economic development is essential to the health,
+12 happiness, safety, and general welfare of the residents of this state; and
+13 (13) Local economic development requires an adequate supply of
+14 electricity to support new and expanding industries and is enhanced by robust
+15 employment at electric generating facilities, the local job multiplier effect
+16 of employment in the natural gas and electric generating industries, and
+17 state and local taxes and other forms of economic value creation for this
+18 state.
+19
+20 23-18-1302. Definitions.
+21 As used in this subchapter:
+22 (1) “Dispatchable” means a source of electrical power generation
+23 or biomass energy that is:
+24 (A) Available on demand;
+25 (B) Not intermittent; and
+26 (C) Can either:
+27 (i) Be adjusted to increase or decrease its power
+28 output upon request of a power grid operator or otherwise upon demand or
+29 request of a power grid operator; or
+30 (ii) Have its power output adjusted in response to
+31 market or system needs;
+32 (2) "Dispatchable electric generation facility" means a facility
+33 that uses water, coal, natural gas, geothermal, biomass, or nuclear power, or
+34 a combination of equivalent fuels and technologies to generate dispatchable,
+35 reliable electricity to provide to end users;
+36 (3) "Electric generation asset" means a plant, facility,
+4 04-14-2025 19:32:40 ANS459
+As Engrossed: S4/7/25 S4/14/25 SB596
+1 equipment, or system that converts nonelectrical energy into electricity;
+2 (4) "Intermittent" means:
+3 (A) A source of electrical power generation from a solar
+4 photovoltaic, solar thermal heating, concentrating solar thermal collector,
+5 or other solar energy collection or generation system;
+6 (B) A source of electrical power that generates energy by
+7 harnessing wind power or energy, whether through a turbine or other device;
+8 (C) Anaerobic digestion or combined heat and power from
+9 solar, wind, or anaerobic digestion sources;
+10 (D) Any short-duration energy storage, which includes any
+11 method of storing generated electricity for later dispatch to the power grid,
+12 whether alone or in conjunction with any other intermittent sources described
+13 in this subdivision (4), that is equivalent to less than forty-eight (48)
+14 hours of the average peak generation of the unit the short-duration energy
+15 storage is used to offset; and
+16 (E) Conventional hydropower and pumped storage hydropower,
+17 unless they are capable of providing energy on demand, in which case they
+18 shall be deemed to be dispatchable;
+19 (5) “Public utility” means the same as defined in § 23-1-101;
+20 (6) "Reliability" means having adequate dispatchable electric
+21 generation capacity to safely deliver electrical energy in the quantity, with
+22 the quality, and at a time that public utility customers demand;
+23 (7) "Resilience" means having the ability to quickly and
+24 effectively respond to and recover from events that compromise power grid
+25 reliability;
+26 (8) "Retirement" means the closure or the complete and permanent
+27 cessation of operations of a dispatchable electric generation facility; and
+28 (9) "Secure" means to harden to a reasonable extent against an
+29 attack, including a cyberattack or a kinetic attack, or an extreme weather
+30 event.
+31
+32 23-18-1303. Retirement of dispatchable electric generation facilities.
+33 (a)(1) Notwithstanding any provision of law to the contrary, the
+34 Arkansas Public Service Commission may approve or deny the retirement of a
+35 dispatchable electric generation facility owned by a public utility.
+36 (2) Before retiring a dispatchable electric generation facility,
+5 04-14-2025 19:32:40 ANS459
+As Engrossed: S4/7/25 S4/14/25 SB596
+1 a public utility shall:
+2 (A) Apply to the commission for an order approving the
+3 retirement; and
+4 (B) Give the commission thirty-days' notice of the
+5 application.
+6 (3) The application shall include a statement certifying the
+7 applicant's compliance with the requirements of this subchapter.
+8 (4) The commission shall enter an order within one hundred
+9 eighty (180) days of receiving an administratively complete application to
+10 approve the application for retirement to:
+11 (A) Approve the application for retirement;
+12 (B) Approve the application for retirement with
+13 conditions; or
+14 (C) Deny the application for retirement.
+15 (b)(1) There is a rebuttable presumption against the retirement of a
+16 dispatchable electric generation facility.
+17 (2) The commission shall not approve the retirement of a
+18 dispatchable electric generation facility, authorize a surcharge for the
+19 decommissioning of the dispatchable electric generation facility, or take any
+20 other action that authorizes or allows for the recovery of costs for the
+21 retirement of a dispatchable electric generation facility, including without
+22 limitation any stranded asset recovery, unless the presumption under
+23 subdivision (b)(1) of this section is rebutted by evidence sufficient for the
+24 commission to find that the retirement is in the public interest, including
+25 without limitation evidence that:
+26 (A) The public utility will replace the retired
+27 dispatchable electric generation facility with new electric generation assets
+28 that:
+29 (i) Are dispatchable by either the public utility or
+30 the regional transmission organization or independent system operator
+31 responsible for balancing load within the public utility's service area;
+32 (ii) Maintain or improve the reliability and
+33 resilience of the power grid;
+34 (iii) Maintain the minimum reserve capacity
+35 requirement established by the public utility's reliability coordinator; and
+36 (iv) Have the same or higher capacity value and net
+6 04-14-2025 19:32:40 ANS459
+As Engrossed: S4/7/25 S4/14/25 SB596
+1 capability, unless the public utility can demonstrate that the capacity value
+2 and net capability is not necessary to provide reliable service;
+3 (B) The retirement will not harm the public utility's
+4 ratepayers by causing the public utility to incur any net incremental costs
+5 to be recovered from ratepayers that could be avoided by continuing to
+6 operate the dispatchable electric generation facility proposed for retirement
+7 in compliance with applicable law;
+8 (C) The decision to retire the dispatchable electric
+9 generation facility is not the result of any financial incentives or benefits
+10 offered by a United States Government agency; and
+11 (D) The public utility will not commence retirement or
+12 decommissioning of the electric generating unit until the replacement
+13 generating capacity meeting the requirements of subdivision (b)(2)(A) of this
+14 section is fully constructed, permitted, and in operation, unless the public
+15 utility can demonstrate that it is necessary under the circumstances to
+16 commence retirement or decommissioning of the existing electric generating
+17 unit earlier.
+18 (c) At a minimum, the public utility shall provide the commission with
+19 evidence of all known direct and indirect costs of retiring the dispatchable
+20 electric generation facility and demonstrate that cost savings will result to
+21 customers as a result of the retirement of the dispatchable electric
+22 generation facility.
+23 (d)(1) Under the commission's report under § 23-18-1104, the
+24 commission shall prepare and submit an annual supplemental report to the
+25 Joint Committee on Energy no later than December 1 of each year in which the
+26 commission issues an order on an application under this subchapter.
+27 (2) The annual supplemental report required under subdivision
+28 (d)(1) of this section shall include:
+29 (A) The number of applications by public utilities to
+30 retire dispatchable electric generation facilities, the nameplate capacity of
+31 each of the dispatchable electric generation facilities, and whether the
+32 application was approved, approved with conditions, or denied;
+33 (B) The impact of any commission-approved retirement or
+34 retirement with conditions of a dispatchable electric generation facility on
+35 the:
+36 (i) State's electric generation fuel mix;
+7 04-14-2025 19:32:40 ANS459
+As Engrossed: S4/7/25 S4/14/25 SB596
+1 (ii) Required capacity reserve margins for the
+2 public utility;
+3 (iii) Need for capacity additions or expansions at
+4 new or existing facilities as a result of the retirement; and
+5 (iv) Need for additional purchase power or capacity
+6 reserve arrangements; and
+7 (C) Whether or not the retirement or retirement with
+8 conditions resulted in stranded costs for the ratepayer that will be
+9 recovered by the public utility through a surcharge or some other separate
+10 charge on the ratepayer's bill.
+11 (e) This section is applicable to a dispatchable electric generation
+12 facility that is one hundred megawatts (100 MW) or larger located in
+13 Arkansas.
+14 (f) This subchapter does not apply to the retirement or repowering of
+15 a dispatchable electric generation facility under any settlement, consent
+16 decree, or other resolution of any litigation or legal proceeding executed or
+17 ordered before the effective date of this subchapter.
+18
+19 SECTION 3. EMERGENCY CLAUSE. It is found and determined by the
+20 General Assembly of the State of Arkansas that the continued unabated
+21 retirement of needed electric generating resources threatens to harm
+22 employment, tax revenue, and utility rates and is creating a crisis with
+23 respect to the state's ability to meet current and projected future energy
+24 demands; that this act will manage the retirement of needed electric
+25 generating resources for this state; and that this act is immediately
+26 necessary because continued electric generating resources are necessary for
+27 employment, tax revenue, and regular utility rates. Therefore, an emergency
+28 is declared to exist, and this act being immediately necessary for the
+29 preservation of the public peace, health, and safety shall become effective
+30 on:
+31 (1) The date of its approval by the Governor;
+32 (2) If the bill is neither approved nor vetoed by the Governor,
+33 the expiration of the period of time during which the Governor may veto the
+34 bill; or
+35 (3) If the bill is vetoed by the Governor and the veto is
+36 overridden, the date the last house overrides the veto.
+8 04-14-2025 19:32:40 ANS459
+As Engrossed: S4/7/25 S4/14/25 SB596
+1
+2 /s/M. McKee
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+9 04-14-2025 19:32:40 ANS459
+[DELETED:  A   EBL5     A E R F P   T E R E D  B   S a  1  ( a g  ( t   ( e   ( i]
+[DELETED:  S2 0 c d   ( s    ( s e    ( i g    ( p  (   ( r   ( p r l s   ( d l    (     (     (     (     (    ( g  ( s r   ( s G]
+[DELETED:  S3 0  ( c   S a S   2  T   ( r o   ( n   ( A s   ( p A d   ( g i e   ( w g   ( d r   ( a e r   (]
+[DELETED:  S4 0 n a   ( g o t g   ( g l   ( h   ( e e o s s   2  A   ( o    (    (    (     ( o r     ( m   ( t a r   (]
+[DELETED:  S5 0 e   (    ( p o    ( h    ( s    ( m w i h s    ( u s   (   ( g t   ( e r   ( c   ( a e   2  ( A d   (]
+[DELETED:  S6 0 a    ( r    ( a   ( a   ( e a    (    ( c    (  ( d   ( d d o r l s c w    ( d t     ( t r     ( r     ( r     (]
+[DELETED:  S7 0 c a    ( r t o i    ( g o    ( d g s u c u  ( e e c g  ( c J c   ( (    ( r e a    ( r t     (]
+[DELETED:  S8 0     ( p     ( n     ( r    ( c r c  ( f A  ( a d o   S G r e r d g n e i p o   (   ( t b   ( o]
+[DELETED:  S9 0  /                                  ]
+
+
+================================================================================
+
+Raw Text:
+Stricken language would be deleted from and underlined language would be added to present law.
+1 State of Arkansas As Engrossed: S4/7/25 S4/14/25
+A Bill
+2 95th General Assembly
+3 Regular Session, 2025 SENATE BILL 596
+4
+5 By: Senator M. McKee
+6 By: Representative McAlindon
+7
+For An Act To Be Entitled
+8
+9 AN ACT TO AMEND THE LAW REGARDING ENERGY; TO
+10 ESTABLISH A STATE ENERGY POLICY; TO REGULATE
+11 RETIREMENT OF DISPATCHABLE ELECTRIC GENERATION
+12 FACILITIES; TO DECLARE AN EMERGENCY; AND FOR OTHER
+13 PURPOSES.
+14
+15
+Subtitle
+16
+17 TO AMEND THE LAW REGARDING ENERGY; TO
+18 ESTABLISH A STATE ENERGY POLICY; TO
+19 REGULATE RETIREMENT OF DISPATCHABLE
+20 ELECTRIC GENERATION FACILITIES; AND TO
+21 DECLARE AN EMERGENCY.
+22
+23 BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF ARKANSAS:
+24
+25 SECTION 1. Arkansas Code Title 15, Chapter 10, Subchapter 1, is
+26 amended to add an additional section to read as follows:
+27 15-10-103. State energy policy.
+28 (a) It is the policy of this state that the state shall have an
+29 adequate, affordable, reliable, dispatchable, secure, and resilient electric
+30 generation and transmission system.
+31 (b) To further the policy described in subsection (a) of this section,
+32 the state shall seek to:
+33 (1) Remove policy barriers to the development of a diverse
+34 electric generation portfolio;
+35 (2) Maintain a regulatory environment that fosters growth and
+36 innovation sufficient to meet the state's growing demand for energy while
+*ANS459*
+04-14-2025 19:32:40 ANS459
+
+As Engrossed: S4/7/25 S4/14/25 SB596
+1 contributing to the regional and national energy supply, thereby reducing
+2 dependence on international energy sources; and
+3 (3) Promote resources, tools, and infrastructure to enhance the
+4 state's ability to:
+5 (A) Respond effectively to significant disruptions to the
+6 state's energy generation, energy delivery systems, or fuel supplies for
+7 energy;
+8 (B) Maintain an adequate supply of energy resources,
+9 including without limitation proven and cost-effective dispatchable electric
+10 generation to meet power grid demand; and
+11 (C) Ensure the state's energy independence by removing
+12 policy barriers to the use of energy resources generated within the state.
+13 (c) The state shall seek to:
+14 (1) Promote the development of a secure supply chain from
+15 resource extraction to energy production and consumption;
+16 (2) Maintain an environment that provides for stable consumer
+17 prices that are as low as possible while providing producers and suppliers a
+18 reasonable return on investment, recognizing that economic prosperity is
+19 linked to the availability, reliability, and affordability of consumer energy
+20 supplies; and
+21 (3) Promote training and education programs focused on
+22 developing a comprehensive understanding of energy, including without
+23 limitation:
+24 (A) Programs addressing:
+25 (i) Energy conservation;
+26 (ii) Energy efficiency;
+27 (iii) Energy supply and demand; and
+28 (iv) Energy-related workforce development; and
+29 (B) Energy education programs in kindergarten through
+30 grade twelve (K-12).
+31 (d)(1) State regulatory processes regarding energy should be
+32 streamlined to balance the economic costs of the regulation with the level of
+33 review necessary to ensure protection of the state's various interests.
+34 (2) When federal action regarding energy is required, the state
+35 shall encourage expedited federal action and collaborate with United States
+36 Government agencies to expedite review.
+2 04-14-2025 19:32:40 ANS459
+
+As Engrossed: S4/7/25 S4/14/25 SB596
+1 (e) A state agency is encouraged to conduct state agency activities
+2 consistent with this section.
+3
+4 SECTION 2. Arkansas Code Title 23, Chapter 18, is amended to add an
+5 additional subchapter to read as follows:
+6 Subchapter 13 — Retirement of Dispatchable Electric Generation Facilities
+7
+8 23-18-1301. Legislative findings.
+9 The General Assembly finds that:
+10 (1) The long-term economic health and well-being of Arkansas
+11 residents depends upon the availability and affordability of reliable sources
+12 of energy;
+13 (2) Arkansas has abundant reserves of natural gas and other
+14 natural resources;
+15 (3) The current economy and future economic development of
+16 Arkansas requires reliable, resilient, dispatchable, secure, and abundant
+17 supplies of electrical power;
+18 (4) The demand for reliable, resilient, dispatchable electrical
+19 power is anticipated to significantly increase in the coming decades as
+20 Arkansas becomes home to additional manufacturing and other economic
+21 development projects that increase demand for electrical power;
+22 (5) It is in the interest of this state that it be able to
+23 generate sufficient electricity within its borders to serve its own
+24 industrial, residential, and commercial demand and to power the state's own
+25 economy;
+26 (6) The electrification of the United States' economy combined
+27 with unprecedented federal regulatory pressures have created an electric
+28 generation resource crisis;
+29 (7) Existing state and federal policies with respect to energy
+30 do not adequately address the concerns of the General Assembly or Arkansas
+31 residents such that a comprehensive state energy policy is required;
+32 (8) Current policies at the state and federal level do not
+33 adequately assess capacity, availability, reliability, or resilience of
+34 existing and new dispatchable, nuclear, or other emerging electric generating
+35 resources;
+36 (9) Retirement of dispatchable electric generating resources is
+3 04-14-2025 19:32:40 ANS459
+
+As Engrossed: S4/7/25 S4/14/25 SB596
+1 not necessary for the protection of the environment or the health, safety,
+2 and welfare of the residents of this state;
+3 (10) The health, happiness, safety, economic opportunity, and
+4 general welfare of Arkansas residents will be promoted and protected by the
+5 operation of dispatchable electric generating resources and, conversely,
+6 those interests would be harmed by the premature retirement of those
+7 generating resources;
+8 (11) Arkansas can support a multitude of potential electric
+9 generating resources and energy fuel supply sources so as to be a national
+10 leader in the production of energy in all forms;
+11 (12) Local economic development is essential to the health,
+12 happiness, safety, and general welfare of the residents of this state; and
+13 (13) Local economic development requires an adequate supply of
+14 electricity to support new and expanding industries and is enhanced by robust
+15 employment at electric generating facilities, the local job multiplier effect
+16 of employment in the natural gas and electric generating industries, and
+17 state and local taxes and other forms of economic value creation for this
+18 state.
+19
+20 23-18-1302. Definitions.
+21 As used in this subchapter:
+22 (1) “Dispatchable” means a source of electrical power generation
+23 or biomass energy that is:
+24 (A) Available on demand;
+25 (B) Not intermittent; and
+26 (C) Can either:
+27 (i) Be adjusted to increase or decrease its power
+28 output upon request of a power grid operator or otherwise upon demand or
+29 request of a power grid operator; or
+30 (ii) Have its power output adjusted in response to
+31 market or system needs;
+32 (2) "Dispatchable electric generation facility" means a facility
+33 that uses water, coal, natural gas, geothermal, biomass, or nuclear power, or
+34 a combination of equivalent fuels and technologies to generate dispatchable,
+35 reliable electricity to provide to end users;
+36 (3) "Electric generation asset" means a plant, facility,
+4 04-14-2025 19:32:40 ANS459
+
+As Engrossed: S4/7/25 S4/14/25 SB596
+1 equipment, or system that converts nonelectrical energy into electricity;
+2 (4) "Intermittent" means:
+3 (A) A source of electrical power generation from a solar
+4 photovoltaic, solar thermal heating, concentrating solar thermal collector,
+5 or other solar energy collection or generation system;
+6 (B) A source of electrical power that generates energy by
+7 harnessing wind power or energy, whether through a turbine or other device;
+8 (C) Anaerobic digestion or combined heat and power from
+9 solar, wind, or anaerobic digestion sources;
+10 (D) Any short-duration energy storage, which includes any
+11 method of storing generated electricity for later dispatch to the power grid,
+12 whether alone or in conjunction with any other intermittent sources described
+13 in this subdivision (4), that is equivalent to less than forty-eight (48)
+14 hours of the average peak generation of the unit the short-duration energy
+15 storage is used to offset; and
+16 (E) Conventional hydropower and pumped storage hydropower,
+17 unless they are capable of providing energy on demand, in which case they
+18 shall be deemed to be dispatchable;
+19 (5) “Public utility” means the same as defined in § 23-1-101;
+20 (6) "Reliability" means having adequate dispatchable electric
+21 generation capacity to safely deliver electrical energy in the quantity, with
+22 the quality, and at a time that public utility customers demand;
+23 (7) "Resilience" means having the ability to quickly and
+24 effectively respond to and recover from events that compromise power grid
+25 reliability;
+26 (8) "Retirement" means the closure or the complete and permanent
+27 cessation of operations of a dispatchable electric generation facility; and
+28 (9) "Secure" means to harden to a reasonable extent against an
+29 attack, including a cyberattack or a kinetic attack, or an extreme weather
+30 event.
+31
+32 23-18-1303. Retirement of dispatchable electric generation facilities.
+33 (a)(1) Notwithstanding any provision of law to the contrary, the
+34 Arkansas Public Service Commission may approve or deny the retirement of a
+35 dispatchable electric generation facility owned by a public utility.
+36 (2) Before retiring a dispatchable electric generation facility,
+5 04-14-2025 19:32:40 ANS459
+
+As Engrossed: S4/7/25 S4/14/25 SB596
+1 a public utility shall:
+2 (A) Apply to the commission for an order approving the
+3 retirement; and
+4 (B) Give the commission thirty-days' notice of the
+5 application.
+6 (3) The application shall include a statement certifying the
+7 applicant's compliance with the requirements of this subchapter.
+8 (4) The commission shall enter an order within one hundred
+9 eighty (180) days of receiving an administratively complete application to
+10 approve the application for retirement to:
+11 (A) Approve the application for retirement;
+12 (B) Approve the application for retirement with
+13 conditions; or
+14 (C) Deny the application for retirement.
+15 (b)(1) There is a rebuttable presumption against the retirement of a
+16 dispatchable electric generation facility.
+17 (2) The commission shall not approve the retirement of a
+18 dispatchable electric generation facility, authorize a surcharge for the
+19 decommissioning of the dispatchable electric generation facility, or take any
+20 other action that authorizes or allows for the recovery of costs for the
+21 retirement of a dispatchable electric generation facility, including without
+22 limitation any stranded asset recovery, unless the presumption under
+23 subdivision (b)(1) of this section is rebutted by evidence sufficient for the
+24 commission to find that the retirement is in the public interest, including
+25 without limitation evidence that:
+26 (A) The public utility will replace the retired
+27 dispatchable electric generation facility with new electric generation assets
+28 that:
+29 (i) Are dispatchable by either the public utility or
+30 the regional transmission organization or independent system operator
+31 responsible for balancing load within the public utility's service area;
+32 (ii) Maintain or improve the reliability and
+33 resilience of the power grid;
+34 (iii) Maintain the minimum reserve capacity
+35 requirement established by the public utility's reliability coordinator; and
+36 (iv) Have the same or higher capacity value and net
+6 04-14-2025 19:32:40 ANS459
+
+As Engrossed: S4/7/25 S4/14/25 SB596
+1 capability, unless the public utility can demonstrate that the capacity value
+2 and net capability is not necessary to provide reliable service;
+3 (B) The retirement will not harm the public utility's
+4 ratepayers by causing the public utility to incur any net incremental costs
+5 to be recovered from ratepayers that could be avoided by continuing to
+6 operate the dispatchable electric generation facility proposed for retirement
+7 in compliance with applicable law;
+8 (C) The decision to retire the dispatchable electric
+9 generation facility is not the result of any financial incentives or benefits
+10 offered by a United States Government agency; and
+11 (D) The public utility will not commence retirement or
+12 decommissioning of the electric generating unit until the replacement
+13 generating capacity meeting the requirements of subdivision (b)(2)(A) of this
+14 section is fully constructed, permitted, and in operation, unless the public
+15 utility can demonstrate that it is necessary under the circumstances to
+16 commence retirement or decommissioning of the existing electric generating
+17 unit earlier.
+18 (c) At a minimum, the public utility shall provide the commission with
+19 evidence of all known direct and indirect costs of retiring the dispatchable
+20 electric generation facility and demonstrate that cost savings will result to
+21 customers as a result of the retirement of the dispatchable electric
+22 generation facility.
+23 (d)(1) Under the commission's report under § 23-18-1104, the
+24 commission shall prepare and submit an annual supplemental report to the
+25 Joint Committee on Energy no later than December 1 of each year in which the
+26 commission issues an order on an application under this subchapter.
+27 (2) The annual supplemental report required under subdivision
+28 (d)(1) of this section shall include:
+29 (A) The number of applications by public utilities to
+30 retire dispatchable electric generation facilities, the nameplate capacity of
+31 each of the dispatchable electric generation facilities, and whether the
+32 application was approved, approved with conditions, or denied;
+33 (B) The impact of any commission-approved retirement or
+34 retirement with conditions of a dispatchable electric generation facility on
+35 the:
+36 (i) State's electric generation fuel mix;
+7 04-14-2025 19:32:40 ANS459
+
+As Engrossed: S4/7/25 S4/14/25 SB596
+1 (ii) Required capacity reserve margins for the
+2 public utility;
+3 (iii) Need for capacity additions or expansions at
+4 new or existing facilities as a result of the retirement; and
+5 (iv) Need for additional purchase power or capacity
+6 reserve arrangements; and
+7 (C) Whether or not the retirement or retirement with
+8 conditions resulted in stranded costs for the ratepayer that will be
+9 recovered by the public utility through a surcharge or some other separate
+10 charge on the ratepayer's bill.
+11 (e) This section is applicable to a dispatchable electric generation
+12 facility that is one hundred megawatts (100 MW) or larger located in
+13 Arkansas.
+14 (f) This subchapter does not apply to the retirement or repowering of
+15 a dispatchable electric generation facility under any settlement, consent
+16 decree, or other resolution of any litigation or legal proceeding executed or
+17 ordered before the effective date of this subchapter.
+18
+19 SECTION 3. EMERGENCY CLAUSE. It is found and determined by the
+20 General Assembly of the State of Arkansas that the continued unabated
+21 retirement of needed electric generating resources threatens to harm
+22 employment, tax revenue, and utility rates and is creating a crisis with
+23 respect to the state's ability to meet current and projected future energy
+24 demands; that this act will manage the retirement of needed electric
+25 generating resources for this state; and that this act is immediately
+26 necessary because continued electric generating resources are necessary for
+27 employment, tax revenue, and regular utility rates. Therefore, an emergency
+28 is declared to exist, and this act being immediately necessary for the
+29 preservation of the public peace, health, and safety shall become effective
+30 on:
+31 (1) The date of its approval by the Governor;
+32 (2) If the bill is neither approved nor vetoed by the Governor,
+33 the expiration of the period of time during which the Governor may veto the
+34 bill; or
+35 (3) If the bill is vetoed by the Governor and the veto is
+36 overridden, the date the last house overrides the veto.
+8 04-14-2025 19:32:40 ANS459
+
+As Engrossed: S4/7/25 S4/14/25 SB596
+1
+2 /s/M. McKee
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+9 04-14-2025 19:32:40 ANS459
+
+[DELETED:  A   EBL5     A E R F P   T E R E D  B   S a  1  ( a g  ( t   ( e   ( i]
+[DELETED:  S2 0 c d   ( s    ( s e    ( i g    ( p  (   ( r   ( p r l s   ( d l    (     (     (     (     (    ( g  ( s r   ( s G]
+[DELETED:  S3 0  ( c   S a S   2  T   ( r o   ( n   ( A s   ( p A d   ( g i e   ( w g   ( d r   ( a e r   (]
+[DELETED:  S4 0 n a   ( g o t g   ( g l   ( h   ( e e o s s   2  A   ( o    (    (    (     ( o r     ( m   ( t a r   (]
+[DELETED:  S5 0 e   (    ( p o    ( h    ( s    ( m w i h s    ( u s   (   ( g t   ( e r   ( c   ( a e   2  ( A d   (]
+[DELETED:  S6 0 a    ( r    ( a   ( a   ( e a    (    ( c    (  ( d   ( d d o r l s c w    ( d t     ( t r     ( r     ( r     (]
+[DELETED:  S7 0 c a    ( r t o i    ( g o    ( d g s u c u  ( e e c g  ( c J c   ( (    ( r e a    ( r t     (]
+[DELETED:  S8 0     ( p     ( n     ( r    ( c r c  ( f A  ( a d o   S G r e r d g n e i p o   (   ( t b   ( o]
+[DELETED:  S9 0  /                                  ]

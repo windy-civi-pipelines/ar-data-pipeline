@@ -1,0 +1,259 @@
+Title: Stricken language would be deleted from and underlined language would be added to present law.
+Official Title: Stricken language would be deleted from and underlined language would be added to present law.
+Number of Sections: 1
+Source: versions - SB 570
+Media Type: application/pdf
+Strikethrough Detection: 3 sections found
+
+================================================================================
+
+Section 1:
+1 State of Arkansas
+A Bill
+2 95th General Assembly
+3 Regular Session, 2025 SENATE BILL 570
+4
+5 By: Senator J. Dotson
+6 By: Representative L. Johnson
+7
+For An Act To Be Entitled
+8
+9 AN ACT TO AMEND ARKANSAS LAW CONCERNING THE
+10 MEMBERSHIP OF THE JOINT BUDGET COMMITTEE; AND FOR
+11 OTHER PURPOSES.
+12
+13
+Subtitle
+14
+15 TO AMEND ARKANSAS LAW CONCERNING THE
+16 MEMBERSHIP OF THE JOINT BUDGET
+17 COMMITTEE.
+18
+19 BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF ARKANSAS:
+20
+21
+22 SECTION 1. Arkansas Code § 10-3-502(a), concerning the membership of
+23 the Joint Budget Committee, is amended to read as follows:
+24 (a)(1)(A) The Joint Budget Committee shall consist of:
+25 (i) The current cochairs of the Legislative Council;
+26 (ii) The immediate past cochairs of the Legislative
+27 Council;
+28 (iii) The current cochairs of the Legislative Joint
+29 Auditing Committee;
+30 (iv) The immediate past cochairs of the Legislative
+31 Joint Auditing Committee;
+32 (v) The President Pro Tempore of the Senate;
+33 (vi) The immediate past President Pro Tempore of the
+34 Senate;
+35
+36 (vii) The Speaker of the House of Representatives;
+*MBM033*
+03/27/2025 5:44:02 PM MBM033
+SB570
+1 (viii) The immediate past Speaker of the House of
+2 Representatives;
+3 (v)(ix) Twenty-four (24) members and eight (8)
+4 alternate members of the House of Representatives; and
+5 (vi)(x) Twenty-four (24) members of the Senate.
+6 (B) If the immediate past House Cochair of the Legislative
+7 Council is not a member of the House, the Speaker of the House of
+8 Representatives may appoint a member of the House to serve in the stead of
+9 the immediate past House cochair.
+10 (C) If the immediate past Senate Cochair of the
+11 Legislative Council is not a member of the Senate, the President Pro Tempore
+12 of the Senate may appoint a member of the Senate to serve in the stead of the
+13 immediate past Senate cochair.
+14 (D) If the immediate past House Cochair of the Legislative
+15 Joint Auditing Committee is not a member of the House, the Speaker of the
+16 House of Representatives may appoint a member of the House to serve in the
+17 stead of the immediate past House cochair.
+18 (E) If the immediate past Senate Cochair of the
+19 Legislative Joint Auditing Committee is not a member of the Senate, the
+20 President Pro Tempore of the Senate may appoint a member of the Senate to
+21 serve in the stead of the immediate past Senate cochair.
+22 (F) If the immediate past President Pro Tempore of the
+23 Senate is not a member of the Senate, the President Pro Tempore of the Senate
+24 may appoint a member of the Senate to serve in the stead of the immediate
+25 past President Pro Tempore of the Senate.
+26 (G) If the immediate past Speaker of the House of
+27 Representatives is not a member of the House of Representatives, the Speaker
+28 of the House of Representatives may appoint a member of the House to serve in
+29 the stead of the immediate past Speaker of the House of Representatives.
+30 (F)(H) If the House Cochair of the Legislative Council has
+31 not been elected, the Speaker of the House of Representatives may appoint a
+32 member of the House to serve until the House members of the Legislative
+33 Council elect a cochair of the Legislative Council.
+34 (G)(I) If the House Cochair of the Legislative Joint
+35 Auditing Committee has not been elected, the Speaker of the House of
+36 Representatives may appoint a member of the House to serve until the House
+2 03/27/2025 5:44:02 PM MBM033
+SB570
+1 members of the Legislative Joint Auditing Committee elect a cochair of the
+2 Legislative Joint Auditing Committee.
+3 (2) The Senate Vice Chair of the Joint Budget Committee shall be
+4 selected in the same manner as the Senate Vice Chair of the Legislative Joint
+5 Auditing Committee.
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+3 03/27/2025 5:44:02 PM MBM033
+[DELETED:       A M O  T M C  B   S t  (     (     ( C     ( A     ( J     (     ( S      (]
+[DELETED: S2 0     ( R     ( a     (    ( C R t    ( L o i    ( J H s    ( L P s    ( S m p    ( R o t    ( n m C    ( A R]
+[DELETED: S3 0 m L   ( s A                               ]
+
+
+================================================================================
+
+Raw Text:
+Stricken language would be deleted from and underlined language would be added to present law.
+1 State of Arkansas
+A Bill
+2 95th General Assembly
+3 Regular Session, 2025 SENATE BILL 570
+4
+5 By: Senator J. Dotson
+6 By: Representative L. Johnson
+7
+For An Act To Be Entitled
+8
+9 AN ACT TO AMEND ARKANSAS LAW CONCERNING THE
+10 MEMBERSHIP OF THE JOINT BUDGET COMMITTEE; AND FOR
+11 OTHER PURPOSES.
+12
+13
+Subtitle
+14
+15 TO AMEND ARKANSAS LAW CONCERNING THE
+16 MEMBERSHIP OF THE JOINT BUDGET
+17 COMMITTEE.
+18
+19 BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF ARKANSAS:
+20
+21
+22 SECTION 1. Arkansas Code § 10-3-502(a), concerning the membership of
+23 the Joint Budget Committee, is amended to read as follows:
+24 (a)(1)(A) The Joint Budget Committee shall consist of:
+25 (i) The current cochairs of the Legislative Council;
+26 (ii) The immediate past cochairs of the Legislative
+27 Council;
+28 (iii) The current cochairs of the Legislative Joint
+29 Auditing Committee;
+30 (iv) The immediate past cochairs of the Legislative
+31 Joint Auditing Committee;
+32 (v) The President Pro Tempore of the Senate;
+33 (vi) The immediate past President Pro Tempore of the
+34 Senate;
+35
+36 (vii) The Speaker of the House of Representatives;
+*MBM033*
+03/27/2025 5:44:02 PM MBM033
+
+SB570
+1 (viii) The immediate past Speaker of the House of
+2 Representatives;
+3 (v)(ix) Twenty-four (24) members and eight (8)
+4 alternate members of the House of Representatives; and
+5 (vi)(x) Twenty-four (24) members of the Senate.
+6 (B) If the immediate past House Cochair of the Legislative
+7 Council is not a member of the House, the Speaker of the House of
+8 Representatives may appoint a member of the House to serve in the stead of
+9 the immediate past House cochair.
+10 (C) If the immediate past Senate Cochair of the
+11 Legislative Council is not a member of the Senate, the President Pro Tempore
+12 of the Senate may appoint a member of the Senate to serve in the stead of the
+13 immediate past Senate cochair.
+14 (D) If the immediate past House Cochair of the Legislative
+15 Joint Auditing Committee is not a member of the House, the Speaker of the
+16 House of Representatives may appoint a member of the House to serve in the
+17 stead of the immediate past House cochair.
+18 (E) If the immediate past Senate Cochair of the
+19 Legislative Joint Auditing Committee is not a member of the Senate, the
+20 President Pro Tempore of the Senate may appoint a member of the Senate to
+21 serve in the stead of the immediate past Senate cochair.
+22 (F) If the immediate past President Pro Tempore of the
+23 Senate is not a member of the Senate, the President Pro Tempore of the Senate
+24 may appoint a member of the Senate to serve in the stead of the immediate
+25 past President Pro Tempore of the Senate.
+26 (G) If the immediate past Speaker of the House of
+27 Representatives is not a member of the House of Representatives, the Speaker
+28 of the House of Representatives may appoint a member of the House to serve in
+29 the stead of the immediate past Speaker of the House of Representatives.
+30 (F)(H) If the House Cochair of the Legislative Council has
+31 not been elected, the Speaker of the House of Representatives may appoint a
+32 member of the House to serve until the House members of the Legislative
+33 Council elect a cochair of the Legislative Council.
+34 (G)(I) If the House Cochair of the Legislative Joint
+35 Auditing Committee has not been elected, the Speaker of the House of
+36 Representatives may appoint a member of the House to serve until the House
+2 03/27/2025 5:44:02 PM MBM033
+
+SB570
+1 members of the Legislative Joint Auditing Committee elect a cochair of the
+2 Legislative Joint Auditing Committee.
+3 (2) The Senate Vice Chair of the Joint Budget Committee shall be
+4 selected in the same manner as the Senate Vice Chair of the Legislative Joint
+5 Auditing Committee.
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+3 03/27/2025 5:44:02 PM MBM033
+
+[DELETED:       A M O  T M C  B   S t  (     (     ( C     ( A     ( J     (     ( S      (]
+[DELETED: S2 0     ( R     ( a     (    ( C R t    ( L o i    ( J H s    ( L P s    ( S m p    ( R o t    ( n m C    ( A R]
+[DELETED: S3 0 m L   ( s A                               ]

@@ -1,0 +1,63 @@
+Title: ______________________________________________________________________
+Official Title: ______________________________________________________________________
+Number of Sections: 1
+Source: versions - Amendment S1
+Media Type: application/pdf
+Strikethrough Detection: 1 sections found
+
+================================================================================
+
+Section 1:
+ARKANSAS SENATE
+95th General Assembly - Regular Session, 2025
+Amendment Form
+Subtitle of Senate Bill 437
+TO CREATE THE ARKANSAS WIND ENERGY DEVELOPMENT ACT.
+______________________________________________________________________
+Amendment No. 1 to Senate Bill 437
+Amend Senate Bill 437 as originally introduced:
+Page 20, delete lines 24 through 26, and substitute the following:
+"precedence over the conflicting provisions of this subchapter.
+23-18-1318. Exemptions.
+A wind energy facility project is exempt from this subchapter if:
+(1) The wind energy facility project is under development as of
+the effective date of this act; or
+(2) The wind energy facility project is less than three hundred
+feet (300') above sea level.
+23-18-1319. Rules."
+*.ANS421*
+The Amendment was read the first time, rules suspended and read the second time and _______________________
+By: Senator Hester
+ANS/ANS - 03-19-2025 11:00:05 _________________________
+ANS421 Secretary
+[DELETED:  _ SA  2A ( (2]
+
+
+================================================================================
+
+Raw Text:
+ARKANSAS SENATE
+95th General Assembly - Regular Session, 2025
+Amendment Form
+______________________________________________________________________
+Subtitle of Senate Bill 437
+TO CREATE THE ARKANSAS WIND ENERGY DEVELOPMENT ACT.
+______________________________________________________________________
+Amendment No. 1 to Senate Bill 437
+Amend Senate Bill 437 as originally introduced:
+Page 20, delete lines 24 through 26, and substitute the following:
+"precedence over the conflicting provisions of this subchapter.
+23-18-1318. Exemptions.
+A wind energy facility project is exempt from this subchapter if:
+(1) The wind energy facility project is under development as of
+the effective date of this act; or
+(2) The wind energy facility project is less than three hundred
+feet (300') above sea level.
+23-18-1319. Rules."
+*.ANS421*
+The Amendment was read the first time, rules suspended and read the second time and _______________________
+By: Senator Hester
+ANS/ANS - 03-19-2025 11:00:05 _________________________
+ANS421 Secretary
+
+[DELETED:  _ SA  2A ( (2]

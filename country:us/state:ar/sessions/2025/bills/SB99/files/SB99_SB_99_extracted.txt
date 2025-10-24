@@ -1,0 +1,180 @@
+Title: Stricken language would be deleted from and underlined language would be added to present law.
+Official Title: Stricken language would be deleted from and underlined language would be added to present law.
+Number of Sections: 1
+Source: versions - SB 99
+Media Type: application/pdf
+Strikethrough Detection: 2 sections found
+
+================================================================================
+
+Section 1:
+1 State of Arkansas
+A Bill
+2 95th General Assembly
+3 Regular Session, 2025 SENATE BILL 99
+4
+5 By: Senator C. Penzo
+6 By: Representative Gramlich
+7
+For An Act To Be Entitled
+8
+9 AN ACT TO AUTHORIZE A PHYSICIAN ASSISTANT TO DELEGATE
+10 CERTAIN TASKS; AND FOR OTHER PURPOSES.
+11
+12
+Subtitle
+13
+14 TO AUTHORIZE A PHYSICIAN ASSISTANT TO
+15 DELEGATE CERTAIN TASKS.
+16
+17 BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF ARKANSAS:
+18
+19 SECTION 1. Arkansas Code § 17-95-208 is amended to read as follows:
+20 17-95-208. Rules on physician's authority to delegate.
+21 (a) The Arkansas State Medical Board shall adopt rules that establish
+22 standards to be met and procedures to be followed by a physician or a
+23 physician assistant with respect to the physician's delegation of the
+24 performance of medical practices to a qualified and properly trained employee
+25 who is not licensed or otherwise specifically authorized by the Arkansas Code
+26 to perform the practice.
+27 (b) The rules adopted under subsection (a) of this section shall
+28 provide that:
+29 (1) The delegating physician or a physician assistant remains
+30 responsible for the acts of the employee performing the delegated practice;
+31 (2) The employee performing the delegated practice shall not be
+32 represented to the public as a licensed physician, licensed nurse, licensed
+33 physician's assistant, or other licensed healthcare provider; and
+34 (3) Medical practices delegated under this section shall be
+35 performed under the physician's supervision of the physician or physician
+36 assistant.
+*JMB093*
+01/23/2025 3:36:42 PM JMB093
+SB99
+1 (c) Delegation of medical practices under this section may include
+2 administration of drugs that do not require substantial specialized judgment
+3 and skill based on knowledge and application of the principles of biological,
+4 physical, and social sciences as determined by the board.
+5 (d) Rules adopted regarding the delegation of the administration of
+6 drugs shall provide for:
+7 (1) The delegated administration of drugs only within the
+8 physical boundaries of the office in which the delegating physician's offices
+9 physician or physician assistant practices;
+10 (2) Evaluation of whether delegation is appropriate according to
+11 the acuity of the patient involved;
+12 (3) Training and competency requirements that shall be met by
+13 the person administering the drugs; and
+14 (4) Other standards and procedures the board considers relevant.
+15 (e) The board shall not adopt rules that:
+16 (1) Authorize a physician to transfer to a health professional
+17 other than another a physician or physician assistant the physician's
+18 responsibility for supervising a delegated medical practice;
+19 (2) Authorize an individual to whom a medical practice is
+20 delegated to delegate the performance of that practice to another individual;
+21 (3) Authorize a physician to delegate the administration of
+22 anesthesia; or
+23 (4)(3) Conflict with a provision of the Arkansas Code that
+24 specifically authorizes an individual to perform a particular practice.
+25
+26 SECTION 2. Arkansas Code § 17-105-107, concerning the scope of
+27 authority and delegatory authority of a physician assistant, is amended to
+28 add an additional subsection to read as follows:
+29 (e) A physician assistant may delegate certain tasks as authorized
+30 under § 17-95-208 and the rules of the Arkansas State Medical Board.
+31
+32
+33
+34
+35
+36
+2 01/23/2025 3:36:42 PM JMB093
+[DELETED:          A C   T D  B   S  1  ( s p p w t  ( p   ( r   ( r p   ( p a]
+[DELETED: S2 0  ( a a p  ( d   ( p p   ( t   ( t   (  (   ( o r   ( d   ( a   ( s   S a a  ( u      ]
+
+
+================================================================================
+
+Raw Text:
+Stricken language would be deleted from and underlined language would be added to present law.
+1 State of Arkansas
+A Bill
+2 95th General Assembly
+3 Regular Session, 2025 SENATE BILL 99
+4
+5 By: Senator C. Penzo
+6 By: Representative Gramlich
+7
+For An Act To Be Entitled
+8
+9 AN ACT TO AUTHORIZE A PHYSICIAN ASSISTANT TO DELEGATE
+10 CERTAIN TASKS; AND FOR OTHER PURPOSES.
+11
+12
+Subtitle
+13
+14 TO AUTHORIZE A PHYSICIAN ASSISTANT TO
+15 DELEGATE CERTAIN TASKS.
+16
+17 BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF ARKANSAS:
+18
+19 SECTION 1. Arkansas Code § 17-95-208 is amended to read as follows:
+20 17-95-208. Rules on physician's authority to delegate.
+21 (a) The Arkansas State Medical Board shall adopt rules that establish
+22 standards to be met and procedures to be followed by a physician or a
+23 physician assistant with respect to the physician's delegation of the
+24 performance of medical practices to a qualified and properly trained employee
+25 who is not licensed or otherwise specifically authorized by the Arkansas Code
+26 to perform the practice.
+27 (b) The rules adopted under subsection (a) of this section shall
+28 provide that:
+29 (1) The delegating physician or a physician assistant remains
+30 responsible for the acts of the employee performing the delegated practice;
+31 (2) The employee performing the delegated practice shall not be
+32 represented to the public as a licensed physician, licensed nurse, licensed
+33 physician's assistant, or other licensed healthcare provider; and
+34 (3) Medical practices delegated under this section shall be
+35 performed under the physician's supervision of the physician or physician
+36 assistant.
+*JMB093*
+01/23/2025 3:36:42 PM JMB093
+
+SB99
+1 (c) Delegation of medical practices under this section may include
+2 administration of drugs that do not require substantial specialized judgment
+3 and skill based on knowledge and application of the principles of biological,
+4 physical, and social sciences as determined by the board.
+5 (d) Rules adopted regarding the delegation of the administration of
+6 drugs shall provide for:
+7 (1) The delegated administration of drugs only within the
+8 physical boundaries of the office in which the delegating physician's offices
+9 physician or physician assistant practices;
+10 (2) Evaluation of whether delegation is appropriate according to
+11 the acuity of the patient involved;
+12 (3) Training and competency requirements that shall be met by
+13 the person administering the drugs; and
+14 (4) Other standards and procedures the board considers relevant.
+15 (e) The board shall not adopt rules that:
+16 (1) Authorize a physician to transfer to a health professional
+17 other than another a physician or physician assistant the physician's
+18 responsibility for supervising a delegated medical practice;
+19 (2) Authorize an individual to whom a medical practice is
+20 delegated to delegate the performance of that practice to another individual;
+21 (3) Authorize a physician to delegate the administration of
+22 anesthesia; or
+23 (4)(3) Conflict with a provision of the Arkansas Code that
+24 specifically authorizes an individual to perform a particular practice.
+25
+26 SECTION 2. Arkansas Code § 17-105-107, concerning the scope of
+27 authority and delegatory authority of a physician assistant, is amended to
+28 add an additional subsection to read as follows:
+29 (e) A physician assistant may delegate certain tasks as authorized
+30 under § 17-95-208 and the rules of the Arkansas State Medical Board.
+31
+32
+33
+34
+35
+36
+2 01/23/2025 3:36:42 PM JMB093
+
+[DELETED:          A C   T D  B   S  1  ( s p p w t  ( p   ( r   ( r p   ( p a]
+[DELETED: S2 0  ( a a p  ( d   ( p p   ( t   ( t   (  (   ( o r   ( d   ( a   ( s   S a a  ( u      ]

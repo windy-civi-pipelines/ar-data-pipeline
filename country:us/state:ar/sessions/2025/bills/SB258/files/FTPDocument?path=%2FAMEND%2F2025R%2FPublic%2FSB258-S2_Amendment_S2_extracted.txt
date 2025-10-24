@@ -1,0 +1,460 @@
+Title: ______________________________________________________________________
+Official Title: ______________________________________________________________________
+Number of Sections: 1
+Source: versions - Amendment S2
+Media Type: application/pdf
+Strikethrough Detection: 10 sections found
+
+================================================================================
+
+Section 1:
+ARKANSAS SENATE
+95th General Assembly - Regular Session, 2025
+Amendment Form
+Subtitle of Senate Bill 258
+TO CREATE THE ARKANSAS DIGITAL RESPONSIBILITY, SAFETY, AND TRUST ACT.
+______________________________________________________________________
+Amendment No. 2 to Senate Bill 258
+Amend Senate Bill 258 as engrossed S2/27/25 (version: 2/27/25 01:25:37 PM):
+Page 2, line 7, delete "(4)(A)" and substitute "(4)"
+AND
+Page 2, line 11, delete "world." and substitute "world;"
+AND
+Page 2, delete lines 12 through 14
+AND
+Page 2, delete line 28, and substitute the following:
+"activities to entities around the world.
+(E) Participation in modern society necessitates the
+adoption of technology, and Arkansans who fail to embrace technological
+advancements face significant competitive disadvantages in education,
+employment, healthcare access, and economic opportunity;"
+AND
+Page 4, delete lines 3 through 15, and substitute the following:
+"(2) "Authenticate" means to verify through reasonable means
+*.ANS373*
+ANS373 - 03-13-2025 11:15:51 Page 1 of 10
+that"
+AND
+Page 4, line 19, delete "(5)(A)" and substitute "(3)(A)"
+AND
+Page 4, line 30, delete "(6)" and substitute "(4)"
+AND
+Page 4, line 33, delete "(7)" and substitute "(5)"
+AND
+Page 4, line 35, delete "(8)(A)" and substitute "(6)(A)"
+AND
+Page 5, line 13, delete "(9)(A)" and substitute "(7)(A)"
+AND
+Page 5, delete lines 17 through 30, and substitute the following:
+"(8) "Consumer health data" means any personal data that a
+controller uses to identify a consumer's physical or mental health condition
+or diagnosis;
+(9) "Control" means:
+(A) The ownership of, or power to vote, more than fifty
+percent (50%) of the outstanding shares of any class of voting security of a
+company;
+(B) The control in any manner over the election of a
+majority of the directors or of individuals exercising similar functions; or
+(C) The power to exercise controlling influence over"
+ANS373 - 03-13-2025 11:15:51 Amendment No. 1 to Senate Bill 258 Page 2 of 10
+AND
+Page 5, line 32, delete "(12)" and substitute "(10)"
+AND
+Page 5, line 35, delete "(13)" and substitute "(11)"
+AND
+Page 6, line 2, delete "(14)(A)" and substitute "(12)(A)"
+AND
+Page 6, line 7, delete "(15)" and substitute "(13)"
+AND
+Page 6, line 16, delete "(16)" and substitute "(14)"
+AND
+Page 6, delete lines 19 through 28, and substitute the following:
+"(15)(A) "Health record" means a written, printed, or"
+AND
+Page 7, line 3, delete "(22)" and substitute "(16)"
+AND
+Page 7, line 6, delete "(23)" and substitute "(17)"
+AND
+Page 7, delete lines 8 through 36
+ANS373 - 03-13-2025 11:15:51 Amendment No. 1 to Senate Bill 258 Page 3 of 10
+AND
+Page 8, delete lines 1 through 30, and substitute the following:
+"(18) "Identified" means a consumer who can be readily
+identified, directly or indirectly;
+(19) "Institution of higher education" means:
+(A) A vocational or technical school governed by Arkansas
+Code Title 6, Subtitle 4; or
+(B) A postsecondary or higher education institution governed
+by Arkansas Code Title 6, Subtitle 5;
+(20) "Known child" means a child under circumstances where a
+controller has actual knowledge of, or willfully disregards, the child's age;
+(21) "Nonprofit organization" means:"
+AND
+Page 9, line 2, delete "(30)(A)" and substitute "(22)(A)"
+AND
+Page 9, line 11, delete "(31)" and substitute "(23)"
+AND
+Page 9, line 22, delete "(32)(A)" and substitute "(24)(A)"
+AND
+Page 9, line 31, delete "(33)" and substitute "(25)"
+AND
+Page 9, line 35, delete "(34)" and substitute "(26)"
+AND
+ANS373 - 03-13-2025 11:15:51 Amendment No. 1 to Senate Bill 258 Page 4 of 10
+Page 10, line 1, delete "(35)" and substitute "(27)"
+AND
+Page 10, line 6, delete "(36)" and substitute "(28)"
+AND
+Page 10, line 9, delete "(37)" and substitute "(29)"
+AND
+Page 10, line 15, delete "(38)" and substitute "(30)"
+AND
+Page 10, line 21, delete "(39)(A)" and substitute "(31)(A)"
+AND
+Page 11, line 4, delete "(40)(A)" and substitute "(32)(A)"
+AND
+Page 11, line 20, delete "or"
+AND
+Page 11, delete lines 25 and 26, and substitute the following:
+"account; or
+(ix) Consumer health data;
+(33) "State agency" means a department, commission, board,"
+AND
+ANS373 - 03-13-2025 11:15:51 Amendment No. 1 to Senate Bill 258 Page 5 of 10
+Page 11, delete lines 31 through 33, and substitute the following:
+"directors appointed by the Governor;
+(34) "Substantial factor" means a factor that:"
+AND
+Page 12, line 7, delete "(43)(A)" and substitute "(35)(A)"
+AND
+Page 12, line 22, delete "(44)" and substitute "(36)"
+AND
+Page 12, line 25, delete "(45)" and substitute "(37)"
+AND
+Page 13, delete lines 15 through 24
+AND
+Page 13, delete line 27, and substitute the following:
+"This chapter does not"
+AND
+Page 13, delete lines 30 and 31, and substitute the following:
+"(2) A financial institution, affiliates of financial
+institutions, or data subject to Title V, Gramm-"
+AND
+Page 15, delete lines 32 and 33, and substitute the following:
+"data is collected and used within the context of that role;"
+ANS373 - 03-13-2025 11:15:51 Amendment No. 1 to Senate Bill 258 Page 6 of 10
+AND
+Page 17, line 18, delete "person," and substitute "person or entity,"
+AND
+Page 20, line 36, delete "manner;" and substitute "manner or comply with the
+controller's reasonable requirements for submitting requests;"
+AND
+Page 23, line 35, delete "process." and substitute "processing."
+AND
+Page 24, delete lines 10 through 17, and substitute the following:
+"(1) The consent of the individual consumer;
+(2) A contract that requires the processing of personal data;
+(3) A legal obligation to process the personal data; or
+(4) An overriding necessity to process the personal data of a"
+AND
+Page 27, delete lines 7 through 13
+AND
+Page 27, line 15, delete "4-120-308" and substitute "4-120-307"
+AND
+Page 28, line 29, delete "4-120-309" and substitute "4-120-308"
+AND
+Page 28, line 36, delete "4-120-310" and substitute "4-120-309"
+ANS373 - 03-13-2025 11:15:51 Amendment No. 1 to Senate Bill 258 Page 7 of 10
+AND
+Page 29, line 25, delete "§ 4-120-308" and substitute "§ 4-120-307"
+AND
+Page 30, delete lines 34 through 36
+AND
+Page 31, delete lines 1 through 36
+AND
+Page 32, delete lines 1 through 36
+AND
+Page 33, delete lines 1 through 36, and substitute the following:
+"Subchapter 5. [Reserved.]
+Subchapter 6. [Reserved.]"
+AND
+Page 34, delete lines 1 through 36
+AND
+Page 35, delete lines 1 through 36
+AND
+Page 36, delete lines 1 through 36
+AND
+ANS373 - 03-13-2025 11:15:51 Amendment No. 1 to Senate Bill 258 Page 8 of 10
+Page 37, delete lines 1 through 36
+AND
+Page 38, delete lines 1 through 36
+AND
+Page 39, delete lines 1 through 36
+AND
+Page 40, delete lines 1 through 36
+AND
+Page 41, delete lines 1 through 28
+AND
+Page 42, delete lines 5 through 8, and substitute the following:
+"chapter; and
+(C) A consumer's rights under this chapter; and"
+AND
+Page 42, line 21, delete "or"
+AND
+Page 42, line 22, delete "artificial intelligence impact assessment"
+AND
+Page 42, delete lines 25 through 27, and substitute the following:
+ANS373 - 03-13-2025 11:15:51 Amendment No. 1 to Senate Bill 258 Page 9 of 10
+"assessment for compliance with the requirements under § 4-120-307."
+AND
+Page 43, delete lines 5 through 9, and substitute the following:
+"(b) To the extent § 4-120-701 et seq. applies to the enforcement of §
+4-120-101 et seq. — § 4-120-401 et seq., it is effective on April 1, 2026."
+The Amendment was read the first time, rules suspended and read the second time and _______________________
+By: Senator C. Penzo
+ANS/ANS - 03-13-2025 11:15:51 _________________________
+ANS373 Secretary
+ANS373 - 03-13-2025 11:15:51 Amendment No. 1 to Senate Bill 258 Page 10 of 10
+[DELETED:  PA    ( "]
+[DELETED:  P " (  (  (  (]
+[DELETED:  P "]
+[DELETED:  P " (  (  ( (  " c m a c u c w a (]
+[DELETED:  P   ( (]
+[DELETED:  P (" "]
+[DELETED:  P " ( ( (]
+[DELETED:  P]
+[DELETED:  P  (]
+[DELETED:  P" _ S]
+
+
+================================================================================
+
+Raw Text:
+ARKANSAS SENATE
+95th General Assembly - Regular Session, 2025
+Amendment Form
+______________________________________________________________________
+Subtitle of Senate Bill 258
+TO CREATE THE ARKANSAS DIGITAL RESPONSIBILITY, SAFETY, AND TRUST ACT.
+______________________________________________________________________
+Amendment No. 2 to Senate Bill 258
+Amend Senate Bill 258 as engrossed S2/27/25 (version: 2/27/25 01:25:37 PM):
+Page 2, line 7, delete "(4)(A)" and substitute "(4)"
+AND
+Page 2, line 11, delete "world." and substitute "world;"
+AND
+Page 2, delete lines 12 through 14
+AND
+Page 2, delete line 28, and substitute the following:
+"activities to entities around the world.
+(E) Participation in modern society necessitates the
+adoption of technology, and Arkansans who fail to embrace technological
+advancements face significant competitive disadvantages in education,
+employment, healthcare access, and economic opportunity;"
+AND
+Page 4, delete lines 3 through 15, and substitute the following:
+"(2) "Authenticate" means to verify through reasonable means
+*.ANS373*
+ANS373 - 03-13-2025 11:15:51 Page 1 of 10
+
+that"
+AND
+Page 4, line 19, delete "(5)(A)" and substitute "(3)(A)"
+AND
+Page 4, line 30, delete "(6)" and substitute "(4)"
+AND
+Page 4, line 33, delete "(7)" and substitute "(5)"
+AND
+Page 4, line 35, delete "(8)(A)" and substitute "(6)(A)"
+AND
+Page 5, line 13, delete "(9)(A)" and substitute "(7)(A)"
+AND
+Page 5, delete lines 17 through 30, and substitute the following:
+"(8) "Consumer health data" means any personal data that a
+controller uses to identify a consumer's physical or mental health condition
+or diagnosis;
+(9) "Control" means:
+(A) The ownership of, or power to vote, more than fifty
+percent (50%) of the outstanding shares of any class of voting security of a
+company;
+(B) The control in any manner over the election of a
+majority of the directors or of individuals exercising similar functions; or
+(C) The power to exercise controlling influence over"
+ANS373 - 03-13-2025 11:15:51 Amendment No. 1 to Senate Bill 258 Page 2 of 10
+
+AND
+Page 5, line 32, delete "(12)" and substitute "(10)"
+AND
+Page 5, line 35, delete "(13)" and substitute "(11)"
+AND
+Page 6, line 2, delete "(14)(A)" and substitute "(12)(A)"
+AND
+Page 6, line 7, delete "(15)" and substitute "(13)"
+AND
+Page 6, line 16, delete "(16)" and substitute "(14)"
+AND
+Page 6, delete lines 19 through 28, and substitute the following:
+"(15)(A) "Health record" means a written, printed, or"
+AND
+Page 7, line 3, delete "(22)" and substitute "(16)"
+AND
+Page 7, line 6, delete "(23)" and substitute "(17)"
+AND
+Page 7, delete lines 8 through 36
+ANS373 - 03-13-2025 11:15:51 Amendment No. 1 to Senate Bill 258 Page 3 of 10
+
+AND
+Page 8, delete lines 1 through 30, and substitute the following:
+"(18) "Identified" means a consumer who can be readily
+identified, directly or indirectly;
+(19) "Institution of higher education" means:
+(A) A vocational or technical school governed by Arkansas
+Code Title 6, Subtitle 4; or
+(B) A postsecondary or higher education institution governed
+by Arkansas Code Title 6, Subtitle 5;
+(20) "Known child" means a child under circumstances where a
+controller has actual knowledge of, or willfully disregards, the child's age;
+(21) "Nonprofit organization" means:"
+AND
+Page 9, line 2, delete "(30)(A)" and substitute "(22)(A)"
+AND
+Page 9, line 11, delete "(31)" and substitute "(23)"
+AND
+Page 9, line 22, delete "(32)(A)" and substitute "(24)(A)"
+AND
+Page 9, line 31, delete "(33)" and substitute "(25)"
+AND
+Page 9, line 35, delete "(34)" and substitute "(26)"
+AND
+ANS373 - 03-13-2025 11:15:51 Amendment No. 1 to Senate Bill 258 Page 4 of 10
+
+Page 10, line 1, delete "(35)" and substitute "(27)"
+AND
+Page 10, line 6, delete "(36)" and substitute "(28)"
+AND
+Page 10, line 9, delete "(37)" and substitute "(29)"
+AND
+Page 10, line 15, delete "(38)" and substitute "(30)"
+AND
+Page 10, line 21, delete "(39)(A)" and substitute "(31)(A)"
+AND
+Page 11, line 4, delete "(40)(A)" and substitute "(32)(A)"
+AND
+Page 11, line 20, delete "or"
+AND
+Page 11, delete lines 25 and 26, and substitute the following:
+"account; or
+(ix) Consumer health data;
+(33) "State agency" means a department, commission, board,"
+AND
+ANS373 - 03-13-2025 11:15:51 Amendment No. 1 to Senate Bill 258 Page 5 of 10
+
+Page 11, delete lines 31 through 33, and substitute the following:
+"directors appointed by the Governor;
+(34) "Substantial factor" means a factor that:"
+AND
+Page 12, line 7, delete "(43)(A)" and substitute "(35)(A)"
+AND
+Page 12, line 22, delete "(44)" and substitute "(36)"
+AND
+Page 12, line 25, delete "(45)" and substitute "(37)"
+AND
+Page 13, delete lines 15 through 24
+AND
+Page 13, delete line 27, and substitute the following:
+"This chapter does not"
+AND
+Page 13, delete lines 30 and 31, and substitute the following:
+"(2) A financial institution, affiliates of financial
+institutions, or data subject to Title V, Gramm-"
+AND
+Page 15, delete lines 32 and 33, and substitute the following:
+"data is collected and used within the context of that role;"
+ANS373 - 03-13-2025 11:15:51 Amendment No. 1 to Senate Bill 258 Page 6 of 10
+
+AND
+Page 17, line 18, delete "person," and substitute "person or entity,"
+AND
+Page 20, line 36, delete "manner;" and substitute "manner or comply with the
+controller's reasonable requirements for submitting requests;"
+AND
+Page 23, line 35, delete "process." and substitute "processing."
+AND
+Page 24, delete lines 10 through 17, and substitute the following:
+"(1) The consent of the individual consumer;
+(2) A contract that requires the processing of personal data;
+(3) A legal obligation to process the personal data; or
+(4) An overriding necessity to process the personal data of a"
+AND
+Page 27, delete lines 7 through 13
+AND
+Page 27, line 15, delete "4-120-308" and substitute "4-120-307"
+AND
+Page 28, line 29, delete "4-120-309" and substitute "4-120-308"
+AND
+Page 28, line 36, delete "4-120-310" and substitute "4-120-309"
+ANS373 - 03-13-2025 11:15:51 Amendment No. 1 to Senate Bill 258 Page 7 of 10
+
+AND
+Page 29, line 25, delete "§ 4-120-308" and substitute "§ 4-120-307"
+AND
+Page 30, delete lines 34 through 36
+AND
+Page 31, delete lines 1 through 36
+AND
+Page 32, delete lines 1 through 36
+AND
+Page 33, delete lines 1 through 36, and substitute the following:
+"Subchapter 5. [Reserved.]
+Subchapter 6. [Reserved.]"
+AND
+Page 34, delete lines 1 through 36
+AND
+Page 35, delete lines 1 through 36
+AND
+Page 36, delete lines 1 through 36
+AND
+ANS373 - 03-13-2025 11:15:51 Amendment No. 1 to Senate Bill 258 Page 8 of 10
+
+Page 37, delete lines 1 through 36
+AND
+Page 38, delete lines 1 through 36
+AND
+Page 39, delete lines 1 through 36
+AND
+Page 40, delete lines 1 through 36
+AND
+Page 41, delete lines 1 through 28
+AND
+Page 42, delete lines 5 through 8, and substitute the following:
+"chapter; and
+(C) A consumer's rights under this chapter; and"
+AND
+Page 42, line 21, delete "or"
+AND
+Page 42, line 22, delete "artificial intelligence impact assessment"
+AND
+Page 42, delete lines 25 through 27, and substitute the following:
+ANS373 - 03-13-2025 11:15:51 Amendment No. 1 to Senate Bill 258 Page 9 of 10
+
+"assessment for compliance with the requirements under § 4-120-307."
+AND
+Page 43, delete lines 5 through 9, and substitute the following:
+"(b) To the extent § 4-120-701 et seq. applies to the enforcement of §
+4-120-101 et seq. — § 4-120-401 et seq., it is effective on April 1, 2026."
+The Amendment was read the first time, rules suspended and read the second time and _______________________
+By: Senator C. Penzo
+ANS/ANS - 03-13-2025 11:15:51 _________________________
+ANS373 Secretary
+ANS373 - 03-13-2025 11:15:51 Amendment No. 1 to Senate Bill 258 Page 10 of 10
+
+[DELETED:  PA    ( "]
+[DELETED:  P " (  (  (  (]
+[DELETED:  P "]
+[DELETED:  P " (  (  ( (  " c m a c u c w a (]
+[DELETED:  P   ( (]
+[DELETED:  P (" "]
+[DELETED:  P " ( ( (]
+[DELETED:  P]
+[DELETED:  P  (]
+[DELETED:  P" _ S]
