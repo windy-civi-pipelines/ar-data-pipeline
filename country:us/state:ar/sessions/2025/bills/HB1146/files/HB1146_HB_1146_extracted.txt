@@ -1,0 +1,733 @@
+Title: Stricken language would be deleted from and underlined language would be added to present law.
+Official Title: Stricken language would be deleted from and underlined language would be added to present law.
+Number of Sections: 1
+Source: versions - HB 1146
+Media Type: application/pdf
+Strikethrough Detection: 9 sections found
+
+================================================================================
+
+Section 1:
+1 State of Arkansas
+A Bill
+2 95th General Assembly
+3 Regular Session, 2025 HOUSE BILL 1146
+4
+5 By: Joint Budget Committee
+6
+7
+For An Act To Be Entitled
+8
+9 AN ACT TO MAKE AN APPROPRIATION FOR PERSONAL SERVICES
+10 AND OPERATING EXPENSES FOR THE OFFICE OF ATTORNEY
+11 GENERAL FOR THE FISCAL YEAR ENDING JUNE 30, 2026; AND
+12 FOR OTHER PURPOSES.
+13
+14
+Subtitle
+15
+16 AN ACT FOR THE OFFICE OF ATTORNEY
+17 GENERAL APPROPRIATION FOR THE 2025-2026
+18 FISCAL YEAR.
+19
+20
+21 BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF ARKANSAS:
+22
+23 SECTION 1. REGULAR SALARIES - OPERATIONS. There is hereby established
+24 for the Office of Attorney General for the 2025-2026 fiscal year, the
+25 following maximum number of regular employees.
+26
+27 Maximum Annual
+28 Maximum Salary Rate
+29 Item Class No. of Fiscal Year
+30 No. Code Title Employees 2025-2026
+31 (1) Q426U CHIEF DEPUTY ATTORNEY GENERAL 1 $200,000
+32 (2) Q242U SOLICITOR GENERAL 1 $200,000
+33 (3) Q427U DEPUTY ATTORNEY GENERAL 12 $184,000
+34 (4) Q428U SENIOR ASSISTANT ATTORNEY GENERAL I 4 $161,000
+35 (5) Q446U SENIOR MANAGEMENT ASSISTANT I 4 $155,000
+36 (6) Q434U SENIOR ASSISTANT ATTORNEY GENERAL II 12 $154,000
+*JAR036*
+01/15/2025 1:29:34 PM JAR036
+HB1146
+1 (7) Q448U SENIOR MANAGEMENT ASSISTANT II 5 $138,000
+2 (8) Q447U SENIOR ASSISTANT ATTORNEY GENERAL III 17 $138,000
+3 (9) Q430U ASSISTANT ATTORNEY GENERAL I 13 $124,000
+4 (10) Q431U ASSISTANT ATTORNEY GENERAL II 22 $111,000
+5 (11) Q432U MANAGEMENT ASSISTANT 7 $99,000
+6 (12) Q074U INVESTIGATOR I 4 $99,000
+7 (13) Q433U SENIOR ADMINISTRATIVE ASSISTANT 12 $85,000
+8 (14) Q070U INVESTIGATOR II 6 $85,000
+9 (15) Q130U INVESTIGATOR III 10 $71,000
+10 (16) Q034U ADMINISTRATIVE ASSISTANT I 18 $71,000
+11 (17) Q071U ADMINISTRATIVE ASSISTANT II 16 $64,000
+12 MAX. NO. OF EMPLOYEES 164
+13
+14 SECTION 2. EXTRA HELP - OPERATIONS. There is hereby authorized, for
+15 the Office of Attorney General - Operations for the 2025-2026 fiscal year,
+16 the following maximum number of part-time or temporary employees, to be known
+17 as "Extra Help", payable from funds appropriated herein for such purposes:
+18 ten (10) temporary or part-time employees, when needed, at rates of pay not
+19 to exceed those provided in the Uniform Classification and Compensation Act,
+20 or its successor, or this act for the appropriate classification.
+21
+22 SECTION 3. APPROPRIATION - OPERATIONS. There is hereby appropriated,
+23 to the Office of Attorney General, to be payable from the State Central
+24 Services Fund, for personal services and operating expenses of the Office of
+25 Attorney General for the fiscal year ending June 30, 2026, the following:
+26
+27 ITEM FISCAL YEAR
+28 NO. 2025-2026
+29 (01) REGULAR SALARIES $18,533,205
+30 (02) EXTRA HELP 250,000
+31 (03) PERSONAL SERVICES MATCHING 5,624,505
+32 (04) MAINT. & GEN. OPERATION
+33 (A) OPER. EXPENSE 1,885,000
+34 (B) CONF. & TRAVEL 25,000
+35 (C) PROF. FEES 50,000
+36 (D) CAP. OUTLAY 25,000
+2 01/15/2025 1:29:34 PM JAR036
+HB1146
+1 (E) DATA PROC. 0
+2 TOTAL AMOUNT APPROPRIATED $26,392,710
+3
+4 SECTION 4. REGULAR SALARIES - MEDICAID FRAUD DIVISION - STATE. There
+5 is hereby established for the Office of Attorney General - Medicaid Fraud
+6 Division - State for the 2025-2026 fiscal year, the following maximum number
+7 of regular employees.
+8
+9 Maximum Annual
+10 Maximum Salary Rate
+11 Item Class No. of Fiscal Year
+12 No. Code Title Employees 2025-2026
+13 (1) Q427U DEPUTY ATTORNEY GENERAL 1 $184,000
+14 (2) Q448U SENIOR MANAGEMENT ASSISTANT II 1 $138,000
+15 (3) Q430U ASSISTANT ATTORNEY GENERAL I 2 $124,000
+16 (4) Q432U MANAGEMENT ASSISTANT 1 $99,000
+17 (5) Q071U ADMINISTRATIVE ASSISTANT II 1 $64,000
+18 MAX. NO. OF EMPLOYEES 6
+19
+20 SECTION 5. APPROPRIATION - MEDICAID FRAUD DIVISION - STATE. There is
+21 hereby appropriated, to the Office of Attorney General, to be payable from
+22 the State Central Services Fund, for personal services and operating expenses
+23 of the Office of Attorney General - Medicaid Fraud Division - State for the
+24 fiscal year ending June 30, 2026, the following:
+25
+26 ITEM FISCAL YEAR
+27 NO. 2025-2026
+28 (01) REGULAR SALARIES $738,800
+29 (02) PERSONAL SERVICES MATCHING 219,547
+30 (03) MAINT. & GEN. OPERATION
+31 (A) OPER. EXPENSE 56,235
+32 (B) CONF. & TRAVEL 27,100
+33 (C) PROF. FEES 17,000
+34 (D) CAP. OUTLAY 10,500
+35 (E) DATA PROC. 0
+36 TOTAL AMOUNT APPROPRIATED $1,069,182
+3 01/15/2025 1:29:34 PM JAR036
+HB1146
+1
+2 SECTION 6. REGULAR SALARIES - MEDICAID FRAUD DIVISION - FEDERAL. There
+3 is hereby established for the Office of Attorney General - Medicaid Fraud
+4 Division - Federal for the 2025-2026 fiscal year, the following maximum
+5 number of regular employees.
+6
+7 Maximum Annual
+8 Maximum Salary Rate
+9 Item Class No. of Fiscal Year
+10 No. Code Title Employees 2025-2026
+11 (1) Q428U SENIOR ASSISTANT ATTORNEY GENERAL I 2 $161,000
+12 (2) Q448U SENIOR MANAGEMENT ASSISTANT II 1 $138,000
+13 (3) Q447U SENIOR ASSISTANT ATTORNEY GENERAL III 1 $138,000
+14 (4) Q430U ASSISTANT ATTORNEY GENERAL I 2 $124,000
+15 (5) Q431U ASSISTANT ATTORNEY GENERAL II 1 $111,000
+16 (6) Q432U MANAGEMENT ASSISTANT 1 $99,000
+17 (7) Q074U INVESTIGATOR I 2 $99,000
+18 (8) Q433U SENIOR ADMINISTRATIVE ASSISTANT 3 $85,000
+19 (9) Q070U INVESTIGATOR II 5 $85,000
+20 (10) Q071U ADMINISTRATIVE ASSISTANT II 1 $64,000
+21 MAX. NO. OF EMPLOYEES 19
+22
+23 SECTION 7. EXTRA HELP - MEDICAID FRAUD DIVISION - FEDERAL. There is
+24 hereby authorized, for the Office of Attorney General - Medicaid Fraud
+25 Division - Federal for the 2025-2026 fiscal year, the following maximum
+26 number of part-time or temporary employees, to be known as "Extra Help",
+27 payable from funds appropriated herein for such purposes: two (2) temporary
+28 or part-time employees, when needed, at rates of pay not to exceed those
+29 provided in the Uniform Classification and Compensation Act, or its
+30 successor, or this act for the appropriate classification.
+31
+32 SECTION 8. APPROPRIATION - MEDICAID FRAUD DIVISION - FEDERAL. There is
+33 hereby appropriated, to the Office of Attorney General, to be payable from
+34 the federal funds as designated by the Chief Fiscal Officer of the State, for
+35 personal services and operating expenses of the Office of Attorney General -
+36 Medicaid Fraud Division - Federal for the fiscal year ending June 30, 2026,
+4 01/15/2025 1:29:34 PM JAR036
+HB1146
+1 the following:
+2
+3 ITEM FISCAL YEAR
+4 NO. 2025-2026
+5 (01) REGULAR SALARIES $2,009,600
+6 (02) EXTRA HELP 30,000
+7 (03) PERSONAL SERVICES MATCHING 614,785
+8 (04) MAINT. & GEN. OPERATION
+9 (A) OPER. EXPENSE 321,275
+10 (B) CONF. & TRAVEL 81,300
+11 (C) PROF. FEES 418,469
+12 (D) CAP. OUTLAY 31,500
+13 (E) DATA PROC. 0
+14 TOTAL AMOUNT APPROPRIATED $3,506,929
+15
+16 SECTION 9. APPROPRIATION - MEDICAID FRAUD DIVISION - INDIRECT COSTS.
+17 There is hereby appropriated, to the Office of Attorney General, to be
+18 payable from the federal funds as designated by the Chief Fiscal Officer of
+19 the State, for operating expenses of the Office of Attorney General -
+20 Medicaid Fraud Division - Indirect Costs for the fiscal year ending June 30,
+21 2026, the following:
+22
+23 ITEM FISCAL YEAR
+24 NO. 2025-2026
+25 (01) MAINT. & GEN. OPERATION
+26 (A) OPER. EXPENSE $498,461
+27 (B) CONF. & TRAVEL 0
+28 (C) PROF. FEES 0
+29 (D) CAP. OUTLAY 0
+30 (E) DATA PROC. 0
+31 TOTAL AMOUNT APPROPRIATED $498,461
+32
+33 SECTION 10. APPROPRIATION - INTERNET CRIMES AGAINST CHILDREN. There is
+34 hereby appropriated, to the Office of Attorney General, to be payable from
+35 the federal funds as designated by the Chief Fiscal Officer of the State, for
+36 operating expenses of the Office of Attorney General - Internet Crimes
+5 01/15/2025 1:29:34 PM JAR036
+HB1146
+1 Against Children for the fiscal year ending June 30, 2026, the following:
+2
+3 ITEM FISCAL YEAR
+4 NO. 2025-2026
+5 (01) MAINT. & GEN. OPERATION
+6 (A) OPER. EXPENSE $25,000
+7 (B) CONF. & TRAVEL 0
+8 (C) PROF. FEES 0
+9 (D) CAP. OUTLAY 0
+10 (E) DATA PROC. 0
+11 TOTAL AMOUNT APPROPRIATED $25,000
+12
+13 SECTION 11. REGULAR SALARIES - COOPERATIVE DISABILITY INVESTIGATION
+14 PROGRAM. There is hereby established for the Office of Attorney General -
+15 Cooperative Disability Investigation Program for the 2025-2026 fiscal year,
+16 the following maximum number of regular employees.
+17
+18 Maximum Annual
+19 Maximum Salary Rate
+20 Item Class No. of Fiscal Year
+21 No. Code Title Employees 2025-2026
+22 (1) Q074U INVESTIGATOR I 2 $99,000
+23 (2) Q433U SENIOR ADMINISTRATIVE ASSISTANT 1 $85,000
+24 MAX. NO. OF EMPLOYEES 3
+25
+26 SECTION 12. APPROPRIATION - COOPERATIVE DISABILITY INVESTIGATION
+27 PROGRAM. There is hereby appropriated, to the Office of Attorney General, to
+28 be payable from the federal funds as designated by the Chief Fiscal Officer
+29 of the State, for personal services and operating expenses of the Office of
+30 Attorney General - Cooperative Disability Investigation Program for the
+31 fiscal year ending June 30, 2026, the following:
+32
+33 ITEM FISCAL YEAR
+34 NO. 2025-2026
+35 (01) REGULAR SALARIES $285,600
+36 (02) PERSONAL SERVICES MATCHING 99,125
+6 01/15/2025 1:29:34 PM JAR036
+HB1146
+1 (03) OVERTIME 42,000
+2 (04) MAINT. & GEN. OPERATION
+3 (A) OPER. EXPENSE 55,000
+4 (B) CONF. & TRAVEL 5,000
+5 (C) PROF. FEES 0
+6 (D) CAP. OUTLAY 0
+7 (E) DATA PROC. 0
+8 TOTAL AMOUNT APPROPRIATED $486,725
+9
+10 SECTION 13. APPROPRIATION - CASH FUNDS - UNRESTRICTED SETTLEMENT FEES
+11 AND OTHER CASH FUNDS. There is hereby appropriated, to the Office of
+12 Attorney General, to be payable from the cash funds as defined by Arkansas
+13 Code 19-4-801, for personal services, miscellaneous operating expenses,
+14 grants, court order payments, consumer education and enforcement activities
+15 from unrestricted settlement fees and other cash funds of the Office of
+16 Attorney General for the fiscal year ending June 30, 2026, the sum
+17 of...............................................................$10,000,000.
+18
+19 SECTION 14. APPROPRIATION - SETTLEMENT FEES AND RESTITUTION. There is
+20 hereby appropriated, to the Office of Attorney General, to be payable from
+21 the cash funds as defined by Arkansas Code 19-4-801, for personal services,
+22 miscellaneous operating expenses, grants, fund transfers, and restitution
+23 payments and expenses of the Office of Attorney General for the fiscal year
+24 ending June 30, 2026, the sum of.....................................$31,000.
+25
+26 SECTION 15. SPECIAL LANGUAGE. NOT TO BE INCORPORATED INTO THE ARKANSAS
+27 CODE NOR PUBLISHED SEPARATELY AS SPECIAL, LOCAL AND TEMPORARY LAW.
+28 TRANSFER PROVISION. After receiving approval from the Chief Fiscal Officer
+29 of the State, and prior review by the Arkansas Legislative Council or Joint
+30 Budget Committee, the Office of Attorney General is authorized to transfer
+31 appropriation from any line item authorized in the Operations Appropriation
+32 of the Office of Attorney General in this Act to any other line item
+33 authorized in the Operations Appropriation.
+34 The provisions of this section shall be in effect only from July 1, 2024
+35 2025 through June 30, 2025 2026.
+36
+7 01/15/2025 1:29:34 PM JAR036
+HB1146
+1 SECTION 16. SPECIAL LANGUAGE. NOT TO BE INCORPORATED INTO THE ARKANSAS
+2 CODE NOR PUBLISHED SEPARATELY AS SPECIAL, LOCAL AND TEMPORARY LAW.
+3 FUND TRANSFER. Immediately upon the effective date of this act, the Attorney
+4 General may deposit or transfer by check monies from the unobligated cash
+5 funds of the Office of Attorney General received from court orders or
+6 settlement agreements to the State Central Services Fund.
+7 The provisions of this section shall be in effect only from July 1, 2024
+8 2025 through June 30, 2025 2026.
+9
+10 SECTION 17. COMPLIANCE WITH OTHER LAWS. Disbursement of funds
+11 authorized by this act shall be limited to the appropriation for such agency
+12 and funds made available by law for the support of such appropriations; and
+13 the restrictions of the State Procurement Law, the General Accounting and
+14 Budgetary Procedures Law, the Revenue Stabilization Law, the Regular Salary
+15 Procedures and Restrictions Act, or their successors, and other fiscal
+16 control laws of this State, where applicable, and regulations promulgated by
+17 the Department of Finance and Administration, as authorized by law, shall be
+18 strictly complied with in disbursement of said funds.
+19
+20 SECTION 18. LEGISLATIVE INTENT. It is the intent of the General
+21 Assembly that any funds disbursed under the authority of the appropriations
+22 contained in this act shall be in compliance with the stated reasons for
+23 which this act was adopted, as evidenced by the Agency Requests, Executive
+24 Recommendations and Legislative Recommendations contained in the budget
+25 manuals prepared by the Department of Finance and Administration, letters, or
+26 summarized oral testimony in the official minutes of the Arkansas Legislative
+27 Council or Joint Budget Committee which relate to its passage and adoption.
+28
+29 SECTION 19. EMERGENCY CLAUSE. It is found and determined by the
+30 General Assembly, that the Constitution of the State of Arkansas prohibits
+31 the appropriation of funds for more than a one (1) year period; that the
+32 effectiveness of this Act on July 1, 2025 is essential to the operation of
+33 the agency for which the appropriations in this Act are provided, and that in
+34 the event of an extension of the legislative session, the delay in the
+35 effective date of this Act beyond July 1, 2025 could work irreparable harm
+36 upon the proper administration and provision of essential governmental
+8 01/15/2025 1:29:34 PM JAR036
+HB1146
+1 programs. Therefore, an emergency is hereby declared to exist and this Act
+2 being necessary for the immediate preservation of the public peace, health
+3 and safety shall be in full force and effect from and after July 1, 2025.
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+9 01/15/2025 1:29:34 PM JAR036
+[DELETED:       A A G F  A G F    B   S f f                     ]
+[DELETED: H2 0                           S t t a t t o   S t S A  I   ( ( ( (        ]
+[DELETED: H3 0       S i D o                        S h t o f  I   ( ( (            ]
+[DELETED: H4 0   S i D n                                  S h D n p o p s   S h t p M]
+[DELETED: H5 0 t  I   ( ( ( (               S T p t M 2  I   (               S h t o]
+[DELETED: H6 0 A  I   (               S P C t                  S P b o A f  I   ( (]
+[DELETED: H7 0 ( (               S A A C g f A o   S h t m p e   S C T o B a o a   2 ]
+[DELETED: H8 0  S C F G f s   2   S a a t B P c t s   S A c w R m s C   S G t e t t e u]
+[DELETED: H9 0 p b a                                 ]
+
+
+================================================================================
+
+Raw Text:
+Stricken language would be deleted from and underlined language would be added to present law.
+1 State of Arkansas
+A Bill
+2 95th General Assembly
+3 Regular Session, 2025 HOUSE BILL 1146
+4
+5 By: Joint Budget Committee
+6
+7
+For An Act To Be Entitled
+8
+9 AN ACT TO MAKE AN APPROPRIATION FOR PERSONAL SERVICES
+10 AND OPERATING EXPENSES FOR THE OFFICE OF ATTORNEY
+11 GENERAL FOR THE FISCAL YEAR ENDING JUNE 30, 2026; AND
+12 FOR OTHER PURPOSES.
+13
+14
+Subtitle
+15
+16 AN ACT FOR THE OFFICE OF ATTORNEY
+17 GENERAL APPROPRIATION FOR THE 2025-2026
+18 FISCAL YEAR.
+19
+20
+21 BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF ARKANSAS:
+22
+23 SECTION 1. REGULAR SALARIES - OPERATIONS. There is hereby established
+24 for the Office of Attorney General for the 2025-2026 fiscal year, the
+25 following maximum number of regular employees.
+26
+27 Maximum Annual
+28 Maximum Salary Rate
+29 Item Class No. of Fiscal Year
+30 No. Code Title Employees 2025-2026
+31 (1) Q426U CHIEF DEPUTY ATTORNEY GENERAL 1 $200,000
+32 (2) Q242U SOLICITOR GENERAL 1 $200,000
+33 (3) Q427U DEPUTY ATTORNEY GENERAL 12 $184,000
+34 (4) Q428U SENIOR ASSISTANT ATTORNEY GENERAL I 4 $161,000
+35 (5) Q446U SENIOR MANAGEMENT ASSISTANT I 4 $155,000
+36 (6) Q434U SENIOR ASSISTANT ATTORNEY GENERAL II 12 $154,000
+*JAR036*
+01/15/2025 1:29:34 PM JAR036
+
+HB1146
+1 (7) Q448U SENIOR MANAGEMENT ASSISTANT II 5 $138,000
+2 (8) Q447U SENIOR ASSISTANT ATTORNEY GENERAL III 17 $138,000
+3 (9) Q430U ASSISTANT ATTORNEY GENERAL I 13 $124,000
+4 (10) Q431U ASSISTANT ATTORNEY GENERAL II 22 $111,000
+5 (11) Q432U MANAGEMENT ASSISTANT 7 $99,000
+6 (12) Q074U INVESTIGATOR I 4 $99,000
+7 (13) Q433U SENIOR ADMINISTRATIVE ASSISTANT 12 $85,000
+8 (14) Q070U INVESTIGATOR II 6 $85,000
+9 (15) Q130U INVESTIGATOR III 10 $71,000
+10 (16) Q034U ADMINISTRATIVE ASSISTANT I 18 $71,000
+11 (17) Q071U ADMINISTRATIVE ASSISTANT II 16 $64,000
+12 MAX. NO. OF EMPLOYEES 164
+13
+14 SECTION 2. EXTRA HELP - OPERATIONS. There is hereby authorized, for
+15 the Office of Attorney General - Operations for the 2025-2026 fiscal year,
+16 the following maximum number of part-time or temporary employees, to be known
+17 as "Extra Help", payable from funds appropriated herein for such purposes:
+18 ten (10) temporary or part-time employees, when needed, at rates of pay not
+19 to exceed those provided in the Uniform Classification and Compensation Act,
+20 or its successor, or this act for the appropriate classification.
+21
+22 SECTION 3. APPROPRIATION - OPERATIONS. There is hereby appropriated,
+23 to the Office of Attorney General, to be payable from the State Central
+24 Services Fund, for personal services and operating expenses of the Office of
+25 Attorney General for the fiscal year ending June 30, 2026, the following:
+26
+27 ITEM FISCAL YEAR
+28 NO. 2025-2026
+29 (01) REGULAR SALARIES $18,533,205
+30 (02) EXTRA HELP 250,000
+31 (03) PERSONAL SERVICES MATCHING 5,624,505
+32 (04) MAINT. & GEN. OPERATION
+33 (A) OPER. EXPENSE 1,885,000
+34 (B) CONF. & TRAVEL 25,000
+35 (C) PROF. FEES 50,000
+36 (D) CAP. OUTLAY 25,000
+2 01/15/2025 1:29:34 PM JAR036
+
+HB1146
+1 (E) DATA PROC. 0
+2 TOTAL AMOUNT APPROPRIATED $26,392,710
+3
+4 SECTION 4. REGULAR SALARIES - MEDICAID FRAUD DIVISION - STATE. There
+5 is hereby established for the Office of Attorney General - Medicaid Fraud
+6 Division - State for the 2025-2026 fiscal year, the following maximum number
+7 of regular employees.
+8
+9 Maximum Annual
+10 Maximum Salary Rate
+11 Item Class No. of Fiscal Year
+12 No. Code Title Employees 2025-2026
+13 (1) Q427U DEPUTY ATTORNEY GENERAL 1 $184,000
+14 (2) Q448U SENIOR MANAGEMENT ASSISTANT II 1 $138,000
+15 (3) Q430U ASSISTANT ATTORNEY GENERAL I 2 $124,000
+16 (4) Q432U MANAGEMENT ASSISTANT 1 $99,000
+17 (5) Q071U ADMINISTRATIVE ASSISTANT II 1 $64,000
+18 MAX. NO. OF EMPLOYEES 6
+19
+20 SECTION 5. APPROPRIATION - MEDICAID FRAUD DIVISION - STATE. There is
+21 hereby appropriated, to the Office of Attorney General, to be payable from
+22 the State Central Services Fund, for personal services and operating expenses
+23 of the Office of Attorney General - Medicaid Fraud Division - State for the
+24 fiscal year ending June 30, 2026, the following:
+25
+26 ITEM FISCAL YEAR
+27 NO. 2025-2026
+28 (01) REGULAR SALARIES $738,800
+29 (02) PERSONAL SERVICES MATCHING 219,547
+30 (03) MAINT. & GEN. OPERATION
+31 (A) OPER. EXPENSE 56,235
+32 (B) CONF. & TRAVEL 27,100
+33 (C) PROF. FEES 17,000
+34 (D) CAP. OUTLAY 10,500
+35 (E) DATA PROC. 0
+36 TOTAL AMOUNT APPROPRIATED $1,069,182
+3 01/15/2025 1:29:34 PM JAR036
+
+HB1146
+1
+2 SECTION 6. REGULAR SALARIES - MEDICAID FRAUD DIVISION - FEDERAL. There
+3 is hereby established for the Office of Attorney General - Medicaid Fraud
+4 Division - Federal for the 2025-2026 fiscal year, the following maximum
+5 number of regular employees.
+6
+7 Maximum Annual
+8 Maximum Salary Rate
+9 Item Class No. of Fiscal Year
+10 No. Code Title Employees 2025-2026
+11 (1) Q428U SENIOR ASSISTANT ATTORNEY GENERAL I 2 $161,000
+12 (2) Q448U SENIOR MANAGEMENT ASSISTANT II 1 $138,000
+13 (3) Q447U SENIOR ASSISTANT ATTORNEY GENERAL III 1 $138,000
+14 (4) Q430U ASSISTANT ATTORNEY GENERAL I 2 $124,000
+15 (5) Q431U ASSISTANT ATTORNEY GENERAL II 1 $111,000
+16 (6) Q432U MANAGEMENT ASSISTANT 1 $99,000
+17 (7) Q074U INVESTIGATOR I 2 $99,000
+18 (8) Q433U SENIOR ADMINISTRATIVE ASSISTANT 3 $85,000
+19 (9) Q070U INVESTIGATOR II 5 $85,000
+20 (10) Q071U ADMINISTRATIVE ASSISTANT II 1 $64,000
+21 MAX. NO. OF EMPLOYEES 19
+22
+23 SECTION 7. EXTRA HELP - MEDICAID FRAUD DIVISION - FEDERAL. There is
+24 hereby authorized, for the Office of Attorney General - Medicaid Fraud
+25 Division - Federal for the 2025-2026 fiscal year, the following maximum
+26 number of part-time or temporary employees, to be known as "Extra Help",
+27 payable from funds appropriated herein for such purposes: two (2) temporary
+28 or part-time employees, when needed, at rates of pay not to exceed those
+29 provided in the Uniform Classification and Compensation Act, or its
+30 successor, or this act for the appropriate classification.
+31
+32 SECTION 8. APPROPRIATION - MEDICAID FRAUD DIVISION - FEDERAL. There is
+33 hereby appropriated, to the Office of Attorney General, to be payable from
+34 the federal funds as designated by the Chief Fiscal Officer of the State, for
+35 personal services and operating expenses of the Office of Attorney General -
+36 Medicaid Fraud Division - Federal for the fiscal year ending June 30, 2026,
+4 01/15/2025 1:29:34 PM JAR036
+
+HB1146
+1 the following:
+2
+3 ITEM FISCAL YEAR
+4 NO. 2025-2026
+5 (01) REGULAR SALARIES $2,009,600
+6 (02) EXTRA HELP 30,000
+7 (03) PERSONAL SERVICES MATCHING 614,785
+8 (04) MAINT. & GEN. OPERATION
+9 (A) OPER. EXPENSE 321,275
+10 (B) CONF. & TRAVEL 81,300
+11 (C) PROF. FEES 418,469
+12 (D) CAP. OUTLAY 31,500
+13 (E) DATA PROC. 0
+14 TOTAL AMOUNT APPROPRIATED $3,506,929
+15
+16 SECTION 9. APPROPRIATION - MEDICAID FRAUD DIVISION - INDIRECT COSTS.
+17 There is hereby appropriated, to the Office of Attorney General, to be
+18 payable from the federal funds as designated by the Chief Fiscal Officer of
+19 the State, for operating expenses of the Office of Attorney General -
+20 Medicaid Fraud Division - Indirect Costs for the fiscal year ending June 30,
+21 2026, the following:
+22
+23 ITEM FISCAL YEAR
+24 NO. 2025-2026
+25 (01) MAINT. & GEN. OPERATION
+26 (A) OPER. EXPENSE $498,461
+27 (B) CONF. & TRAVEL 0
+28 (C) PROF. FEES 0
+29 (D) CAP. OUTLAY 0
+30 (E) DATA PROC. 0
+31 TOTAL AMOUNT APPROPRIATED $498,461
+32
+33 SECTION 10. APPROPRIATION - INTERNET CRIMES AGAINST CHILDREN. There is
+34 hereby appropriated, to the Office of Attorney General, to be payable from
+35 the federal funds as designated by the Chief Fiscal Officer of the State, for
+36 operating expenses of the Office of Attorney General - Internet Crimes
+5 01/15/2025 1:29:34 PM JAR036
+
+HB1146
+1 Against Children for the fiscal year ending June 30, 2026, the following:
+2
+3 ITEM FISCAL YEAR
+4 NO. 2025-2026
+5 (01) MAINT. & GEN. OPERATION
+6 (A) OPER. EXPENSE $25,000
+7 (B) CONF. & TRAVEL 0
+8 (C) PROF. FEES 0
+9 (D) CAP. OUTLAY 0
+10 (E) DATA PROC. 0
+11 TOTAL AMOUNT APPROPRIATED $25,000
+12
+13 SECTION 11. REGULAR SALARIES - COOPERATIVE DISABILITY INVESTIGATION
+14 PROGRAM. There is hereby established for the Office of Attorney General -
+15 Cooperative Disability Investigation Program for the 2025-2026 fiscal year,
+16 the following maximum number of regular employees.
+17
+18 Maximum Annual
+19 Maximum Salary Rate
+20 Item Class No. of Fiscal Year
+21 No. Code Title Employees 2025-2026
+22 (1) Q074U INVESTIGATOR I 2 $99,000
+23 (2) Q433U SENIOR ADMINISTRATIVE ASSISTANT 1 $85,000
+24 MAX. NO. OF EMPLOYEES 3
+25
+26 SECTION 12. APPROPRIATION - COOPERATIVE DISABILITY INVESTIGATION
+27 PROGRAM. There is hereby appropriated, to the Office of Attorney General, to
+28 be payable from the federal funds as designated by the Chief Fiscal Officer
+29 of the State, for personal services and operating expenses of the Office of
+30 Attorney General - Cooperative Disability Investigation Program for the
+31 fiscal year ending June 30, 2026, the following:
+32
+33 ITEM FISCAL YEAR
+34 NO. 2025-2026
+35 (01) REGULAR SALARIES $285,600
+36 (02) PERSONAL SERVICES MATCHING 99,125
+6 01/15/2025 1:29:34 PM JAR036
+
+HB1146
+1 (03) OVERTIME 42,000
+2 (04) MAINT. & GEN. OPERATION
+3 (A) OPER. EXPENSE 55,000
+4 (B) CONF. & TRAVEL 5,000
+5 (C) PROF. FEES 0
+6 (D) CAP. OUTLAY 0
+7 (E) DATA PROC. 0
+8 TOTAL AMOUNT APPROPRIATED $486,725
+9
+10 SECTION 13. APPROPRIATION - CASH FUNDS - UNRESTRICTED SETTLEMENT FEES
+11 AND OTHER CASH FUNDS. There is hereby appropriated, to the Office of
+12 Attorney General, to be payable from the cash funds as defined by Arkansas
+13 Code 19-4-801, for personal services, miscellaneous operating expenses,
+14 grants, court order payments, consumer education and enforcement activities
+15 from unrestricted settlement fees and other cash funds of the Office of
+16 Attorney General for the fiscal year ending June 30, 2026, the sum
+17 of...............................................................$10,000,000.
+18
+19 SECTION 14. APPROPRIATION - SETTLEMENT FEES AND RESTITUTION. There is
+20 hereby appropriated, to the Office of Attorney General, to be payable from
+21 the cash funds as defined by Arkansas Code 19-4-801, for personal services,
+22 miscellaneous operating expenses, grants, fund transfers, and restitution
+23 payments and expenses of the Office of Attorney General for the fiscal year
+24 ending June 30, 2026, the sum of.....................................$31,000.
+25
+26 SECTION 15. SPECIAL LANGUAGE. NOT TO BE INCORPORATED INTO THE ARKANSAS
+27 CODE NOR PUBLISHED SEPARATELY AS SPECIAL, LOCAL AND TEMPORARY LAW.
+28 TRANSFER PROVISION. After receiving approval from the Chief Fiscal Officer
+29 of the State, and prior review by the Arkansas Legislative Council or Joint
+30 Budget Committee, the Office of Attorney General is authorized to transfer
+31 appropriation from any line item authorized in the Operations Appropriation
+32 of the Office of Attorney General in this Act to any other line item
+33 authorized in the Operations Appropriation.
+34 The provisions of this section shall be in effect only from July 1, 2024
+35 2025 through June 30, 2025 2026.
+36
+7 01/15/2025 1:29:34 PM JAR036
+
+HB1146
+1 SECTION 16. SPECIAL LANGUAGE. NOT TO BE INCORPORATED INTO THE ARKANSAS
+2 CODE NOR PUBLISHED SEPARATELY AS SPECIAL, LOCAL AND TEMPORARY LAW.
+3 FUND TRANSFER. Immediately upon the effective date of this act, the Attorney
+4 General may deposit or transfer by check monies from the unobligated cash
+5 funds of the Office of Attorney General received from court orders or
+6 settlement agreements to the State Central Services Fund.
+7 The provisions of this section shall be in effect only from July 1, 2024
+8 2025 through June 30, 2025 2026.
+9
+10 SECTION 17. COMPLIANCE WITH OTHER LAWS. Disbursement of funds
+11 authorized by this act shall be limited to the appropriation for such agency
+12 and funds made available by law for the support of such appropriations; and
+13 the restrictions of the State Procurement Law, the General Accounting and
+14 Budgetary Procedures Law, the Revenue Stabilization Law, the Regular Salary
+15 Procedures and Restrictions Act, or their successors, and other fiscal
+16 control laws of this State, where applicable, and regulations promulgated by
+17 the Department of Finance and Administration, as authorized by law, shall be
+18 strictly complied with in disbursement of said funds.
+19
+20 SECTION 18. LEGISLATIVE INTENT. It is the intent of the General
+21 Assembly that any funds disbursed under the authority of the appropriations
+22 contained in this act shall be in compliance with the stated reasons for
+23 which this act was adopted, as evidenced by the Agency Requests, Executive
+24 Recommendations and Legislative Recommendations contained in the budget
+25 manuals prepared by the Department of Finance and Administration, letters, or
+26 summarized oral testimony in the official minutes of the Arkansas Legislative
+27 Council or Joint Budget Committee which relate to its passage and adoption.
+28
+29 SECTION 19. EMERGENCY CLAUSE. It is found and determined by the
+30 General Assembly, that the Constitution of the State of Arkansas prohibits
+31 the appropriation of funds for more than a one (1) year period; that the
+32 effectiveness of this Act on July 1, 2025 is essential to the operation of
+33 the agency for which the appropriations in this Act are provided, and that in
+34 the event of an extension of the legislative session, the delay in the
+35 effective date of this Act beyond July 1, 2025 could work irreparable harm
+36 upon the proper administration and provision of essential governmental
+8 01/15/2025 1:29:34 PM JAR036
+
+HB1146
+1 programs. Therefore, an emergency is hereby declared to exist and this Act
+2 being necessary for the immediate preservation of the public peace, health
+3 and safety shall be in full force and effect from and after July 1, 2025.
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+9 01/15/2025 1:29:34 PM JAR036
+
+[DELETED:       A A G F  A G F    B   S f f                     ]
+[DELETED: H2 0                           S t t a t t o   S t S A  I   ( ( ( (        ]
+[DELETED: H3 0       S i D o                        S h t o f  I   ( ( (            ]
+[DELETED: H4 0   S i D n                                  S h D n p o p s   S h t p M]
+[DELETED: H5 0 t  I   ( ( ( (               S T p t M 2  I   (               S h t o]
+[DELETED: H6 0 A  I   (               S P C t                  S P b o A f  I   ( (]
+[DELETED: H7 0 ( (               S A A C g f A o   S h t m p e   S C T o B a o a   2 ]
+[DELETED: H8 0  S C F G f s   2   S a a t B P c t s   S A c w R m s C   S G t e t t e u]
+[DELETED: H9 0 p b a                                 ]

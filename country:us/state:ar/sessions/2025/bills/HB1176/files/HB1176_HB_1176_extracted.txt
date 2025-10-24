@@ -1,0 +1,970 @@
+Title: Stricken language would be deleted from and underlined language would be added to present law.
+Official Title: Stricken language would be deleted from and underlined language would be added to present law.
+Number of Sections: 1
+Source: versions - HB 1176
+Media Type: application/pdf
+Strikethrough Detection: 12 sections found
+
+================================================================================
+
+Section 1:
+1 State of Arkansas
+A Bill
+2 95th General Assembly
+3 Regular Session, 2025 HOUSE BILL 1176
+4
+5 By: Joint Budget Committee
+6
+7
+For An Act To Be Entitled
+8
+9 AN ACT TO MAKE AN APPROPRIATION FOR PERSONAL SERVICES
+10 AND OPERATING EXPENSES FOR THE DEPARTMENT OF PUBLIC
+11 SAFETY - DIVISION OF EMERGENCY MANAGEMENT FOR THE
+12 FISCAL YEAR ENDING JUNE 30, 2026; AND FOR OTHER
+13 PURPOSES.
+14
+15
+Subtitle
+16
+17 AN ACT FOR THE DEPARTMENT OF PUBLIC
+18 SAFETY - DIVISION OF EMERGENCY
+19 MANAGEMENT APPROPRIATION FOR THE 2025-
+20 2026 FISCAL YEAR.
+21
+22
+23 BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF ARKANSAS:
+24
+25 SECTION 1. REGULAR SALARIES. There is hereby established for the
+26 Department of Public Safety - Division of Emergency Management for the 2025-
+27 2026 fiscal year, the following maximum number of regular employees.
+28
+29 Maximum Annual
+30 Maximum Salary Rate
+31 Item Class No. of Fiscal Year
+32 No. Code Title Employees 2025-2026
+33 (1) U013U ADEM DIRECTOR 1 GRADE SE01
+34 (2) D043C ADEM INFO TECHNOLOGY DIVISION DIRECTOR 1 GRADE IT08
+35 (3) D014C STATE SYSTEMS ADMINISTRATOR 1 GRADE IT08
+36 (4) D122C IT PROJECT MANAGER 1 GRADE IT07
+*DJC007*
+01/21/2025 7:46:23 AM DJC007
+HB1176
+1 (5) D016C SENIOR TECHNOLOGY ANALYST 1 GRADE IT06
+2 (6) D068C INFORMATION SYSTEMS ANALYST 2 GRADE IT04
+3 (7) D065C NETWORK SUPPORT ANALYST 4 GRADE IT04
+4 (8) D084C COMPUTER OPERATOR 1 GRADE IT02
+5 (9) G350C ADEM SENIOR DEPUTY DIRECTOR 1 GRADE GS13
+6 (10) G055C ADEM DEPUTY DIRECTOR 2 GRADE GS12
+7 (11) A014C FISCAL DIVISION MANAGER 1 GRADE GS12
+8 (12) G047C ATTORNEY SPECIALIST 1 GRADE GS11
+9 (13) G076C ADMINISTRATIVE SERVICES MANAGER 1 GRADE GS10
+10 (14) G109C GRANTS MANAGER 3 GRADE GS09
+11 (15) P004C PUBLIC INFORMATION MANAGER 1 GRADE GS09
+12 (16) G140C ADEM PROGRAM MANAGER 8 GRADE GS08
+13 (17) E026C EDUCATION & INSTRUCTION COORDINATOR 2 GRADE GS08
+14 (18) V002C FEDERAL SURPLUS PROPERTY MANAGER 2 GRADE GS08
+15 (19) R014C PERSONNEL MANAGER 1 GRADE GS08
+16 (20) V004C PROCUREMENT MANAGER 1 GRADE GS08
+17 (21) G157C ADEM AREA COORDINATOR 7 GRADE GS07
+18 (22) R024C ASSISTANT PERSONNEL MANAGER 1 GRADE GS07
+19 (23) C010C EXECUTIVE ASSISTANT TO THE DIRECTOR 1 GRADE GS07
+20 (24) A075C FINANCIAL ANALYST I 1 GRADE GS07
+21 (25) G147C GRANTS COORDINATOR 6 GRADE GS07
+22 (26) A063C RESEARCH & STATISTICS SUPERVISOR 1 GRADE GS07
+23 (27) G175C ADEM PROGRAM COORDINATOR 8 GRADE GS06
+24 (28) C120C ADEM SR EMERGENCY MGMT DUTY OFFICER 8 GRADE GS06
+25 (29) R027C BUDGET SPECIALIST 1 GRADE GS06
+26 (30) G208C EMERGENCY PLANNER 5 GRADE GS06
+27 (31) G180C GRANTS ANALYST 4 GRADE GS06
+28 (32) G214C GRANTS SPECIALIST 1 GRADE GS06
+29 (33) G204C PLANNING SPECIALIST 2 GRADE GS06
+30 (34) T061C SENIOR IA 1 GRADE GS06
+31 (35) D074C TELECOMMUNICATIONS SUPERVISOR 1 GRADE GS06
+32 (36) E046C TRAINING INSTRUCTOR 1 GRADE GS06
+33 (37) C038C ADEM EMERGENCY MANAGEMENT DUTY OFFICER 1 GRADE GS05
+34 (38) S025C BUILDING AND GROUNDS COORDINATOR 2 GRADE GS05
+35 (39) V014C BUYER 1 GRADE GS05
+36 (40) A091C FISCAL SUPPORT ANALYST 5 GRADE GS05
+2 01/21/2025 7:46:23 AM DJC007
+HB1176
+1 (41) S034C INTERSTATE TRUCK DRIVER 3 GRADE GS05
+2 (42) C056C ADMINISTRATIVE SPECIALIST III 5 GRADE GS04
+3 (43) T079C FACILITY MANAGER II 1 GRADE GS04
+4 (44) A098C FISCAL SUPPORT SPECIALIST 3 GRADE GS04
+5 (45) V021C SURPLUS PROPERTY AGENT 3 GRADE GS04
+6 (46) V019C SURPLUS PROPERTY SPECIALIST 1 GRADE GS04
+7 (47) C073C ADMINISTRATIVE SPECIALIST II 1 GRADE GS03
+8 (48) S050C MAINTENANCE SPECIALIST 1 GRADE GS03
+9 MAX. NO. OF EMPLOYEES 112
+10
+11 SECTION 2. EXTRA HELP. There is hereby authorized, for the Department
+12 of Public Safety - Division of Emergency Management for the 2025-2026 fiscal
+13 year, the following maximum number of part-time or temporary employees, to be
+14 known as "Extra Help", payable from funds appropriated herein for such
+15 purposes: twenty-eight (28) temporary or part-time employees, when needed, at
+16 rates of pay not to exceed those provided in the Uniform Classification and
+17 Compensation Act, or its successor, or this act for the appropriate
+18 classification.
+19
+20 SECTION 3. APPROPRIATION - STATE OPERATIONS. There is hereby
+21 appropriated, to the Department of Public Safety, to be payable from the
+22 Miscellaneous Agencies Fund Account, for personal services and operating
+23 expenses of the Department of Public Safety - Division of Emergency
+24 Management - State Operations for the fiscal year ending June 30, 2026, the
+25 following:
+26
+27 ITEM FISCAL YEAR
+28 NO. 2025-2026
+29 (01) REGULAR SALARIES $2,773,772
+30 (02) PERSONAL SERVICES MATCHING 1,103,636
+31 (03) OVERTIME 10,000
+32 (04) MAINT. & GEN. OPERATION
+33 (A) OPER. EXPENSE 490,306
+34 (B) CONF. & TRAVEL 0
+35 (C) PROF. FEES 0
+36 (D) CAP. OUTLAY 0
+3 01/21/2025 7:46:23 AM DJC007
+HB1176
+1 (E) DATA PROC. 0
+2 TOTAL AMOUNT APPROPRIATED $4,377,714
+3
+4 SECTION 4. APPROPRIATION - FEDERAL OPERATIONS. There is hereby
+5 appropriated, to the Department of Public Safety, to be payable from the
+6 federal funds as designated by the Chief Fiscal Officer of the State, for
+7 personal services, operating expenses and First Responder and Homeland
+8 Security Grants and Aid of the Department of Public Safety - Division of
+9 Emergency Management - Federal Operations for the fiscal year ending June 30,
+10 2026, the following:
+11
+12 ITEM FISCAL YEAR
+13 NO. 2025-2026
+14 (01) REGULAR SALARIES $538,725
+15 (02) EXTRA HELP 156,438
+16 (03) PERSONAL SERVICES MATCHING 226,507
+17 (04) OVERTIME 5,000
+18 (05) MAINT. & GEN. OPERATION
+19 (A) OPER. EXPENSE 1,155,207
+20 (B) CONF. & TRAVEL 100,000
+21 (C) PROF. FEES 100,000
+22 (D) CAP. OUTLAY 0
+23 (E) DATA PROC. 0
+24 (06) GRANTS / AID - FIRST RESPONDER &
+25 HOMELAND SECURITY 10,000,000
+26 TOTAL AMOUNT APPROPRIATED $12,281,877
+27
+28 SECTION 5. APPROPRIATION - DISASTER RELIEF GRANTS. There is hereby
+29 appropriated, to the Department of Public Safety, to be payable from the
+30 federal funds as designated by the Chief Fiscal Officer of the State, for
+31 personal services, operating expenses and Disaster Relief Grants and Aid of
+32 the Department of Public Safety - Division of Emergency Management - Disaster
+33 Relief Grants for the fiscal year ending June 30, 2026, the following:
+34
+35 ITEM FISCAL YEAR
+36 NO. 2025-2026
+4 01/21/2025 7:46:23 AM DJC007
+HB1176
+1 (01) REGULAR SALARIES $536,763
+2 (02) EXTRA HELP 625,751
+3 (03) PERSONAL SERVICES MATCHING 305,243
+4 (04) OVERTIME 175,000
+5 (05) MAINT. & GEN. OPERATION
+6 (A) OPER. EXPENSE 120,850
+7 (B) CONF. & TRAVEL 30,000
+8 (C) PROF. FEES 234,500
+9 (D) CAP. OUTLAY 0
+10 (E) DATA PROC. 0
+11 (06) GRANTS/AID DISASTER RELIEF 436,491,222
+12 TOTAL AMOUNT APPROPRIATED $438,519,329
+13
+14 SECTION 6. APPROPRIATION - HAZARDOUS MATERIALS. There is hereby
+15 appropriated, to the Department of Public Safety, to be payable from the
+16 Office of Hazardous Materials Emergency Management Revolving Fund, for
+17 personal services, operating expenses and Hazardous Materials Management
+18 Grants and Aid of the Department of Public Safety - Division of Emergency
+19 Management - Hazardous Materials for the fiscal year ending June 30, 2026,
+20 the following:
+21
+22 ITEM FISCAL YEAR
+23 NO. 2025-2026
+24 (01) REGULAR SALARIES $176,152
+25 (02) EXTRA HELP 32,176
+26 (03) PERSONAL SERVICES MATCHING 79,014
+27 (04) OVERTIME 5,000
+28 (05) MAINT. & GEN. OPERATION
+29 (A) OPER. EXPENSE 280,438
+30 (B) CONF. & TRAVEL 82,792
+31 (C) PROF. FEES 25,000
+32 (D) CAP. OUTLAY 0
+33 (E) DATA PROC. 0
+34 (06) GRANTS/AID - HAZARDOUS MATERIALS
+35 MANAGEMENT 10,000
+36 TOTAL AMOUNT APPROPRIATED $690,572
+5 01/21/2025 7:46:23 AM DJC007
+HB1176
+1
+2 SECTION 7. APPROPRIATION - DISASTER RELIEF TRUST. There is hereby
+3 appropriated, to the Department of Public Safety, to be payable from the
+4 Arkansas Disaster Relief Program Trust Fund, for assistance to victims of
+5 state or federally declared disasters of the Department of Public Safety -
+6 Division of Emergency Management - Disaster Relief Trust for the fiscal year
+7 ending June 30, 2026, the following:
+8
+9 ITEM FISCAL YEAR
+10 NO. 2025-2026
+11 (01) GRANTS/AID - DISASTER RELIEF $639,365
+12
+13 SECTION 8. APPROPRIATION - RADIOLOGICAL EMERGENCY RESPONSE GRANTS.
+14 There is hereby appropriated, to the Department of Public Safety, to be
+15 payable from the cash fund deposited in the State Treasury as determined by
+16 the Chief Fiscal Officer of the State, for operating expenses of the
+17 Department of Public Safety - Division of Emergency Management - Radiological
+18 Emergency Response Grants for the fiscal year ending June 30, 2026, the
+19 following:
+20
+21 ITEM FISCAL YEAR
+22 NO. 2025-2026
+23 (01) MAINT. & GEN. OPERATION
+24 (A) OPER. EXPENSE $20,500
+25 (B) CONF. & TRAVEL 19,500
+26 (C) PROF. FEES 0
+27 (D) CAP. OUTLAY 0
+28 (E) DATA PROC. 0
+29 TOTAL AMOUNT APPROPRIATED $40,000
+30
+31 SECTION 9. APPROPRIATION - EMERGENCY OPERATIONS CENTER - CASH. There
+32 is hereby appropriated, to the Department of Public Safety, to be payable
+33 from the cash fund deposited in the State Treasury as determined by the Chief
+34 Fiscal Officer of the State, for operating expenses of the Department of
+35 Public Safety - Division of Emergency Management - Emergency Operations
+36 Center - Cash for the fiscal year ending June 30, 2026, the following:
+6 01/21/2025 7:46:23 AM DJC007
+HB1176
+1
+2 ITEM FISCAL YEAR
+3 NO. 2025-2026
+4 (01) EOC EXPENSES $207,440
+5
+6 SECTION 10. APPROPRIATION - FEDERAL SURPLUS PROPERTY PROGRAM. There is
+7 hereby appropriated, to the Department of Public Safety, to be payable from
+8 the Federal Surplus Property Fund, for personal services and operating
+9 expenses of the Department of Public Safety - Division of Emergency
+10 Management - Federal Surplus Property Program for the fiscal year ending June
+11 30, 2026, the following:
+12
+13 ITEM FISCAL YEAR
+14 NO. 2025-2026
+15 (01) REGULAR SALARIES $669,627
+16 (02) EXTRA HELP 6,000
+17 (03) PERSONAL SERVICES MATCHING 284,197
+18 (04) OVERTIME 30,000
+19 (05) MAINT. & GEN. OPERATION
+20 (A) OPER. EXPENSE 1,092,031
+21 (B) CONF. & TRAVEL 15,000
+22 (C) PROF. FEES 15,263
+23 (D) CAP. OUTLAY 0
+24 (E) DATA PROC. 0
+25 TOTAL AMOUNT APPROPRIATED $2,112,118
+26
+27 SECTION 11. APPROPRIATION - ARKANSAS 911 RURAL ENHANCEMENT PROGRAM.
+28 There is hereby appropriated, to the Department of Public Safety, to be
+29 payable from the cash fund deposited in the State Treasury as determined by
+30 the Chief Fiscal Officer of the State, for personal services, operating
+31 expenses and Enhancement Grants and Aid of the Department of Public Safety -
+32 Division of Emergency Management - Arkansas 911 Rural Enhancement Program for
+33 the fiscal year ending June 30, 2026, the following:
+34
+35 ITEM FISCAL YEAR
+36 NO. 2025-2026
+7 01/21/2025 7:46:23 AM DJC007
+HB1176
+1 (01) REGULAR SALARIES $94,061
+2 (02) PERSONAL SERVICES MATCHING 30,227
+3 (03) MAINT. & GEN. OPERATION
+4 (A) OPER. EXPENSE 937,636
+5 (B) CONF. & TRAVEL 10,000
+6 (C) PROF. FEES 0
+7 (D) CAP. OUTLAY 0
+8 (E) DATA PROC. 0
+9 (04) ENHANCEMENT GRANTS 2,000,000
+10 TOTAL AMOUNT APPROPRIATED $3,071,924
+11
+12 SECTION 12. APPROPRIATION - IMMEDIATE DISASTER RESPONSE. There is
+13 hereby appropriated, to the Department of Public Safety - Division of
+14 Emergency Management, to be payable from the Immediate Disaster Response
+15 Fund, for immediate expenses related to disaster response requests for the
+16 fiscal year ending June 30, 2026, the following:
+17
+18 ITEM FISCAL YEAR
+19 NO. 2025-2026
+20 (01) IMMEDIATE DISASTER RESPONSE $200,000
+21
+22 SECTION 13. APPROPRIATION - ARKANSAS PUBLIC SAFETY TRUST. There is
+23 hereby appropriated, to the Department of Public Safety - Division of
+24 Emergency Management, to be payable from the Arkansas Public Safety Trust
+25 Fund, for disbursements related to costs that enhance, operate, and maintain
+26 911 services in the State of Arkansas for the fiscal year ending June 30,
+27 2026, the following:
+28
+29 ITEM FISCAL YEAR
+30 NO. 2025-2026
+31 (01) REFUNDS/INVESTMENTS/TRANSFERS $75,000,000
+32
+33 SECTION 14. APPROPRIATION - ARKANSAS PUBLIC SAFETY TRUST FUND
+34 ADMINISTRATION. There is hereby appropriated, to the Department of Public
+35 Safety, to be payable from the cash fund deposited in the State Treasury as
+36 determined by the Chief Fiscal Officer of the State, for administrative
+8 01/21/2025 7:46:23 AM DJC007
+HB1176
+1 expenses of the Department of Public Safety - Division of Emergency
+2 Management - Arkansas Public Safety Trust Fund Administration for the fiscal
+3 year ending June 30, 2026, the following:
+4
+5 ITEM FISCAL YEAR
+6 NO. 2025-2026
+7 (01) ARKANSAS PUBLIC SAFETY TRUST FUND
+8 ADMINISTRATION EXPENSES $168,000
+9
+10 SECTION 15. APPROPRIATION - ARKANSAS WIRELESS INFORMATION NETWORK -
+11 CASH. There is hereby appropriated, to the Department of Public Safety, to
+12 be payable from the cash fund deposited in the State Treasury as determined
+13 by the Chief Fiscal Officer of the State, for expenses of the Department of
+14 Public Safety - Division of Emergency Management - Arkansas Wireless
+15 Information Network - Cash for the fiscal year ending June 30, 2026, the
+16 following:
+17
+18 ITEM FISCAL YEAR
+19 NO. 2025-2026
+20 (01) ARKANSAS WIRELESS INFORMATION NETWORK
+21 EXPENSES $10,000,000
+22
+23 SECTION 16. APPROPRIATION - ARKANSAS WIRELESS INFORMATION NETWORK.
+24 There is hereby appropriated, to the Department of Public Safety, to be
+25 payable from the Miscellaneous Agencies Fund Account, for personal services
+26 and operating expenses of the Department of Public Safety - Division of
+27 Emergency Management - Arkansas Wireless Information Network for the fiscal
+28 year ending June 30, 2026, the following:
+29
+30 ITEM FISCAL YEAR
+31 NO. 2025-2026
+32 (01) REGULAR SALARIES $477,441
+33 (02) PERSONAL SERVICES MATCHING 167,973
+34 (03) MAINT. & GEN. OPERATION
+35 (A) OPER. EXPENSE 6,801,925
+36 (B) CONF. & TRAVEL 5,000
+9 01/21/2025 7:46:23 AM DJC007
+HB1176
+1 (C) PROF. FEES 0
+2 (D) CAP. OUTLAY 0
+3 (E) DATA PROC. 0
+4 TOTAL AMOUNT APPROPRIATED $7,452,339
+5
+6 SECTION 17. APPROPRIATION - LEVEE MITIGATION - CASH. There is hereby
+7 appropriated, to the Department of Public Safety, to be payable from the cash
+8 fund deposited in the State Treasury as determined by the Chief Fiscal
+9 Officer of the State, for expenses related to levee mitigation efforts
+10 throughout the State of Arkansas of the Department of Public Safety -
+11 Division of Emergency Management - Levee Mitigation - Cash for the fiscal
+12 year ending June 30, 2026, the following:
+13
+14 ITEM FISCAL YEAR
+15 NO. 2025-2026
+16 (01) LEVEE MITIGATION PROGRAM $3,246
+17
+18 SECTION 18. REGULAR SALARIES - OFFICE OF FIRE PROTECTION SERVICES.
+19 There is hereby established for the Department of Public Safety - Division of
+20 Emergency Management - Office of Fire Protection Services for the 2025-2026
+21 fiscal year, the following maximum number of regular employees.
+22
+23 Maximum Annual
+24 Maximum Salary Rate
+25 Item Class No. of Fiscal Year
+26 No. Code Title Employees 2025-2026
+27 (1) X224C STATE FIRE MARSHALL 1 GRADE GS12
+28 (2) B021C LICENSED ARCHITECT 1 GRADE GS09
+29 (3) X227C ADEM FIRE MARSHALL INSPECTOR 2 GRADE GS07
+30 (4) S024C CONSTRUCTION/MAINTENANCE COORD 1 GRADE GS06
+31 MAX. NO. OF EMPLOYEES 5
+32
+33 SECTION 19. APPROPRIATION - OFFICE OF FIRE PROTECTION SERVICES. There
+34 is hereby appropriated, to the Department of Public Safety, to be payable
+35 from the Fire Services Fund, for personal services and operating expenses of
+36 the Department of Public Safety - Division of Emergency Management - Office
+10 01/21/2025 7:46:23 AM DJC007
+HB1176
+1 of Fire Protection Services for the fiscal year ending June 30, 2026, the
+2 following:
+3
+4 ITEM FISCAL YEAR
+5 NO. 2025-2026
+6 (01) REGULAR SALARIES $261,744
+7 (02) PERSONAL SERVICES MATCHING 131,295
+8 (03) MAINT. & GEN. OPERATION
+9 (A) OPER. EXPENSE 29,423
+10 (B) CONF. & TRAVEL 150
+11 (C) PROF. FEES 0
+12 (D) CAP. OUTLAY 0
+13 (E) DATA PROC. 0
+14 (04) FIRE SERVICES TRANSFER 1,600,000
+15 TOTAL AMOUNT APPROPRIATED $2,022,612
+16
+17 SECTION 20. APPROPRIATION - FIRE PROTECTION SERVICES BOARD. There is
+18 hereby appropriated, to the Department of Public Safety, to be payable from
+19 the Miscellaneous Agencies Fund Account, for miscellaneous grants and
+20 expenses of the Department of Public Safety - Division of Emergency
+21 Management - Fire Protection Services Board for the fiscal year ending June
+22 30, 2026, the following:
+23
+24 ITEM FISCAL YEAR
+25 NO. 2025-2026
+26 (01) FIRE PROTECTION GRANTS $30,000
+27
+28 SECTION 21. COMPLIANCE WITH OTHER LAWS. Disbursement of funds
+29 authorized by this act shall be limited to the appropriation for such agency
+30 and funds made available by law for the support of such appropriations; and
+31 the restrictions of the State Procurement Law, the General Accounting and
+32 Budgetary Procedures Law, the Revenue Stabilization Law, the Regular Salary
+33 Procedures and Restrictions Act, or their successors, and other fiscal
+34 control laws of this State, where applicable, and regulations promulgated by
+35 the Department of Finance and Administration, as authorized by law, shall be
+36 strictly complied with in disbursement of said funds.
+11 01/21/2025 7:46:23 AM DJC007
+HB1176
+1
+2 SECTION 22. LEGISLATIVE INTENT. It is the intent of the General
+3 Assembly that any funds disbursed under the authority of the appropriations
+4 contained in this act shall be in compliance with the stated reasons for
+5 which this act was adopted, as evidenced by the Agency Requests, Executive
+6 Recommendations and Legislative Recommendations contained in the budget
+7 manuals prepared by the Department of Finance and Administration, letters, or
+8 summarized oral testimony in the official minutes of the Arkansas Legislative
+9 Council or Joint Budget Committee which relate to its passage and adoption.
+10
+11 SECTION 23. EMERGENCY CLAUSE. It is found and determined by the
+12 General Assembly, that the Constitution of the State of Arkansas prohibits
+13 the appropriation of funds for more than a one (1) year period; that the
+14 effectiveness of this Act on July 1, 2025 is essential to the operation of
+15 the agency for which the appropriations in this Act are provided, and that in
+16 the event of an extension of the legislative session, the delay in the
+17 effective date of this Act beyond July 1, 2025 could work irreparable harm
+18 upon the proper administration and provision of essential governmental
+19 programs. Therefore, an emergency is hereby declared to exist and this Act
+20 being necessary for the immediate preservation of the public peace, health
+21 and safety shall be in full force and effect from and after July 1, 2025.
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+12 01/21/2025 7:46:23 AM DJC007
+[DELETED:       A A S F P  A S M 2    B   S D 2                 ]
+[DELETED: H2 0                                                                        ]
+[DELETED: H3 0                     S o y k p r C c   S a M e M f  I   ( ( ( (        ]
+[DELETED: H4 0       S a f p S E 2  I   ( ( ( ( (           (       S a f p t R  I  ]
+[DELETED: H5 0 ( ( ( ( (           (     S a O p G M t  I   ( ( ( ( (           (    ]
+[DELETED: H6 0   S a A s D e  I   (   S T p t D E f  I   (               S i f F P C]
+[DELETED: H7 0  I   (   S h t e M 3  I   ( ( ( ( (               S T p t e D t  I  ]
+[DELETED: H8 0 ( ( (           (     S h E F f  I   (   S h E F 9 2  I   (   S A S d]
+[DELETED: H9 0 e M y  I   (     S C b b P I f  I   (     S T p a E y  I   ( ( (    ]
+[DELETED: H1 0           S a f O t D y  I   (   S T E f                      S i f t]
+[DELETED: H1 0 o f  I   ( ( (           (     S h t e M 3  I   (   S a a t B P c t s]
+[DELETED: H1 0   S A c w R m s C   S G t e t t e u p b a               ]
+
+
+================================================================================
+
+Raw Text:
+Stricken language would be deleted from and underlined language would be added to present law.
+1 State of Arkansas
+A Bill
+2 95th General Assembly
+3 Regular Session, 2025 HOUSE BILL 1176
+4
+5 By: Joint Budget Committee
+6
+7
+For An Act To Be Entitled
+8
+9 AN ACT TO MAKE AN APPROPRIATION FOR PERSONAL SERVICES
+10 AND OPERATING EXPENSES FOR THE DEPARTMENT OF PUBLIC
+11 SAFETY - DIVISION OF EMERGENCY MANAGEMENT FOR THE
+12 FISCAL YEAR ENDING JUNE 30, 2026; AND FOR OTHER
+13 PURPOSES.
+14
+15
+Subtitle
+16
+17 AN ACT FOR THE DEPARTMENT OF PUBLIC
+18 SAFETY - DIVISION OF EMERGENCY
+19 MANAGEMENT APPROPRIATION FOR THE 2025-
+20 2026 FISCAL YEAR.
+21
+22
+23 BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF ARKANSAS:
+24
+25 SECTION 1. REGULAR SALARIES. There is hereby established for the
+26 Department of Public Safety - Division of Emergency Management for the 2025-
+27 2026 fiscal year, the following maximum number of regular employees.
+28
+29 Maximum Annual
+30 Maximum Salary Rate
+31 Item Class No. of Fiscal Year
+32 No. Code Title Employees 2025-2026
+33 (1) U013U ADEM DIRECTOR 1 GRADE SE01
+34 (2) D043C ADEM INFO TECHNOLOGY DIVISION DIRECTOR 1 GRADE IT08
+35 (3) D014C STATE SYSTEMS ADMINISTRATOR 1 GRADE IT08
+36 (4) D122C IT PROJECT MANAGER 1 GRADE IT07
+*DJC007*
+01/21/2025 7:46:23 AM DJC007
+
+HB1176
+1 (5) D016C SENIOR TECHNOLOGY ANALYST 1 GRADE IT06
+2 (6) D068C INFORMATION SYSTEMS ANALYST 2 GRADE IT04
+3 (7) D065C NETWORK SUPPORT ANALYST 4 GRADE IT04
+4 (8) D084C COMPUTER OPERATOR 1 GRADE IT02
+5 (9) G350C ADEM SENIOR DEPUTY DIRECTOR 1 GRADE GS13
+6 (10) G055C ADEM DEPUTY DIRECTOR 2 GRADE GS12
+7 (11) A014C FISCAL DIVISION MANAGER 1 GRADE GS12
+8 (12) G047C ATTORNEY SPECIALIST 1 GRADE GS11
+9 (13) G076C ADMINISTRATIVE SERVICES MANAGER 1 GRADE GS10
+10 (14) G109C GRANTS MANAGER 3 GRADE GS09
+11 (15) P004C PUBLIC INFORMATION MANAGER 1 GRADE GS09
+12 (16) G140C ADEM PROGRAM MANAGER 8 GRADE GS08
+13 (17) E026C EDUCATION & INSTRUCTION COORDINATOR 2 GRADE GS08
+14 (18) V002C FEDERAL SURPLUS PROPERTY MANAGER 2 GRADE GS08
+15 (19) R014C PERSONNEL MANAGER 1 GRADE GS08
+16 (20) V004C PROCUREMENT MANAGER 1 GRADE GS08
+17 (21) G157C ADEM AREA COORDINATOR 7 GRADE GS07
+18 (22) R024C ASSISTANT PERSONNEL MANAGER 1 GRADE GS07
+19 (23) C010C EXECUTIVE ASSISTANT TO THE DIRECTOR 1 GRADE GS07
+20 (24) A075C FINANCIAL ANALYST I 1 GRADE GS07
+21 (25) G147C GRANTS COORDINATOR 6 GRADE GS07
+22 (26) A063C RESEARCH & STATISTICS SUPERVISOR 1 GRADE GS07
+23 (27) G175C ADEM PROGRAM COORDINATOR 8 GRADE GS06
+24 (28) C120C ADEM SR EMERGENCY MGMT DUTY OFFICER 8 GRADE GS06
+25 (29) R027C BUDGET SPECIALIST 1 GRADE GS06
+26 (30) G208C EMERGENCY PLANNER 5 GRADE GS06
+27 (31) G180C GRANTS ANALYST 4 GRADE GS06
+28 (32) G214C GRANTS SPECIALIST 1 GRADE GS06
+29 (33) G204C PLANNING SPECIALIST 2 GRADE GS06
+30 (34) T061C SENIOR IA 1 GRADE GS06
+31 (35) D074C TELECOMMUNICATIONS SUPERVISOR 1 GRADE GS06
+32 (36) E046C TRAINING INSTRUCTOR 1 GRADE GS06
+33 (37) C038C ADEM EMERGENCY MANAGEMENT DUTY OFFICER 1 GRADE GS05
+34 (38) S025C BUILDING AND GROUNDS COORDINATOR 2 GRADE GS05
+35 (39) V014C BUYER 1 GRADE GS05
+36 (40) A091C FISCAL SUPPORT ANALYST 5 GRADE GS05
+2 01/21/2025 7:46:23 AM DJC007
+
+HB1176
+1 (41) S034C INTERSTATE TRUCK DRIVER 3 GRADE GS05
+2 (42) C056C ADMINISTRATIVE SPECIALIST III 5 GRADE GS04
+3 (43) T079C FACILITY MANAGER II 1 GRADE GS04
+4 (44) A098C FISCAL SUPPORT SPECIALIST 3 GRADE GS04
+5 (45) V021C SURPLUS PROPERTY AGENT 3 GRADE GS04
+6 (46) V019C SURPLUS PROPERTY SPECIALIST 1 GRADE GS04
+7 (47) C073C ADMINISTRATIVE SPECIALIST II 1 GRADE GS03
+8 (48) S050C MAINTENANCE SPECIALIST 1 GRADE GS03
+9 MAX. NO. OF EMPLOYEES 112
+10
+11 SECTION 2. EXTRA HELP. There is hereby authorized, for the Department
+12 of Public Safety - Division of Emergency Management for the 2025-2026 fiscal
+13 year, the following maximum number of part-time or temporary employees, to be
+14 known as "Extra Help", payable from funds appropriated herein for such
+15 purposes: twenty-eight (28) temporary or part-time employees, when needed, at
+16 rates of pay not to exceed those provided in the Uniform Classification and
+17 Compensation Act, or its successor, or this act for the appropriate
+18 classification.
+19
+20 SECTION 3. APPROPRIATION - STATE OPERATIONS. There is hereby
+21 appropriated, to the Department of Public Safety, to be payable from the
+22 Miscellaneous Agencies Fund Account, for personal services and operating
+23 expenses of the Department of Public Safety - Division of Emergency
+24 Management - State Operations for the fiscal year ending June 30, 2026, the
+25 following:
+26
+27 ITEM FISCAL YEAR
+28 NO. 2025-2026
+29 (01) REGULAR SALARIES $2,773,772
+30 (02) PERSONAL SERVICES MATCHING 1,103,636
+31 (03) OVERTIME 10,000
+32 (04) MAINT. & GEN. OPERATION
+33 (A) OPER. EXPENSE 490,306
+34 (B) CONF. & TRAVEL 0
+35 (C) PROF. FEES 0
+36 (D) CAP. OUTLAY 0
+3 01/21/2025 7:46:23 AM DJC007
+
+HB1176
+1 (E) DATA PROC. 0
+2 TOTAL AMOUNT APPROPRIATED $4,377,714
+3
+4 SECTION 4. APPROPRIATION - FEDERAL OPERATIONS. There is hereby
+5 appropriated, to the Department of Public Safety, to be payable from the
+6 federal funds as designated by the Chief Fiscal Officer of the State, for
+7 personal services, operating expenses and First Responder and Homeland
+8 Security Grants and Aid of the Department of Public Safety - Division of
+9 Emergency Management - Federal Operations for the fiscal year ending June 30,
+10 2026, the following:
+11
+12 ITEM FISCAL YEAR
+13 NO. 2025-2026
+14 (01) REGULAR SALARIES $538,725
+15 (02) EXTRA HELP 156,438
+16 (03) PERSONAL SERVICES MATCHING 226,507
+17 (04) OVERTIME 5,000
+18 (05) MAINT. & GEN. OPERATION
+19 (A) OPER. EXPENSE 1,155,207
+20 (B) CONF. & TRAVEL 100,000
+21 (C) PROF. FEES 100,000
+22 (D) CAP. OUTLAY 0
+23 (E) DATA PROC. 0
+24 (06) GRANTS / AID - FIRST RESPONDER &
+25 HOMELAND SECURITY 10,000,000
+26 TOTAL AMOUNT APPROPRIATED $12,281,877
+27
+28 SECTION 5. APPROPRIATION - DISASTER RELIEF GRANTS. There is hereby
+29 appropriated, to the Department of Public Safety, to be payable from the
+30 federal funds as designated by the Chief Fiscal Officer of the State, for
+31 personal services, operating expenses and Disaster Relief Grants and Aid of
+32 the Department of Public Safety - Division of Emergency Management - Disaster
+33 Relief Grants for the fiscal year ending June 30, 2026, the following:
+34
+35 ITEM FISCAL YEAR
+36 NO. 2025-2026
+4 01/21/2025 7:46:23 AM DJC007
+
+HB1176
+1 (01) REGULAR SALARIES $536,763
+2 (02) EXTRA HELP 625,751
+3 (03) PERSONAL SERVICES MATCHING 305,243
+4 (04) OVERTIME 175,000
+5 (05) MAINT. & GEN. OPERATION
+6 (A) OPER. EXPENSE 120,850
+7 (B) CONF. & TRAVEL 30,000
+8 (C) PROF. FEES 234,500
+9 (D) CAP. OUTLAY 0
+10 (E) DATA PROC. 0
+11 (06) GRANTS/AID DISASTER RELIEF 436,491,222
+12 TOTAL AMOUNT APPROPRIATED $438,519,329
+13
+14 SECTION 6. APPROPRIATION - HAZARDOUS MATERIALS. There is hereby
+15 appropriated, to the Department of Public Safety, to be payable from the
+16 Office of Hazardous Materials Emergency Management Revolving Fund, for
+17 personal services, operating expenses and Hazardous Materials Management
+18 Grants and Aid of the Department of Public Safety - Division of Emergency
+19 Management - Hazardous Materials for the fiscal year ending June 30, 2026,
+20 the following:
+21
+22 ITEM FISCAL YEAR
+23 NO. 2025-2026
+24 (01) REGULAR SALARIES $176,152
+25 (02) EXTRA HELP 32,176
+26 (03) PERSONAL SERVICES MATCHING 79,014
+27 (04) OVERTIME 5,000
+28 (05) MAINT. & GEN. OPERATION
+29 (A) OPER. EXPENSE 280,438
+30 (B) CONF. & TRAVEL 82,792
+31 (C) PROF. FEES 25,000
+32 (D) CAP. OUTLAY 0
+33 (E) DATA PROC. 0
+34 (06) GRANTS/AID - HAZARDOUS MATERIALS
+35 MANAGEMENT 10,000
+36 TOTAL AMOUNT APPROPRIATED $690,572
+5 01/21/2025 7:46:23 AM DJC007
+
+HB1176
+1
+2 SECTION 7. APPROPRIATION - DISASTER RELIEF TRUST. There is hereby
+3 appropriated, to the Department of Public Safety, to be payable from the
+4 Arkansas Disaster Relief Program Trust Fund, for assistance to victims of
+5 state or federally declared disasters of the Department of Public Safety -
+6 Division of Emergency Management - Disaster Relief Trust for the fiscal year
+7 ending June 30, 2026, the following:
+8
+9 ITEM FISCAL YEAR
+10 NO. 2025-2026
+11 (01) GRANTS/AID - DISASTER RELIEF $639,365
+12
+13 SECTION 8. APPROPRIATION - RADIOLOGICAL EMERGENCY RESPONSE GRANTS.
+14 There is hereby appropriated, to the Department of Public Safety, to be
+15 payable from the cash fund deposited in the State Treasury as determined by
+16 the Chief Fiscal Officer of the State, for operating expenses of the
+17 Department of Public Safety - Division of Emergency Management - Radiological
+18 Emergency Response Grants for the fiscal year ending June 30, 2026, the
+19 following:
+20
+21 ITEM FISCAL YEAR
+22 NO. 2025-2026
+23 (01) MAINT. & GEN. OPERATION
+24 (A) OPER. EXPENSE $20,500
+25 (B) CONF. & TRAVEL 19,500
+26 (C) PROF. FEES 0
+27 (D) CAP. OUTLAY 0
+28 (E) DATA PROC. 0
+29 TOTAL AMOUNT APPROPRIATED $40,000
+30
+31 SECTION 9. APPROPRIATION - EMERGENCY OPERATIONS CENTER - CASH. There
+32 is hereby appropriated, to the Department of Public Safety, to be payable
+33 from the cash fund deposited in the State Treasury as determined by the Chief
+34 Fiscal Officer of the State, for operating expenses of the Department of
+35 Public Safety - Division of Emergency Management - Emergency Operations
+36 Center - Cash for the fiscal year ending June 30, 2026, the following:
+6 01/21/2025 7:46:23 AM DJC007
+
+HB1176
+1
+2 ITEM FISCAL YEAR
+3 NO. 2025-2026
+4 (01) EOC EXPENSES $207,440
+5
+6 SECTION 10. APPROPRIATION - FEDERAL SURPLUS PROPERTY PROGRAM. There is
+7 hereby appropriated, to the Department of Public Safety, to be payable from
+8 the Federal Surplus Property Fund, for personal services and operating
+9 expenses of the Department of Public Safety - Division of Emergency
+10 Management - Federal Surplus Property Program for the fiscal year ending June
+11 30, 2026, the following:
+12
+13 ITEM FISCAL YEAR
+14 NO. 2025-2026
+15 (01) REGULAR SALARIES $669,627
+16 (02) EXTRA HELP 6,000
+17 (03) PERSONAL SERVICES MATCHING 284,197
+18 (04) OVERTIME 30,000
+19 (05) MAINT. & GEN. OPERATION
+20 (A) OPER. EXPENSE 1,092,031
+21 (B) CONF. & TRAVEL 15,000
+22 (C) PROF. FEES 15,263
+23 (D) CAP. OUTLAY 0
+24 (E) DATA PROC. 0
+25 TOTAL AMOUNT APPROPRIATED $2,112,118
+26
+27 SECTION 11. APPROPRIATION - ARKANSAS 911 RURAL ENHANCEMENT PROGRAM.
+28 There is hereby appropriated, to the Department of Public Safety, to be
+29 payable from the cash fund deposited in the State Treasury as determined by
+30 the Chief Fiscal Officer of the State, for personal services, operating
+31 expenses and Enhancement Grants and Aid of the Department of Public Safety -
+32 Division of Emergency Management - Arkansas 911 Rural Enhancement Program for
+33 the fiscal year ending June 30, 2026, the following:
+34
+35 ITEM FISCAL YEAR
+36 NO. 2025-2026
+7 01/21/2025 7:46:23 AM DJC007
+
+HB1176
+1 (01) REGULAR SALARIES $94,061
+2 (02) PERSONAL SERVICES MATCHING 30,227
+3 (03) MAINT. & GEN. OPERATION
+4 (A) OPER. EXPENSE 937,636
+5 (B) CONF. & TRAVEL 10,000
+6 (C) PROF. FEES 0
+7 (D) CAP. OUTLAY 0
+8 (E) DATA PROC. 0
+9 (04) ENHANCEMENT GRANTS 2,000,000
+10 TOTAL AMOUNT APPROPRIATED $3,071,924
+11
+12 SECTION 12. APPROPRIATION - IMMEDIATE DISASTER RESPONSE. There is
+13 hereby appropriated, to the Department of Public Safety - Division of
+14 Emergency Management, to be payable from the Immediate Disaster Response
+15 Fund, for immediate expenses related to disaster response requests for the
+16 fiscal year ending June 30, 2026, the following:
+17
+18 ITEM FISCAL YEAR
+19 NO. 2025-2026
+20 (01) IMMEDIATE DISASTER RESPONSE $200,000
+21
+22 SECTION 13. APPROPRIATION - ARKANSAS PUBLIC SAFETY TRUST. There is
+23 hereby appropriated, to the Department of Public Safety - Division of
+24 Emergency Management, to be payable from the Arkansas Public Safety Trust
+25 Fund, for disbursements related to costs that enhance, operate, and maintain
+26 911 services in the State of Arkansas for the fiscal year ending June 30,
+27 2026, the following:
+28
+29 ITEM FISCAL YEAR
+30 NO. 2025-2026
+31 (01) REFUNDS/INVESTMENTS/TRANSFERS $75,000,000
+32
+33 SECTION 14. APPROPRIATION - ARKANSAS PUBLIC SAFETY TRUST FUND
+34 ADMINISTRATION. There is hereby appropriated, to the Department of Public
+35 Safety, to be payable from the cash fund deposited in the State Treasury as
+36 determined by the Chief Fiscal Officer of the State, for administrative
+8 01/21/2025 7:46:23 AM DJC007
+
+HB1176
+1 expenses of the Department of Public Safety - Division of Emergency
+2 Management - Arkansas Public Safety Trust Fund Administration for the fiscal
+3 year ending June 30, 2026, the following:
+4
+5 ITEM FISCAL YEAR
+6 NO. 2025-2026
+7 (01) ARKANSAS PUBLIC SAFETY TRUST FUND
+8 ADMINISTRATION EXPENSES $168,000
+9
+10 SECTION 15. APPROPRIATION - ARKANSAS WIRELESS INFORMATION NETWORK -
+11 CASH. There is hereby appropriated, to the Department of Public Safety, to
+12 be payable from the cash fund deposited in the State Treasury as determined
+13 by the Chief Fiscal Officer of the State, for expenses of the Department of
+14 Public Safety - Division of Emergency Management - Arkansas Wireless
+15 Information Network - Cash for the fiscal year ending June 30, 2026, the
+16 following:
+17
+18 ITEM FISCAL YEAR
+19 NO. 2025-2026
+20 (01) ARKANSAS WIRELESS INFORMATION NETWORK
+21 EXPENSES $10,000,000
+22
+23 SECTION 16. APPROPRIATION - ARKANSAS WIRELESS INFORMATION NETWORK.
+24 There is hereby appropriated, to the Department of Public Safety, to be
+25 payable from the Miscellaneous Agencies Fund Account, for personal services
+26 and operating expenses of the Department of Public Safety - Division of
+27 Emergency Management - Arkansas Wireless Information Network for the fiscal
+28 year ending June 30, 2026, the following:
+29
+30 ITEM FISCAL YEAR
+31 NO. 2025-2026
+32 (01) REGULAR SALARIES $477,441
+33 (02) PERSONAL SERVICES MATCHING 167,973
+34 (03) MAINT. & GEN. OPERATION
+35 (A) OPER. EXPENSE 6,801,925
+36 (B) CONF. & TRAVEL 5,000
+9 01/21/2025 7:46:23 AM DJC007
+
+HB1176
+1 (C) PROF. FEES 0
+2 (D) CAP. OUTLAY 0
+3 (E) DATA PROC. 0
+4 TOTAL AMOUNT APPROPRIATED $7,452,339
+5
+6 SECTION 17. APPROPRIATION - LEVEE MITIGATION - CASH. There is hereby
+7 appropriated, to the Department of Public Safety, to be payable from the cash
+8 fund deposited in the State Treasury as determined by the Chief Fiscal
+9 Officer of the State, for expenses related to levee mitigation efforts
+10 throughout the State of Arkansas of the Department of Public Safety -
+11 Division of Emergency Management - Levee Mitigation - Cash for the fiscal
+12 year ending June 30, 2026, the following:
+13
+14 ITEM FISCAL YEAR
+15 NO. 2025-2026
+16 (01) LEVEE MITIGATION PROGRAM $3,246
+17
+18 SECTION 18. REGULAR SALARIES - OFFICE OF FIRE PROTECTION SERVICES.
+19 There is hereby established for the Department of Public Safety - Division of
+20 Emergency Management - Office of Fire Protection Services for the 2025-2026
+21 fiscal year, the following maximum number of regular employees.
+22
+23 Maximum Annual
+24 Maximum Salary Rate
+25 Item Class No. of Fiscal Year
+26 No. Code Title Employees 2025-2026
+27 (1) X224C STATE FIRE MARSHALL 1 GRADE GS12
+28 (2) B021C LICENSED ARCHITECT 1 GRADE GS09
+29 (3) X227C ADEM FIRE MARSHALL INSPECTOR 2 GRADE GS07
+30 (4) S024C CONSTRUCTION/MAINTENANCE COORD 1 GRADE GS06
+31 MAX. NO. OF EMPLOYEES 5
+32
+33 SECTION 19. APPROPRIATION - OFFICE OF FIRE PROTECTION SERVICES. There
+34 is hereby appropriated, to the Department of Public Safety, to be payable
+35 from the Fire Services Fund, for personal services and operating expenses of
+36 the Department of Public Safety - Division of Emergency Management - Office
+10 01/21/2025 7:46:23 AM DJC007
+
+HB1176
+1 of Fire Protection Services for the fiscal year ending June 30, 2026, the
+2 following:
+3
+4 ITEM FISCAL YEAR
+5 NO. 2025-2026
+6 (01) REGULAR SALARIES $261,744
+7 (02) PERSONAL SERVICES MATCHING 131,295
+8 (03) MAINT. & GEN. OPERATION
+9 (A) OPER. EXPENSE 29,423
+10 (B) CONF. & TRAVEL 150
+11 (C) PROF. FEES 0
+12 (D) CAP. OUTLAY 0
+13 (E) DATA PROC. 0
+14 (04) FIRE SERVICES TRANSFER 1,600,000
+15 TOTAL AMOUNT APPROPRIATED $2,022,612
+16
+17 SECTION 20. APPROPRIATION - FIRE PROTECTION SERVICES BOARD. There is
+18 hereby appropriated, to the Department of Public Safety, to be payable from
+19 the Miscellaneous Agencies Fund Account, for miscellaneous grants and
+20 expenses of the Department of Public Safety - Division of Emergency
+21 Management - Fire Protection Services Board for the fiscal year ending June
+22 30, 2026, the following:
+23
+24 ITEM FISCAL YEAR
+25 NO. 2025-2026
+26 (01) FIRE PROTECTION GRANTS $30,000
+27
+28 SECTION 21. COMPLIANCE WITH OTHER LAWS. Disbursement of funds
+29 authorized by this act shall be limited to the appropriation for such agency
+30 and funds made available by law for the support of such appropriations; and
+31 the restrictions of the State Procurement Law, the General Accounting and
+32 Budgetary Procedures Law, the Revenue Stabilization Law, the Regular Salary
+33 Procedures and Restrictions Act, or their successors, and other fiscal
+34 control laws of this State, where applicable, and regulations promulgated by
+35 the Department of Finance and Administration, as authorized by law, shall be
+36 strictly complied with in disbursement of said funds.
+11 01/21/2025 7:46:23 AM DJC007
+
+HB1176
+1
+2 SECTION 22. LEGISLATIVE INTENT. It is the intent of the General
+3 Assembly that any funds disbursed under the authority of the appropriations
+4 contained in this act shall be in compliance with the stated reasons for
+5 which this act was adopted, as evidenced by the Agency Requests, Executive
+6 Recommendations and Legislative Recommendations contained in the budget
+7 manuals prepared by the Department of Finance and Administration, letters, or
+8 summarized oral testimony in the official minutes of the Arkansas Legislative
+9 Council or Joint Budget Committee which relate to its passage and adoption.
+10
+11 SECTION 23. EMERGENCY CLAUSE. It is found and determined by the
+12 General Assembly, that the Constitution of the State of Arkansas prohibits
+13 the appropriation of funds for more than a one (1) year period; that the
+14 effectiveness of this Act on July 1, 2025 is essential to the operation of
+15 the agency for which the appropriations in this Act are provided, and that in
+16 the event of an extension of the legislative session, the delay in the
+17 effective date of this Act beyond July 1, 2025 could work irreparable harm
+18 upon the proper administration and provision of essential governmental
+19 programs. Therefore, an emergency is hereby declared to exist and this Act
+20 being necessary for the immediate preservation of the public peace, health
+21 and safety shall be in full force and effect from and after July 1, 2025.
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+12 01/21/2025 7:46:23 AM DJC007
+
+[DELETED:       A A S F P  A S M 2    B   S D 2                 ]
+[DELETED: H2 0                                                                        ]
+[DELETED: H3 0                     S o y k p r C c   S a M e M f  I   ( ( ( (        ]
+[DELETED: H4 0       S a f p S E 2  I   ( ( ( ( (           (       S a f p t R  I  ]
+[DELETED: H5 0 ( ( ( ( (           (     S a O p G M t  I   ( ( ( ( (           (    ]
+[DELETED: H6 0   S a A s D e  I   (   S T p t D E f  I   (               S i f F P C]
+[DELETED: H7 0  I   (   S h t e M 3  I   ( ( ( ( (               S T p t e D t  I  ]
+[DELETED: H8 0 ( ( (           (     S h E F f  I   (   S h E F 9 2  I   (   S A S d]
+[DELETED: H9 0 e M y  I   (     S C b b P I f  I   (     S T p a E y  I   ( ( (    ]
+[DELETED: H1 0           S a f O t D y  I   (   S T E f                      S i f t]
+[DELETED: H1 0 o f  I   ( ( (           (     S h t e M 3  I   (   S a a t B P c t s]
+[DELETED: H1 0   S A c w R m s C   S G t e t t e u p b a               ]

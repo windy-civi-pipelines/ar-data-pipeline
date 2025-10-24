@@ -1,0 +1,237 @@
+Title: ______________________________________________________________________
+Official Title: ______________________________________________________________________
+Number of Sections: 1
+Source: versions - Amendment H1
+Media Type: application/pdf
+Strikethrough Detection: 5 sections found
+
+================================================================================
+
+Section 1:
+Hall of the House of Representatives
+95th General Assembly - Regular Session, 2025
+Amendment Form
+Subtitle of House Bill 1295
+TO CREATE THE HEALTHCARE COST-SHARING COLLECTIONS ACT.
+______________________________________________________________________
+Amendment No. 1 to House Bill 1295
+Amend House Bill 1295 as originally introduced:
+Delete the title in its entirety, and substitute the following:
+"AN ACT TO CREATE THE HEALTHCARE COST-
+SHARING COLLECTIONS TRANSPARENCY ACT; AND
+FOR OTHER PURPOSES."
+AND
+Delete the subtitle in its entirety, and substitute the following:
+"TO CREATE THE HEALTHCARE COST-SHARING
+COLLECTIONS TRANSPARENCY ACT."
+AND
+Page 1, line 22, delete "Collections Act" and substitute "Collections
+Transparency Act"
+AND
+Page 1, line 26, delete "Collections Act" and substitute "Collections
+Transparency Act"
+AND
+*.ANS511*
+ANS511 - 04-07-2025 07:43:03 Page 1 of 5
+Page 4, delete lines 13 through 36
+AND
+Page 5, delete lines 1 through 5, and substitute the following:
+"23-99-1903. Transparency and reporting."
+AND
+Page 7, line 35, delete "collected, itemized" and substitute "expected to be
+collected by the healthcare provider, itemized"
+AND
+Page 8, delete lines 2 through 5, and substitute the following:
+"(D) The payment made to each in-network healthcare"
+AND
+Page 8, line 8, delete "(F)" and substitute "(E)"
+AND
+Page 8, line 11, delete "(G)" and substitute "(F)"
+AND
+Page 8, line 14, delete "(H)" and substitute "(G)"
+AND
+Page 8, line 16, delete "(I)" and substitute "(H)"
+AND
+Page 8, line 18, delete "(J)" and substitute "(I)"
+ANS511 - 04-07-2025 07:43:03 Amendment No. 1 to House Bill 1295 Page 2 of 5
+AND
+Page 8, line 21, delete "(K)" and substitute "(J)"
+AND
+Page 8, line 24, delete "(L)" and substitute "(K)"
+AND
+Page 8, line 27, delete "(M)" and substitute "(L)"
+AND
+Page 8, line 30, delete "(N)" and substitute "(M)"
+AND
+Page 8, line 32, delete "(O)" and substitute "(N)"
+AND
+Page 8, line 33, delete "(P)" and substitute "(O)"
+AND
+Page 8, line 35, delete "(Q)" and substitute "(P)"
+AND
+Page 8, line 36, delete "(R)" and substitute "(Q)"
+AND
+Page 9, line 1, delete "subdivisions (c)(2)(I)—(Q)" and substitute
+ANS511 - 04-07-2025 07:43:03 Amendment No. 1 to House Bill 1295 Page 3 of 5
+"subdivisions (c)(2)(H)—(P)"
+AND
+Page 9, delete lines 4 through 19, and substitute the following:
+"23-99-1904. Prohibition on pricing increases.
+(a) Before a healthcare insurer’s implementation of an increase in
+premium rates, cost sharing, or per-member-per-month costs or payments for
+rates or insurance policies that are required to be reviewed by the Insurance
+Commissioner under §§ 23-79-109 and 23-79-110, the commissioner shall
+consider the following additional factors in his or her review:
+(1) The extent to which the healthcare insurer’s RBC level as
+defined in § 23-63-1302 is less than six hundred fifty percent (650%); and
+(2)(A) To the extent permitted by federal law, whether the
+healthcare insurer’s medical loss ratio is greater than eighty-five percent
+(85%) on clinical services and quality improvement."
+AND
+Page 9, line 22, delete "(b)(2)(A)" and substitute "(a)(2)(A)"
+AND
+Page 9, line 26, delete "23-99-1904(c)(2)(I)-(R)" and substitute "23-99-
+1903(c)(2)(H)-(Q)"
+AND
+Page 9, delete line 29, and substitute the following:
+"(iv) Cost sharing.
+(b) A healthcare insurer in the fully insured group market shall
+consider the factors in subsection (a) of this section before implementing an
+increased premium rate, cost sharing, or enrollee per-member-per-month fee."
+AND
+ANS511 - 04-07-2025 07:43:03 Amendment No. 1 to House Bill 1295 Page 4 of 5
+Page 9, line 31, delete "23-99-1906" and substitute "23-99-1905"
+AND
+Page 10, delete lines 3 through 11, and substitute the following:
+"23-99-1906. Rules."
+AND
+Page 10, line 15, delete "23-99-1909" and substitute "23-99-1907"
+The Amendment was read ________________________________________________________________________________
+By: Representative L. Johnson
+ANS/ANS - 04-07-2025 07:43:04 _________________________
+ANS511 Chief Clerk
+ANS511 - 04-07-2025 07:43:03 Amendment No. 1 to House Bill 1295 Page 5 of 5
+[DELETED:  PA  ]
+[DELETED:  P  "]
+[DELETED:  P]
+[DELETED:  P"( ( (   "(]
+[DELETED:  P" _ C]
+
+
+================================================================================
+
+Raw Text:
+Hall of the House of Representatives
+95th General Assembly - Regular Session, 2025
+Amendment Form
+______________________________________________________________________
+Subtitle of House Bill 1295
+TO CREATE THE HEALTHCARE COST-SHARING COLLECTIONS ACT.
+______________________________________________________________________
+Amendment No. 1 to House Bill 1295
+Amend House Bill 1295 as originally introduced:
+Delete the title in its entirety, and substitute the following:
+"AN ACT TO CREATE THE HEALTHCARE COST-
+SHARING COLLECTIONS TRANSPARENCY ACT; AND
+FOR OTHER PURPOSES."
+AND
+Delete the subtitle in its entirety, and substitute the following:
+"TO CREATE THE HEALTHCARE COST-SHARING
+COLLECTIONS TRANSPARENCY ACT."
+AND
+Page 1, line 22, delete "Collections Act" and substitute "Collections
+Transparency Act"
+AND
+Page 1, line 26, delete "Collections Act" and substitute "Collections
+Transparency Act"
+AND
+*.ANS511*
+ANS511 - 04-07-2025 07:43:03 Page 1 of 5
+
+Page 4, delete lines 13 through 36
+AND
+Page 5, delete lines 1 through 5, and substitute the following:
+"23-99-1903. Transparency and reporting."
+AND
+Page 7, line 35, delete "collected, itemized" and substitute "expected to be
+collected by the healthcare provider, itemized"
+AND
+Page 8, delete lines 2 through 5, and substitute the following:
+"(D) The payment made to each in-network healthcare"
+AND
+Page 8, line 8, delete "(F)" and substitute "(E)"
+AND
+Page 8, line 11, delete "(G)" and substitute "(F)"
+AND
+Page 8, line 14, delete "(H)" and substitute "(G)"
+AND
+Page 8, line 16, delete "(I)" and substitute "(H)"
+AND
+Page 8, line 18, delete "(J)" and substitute "(I)"
+ANS511 - 04-07-2025 07:43:03 Amendment No. 1 to House Bill 1295 Page 2 of 5
+
+AND
+Page 8, line 21, delete "(K)" and substitute "(J)"
+AND
+Page 8, line 24, delete "(L)" and substitute "(K)"
+AND
+Page 8, line 27, delete "(M)" and substitute "(L)"
+AND
+Page 8, line 30, delete "(N)" and substitute "(M)"
+AND
+Page 8, line 32, delete "(O)" and substitute "(N)"
+AND
+Page 8, line 33, delete "(P)" and substitute "(O)"
+AND
+Page 8, line 35, delete "(Q)" and substitute "(P)"
+AND
+Page 8, line 36, delete "(R)" and substitute "(Q)"
+AND
+Page 9, line 1, delete "subdivisions (c)(2)(I)—(Q)" and substitute
+ANS511 - 04-07-2025 07:43:03 Amendment No. 1 to House Bill 1295 Page 3 of 5
+
+"subdivisions (c)(2)(H)—(P)"
+AND
+Page 9, delete lines 4 through 19, and substitute the following:
+"23-99-1904. Prohibition on pricing increases.
+(a) Before a healthcare insurer’s implementation of an increase in
+premium rates, cost sharing, or per-member-per-month costs or payments for
+rates or insurance policies that are required to be reviewed by the Insurance
+Commissioner under §§ 23-79-109 and 23-79-110, the commissioner shall
+consider the following additional factors in his or her review:
+(1) The extent to which the healthcare insurer’s RBC level as
+defined in § 23-63-1302 is less than six hundred fifty percent (650%); and
+(2)(A) To the extent permitted by federal law, whether the
+healthcare insurer’s medical loss ratio is greater than eighty-five percent
+(85%) on clinical services and quality improvement."
+AND
+Page 9, line 22, delete "(b)(2)(A)" and substitute "(a)(2)(A)"
+AND
+Page 9, line 26, delete "23-99-1904(c)(2)(I)-(R)" and substitute "23-99-
+1903(c)(2)(H)-(Q)"
+AND
+Page 9, delete line 29, and substitute the following:
+"(iv) Cost sharing.
+(b) A healthcare insurer in the fully insured group market shall
+consider the factors in subsection (a) of this section before implementing an
+increased premium rate, cost sharing, or enrollee per-member-per-month fee."
+AND
+ANS511 - 04-07-2025 07:43:03 Amendment No. 1 to House Bill 1295 Page 4 of 5
+
+Page 9, line 31, delete "23-99-1906" and substitute "23-99-1905"
+AND
+Page 10, delete lines 3 through 11, and substitute the following:
+"23-99-1906. Rules."
+AND
+Page 10, line 15, delete "23-99-1909" and substitute "23-99-1907"
+The Amendment was read ________________________________________________________________________________
+By: Representative L. Johnson
+ANS/ANS - 04-07-2025 07:43:04 _________________________
+ANS511 Chief Clerk
+ANS511 - 04-07-2025 07:43:03 Amendment No. 1 to House Bill 1295 Page 5 of 5
+
+[DELETED:  PA  ]
+[DELETED:  P  "]
+[DELETED:  P]
+[DELETED:  P"( ( (   "(]
+[DELETED:  P" _ C]

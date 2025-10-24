@@ -1,0 +1,1760 @@
+Title: Stricken language would be deleted from and underlined language would be added to present law.
+Official Title: Stricken language would be deleted from and underlined language would be added to present law.
+Number of Sections: 1
+Source: versions - HB 1020
+Media Type: application/pdf
+Strikethrough Detection: 22 sections found
+
+================================================================================
+
+Section 1:
+1 State of Arkansas As Engrossed: H1/16/25
+A Bill
+2 95th General Assembly
+3 Regular Session, 2025 HOUSE BILL 1020
+4
+5 Representatives A. Collins, Springer
+6
+7
+For An Act To Be Entitled
+8
+9 AN ACT TO REPEAL THE ARKANSAS CHILDREN'S EDUCATIONAL
+10 FREEDOM ACCOUNT PROGRAM; TO CREATE AN ADDITIONAL
+11 EDUCATION FUNDING CATEGORY FOR STUDENTS WHO RECEIVE
+12 SPECIAL EDUCATION AND RELATED SERVICES; TO CREATE THE
+13 COMMUNITY SCHOOLS ACT FUND; AND FOR OTHER PURPOSES.
+14
+15
+Subtitle
+16
+17 TO REPEAL THE ARKANSAS CHILDREN'S
+18 EDUCATIONAL FREEDOM ACCOUNT PROGRAM; TO
+19 CREATE A NEW EDUCATION FUNDING CATEGORY
+20 FOR STUDENTS WHO RECEIVE SPECIAL
+21 EDUCATION AND RELATED SERVICES; AND TO
+22 CREATE THE COMMUNITY SCHOOLS ACT FUND.
+23
+24 BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF ARKANSAS:
+25
+26 SECTION 1. Arkansas Code Title 6, Chapter 18, Subchapter 25, is
+27 repealed.
+28 6-18-2501. Title.
+29 This subchapter shall be known and may be cited as the “Arkansas
+30 Children's Educational Freedom Account Program”.
+31
+32 6-18-2502. Creation.
+33 There is created the “Arkansas Children's Educational Freedom Account
+34 Program”.
+35
+36 6-18-2503. Definitions.
+*TNL014*
+01-16-2025 15:41:45 TNL014
+As Engrossed: H1/16/25 HB1020
+1 As used in this subchapter:
+2 (1) “Account” means an account that is comprised of funds
+3 deposited on behalf of a participating student to pay for qualifying
+4 educational expenses;
+5 (2) “Account funds” means the funds deposited into an account on
+6 behalf of a participating student;
+7 (3) “Curriculum” means a complete course of study for a
+8 particular content area or grade level;
+9 (4) “Eligible student” means a resident of the State of Arkansas
+10 who is eligible to enroll in a public elementary or secondary school, subject
+11 to the timeline and parameters established under §§ 6-18-2506 and 6-18-2507;
+12 (5) “Full academic curriculum” means all required core courses,
+13 or the equivalent, as are offered in traditional public schools;
+14 (6) “Full academic year” means at least one hundred seventy-
+15 eight (178) days of instruction or the equivalent number of hours to what is
+16 offered in traditional public schools;
+17 (7) “Parent” means:
+18 (A) A biological or adoptive parent;
+19 (B) Legal guardian or custodian;
+20 (C) Persons standing in loco parentis to a student; or
+21 (D) Another person with legal authority to act on behalf
+22 of an eligible student;
+23 (8) “Participating school” means a private elementary school or
+24 private secondary school that:
+25 (A) Offers enrolled students a full academic curriculum
+26 and full academic year experience; and
+27 (B) Receives payments from Arkansas Children's Educational
+28 Freedom Account Program accounts to provide goods and services that are
+29 covered as qualifying expenses under this subchapter;
+30 (9) “Participating service provider” means a person or an
+31 entity, including a participating public or private school, that receives
+32 payments from program accounts to provide goods and services that are covered
+33 as qualifying expenses under this subchapter;
+34 (10) “Participating student” means a student:
+35 (A) Eligible to participate in the program; and
+36 (B) For whom an account has been established under this
+2 01-16-2025 15:41:45 TNL014
+As Engrossed: H1/16/25 HB1020
+1 subchapter; and
+2 (11) “Qualifying expenses” means:
+3 (A)(i) For the 2023-2024 school year, “qualifying
+4 expenses” shall include:
+5 (a) Tuition;
+6 (b) Fees;
+7 (c) The cost of testing under this subchapter;
+8 (d) The cost of required school uniforms, if
+9 any, at a participating school; and
+10 (e) Expenses determined by a participating
+11 school to be necessary for the education of a participating student and
+12 required to be paid by a participating student who is enrolled in the
+13 participating school, including without limitation expenses related to:
+14 (1) Supplies;
+15 (2) Equipment;
+16 (3) Access to technology; and
+17 (4) Services provided by or at the
+18 participating school.
+19 (ii) “Qualifying expenses” shall not mean optional
+20 expenses payable to a third party; and
+21 (B) Beginning with the 2024-2025 school year and
+22 each year thereafter, “qualifying expenses” shall include those listed under
+23 subdivision (11)(A) of this section and include the following:
+24 (i) Instructional materials required for either in-
+25 person or virtual instruction provided by a participating service provider or
+26 participating school;
+27 (ii) Instructional or tutoring services;
+28 (iii) Curriculum;
+29 (iv) Supplemental materials or supplies required by
+30 a course of study for a particular content area;
+31 (v) Fees for:
+32 (a) Courses and associated examinations for
+33 college credit; and
+34 (b) Any examination related to postsecondary
+35 educational institution admission;
+36 (vi) Fees for:
+3 01-16-2025 15:41:45 TNL014
+As Engrossed: H1/16/25 HB1020
+1 (a) Courses and associated examinations for
+2 career training; and
+3 (b) Any examination required in order to
+4 obtain an industry-based credential;
+5 (vii) Educational services provided by a licensed or
+6 accredited practitioner or participating service provider to a participating
+7 student who is a student with a disability;
+8 (viii) Fees for account management by participating
+9 service providers;
+10 (ix)(a) Technological devices used to meet a
+11 participating student's educational needs, which shall not include:
+12 (1) A television;
+13 (2) A video game console or accessory;
+14 or
+15 (3) Home theater or audio equipment.
+16 (b) Technological devices under subdivision
+17 (11)(B)(ix)(a) of this section are subject to approval by the Department of
+18 Education or a licensed physician;
+19 (x) Costs associated with transportation to and from
+20 a participating service provider or participating school; and
+21 (xi) Any other educational expense approved by the
+22 Division of Elementary and Secondary Education.
+23
+24 6-18-2504. State Board of Education — Rules.
+25 (a) The Division of Elementary and Secondary Education shall
+26 administer the Arkansas Children's Educational Freedom Account Program under
+27 this subchapter, which shall be subject to the rules adopted by the State
+28 Board of Education.
+29 (b) The rules adopted by the state board under this subchapter shall
+30 include without limitation the:
+31 (1) Process for determining the eligibility of students and
+32 service providers, including the awarding of accounts to eligible students
+33 and removal of unnecessary barriers or disincentives to participation by
+34 potential participating service providers;
+35 (2)(A) Process for conducting account and program audits,
+36 including establishing the authority for the division to conduct or contract
+4 01-16-2025 15:41:45 TNL014
+As Engrossed: H1/16/25 HB1020
+1 for the auditing of accounts.
+2 (B) The division shall establish a process for conducting
+3 an audit of an entity receiving funds under this subchapter, including:
+4 (i) An individual account;
+5 (ii) A participating service provider; and
+6 (iii) A participating school.
+7 (C) At least one (1) time each year, the division shall
+8 conduct random audits of the following according to the auditing process
+9 established under subdivision (b)(2)(B) of this section:
+10 (i) An individual account;
+11 (ii) A participating service provider; and
+12 (iii) A participating school;
+13 (3) Authority of the division to:
+14 (A) Deem any participating student ineligible for the
+15 program; and
+16 (B) Refer a case involving the misuse of account funds for
+17 investigation to:
+18 (i) The Attorney General; or
+19 (ii) The Secretary of the Department of Inspector
+20 General;
+21 (4) Authority of the division to contract with a vendor or other
+22 supplier for the administration of the program or parts of the program;
+23 (5) Requirement that the program shall:
+24 (A) Begin enrolling participating students no later than
+25 the beginning of the 2023-2024 school year; and
+26 (B) Be fully implemented to serve all Arkansas children
+27 eligible to enroll in a public school by the beginning of the 2025-2026
+28 school year;
+29 (6) Establishment or creation of a contract for the establishment of
+30 an online anonymous fraud reporting service, including without limitation a
+31 telephone hotline;
+32 (7) Requirement for a surety bond for a participating service provider
+33 that receives more than one hundred thousand dollars ($100,000) in account
+34 funds;
+35 (8) Mechanism for the refunding of payments from service providers
+36 back to the account from which they were paid;
+5 01-16-2025 15:41:45 TNL014
+As Engrossed: H1/16/25 HB1020
+1 (9) Required compliance with all state procurement laws and
+2 procedures; and
+3 (10) Means for preventing unreasonable inflation or fraud in
+4 participating school tuition and fees.
+5 (c) The following shall be forwarded to Arkansas Legislative Audit:
+6 (1) An audit conducted under subdivision (b)(2) of this section
+7 that identifies a potential misuse of account funds; and
+8 (2) The referral of a case involving the misuse of account funds
+9 for investigation to the Attorney General or the Secretary of the Department
+10 of Inspector General under subdivision (b)(3)(B) of this section.
+11 (d) To ensure that account funds under this subchapter provide for the
+12 expansion of access to education options by reducing family financial burdens
+13 and are not abused by service providers for financial gain, the state board
+14 shall take all necessary action in establishing rules under this subchapter,
+15 including without limitation the disqualification of a participating school
+16 or a participating service provider.
+17
+18 6-18-2505. Account funds.
+19 (a)(1) The Division of Elementary and Secondary Education shall
+20 allocate annually to each participating student's account, from funds
+21 appropriated to the Arkansas Children's Educational Freedom Account Fund or
+22 otherwise made available for the Arkansas Children's Educational Freedom
+23 Account Program, an amount equal to ninety percent (90%) of the prior year's
+24 statewide foundation funding allotted per student under § 6-20-2305.
+25 (2) For the 2023-2024 school year and each school year
+26 thereafter, a student who participated in the Succeed Scholarship Program
+27 during the 2022-2023 school year shall receive one hundred percent (100%) of
+28 the prior year's statewide foundation funding amount allotted per student
+29 under § 6-20-2305 until:
+30 (A) The participating student graduates from high school;
+31 (B) The participating student receives a certificate of
+32 completion; or
+33 (C) An event that requires an account to be closed under
+34 subdivision (f)(1) or (f)(2) of this section occurs.
+35 (b)(1) For the 2023-2024 school year, on behalf of participating
+36 students enrolled in participating schools or with participating service
+6 01-16-2025 15:41:45 TNL014
+As Engrossed: H1/16/25 HB1020
+1 providers and at the direction of a participating student’s parent, the
+2 Department of Education shall make four (4) equal payments in quarterly
+3 installments from the participating student’s account to the participating
+4 school or participating service provider in which the participating student
+5 is enrolled for tuition, fees, and costs associated with testing and
+6 uniforms.
+7 (2) The department may:
+8 (A) Contract with a vendor or provider to manage the
+9 payment system used for purposes of implementing this subsection; and
+10 (B) Withhold up to five percent (5%) of funds allocated
+11 for each account annually for the administration of the Arkansas Children’s
+12 Educational Freedom Account Program.
+13 (c) For the 2023-2024 school year, if a participating student is
+14 enrolled full-time in a participating school or with a participating service
+15 provider and the total amount of tuition, fees, testing, and uniform costs is
+16 less than the amount determined under subsection (a) of this section, the
+17 amount allocated to the student shall be the lesser amount.
+18 (d) Account funds shall:
+19 (1)(A) Not be refunded, rebated, or shared with a parent or
+20 participating student in any manner.
+21 (B) Any refund or rebate for goods or services purchased
+22 with account funds shall be credited directly to the participating student’s
+23 account; and
+24 (2) Be used only for qualifying education expenses for a
+25 participating student.
+26 (e)(1) Beginning with the 2024-2025 school year and each year
+27 thereafter, the department shall develop a system for parents to direct
+28 account funds to participating schools and participating service providers by
+29 electronic funds transfer, automated clearinghouse transfer, debit card, or
+30 another system.
+31 (2) The department may:
+32 (A) Contract with a vendor or provider, including without
+33 limitation a private institution, to manage the payment system used for
+34 purposes of implementing this subsection; and
+35 (B) Withhold up to five percent (5%) of funds allocated
+36 for each account annually for the administration of the Arkansas Children’s
+7 01-16-2025 15:41:45 TNL014
+As Engrossed: H1/16/25 HB1020
+1 Educational Freedom Account Program.
+2 (3) The department shall:
+3 (A) Not adopt a payment system under this subsection that
+4 relies exclusively on requiring parents to be reimbursed for out-of-pocket
+5 expenses; and
+6 (B) Ensure a payment system developed under this
+7 subsection provides maximum flexibility to parents by facilitating direct
+8 payments to participating service providers and requests for preapproval of
+9 and reimbursements for qualifying expenses.
+10 (f)(1) An account shall remain in force, and any unused funds shall
+11 roll over from quarter-to-quarter and from year-to-year, until:
+12 (A) A parent withdraws his or her participating student
+13 from the program;
+14 (B) A participating student graduates from high school; or
+15 (C) The end of the school year if a participating student
+16 turns twenty-one (21) years of age, whichever occurs first.
+17 (2) An account shall be closed before an event occurs under
+18 subdivision (f)(1) of this section if the State Board of Education finds:
+19 (A) A substantial misuse of funds; or
+20 (B) That a parent has failed to comply with this
+21 subchapter or state board rules governing the Arkansas Children’s Educational
+22 Freedom Account Program.
+23 (3)(A) Any unused funds shall revert to the division and be
+24 allocated to fund other accounts.
+25 (B)(i) There shall be a maximum amount of funds allowed to
+26 remain in each participating student's account.
+27 (ii) The state board may establish rules to determine
+28 the:
+29 (a) Maximum amount of funds allowed under
+30 subdivision (f)(3)(B)(i) of this section; and
+31 (b) Process by which account funds will be
+32 returned to the appropriate fund within the department.
+33 (g) Account funds shall not:
+34 (1) Constitute taxable income of the parent or the participating
+35 student; and
+36 (2) Be claimed as a credit, deduction, exemption, or rebate.
+8 01-16-2025 15:41:45 TNL014
+As Engrossed: H1/16/25 HB1020
+1 (h) The division shall create procedures to ensure that a fair process
+2 exists to determine whether a participating student is no longer eligible for
+3 participation in the Arkansas Children’s Educational Freedom Account Program,
+4 including without limitation a participating student who is no longer
+5 eligible for participation in the Arkansas Children’s Educational Freedom
+6 Account Program due to his or her failure to demonstrate academic achievement
+7 or academic growth.
+8 (i)(1) If the division bars a student from participating in the
+9 Arkansas Children’s Educational Freedom Account Program, it shall notify the
+10 participating student and his or her parent of its decision within three (3)
+11 days of its decision.
+12 (2) A parent may appeal the division’s decision to bar him or
+13 her from receiving payments from accounts to the state board according to
+14 rules established by the state board.
+15 (j) The state board may promulgate rules to implement this subchapter.
+16
+17 6-18-2506. Student eligibility — Initial and continuing.
+18 (a) A student is initially eligible for an account if the student:
+19 (1) Has a parent who is a resident of the State of Arkansas as
+20 defined by § 6-18-202;
+21 (2) Is eligible to enroll in a public elementary or secondary
+22 school in this state; and
+23 (3) Meets the following criteria:
+24 (A)(i) For the 2023-2024 school year, a student shall be
+25 eligible if the student is at least one (1) of the following:
+26 (a) A student with a disability identified
+27 under the Individuals with Disabilities Education Act, 20 U.S.C. § 1400 et
+28 seq., as it existed on January 1, 2023;
+29 (b) A student who is considered homeless under
+30 the McKinney-Vento Homeless Assistance Act, 42 U.S.C. § 11431 et seq., as it
+31 existed on January 1, 2023;
+32 (c) A foster child or a former foster child;
+33 (d)(1) A student who is currently
+34 participating in the Succeed Scholarship Program, § 6-41-901 et seq.
+35 [repealed].
+36 (2) A student who participated in the
+9 01-16-2025 15:41:45 TNL014
+As Engrossed: H1/16/25 HB1020
+1 Succeed Scholarship Program during the 2022-2023 school year and elects to
+2 enroll in the Arkansas Children's Educational Freedom Account Program under
+3 this subchapter shall receive one hundred percent (100%) of the prior year's
+4 statewide foundation funding amount allotted per student under § 6-20-2305
+5 until:
+6 (A) The participating student
+7 graduates from high school;
+8 (B) The participating student
+9 receives a certificate of completion; or
+10 (C) An event that requires an
+11 account to be closed under § 6-18-2505(f)(1) or § 6-18-2505(f)(2) occurs;
+12 (e) A child of active-duty uniformed service
+13 personnel, as identified under Title 10, Title 32, Title 33, or Title 42 of
+14 the United States Code;
+15 (f) A student who was enrolled in the previous
+16 school year in a:
+17 (1) Public school that has a rating of
+18 “F” under §§ 6-15-2105 and 6-15-2106 and State Board of Education rules; or
+19 (2) Public school district classified as
+20 in need of Level 5 — Intensive support under § 6-15-2913 or § 6-15-2915; or
+21 (g) A student who is enrolling in kindergarten
+22 for the first time.
+23 (ii)(a) For the 2023-2024 school year, a
+24 maximum of one and five-tenths percent (1.5%) of the 2022-2023 total public
+25 school student enrollment may be approved to participate in the Arkansas
+26 Children's Educational Freedom Account Program.
+27 (b) However, the number of students approved
+28 to participate in the Arkansas Children's Educational Freedom Account Program
+29 under subdivision (a)(3)(A)(ii)(a) of this section shall not exceed the
+30 amount of funds made available for the Arkansas Children's Educational
+31 Freedom Account Program;
+32 (B)(i) For the 2024-2025 school year, student eligibility shall
+33 expand to include students who meet at least one (1) of the following:
+34 (a) All students who are eligible under subdivision
+35 (a)(3)(A) of this section;
+36 (b) Students who were enrolled in the prior school
+10 01-16-2025 15:41:45 TNL014
+As Engrossed: H1/16/25 HB1020
+1 year in public schools rated “D” or “F” under §§ 6-15-2105 and 6-15-2106 and
+2 state board rules; and
+3 (c) Students whose parents are:
+4 (1) Veterans as identified under Title 38 of
+5 the United States Code;
+6 (2) In the uniformed service reserve
+7 components;
+8 (3) First responders; or
+9 (4) Law enforcement officers.
+10 (ii)(a) For the 2024-2025 school year, a maximum of
+11 three percent (3%) of the 2022-2023 total public school student enrollment
+12 may be approved to participate in the Arkansas Children's Educational Freedom
+13 Account Program.
+14 (b) The number of students approved to participate
+15 in the Arkansas Children's Educational Freedom Account Program under
+16 subdivision (a)(3)(B)(ii)(a) of this section shall:
+17 (1) Include any students who are continuing to
+18 participate in the Arkansas Children's Educational Freedom Account Program
+19 from the 2023-2024 school year; and
+20 (2) Not exceed the amount of funds made
+21 available for the Arkansas Children's Educational Freedom Account Program;
+22 and
+23 (C)(i) For the 2025-2026 school year and each year thereafter,
+24 any resident of this state who is eligible to enroll in a public elementary
+25 or secondary school shall be eligible.
+26 (ii) Beginning with the 2025-2026 school year, there shall
+27 be no limitation on student participation in the Arkansas Children's
+28 Educational Freedom Account Program.
+29 (b) In any year in which funds are insufficient to fund all
+30 applications for new accounts, first priority shall be given to students who
+31 are eligible under subdivision (a)(3)(A) of this section, followed by
+32 students eligible under subdivision (a)(3)(B) of this section.
+33 (c) In any year in which funds are insufficient to fund all continuing
+34 accounts, priority shall be given to students who have been in the Arkansas
+35 Children’s Educational Freedom Account Program the longest after priority has
+36 been given to students identified under subsection (b) of this section.
+11 01-16-2025 15:41:45 TNL014
+As Engrossed: H1/16/25 HB1020
+1 (d) The State Board of Education shall promulgate rules:
+2 (1) For the implementation of the Arkansas Children’s
+3 Educational Freedom Account Program; and
+4 (2) To effectively and efficiently administer the Arkansas
+5 Children’s Educational Freedom Account Program, including without limitation:
+6 (A) The awarding of funds to participating students;
+7 (B) The oversight of the Arkansas Children’s Educational
+8 Freedom Account Program; and
+9 (C) Any other necessary aspects for the operation of the
+10 Arkansas Children’s Educational Freedom Account Program.
+11 (e)(1) Except as provided under subdivision (e)(2) of this section, a
+12 participating student may only participate in and receive funds from one (1)
+13 of the following:
+14 (A) The Arkansas Children's Educational Freedom Account
+15 Program established by this subchapter; or
+16 (B) The Philanthropic Investment in Arkansas Kids Program
+17 Act, § 6-18-2301 et seq.
+18 (2)(A) A student with a disability as described by subdivision
+19 (a)(3)(A)(i)(a) of this section who has an annual family income that is less
+20 than or equal to two hundred percent (200%) of the federal poverty guidelines
+21 as determined annually in the Federal Register by the United States
+22 Department of Health and Human Services under 42 U.S.C. § 9902(2), as
+23 required under the Philanthropic Investment in Arkansas Kids Program may
+24 receive funds from both the Arkansas Children's Educational Freedom Account
+25 Program established by this subchapter and the Philanthropic Investment in
+26 Arkansas Kids Program.
+27 (B) However, a student who qualifies under subdivision
+28 (e)(2)(A) of this section may receive funds from both the Arkansas Children's
+29 Educational Freedom Account Program established by this subchapter and the
+30 Philanthropic Investment in Arkansas Kids Program only to the extent
+31 necessary to cover qualifying expenses.
+32 (f) The student's parent shall submit an application for an account to
+33 the Department of Education in accordance with Arkansas Children’s
+34 Educational Freedom Account Program timelines established by the department.
+35 (g)(1) The department shall create a standard form that a parent may
+36 submit to establish his or her child's eligibility for the program.
+12 01-16-2025 15:41:45 TNL014
+As Engrossed: H1/16/25 HB1020
+1 (2) The department shall ensure that the standard form required
+2 under subdivision (g)(1) of this section is publicly available and may be
+3 submitted through various sources, including without limitation the internet.
+4 (h)(1) As part of the application, a parent shall sign an agreement
+5 promising each of the following without limitation:
+6 (A)(i) Not to enroll his or her child full-time in a
+7 public school while his or her child is participating in the Arkansas
+8 Children’s Educational Freedom Account Program.
+9 (ii) However, a participating student may take
+10 approved courses at a public school participating as an approved provider;
+11 (B) To use account funds only for qualifying expenses of
+12 the participating student;
+13 (C) To comply with all Arkansas Children’s Educational
+14 Freedom Account Program requirements as established by the department
+15 according to state board rules; and
+16 (D) Beginning with the 2024-2025 school year, in the case
+17 of any account used for qualifying educational expenses not associated with
+18 full-time enrollment in a participating school or a participating service
+19 provider, to agree to provide an education for his or her participating
+20 student in at least the subjects of English language arts, mathematics,
+21 social studies, and science.
+22 (2) The signed agreement required under subdivision (h)(1) of
+23 this section shall satisfy the compulsory school attendance requirements of §
+24 6-18-201.
+25 (i) The division shall:
+26 (1) Continue making deposits into a participating student’s
+27 account until:
+28 (A) The division determines that the participating student
+29 is no longer an eligible student;
+30 (B) The division determines that there was substantial
+31 misuse of account funds, as defined by the state board;
+32 (C) A parent or a participating student withdraws from the
+33 Arkansas Children’s Educational Freedom Account Program;
+34 (D) A participating student enrolls full-time in a public
+35 school;
+36 (E) A participating student graduates from high school; or
+13 01-16-2025 15:41:45 TNL014
+As Engrossed: H1/16/25 HB1020
+1 (F) A participating student completes the school year in
+2 the year in which he or she turns twenty-one (21) years of age;
+3 (2) Provide parents with a written explanation of the:
+4 (A) Allowable uses of funds;
+5 (B) Responsibilities of parents; and
+6 (C) Duties of the division and the role of any private
+7 financial management firms or other private organizations that the department
+8 may contract with to administer the Arkansas Children’s Educational Freedom
+9 Account Program or any aspect of the Arkansas Children’s Educational Freedom
+10 Account Program; and
+11 (3) Annually fund a participating student’s account as funds are
+12 available and in accordance with this law and state board rules.
+13 (j)(1) Upon notice to the division, a participating student may choose
+14 to stop receiving funds disbursed under this subchapter and enroll full-time
+15 in a public school.
+16 (2)(A) Enrolling as a full-time student in a public school shall
+17 result in the immediate suspension of payment of additional funds into the
+18 participating student’s account.
+19 (B)(i) However, for accounts that have been open for at
+20 least one (1) full academic year, the account shall remain open and active
+21 for the parent of a former participating student to make qualifying
+22 expenditures to educate the student from funds remaining in the account.
+23 (ii) When no funds remain in the former
+24 participating student’s account, the division may close the account.
+25 (3)(A) If a former participating student decides to return to
+26 the Arkansas Children’s Educational Freedom Account Program and is a current
+27 eligible student, payments into the former participating student’s existing
+28 account may resume if the account is still open and active.
+29 (B) A new account may be established if the former
+30 participating student’s previous account was closed.
+31 (k) The state board and the department may adopt rules to provide the
+32 least disruptive process for a participating student who desires to stop
+33 receiving funds disbursed under this subchapter and enroll full-time in a
+34 public school.
+35
+36 6-18-2507. Participating schools and participating service providers —
+14 01-16-2025 15:41:45 TNL014
+As Engrossed: H1/16/25 HB1020
+1 Eligibility — Participation.
+2 (a) To be eligible to participate in the Arkansas Children's
+3 Educational Freedom Account Program, a private school shall:
+4 (1)(A) Either:
+5 (i) Meet accreditation requirements established by
+6 the State Board of Education, the Arkansas Nonpublic School Accrediting
+7 Association, Inc., or its successor, or another accrediting association
+8 recognized by the state board; or
+9 (ii) Be an associate member of or have applied for
+10 accreditation by the Arkansas Nonpublic School Accrediting Association, Inc.,
+11 or its successor, or another accrediting association recognized by the state
+12 board.
+13 (B) A private school shall no longer be eligible if:
+14 (i) The private school has not received
+15 accreditation within four (4) years of becoming eligible;
+16 (ii) The state board determines, based on
+17 information provided by the accrediting association, that the private school
+18 is ineligible or unable to continue the accreditation process; or
+19 (iii) It becomes impossible for the private school
+20 to obtain accreditation within four (4) years.
+21 (C) A private school that becomes ineligible under this
+22 section shall regain eligibility when the private school receives
+23 accreditation and is approved by the state board;
+24 (2)(A) Demonstrate fiscal soundness by having been in operation
+25 for at least one (1) school year or providing the Department of Education
+26 with a statement by a certified public accountant confirming that the private
+27 school is insured and the private school has sufficient capital or credit to
+28 operate in the upcoming school year.
+29 (B) In lieu of a statement provided under subdivision
+30 (a)(2)(A) of this section, a surety bond or letter of credit for the amount
+31 equal to the account funds needed by the private school for any quarter may
+32 be filed with the department;
+33 (3) Certify that it will not discriminate on any basis
+34 prohibited by 42 U.S.C. § 2000d, as it existed on January 1, 2023;
+35 (4) Remain academically accountable to a parent for meeting the
+36 educational needs of his or her participating student;
+15 01-16-2025 15:41:45 TNL014
+As Engrossed: H1/16/25 HB1020
+1 (5) Employ or contract only with teachers who hold at least
+2 baccalaureate degrees or have equivalent documented experience;
+3 (6) Comply with all applicable state laws and rules governing
+4 private schools;
+5 (7) Adhere to the tenets of its published disciplinary
+6 procedures before expelling a participating student;
+7 (8) Meet any other eligibility criteria set by state board
+8 rules;
+9 (9) Comply with all applicable health and safety laws and rules;
+10 (10) Hold valid occupancy of buildings as required by the
+11 relevant municipality in which the private school is located;
+12 (11) Exclude any individual from employment who may reasonably
+13 pose a risk to the appropriate use of funds disbursed under this subchapter;
+14 (12) Complete background checks and fingerprinting for any
+15 employee working in the private school; and
+16 (13) Maintain for audit purposes a background check of all
+17 employees.
+18 (b)(1) A public school district or open-enrollment public charter
+19 school located in the State of Arkansas that previously enrolled a student
+20 who is now a participating student under this subchapter shall provide the
+21 participating school or participating service provider that has enrolled the
+22 student who was previously enrolled in the public school district or open-
+23 enrollment public charter school a copy of the participating student's school
+24 records to the extent permitted under the provisions of the Family
+25 Educational Rights and Privacy Act of 1974, 20 U.S.C. § 1232g, as it existed
+26 on January 1, 2023.
+27 (2) The requirement under subdivision (b)(1) of this section
+28 that a public school district or open-enrollment public charter school in
+29 which a participating student was previously enrolled be located in the State
+30 of Arkansas does not apply to a student currently participating in the
+31 Succeed Scholarship Program, § 6-41-901 et seq.
+32 (c) By not later than June 30, 2024, the state board shall adopt rules
+33 providing for program eligibility for participating service providers that
+34 are not participating schools, including without limitation an application
+35 process that is executed, at a minimum, annually for the purpose of
+36 determining service provider eligibility.
+16 01-16-2025 15:41:45 TNL014
+As Engrossed: H1/16/25 HB1020
+1 (d) The department shall maintain a list of service providers
+2 determined to be eligible to participate in the program and make the list
+3 available on the department's website.
+4 (e) The department may bar a service provider from accepting payments
+5 from accounts and restrict the service provider’s ability to serve additional
+6 participating students if the department determines that the participating
+7 service provider has:
+8 (1) Failed to maintain continuing eligibility criteria
+9 established by the state board;
+10 (2) Demonstrated a gross or persistent lack of academic
+11 competence, as defined by the state board;
+12 (3) Intentionally or substantially misrepresented information or
+13 failed to refund any overpayments in a timely manner, as defined by the state
+14 board; or
+15 (4) Routinely failed to provide participating students with
+16 promised educational goods or services, as defined by the state board.
+17 (f)(1) The department shall create procedures to ensure that a fair
+18 process exists to determine whether a participating service provider may be
+19 barred from receiving payments from accounts under subsection (e) of this
+20 section.
+21 (2) If the department bars a participating service provider from
+22 receiving payments from accounts under this section, it shall notify parents
+23 and participating students of its decision within three (3) days of its
+24 decision on the department's website and through attempted individual
+25 communications.
+26 (3) A participating service provider may appeal the department’s
+27 decision to bar it from receiving payments from accounts to the state board.
+28 (g) The following may be subject to review and an audit of funds
+29 received related to this subchapter and as directed by the state board:
+30 (1) A participating service provider; and
+31 (2) A participating school.
+32 (h) The state board shall promulgate rules to implement this
+33 subchapter.
+34
+35 6-18-2508. Students with disabilities.
+36 The Department of Education shall ensure that parents of students with
+17 01-16-2025 15:41:45 TNL014
+As Engrossed: H1/16/25 HB1020
+1 disabilities identified under the Individuals with Disabilities Education
+2 Act, 20 U.S.C. § 1400 et seq., as it existed on January 1, 2023, receive:
+3 (1) Notice that participation in the Arkansas Children’s
+4 Educational Freedom Account Program is a parental placement under 20 U.S.C. §
+5 1412, as it existed on January 1, 2023; and
+6 (2) An explanation of the rights that parentally placed students
+7 possess under the Individuals with Disabilities Education Act, 20 U.S.C. §
+8 1400 et seq., as it existed on January 1, 2023, and any applicable state laws
+9 and rules.
+10
+11 6-18-2509. Testing.
+12 (a)(1) Each participating school and participating service provider
+13 shall provide for each participating student to annually take an assessment
+14 approved by the State Board of Education, which shall include:
+15 (A) An examination identified by the state board that is
+16 required for students attending public schools; or
+17 (B) A state board-approved nationally recognized norm-
+18 referenced test or a statewide assessment, which measures, at a minimum,
+19 literacy and math.
+20 (2)(A) However, a participating student who has an
+21 individualized service plan and is determined by a participating private
+22 school to need an exemption from standardized testing due to the existence of
+23 a significant cognitive disability is not required to take the test required
+24 under subdivision (a)(1) of this section.
+25 (B) If a student is not required to take the test required
+26 under subdivision (a)(1) of this section, a participating private school
+27 shall annually make provision for the student to take an alternate assessment
+28 approved by the state board or prepare a portfolio that provides information
+29 on a student's progress to the student's parent or guardian.
+30 (b) For a participating student who is served by a participating
+31 service provider that is not a private school that is a participating school
+32 during or after the 2024-2025 school year, his or her parent shall provide
+33 for his or her child who is a participating student to take an approved
+34 examination meeting the standards established under subsection (a) of this
+35 section.
+36 (c)(1) The Department of Education shall develop a process for the
+18 01-16-2025 15:41:45 TNL014
+As Engrossed: H1/16/25 HB1020
+1 collection and aggregate reporting of the results of examinations required
+2 under this section, which shall include the public dissemination of the
+3 results collected by participating private schools and participating service
+4 providers.
+5 (2) However, the reporting required under subdivision (c)(1) of
+6 this section shall:
+7 (A) Not identify any individual student; and
+8 (B) Ensure that the summary results of the examinations
+9 required under this section are provided to parents of participating
+10 students.
+11
+12 6-18-2510. Reports.
+13 (a)(1) Not later than September 30 of each year, the Department of
+14 Education shall submit a written report regarding the implementation of the
+15 Arkansas Children's Educational Freedom Account Program to the:
+16 (A) Legislative Council, or if the General Assembly is in
+17 session, the Joint Budget Committee;
+18 (B) House Committee on Education; and
+19 (C) Senate Committee on Education.
+20 (2) The department may contract with an outside entity to
+21 compile the report required under subdivision (a)(1) of this section.
+22 (b) The report required under subdivision (a)(1) of this section shall
+23 include the following information without limitation:
+24 (1) The total number of students currently participating in the
+25 program;
+26 (2) A list of all participating schools and participating
+27 service providers;
+28 (3) The total student enrollment of each participating school
+29 and the percentage of the total enrollment of each school represented by
+30 participating students;
+31 (4) Aggregated test result data for participating students, from
+32 the most recent year available;
+33 (5) The percentage of funds used for each type of qualifying
+34 expense;
+35 (6) An analysis of the program's fiscal impact;
+36 (7) The retention rates for participating students enrolled in
+19 01-16-2025 15:41:45 TNL014
+As Engrossed: H1/16/25 HB1020
+1 participating schools;
+2 (8) The results of a parental satisfaction survey that shall be
+3 administered by the department; and
+4 (9) Other relevant data as determined by the department.
+5
+6 6-18-2511. Legal proceedings.
+7 (a) There shall be no liability on the part of the Department of
+8 Education or the state or of any public school or public school district
+9 based on the award of or use of an account under this subchapter.
+10 (b) Nothing in this section shall be construed as a waiver of
+11 sovereign immunity or any other defenses available to the State of Arkansas.
+12
+13 SECTION 2. Arkansas Code § 6-20-2305(b), concerning education
+14 categories of funding in addition to state foundation funding aid, is amended
+15 to add an additional subdivision read as follows:
+16 (7)(A) For the 2025-2026 school year and each school year
+17 thereafter, special education funding shall be three thousand eighty hundred
+18 sixty-two dollars ($3,862) multiplied by the number of students who receive
+19 special education and related services required by an individualized
+20 education plan.
+21 (B) Funding for students who receive special education and
+22 related services required by an individualized education plan under
+23 subdivision (b)(7)(A) of this section shall be distributed based on rules
+24 promulgated by the state board.
+25 (C) Funding for students who receive special education and
+26 related services required by an individualized education plan shall not be
+27 incorporated into the state foundation funding aid amount established under
+28 subsection (a) of this section.
+29
+30 SECTION 3. Arkansas Code § 9-28-113(j), concerning the use of state
+31 and federal funding for the placement of a foster child in a nonpublic
+32 school, is amended to read as follows:
+33 (j)(1) Notwithstanding any of the provisions of this section, if it is
+34 in the best interest of the child, a foster child may be placed in a
+35 nonpublic school, including a private, parochial, or home school.
+36 (2)(A) Except as provided in subdivision (j)(2)(B) of this
+20 01-16-2025 15:41:45 TNL014
+As Engrossed: H1/16/25 HB1020
+1 section, state State or federal funding shall not be used for the placement
+2 of a foster child in a nonpublic school, including a private, parochial, or
+3 home school.
+4 (B) The prohibition under subdivision (j)(2)(A) of this
+5 section shall not apply to a foster child who receives an Arkansas Children's
+6 Educational Freedom Account Fund under § 6-18-2501 et seq.
+7
+8 SECTION 4. Arkansas Code § 19-5-1277 is repealed.
+9 19-5-1277. Arkansas Children's Educational Freedom Account Fund.
+10 (a) There is created on the books of the Treasurer of State, the
+11 Auditor of State, and the Chief Fiscal Officer of the State a miscellaneous
+12 fund to be known as the “Arkansas Children’s Educational Freedom Account
+13 Fund”.
+14 (b)(1) Notwithstanding any other provisions of law, for fiscal year
+15 2024 and each fiscal year thereafter, in addition to all other amounts
+16 required under the Arkansas Children's Educational Freedom Account Program,
+17 the Department of Education shall include in its annual budget request
+18 submitted under § 19-4-301 et seq., and the Governor shall include in each
+19 recommendation submitted to the General Assembly under § 19-4-201, an
+20 appropriation to the Department of Education, Division of Elementary and
+21 Secondary Education, for the greater of an amount not less than two percent
+22 (2%) of:
+23 (A) Net public school enrollment adjusted for state
+24 foundation funding aid purposes; or
+25 (B) The total number of eligible program applications
+26 received by the division, if available, multiplied by the prior year's
+27 statewide net foundation funding aid allotted per student.
+28 (2) The amount appropriated under subdivision (b)(1) of this
+29 section shall be transferred by the division to the fund to be used solely to
+30 meet the obligations required under the program, except as otherwise provided
+31 in this section.
+32 (3) The Governor shall include a recommendation, as required
+33 under § 19-4-201, that the total amount of funds appropriated to the division
+34 that was not transferred to the fund during the previous fiscal year due to
+35 an accumulated balance from previous fiscal years as provided under
+36 subsection (c) of this section be reappropriated for the subsequent fiscal
+21 01-16-2025 15:41:45 TNL014
+As Engrossed: H1/16/25 HB1020
+1 year.
+2 (c) Each fiscal year, the amount required to be requested and
+3 recommended for appropriation under subsection (b) of this section shall be
+4 reduced by the sum of:
+5 (1) Any unused, accumulated amounts transferred to the fund due
+6 to the requirements under this subsection from previous years; and
+7 (2) Any unused appropriations made to the department due to the
+8 requirements under this subsection that were not transferred to the fund due
+9 to an accumulated balance from previous years.
+10
+11 SECTION 5. Arkansas Code Title 19, Chapter 5, Subchapter 12, is
+12 amended to add an additional section to read as follows:
+13 19-5-1287. Community Schools Act Fund.
+14 (a) There is created on the books of the Treasurer of State, the
+15 Auditor of State, and the Chief Fiscal Officer of the State a miscellaneous
+16 fund to be known as the “Community Schools Act Fund”.
+17 (b) The fund shall consist of:
+18 (1) General revenues authorized by law; and
+19 (2) Moneys obtained from private or public grants, gifts,
+20 interagency transfers, or donations that are designated to be credited to the
+21 fund.
+22 (c) The fund shall be used by the Division of Elementary and Secondary
+23 Education in furtherance of the purposes established under the Community
+24 Schools Act, § 6-15-3001 et seq.
+25 (d) Moneys remaining in the fund at the end of each fiscal year shall
+26 carry forward and be made available for the purposes stated in this section
+27 in the next fiscal year.
+28
+29 /s/A. Collins
+30
+31
+32
+33
+34
+35
+36
+22 01-16-2025 15:41:45 TNL014
+[DELETED:  A       A F E S C   T E C F E C  B   S r  6  T C   6  T P   6]
+[DELETED:  H2 0  A   ( d e   ( b   ( p   ( w t   ( o   ( e o   (    (    (    (    ( o   ( p    ( a    ( F c   ( e p a   (    (    (]
+[DELETED:  H3 0 s   (    ( e      (      (      (      ( a      ( s r p       (       (       (       ( p     ( e     ( e s     ( p p     (     (     ( a     (      ( c      ( e     (]
+[DELETED:  H4 0      ( c      ( o     ( a s     ( s      ( p       (       ( o       (     ( ( E     ( a     ( D   6  ( a t B  ( i   ( s a p   ( i]
+[DELETED:  H5 0 f    ( a     (     (     (    ( c e     (     (     (   (    ( p    ( i     (     ( G   ( s   (    ( t    ( e s  ( a t  ( t f  ( b]
+[DELETED:  H6 0  ( p  ( p  (   ( t   ( f o  ( e a s i o   6  ( a a o A s   ( t d t u    (    ( c    ( s  ( s]
+[DELETED:  H7 0 p D i s i u   (    ( p    ( f E  ( e p l a  (   ( p    ( w a   ( p  ( t a e a   (    ( l p    ( f]
+[DELETED:  H8 0 E   (    ( r e    ( s p a  ( r    ( f    (    ( t   ( s    (    ( s F   ( a    ( r     ( t      ( s      ( r  (   ( s   (]
+[DELETED:  H9 0  ( e p i e A o  ( A p d   ( h r  (   6  (   ( d   ( s   (    ( e      ( u s      ( t e      (      ( p [       (]
+[DELETED:  H1 0 S e t s u        ( g        ( r        ( a      ( p t      ( s       ( “       ( i      ( f      ( m s C      ( t u a F   ( e     ( (     (]
+[DELETED:  H1 0 y s     (      ( t      ( c      (      (     ( t m A     ( i s      ( p f      ( a a   ( a o    ( b E  ( a a s  ( a C b]
+[DELETED:  H1 0  (   ( E   ( C    (    ( F    ( A  ( p o    ( P    ( A   ( ( t a D r r P A    ( ( E P n  ( t E  ( s]
+[DELETED:  H1 0   ( u s  ( p    ( p C     ( a    ( t    ( F a    ( o f p s s   ( t 6  (   ( a    ( i    ( m    ( A    ( s    (]
+[DELETED:  H1 0    ( t   (    (    (    ( f m A A   ( a  ( t i   ( r p    ( l f e     ( p   ( t e a    ( p  ( l r p   6]
+[DELETED:  H1 0 E  ( E   (     ( t A r     ( a o b    (     ( a     ( i i     ( t    ( s a   ( f w s o    ( ( e b   ( p   ( e]
+[DELETED:  H1 0   ( b   ( p   ( p   ( r   (   ( r   ( p   ( e   ( e  ( s w p s e r E o   ( t w o S  ( p a p d]
+[DELETED:  H1 0  ( d a  ( f p s   ( e   ( c   ( f b   ( p  ( p b s   ( r a d c   ( d  ( r   (   (  ( s   6  T]
+[DELETED:  H1 0 d A   ( E 1   ( p 1 a    6  ( s a    ( r    ( r l   ( i s a u    ( u s a o  ( s d f e s  (]
+[DELETED:  H1 0 c u r p   ( t    (    ( r s   6  ( E A    ( s    (    (   ( c  ( i   ( p   ( s   ( a p   ( t   ( e   (   (]
+[DELETED:  H2 0 p   ( a   (   6  ( E b  ( s   S c t   ( t s s e    ( r s p    ( r i s   S a s  ( i n   (]
+[DELETED:  H2 0 s o h    ( s E   S  1  ( A f F  ( 2 r t s r a S (    ( f    ( r s   ( s m i   ( u t a s]
+[DELETED:  H2 0 y  ( r r   ( t   ( r t   S a  1  ( A f  (   (   ( i f  ( E S  ( c i  /       ]
+
+
+================================================================================
+
+Raw Text:
+Stricken language would be deleted from and underlined language would be added to present law.
+1 State of Arkansas As Engrossed: H1/16/25
+A Bill
+2 95th General Assembly
+3 Regular Session, 2025 HOUSE BILL 1020
+4
+5 Representatives A. Collins, Springer
+6
+7
+For An Act To Be Entitled
+8
+9 AN ACT TO REPEAL THE ARKANSAS CHILDREN'S EDUCATIONAL
+10 FREEDOM ACCOUNT PROGRAM; TO CREATE AN ADDITIONAL
+11 EDUCATION FUNDING CATEGORY FOR STUDENTS WHO RECEIVE
+12 SPECIAL EDUCATION AND RELATED SERVICES; TO CREATE THE
+13 COMMUNITY SCHOOLS ACT FUND; AND FOR OTHER PURPOSES.
+14
+15
+Subtitle
+16
+17 TO REPEAL THE ARKANSAS CHILDREN'S
+18 EDUCATIONAL FREEDOM ACCOUNT PROGRAM; TO
+19 CREATE A NEW EDUCATION FUNDING CATEGORY
+20 FOR STUDENTS WHO RECEIVE SPECIAL
+21 EDUCATION AND RELATED SERVICES; AND TO
+22 CREATE THE COMMUNITY SCHOOLS ACT FUND.
+23
+24 BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF ARKANSAS:
+25
+26 SECTION 1. Arkansas Code Title 6, Chapter 18, Subchapter 25, is
+27 repealed.
+28 6-18-2501. Title.
+29 This subchapter shall be known and may be cited as the “Arkansas
+30 Children's Educational Freedom Account Program”.
+31
+32 6-18-2502. Creation.
+33 There is created the “Arkansas Children's Educational Freedom Account
+34 Program”.
+35
+36 6-18-2503. Definitions.
+*TNL014*
+01-16-2025 15:41:45 TNL014
+
+As Engrossed: H1/16/25 HB1020
+1 As used in this subchapter:
+2 (1) “Account” means an account that is comprised of funds
+3 deposited on behalf of a participating student to pay for qualifying
+4 educational expenses;
+5 (2) “Account funds” means the funds deposited into an account on
+6 behalf of a participating student;
+7 (3) “Curriculum” means a complete course of study for a
+8 particular content area or grade level;
+9 (4) “Eligible student” means a resident of the State of Arkansas
+10 who is eligible to enroll in a public elementary or secondary school, subject
+11 to the timeline and parameters established under §§ 6-18-2506 and 6-18-2507;
+12 (5) “Full academic curriculum” means all required core courses,
+13 or the equivalent, as are offered in traditional public schools;
+14 (6) “Full academic year” means at least one hundred seventy-
+15 eight (178) days of instruction or the equivalent number of hours to what is
+16 offered in traditional public schools;
+17 (7) “Parent” means:
+18 (A) A biological or adoptive parent;
+19 (B) Legal guardian or custodian;
+20 (C) Persons standing in loco parentis to a student; or
+21 (D) Another person with legal authority to act on behalf
+22 of an eligible student;
+23 (8) “Participating school” means a private elementary school or
+24 private secondary school that:
+25 (A) Offers enrolled students a full academic curriculum
+26 and full academic year experience; and
+27 (B) Receives payments from Arkansas Children's Educational
+28 Freedom Account Program accounts to provide goods and services that are
+29 covered as qualifying expenses under this subchapter;
+30 (9) “Participating service provider” means a person or an
+31 entity, including a participating public or private school, that receives
+32 payments from program accounts to provide goods and services that are covered
+33 as qualifying expenses under this subchapter;
+34 (10) “Participating student” means a student:
+35 (A) Eligible to participate in the program; and
+36 (B) For whom an account has been established under this
+2 01-16-2025 15:41:45 TNL014
+
+As Engrossed: H1/16/25 HB1020
+1 subchapter; and
+2 (11) “Qualifying expenses” means:
+3 (A)(i) For the 2023-2024 school year, “qualifying
+4 expenses” shall include:
+5 (a) Tuition;
+6 (b) Fees;
+7 (c) The cost of testing under this subchapter;
+8 (d) The cost of required school uniforms, if
+9 any, at a participating school; and
+10 (e) Expenses determined by a participating
+11 school to be necessary for the education of a participating student and
+12 required to be paid by a participating student who is enrolled in the
+13 participating school, including without limitation expenses related to:
+14 (1) Supplies;
+15 (2) Equipment;
+16 (3) Access to technology; and
+17 (4) Services provided by or at the
+18 participating school.
+19 (ii) “Qualifying expenses” shall not mean optional
+20 expenses payable to a third party; and
+21 (B) Beginning with the 2024-2025 school year and
+22 each year thereafter, “qualifying expenses” shall include those listed under
+23 subdivision (11)(A) of this section and include the following:
+24 (i) Instructional materials required for either in-
+25 person or virtual instruction provided by a participating service provider or
+26 participating school;
+27 (ii) Instructional or tutoring services;
+28 (iii) Curriculum;
+29 (iv) Supplemental materials or supplies required by
+30 a course of study for a particular content area;
+31 (v) Fees for:
+32 (a) Courses and associated examinations for
+33 college credit; and
+34 (b) Any examination related to postsecondary
+35 educational institution admission;
+36 (vi) Fees for:
+3 01-16-2025 15:41:45 TNL014
+
+As Engrossed: H1/16/25 HB1020
+1 (a) Courses and associated examinations for
+2 career training; and
+3 (b) Any examination required in order to
+4 obtain an industry-based credential;
+5 (vii) Educational services provided by a licensed or
+6 accredited practitioner or participating service provider to a participating
+7 student who is a student with a disability;
+8 (viii) Fees for account management by participating
+9 service providers;
+10 (ix)(a) Technological devices used to meet a
+11 participating student's educational needs, which shall not include:
+12 (1) A television;
+13 (2) A video game console or accessory;
+14 or
+15 (3) Home theater or audio equipment.
+16 (b) Technological devices under subdivision
+17 (11)(B)(ix)(a) of this section are subject to approval by the Department of
+18 Education or a licensed physician;
+19 (x) Costs associated with transportation to and from
+20 a participating service provider or participating school; and
+21 (xi) Any other educational expense approved by the
+22 Division of Elementary and Secondary Education.
+23
+24 6-18-2504. State Board of Education — Rules.
+25 (a) The Division of Elementary and Secondary Education shall
+26 administer the Arkansas Children's Educational Freedom Account Program under
+27 this subchapter, which shall be subject to the rules adopted by the State
+28 Board of Education.
+29 (b) The rules adopted by the state board under this subchapter shall
+30 include without limitation the:
+31 (1) Process for determining the eligibility of students and
+32 service providers, including the awarding of accounts to eligible students
+33 and removal of unnecessary barriers or disincentives to participation by
+34 potential participating service providers;
+35 (2)(A) Process for conducting account and program audits,
+36 including establishing the authority for the division to conduct or contract
+4 01-16-2025 15:41:45 TNL014
+
+As Engrossed: H1/16/25 HB1020
+1 for the auditing of accounts.
+2 (B) The division shall establish a process for conducting
+3 an audit of an entity receiving funds under this subchapter, including:
+4 (i) An individual account;
+5 (ii) A participating service provider; and
+6 (iii) A participating school.
+7 (C) At least one (1) time each year, the division shall
+8 conduct random audits of the following according to the auditing process
+9 established under subdivision (b)(2)(B) of this section:
+10 (i) An individual account;
+11 (ii) A participating service provider; and
+12 (iii) A participating school;
+13 (3) Authority of the division to:
+14 (A) Deem any participating student ineligible for the
+15 program; and
+16 (B) Refer a case involving the misuse of account funds for
+17 investigation to:
+18 (i) The Attorney General; or
+19 (ii) The Secretary of the Department of Inspector
+20 General;
+21 (4) Authority of the division to contract with a vendor or other
+22 supplier for the administration of the program or parts of the program;
+23 (5) Requirement that the program shall:
+24 (A) Begin enrolling participating students no later than
+25 the beginning of the 2023-2024 school year; and
+26 (B) Be fully implemented to serve all Arkansas children
+27 eligible to enroll in a public school by the beginning of the 2025-2026
+28 school year;
+29 (6) Establishment or creation of a contract for the establishment of
+30 an online anonymous fraud reporting service, including without limitation a
+31 telephone hotline;
+32 (7) Requirement for a surety bond for a participating service provider
+33 that receives more than one hundred thousand dollars ($100,000) in account
+34 funds;
+35 (8) Mechanism for the refunding of payments from service providers
+36 back to the account from which they were paid;
+5 01-16-2025 15:41:45 TNL014
+
+As Engrossed: H1/16/25 HB1020
+1 (9) Required compliance with all state procurement laws and
+2 procedures; and
+3 (10) Means for preventing unreasonable inflation or fraud in
+4 participating school tuition and fees.
+5 (c) The following shall be forwarded to Arkansas Legislative Audit:
+6 (1) An audit conducted under subdivision (b)(2) of this section
+7 that identifies a potential misuse of account funds; and
+8 (2) The referral of a case involving the misuse of account funds
+9 for investigation to the Attorney General or the Secretary of the Department
+10 of Inspector General under subdivision (b)(3)(B) of this section.
+11 (d) To ensure that account funds under this subchapter provide for the
+12 expansion of access to education options by reducing family financial burdens
+13 and are not abused by service providers for financial gain, the state board
+14 shall take all necessary action in establishing rules under this subchapter,
+15 including without limitation the disqualification of a participating school
+16 or a participating service provider.
+17
+18 6-18-2505. Account funds.
+19 (a)(1) The Division of Elementary and Secondary Education shall
+20 allocate annually to each participating student's account, from funds
+21 appropriated to the Arkansas Children's Educational Freedom Account Fund or
+22 otherwise made available for the Arkansas Children's Educational Freedom
+23 Account Program, an amount equal to ninety percent (90%) of the prior year's
+24 statewide foundation funding allotted per student under § 6-20-2305.
+25 (2) For the 2023-2024 school year and each school year
+26 thereafter, a student who participated in the Succeed Scholarship Program
+27 during the 2022-2023 school year shall receive one hundred percent (100%) of
+28 the prior year's statewide foundation funding amount allotted per student
+29 under § 6-20-2305 until:
+30 (A) The participating student graduates from high school;
+31 (B) The participating student receives a certificate of
+32 completion; or
+33 (C) An event that requires an account to be closed under
+34 subdivision (f)(1) or (f)(2) of this section occurs.
+35 (b)(1) For the 2023-2024 school year, on behalf of participating
+36 students enrolled in participating schools or with participating service
+6 01-16-2025 15:41:45 TNL014
+
+As Engrossed: H1/16/25 HB1020
+1 providers and at the direction of a participating student’s parent, the
+2 Department of Education shall make four (4) equal payments in quarterly
+3 installments from the participating student’s account to the participating
+4 school or participating service provider in which the participating student
+5 is enrolled for tuition, fees, and costs associated with testing and
+6 uniforms.
+7 (2) The department may:
+8 (A) Contract with a vendor or provider to manage the
+9 payment system used for purposes of implementing this subsection; and
+10 (B) Withhold up to five percent (5%) of funds allocated
+11 for each account annually for the administration of the Arkansas Children’s
+12 Educational Freedom Account Program.
+13 (c) For the 2023-2024 school year, if a participating student is
+14 enrolled full-time in a participating school or with a participating service
+15 provider and the total amount of tuition, fees, testing, and uniform costs is
+16 less than the amount determined under subsection (a) of this section, the
+17 amount allocated to the student shall be the lesser amount.
+18 (d) Account funds shall:
+19 (1)(A) Not be refunded, rebated, or shared with a parent or
+20 participating student in any manner.
+21 (B) Any refund or rebate for goods or services purchased
+22 with account funds shall be credited directly to the participating student’s
+23 account; and
+24 (2) Be used only for qualifying education expenses for a
+25 participating student.
+26 (e)(1) Beginning with the 2024-2025 school year and each year
+27 thereafter, the department shall develop a system for parents to direct
+28 account funds to participating schools and participating service providers by
+29 electronic funds transfer, automated clearinghouse transfer, debit card, or
+30 another system.
+31 (2) The department may:
+32 (A) Contract with a vendor or provider, including without
+33 limitation a private institution, to manage the payment system used for
+34 purposes of implementing this subsection; and
+35 (B) Withhold up to five percent (5%) of funds allocated
+36 for each account annually for the administration of the Arkansas Children’s
+7 01-16-2025 15:41:45 TNL014
+
+As Engrossed: H1/16/25 HB1020
+1 Educational Freedom Account Program.
+2 (3) The department shall:
+3 (A) Not adopt a payment system under this subsection that
+4 relies exclusively on requiring parents to be reimbursed for out-of-pocket
+5 expenses; and
+6 (B) Ensure a payment system developed under this
+7 subsection provides maximum flexibility to parents by facilitating direct
+8 payments to participating service providers and requests for preapproval of
+9 and reimbursements for qualifying expenses.
+10 (f)(1) An account shall remain in force, and any unused funds shall
+11 roll over from quarter-to-quarter and from year-to-year, until:
+12 (A) A parent withdraws his or her participating student
+13 from the program;
+14 (B) A participating student graduates from high school; or
+15 (C) The end of the school year if a participating student
+16 turns twenty-one (21) years of age, whichever occurs first.
+17 (2) An account shall be closed before an event occurs under
+18 subdivision (f)(1) of this section if the State Board of Education finds:
+19 (A) A substantial misuse of funds; or
+20 (B) That a parent has failed to comply with this
+21 subchapter or state board rules governing the Arkansas Children’s Educational
+22 Freedom Account Program.
+23 (3)(A) Any unused funds shall revert to the division and be
+24 allocated to fund other accounts.
+25 (B)(i) There shall be a maximum amount of funds allowed to
+26 remain in each participating student's account.
+27 (ii) The state board may establish rules to determine
+28 the:
+29 (a) Maximum amount of funds allowed under
+30 subdivision (f)(3)(B)(i) of this section; and
+31 (b) Process by which account funds will be
+32 returned to the appropriate fund within the department.
+33 (g) Account funds shall not:
+34 (1) Constitute taxable income of the parent or the participating
+35 student; and
+36 (2) Be claimed as a credit, deduction, exemption, or rebate.
+8 01-16-2025 15:41:45 TNL014
+
+As Engrossed: H1/16/25 HB1020
+1 (h) The division shall create procedures to ensure that a fair process
+2 exists to determine whether a participating student is no longer eligible for
+3 participation in the Arkansas Children’s Educational Freedom Account Program,
+4 including without limitation a participating student who is no longer
+5 eligible for participation in the Arkansas Children’s Educational Freedom
+6 Account Program due to his or her failure to demonstrate academic achievement
+7 or academic growth.
+8 (i)(1) If the division bars a student from participating in the
+9 Arkansas Children’s Educational Freedom Account Program, it shall notify the
+10 participating student and his or her parent of its decision within three (3)
+11 days of its decision.
+12 (2) A parent may appeal the division’s decision to bar him or
+13 her from receiving payments from accounts to the state board according to
+14 rules established by the state board.
+15 (j) The state board may promulgate rules to implement this subchapter.
+16
+17 6-18-2506. Student eligibility — Initial and continuing.
+18 (a) A student is initially eligible for an account if the student:
+19 (1) Has a parent who is a resident of the State of Arkansas as
+20 defined by § 6-18-202;
+21 (2) Is eligible to enroll in a public elementary or secondary
+22 school in this state; and
+23 (3) Meets the following criteria:
+24 (A)(i) For the 2023-2024 school year, a student shall be
+25 eligible if the student is at least one (1) of the following:
+26 (a) A student with a disability identified
+27 under the Individuals with Disabilities Education Act, 20 U.S.C. § 1400 et
+28 seq., as it existed on January 1, 2023;
+29 (b) A student who is considered homeless under
+30 the McKinney-Vento Homeless Assistance Act, 42 U.S.C. § 11431 et seq., as it
+31 existed on January 1, 2023;
+32 (c) A foster child or a former foster child;
+33 (d)(1) A student who is currently
+34 participating in the Succeed Scholarship Program, § 6-41-901 et seq.
+35 [repealed].
+36 (2) A student who participated in the
+9 01-16-2025 15:41:45 TNL014
+
+As Engrossed: H1/16/25 HB1020
+1 Succeed Scholarship Program during the 2022-2023 school year and elects to
+2 enroll in the Arkansas Children's Educational Freedom Account Program under
+3 this subchapter shall receive one hundred percent (100%) of the prior year's
+4 statewide foundation funding amount allotted per student under § 6-20-2305
+5 until:
+6 (A) The participating student
+7 graduates from high school;
+8 (B) The participating student
+9 receives a certificate of completion; or
+10 (C) An event that requires an
+11 account to be closed under § 6-18-2505(f)(1) or § 6-18-2505(f)(2) occurs;
+12 (e) A child of active-duty uniformed service
+13 personnel, as identified under Title 10, Title 32, Title 33, or Title 42 of
+14 the United States Code;
+15 (f) A student who was enrolled in the previous
+16 school year in a:
+17 (1) Public school that has a rating of
+18 “F” under §§ 6-15-2105 and 6-15-2106 and State Board of Education rules; or
+19 (2) Public school district classified as
+20 in need of Level 5 — Intensive support under § 6-15-2913 or § 6-15-2915; or
+21 (g) A student who is enrolling in kindergarten
+22 for the first time.
+23 (ii)(a) For the 2023-2024 school year, a
+24 maximum of one and five-tenths percent (1.5%) of the 2022-2023 total public
+25 school student enrollment may be approved to participate in the Arkansas
+26 Children's Educational Freedom Account Program.
+27 (b) However, the number of students approved
+28 to participate in the Arkansas Children's Educational Freedom Account Program
+29 under subdivision (a)(3)(A)(ii)(a) of this section shall not exceed the
+30 amount of funds made available for the Arkansas Children's Educational
+31 Freedom Account Program;
+32 (B)(i) For the 2024-2025 school year, student eligibility shall
+33 expand to include students who meet at least one (1) of the following:
+34 (a) All students who are eligible under subdivision
+35 (a)(3)(A) of this section;
+36 (b) Students who were enrolled in the prior school
+10 01-16-2025 15:41:45 TNL014
+
+As Engrossed: H1/16/25 HB1020
+1 year in public schools rated “D” or “F” under §§ 6-15-2105 and 6-15-2106 and
+2 state board rules; and
+3 (c) Students whose parents are:
+4 (1) Veterans as identified under Title 38 of
+5 the United States Code;
+6 (2) In the uniformed service reserve
+7 components;
+8 (3) First responders; or
+9 (4) Law enforcement officers.
+10 (ii)(a) For the 2024-2025 school year, a maximum of
+11 three percent (3%) of the 2022-2023 total public school student enrollment
+12 may be approved to participate in the Arkansas Children's Educational Freedom
+13 Account Program.
+14 (b) The number of students approved to participate
+15 in the Arkansas Children's Educational Freedom Account Program under
+16 subdivision (a)(3)(B)(ii)(a) of this section shall:
+17 (1) Include any students who are continuing to
+18 participate in the Arkansas Children's Educational Freedom Account Program
+19 from the 2023-2024 school year; and
+20 (2) Not exceed the amount of funds made
+21 available for the Arkansas Children's Educational Freedom Account Program;
+22 and
+23 (C)(i) For the 2025-2026 school year and each year thereafter,
+24 any resident of this state who is eligible to enroll in a public elementary
+25 or secondary school shall be eligible.
+26 (ii) Beginning with the 2025-2026 school year, there shall
+27 be no limitation on student participation in the Arkansas Children's
+28 Educational Freedom Account Program.
+29 (b) In any year in which funds are insufficient to fund all
+30 applications for new accounts, first priority shall be given to students who
+31 are eligible under subdivision (a)(3)(A) of this section, followed by
+32 students eligible under subdivision (a)(3)(B) of this section.
+33 (c) In any year in which funds are insufficient to fund all continuing
+34 accounts, priority shall be given to students who have been in the Arkansas
+35 Children’s Educational Freedom Account Program the longest after priority has
+36 been given to students identified under subsection (b) of this section.
+11 01-16-2025 15:41:45 TNL014
+
+As Engrossed: H1/16/25 HB1020
+1 (d) The State Board of Education shall promulgate rules:
+2 (1) For the implementation of the Arkansas Children’s
+3 Educational Freedom Account Program; and
+4 (2) To effectively and efficiently administer the Arkansas
+5 Children’s Educational Freedom Account Program, including without limitation:
+6 (A) The awarding of funds to participating students;
+7 (B) The oversight of the Arkansas Children’s Educational
+8 Freedom Account Program; and
+9 (C) Any other necessary aspects for the operation of the
+10 Arkansas Children’s Educational Freedom Account Program.
+11 (e)(1) Except as provided under subdivision (e)(2) of this section, a
+12 participating student may only participate in and receive funds from one (1)
+13 of the following:
+14 (A) The Arkansas Children's Educational Freedom Account
+15 Program established by this subchapter; or
+16 (B) The Philanthropic Investment in Arkansas Kids Program
+17 Act, § 6-18-2301 et seq.
+18 (2)(A) A student with a disability as described by subdivision
+19 (a)(3)(A)(i)(a) of this section who has an annual family income that is less
+20 than or equal to two hundred percent (200%) of the federal poverty guidelines
+21 as determined annually in the Federal Register by the United States
+22 Department of Health and Human Services under 42 U.S.C. § 9902(2), as
+23 required under the Philanthropic Investment in Arkansas Kids Program may
+24 receive funds from both the Arkansas Children's Educational Freedom Account
+25 Program established by this subchapter and the Philanthropic Investment in
+26 Arkansas Kids Program.
+27 (B) However, a student who qualifies under subdivision
+28 (e)(2)(A) of this section may receive funds from both the Arkansas Children's
+29 Educational Freedom Account Program established by this subchapter and the
+30 Philanthropic Investment in Arkansas Kids Program only to the extent
+31 necessary to cover qualifying expenses.
+32 (f) The student's parent shall submit an application for an account to
+33 the Department of Education in accordance with Arkansas Children’s
+34 Educational Freedom Account Program timelines established by the department.
+35 (g)(1) The department shall create a standard form that a parent may
+36 submit to establish his or her child's eligibility for the program.
+12 01-16-2025 15:41:45 TNL014
+
+As Engrossed: H1/16/25 HB1020
+1 (2) The department shall ensure that the standard form required
+2 under subdivision (g)(1) of this section is publicly available and may be
+3 submitted through various sources, including without limitation the internet.
+4 (h)(1) As part of the application, a parent shall sign an agreement
+5 promising each of the following without limitation:
+6 (A)(i) Not to enroll his or her child full-time in a
+7 public school while his or her child is participating in the Arkansas
+8 Children’s Educational Freedom Account Program.
+9 (ii) However, a participating student may take
+10 approved courses at a public school participating as an approved provider;
+11 (B) To use account funds only for qualifying expenses of
+12 the participating student;
+13 (C) To comply with all Arkansas Children’s Educational
+14 Freedom Account Program requirements as established by the department
+15 according to state board rules; and
+16 (D) Beginning with the 2024-2025 school year, in the case
+17 of any account used for qualifying educational expenses not associated with
+18 full-time enrollment in a participating school or a participating service
+19 provider, to agree to provide an education for his or her participating
+20 student in at least the subjects of English language arts, mathematics,
+21 social studies, and science.
+22 (2) The signed agreement required under subdivision (h)(1) of
+23 this section shall satisfy the compulsory school attendance requirements of §
+24 6-18-201.
+25 (i) The division shall:
+26 (1) Continue making deposits into a participating student’s
+27 account until:
+28 (A) The division determines that the participating student
+29 is no longer an eligible student;
+30 (B) The division determines that there was substantial
+31 misuse of account funds, as defined by the state board;
+32 (C) A parent or a participating student withdraws from the
+33 Arkansas Children’s Educational Freedom Account Program;
+34 (D) A participating student enrolls full-time in a public
+35 school;
+36 (E) A participating student graduates from high school; or
+13 01-16-2025 15:41:45 TNL014
+
+As Engrossed: H1/16/25 HB1020
+1 (F) A participating student completes the school year in
+2 the year in which he or she turns twenty-one (21) years of age;
+3 (2) Provide parents with a written explanation of the:
+4 (A) Allowable uses of funds;
+5 (B) Responsibilities of parents; and
+6 (C) Duties of the division and the role of any private
+7 financial management firms or other private organizations that the department
+8 may contract with to administer the Arkansas Children’s Educational Freedom
+9 Account Program or any aspect of the Arkansas Children’s Educational Freedom
+10 Account Program; and
+11 (3) Annually fund a participating student’s account as funds are
+12 available and in accordance with this law and state board rules.
+13 (j)(1) Upon notice to the division, a participating student may choose
+14 to stop receiving funds disbursed under this subchapter and enroll full-time
+15 in a public school.
+16 (2)(A) Enrolling as a full-time student in a public school shall
+17 result in the immediate suspension of payment of additional funds into the
+18 participating student’s account.
+19 (B)(i) However, for accounts that have been open for at
+20 least one (1) full academic year, the account shall remain open and active
+21 for the parent of a former participating student to make qualifying
+22 expenditures to educate the student from funds remaining in the account.
+23 (ii) When no funds remain in the former
+24 participating student’s account, the division may close the account.
+25 (3)(A) If a former participating student decides to return to
+26 the Arkansas Children’s Educational Freedom Account Program and is a current
+27 eligible student, payments into the former participating student’s existing
+28 account may resume if the account is still open and active.
+29 (B) A new account may be established if the former
+30 participating student’s previous account was closed.
+31 (k) The state board and the department may adopt rules to provide the
+32 least disruptive process for a participating student who desires to stop
+33 receiving funds disbursed under this subchapter and enroll full-time in a
+34 public school.
+35
+36 6-18-2507. Participating schools and participating service providers —
+14 01-16-2025 15:41:45 TNL014
+
+As Engrossed: H1/16/25 HB1020
+1 Eligibility — Participation.
+2 (a) To be eligible to participate in the Arkansas Children's
+3 Educational Freedom Account Program, a private school shall:
+4 (1)(A) Either:
+5 (i) Meet accreditation requirements established by
+6 the State Board of Education, the Arkansas Nonpublic School Accrediting
+7 Association, Inc., or its successor, or another accrediting association
+8 recognized by the state board; or
+9 (ii) Be an associate member of or have applied for
+10 accreditation by the Arkansas Nonpublic School Accrediting Association, Inc.,
+11 or its successor, or another accrediting association recognized by the state
+12 board.
+13 (B) A private school shall no longer be eligible if:
+14 (i) The private school has not received
+15 accreditation within four (4) years of becoming eligible;
+16 (ii) The state board determines, based on
+17 information provided by the accrediting association, that the private school
+18 is ineligible or unable to continue the accreditation process; or
+19 (iii) It becomes impossible for the private school
+20 to obtain accreditation within four (4) years.
+21 (C) A private school that becomes ineligible under this
+22 section shall regain eligibility when the private school receives
+23 accreditation and is approved by the state board;
+24 (2)(A) Demonstrate fiscal soundness by having been in operation
+25 for at least one (1) school year or providing the Department of Education
+26 with a statement by a certified public accountant confirming that the private
+27 school is insured and the private school has sufficient capital or credit to
+28 operate in the upcoming school year.
+29 (B) In lieu of a statement provided under subdivision
+30 (a)(2)(A) of this section, a surety bond or letter of credit for the amount
+31 equal to the account funds needed by the private school for any quarter may
+32 be filed with the department;
+33 (3) Certify that it will not discriminate on any basis
+34 prohibited by 42 U.S.C. § 2000d, as it existed on January 1, 2023;
+35 (4) Remain academically accountable to a parent for meeting the
+36 educational needs of his or her participating student;
+15 01-16-2025 15:41:45 TNL014
+
+As Engrossed: H1/16/25 HB1020
+1 (5) Employ or contract only with teachers who hold at least
+2 baccalaureate degrees or have equivalent documented experience;
+3 (6) Comply with all applicable state laws and rules governing
+4 private schools;
+5 (7) Adhere to the tenets of its published disciplinary
+6 procedures before expelling a participating student;
+7 (8) Meet any other eligibility criteria set by state board
+8 rules;
+9 (9) Comply with all applicable health and safety laws and rules;
+10 (10) Hold valid occupancy of buildings as required by the
+11 relevant municipality in which the private school is located;
+12 (11) Exclude any individual from employment who may reasonably
+13 pose a risk to the appropriate use of funds disbursed under this subchapter;
+14 (12) Complete background checks and fingerprinting for any
+15 employee working in the private school; and
+16 (13) Maintain for audit purposes a background check of all
+17 employees.
+18 (b)(1) A public school district or open-enrollment public charter
+19 school located in the State of Arkansas that previously enrolled a student
+20 who is now a participating student under this subchapter shall provide the
+21 participating school or participating service provider that has enrolled the
+22 student who was previously enrolled in the public school district or open-
+23 enrollment public charter school a copy of the participating student's school
+24 records to the extent permitted under the provisions of the Family
+25 Educational Rights and Privacy Act of 1974, 20 U.S.C. § 1232g, as it existed
+26 on January 1, 2023.
+27 (2) The requirement under subdivision (b)(1) of this section
+28 that a public school district or open-enrollment public charter school in
+29 which a participating student was previously enrolled be located in the State
+30 of Arkansas does not apply to a student currently participating in the
+31 Succeed Scholarship Program, § 6-41-901 et seq.
+32 (c) By not later than June 30, 2024, the state board shall adopt rules
+33 providing for program eligibility for participating service providers that
+34 are not participating schools, including without limitation an application
+35 process that is executed, at a minimum, annually for the purpose of
+36 determining service provider eligibility.
+16 01-16-2025 15:41:45 TNL014
+
+As Engrossed: H1/16/25 HB1020
+1 (d) The department shall maintain a list of service providers
+2 determined to be eligible to participate in the program and make the list
+3 available on the department's website.
+4 (e) The department may bar a service provider from accepting payments
+5 from accounts and restrict the service provider’s ability to serve additional
+6 participating students if the department determines that the participating
+7 service provider has:
+8 (1) Failed to maintain continuing eligibility criteria
+9 established by the state board;
+10 (2) Demonstrated a gross or persistent lack of academic
+11 competence, as defined by the state board;
+12 (3) Intentionally or substantially misrepresented information or
+13 failed to refund any overpayments in a timely manner, as defined by the state
+14 board; or
+15 (4) Routinely failed to provide participating students with
+16 promised educational goods or services, as defined by the state board.
+17 (f)(1) The department shall create procedures to ensure that a fair
+18 process exists to determine whether a participating service provider may be
+19 barred from receiving payments from accounts under subsection (e) of this
+20 section.
+21 (2) If the department bars a participating service provider from
+22 receiving payments from accounts under this section, it shall notify parents
+23 and participating students of its decision within three (3) days of its
+24 decision on the department's website and through attempted individual
+25 communications.
+26 (3) A participating service provider may appeal the department’s
+27 decision to bar it from receiving payments from accounts to the state board.
+28 (g) The following may be subject to review and an audit of funds
+29 received related to this subchapter and as directed by the state board:
+30 (1) A participating service provider; and
+31 (2) A participating school.
+32 (h) The state board shall promulgate rules to implement this
+33 subchapter.
+34
+35 6-18-2508. Students with disabilities.
+36 The Department of Education shall ensure that parents of students with
+17 01-16-2025 15:41:45 TNL014
+
+As Engrossed: H1/16/25 HB1020
+1 disabilities identified under the Individuals with Disabilities Education
+2 Act, 20 U.S.C. § 1400 et seq., as it existed on January 1, 2023, receive:
+3 (1) Notice that participation in the Arkansas Children’s
+4 Educational Freedom Account Program is a parental placement under 20 U.S.C. §
+5 1412, as it existed on January 1, 2023; and
+6 (2) An explanation of the rights that parentally placed students
+7 possess under the Individuals with Disabilities Education Act, 20 U.S.C. §
+8 1400 et seq., as it existed on January 1, 2023, and any applicable state laws
+9 and rules.
+10
+11 6-18-2509. Testing.
+12 (a)(1) Each participating school and participating service provider
+13 shall provide for each participating student to annually take an assessment
+14 approved by the State Board of Education, which shall include:
+15 (A) An examination identified by the state board that is
+16 required for students attending public schools; or
+17 (B) A state board-approved nationally recognized norm-
+18 referenced test or a statewide assessment, which measures, at a minimum,
+19 literacy and math.
+20 (2)(A) However, a participating student who has an
+21 individualized service plan and is determined by a participating private
+22 school to need an exemption from standardized testing due to the existence of
+23 a significant cognitive disability is not required to take the test required
+24 under subdivision (a)(1) of this section.
+25 (B) If a student is not required to take the test required
+26 under subdivision (a)(1) of this section, a participating private school
+27 shall annually make provision for the student to take an alternate assessment
+28 approved by the state board or prepare a portfolio that provides information
+29 on a student's progress to the student's parent or guardian.
+30 (b) For a participating student who is served by a participating
+31 service provider that is not a private school that is a participating school
+32 during or after the 2024-2025 school year, his or her parent shall provide
+33 for his or her child who is a participating student to take an approved
+34 examination meeting the standards established under subsection (a) of this
+35 section.
+36 (c)(1) The Department of Education shall develop a process for the
+18 01-16-2025 15:41:45 TNL014
+
+As Engrossed: H1/16/25 HB1020
+1 collection and aggregate reporting of the results of examinations required
+2 under this section, which shall include the public dissemination of the
+3 results collected by participating private schools and participating service
+4 providers.
+5 (2) However, the reporting required under subdivision (c)(1) of
+6 this section shall:
+7 (A) Not identify any individual student; and
+8 (B) Ensure that the summary results of the examinations
+9 required under this section are provided to parents of participating
+10 students.
+11
+12 6-18-2510. Reports.
+13 (a)(1) Not later than September 30 of each year, the Department of
+14 Education shall submit a written report regarding the implementation of the
+15 Arkansas Children's Educational Freedom Account Program to the:
+16 (A) Legislative Council, or if the General Assembly is in
+17 session, the Joint Budget Committee;
+18 (B) House Committee on Education; and
+19 (C) Senate Committee on Education.
+20 (2) The department may contract with an outside entity to
+21 compile the report required under subdivision (a)(1) of this section.
+22 (b) The report required under subdivision (a)(1) of this section shall
+23 include the following information without limitation:
+24 (1) The total number of students currently participating in the
+25 program;
+26 (2) A list of all participating schools and participating
+27 service providers;
+28 (3) The total student enrollment of each participating school
+29 and the percentage of the total enrollment of each school represented by
+30 participating students;
+31 (4) Aggregated test result data for participating students, from
+32 the most recent year available;
+33 (5) The percentage of funds used for each type of qualifying
+34 expense;
+35 (6) An analysis of the program's fiscal impact;
+36 (7) The retention rates for participating students enrolled in
+19 01-16-2025 15:41:45 TNL014
+
+As Engrossed: H1/16/25 HB1020
+1 participating schools;
+2 (8) The results of a parental satisfaction survey that shall be
+3 administered by the department; and
+4 (9) Other relevant data as determined by the department.
+5
+6 6-18-2511. Legal proceedings.
+7 (a) There shall be no liability on the part of the Department of
+8 Education or the state or of any public school or public school district
+9 based on the award of or use of an account under this subchapter.
+10 (b) Nothing in this section shall be construed as a waiver of
+11 sovereign immunity or any other defenses available to the State of Arkansas.
+12
+13 SECTION 2. Arkansas Code § 6-20-2305(b), concerning education
+14 categories of funding in addition to state foundation funding aid, is amended
+15 to add an additional subdivision read as follows:
+16 (7)(A) For the 2025-2026 school year and each school year
+17 thereafter, special education funding shall be three thousand eighty hundred
+18 sixty-two dollars ($3,862) multiplied by the number of students who receive
+19 special education and related services required by an individualized
+20 education plan.
+21 (B) Funding for students who receive special education and
+22 related services required by an individualized education plan under
+23 subdivision (b)(7)(A) of this section shall be distributed based on rules
+24 promulgated by the state board.
+25 (C) Funding for students who receive special education and
+26 related services required by an individualized education plan shall not be
+27 incorporated into the state foundation funding aid amount established under
+28 subsection (a) of this section.
+29
+30 SECTION 3. Arkansas Code § 9-28-113(j), concerning the use of state
+31 and federal funding for the placement of a foster child in a nonpublic
+32 school, is amended to read as follows:
+33 (j)(1) Notwithstanding any of the provisions of this section, if it is
+34 in the best interest of the child, a foster child may be placed in a
+35 nonpublic school, including a private, parochial, or home school.
+36 (2)(A) Except as provided in subdivision (j)(2)(B) of this
+20 01-16-2025 15:41:45 TNL014
+
+As Engrossed: H1/16/25 HB1020
+1 section, state State or federal funding shall not be used for the placement
+2 of a foster child in a nonpublic school, including a private, parochial, or
+3 home school.
+4 (B) The prohibition under subdivision (j)(2)(A) of this
+5 section shall not apply to a foster child who receives an Arkansas Children's
+6 Educational Freedom Account Fund under § 6-18-2501 et seq.
+7
+8 SECTION 4. Arkansas Code § 19-5-1277 is repealed.
+9 19-5-1277. Arkansas Children's Educational Freedom Account Fund.
+10 (a) There is created on the books of the Treasurer of State, the
+11 Auditor of State, and the Chief Fiscal Officer of the State a miscellaneous
+12 fund to be known as the “Arkansas Children’s Educational Freedom Account
+13 Fund”.
+14 (b)(1) Notwithstanding any other provisions of law, for fiscal year
+15 2024 and each fiscal year thereafter, in addition to all other amounts
+16 required under the Arkansas Children's Educational Freedom Account Program,
+17 the Department of Education shall include in its annual budget request
+18 submitted under § 19-4-301 et seq., and the Governor shall include in each
+19 recommendation submitted to the General Assembly under § 19-4-201, an
+20 appropriation to the Department of Education, Division of Elementary and
+21 Secondary Education, for the greater of an amount not less than two percent
+22 (2%) of:
+23 (A) Net public school enrollment adjusted for state
+24 foundation funding aid purposes; or
+25 (B) The total number of eligible program applications
+26 received by the division, if available, multiplied by the prior year's
+27 statewide net foundation funding aid allotted per student.
+28 (2) The amount appropriated under subdivision (b)(1) of this
+29 section shall be transferred by the division to the fund to be used solely to
+30 meet the obligations required under the program, except as otherwise provided
+31 in this section.
+32 (3) The Governor shall include a recommendation, as required
+33 under § 19-4-201, that the total amount of funds appropriated to the division
+34 that was not transferred to the fund during the previous fiscal year due to
+35 an accumulated balance from previous fiscal years as provided under
+36 subsection (c) of this section be reappropriated for the subsequent fiscal
+21 01-16-2025 15:41:45 TNL014
+
+As Engrossed: H1/16/25 HB1020
+1 year.
+2 (c) Each fiscal year, the amount required to be requested and
+3 recommended for appropriation under subsection (b) of this section shall be
+4 reduced by the sum of:
+5 (1) Any unused, accumulated amounts transferred to the fund due
+6 to the requirements under this subsection from previous years; and
+7 (2) Any unused appropriations made to the department due to the
+8 requirements under this subsection that were not transferred to the fund due
+9 to an accumulated balance from previous years.
+10
+11 SECTION 5. Arkansas Code Title 19, Chapter 5, Subchapter 12, is
+12 amended to add an additional section to read as follows:
+13 19-5-1287. Community Schools Act Fund.
+14 (a) There is created on the books of the Treasurer of State, the
+15 Auditor of State, and the Chief Fiscal Officer of the State a miscellaneous
+16 fund to be known as the “Community Schools Act Fund”.
+17 (b) The fund shall consist of:
+18 (1) General revenues authorized by law; and
+19 (2) Moneys obtained from private or public grants, gifts,
+20 interagency transfers, or donations that are designated to be credited to the
+21 fund.
+22 (c) The fund shall be used by the Division of Elementary and Secondary
+23 Education in furtherance of the purposes established under the Community
+24 Schools Act, § 6-15-3001 et seq.
+25 (d) Moneys remaining in the fund at the end of each fiscal year shall
+26 carry forward and be made available for the purposes stated in this section
+27 in the next fiscal year.
+28
+29 /s/A. Collins
+30
+31
+32
+33
+34
+35
+36
+22 01-16-2025 15:41:45 TNL014
+
+[DELETED:  A       A F E S C   T E C F E C  B   S r  6  T C   6  T P   6]
+[DELETED:  H2 0  A   ( d e   ( b   ( p   ( w t   ( o   ( e o   (    (    (    (    ( o   ( p    ( a    ( F c   ( e p a   (    (    (]
+[DELETED:  H3 0 s   (    ( e      (      (      (      ( a      ( s r p       (       (       (       ( p     ( e     ( e s     ( p p     (     (     ( a     (      ( c      ( e     (]
+[DELETED:  H4 0      ( c      ( o     ( a s     ( s      ( p       (       ( o       (     ( ( E     ( a     ( D   6  ( a t B  ( i   ( s a p   ( i]
+[DELETED:  H5 0 f    ( a     (     (     (    ( c e     (     (     (   (    ( p    ( i     (     ( G   ( s   (    ( t    ( e s  ( a t  ( t f  ( b]
+[DELETED:  H6 0  ( p  ( p  (   ( t   ( f o  ( e a s i o   6  ( a a o A s   ( t d t u    (    ( c    ( s  ( s]
+[DELETED:  H7 0 p D i s i u   (    ( p    ( f E  ( e p l a  (   ( p    ( w a   ( p  ( t a e a   (    ( l p    ( f]
+[DELETED:  H8 0 E   (    ( r e    ( s p a  ( r    ( f    (    ( t   ( s    (    ( s F   ( a    ( r     ( t      ( s      ( r  (   ( s   (]
+[DELETED:  H9 0  ( e p i e A o  ( A p d   ( h r  (   6  (   ( d   ( s   (    ( e      ( u s      ( t e      (      ( p [       (]
+[DELETED:  H1 0 S e t s u        ( g        ( r        ( a      ( p t      ( s       ( “       ( i      ( f      ( m s C      ( t u a F   ( e     ( (     (]
+[DELETED:  H1 0 y s     (      ( t      ( c      (      (     ( t m A     ( i s      ( p f      ( a a   ( a o    ( b E  ( a a s  ( a C b]
+[DELETED:  H1 0  (   ( E   ( C    (    ( F    ( A  ( p o    ( P    ( A   ( ( t a D r r P A    ( ( E P n  ( t E  ( s]
+[DELETED:  H1 0   ( u s  ( p    ( p C     ( a    ( t    ( F a    ( o f p s s   ( t 6  (   ( a    ( i    ( m    ( A    ( s    (]
+[DELETED:  H1 0    ( t   (    (    (    ( f m A A   ( a  ( t i   ( r p    ( l f e     ( p   ( t e a    ( p  ( l r p   6]
+[DELETED:  H1 0 E  ( E   (     ( t A r     ( a o b    (     ( a     ( i i     ( t    ( s a   ( f w s o    ( ( e b   ( p   ( e]
+[DELETED:  H1 0   ( b   ( p   ( p   ( r   (   ( r   ( p   ( e   ( e  ( s w p s e r E o   ( t w o S  ( p a p d]
+[DELETED:  H1 0  ( d a  ( f p s   ( e   ( c   ( f b   ( p  ( p b s   ( r a d c   ( d  ( r   (   (  ( s   6  T]
+[DELETED:  H1 0 d A   ( E 1   ( p 1 a    6  ( s a    ( r    ( r l   ( i s a u    ( u s a o  ( s d f e s  (]
+[DELETED:  H1 0 c u r p   ( t    (    ( r s   6  ( E A    ( s    (    (   ( c  ( i   ( p   ( s   ( a p   ( t   ( e   (   (]
+[DELETED:  H2 0 p   ( a   (   6  ( E b  ( s   S c t   ( t s s e    ( r s p    ( r i s   S a s  ( i n   (]
+[DELETED:  H2 0 s o h    ( s E   S  1  ( A f F  ( 2 r t s r a S (    ( f    ( r s   ( s m i   ( u t a s]
+[DELETED:  H2 0 y  ( r r   ( t   ( r t   S a  1  ( A f  (   (   ( i f  ( E S  ( c i  /       ]

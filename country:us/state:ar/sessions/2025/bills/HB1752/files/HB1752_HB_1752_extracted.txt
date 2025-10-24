@@ -1,0 +1,180 @@
+Title: Stricken language would be deleted from and underlined language would be added to present law.
+Official Title: Stricken language would be deleted from and underlined language would be added to present law.
+Number of Sections: 1
+Source: versions - HB 1752
+Media Type: application/pdf
+Strikethrough Detection: 2 sections found
+
+================================================================================
+
+Section 1:
+1 State of Arkansas
+A Bill
+2 95th General Assembly
+3 Regular Session, 2025 HOUSE BILL 1752
+4
+5 By: Representative Maddox
+6 By: Senator J. Boyd
+7
+For An Act To Be Entitled
+8
+9 AN ACT TO EXEMPT CERTAIN SAVINGS PLANS FROM THE
+10 EXECUTION OF A JUDGMENT; AND FOR OTHER PURPOSES.
+11
+12
+Subtitle
+13
+14 TO EXEMPT CERTAIN SAVINGS PLANS FROM THE
+15 EXECUTION OF A JUDGMENT.
+16
+17 BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF ARKANSAS:
+18
+19 SECTION 1. Arkansas Code § 16-66-220 is amended to read as follows:
+20 16-66-220. Pension, and profit-sharing, retirement, and savings plans —
+21 Definition.
+22 (a)(1) A person's right to the assets held in or to receive payments,
+23 whether vested or not, under a pension, profit-sharing, or similar plan or
+24 contract, including a retirement plan for self-employed individuals, or under
+25 an individual retirement account or an individual retirement annuity,
+26 including a simplified employee pension plan, is exempt from attachment,
+27 execution, and seizure for the satisfaction of debts unless the plan,
+28 contract, or account does not qualify under the applicable provisions of the
+29 Internal Revenue Code of 1986.
+30 (2) A person's right to the assets held in or to receive
+31 payments, whether vested or not, under a government or church plan or
+32 contract is also exempt unless the plan or contract does not qualify under
+33 the definition of a government or church plan under the applicable provisions
+34 of the federal Employee Retirement Income Security Act of 1974.
+35 (b)(1) Contributions to an individual retirement account that exceed
+36 the amounts deductible under the applicable provisions of the Internal
+*CEB086*
+03/11/2025 12:01:08 PM CEB086
+HB1752
+1 Revenue Code of 1986 and any accrued earnings on such contributions are not
+2 exempt under this section unless otherwise exempt by law.
+3 (2) However, the limitations of subdivision (b)(1) of this
+4 section do not apply to an individual retirement account established pursuant
+5 to and qualifying under § 408(A) of the Internal Revenue Code of 1986.
+6 (c)(1) A person's vested or unvested right to the assets held in or to
+7 receive payments under a qualified savings plan is exempt from attachment,
+8 execution, and seizure for the satisfaction of debts.
+9 (2)(a) As used in subdivision (c)(1), "qualified savings plan"
+10 means any stock, bonus, pension, annuity, deferred compensation, profit-
+11 sharing, health, education, or similar plan or account not included in
+12 subsection (a) of this section, to the extent that the plan or account is
+13 exempt from federal income tax or to the extent federal income tax on a
+14 person's interest in the plan or account is deferred until actual payment of
+15 the benefits to the person.
+16 (b) "Qualified savings plan" includes without limitation:
+17 (i) A plan or account that is subject to federal
+18 income tax solely under 26 U.S.C. §§ 511 — 514 as they existed on January 1,
+19 2025;
+20 (ii) An inherited individual retirement account or
+21 annuity;
+22 (iii) A health savings account;
+23 (iv) A qualified tuition program of any state that
+24 meets the requirements of 26 U.S.C. § 529, as it existed on January 1, 2025;
+25 (v) A qualified program of any state that meets the
+26 requirements of 26 U.S.C. § 529A, as it existed on January 1, 2025; and
+27 (vi) A Coverdell education savings account under 26
+28 U.S.C. § 530, as it existed on January 1, 2025.
+29
+30
+31
+32
+33
+34
+35
+36
+2 03/11/2025 12:01:08 PM CEB086
+[DELETED:       A E  T E  B   S  1 D  ( w c a i e c I   ( p c t o  ( t]
+[DELETED: H2 0 R e   ( s t  ( r e   ( m s s e p t    (     ( i 2     ( a     (     ( m     ( r     ( U]
+
+
+================================================================================
+
+Raw Text:
+Stricken language would be deleted from and underlined language would be added to present law.
+1 State of Arkansas
+A Bill
+2 95th General Assembly
+3 Regular Session, 2025 HOUSE BILL 1752
+4
+5 By: Representative Maddox
+6 By: Senator J. Boyd
+7
+For An Act To Be Entitled
+8
+9 AN ACT TO EXEMPT CERTAIN SAVINGS PLANS FROM THE
+10 EXECUTION OF A JUDGMENT; AND FOR OTHER PURPOSES.
+11
+12
+Subtitle
+13
+14 TO EXEMPT CERTAIN SAVINGS PLANS FROM THE
+15 EXECUTION OF A JUDGMENT.
+16
+17 BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF ARKANSAS:
+18
+19 SECTION 1. Arkansas Code § 16-66-220 is amended to read as follows:
+20 16-66-220. Pension, and profit-sharing, retirement, and savings plans —
+21 Definition.
+22 (a)(1) A person's right to the assets held in or to receive payments,
+23 whether vested or not, under a pension, profit-sharing, or similar plan or
+24 contract, including a retirement plan for self-employed individuals, or under
+25 an individual retirement account or an individual retirement annuity,
+26 including a simplified employee pension plan, is exempt from attachment,
+27 execution, and seizure for the satisfaction of debts unless the plan,
+28 contract, or account does not qualify under the applicable provisions of the
+29 Internal Revenue Code of 1986.
+30 (2) A person's right to the assets held in or to receive
+31 payments, whether vested or not, under a government or church plan or
+32 contract is also exempt unless the plan or contract does not qualify under
+33 the definition of a government or church plan under the applicable provisions
+34 of the federal Employee Retirement Income Security Act of 1974.
+35 (b)(1) Contributions to an individual retirement account that exceed
+36 the amounts deductible under the applicable provisions of the Internal
+*CEB086*
+03/11/2025 12:01:08 PM CEB086
+
+HB1752
+1 Revenue Code of 1986 and any accrued earnings on such contributions are not
+2 exempt under this section unless otherwise exempt by law.
+3 (2) However, the limitations of subdivision (b)(1) of this
+4 section do not apply to an individual retirement account established pursuant
+5 to and qualifying under § 408(A) of the Internal Revenue Code of 1986.
+6 (c)(1) A person's vested or unvested right to the assets held in or to
+7 receive payments under a qualified savings plan is exempt from attachment,
+8 execution, and seizure for the satisfaction of debts.
+9 (2)(a) As used in subdivision (c)(1), "qualified savings plan"
+10 means any stock, bonus, pension, annuity, deferred compensation, profit-
+11 sharing, health, education, or similar plan or account not included in
+12 subsection (a) of this section, to the extent that the plan or account is
+13 exempt from federal income tax or to the extent federal income tax on a
+14 person's interest in the plan or account is deferred until actual payment of
+15 the benefits to the person.
+16 (b) "Qualified savings plan" includes without limitation:
+17 (i) A plan or account that is subject to federal
+18 income tax solely under 26 U.S.C. §§ 511 — 514 as they existed on January 1,
+19 2025;
+20 (ii) An inherited individual retirement account or
+21 annuity;
+22 (iii) A health savings account;
+23 (iv) A qualified tuition program of any state that
+24 meets the requirements of 26 U.S.C. § 529, as it existed on January 1, 2025;
+25 (v) A qualified program of any state that meets the
+26 requirements of 26 U.S.C. § 529A, as it existed on January 1, 2025; and
+27 (vi) A Coverdell education savings account under 26
+28 U.S.C. § 530, as it existed on January 1, 2025.
+29
+30
+31
+32
+33
+34
+35
+36
+2 03/11/2025 12:01:08 PM CEB086
+
+[DELETED:       A E  T E  B   S  1 D  ( w c a i e c I   ( p c t o  ( t]
+[DELETED: H2 0 R e   ( s t  ( r e   ( m s s e p t    (     ( i 2     ( a     (     ( m     ( r     ( U]

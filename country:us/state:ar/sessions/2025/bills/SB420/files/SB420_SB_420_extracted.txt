@@ -1,0 +1,417 @@
+Title: Stricken language would be deleted from and underlined language would be added to present law.
+Official Title: Stricken language would be deleted from and underlined language would be added to present law.
+Number of Sections: 1
+Source: versions - SB 420
+Media Type: application/pdf
+Strikethrough Detection: 5 sections found
+
+================================================================================
+
+Section 1:
+1 State of Arkansas As Engrossed: S3/17/25
+A Bill
+2 95th General Assembly
+3 Regular Session, 2025 SENATE BILL 420
+4
+5 By: Senator Hester
+6 By: Representatives Beaty Jr., L. Johnson
+7
+For An Act To Be Entitled
+8
+9 AN ACT TO EXPAND ELIGIBILITY FOR WATER DEVELOPMENT
+10 STATE PROGRAMS; TO AMEND THE WATER AUTHORITY ACT; TO
+11 AMEND THE USES OF THE CONSTRUCTION ASSISTANCE
+12 REVOLVING LOAN FUND; AND FOR OTHER PURPOSES.
+13
+14
+Subtitle
+15
+16 TO EXPAND ELIGIBILITY FOR WATER
+17 DEVELOPMENT STATE PROGRAMS; TO AMEND THE
+18 WATER AUTHORITY ACT; AND TO AMEND THE
+19 USES OF THE CONSTRUCTION ASSISTANCE
+20 REVOLVING LOAN FUND.
+21
+22 BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF ARKANSAS:
+23
+24 SECTION 1. Arkansas Code § 4-35-101 is amended to read as follows:
+25 4-35-101. Legislative intent.
+26 It is the intent of the General Assembly to provide a means by which a
+27 nonprofit corporation qualified corporation involved in the sale,
+28 transmission, and distribution of potable water to members of the general
+29 public and commercial, industrial, and other users may form or convert its
+30 entity status from that of a body corporate to that of a public body politic
+31 and governmental entity, thereby allowing the entity the opportunity to
+32 access the tax-exempt capital markets and assuring the State of Arkansas and
+33 the customers of the entity of the lowest water rates possible to be a water
+34 authority.
+35
+36 SECTION 2. Arkansas Code § 4-35-103(7), concerning the definition of
+*JMB397*
+03-17-2025 10:10:49 JMB397
+As Engrossed: S3/17/25 SB420
+1 "qualified corporation" within the Water Authority Act, is amended to read as
+2 follows:
+3 (7)(A) “Qualified corporation” means:
+4 (i) any A nonprofit corporation originally formed
+5 pursuant to under the Arkansas Nonprofit Corporation Act of 1993, § 4-33-101
+6 et seq., the Arkansas Nonprofit Corporation Act, § 4-28-201 et seq., or a
+7 predecessor statute, which among other things that provides, distributes,
+8 transmits, treats, pumps, or stores raw or potable water to or for the
+9 benefit of members of the general public and commercial, industrial, and
+10 other users or which that proposes to accomplish, develop, or construct any
+11 of the foregoing; or
+12 (ii) Any governmental entity, municipal nonprofit
+13 entity, municipal authority, governmental authority, investor-owned water or
+14 wastewater utility, improvement district, or rural development authority that
+15 provides, distributes, transmits, treats, pumps, or stores raw or potable
+16 water to or for the benefit of members of the general public and commercial,
+17 industrial, and other users that proposes to accomplish, develop, or
+18 construct any of the foregoing.
+19 (B) A qualified corporation "Qualified corporation"
+20 includes a nonprofit corporation an entity described under subdivision
+21 (7)(A)(i) and (ii) of this section that constructs, expands, operates, or
+22 maintains a wastewater project or wastewater treatment plant;
+23
+24 SECTION 3. Arkansas Code § 4-35-202(a), concerning the authority and
+25 procedure to convert to a water authority under the Water Authority Act, is
+26 amended to read as follows:
+27 (a) Whenever a qualified corporation desires to convert to and become
+28 reconstituted as a water authority under and pursuant to this chapter, the
+29 qualified corporation shall present to and file with the Arkansas Natural
+30 Resources Commission:
+31 (1) A resolution adopted by the board of directors governing
+32 body of the qualified corporation and, if the qualified corporation has
+33 members, the members of the qualified corporation, which evidences the desire
+34 of the qualified corporation to convert to and become reconstituted as a
+35 water authority and which shall additionally certify that the qualified
+36 corporation:;
+2 03-17-2025 10:10:49 JMB397
+As Engrossed: S3/17/25 SB420
+1 (A) Was initially formed as a nonprofit corporation;
+2 (B) Does not have the ability to directly access the tax-
+3 exempt capital markets other than through a conduit issuer; and
+4 (C) Desires to realize interest rate savings as a result
+5 of its conversion to and reconstitution as a water authority pursuant to this
+6 chapter
+7 (2) If the qualified corporation is a public facilities board,
+8 an ordinance adopted by the governing body of the county or municipality that
+9 formed the public facilities board approving the conversion and
+10 reconstitution of the public facilities board into a water authority;
+11 (2)(3) Articles of conversion and reconstitution which that
+12 shall be signed by a majority of the water authority's proposed initial board
+13 of directors and which shall state and include the following information:
+14 (A) The name of the water authority, which shall include
+15 the words “public water authority”, it being understood that the water
+16 authority may adopt a fictitious operational name upon written request to and
+17 approval by the commission and the Secretary of State;
+18 (B) The location of the water authority's principal
+19 office;
+20 (C) The number of directors of the water authority, which
+21 number shall be at least five (5) and shall be subject to change as provided
+22 in this chapter or in the water authority's bylaws;
+23 (D) The names and addresses of the proposed initial board
+24 of directors of the water authority;
+25 (E) The name and address of the agent for service of
+26 process of the water authority;
+27 (F) The proposed geographic service area over which the
+28 water authority will have jurisdiction; and
+29 (G) Any other matters that the proposed initial board of
+30 directors of the water authority may deem necessary and appropriate;
+31 (3)(4) A copy of the water authority's proposed bylaws along
+32 with any other information which the proposed initial board of directors of
+33 the water authority may deem necessary and appropriate;
+34 (4)(5) A statement and certification from the Secretary of State
+35 that the proposed name of the water authority is not identical to that of any
+36 other water authority in the state or so nearly similar as to lead to
+3 03-17-2025 10:10:49 JMB397
+As Engrossed: S3/17/25 SB420
+1 confusion and uncertainty;
+2 (5)(6) The filing and review fee that the commission may
+3 designate and determine from time to time; and
+4 (6)(7) Any other information and documents which the commission
+5 may designate and require.
+6
+7 SECTION 4. Arkansas Code § 4-35-203(a)(2), concerning the effect of
+8 formation of a water authority and the filing with the Secretary of State
+9 under the Water Authority Act, is amended to read as follows:
+10 (2)(A) Contemporaneously therewith, with respect to a
+11 conversion, the qualified corporation shall cease to exist and all assets and
+12 liabilities of every nature, including, without limitation, all real
+13 property, personal property, contractual obligations, lending obligations
+14 outstanding, rights afforded borrowers of federal and state funds, and other
+15 tangible and intangible assets and liabilities of every nature, without need
+16 for further action or approval by any third party, shall be vested in and
+17 shall accrue to the benefit of the water authority, unless the articles of
+18 conversion and reconstitution filed with the Secretary of State expressly
+19 state that the qualified corporation shall continue its corporate or
+20 governmental existence and that certain specified assets and liabilities of
+21 the qualified corporation shall remain with the qualified corporation.
+22 (B) A governmental entity that is converted and
+23 reconstituted as a water authority under this chapter is not required to
+24 comply with other laws or procedures regarding transfer of property by
+25 governmental entities.
+26
+27 SECTION 5. Arkansas Code § 4-35-203(b)(2), concerning the effect of
+28 formation of a water authority and the filing with the Secretary of State
+29 under the Water Authority Act, is amended to read as follows:
+30 (2)(A) Except as provided in subdivision (b)(2)(B) of this
+31 section, filing Filing a copy of the articles of constitution or articles of
+32 conversion and reconstitution, as accepted and approved by the commission,
+33 with the Secretary of State shall serve to terminate and dissolve the
+34 previous corporate existence of the qualified corporation, effective as of
+35 the date of the issuance of the certificate of existence.
+36 (B) A qualified corporation may file a copy of the
+4 03-17-2025 10:10:49 JMB397
+As Engrossed: S3/17/25 SB420
+1 articles of constitution or articles of conversion and reconstitution with
+2 the Secretary of State that expressly states that the qualified corporation
+3 shall continue its corporate or governmental existence.
+4
+5 SECTION 6. Arkansas Code § 4-35-203, concerning the effect of
+6 formation of a water authority and the filing with the Secretary of State
+7 under the Water Authority Act, is amended to add an additional subsection to
+8 read as follows:
+9 (c) Upon receipt of a certificate of existence from the commission
+10 under § 4-35-203(a)(1), the water authority shall be deemed to have complied
+11 with all requirements of this subchapter relating to the proper formation or
+12 conversion and reconstitution of a water authority, including without
+13 limitation all requirements of § 4-35-202.
+14
+15 SECTION 7. Arkansas Code § 15-5-901(a)(3), concerning the
+16 establishment and uses of the Construction Assistance Revolving Loan Fund, is
+17 amended to read as follows:
+18 (3) The commission may deposit loans made to and bonds, notes,
+19 and other evidences of indebtedness issued by local governmental entities and
+20 other owners of environmental projects in accordance with the Clean Water
+21 Act, 33 U.S.C. § 1251 et seq., as existing on January 1, 2025, to finance or
+22 refinance the planning, design, acquisition, construction, expansion,
+23 equipping, rehabilitation, or consolidation of wastewater systems, water
+24 systems, solid and hazardous waste facilities, recycling facilities, nonpoint
+25 source management facilities, wetlands conservation and management
+26 facilities, and other environmental projects or parts of environmental
+27 projects into the Construction Assistance Revolving Loan Fund.
+28
+29 SECTION 8. Arkansas Code § 15-5-909(8), concerning the definition of
+30 "owner" regarding the Construction Assistance Revolving Loan Fund, is amended
+31 to read as follows:
+32 (8) “Owner” means the owner or prospective owner, whether public
+33 or private, of an environmental project, excluding any federal agencies;
+34
+35 /s/Hester
+36
+5 03-17-2025 10:10:49 JMB397
+[DELETED:  A       A S A R   T D W U R  B   S  4  I n t p e a a t a   S]
+[DELETED:  S2 0 " f   (     ( p e p t b o o     ( e w p w i c    ( i ( m   S p a  ( r q R   ( b m o w c]
+[DELETED:  S3 0    (    ( e    ( o c   ( a f r   ( s o    ( t a a    ( o    ( n i    ( o    ( p    ( w    ( d   ( w t   ( t o]
+[DELETED:  S4 0 c   ( d   ( m   S f u   ( c l p o t f s c s g t    ( r c g   S f u   ( s c w p t    (]
+[DELETED:  S5 0 a t s   S f u r  ( u w c l   S e a   ( a o A r e s s f p   S " t   ( o  / ]
+
+
+================================================================================
+
+Raw Text:
+Stricken language would be deleted from and underlined language would be added to present law.
+1 State of Arkansas As Engrossed: S3/17/25
+A Bill
+2 95th General Assembly
+3 Regular Session, 2025 SENATE BILL 420
+4
+5 By: Senator Hester
+6 By: Representatives Beaty Jr., L. Johnson
+7
+For An Act To Be Entitled
+8
+9 AN ACT TO EXPAND ELIGIBILITY FOR WATER DEVELOPMENT
+10 STATE PROGRAMS; TO AMEND THE WATER AUTHORITY ACT; TO
+11 AMEND THE USES OF THE CONSTRUCTION ASSISTANCE
+12 REVOLVING LOAN FUND; AND FOR OTHER PURPOSES.
+13
+14
+Subtitle
+15
+16 TO EXPAND ELIGIBILITY FOR WATER
+17 DEVELOPMENT STATE PROGRAMS; TO AMEND THE
+18 WATER AUTHORITY ACT; AND TO AMEND THE
+19 USES OF THE CONSTRUCTION ASSISTANCE
+20 REVOLVING LOAN FUND.
+21
+22 BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF ARKANSAS:
+23
+24 SECTION 1. Arkansas Code § 4-35-101 is amended to read as follows:
+25 4-35-101. Legislative intent.
+26 It is the intent of the General Assembly to provide a means by which a
+27 nonprofit corporation qualified corporation involved in the sale,
+28 transmission, and distribution of potable water to members of the general
+29 public and commercial, industrial, and other users may form or convert its
+30 entity status from that of a body corporate to that of a public body politic
+31 and governmental entity, thereby allowing the entity the opportunity to
+32 access the tax-exempt capital markets and assuring the State of Arkansas and
+33 the customers of the entity of the lowest water rates possible to be a water
+34 authority.
+35
+36 SECTION 2. Arkansas Code § 4-35-103(7), concerning the definition of
+*JMB397*
+03-17-2025 10:10:49 JMB397
+
+As Engrossed: S3/17/25 SB420
+1 "qualified corporation" within the Water Authority Act, is amended to read as
+2 follows:
+3 (7)(A) “Qualified corporation” means:
+4 (i) any A nonprofit corporation originally formed
+5 pursuant to under the Arkansas Nonprofit Corporation Act of 1993, § 4-33-101
+6 et seq., the Arkansas Nonprofit Corporation Act, § 4-28-201 et seq., or a
+7 predecessor statute, which among other things that provides, distributes,
+8 transmits, treats, pumps, or stores raw or potable water to or for the
+9 benefit of members of the general public and commercial, industrial, and
+10 other users or which that proposes to accomplish, develop, or construct any
+11 of the foregoing; or
+12 (ii) Any governmental entity, municipal nonprofit
+13 entity, municipal authority, governmental authority, investor-owned water or
+14 wastewater utility, improvement district, or rural development authority that
+15 provides, distributes, transmits, treats, pumps, or stores raw or potable
+16 water to or for the benefit of members of the general public and commercial,
+17 industrial, and other users that proposes to accomplish, develop, or
+18 construct any of the foregoing.
+19 (B) A qualified corporation "Qualified corporation"
+20 includes a nonprofit corporation an entity described under subdivision
+21 (7)(A)(i) and (ii) of this section that constructs, expands, operates, or
+22 maintains a wastewater project or wastewater treatment plant;
+23
+24 SECTION 3. Arkansas Code § 4-35-202(a), concerning the authority and
+25 procedure to convert to a water authority under the Water Authority Act, is
+26 amended to read as follows:
+27 (a) Whenever a qualified corporation desires to convert to and become
+28 reconstituted as a water authority under and pursuant to this chapter, the
+29 qualified corporation shall present to and file with the Arkansas Natural
+30 Resources Commission:
+31 (1) A resolution adopted by the board of directors governing
+32 body of the qualified corporation and, if the qualified corporation has
+33 members, the members of the qualified corporation, which evidences the desire
+34 of the qualified corporation to convert to and become reconstituted as a
+35 water authority and which shall additionally certify that the qualified
+36 corporation:;
+2 03-17-2025 10:10:49 JMB397
+
+As Engrossed: S3/17/25 SB420
+1 (A) Was initially formed as a nonprofit corporation;
+2 (B) Does not have the ability to directly access the tax-
+3 exempt capital markets other than through a conduit issuer; and
+4 (C) Desires to realize interest rate savings as a result
+5 of its conversion to and reconstitution as a water authority pursuant to this
+6 chapter
+7 (2) If the qualified corporation is a public facilities board,
+8 an ordinance adopted by the governing body of the county or municipality that
+9 formed the public facilities board approving the conversion and
+10 reconstitution of the public facilities board into a water authority;
+11 (2)(3) Articles of conversion and reconstitution which that
+12 shall be signed by a majority of the water authority's proposed initial board
+13 of directors and which shall state and include the following information:
+14 (A) The name of the water authority, which shall include
+15 the words “public water authority”, it being understood that the water
+16 authority may adopt a fictitious operational name upon written request to and
+17 approval by the commission and the Secretary of State;
+18 (B) The location of the water authority's principal
+19 office;
+20 (C) The number of directors of the water authority, which
+21 number shall be at least five (5) and shall be subject to change as provided
+22 in this chapter or in the water authority's bylaws;
+23 (D) The names and addresses of the proposed initial board
+24 of directors of the water authority;
+25 (E) The name and address of the agent for service of
+26 process of the water authority;
+27 (F) The proposed geographic service area over which the
+28 water authority will have jurisdiction; and
+29 (G) Any other matters that the proposed initial board of
+30 directors of the water authority may deem necessary and appropriate;
+31 (3)(4) A copy of the water authority's proposed bylaws along
+32 with any other information which the proposed initial board of directors of
+33 the water authority may deem necessary and appropriate;
+34 (4)(5) A statement and certification from the Secretary of State
+35 that the proposed name of the water authority is not identical to that of any
+36 other water authority in the state or so nearly similar as to lead to
+3 03-17-2025 10:10:49 JMB397
+
+As Engrossed: S3/17/25 SB420
+1 confusion and uncertainty;
+2 (5)(6) The filing and review fee that the commission may
+3 designate and determine from time to time; and
+4 (6)(7) Any other information and documents which the commission
+5 may designate and require.
+6
+7 SECTION 4. Arkansas Code § 4-35-203(a)(2), concerning the effect of
+8 formation of a water authority and the filing with the Secretary of State
+9 under the Water Authority Act, is amended to read as follows:
+10 (2)(A) Contemporaneously therewith, with respect to a
+11 conversion, the qualified corporation shall cease to exist and all assets and
+12 liabilities of every nature, including, without limitation, all real
+13 property, personal property, contractual obligations, lending obligations
+14 outstanding, rights afforded borrowers of federal and state funds, and other
+15 tangible and intangible assets and liabilities of every nature, without need
+16 for further action or approval by any third party, shall be vested in and
+17 shall accrue to the benefit of the water authority, unless the articles of
+18 conversion and reconstitution filed with the Secretary of State expressly
+19 state that the qualified corporation shall continue its corporate or
+20 governmental existence and that certain specified assets and liabilities of
+21 the qualified corporation shall remain with the qualified corporation.
+22 (B) A governmental entity that is converted and
+23 reconstituted as a water authority under this chapter is not required to
+24 comply with other laws or procedures regarding transfer of property by
+25 governmental entities.
+26
+27 SECTION 5. Arkansas Code § 4-35-203(b)(2), concerning the effect of
+28 formation of a water authority and the filing with the Secretary of State
+29 under the Water Authority Act, is amended to read as follows:
+30 (2)(A) Except as provided in subdivision (b)(2)(B) of this
+31 section, filing Filing a copy of the articles of constitution or articles of
+32 conversion and reconstitution, as accepted and approved by the commission,
+33 with the Secretary of State shall serve to terminate and dissolve the
+34 previous corporate existence of the qualified corporation, effective as of
+35 the date of the issuance of the certificate of existence.
+36 (B) A qualified corporation may file a copy of the
+4 03-17-2025 10:10:49 JMB397
+
+As Engrossed: S3/17/25 SB420
+1 articles of constitution or articles of conversion and reconstitution with
+2 the Secretary of State that expressly states that the qualified corporation
+3 shall continue its corporate or governmental existence.
+4
+5 SECTION 6. Arkansas Code § 4-35-203, concerning the effect of
+6 formation of a water authority and the filing with the Secretary of State
+7 under the Water Authority Act, is amended to add an additional subsection to
+8 read as follows:
+9 (c) Upon receipt of a certificate of existence from the commission
+10 under § 4-35-203(a)(1), the water authority shall be deemed to have complied
+11 with all requirements of this subchapter relating to the proper formation or
+12 conversion and reconstitution of a water authority, including without
+13 limitation all requirements of § 4-35-202.
+14
+15 SECTION 7. Arkansas Code § 15-5-901(a)(3), concerning the
+16 establishment and uses of the Construction Assistance Revolving Loan Fund, is
+17 amended to read as follows:
+18 (3) The commission may deposit loans made to and bonds, notes,
+19 and other evidences of indebtedness issued by local governmental entities and
+20 other owners of environmental projects in accordance with the Clean Water
+21 Act, 33 U.S.C. § 1251 et seq., as existing on January 1, 2025, to finance or
+22 refinance the planning, design, acquisition, construction, expansion,
+23 equipping, rehabilitation, or consolidation of wastewater systems, water
+24 systems, solid and hazardous waste facilities, recycling facilities, nonpoint
+25 source management facilities, wetlands conservation and management
+26 facilities, and other environmental projects or parts of environmental
+27 projects into the Construction Assistance Revolving Loan Fund.
+28
+29 SECTION 8. Arkansas Code § 15-5-909(8), concerning the definition of
+30 "owner" regarding the Construction Assistance Revolving Loan Fund, is amended
+31 to read as follows:
+32 (8) “Owner” means the owner or prospective owner, whether public
+33 or private, of an environmental project, excluding any federal agencies;
+34
+35 /s/Hester
+36
+5 03-17-2025 10:10:49 JMB397
+
+[DELETED:  A       A S A R   T D W U R  B   S  4  I n t p e a a t a   S]
+[DELETED:  S2 0 " f   (     ( p e p t b o o     ( e w p w i c    ( i ( m   S p a  ( r q R   ( b m o w c]
+[DELETED:  S3 0    (    ( e    ( o c   ( a f r   ( s o    ( t a a    ( o    ( n i    ( o    ( p    ( w    ( d   ( w t   ( t o]
+[DELETED:  S4 0 c   ( d   ( m   S f u   ( c l p o t f s c s g t    ( r c g   S f u   ( s c w p t    (]
+[DELETED:  S5 0 a t s   S f u r  ( u w c l   S e a   ( a o A r e s s f p   S " t   ( o  / ]

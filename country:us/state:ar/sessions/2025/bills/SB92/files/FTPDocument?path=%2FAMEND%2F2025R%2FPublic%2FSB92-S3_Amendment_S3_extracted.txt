@@ -1,0 +1,165 @@
+Title: ______________________________________________________________________
+Official Title: ______________________________________________________________________
+Number of Sections: 3
+Source: versions - Amendment S3
+Media Type: application/pdf
+Strikethrough Detection: 3 sections found
+
+================================================================================
+
+Section 1:
+ARKANSAS SENATE
+95th General Assembly - Regular Session, 2025
+Amendment Form
+JBC 4/2/2025 (6)
+Subtitle of Senate Bill 92
+AN ACT FOR THE DEPARTMENT OF TRANSFORMATION AND SHARED SERVICES
+APPROPRIATION FOR THE 2025-2026 FISCAL YEAR.
+______________________________________________________________________
+Amendment No. 3 to Senate Bill 92
+Amend Senate Bill 92 as engrossed S3/31/25 (version: 3/31/25 05:28:50 PM):
+Page 18, immediately following SECTION 28, insert new SECTIONS to read as
+follows:
+" SECTION 29. REGULAR SALARIES - OFFICE OF PROPERTY RISK. There is
+hereby established for the Department of Transformation and Shared Services -
+Office of Property Risk for the 2025-2026 fiscal year, the following maximum
+number of regular employees.
+Maximum Annual
+Maximum Salary Rate
+Item Class No. of Fiscal Year
+No. Code Title Employees 2025-2026
+(1) G351C OFFICE OF PROPERTY RISK DIRECTOR 1 GRADE SE02
+(2) D044C SYSTEMS ANALYST 1 GRADE IT05
+(3) G352C OFFICE OF PROPERTY RISK FINANCIAL DIR 1 GRADE GS14
+(4) G047C ATTORNEY SPECIALIST 1 GRADE GS11
+(5) G120C RISK CONSULTANT 2 GRADE GS07
+(6) C037C ADMINISTRATIVE ANALYST 2 GRADE GS06
+(7) C056C ADMINISTRATIVE SPECIALIST III 1 GRADE GS04
+(8) C046C LEGAL SUPPORT SPECIALIST 1 GRADE GS04
+MAX. NO. OF EMPLOYEES 10
+*.JAP032*
+JAP032 - 04-02-2025 12:15:17 Page 1 of 3
+
+Section 2:
+SECTION 30. APPROPRIATION - OFFICE OF PROPERTY RISK - OPERATIONS.
+There is hereby appropriated, to the Department of Transformation and
+Shared Services, to be payable from the State Captive Insurance
+Program Trust Fund, for personal services, operating expenses, and
+claims of the Department of Transformation and Shared Services -
+Office of Property Risk for the fiscal year ending June 30, 2026, the
+following:
+ITEM FISCAL YEAR
+NO. 2025-2026
+(01) REGULAR SALARIES $747,496
+(02) PERSONAL SERVICES MATCHING 298,998
+(03) MAINT. & GEN. OPERATION
+(A) OPER. EXPENSE 80,750,000
+(B) CONF. & TRAVEL 12,000
+(C) PROF. FEES 3,000,000
+(D) CAP. OUTLAY 100,000
+(E) DATA PROC. 0
+(04) CLAIMS 50,000,000
+TOTAL AMOUNT APPROPRIATED $134,908,494
+
+Section 3:
+SECTION 31. APPROPRIATION - OFFICE OF PROPERTY RISK - RESERVE
+SUB-FUND. There is hereby appropriated, to the Department of
+Transformation and Shared Services, to be payable from the State
+Captive Insurance Program Trust Fund, for investments of the
+Department of Transformation and Shared Services - Office of Property
+Risk for the fiscal year ending June 30, 2026, the following:
+ITEM FISCAL YEAR
+NO. 2025-2026
+(01) INVESTMENTS $75,000,000"
+AND
+Appropriately renumber all subsequent SECTION numbers of the bill.
+JAP032 - 04-02-2025 12:15:17 Amendment No. 3 to Senate Bill 92 Page 2 of 3
+The Amendment was read the first time, rules suspended and read the second time and _______________________
+By: JOINT BUDGET COMMITTEE
+By: Senator Gilmore
+JAP/JAP - 04-02-2025 12:15:18 _________________________
+JAP032 Secretary
+JAP032 - 04-02-2025 12:15:17 Amendment No. 3 to Senate Bill 92 Page 3 of 3
+[DELETED:  PA   S ]
+[DELETED:  PSS]
+[DELETED:  P _ S]
+
+
+================================================================================
+
+Raw Text:
+ARKANSAS SENATE
+95th General Assembly - Regular Session, 2025
+Amendment Form
+JBC 4/2/2025 (6)
+______________________________________________________________________
+Subtitle of Senate Bill 92
+AN ACT FOR THE DEPARTMENT OF TRANSFORMATION AND SHARED SERVICES
+APPROPRIATION FOR THE 2025-2026 FISCAL YEAR.
+______________________________________________________________________
+Amendment No. 3 to Senate Bill 92
+Amend Senate Bill 92 as engrossed S3/31/25 (version: 3/31/25 05:28:50 PM):
+Page 18, immediately following SECTION 28, insert new SECTIONS to read as
+follows:
+" SECTION 29. REGULAR SALARIES - OFFICE OF PROPERTY RISK. There is
+hereby established for the Department of Transformation and Shared Services -
+Office of Property Risk for the 2025-2026 fiscal year, the following maximum
+number of regular employees.
+Maximum Annual
+Maximum Salary Rate
+Item Class No. of Fiscal Year
+No. Code Title Employees 2025-2026
+(1) G351C OFFICE OF PROPERTY RISK DIRECTOR 1 GRADE SE02
+(2) D044C SYSTEMS ANALYST 1 GRADE IT05
+(3) G352C OFFICE OF PROPERTY RISK FINANCIAL DIR 1 GRADE GS14
+(4) G047C ATTORNEY SPECIALIST 1 GRADE GS11
+(5) G120C RISK CONSULTANT 2 GRADE GS07
+(6) C037C ADMINISTRATIVE ANALYST 2 GRADE GS06
+(7) C056C ADMINISTRATIVE SPECIALIST III 1 GRADE GS04
+(8) C046C LEGAL SUPPORT SPECIALIST 1 GRADE GS04
+MAX. NO. OF EMPLOYEES 10
+*.JAP032*
+JAP032 - 04-02-2025 12:15:17 Page 1 of 3
+
+SECTION 30. APPROPRIATION - OFFICE OF PROPERTY RISK - OPERATIONS.
+There is hereby appropriated, to the Department of Transformation and
+Shared Services, to be payable from the State Captive Insurance
+Program Trust Fund, for personal services, operating expenses, and
+claims of the Department of Transformation and Shared Services -
+Office of Property Risk for the fiscal year ending June 30, 2026, the
+following:
+ITEM FISCAL YEAR
+NO. 2025-2026
+(01) REGULAR SALARIES $747,496
+(02) PERSONAL SERVICES MATCHING 298,998
+(03) MAINT. & GEN. OPERATION
+(A) OPER. EXPENSE 80,750,000
+(B) CONF. & TRAVEL 12,000
+(C) PROF. FEES 3,000,000
+(D) CAP. OUTLAY 100,000
+(E) DATA PROC. 0
+(04) CLAIMS 50,000,000
+TOTAL AMOUNT APPROPRIATED $134,908,494
+SECTION 31. APPROPRIATION - OFFICE OF PROPERTY RISK - RESERVE
+SUB-FUND. There is hereby appropriated, to the Department of
+Transformation and Shared Services, to be payable from the State
+Captive Insurance Program Trust Fund, for investments of the
+Department of Transformation and Shared Services - Office of Property
+Risk for the fiscal year ending June 30, 2026, the following:
+ITEM FISCAL YEAR
+NO. 2025-2026
+(01) INVESTMENTS $75,000,000"
+AND
+Appropriately renumber all subsequent SECTION numbers of the bill.
+JAP032 - 04-02-2025 12:15:17 Amendment No. 3 to Senate Bill 92 Page 2 of 3
+
+The Amendment was read the first time, rules suspended and read the second time and _______________________
+By: JOINT BUDGET COMMITTEE
+By: Senator Gilmore
+JAP/JAP - 04-02-2025 12:15:18 _________________________
+JAP032 Secretary
+JAP032 - 04-02-2025 12:15:17 Amendment No. 3 to Senate Bill 92 Page 3 of 3
+
+[DELETED:  PA   S ]
+[DELETED:  PSS]
+[DELETED:  P _ S]

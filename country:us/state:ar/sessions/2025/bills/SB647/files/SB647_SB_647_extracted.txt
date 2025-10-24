@@ -1,0 +1,2471 @@
+Title: Stricken language would be deleted from and underlined language would be added to present law.
+Official Title: Stricken language would be deleted from and underlined language would be added to present law.
+Number of Sections: 1
+Source: versions - SB 647
+Media Type: application/pdf
+Strikethrough Detection: 31 sections found
+
+================================================================================
+
+Section 1:
+1 State of Arkansas
+A Bill
+2 95th General Assembly
+3 Regular Session, 2025 SENATE BILL 647
+4
+5 By: Senator J. Dismang
+6 By: Representative Beaty Jr.
+7
+For An Act To Be Entitled
+8
+9 AN ACT TO CREATE THE ECONOMIC DEVELOPMENT DISTRICT
+10 ACT OF 2025; AND FOR OTHER PURPOSES.
+11
+12
+Subtitle
+13
+14 TO CREATE THE ECONOMIC DEVELOPMENT
+15 DISTRICT ACT OF 2025.
+16
+17 BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF ARKANSAS:
+18
+19 SECTION 1. Arkansas Code Title 14 is amended to add an additional
+20 chapter to read as follows:
+21 CHAPTER 177
+22 ECONOMIC DEVELOPMENT DISTRICT ACT OF 2025
+23
+24 Subchapter 1 — General Provisions
+25
+26 14-177-101. Title.
+27 This chapter shall be known and may be cited as the “Economic
+28 Development District Act of 2025”.
+29
+30 14-177-102. Definitions.
+31 As used in this chapter:
+32 (1) “Alcoholic beverage sales tax” means the taxes levied under
+33 §§ 3-7-201 and 3-9-213;
+34 (2) “Available funds” means revenues, grant funds, and other
+35 moneys received by an economic development district minus:
+36 (A) The property charge baseline;
+*JLL259*
+04/16/2025 9:25:56 AM JLL259
+SB647
+1 (B) The sales charge baseline;
+2 (C) Any reserved property charge; and
+3 (D) Any reserved sales charge;
+4 (3) “Cooperative area” means an area designed by one (1) or more
+5 municipalities, one (1) or more counties, or a combination of one (1) or more
+6 municipalities and one (1) or more counties operating under a written
+7 agreement in which the participating municipalities or participating
+8 counties, or both, agree to establish an economic development district by
+9 mutually adopting a formation charter;
+10 (4) “Economic development” means one (1) or more of the
+11 following:
+12 (A) Job creation;
+13 (B) Job retention;
+14 (C) Job attraction;
+15 (D) Economic growth; and
+16 (E) Economic diversification;
+17 (5)(A) “Economic development construction” means the process of
+18 constructing, improving, modifying, or removing improvements within an
+19 economic development district for purposes that directly contribute to the
+20 economic development goals of the economic development district in accordance
+21 with the economic development plan.
+22 (B) “Economic development construction” includes without
+23 limitation manufacturing, technology, research and development, business
+24 incubators, retail, entertainment, housing, healthcare, restaurants,
+25 hospitality, childcare, energy production, infrastructure projects, and any
+26 other type of venture or facility that the board of an economic development
+27 district determines is beneficial to an economic development district under §
+28 14-177-304;
+29 (6) “Economic development district” means a designated area
+30 within a municipality, county, or cooperative area that is established under
+31 this chapter to promote, facilitate, or secure economic development and
+32 revitalization within the designated area;
+33 (7) “Economic development plan” means a document detailing the
+34 goals, strategies, and initiatives to be undertaken to stimulate economic
+35 development within an economic development district;
+36 (8) “Establishing authority” means:
+2 04/16/2025 9:25:56 AM JLL259
+SB647
+1 (A) For a municipality or county, the governing body of
+2 the municipality or county; and
+3 (B) For a cooperative area, the group of persons
+4 designated for the cooperative area in the written agreement establishing the
+5 cooperative area;
+6 (9) “Formation charter” means the foundational governing
+7 document of the economic development district that establishes the formation
+8 of the economic development district under § 14-177-204;
+9 (10) “Property charge” means a monetary charge equal to what the
+10 applicable ad valorem property tax and special assessments would be if the
+11 economic development district did not exist, including any additional ad
+12 valorem-based charge equal to an additional millage rate assessed by the
+13 board of an economic development district;
+14 (11) “Property charge baseline” means an amount equal to a
+15 property’s ad valorem property tax and special assessments due the year
+16 before the property became part of an economic development district;
+17 (12) “Property charge increment” means the amount by which the
+18 property charge exceeds the property charge baseline;
+19 (13)(A) “Public infrastructure” means a facility, service, or
+20 installation that is useful for the operation and growth of an economic
+21 development district.
+22 (B) “Public infrastructure” includes without limitation:
+23 (i) A transportation system, including without
+24 limitation a road, a trail, lighting, a traffic signal, a sidewalk, and
+25 parking;
+26 (ii) Demolition;
+27 (iii) A public safety measure;
+28 (iv) Stormwater drainage;
+29 (v) A utility, including without limitation a water
+30 utility, a sewer utility, an electric power utility, and a gas utility;
+31 (vi) Digital infrastructure, including without
+32 limitation broadband and telecommunications infrastructure;
+33 (vii) Energy production; and
+34 (viii) Green infrastructure, including without
+35 limitation parks, green spaces, and renewable energy systems;
+36 (14) "Reserved property charge” means the portion of a property
+3 04/16/2025 9:25:56 AM JLL259
+SB647
+1 charge, if any, in excess of the property charge baseline reserved by an
+2 establishing authority in the formation charter;
+3 (15) “Reserved sales charge” means the portion of a sales
+4 charge, if any, in excess of the sales charge baseline reserved by an
+5 establishing authority in the formation charter;
+6 (16)(A) “Sales charge” means a monetary charge equal to what the
+7 following taxes would be if the economic development district did not exist:
+8 (i) Sales and use tax, including without limitation
+9 the taxes levied under Title 26, Chapters 52, 53, 74, and 75; and
+10 (ii) Alcoholic beverage sales tax.
+11 (B) “Sales charge” includes:
+12 (i) The sales and use tax on a transaction in which
+13 the end-user or purchaser takes possession of tangible personal property,
+14 specified digital products, or a digital code or makes the first use of a
+15 taxable service; and
+16 (ii) Any additional percentage-based charge equal to
+17 an additional rate assessed by the board of an economic development district.
+18 (C) “Sales charge” does not include any tax applicable to
+19 the possession of tangible personal property by a shipping company on behalf
+20 of a purchaser;
+21 (17) “Sales charge baseline” means the amount of sales and use
+22 tax and alcoholic beverage sales tax generated from transactions occurring
+23 within a property the year before the property became part of an economic
+24 development district; and
+25 (18) “Sales charge increment” means the amount by which the
+26 sales charge exceeds the sales charge baseline.
+27
+28 14-177-103. Assistance from Department of Commerce.
+29 (a) The Department of Commerce shall:
+30 (1) Provide ongoing support and assistance to municipalities,
+31 counties, cooperative areas, and economic development districts in the
+32 establishment, management, and strategic development of economic development
+33 districts;
+34 (2) Allocate resources, including without limitation expert
+35 advice, administrative guidance, and access to state-level economic
+36 development tools, to assist municipalities, counties, cooperative areas, and
+4 04/16/2025 9:25:56 AM JLL259
+SB647
+1 economic development districts;
+2 (3) Offer technical assistance to assist municipalities,
+3 counties, and cooperative areas in drafting an initial proposal to form an
+4 economic development district, defining the boundaries of a proposed economic
+5 development district, and conducting the economic and impact assessments
+6 necessary for the establishment of an economic development district;
+7 (4) Provide training programs for municipality and county
+8 officials and members of a board of an economic development district on
+9 topics that include economic development strategies, financial management,
+10 and grant administration;
+11 (5)(A) Assist in setting up systems for monitoring and
+12 evaluating the performance of an economic development district to ensure that
+13 each economic development district meets the economic development objectives
+14 for the economic development district.
+15 (B) To facilitate meeting the requirements of subdivision
+16 (a)(5)(A) of this section, the department shall maintain an online repository
+17 of projects that includes publicly available information about each project;
+18 (6) Assist economic development districts in establishing clear
+19 and effective grant application processes to ensure transparency and fairness
+20 in the distribution of funds under this chapter; and
+21 (7)(A) Provide guidance to economic development districts on
+22 financial oversight practices to ensure that all grant funds are used
+23 appropriately and effectively.
+24 (B) To facilitate meeting the requirements of subdivision
+25 (a)(7)(A) of this section, the department may:
+26 (i) Review and conduct audits of any economic
+27 development district; and
+28 (ii) Adopt appropriate rules to promote the orderly
+29 administration of economic development districts and prevent malfeasance,
+30 mismanagement, or fraud in the operation of an economic development district.
+31 (b) To compensate the department for its obligations under this
+32 section, each board of an economic development district shall remit to the
+33 department the following:
+34 (1) Two percent (2%) of the property charge increment, minus the
+35 reserved property charge, received by the economic development district
+36 annually; and
+5 04/16/2025 9:25:56 AM JLL259
+SB647
+1 (2) Two percent (2%) of the sales charge increment, minus the
+2 reserved sales charge, received by the economic development district
+3 annually.
+4
+5 Subchapter 2 — Economic Development Districts — Creation and Termination
+6
+7 14-177-201. Authorization to establish economic development district.
+8 (a) A municipality, county, or cooperative area may establish one (1)
+9 or more economic development districts within the boundaries of the
+10 municipality, county, or cooperative area.
+11 (b) A county may establish an economic development district within the
+12 boundaries of a municipality only with consent of the mayor of the
+13 municipality.
+14 (c) A municipality may use county tax revenues for an economic
+15 development district only with the consent of the county judge of the county
+16 that levied the tax.
+17 (d) An economic development district is not required to have
+18 contiguous boundaries.
+19
+20 14-177-202. Proposal to create economic development district.
+21 (a) The creation of an economic development district may be proposed
+22 by the:
+23 (1) Delivery of a proposal signed by the owners of at least
+24 twenty-five percent (25%) of the assessed value of the property within the
+25 boundaries of the proposed economic development district to the proposed
+26 establishing authority;
+27 (2) Delivery of a proposal by a mayor or county judge to the
+28 proposed establishing authority; or
+29 (3) Creation of a proposal by the proposed establishing
+30 authority.
+31 (b) A proposal for the creation of an economic development district
+32 under this section shall include:
+33 (1) A map of the boundaries of the proposed economic development
+34 district;
+35 (2) A preliminary economic development plan; and
+36 (3) An assessment of the current economic conditions within the
+6 04/16/2025 9:25:56 AM JLL259
+SB647
+1 boundaries of the proposed economic development district and the expected
+2 impact of the proposed economic development district.
+3
+4 14-177-203. Approval process for establishment of economic development
+5 district.
+6 (a) An establishing authority considering the creation of a proposed
+7 economic development district under this subchapter shall:
+8 (1) Conduct a public hearing on the creation of the proposed
+9 economic development district within ninety (90) days after receiving a
+10 proposal under this subchapter; and
+11 (2)(A) Provide notice of the public hearing required under
+12 subdivision (a)(1) of this section at least thirty (30) days before the
+13 public hearing.
+14 (B) Notice provided under subdivision (a)(2)(A) of this
+15 section shall be:
+16 (i) Published in a newspaper of general circulation
+17 in the proposed economic development district; or
+18 (ii) Provided by means of public notification other
+19 than a newspaper of general circulation that is authorized by the
+20 establishing authority and reasonably calculated to provide notice to
+21 property owners within the boundaries of the proposed economic development
+22 district.
+23 (b) After holding the public hearing required under subsection (a) of
+24 this section, an establishing authority may create an economic development
+25 district by approving a formation charter that meets the requirements of §
+26 14-177-204 by the adoption of an ordinance by a majority vote of the present
+27 and participating members of the establishing authority.
+28
+29 14-177-204. Formation charter — Amendment.
+30 (a) A formation charter shall include:
+31 (1) The boundaries of the economic development district;
+32 (2) The term of the economic development district, which shall
+33 not exceed thirty (30) years;
+34 (3) The economic development plan for the economic development
+35 district;
+36 (4) The number of members of the board of the economic
+7 04/16/2025 9:25:56 AM JLL259
+SB647
+1 development district;
+2 (5) Any reserved property charge;
+3 (6) Any reserved sales charge; and
+4 (7) Any restrictions on the powers of the board of the economic
+5 development district.
+6 (b)(1) The establishing authority for an economic development district
+7 may amend the formation charter upon the petition of the:
+8 (A) Mayor of the municipality governed by the establishing
+9 authority;
+10 (B) County judge of a county governed by the establishing
+11 authority;
+12 (C) Mayor of any municipality or the county judge of any
+13 county participating in a cooperative area governed by the establishing
+14 authority;
+15 (D) Board of the economic development district; or
+16 (E) Establishing authority.
+17 (2) An amendment to a formation charter under this subsection
+18 may expand or contract the:
+19 (A) Boundaries of the economic development district; or
+20 (B) Authority granted to the board of the economic
+21 development district.
+22 (3) If an economic development district is party to an executory
+23 contract or has outstanding bonds secured by revenue of the economic
+24 development district, the establishing authority for the economic development
+25 district shall not amend the formation charter to do any of the following in
+26 a manner that would reasonably impair the performance of the executory
+27 contract or the repayment of the outstanding bonds, unless the establishing
+28 authority agrees to assume the economic development district’s obligations
+29 under the executory contract or the repayment of the outstanding bonds:
+30 (A) Reduce the boundaries of the economic development
+31 district;
+32 (B) Increase the reserved property charge;
+33 (C) Increase the reserved sales charge;
+34 (D) Decrease the term of the economic development
+35 district; or
+36 (E) Modify the powers of the board of the economic
+8 04/16/2025 9:25:56 AM JLL259
+SB647
+1 development district.
+2 (4) A petition to amend a formation charter under this
+3 subsection is subject to the same approval process and requirements provided
+4 for the establishment of an economic development district under § 14-177-203.
+5
+6 14-177-205. Renewal of term of economic development district.
+7 (a) The establishing authority for an economic development district
+8 may renew the economic development district for successive terms of up to
+9 thirty (30) years each upon the petition of the:
+10 (1) Mayor of the municipality governed by the establishing
+11 authority;
+12 (2) County judge of a county governed by the establishing
+13 authority;
+14 (3) Mayor of any municipality or the county judge of any county
+15 participating in a cooperative area governed by the establishing authority;
+16 (4) Board of the economic development district; or
+17 (5) Establishing authority.
+18 (b) A petition to renew the term of an economic development district
+19 under this subsection is subject to the same approval process and
+20 requirements provided for the establishment of an economic development
+21 district under § 14-177-203.
+22
+23 14-177-206. Termination of economic development district.
+24 (a)(1) Except as provided in subdivision (a)(2) of this section, the
+25 establishing authority of an economic development district may terminate the
+26 economic development district upon the petition of the board of the economic
+27 development district or by revoking the formation charter.
+28 (2) If an economic development district is party to an executory
+29 contract or has outstanding bonds secured by revenue of the economic
+30 development district, the establishing authority for the economic development
+31 district shall not terminate the economic development district to do any of
+32 the following in a manner that would reasonably impair the performance of the
+33 executory contract or the repayment of the outstanding bonds, unless the
+34 establishing authority agrees to assume the economic development district’s
+35 obligations under the executory contract or the repayment of the outstanding
+36 bonds:
+9 04/16/2025 9:25:56 AM JLL259
+SB647
+1 (A) Reduce the boundaries of the economic development
+2 district;
+3 (B) Increase the reserved property charge;
+4 (C) Increase the reserved sales charge;
+5 (D) Decrease the term of the economic development
+6 district; or
+7 (E) Modify the powers of the board of the economic
+8 development district.
+9 (b) Upon termination of an economic development district, all assets
+10 remaining with the economic development district shall be turned over to the
+11 establishing authority to be used for the purposes stated in the economic
+12 development plan for the economic development district.
+13 (c) A petition to terminate an economic development district and the
+14 revocation of a formation charter under this section are subject to the same
+15 approval process and requirements provided for the establishment of an
+16 economic development district under § 14-177-203.
+17
+18 14-177-207. Cooperative areas.
+19 (a) An agreement creating a cooperative area may allocate the:
+20 (1) Property charge baseline, reserved property charge, sales
+21 charge baseline, and reserved sales charge among the municipalities and
+22 counties participating in the economic development district based on an
+23 agreed-upon percentage allocation of the entire economic development district
+24 instead of basing the revenue on the physical nexus from where the revenue is
+25 generated; and
+26 (2) Provision of governmental services within the economic
+27 development district among the taxing authorities participating in the
+28 economic development district.
+29 (b) The ad valorem property tax rate used to establish the property
+30 charge, property charge baseline, and property charge increment for a
+31 cooperative area shall be:
+32 (1) Uniform throughout the economic development district; and
+33 (2) Equal to the highest ad valorem tax of the municipalities
+34 and counties participating in the economic development district.
+35 (c) The percentage-based sales and use tax rate and the alcoholic
+36 beverage sales tax rate used to establish the sales charge, sales charge
+10 04/16/2025 9:25:56 AM JLL259
+SB647
+1 baseline, and sales charge increment for a cooperative area shall be:
+2 (1) Uniform throughout the economic development district; and
+3 (2) Equal to the highest sales and use tax rate and the
+4 alcoholic beverage sales tax rate of the municipalities and counties
+5 participating in the economic development district.
+6
+7 14-177-208. Annexation prohibited.
+8 Property within the boundaries of an economic development district
+9 shall not be involuntarily annexed into a municipality.
+10
+11 Subchapter 3 — Boards of Economic Development Districts
+12
+13 14-177-301. Board of economic development district generally.
+14 (a) An economic development district shall be governed by a board
+15 consisting of at least five (5) but not more than nine (9) members.
+16 (b) Except as provided in subsection (d) of this section, the
+17 formation charter shall provide that:
+18 (1) At least one (1) member of the board of the economic
+19 development district shall be a property owner or business owner within the
+20 economic development district; and
+21 (2) At least one (1) member of the board of the economic
+22 development district shall be an individual who holds no ownership interest
+23 in any property or business within the economic development district.
+24 (c) All members of the board of an economic development district shall
+25 be qualified electors of the establishing authority.
+26 (d) The establishing authority may serve as the board of the economic
+27 development district.
+28 (e) For a board of an economic development district established in a
+29 cooperative area, the agreement establishing the cooperative area shall
+30 provide for the allocation of members of the board of the economic
+31 development district among the participants of the cooperative area.
+32
+33 14-177-302. Appointment — Terms.
+34 (a)(1) The members of the board of an economic development district
+35 shall be appointed:
+36 (A) By the mayor if the establishing authority is a
+11 04/16/2025 9:25:56 AM JLL259
+SB647
+1 municipality;
+2 (B) By the county judge if the establishing authority is a
+3 county; and
+4 (C) As designated in the agreement establishing the
+5 cooperative area if the economic development district was established in a
+6 cooperative area.
+7 (2)(A) An appointee to a board of an economic development
+8 district is subject to confirmation by the establishing authority of the
+9 person making the appointment.
+10 (B) If an appointee is not ratified or rejected by a
+11 majority of the establishing authority present and participating within sixty
+12 (60) days of the appointment, the appointment is deemed to be rejected.
+13 (b)(1) Except as provided in subdivision (b)(2) of this section, the
+14 formation charter shall reserve a seat on the board of the economic
+15 development district for a person appointed by the:
+16 (A) Mayor of each municipality having corporate limits
+17 within the economic development district at the time of formation; and
+18 (B) County judge of each county in which the economic
+19 development district is located.
+20 (2) The establishing authority of an economic development
+21 district may elect not to provide a seat on the board of the economic
+22 development district to a municipality or county in which the economic
+23 development district is located if the formation charter designates a
+24 reserved property charge and a reserved sales charge in favor of the excluded
+25 municipality or county equal to the ad valorem property tax, sales and use
+26 tax, and alcoholic beverage sales tax that would have been received by the
+27 municipality or county but for the existence of the economic development
+28 district.
+29 (c)(1) A member of a board of an economic development district:
+30 (A) Shall serve a term of four (4) years; and
+31 (B) Is eligible for reappointment for additional terms.
+32 (2) Initial appointments to a board of an economic development
+33 district shall be staggered so that:
+34 (A) One (1) member serves an initial term of one (1) year;
+35 (B) One (1) member serves an initial term of two (2)
+36 years; and
+12 04/16/2025 9:25:56 AM JLL259
+SB647
+1 (C) One (1) member serves an initial term of three (3)
+2 years.
+3 (d) A vacancy on a board of an economic development district shall be
+4 filled in the same manner as provided for appointments under this section.
+5
+6 14-177-303. Conflicts of interest — Removal.
+7 (a) A member of a board of an economic development district shall:
+8 (1) Disclose any potential conflicts of interest arising from
+9 his or her duties on the board of the economic development district; and
+10 (2) Recuse from any decisions in which a conflict of interest is
+11 present unless the conflict of interest is disclosed and waived by a majority
+12 vote of the other members of the board of the economic development district.
+13 (b) A member of a board of an economic development district may be
+14 removed by the establishing authority for the economic development district
+15 for cause, including without limitation nonperformance, malfeasance, or
+16 conflict of interest.
+17
+18 14-177-304. Powers and duties.
+19 (a) The board of an economic development district shall:
+20 (1) Develop and approve a strategic plan outlining the vision,
+21 goals, and strategies for economic development within the economic
+22 development district;
+23 (2) Annually review and update the strategic plan approved under
+24 subdivision (a)(1) of this section;
+25 (3) Approve an annual budget and oversee the financial
+26 management of the economic development district, ensuring that funds are used
+27 efficiently and aligned with the strategic plan of the economic development
+28 district;
+29 (4) Oversee the distribution of grant funds, ensuring that all
+30 grants align with the economic development district's objectives and comply
+31 with established criteria for the grants;
+32 (5) Establish and monitor performance metrics for the economic
+33 development district’s initiatives and use the data obtained to guide the
+34 strategic decisions of the board of the economic development district; and
+35 (6)(A) Prepare an annual report detailing the economic
+36 development district’s financial status, progress toward the goals of the
+13 04/16/2025 9:25:56 AM JLL259
+SB647
+1 economic development district, and ongoing and planned activities of the
+2 economic development district.
+3 (B) The annual report prepared under subdivision (a)(6)(A)
+4 of this section shall be:
+5 (i) Made publicly available; and
+6 (ii) Presented to the establishing authority of the
+7 economic development district.
+8 (b) The board of an economic development district may:
+9 (1) Exercise zoning and land use planning authority within the
+10 economic development district in accordance with rules established by the
+11 board of the economic development district;
+12 (2) Reduce or waive franchise fees as an incentive for utilities
+13 to provide or enhance services within the economic development district;
+14 (3) Determine that a venture or facility is beneficial to the
+15 economic development district if the venture or facility promotes economic
+16 development;
+17 (4) Enter into and enforce contracts in accordance with the
+18 procurement requirements of the establishing authority of the economic
+19 development district;
+20 (5) Acquire, hold, and possess real and personal property; and
+21 (6)(A) Except as provided in subdivision (b)(6)(B) of this
+22 section, exercise any lawful powers not denied the economic development
+23 district by the formation charter.
+24 (B) The board of an economic development district shall
+25 not exercise the powers granted under this section in a manner that adversely
+26 impairs any outstanding debt obligations that are specifically secured by
+27 fees and charges or that would reasonably impair the repayment of an
+28 outstanding bond.
+29 (c) A board of an economic development district has the powers stated
+30 in this section unless specifically restricted under the formation charter.
+31
+32 14-177-305. Meetings of board of economic development district.
+33 (a) A board of an economic development district shall meet at least
+34 quarterly but may meet more frequently as needed.
+35 (b)(1) A meeting of a board of an economic development district shall
+36 be open to the public, except when the board of the economic development
+14 04/16/2025 9:25:56 AM JLL259
+SB647
+1 district calls an executive session under subdivision (b)(2) of this section.
+2 (2) A board of an economic development district may call an
+3 executive session to discuss matters that:
+4 (A) Require confidentiality under state or federal law;
+5 (B) Require confidentiality under a contract to which the
+6 economic development district is a party; or
+7 (C) Constitute records that are exempt from the Freedom of
+8 Information Act of 1967, § 25-19-101 et seq.
+9 (c) Minutes of all meetings of a board of an economic development
+10 district shall be recorded and made available to the public.
+11
+12 14-177-306. Records exempt from disclosure.
+13 (a) Records of a board of an economic development district and records
+14 of employees of the economic development district that, if disclosed, would
+15 give an advantage to competitors or bidders are exempt from the Freedom of
+16 Information Act of 1967, § 25-19-101 et seq., unless approval for release of
+17 the records is granted by the business entity that is the subject of the
+18 records.
+19 (b) The exemption allowed under subsection (a) of this section does
+20 not apply to records of expenditures or grants that are made or administered
+21 by the board of the economic development district and are otherwise
+22 disclosable under this chapter.
+23
+24 14-177-307. Financial oversight and transparency.
+25 (a)(1) The financial operations of an economic development district
+26 shall be audited annually by an independent auditor to ensure proper use of
+27 funds and adherence to all legal requirements.
+28 (2) The audit report obtained under subdivision (a)(1) of this
+29 section shall be submitted to the establishing authority of the economic
+30 development district within ninety (90) days after receipt of the audit
+31 report by the board of the economic development district.
+32 (b) Financial records related to the economic development district’s
+33 operations, including the sources and uses of funds received by the economic
+34 development district, shall be accessible to the public to ensure
+35 transparency and accountability.
+36
+15 04/16/2025 9:25:56 AM JLL259
+SB647
+1 14-177-308. Authority to place economic development district in
+2 receivership — Appointment of receiver — Bankruptcy prohibited.
+3 (a) The establishing authority or the board of an economic development
+4 district may place the economic development district into receivership if:
+5 (1) The board of the economic development district fails to
+6 fulfill its duties or obligations under this chapter;
+7 (2) The economic development district becomes insolvent or lacks
+8 sufficient financial resources to meet the obligation of the economic
+9 development district; or
+10 (3) There is evidence of malfeasance, mismanagement, or fraud by
+11 the board of the economic development district that threatens the effective
+12 operation of the economic development district or the proper administration
+13 of the financial resources of the economic development district.
+14 (b)(1) The board of an economic development district or the
+15 establishing authority of the economic development district may petition the
+16 circuit court in the county where the economic development district is
+17 located for an order placing the economic development district into
+18 receivership.
+19 (2) A petition under subdivision (b)(1) of this section shall
+20 demonstrate the specific grounds for the receivership, including without
+21 limitation documentation of the failures of the board of the economic
+22 development district or the insolvency of the economic development district.
+23 (3) The circuit court receiving a petition filed under this
+24 subsection shall hear the petition on an expedited basis.
+25 (c) Upon the determination by a circuit court that grounds for
+26 receivership of an economic development district exist, the circuit court
+27 shall:
+28 (1) Appoint the establishing authority of the economic
+29 development district or its designee as the receiver of the economic
+30 development district; and
+31 (2) Grant the receiver full authority to suspend the board of
+32 the economic development district and administer the economic development
+33 district with all rights, privileges, and obligations conferred on the board
+34 of the economic development district under this chapter.
+35 (d) The establishing authority of the economic development district
+36 may replace any members of the board of the economic development district
+16 04/16/2025 9:25:56 AM JLL259
+SB647
+1 during the receivership.
+2 (e) A receivership authorized under this section shall:
+3 (1) Continue until the economic development district is able to
+4 fulfill its statutory and financial obligations, as determined by the
+5 establishing authority of the economic development district; and
+6 (2) End upon petition by the establishing authority of the
+7 economic development district to the circuit court certifying that the need
+8 for the receivership has ended.
+9 (f) An economic development district shall not file for bankruptcy.
+10
+11 Subchapter 4 — Economic Development District Funding
+12
+13 14-177-401. Funds and use of funds.
+14 (a) Funding for grants, credits, or abatements under this chapter
+15 within an economic development district may be derived from any combination
+16 of the following sources:
+17 (1) The payment of a property charge under § 14-177-402;
+18 (2) The payment of a sales charge under § 14-177-403;
+19 (3) The payment of an additional property charge under § 14-177-
+20 406;
+21 (4) The payment of an additional sales charge under § 14-177-
+22 407; and
+23 (5) Public and private grants.
+24 (b) An economic development district may:
+25 (1) Solicit and accept grants and other funds from public
+26 sources; and
+27 (2) Accept contributions and donations from private sources.
+28 (c) An economic development district may pledge any available funds in
+29 whole or in part to the repayment of bond financing.
+30 (d) All available funds of an economic development district shall be
+31 used exclusively within the boundaries of the economic development district:
+32 (1) For economic development construction and public
+33 infrastructure in accordance with the economic development plan for the
+34 economic development district; or
+35 (2) To pay expenses necessary to accomplish the economic
+36 development goals of the economic development district as stated in the
+17 04/16/2025 9:25:56 AM JLL259
+SB647
+1 formation charter.
+2
+3 14-177-402. Property charge — Exemption from ad valorem taxation.
+4 (a) All property within an economic development district is exempt
+5 from the payment of ad valorem property taxes.
+6 (b)(1) Property located within the boundaries of an economic
+7 development district is subject to a property charge.
+8 (2) A property charge shall be collected at the same time and in
+9 the same manner as ad valorem property taxes.
+10 (3) Property that would be exempt from ad valorem property taxes
+11 outside of an economic development district is exempt from a property charge
+12 imposed by an economic development district.
+13 (c)(1) As long as property is within an economic development district,
+14 the county collector of the county in which the economic development district
+15 is located shall remit:
+16 (A) A pro rata portion of the property charge equal to the
+17 property charge baseline:
+18 (i) To the taxing authorities and improvement
+19 districts that would have received ad valorem property taxes if the property
+20 were not in an economic development district; or
+21 (ii) For a cooperative area, in accordance with the
+22 allocation agreed to by municipalities and counties participating in the
+23 cooperative area; and
+24 (B) Any remaining amount to the economic development
+25 district.
+26 (2) If the property charge is less than the property charge
+27 baseline in any year, the property charge baseline shall be reduced to the
+28 amount of the property charge actually received by the county collector.
+29 (d) A board of an economic development district may receive, spend,
+30 pledge, save, grant, allocate, or abate the property charge increment for
+31 property located within the boundaries of the economic development district
+32 unless specifically prohibited in the formation charter.
+33 (e) The failure to pay a property charge under this section is subject
+34 to the same remedies and enforcement as would otherwise apply to the failure
+35 to pay ad valorem property taxes if the property were not within an economic
+36 development district.
+18 04/16/2025 9:25:56 AM JLL259
+SB647
+1
+2 14-177-403. Sales charge — Exemption from sales and use tax and
+3 alcoholic beverage sales tax.
+4 (a) A sales transaction sourced within an economic development
+5 district is exempt from sales and use tax and the alcoholic beverage sales
+6 tax.
+7 (b)(1) A sales transaction sourced to property within an economic
+8 development district is subject to a sales charge.
+9 (2) A business operating within an economic development district
+10 shall collect and remit a sales charge to the economic development district
+11 that imposed the sales charge.
+12 (3) A sales charge shall be collected and administered at the
+13 same time and in the same manner as sales and use taxes.
+14 (4) A sales transaction that would be exempt from sales and use
+15 tax or the alcoholic beverage sales tax outside of an economic development
+16 district is exempt from a sales charge imposed by an economic development
+17 district.
+18 (c)(1) As long as property is within an economic development district,
+19 the Department of Finance and Administration shall remit:
+20 (A) A pro rata portion of the sales charge imposed on
+21 sales transactions sourced to property within the economic development
+22 district equal to the sales charge baseline:
+23 (i) To the taxing authorities that would have
+24 received sales and use taxes and alcoholic beverage sales taxes if the sales
+25 transaction had not occurred in an economic development district; or
+26 (ii) For a cooperative area, in accordance with the
+27 allocation agreed to by the municipalities and counties participating in the
+28 cooperative area; and
+29 (B) Any remaining amount to the economic development
+30 district.
+31 (2) If the sales charge is less than the sales charge baseline
+32 in any year, the sales charge baseline shall be reduced to the amount of the
+33 sales charge actually received by the department.
+34 (d)(1) The state is entitled to the portion of the sales charge that
+35 would have been received by the state if the sales transaction were not
+36 sourced to property within an economic development district.
+19 04/16/2025 9:25:56 AM JLL259
+SB647
+1 (2) The board of an economic development district may receive,
+2 spend, pledge, save, grant, allocate, or abate the sales charge increment
+3 unless specifically prohibited in the formation charter.
+4 (e) The failure to collect and remit a sales charge under this section
+5 is subject to the same remedies and enforcement as would otherwise apply to
+6 the failure to pay sales or use tax or the alcoholic beverage sales tax if
+7 the sales transaction were not sourced to property within an economic
+8 development district.
+9
+10 14-177-404. Reserved property charge — Allocation.
+11 (a)(1) Except as provided in subdivision (a)(2) of this section, the
+12 establishing authority for an economic development district may designate a
+13 reserved property charge in the formation charter as a percentage of the
+14 total property charge in excess of the property charge baseline.
+15 (2) A reserved property charge shall not include any additional
+16 property charge authorized by the board of an economic development district
+17 under § 14-177-406.
+18 (b) The formation charter may designate a reserved property charge
+19 that applies for only a specified time period.
+20 (c) A reserved property charge is invalid unless the reserved property
+21 charge is expressly provided for in the formation charter.
+22 (d)(1) If there is a reserved property charge, the reserved property
+23 charge shall be remitted in accordance with:
+24 (A) The allocation provided by the formation charter; or
+25 (B) For a cooperative area, the agreement of the
+26 municipalities and counties participating in the cooperative area.
+27 (2) Unless otherwise provided by agreement among the taxing
+28 authorities that would otherwise have received ad valorem property taxes if
+29 the economic development district did not exist, the formation charter shall
+30 provide that any reserved property charge be allocated among the taxing
+31 authorities in the same percentage as the ad valorem property taxes would
+32 otherwise have been allocated if the economic development district did not
+33 exist.
+34
+35 14-177-405. Reserved sales charge — Allocation.
+36 (a)(1) Except as provided in subdivision (a)(2) of this section, the
+20 04/16/2025 9:25:56 AM JLL259
+SB647
+1 establishing authority for an economic development district may designate a
+2 reserved sales charge in the formation charter as a percentage of the total
+3 sales charge in excess of the sales charge baseline.
+4 (2) A reserved sales charge shall not include any additional
+5 sales charge authorized by the board of an economic development district
+6 under § 14-177-407.
+7 (b) The formation charter may designate a reserved sales charge that
+8 applies for only a specified time period.
+9 (c) A reserved sales charge is invalid unless the reserved sales
+10 charge is expressly provided for in the formation charter.
+11 (d)(1) If there is a reserved sales charge, the reserved sales charge
+12 shall be remitted in accordance with:
+13 (A) The allocation provided by the formation charter; or
+14 (B) For a cooperative area, the agreement of the
+15 municipalities and counties participating in the cooperative area.
+16 (2) Unless otherwise provided by agreement among the taxing
+17 authorities that would otherwise have received sales and use taxes and
+18 alcoholic beverage sales tax if the economic development district did not
+19 exist, the formation charter shall provide that any reserved sales charge be
+20 allocated among the taxing authorities in the same percentage as the sales
+21 and use taxes and alcoholic beverage sales tax would otherwise have been
+22 allocated if the economic development district did not exist.
+23
+24 14-177-406. Additional property charge.
+25 (a)(1) The board of an economic development district may impose an
+26 additional millage rate-based charge on the value of property within the
+27 economic development district.
+28 (2) An additional property charge imposed under subdivision
+29 (a)(1) of this section shall be collected and allocated in the same manner as
+30 the property charge that applies to property within the economic development
+31 district.
+32 (b) The additional property charge allowed under this section shall
+33 not apply to property that would be exempt from ad valorem tax if the
+34 property were not located within an economic development district.
+35 (c)(1) Except as provided in subdivision (c)(2) of this section, a
+36 board of an economic development district shall not increase an additional
+21 04/16/2025 9:25:56 AM JLL259
+SB647
+1 property charge imposed under this section by more than ten percent (10%) of
+2 the millage rate that would have applied to the property if the property were
+3 not located in an economic development district.
+4 (2) A board of an economic development district may increase an
+5 additional property charge imposed under this section by more than ten
+6 percent (10%) of the millage rate that would have applied to the property if
+7 the property were not located in an economic development district if, at the
+8 time of the proposed increase, all property owners within the economic
+9 development district to which the additional property charge would apply
+10 provide written consent to the increase.
+11
+12 14-177-407. Additional sales charge.
+13 (a)(1) The board of an economic development district may impose an
+14 additional percentage-based charge on sales transactions occurring within the
+15 economic development district.
+16 (2) An additional sales charge imposed under subdivision (a)(1)
+17 of this section shall be collected and allocated in the same manner as the
+18 sales charge that applies to sales transactions sourced to property within
+19 the economic development district.
+20 (b) The additional sales charge allowed under this section shall not
+21 apply to sales transactions that would be exempt from sales and use taxes if
+22 the sales transaction did not occur within an economic development district.
+23 (c)(1) Except as provided in subdivision (c)(2) of this section, a
+24 board of an economic development district shall not increase an additional
+25 sales charge imposed under this section by more than ten percent (10%) of the
+26 sales and use tax rate that would have applied to the sales transaction if
+27 the sales transaction had not been sourced to property within an economic
+28 development district.
+29 (2) A board of an economic development district may increase an
+30 additional sales charge imposed under this section by more than ten percent
+31 (10%) of the sales and use tax rate that would have applied to the sales
+32 transaction if the sales transaction had not been sourced to property within
+33 an economic development district if, at the time of the proposed increase,
+34 all property owners within the economic development district to which the
+35 additional sales charge would apply provide written consent to the increase.
+36
+22 04/16/2025 9:25:56 AM JLL259
+SB647
+1 14-177-408. Cooperation of county officials and Department of Finance
+2 and Administration.
+3 (a)(1) A county assessor serving an area within the boundaries of an
+4 economic development district shall cooperate with the board of the economic
+5 development district to assess property within the economic development
+6 district for the amount of the property charge for the economic development
+7 district.
+8 (2) A county assessor shall calculate the property charge for an
+9 economic development district applying the same timing, methods, and
+10 penalties used to appraise and assess the property located in the economic
+11 development district that would apply if the property were not in an economic
+12 development district.
+13 (3)(A) A county assessor is entitled to any commission to which
+14 the county assessor would be entitled if the economic development district
+15 did not exist, based on the amount of the property charge baseline and the
+16 reserved property charge.
+17 (B) Any commission to which a county assessor is entitled
+18 shall be paid out of the property charge baseline and any reserved property
+19 charge.
+20 (b)(1) A county collector serving an area within the boundaries of an
+21 economic development district shall cooperate with the board of the economic
+22 development district to collect the property charge for the economic
+23 development district.
+24 (2) A county collector shall apply the same timing, methods, and
+25 penalties used for the collection of the property charge that would be
+26 applicable if the property were not in an economic development district.
+27 (3)(A) A county collector is entitled to any commission to which
+28 the county collector would be entitled if the economic development district
+29 did not exist, based on the amount of the property charge baseline and any
+30 reserved property charge.
+31 (B) Any commission to which a county assessor is entitled
+32 shall be paid out of the property charge baseline and any reserved property
+33 charge.
+34 (c) The Department of Finance and Administration shall:
+35 (1) Receive and collect the sales charge for an economic
+36 development district from all retailers and persons responsible for paying
+23 04/16/2025 9:25:56 AM JLL259
+SB647
+1 the sales charge within the economic development district; and
+2 (2) Apply the same timing, methods, and penalties for the
+3 collection of the sales charge that would be applicable if the sales
+4 transaction were not sourced to property within an economic development
+5 district.
+6
+7 Subchapter 5 — Economic Development District Grants
+8
+9 14-177-501. Authorization for grants.
+10 (a) The formation charter may authorize the board of an economic
+11 development district to provide assistance in the form of grants of
+12 forgivable loans or transferable credits against future payments of the
+13 property charge for the economic development district above the property
+14 charge baseline or the sales charge for the economic development district
+15 above the sales charge baseline, or both.
+16 (b) The board of an economic development district may waive or reduce
+17 utility franchise fees that would have otherwise been due within the economic
+18 development district.
+19 (c) The board of an economic development district may make payments of
+20 cash for economic development construction and public infrastructure within
+21 the economic development district.
+22
+23 14-177-502. Grant eligibility and terms.
+24 (a) A grant under this subchapter may be made available only to:
+25 (1) An owner of property within the boundaries of an economic
+26 development district;
+27 (2) A tenant of property within the boundaries of an economic
+28 development district if the tenant has a lease term that extends beyond the
+29 loan forgiveness period under the grant; or
+30 (3) A public or franchised utility service provider.
+31 (b)(1) A grant may be awarded under this subchapter in the form of a
+32 forgivable loan in an amount based on the scope and expected impact of the
+33 proposed project, as evaluated and determined by the board of the economic
+34 development district.
+35 (2) A grant awarded under this subchapter as a forgivable loan
+36 may be structured so that some or all of the amount due may be forgiven if
+24 04/16/2025 9:25:56 AM JLL259
+SB647
+1 the conditions of the grant are met.
+2 (3) The interest rate for a forgivable loan granted under this
+3 subchapter may be below market or zero percent (0%) to encourage uptake and
+4 project initiation.
+5 (4) The board of an economic development district may require
+6 security for the repayment of a forgivable loan granted under this
+7 subchapter.
+8 (c) A grant may be awarded under this subchapter in the form of
+9 transferable credits useable against future payments of the property charge
+10 above the property charge increment or the sales charge above the sales
+11 charge increment, or both.
+12 (d) The recipient of a grant under this subchapter shall submit an
+13 annual report to the board of the economic development district detailing the
+14 recipient's progress toward meeting the criteria for the forgivable loan or
+15 transferable credits awarded under the grant.
+16 (e) The board of an economic development district may employ an
+17 independent review committee or third-party auditor to verify that a
+18 recipient of a grant awarded under this subchapter has met the criteria for
+19 the grant before approving forgiveness of the loan or additional allocation
+20 of transferable credits.
+21
+22 14-177-503. Grant application process.
+23 (a) An applicant for a grant under this subchapter shall submit to the
+24 board of the economic development district a detailed proposal outlining the
+25 proposed project, the expected outcomes of the proposed project, the budget
+26 for the proposed project, and the alignment of the proposed project with the
+27 objectives of the economic development district.
+28 (b)(1) A grant awarded under this subchapter is contingent on the
+29 recipient's meeting predefined performance targets established by the board
+30 of the economic development district.
+31 (2) The predefined performance targets for a grant awarded in
+32 the form of transferable credits shall be based on any combination of job
+33 creation, job retention, average salary increases, investment of funds other
+34 than grant funds received from the economic development district and spent
+35 within the economic development district, and the provision of specific
+36 services or amenities within the economic development district.
+25 04/16/2025 9:25:56 AM JLL259
+SB647
+1 (c) The board of an economic development district shall review an
+2 application submitted under this section and evaluate the application based
+3 on the strategic fit, potential impact, and feasibility of the proposed
+4 project.
+5
+6 14-177-504. Reporting requirement.
+7 (a) A recipient of a grant under this subchapter shall submit to the
+8 board of the economic development district that awarded the grant an annual
+9 accounting of the use of the grant funds and an annual report detailing the
+10 recipient's compliance with the terms of the grant, including without
+11 limitation updates on investment levels, employment figures, and other
+12 relevant performance-based criteria.
+13 (b) The failure of a recipient of a grant awarded under this
+14 subchapter to meet the agreed-upon terms of the grant may result in the
+15 recapture of benefits received under the grant, repayment of any disbursed
+16 loan funds, renegotiation of any loan terms, or other remedies deemed
+17 appropriate by the board of the economic development district, including
+18 without limitation foreclosure of the security for a forgivable loan awarded
+19 under this subchapter.
+20
+21 Subchapter 6 — Abatement of Property Charge Increment or Sales Charge
+22 Increment
+23
+24 14-177-601. Abatement authorized.
+25 (a) The formation charter may authorize the board of the economic
+26 development district to grant temporary abatement of the property charge
+27 increment or the sales charge increment, or both, to eligible businesses and
+28 developers within the economic development district to promote economic
+29 development, attract investments, mitigate blight, and increase or retain
+30 employment opportunities.
+31 (b) Abatement of the property charge increment or the sales charge
+32 increment, or both, under this subchapter may take the form of a freeze or
+33 reduction in the future assessment of the property charge increment or the
+34 sales charge increment, or both.
+35
+36 14-177-602. Eligibility and terms for abatement.
+26 04/16/2025 9:25:56 AM JLL259
+SB647
+1 (a) To qualify for abatement of the property charge increment or the
+2 sales charge increment, or both, under this subchapter, an applicant shall
+3 demonstrate to the board of the economic development district that the
+4 applicant's business or project will contribute to or facilitate job
+5 creation, job retention, job attraction, economic growth, or economic
+6 diversification within the economic development district.
+7 (b)(1) Criteria for abatement of the property charge increment or the
+8 sales charge increment, or both, under this subchapter may include without
+9 limitation the scale of the investment by the applicant, the number of jobs
+10 created or retained by the applicant, the longevity and sustainability of the
+11 applicant's business, and the strategic importance of the applicant's
+12 business to the economic objectives of the economic development district.
+13 (2) Abatement of the property charge increment or the sales
+14 charge increment, or both, under this subchapter may also be granted to
+15 applicants whose business or project is complimentary to the goals of the
+16 economic development district.
+17 (c) An applicant for abatement of the property charge increment or the
+18 sales charge increment, or both, under this subchapter shall not be granted
+19 an abatement under this subchapter unless the applicant is in good standing
+20 with the State of Arkansas.
+21 (d)(1) The terms of an abatement of the property charge increment or
+22 the sales charge increment, or both, under this subchapter, including the
+23 duration and percentage of the abatement, shall be determined by the board of
+24 the economic development district based on the expected economic impact of
+25 the applicant's proposed business or project.
+26 (2) The duration of any abatement of the property charge
+27 increment or the sales charge increment, or both, under this subchapter shall
+28 not exceed thirty (30) years.
+29 (e) The board of an economic development district may require periodic
+30 reviews of a business or project for which an applicant has been granted an
+31 abatement of the property charge increment or the sales charge increment, or
+32 both, under this subchapter to ensure that the business or project continues
+33 to meet the eligibility criteria established at the time the abatement was
+34 granted.
+35
+36 14-177-603. Application process for abatement — Agreement.
+27 04/16/2025 9:25:56 AM JLL259
+SB647
+1 (a) An applicant seeking abatement of the property charge increment or
+2 the sales charge increment, or both, under this subchapter shall submit a
+3 detailed proposal to the board of the economic development district
+4 outlining:
+5 (1) The nature of the proposed business or project;
+6 (2) The expected economic benefits of the proposed business or
+7 project; and
+8 (3) A justification for the request for abatement of the
+9 property charge increment or the sales charge increment, or both.
+10 (b) The board of an economic development district shall:
+11 (1) Review all applications submitted under this section; and
+12 (2) Determine whether to approve each application based on the:
+13 (A) Strategic fit of the proposed business or project with
+14 the goals of the board of the economic development district;
+15 (B) Potential economic benefit of the proposed business or
+16 project to the economic development district; and
+17 (C) Any other criteria as provided in § 14-177-602.
+18 (c) If a board of an economic development district approves an
+19 application submitted under this section, the board of the economic
+20 development district and the applicant shall execute an agreement concerning
+21 the terms of the abatement of the property charge increment or the sales
+22 charge increment, or both, under this subchapter.
+23
+24 14-177-604. Reporting requirement.
+25 (a) A recipient of an abatement of the property charge increment or
+26 the sales charge increment, or both, under this subchapter shall submit an
+27 annual report to the board of the economic development district that awarded
+28 the abatement detailing the recipient's compliance with the terms of the
+29 abatement agreement, including without limitation updates on investment
+30 levels, employment figures, and other relevant performance-based criteria.
+31 (b) The failure of a recipient of an abatement under this subchapter
+32 to meet the agreed-upon terms of the abatement may result in the:
+33 (1) Revocation of the abatement of the property charge increment
+34 or the sales charge increment, or both; and
+35 (2) Board of the economic development district's requiring:
+36 (A) Repayment of the abated property charge increment and
+28 04/16/2025 9:25:56 AM JLL259
+SB647
+1 the sales charge increment; or
+2 (B) Payment of any performance security.
+3
+4 Subchapter 7 — Economic Development District Bonds
+5
+6 14-177-701. Issuance of bonds — Terms and conditions.
+7 (a) The formation charter may authorize the board of the economic
+8 development district being formed to issue bonds to finance economic
+9 development construction within the economic development district in
+10 accordance with the economic development plan.
+11 (b) The board of an economic development district shall determine the
+12 terms of bonds issued under this subchapter, including the maturity, interest
+13 rate, and repayment schedule for the bonds, based on the projected cash flow
+14 from available funds and the financial needs of the projects proposed to be
+15 funded by the bonds.
+16 (c) A two-thirds majority vote of the board of an economic development
+17 district is required to approve bonds issued under this subchapter.
+18 (d) Approval for the issuance of bonds from the establishing authority
+19 of the economic development district may be included in the formation
+20 charter.
+21
+22 14-177-702. Repayment of bonds — Oversight.
+23 (a) The repayment of bonds issued under this subchapter may be funded
+24 through, paid for, and secured by available funds as determined by the board
+25 of the economic development district.
+26 (b)(1) Available funds may be pledged as security for bonds issued
+27 under this subchapter to allow the economic development district to use the
+28 available funds to service debt obligations related to the bonds.
+29 (2) If available funds are pledged for the repayment of bonds
+30 under this subsection, the board of an economic development district shall
+31 establish a detailed plan demonstrating the sufficiency of the available
+32 funds to cover debt service requirements while maintaining the operational
+33 and developmental objectives and obligations of the economic development
+34 district.
+35 (c) The board of an economic development district shall:
+36 (1) Establish a bond oversight committee to:
+29 04/16/2025 9:25:56 AM JLL259
+SB647
+1 (A) Monitor the use of bond proceeds under this
+2 subchapter; and
+3 (B) Ensure that the bond proceeds are used for the
+4 purposes specified in the bond issuance documents; and
+5 (2) Conduct regular audits to assess the:
+6 (A) Management and utilization of bond proceeds under this
+7 subchapter; and
+8 (B) Adequacy of the available funds to service debt
+9 obligations related to the bonds issued under this subchapter.
+10
+11 14-177-703. Guarantee of bond repayment.
+12 (a) To enhance the creditworthiness of bonds issued under this
+13 subchapter and to support substantial economic development initiatives, an
+14 establishing authority may guarantee the repayment of bonds issued by an
+15 economic development district using any portion or combination of the
+16 property charge baseline, sales charge baseline, reserved property charge,
+17 and reserved sales charge received by the establishing authority.
+18 (b) An establishing authority’s guarantee of bonds under this section
+19 shall be structured as follows:
+20 (1) For the first three (3) years after the issuance of the
+21 bonds, the establishing authority may guarantee up to one hundred percent
+22 (100%) of the bond repayments;
+23 (2) For the fourth and fifth year after the issuance of the
+24 bonds, the establishing authority may guarantee up to fifty percent (50%) of
+25 the bond repayments; and
+26 (3) For the sixth and seventh years after the issuance of the
+27 bonds, the establishing authority may guarantee up to thirty-three percent
+28 (33%) of the bond repayments.
+29 (c) The maturity date of bonds guaranteed under this section may
+30 extend beyond the term of the guarantee provided by the establishing
+31 authority.
+32 (d) A decision to guarantee the repayment of bonds under this section
+33 shall be approved by a majority vote of the members of the establishing
+34 authority.
+35 (e) An establishing authority that guarantees the repayment of bonds
+36 under this section shall:
+30 04/16/2025 9:25:56 AM JLL259
+SB647
+1 (1)(A) Establish a special guarantee fund from which guaranteed
+2 amounts will be paid.
+3 (B) The special guarantee fund established under
+4 subdivision (e)(1)(A) of this section shall be replenished annually with the
+5 specified portion of the property charge baseline, reserved property charge,
+6 sales charge baseline, and reserved sales charge received by the economic
+7 development district.
+8 (C) An establishing authority that establishes a special
+9 guarantee fund under subdivision (e)(1)(A) of this section shall establish
+10 protocols to manage the special guarantee fund to ensure that there are
+11 sufficient funds available to meet the guarantee obligations of the
+12 establishing authority under this section as they become due;
+13 (2) Conduct an annual independent audit of the special guarantee
+14 fund established under subdivision (e)(1)(A) of this section and the
+15 management of the special guarantee fund to ensure transparency and proper
+16 use of the establishing authority’s revenues; and
+17 (3) Implement risk mitigation strategies, including without
+18 limitation setting aside reserve funds or obtaining reinsurance, to manage
+19 the potential fiscal impact of the guarantee provided under this section.
+20 (f)(1) Before approving a guarantee under this section, an
+21 establishing authority shall conduct a risk assessment to evaluate the
+22 potential financial impact on the establishing authority’s finances.
+23 (2) The risk assessment required under subdivision (f)(1) of
+24 this section shall consider the:
+25 (A) Viability of the projects funded by the bonds issued
+26 under this chapter; and
+27 (B) Expected revenues of the economic development
+28 district.
+29
+30 SECTION 1. DO NOT CODIFY. Contingent effective date.
+31 This act is effective on and after January 1, 2027, contingent on
+32 Senate Joint Resolution 15 of the Ninety-Fifth General Assembly being
+33 referred to the people and adopted at the 2026 general election.
+34
+35
+36
+31 04/16/2025 9:25:56 AM JLL259
+[DELETED:       A A  T D  B   S c C E  S   1  T D   1  A   ( §   ( m    (]
+[DELETED: S2 0    (    (    (   ( m m a c m   ( f    (    (    (    (    (   ( c e e w    ( l i h o d 1   ( w t r   ( g d   (]
+[DELETED: S3 0    ( t    ( d c   ( d o   ( a e v b   ( p b   ( p   ( i d    (     ( l p     (     (     (     ( u     ( l     (     ( l   (]
+[DELETED: S4 0 c e   ( c e   ( f     ( t     (    (     ( t s t     ( a    ( t o   ( t w d   ( s   1  (   ( c e d   ( a d]
+[DELETED: S5 0 e   ( c e d n   ( o t a   ( e e f    ( ( o   ( a i   ( f a    ( (     ( d     ( a m  ( s d   ( r a]
+[DELETED: S6 0   ( r a  S   1  ( o m  ( b m  ( d t  ( c   1  ( b   ( t b e   ( p   ( a  ( u   ( d   (   (]
+[DELETED: S7 0 b i   1 d  ( e   ( e p   ( s p    ( s     ( i     ( t e p d  ( t d 1 a   1  (   (   ( n   ( d   (]
+[DELETED: S8 0 d   (   (   ( d  ( m    ( a    ( a    ( c a    (    (   ( m    (    ( d   ( c d d a c a u    ( d    (    (    ( d    (]
+[DELETED: S9 0 d   ( s f   1  ( m t   ( a   ( a   ( p   (   (  ( u r d   1  ( e e d   ( c d d t e e o b]
+[DELETED: S1 0    ( d    (    (    ( d    ( d  ( r e d  ( r a e   1  (   ( c c a i g   ( d e  ( c c   (   ( a  ( b]
+[DELETED: S1 0 b   (   ( a p   1  P s  S   1  ( c  ( f   ( d e   ( d i  ( b  ( d  ( c p d   1  ( s    (]
+[DELETED: S1 0 m    ( c    ( c c   ( d p    ( m (  ( f d    ( w    ( d   ( d d d r m t m d  (    (    (   ( d    (    ( y]
+[DELETED: S1 0    ( y  ( f   1  (   ( h   ( p v  ( r f c   1  (   ( g d   ( s   ( m e d   ( g w   ( d s   ( d]
+[DELETED: S1 0 e e    ( o     (     ( e  (   ( e b   ( t   ( e d   ( p d   (   ( s d    ( n i f o  ( i   1  ( q  ( b]
+[DELETED: S1 0 d   ( e    (    ( e    ( I  ( d   1  ( o g I t r  ( n b d   1  ( s f   ( s d r  ( o d t ]
+[DELETED: S1 0  1 r  ( d   ( f   ( s d   ( t o o  ( e c l r   ( d l d   ( s  ( r s   ( d d   ( t d o  ( m]
+[DELETED: S1 0 d  (   ( f e   ( e f  (  S   1  ( w o   (   (   ( 4   ( 4   (  (   ( s   (  ( w  ( u   ( i e   ( d]
+[DELETED: S1 0 f   1  ( f  ( d   ( t   ( o i  ( t i    ( p     ( d w     ( a c    ( d   ( b a  ( p p u  ( t t d]
+[DELETED: S1 0   1 a  ( d t  ( d   ( s t   ( s   ( t d d  ( t    ( s d     ( r t     ( a c    ( d   ( i s  ( w s]
+[DELETED: S2 0   ( s u  ( i t t d   1  ( e r t   ( p u  ( t  ( c  ( c    (    ( m   ( a t p a o e   1  (]
+[DELETED: S2 0 e r s   ( s u  ( a  ( c  ( s    (    ( m   ( a a e a a a   1  ( a e   ( ( t d  ( n p  ( b]
+[DELETED: S2 0 p t n   ( a p t t d p   1  ( a e   ( o s t  ( a t  ( b s s t d   ( a ( t a a a ]
+[DELETED: S2 0  1 a  ( e d d d   ( e p d d   ( t d r    ( s c  ( e d d   ( p a   ( t d r    ( s c  (   ( d]
+[DELETED: S2 0 t   ( c t d  S   1  ( d f p c a  ( u d  ( c t   1  (   ( d   ( d l   (  ( f p d   ( m]
+[DELETED: S2 0 t   ( s p   ( s s  ( t a c  ( a r t  ( i r t o   1  ( b p f o  ( r o   ( t c t w s]
+[DELETED: S2 0  ( a o p   1  ( b a r l r  ( s r l a w u  S I   1  ( d i d d e  ( i r s   1]
+[DELETED: S2 0  ( s d a c d  ( s l c a b   ( c a e  ( s a w  ( t d t t   ( i n  ( r a b t g   1]
+[DELETED: S2 0  ( t d o   (   ( p   ( p  (   (   (    ( t    ( p    (  ( a d t c   1  ( t a t a l  ( t   ( o   (    (]
+[DELETED: S2 0 t    (  S   1  ( d d a  ( t r f f  ( d  ( o c   1  ( t o  ( u a   ( u e f a d  (   (]
+[DELETED: S3 0    ( s    ( p   (    ( s    ( o   1  ( s e e p a  ( s   ( b (   ( b t   ( b (  ( e a  ( s a  ( u]
+[DELETED: S3 0   ( a    ( s s s d    ( g p s e   ( f m u   ( l t  ( e p   ( t    ( u    ( d   S  T S r   ]
+
+
+================================================================================
+
+Raw Text:
+Stricken language would be deleted from and underlined language would be added to present law.
+1 State of Arkansas
+A Bill
+2 95th General Assembly
+3 Regular Session, 2025 SENATE BILL 647
+4
+5 By: Senator J. Dismang
+6 By: Representative Beaty Jr.
+7
+For An Act To Be Entitled
+8
+9 AN ACT TO CREATE THE ECONOMIC DEVELOPMENT DISTRICT
+10 ACT OF 2025; AND FOR OTHER PURPOSES.
+11
+12
+Subtitle
+13
+14 TO CREATE THE ECONOMIC DEVELOPMENT
+15 DISTRICT ACT OF 2025.
+16
+17 BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF ARKANSAS:
+18
+19 SECTION 1. Arkansas Code Title 14 is amended to add an additional
+20 chapter to read as follows:
+21 CHAPTER 177
+22 ECONOMIC DEVELOPMENT DISTRICT ACT OF 2025
+23
+24 Subchapter 1 — General Provisions
+25
+26 14-177-101. Title.
+27 This chapter shall be known and may be cited as the “Economic
+28 Development District Act of 2025”.
+29
+30 14-177-102. Definitions.
+31 As used in this chapter:
+32 (1) “Alcoholic beverage sales tax” means the taxes levied under
+33 §§ 3-7-201 and 3-9-213;
+34 (2) “Available funds” means revenues, grant funds, and other
+35 moneys received by an economic development district minus:
+36 (A) The property charge baseline;
+*JLL259*
+04/16/2025 9:25:56 AM JLL259
+
+SB647
+1 (B) The sales charge baseline;
+2 (C) Any reserved property charge; and
+3 (D) Any reserved sales charge;
+4 (3) “Cooperative area” means an area designed by one (1) or more
+5 municipalities, one (1) or more counties, or a combination of one (1) or more
+6 municipalities and one (1) or more counties operating under a written
+7 agreement in which the participating municipalities or participating
+8 counties, or both, agree to establish an economic development district by
+9 mutually adopting a formation charter;
+10 (4) “Economic development” means one (1) or more of the
+11 following:
+12 (A) Job creation;
+13 (B) Job retention;
+14 (C) Job attraction;
+15 (D) Economic growth; and
+16 (E) Economic diversification;
+17 (5)(A) “Economic development construction” means the process of
+18 constructing, improving, modifying, or removing improvements within an
+19 economic development district for purposes that directly contribute to the
+20 economic development goals of the economic development district in accordance
+21 with the economic development plan.
+22 (B) “Economic development construction” includes without
+23 limitation manufacturing, technology, research and development, business
+24 incubators, retail, entertainment, housing, healthcare, restaurants,
+25 hospitality, childcare, energy production, infrastructure projects, and any
+26 other type of venture or facility that the board of an economic development
+27 district determines is beneficial to an economic development district under §
+28 14-177-304;
+29 (6) “Economic development district” means a designated area
+30 within a municipality, county, or cooperative area that is established under
+31 this chapter to promote, facilitate, or secure economic development and
+32 revitalization within the designated area;
+33 (7) “Economic development plan” means a document detailing the
+34 goals, strategies, and initiatives to be undertaken to stimulate economic
+35 development within an economic development district;
+36 (8) “Establishing authority” means:
+2 04/16/2025 9:25:56 AM JLL259
+
+SB647
+1 (A) For a municipality or county, the governing body of
+2 the municipality or county; and
+3 (B) For a cooperative area, the group of persons
+4 designated for the cooperative area in the written agreement establishing the
+5 cooperative area;
+6 (9) “Formation charter” means the foundational governing
+7 document of the economic development district that establishes the formation
+8 of the economic development district under § 14-177-204;
+9 (10) “Property charge” means a monetary charge equal to what the
+10 applicable ad valorem property tax and special assessments would be if the
+11 economic development district did not exist, including any additional ad
+12 valorem-based charge equal to an additional millage rate assessed by the
+13 board of an economic development district;
+14 (11) “Property charge baseline” means an amount equal to a
+15 property’s ad valorem property tax and special assessments due the year
+16 before the property became part of an economic development district;
+17 (12) “Property charge increment” means the amount by which the
+18 property charge exceeds the property charge baseline;
+19 (13)(A) “Public infrastructure” means a facility, service, or
+20 installation that is useful for the operation and growth of an economic
+21 development district.
+22 (B) “Public infrastructure” includes without limitation:
+23 (i) A transportation system, including without
+24 limitation a road, a trail, lighting, a traffic signal, a sidewalk, and
+25 parking;
+26 (ii) Demolition;
+27 (iii) A public safety measure;
+28 (iv) Stormwater drainage;
+29 (v) A utility, including without limitation a water
+30 utility, a sewer utility, an electric power utility, and a gas utility;
+31 (vi) Digital infrastructure, including without
+32 limitation broadband and telecommunications infrastructure;
+33 (vii) Energy production; and
+34 (viii) Green infrastructure, including without
+35 limitation parks, green spaces, and renewable energy systems;
+36 (14) "Reserved property charge” means the portion of a property
+3 04/16/2025 9:25:56 AM JLL259
+
+SB647
+1 charge, if any, in excess of the property charge baseline reserved by an
+2 establishing authority in the formation charter;
+3 (15) “Reserved sales charge” means the portion of a sales
+4 charge, if any, in excess of the sales charge baseline reserved by an
+5 establishing authority in the formation charter;
+6 (16)(A) “Sales charge” means a monetary charge equal to what the
+7 following taxes would be if the economic development district did not exist:
+8 (i) Sales and use tax, including without limitation
+9 the taxes levied under Title 26, Chapters 52, 53, 74, and 75; and
+10 (ii) Alcoholic beverage sales tax.
+11 (B) “Sales charge” includes:
+12 (i) The sales and use tax on a transaction in which
+13 the end-user or purchaser takes possession of tangible personal property,
+14 specified digital products, or a digital code or makes the first use of a
+15 taxable service; and
+16 (ii) Any additional percentage-based charge equal to
+17 an additional rate assessed by the board of an economic development district.
+18 (C) “Sales charge” does not include any tax applicable to
+19 the possession of tangible personal property by a shipping company on behalf
+20 of a purchaser;
+21 (17) “Sales charge baseline” means the amount of sales and use
+22 tax and alcoholic beverage sales tax generated from transactions occurring
+23 within a property the year before the property became part of an economic
+24 development district; and
+25 (18) “Sales charge increment” means the amount by which the
+26 sales charge exceeds the sales charge baseline.
+27
+28 14-177-103. Assistance from Department of Commerce.
+29 (a) The Department of Commerce shall:
+30 (1) Provide ongoing support and assistance to municipalities,
+31 counties, cooperative areas, and economic development districts in the
+32 establishment, management, and strategic development of economic development
+33 districts;
+34 (2) Allocate resources, including without limitation expert
+35 advice, administrative guidance, and access to state-level economic
+36 development tools, to assist municipalities, counties, cooperative areas, and
+4 04/16/2025 9:25:56 AM JLL259
+
+SB647
+1 economic development districts;
+2 (3) Offer technical assistance to assist municipalities,
+3 counties, and cooperative areas in drafting an initial proposal to form an
+4 economic development district, defining the boundaries of a proposed economic
+5 development district, and conducting the economic and impact assessments
+6 necessary for the establishment of an economic development district;
+7 (4) Provide training programs for municipality and county
+8 officials and members of a board of an economic development district on
+9 topics that include economic development strategies, financial management,
+10 and grant administration;
+11 (5)(A) Assist in setting up systems for monitoring and
+12 evaluating the performance of an economic development district to ensure that
+13 each economic development district meets the economic development objectives
+14 for the economic development district.
+15 (B) To facilitate meeting the requirements of subdivision
+16 (a)(5)(A) of this section, the department shall maintain an online repository
+17 of projects that includes publicly available information about each project;
+18 (6) Assist economic development districts in establishing clear
+19 and effective grant application processes to ensure transparency and fairness
+20 in the distribution of funds under this chapter; and
+21 (7)(A) Provide guidance to economic development districts on
+22 financial oversight practices to ensure that all grant funds are used
+23 appropriately and effectively.
+24 (B) To facilitate meeting the requirements of subdivision
+25 (a)(7)(A) of this section, the department may:
+26 (i) Review and conduct audits of any economic
+27 development district; and
+28 (ii) Adopt appropriate rules to promote the orderly
+29 administration of economic development districts and prevent malfeasance,
+30 mismanagement, or fraud in the operation of an economic development district.
+31 (b) To compensate the department for its obligations under this
+32 section, each board of an economic development district shall remit to the
+33 department the following:
+34 (1) Two percent (2%) of the property charge increment, minus the
+35 reserved property charge, received by the economic development district
+36 annually; and
+5 04/16/2025 9:25:56 AM JLL259
+
+SB647
+1 (2) Two percent (2%) of the sales charge increment, minus the
+2 reserved sales charge, received by the economic development district
+3 annually.
+4
+5 Subchapter 2 — Economic Development Districts — Creation and Termination
+6
+7 14-177-201. Authorization to establish economic development district.
+8 (a) A municipality, county, or cooperative area may establish one (1)
+9 or more economic development districts within the boundaries of the
+10 municipality, county, or cooperative area.
+11 (b) A county may establish an economic development district within the
+12 boundaries of a municipality only with consent of the mayor of the
+13 municipality.
+14 (c) A municipality may use county tax revenues for an economic
+15 development district only with the consent of the county judge of the county
+16 that levied the tax.
+17 (d) An economic development district is not required to have
+18 contiguous boundaries.
+19
+20 14-177-202. Proposal to create economic development district.
+21 (a) The creation of an economic development district may be proposed
+22 by the:
+23 (1) Delivery of a proposal signed by the owners of at least
+24 twenty-five percent (25%) of the assessed value of the property within the
+25 boundaries of the proposed economic development district to the proposed
+26 establishing authority;
+27 (2) Delivery of a proposal by a mayor or county judge to the
+28 proposed establishing authority; or
+29 (3) Creation of a proposal by the proposed establishing
+30 authority.
+31 (b) A proposal for the creation of an economic development district
+32 under this section shall include:
+33 (1) A map of the boundaries of the proposed economic development
+34 district;
+35 (2) A preliminary economic development plan; and
+36 (3) An assessment of the current economic conditions within the
+6 04/16/2025 9:25:56 AM JLL259
+
+SB647
+1 boundaries of the proposed economic development district and the expected
+2 impact of the proposed economic development district.
+3
+4 14-177-203. Approval process for establishment of economic development
+5 district.
+6 (a) An establishing authority considering the creation of a proposed
+7 economic development district under this subchapter shall:
+8 (1) Conduct a public hearing on the creation of the proposed
+9 economic development district within ninety (90) days after receiving a
+10 proposal under this subchapter; and
+11 (2)(A) Provide notice of the public hearing required under
+12 subdivision (a)(1) of this section at least thirty (30) days before the
+13 public hearing.
+14 (B) Notice provided under subdivision (a)(2)(A) of this
+15 section shall be:
+16 (i) Published in a newspaper of general circulation
+17 in the proposed economic development district; or
+18 (ii) Provided by means of public notification other
+19 than a newspaper of general circulation that is authorized by the
+20 establishing authority and reasonably calculated to provide notice to
+21 property owners within the boundaries of the proposed economic development
+22 district.
+23 (b) After holding the public hearing required under subsection (a) of
+24 this section, an establishing authority may create an economic development
+25 district by approving a formation charter that meets the requirements of §
+26 14-177-204 by the adoption of an ordinance by a majority vote of the present
+27 and participating members of the establishing authority.
+28
+29 14-177-204. Formation charter — Amendment.
+30 (a) A formation charter shall include:
+31 (1) The boundaries of the economic development district;
+32 (2) The term of the economic development district, which shall
+33 not exceed thirty (30) years;
+34 (3) The economic development plan for the economic development
+35 district;
+36 (4) The number of members of the board of the economic
+7 04/16/2025 9:25:56 AM JLL259
+
+SB647
+1 development district;
+2 (5) Any reserved property charge;
+3 (6) Any reserved sales charge; and
+4 (7) Any restrictions on the powers of the board of the economic
+5 development district.
+6 (b)(1) The establishing authority for an economic development district
+7 may amend the formation charter upon the petition of the:
+8 (A) Mayor of the municipality governed by the establishing
+9 authority;
+10 (B) County judge of a county governed by the establishing
+11 authority;
+12 (C) Mayor of any municipality or the county judge of any
+13 county participating in a cooperative area governed by the establishing
+14 authority;
+15 (D) Board of the economic development district; or
+16 (E) Establishing authority.
+17 (2) An amendment to a formation charter under this subsection
+18 may expand or contract the:
+19 (A) Boundaries of the economic development district; or
+20 (B) Authority granted to the board of the economic
+21 development district.
+22 (3) If an economic development district is party to an executory
+23 contract or has outstanding bonds secured by revenue of the economic
+24 development district, the establishing authority for the economic development
+25 district shall not amend the formation charter to do any of the following in
+26 a manner that would reasonably impair the performance of the executory
+27 contract or the repayment of the outstanding bonds, unless the establishing
+28 authority agrees to assume the economic development district’s obligations
+29 under the executory contract or the repayment of the outstanding bonds:
+30 (A) Reduce the boundaries of the economic development
+31 district;
+32 (B) Increase the reserved property charge;
+33 (C) Increase the reserved sales charge;
+34 (D) Decrease the term of the economic development
+35 district; or
+36 (E) Modify the powers of the board of the economic
+8 04/16/2025 9:25:56 AM JLL259
+
+SB647
+1 development district.
+2 (4) A petition to amend a formation charter under this
+3 subsection is subject to the same approval process and requirements provided
+4 for the establishment of an economic development district under § 14-177-203.
+5
+6 14-177-205. Renewal of term of economic development district.
+7 (a) The establishing authority for an economic development district
+8 may renew the economic development district for successive terms of up to
+9 thirty (30) years each upon the petition of the:
+10 (1) Mayor of the municipality governed by the establishing
+11 authority;
+12 (2) County judge of a county governed by the establishing
+13 authority;
+14 (3) Mayor of any municipality or the county judge of any county
+15 participating in a cooperative area governed by the establishing authority;
+16 (4) Board of the economic development district; or
+17 (5) Establishing authority.
+18 (b) A petition to renew the term of an economic development district
+19 under this subsection is subject to the same approval process and
+20 requirements provided for the establishment of an economic development
+21 district under § 14-177-203.
+22
+23 14-177-206. Termination of economic development district.
+24 (a)(1) Except as provided in subdivision (a)(2) of this section, the
+25 establishing authority of an economic development district may terminate the
+26 economic development district upon the petition of the board of the economic
+27 development district or by revoking the formation charter.
+28 (2) If an economic development district is party to an executory
+29 contract or has outstanding bonds secured by revenue of the economic
+30 development district, the establishing authority for the economic development
+31 district shall not terminate the economic development district to do any of
+32 the following in a manner that would reasonably impair the performance of the
+33 executory contract or the repayment of the outstanding bonds, unless the
+34 establishing authority agrees to assume the economic development district’s
+35 obligations under the executory contract or the repayment of the outstanding
+36 bonds:
+9 04/16/2025 9:25:56 AM JLL259
+
+SB647
+1 (A) Reduce the boundaries of the economic development
+2 district;
+3 (B) Increase the reserved property charge;
+4 (C) Increase the reserved sales charge;
+5 (D) Decrease the term of the economic development
+6 district; or
+7 (E) Modify the powers of the board of the economic
+8 development district.
+9 (b) Upon termination of an economic development district, all assets
+10 remaining with the economic development district shall be turned over to the
+11 establishing authority to be used for the purposes stated in the economic
+12 development plan for the economic development district.
+13 (c) A petition to terminate an economic development district and the
+14 revocation of a formation charter under this section are subject to the same
+15 approval process and requirements provided for the establishment of an
+16 economic development district under § 14-177-203.
+17
+18 14-177-207. Cooperative areas.
+19 (a) An agreement creating a cooperative area may allocate the:
+20 (1) Property charge baseline, reserved property charge, sales
+21 charge baseline, and reserved sales charge among the municipalities and
+22 counties participating in the economic development district based on an
+23 agreed-upon percentage allocation of the entire economic development district
+24 instead of basing the revenue on the physical nexus from where the revenue is
+25 generated; and
+26 (2) Provision of governmental services within the economic
+27 development district among the taxing authorities participating in the
+28 economic development district.
+29 (b) The ad valorem property tax rate used to establish the property
+30 charge, property charge baseline, and property charge increment for a
+31 cooperative area shall be:
+32 (1) Uniform throughout the economic development district; and
+33 (2) Equal to the highest ad valorem tax of the municipalities
+34 and counties participating in the economic development district.
+35 (c) The percentage-based sales and use tax rate and the alcoholic
+36 beverage sales tax rate used to establish the sales charge, sales charge
+10 04/16/2025 9:25:56 AM JLL259
+
+SB647
+1 baseline, and sales charge increment for a cooperative area shall be:
+2 (1) Uniform throughout the economic development district; and
+3 (2) Equal to the highest sales and use tax rate and the
+4 alcoholic beverage sales tax rate of the municipalities and counties
+5 participating in the economic development district.
+6
+7 14-177-208. Annexation prohibited.
+8 Property within the boundaries of an economic development district
+9 shall not be involuntarily annexed into a municipality.
+10
+11 Subchapter 3 — Boards of Economic Development Districts
+12
+13 14-177-301. Board of economic development district generally.
+14 (a) An economic development district shall be governed by a board
+15 consisting of at least five (5) but not more than nine (9) members.
+16 (b) Except as provided in subsection (d) of this section, the
+17 formation charter shall provide that:
+18 (1) At least one (1) member of the board of the economic
+19 development district shall be a property owner or business owner within the
+20 economic development district; and
+21 (2) At least one (1) member of the board of the economic
+22 development district shall be an individual who holds no ownership interest
+23 in any property or business within the economic development district.
+24 (c) All members of the board of an economic development district shall
+25 be qualified electors of the establishing authority.
+26 (d) The establishing authority may serve as the board of the economic
+27 development district.
+28 (e) For a board of an economic development district established in a
+29 cooperative area, the agreement establishing the cooperative area shall
+30 provide for the allocation of members of the board of the economic
+31 development district among the participants of the cooperative area.
+32
+33 14-177-302. Appointment — Terms.
+34 (a)(1) The members of the board of an economic development district
+35 shall be appointed:
+36 (A) By the mayor if the establishing authority is a
+11 04/16/2025 9:25:56 AM JLL259
+
+SB647
+1 municipality;
+2 (B) By the county judge if the establishing authority is a
+3 county; and
+4 (C) As designated in the agreement establishing the
+5 cooperative area if the economic development district was established in a
+6 cooperative area.
+7 (2)(A) An appointee to a board of an economic development
+8 district is subject to confirmation by the establishing authority of the
+9 person making the appointment.
+10 (B) If an appointee is not ratified or rejected by a
+11 majority of the establishing authority present and participating within sixty
+12 (60) days of the appointment, the appointment is deemed to be rejected.
+13 (b)(1) Except as provided in subdivision (b)(2) of this section, the
+14 formation charter shall reserve a seat on the board of the economic
+15 development district for a person appointed by the:
+16 (A) Mayor of each municipality having corporate limits
+17 within the economic development district at the time of formation; and
+18 (B) County judge of each county in which the economic
+19 development district is located.
+20 (2) The establishing authority of an economic development
+21 district may elect not to provide a seat on the board of the economic
+22 development district to a municipality or county in which the economic
+23 development district is located if the formation charter designates a
+24 reserved property charge and a reserved sales charge in favor of the excluded
+25 municipality or county equal to the ad valorem property tax, sales and use
+26 tax, and alcoholic beverage sales tax that would have been received by the
+27 municipality or county but for the existence of the economic development
+28 district.
+29 (c)(1) A member of a board of an economic development district:
+30 (A) Shall serve a term of four (4) years; and
+31 (B) Is eligible for reappointment for additional terms.
+32 (2) Initial appointments to a board of an economic development
+33 district shall be staggered so that:
+34 (A) One (1) member serves an initial term of one (1) year;
+35 (B) One (1) member serves an initial term of two (2)
+36 years; and
+12 04/16/2025 9:25:56 AM JLL259
+
+SB647
+1 (C) One (1) member serves an initial term of three (3)
+2 years.
+3 (d) A vacancy on a board of an economic development district shall be
+4 filled in the same manner as provided for appointments under this section.
+5
+6 14-177-303. Conflicts of interest — Removal.
+7 (a) A member of a board of an economic development district shall:
+8 (1) Disclose any potential conflicts of interest arising from
+9 his or her duties on the board of the economic development district; and
+10 (2) Recuse from any decisions in which a conflict of interest is
+11 present unless the conflict of interest is disclosed and waived by a majority
+12 vote of the other members of the board of the economic development district.
+13 (b) A member of a board of an economic development district may be
+14 removed by the establishing authority for the economic development district
+15 for cause, including without limitation nonperformance, malfeasance, or
+16 conflict of interest.
+17
+18 14-177-304. Powers and duties.
+19 (a) The board of an economic development district shall:
+20 (1) Develop and approve a strategic plan outlining the vision,
+21 goals, and strategies for economic development within the economic
+22 development district;
+23 (2) Annually review and update the strategic plan approved under
+24 subdivision (a)(1) of this section;
+25 (3) Approve an annual budget and oversee the financial
+26 management of the economic development district, ensuring that funds are used
+27 efficiently and aligned with the strategic plan of the economic development
+28 district;
+29 (4) Oversee the distribution of grant funds, ensuring that all
+30 grants align with the economic development district's objectives and comply
+31 with established criteria for the grants;
+32 (5) Establish and monitor performance metrics for the economic
+33 development district’s initiatives and use the data obtained to guide the
+34 strategic decisions of the board of the economic development district; and
+35 (6)(A) Prepare an annual report detailing the economic
+36 development district’s financial status, progress toward the goals of the
+13 04/16/2025 9:25:56 AM JLL259
+
+SB647
+1 economic development district, and ongoing and planned activities of the
+2 economic development district.
+3 (B) The annual report prepared under subdivision (a)(6)(A)
+4 of this section shall be:
+5 (i) Made publicly available; and
+6 (ii) Presented to the establishing authority of the
+7 economic development district.
+8 (b) The board of an economic development district may:
+9 (1) Exercise zoning and land use planning authority within the
+10 economic development district in accordance with rules established by the
+11 board of the economic development district;
+12 (2) Reduce or waive franchise fees as an incentive for utilities
+13 to provide or enhance services within the economic development district;
+14 (3) Determine that a venture or facility is beneficial to the
+15 economic development district if the venture or facility promotes economic
+16 development;
+17 (4) Enter into and enforce contracts in accordance with the
+18 procurement requirements of the establishing authority of the economic
+19 development district;
+20 (5) Acquire, hold, and possess real and personal property; and
+21 (6)(A) Except as provided in subdivision (b)(6)(B) of this
+22 section, exercise any lawful powers not denied the economic development
+23 district by the formation charter.
+24 (B) The board of an economic development district shall
+25 not exercise the powers granted under this section in a manner that adversely
+26 impairs any outstanding debt obligations that are specifically secured by
+27 fees and charges or that would reasonably impair the repayment of an
+28 outstanding bond.
+29 (c) A board of an economic development district has the powers stated
+30 in this section unless specifically restricted under the formation charter.
+31
+32 14-177-305. Meetings of board of economic development district.
+33 (a) A board of an economic development district shall meet at least
+34 quarterly but may meet more frequently as needed.
+35 (b)(1) A meeting of a board of an economic development district shall
+36 be open to the public, except when the board of the economic development
+14 04/16/2025 9:25:56 AM JLL259
+
+SB647
+1 district calls an executive session under subdivision (b)(2) of this section.
+2 (2) A board of an economic development district may call an
+3 executive session to discuss matters that:
+4 (A) Require confidentiality under state or federal law;
+5 (B) Require confidentiality under a contract to which the
+6 economic development district is a party; or
+7 (C) Constitute records that are exempt from the Freedom of
+8 Information Act of 1967, § 25-19-101 et seq.
+9 (c) Minutes of all meetings of a board of an economic development
+10 district shall be recorded and made available to the public.
+11
+12 14-177-306. Records exempt from disclosure.
+13 (a) Records of a board of an economic development district and records
+14 of employees of the economic development district that, if disclosed, would
+15 give an advantage to competitors or bidders are exempt from the Freedom of
+16 Information Act of 1967, § 25-19-101 et seq., unless approval for release of
+17 the records is granted by the business entity that is the subject of the
+18 records.
+19 (b) The exemption allowed under subsection (a) of this section does
+20 not apply to records of expenditures or grants that are made or administered
+21 by the board of the economic development district and are otherwise
+22 disclosable under this chapter.
+23
+24 14-177-307. Financial oversight and transparency.
+25 (a)(1) The financial operations of an economic development district
+26 shall be audited annually by an independent auditor to ensure proper use of
+27 funds and adherence to all legal requirements.
+28 (2) The audit report obtained under subdivision (a)(1) of this
+29 section shall be submitted to the establishing authority of the economic
+30 development district within ninety (90) days after receipt of the audit
+31 report by the board of the economic development district.
+32 (b) Financial records related to the economic development district’s
+33 operations, including the sources and uses of funds received by the economic
+34 development district, shall be accessible to the public to ensure
+35 transparency and accountability.
+36
+15 04/16/2025 9:25:56 AM JLL259
+
+SB647
+1 14-177-308. Authority to place economic development district in
+2 receivership — Appointment of receiver — Bankruptcy prohibited.
+3 (a) The establishing authority or the board of an economic development
+4 district may place the economic development district into receivership if:
+5 (1) The board of the economic development district fails to
+6 fulfill its duties or obligations under this chapter;
+7 (2) The economic development district becomes insolvent or lacks
+8 sufficient financial resources to meet the obligation of the economic
+9 development district; or
+10 (3) There is evidence of malfeasance, mismanagement, or fraud by
+11 the board of the economic development district that threatens the effective
+12 operation of the economic development district or the proper administration
+13 of the financial resources of the economic development district.
+14 (b)(1) The board of an economic development district or the
+15 establishing authority of the economic development district may petition the
+16 circuit court in the county where the economic development district is
+17 located for an order placing the economic development district into
+18 receivership.
+19 (2) A petition under subdivision (b)(1) of this section shall
+20 demonstrate the specific grounds for the receivership, including without
+21 limitation documentation of the failures of the board of the economic
+22 development district or the insolvency of the economic development district.
+23 (3) The circuit court receiving a petition filed under this
+24 subsection shall hear the petition on an expedited basis.
+25 (c) Upon the determination by a circuit court that grounds for
+26 receivership of an economic development district exist, the circuit court
+27 shall:
+28 (1) Appoint the establishing authority of the economic
+29 development district or its designee as the receiver of the economic
+30 development district; and
+31 (2) Grant the receiver full authority to suspend the board of
+32 the economic development district and administer the economic development
+33 district with all rights, privileges, and obligations conferred on the board
+34 of the economic development district under this chapter.
+35 (d) The establishing authority of the economic development district
+36 may replace any members of the board of the economic development district
+16 04/16/2025 9:25:56 AM JLL259
+
+SB647
+1 during the receivership.
+2 (e) A receivership authorized under this section shall:
+3 (1) Continue until the economic development district is able to
+4 fulfill its statutory and financial obligations, as determined by the
+5 establishing authority of the economic development district; and
+6 (2) End upon petition by the establishing authority of the
+7 economic development district to the circuit court certifying that the need
+8 for the receivership has ended.
+9 (f) An economic development district shall not file for bankruptcy.
+10
+11 Subchapter 4 — Economic Development District Funding
+12
+13 14-177-401. Funds and use of funds.
+14 (a) Funding for grants, credits, or abatements under this chapter
+15 within an economic development district may be derived from any combination
+16 of the following sources:
+17 (1) The payment of a property charge under § 14-177-402;
+18 (2) The payment of a sales charge under § 14-177-403;
+19 (3) The payment of an additional property charge under § 14-177-
+20 406;
+21 (4) The payment of an additional sales charge under § 14-177-
+22 407; and
+23 (5) Public and private grants.
+24 (b) An economic development district may:
+25 (1) Solicit and accept grants and other funds from public
+26 sources; and
+27 (2) Accept contributions and donations from private sources.
+28 (c) An economic development district may pledge any available funds in
+29 whole or in part to the repayment of bond financing.
+30 (d) All available funds of an economic development district shall be
+31 used exclusively within the boundaries of the economic development district:
+32 (1) For economic development construction and public
+33 infrastructure in accordance with the economic development plan for the
+34 economic development district; or
+35 (2) To pay expenses necessary to accomplish the economic
+36 development goals of the economic development district as stated in the
+17 04/16/2025 9:25:56 AM JLL259
+
+SB647
+1 formation charter.
+2
+3 14-177-402. Property charge — Exemption from ad valorem taxation.
+4 (a) All property within an economic development district is exempt
+5 from the payment of ad valorem property taxes.
+6 (b)(1) Property located within the boundaries of an economic
+7 development district is subject to a property charge.
+8 (2) A property charge shall be collected at the same time and in
+9 the same manner as ad valorem property taxes.
+10 (3) Property that would be exempt from ad valorem property taxes
+11 outside of an economic development district is exempt from a property charge
+12 imposed by an economic development district.
+13 (c)(1) As long as property is within an economic development district,
+14 the county collector of the county in which the economic development district
+15 is located shall remit:
+16 (A) A pro rata portion of the property charge equal to the
+17 property charge baseline:
+18 (i) To the taxing authorities and improvement
+19 districts that would have received ad valorem property taxes if the property
+20 were not in an economic development district; or
+21 (ii) For a cooperative area, in accordance with the
+22 allocation agreed to by municipalities and counties participating in the
+23 cooperative area; and
+24 (B) Any remaining amount to the economic development
+25 district.
+26 (2) If the property charge is less than the property charge
+27 baseline in any year, the property charge baseline shall be reduced to the
+28 amount of the property charge actually received by the county collector.
+29 (d) A board of an economic development district may receive, spend,
+30 pledge, save, grant, allocate, or abate the property charge increment for
+31 property located within the boundaries of the economic development district
+32 unless specifically prohibited in the formation charter.
+33 (e) The failure to pay a property charge under this section is subject
+34 to the same remedies and enforcement as would otherwise apply to the failure
+35 to pay ad valorem property taxes if the property were not within an economic
+36 development district.
+18 04/16/2025 9:25:56 AM JLL259
+
+SB647
+1
+2 14-177-403. Sales charge — Exemption from sales and use tax and
+3 alcoholic beverage sales tax.
+4 (a) A sales transaction sourced within an economic development
+5 district is exempt from sales and use tax and the alcoholic beverage sales
+6 tax.
+7 (b)(1) A sales transaction sourced to property within an economic
+8 development district is subject to a sales charge.
+9 (2) A business operating within an economic development district
+10 shall collect and remit a sales charge to the economic development district
+11 that imposed the sales charge.
+12 (3) A sales charge shall be collected and administered at the
+13 same time and in the same manner as sales and use taxes.
+14 (4) A sales transaction that would be exempt from sales and use
+15 tax or the alcoholic beverage sales tax outside of an economic development
+16 district is exempt from a sales charge imposed by an economic development
+17 district.
+18 (c)(1) As long as property is within an economic development district,
+19 the Department of Finance and Administration shall remit:
+20 (A) A pro rata portion of the sales charge imposed on
+21 sales transactions sourced to property within the economic development
+22 district equal to the sales charge baseline:
+23 (i) To the taxing authorities that would have
+24 received sales and use taxes and alcoholic beverage sales taxes if the sales
+25 transaction had not occurred in an economic development district; or
+26 (ii) For a cooperative area, in accordance with the
+27 allocation agreed to by the municipalities and counties participating in the
+28 cooperative area; and
+29 (B) Any remaining amount to the economic development
+30 district.
+31 (2) If the sales charge is less than the sales charge baseline
+32 in any year, the sales charge baseline shall be reduced to the amount of the
+33 sales charge actually received by the department.
+34 (d)(1) The state is entitled to the portion of the sales charge that
+35 would have been received by the state if the sales transaction were not
+36 sourced to property within an economic development district.
+19 04/16/2025 9:25:56 AM JLL259
+
+SB647
+1 (2) The board of an economic development district may receive,
+2 spend, pledge, save, grant, allocate, or abate the sales charge increment
+3 unless specifically prohibited in the formation charter.
+4 (e) The failure to collect and remit a sales charge under this section
+5 is subject to the same remedies and enforcement as would otherwise apply to
+6 the failure to pay sales or use tax or the alcoholic beverage sales tax if
+7 the sales transaction were not sourced to property within an economic
+8 development district.
+9
+10 14-177-404. Reserved property charge — Allocation.
+11 (a)(1) Except as provided in subdivision (a)(2) of this section, the
+12 establishing authority for an economic development district may designate a
+13 reserved property charge in the formation charter as a percentage of the
+14 total property charge in excess of the property charge baseline.
+15 (2) A reserved property charge shall not include any additional
+16 property charge authorized by the board of an economic development district
+17 under § 14-177-406.
+18 (b) The formation charter may designate a reserved property charge
+19 that applies for only a specified time period.
+20 (c) A reserved property charge is invalid unless the reserved property
+21 charge is expressly provided for in the formation charter.
+22 (d)(1) If there is a reserved property charge, the reserved property
+23 charge shall be remitted in accordance with:
+24 (A) The allocation provided by the formation charter; or
+25 (B) For a cooperative area, the agreement of the
+26 municipalities and counties participating in the cooperative area.
+27 (2) Unless otherwise provided by agreement among the taxing
+28 authorities that would otherwise have received ad valorem property taxes if
+29 the economic development district did not exist, the formation charter shall
+30 provide that any reserved property charge be allocated among the taxing
+31 authorities in the same percentage as the ad valorem property taxes would
+32 otherwise have been allocated if the economic development district did not
+33 exist.
+34
+35 14-177-405. Reserved sales charge — Allocation.
+36 (a)(1) Except as provided in subdivision (a)(2) of this section, the
+20 04/16/2025 9:25:56 AM JLL259
+
+SB647
+1 establishing authority for an economic development district may designate a
+2 reserved sales charge in the formation charter as a percentage of the total
+3 sales charge in excess of the sales charge baseline.
+4 (2) A reserved sales charge shall not include any additional
+5 sales charge authorized by the board of an economic development district
+6 under § 14-177-407.
+7 (b) The formation charter may designate a reserved sales charge that
+8 applies for only a specified time period.
+9 (c) A reserved sales charge is invalid unless the reserved sales
+10 charge is expressly provided for in the formation charter.
+11 (d)(1) If there is a reserved sales charge, the reserved sales charge
+12 shall be remitted in accordance with:
+13 (A) The allocation provided by the formation charter; or
+14 (B) For a cooperative area, the agreement of the
+15 municipalities and counties participating in the cooperative area.
+16 (2) Unless otherwise provided by agreement among the taxing
+17 authorities that would otherwise have received sales and use taxes and
+18 alcoholic beverage sales tax if the economic development district did not
+19 exist, the formation charter shall provide that any reserved sales charge be
+20 allocated among the taxing authorities in the same percentage as the sales
+21 and use taxes and alcoholic beverage sales tax would otherwise have been
+22 allocated if the economic development district did not exist.
+23
+24 14-177-406. Additional property charge.
+25 (a)(1) The board of an economic development district may impose an
+26 additional millage rate-based charge on the value of property within the
+27 economic development district.
+28 (2) An additional property charge imposed under subdivision
+29 (a)(1) of this section shall be collected and allocated in the same manner as
+30 the property charge that applies to property within the economic development
+31 district.
+32 (b) The additional property charge allowed under this section shall
+33 not apply to property that would be exempt from ad valorem tax if the
+34 property were not located within an economic development district.
+35 (c)(1) Except as provided in subdivision (c)(2) of this section, a
+36 board of an economic development district shall not increase an additional
+21 04/16/2025 9:25:56 AM JLL259
+
+SB647
+1 property charge imposed under this section by more than ten percent (10%) of
+2 the millage rate that would have applied to the property if the property were
+3 not located in an economic development district.
+4 (2) A board of an economic development district may increase an
+5 additional property charge imposed under this section by more than ten
+6 percent (10%) of the millage rate that would have applied to the property if
+7 the property were not located in an economic development district if, at the
+8 time of the proposed increase, all property owners within the economic
+9 development district to which the additional property charge would apply
+10 provide written consent to the increase.
+11
+12 14-177-407. Additional sales charge.
+13 (a)(1) The board of an economic development district may impose an
+14 additional percentage-based charge on sales transactions occurring within the
+15 economic development district.
+16 (2) An additional sales charge imposed under subdivision (a)(1)
+17 of this section shall be collected and allocated in the same manner as the
+18 sales charge that applies to sales transactions sourced to property within
+19 the economic development district.
+20 (b) The additional sales charge allowed under this section shall not
+21 apply to sales transactions that would be exempt from sales and use taxes if
+22 the sales transaction did not occur within an economic development district.
+23 (c)(1) Except as provided in subdivision (c)(2) of this section, a
+24 board of an economic development district shall not increase an additional
+25 sales charge imposed under this section by more than ten percent (10%) of the
+26 sales and use tax rate that would have applied to the sales transaction if
+27 the sales transaction had not been sourced to property within an economic
+28 development district.
+29 (2) A board of an economic development district may increase an
+30 additional sales charge imposed under this section by more than ten percent
+31 (10%) of the sales and use tax rate that would have applied to the sales
+32 transaction if the sales transaction had not been sourced to property within
+33 an economic development district if, at the time of the proposed increase,
+34 all property owners within the economic development district to which the
+35 additional sales charge would apply provide written consent to the increase.
+36
+22 04/16/2025 9:25:56 AM JLL259
+
+SB647
+1 14-177-408. Cooperation of county officials and Department of Finance
+2 and Administration.
+3 (a)(1) A county assessor serving an area within the boundaries of an
+4 economic development district shall cooperate with the board of the economic
+5 development district to assess property within the economic development
+6 district for the amount of the property charge for the economic development
+7 district.
+8 (2) A county assessor shall calculate the property charge for an
+9 economic development district applying the same timing, methods, and
+10 penalties used to appraise and assess the property located in the economic
+11 development district that would apply if the property were not in an economic
+12 development district.
+13 (3)(A) A county assessor is entitled to any commission to which
+14 the county assessor would be entitled if the economic development district
+15 did not exist, based on the amount of the property charge baseline and the
+16 reserved property charge.
+17 (B) Any commission to which a county assessor is entitled
+18 shall be paid out of the property charge baseline and any reserved property
+19 charge.
+20 (b)(1) A county collector serving an area within the boundaries of an
+21 economic development district shall cooperate with the board of the economic
+22 development district to collect the property charge for the economic
+23 development district.
+24 (2) A county collector shall apply the same timing, methods, and
+25 penalties used for the collection of the property charge that would be
+26 applicable if the property were not in an economic development district.
+27 (3)(A) A county collector is entitled to any commission to which
+28 the county collector would be entitled if the economic development district
+29 did not exist, based on the amount of the property charge baseline and any
+30 reserved property charge.
+31 (B) Any commission to which a county assessor is entitled
+32 shall be paid out of the property charge baseline and any reserved property
+33 charge.
+34 (c) The Department of Finance and Administration shall:
+35 (1) Receive and collect the sales charge for an economic
+36 development district from all retailers and persons responsible for paying
+23 04/16/2025 9:25:56 AM JLL259
+
+SB647
+1 the sales charge within the economic development district; and
+2 (2) Apply the same timing, methods, and penalties for the
+3 collection of the sales charge that would be applicable if the sales
+4 transaction were not sourced to property within an economic development
+5 district.
+6
+7 Subchapter 5 — Economic Development District Grants
+8
+9 14-177-501. Authorization for grants.
+10 (a) The formation charter may authorize the board of an economic
+11 development district to provide assistance in the form of grants of
+12 forgivable loans or transferable credits against future payments of the
+13 property charge for the economic development district above the property
+14 charge baseline or the sales charge for the economic development district
+15 above the sales charge baseline, or both.
+16 (b) The board of an economic development district may waive or reduce
+17 utility franchise fees that would have otherwise been due within the economic
+18 development district.
+19 (c) The board of an economic development district may make payments of
+20 cash for economic development construction and public infrastructure within
+21 the economic development district.
+22
+23 14-177-502. Grant eligibility and terms.
+24 (a) A grant under this subchapter may be made available only to:
+25 (1) An owner of property within the boundaries of an economic
+26 development district;
+27 (2) A tenant of property within the boundaries of an economic
+28 development district if the tenant has a lease term that extends beyond the
+29 loan forgiveness period under the grant; or
+30 (3) A public or franchised utility service provider.
+31 (b)(1) A grant may be awarded under this subchapter in the form of a
+32 forgivable loan in an amount based on the scope and expected impact of the
+33 proposed project, as evaluated and determined by the board of the economic
+34 development district.
+35 (2) A grant awarded under this subchapter as a forgivable loan
+36 may be structured so that some or all of the amount due may be forgiven if
+24 04/16/2025 9:25:56 AM JLL259
+
+SB647
+1 the conditions of the grant are met.
+2 (3) The interest rate for a forgivable loan granted under this
+3 subchapter may be below market or zero percent (0%) to encourage uptake and
+4 project initiation.
+5 (4) The board of an economic development district may require
+6 security for the repayment of a forgivable loan granted under this
+7 subchapter.
+8 (c) A grant may be awarded under this subchapter in the form of
+9 transferable credits useable against future payments of the property charge
+10 above the property charge increment or the sales charge above the sales
+11 charge increment, or both.
+12 (d) The recipient of a grant under this subchapter shall submit an
+13 annual report to the board of the economic development district detailing the
+14 recipient's progress toward meeting the criteria for the forgivable loan or
+15 transferable credits awarded under the grant.
+16 (e) The board of an economic development district may employ an
+17 independent review committee or third-party auditor to verify that a
+18 recipient of a grant awarded under this subchapter has met the criteria for
+19 the grant before approving forgiveness of the loan or additional allocation
+20 of transferable credits.
+21
+22 14-177-503. Grant application process.
+23 (a) An applicant for a grant under this subchapter shall submit to the
+24 board of the economic development district a detailed proposal outlining the
+25 proposed project, the expected outcomes of the proposed project, the budget
+26 for the proposed project, and the alignment of the proposed project with the
+27 objectives of the economic development district.
+28 (b)(1) A grant awarded under this subchapter is contingent on the
+29 recipient's meeting predefined performance targets established by the board
+30 of the economic development district.
+31 (2) The predefined performance targets for a grant awarded in
+32 the form of transferable credits shall be based on any combination of job
+33 creation, job retention, average salary increases, investment of funds other
+34 than grant funds received from the economic development district and spent
+35 within the economic development district, and the provision of specific
+36 services or amenities within the economic development district.
+25 04/16/2025 9:25:56 AM JLL259
+
+SB647
+1 (c) The board of an economic development district shall review an
+2 application submitted under this section and evaluate the application based
+3 on the strategic fit, potential impact, and feasibility of the proposed
+4 project.
+5
+6 14-177-504. Reporting requirement.
+7 (a) A recipient of a grant under this subchapter shall submit to the
+8 board of the economic development district that awarded the grant an annual
+9 accounting of the use of the grant funds and an annual report detailing the
+10 recipient's compliance with the terms of the grant, including without
+11 limitation updates on investment levels, employment figures, and other
+12 relevant performance-based criteria.
+13 (b) The failure of a recipient of a grant awarded under this
+14 subchapter to meet the agreed-upon terms of the grant may result in the
+15 recapture of benefits received under the grant, repayment of any disbursed
+16 loan funds, renegotiation of any loan terms, or other remedies deemed
+17 appropriate by the board of the economic development district, including
+18 without limitation foreclosure of the security for a forgivable loan awarded
+19 under this subchapter.
+20
+21 Subchapter 6 — Abatement of Property Charge Increment or Sales Charge
+22 Increment
+23
+24 14-177-601. Abatement authorized.
+25 (a) The formation charter may authorize the board of the economic
+26 development district to grant temporary abatement of the property charge
+27 increment or the sales charge increment, or both, to eligible businesses and
+28 developers within the economic development district to promote economic
+29 development, attract investments, mitigate blight, and increase or retain
+30 employment opportunities.
+31 (b) Abatement of the property charge increment or the sales charge
+32 increment, or both, under this subchapter may take the form of a freeze or
+33 reduction in the future assessment of the property charge increment or the
+34 sales charge increment, or both.
+35
+36 14-177-602. Eligibility and terms for abatement.
+26 04/16/2025 9:25:56 AM JLL259
+
+SB647
+1 (a) To qualify for abatement of the property charge increment or the
+2 sales charge increment, or both, under this subchapter, an applicant shall
+3 demonstrate to the board of the economic development district that the
+4 applicant's business or project will contribute to or facilitate job
+5 creation, job retention, job attraction, economic growth, or economic
+6 diversification within the economic development district.
+7 (b)(1) Criteria for abatement of the property charge increment or the
+8 sales charge increment, or both, under this subchapter may include without
+9 limitation the scale of the investment by the applicant, the number of jobs
+10 created or retained by the applicant, the longevity and sustainability of the
+11 applicant's business, and the strategic importance of the applicant's
+12 business to the economic objectives of the economic development district.
+13 (2) Abatement of the property charge increment or the sales
+14 charge increment, or both, under this subchapter may also be granted to
+15 applicants whose business or project is complimentary to the goals of the
+16 economic development district.
+17 (c) An applicant for abatement of the property charge increment or the
+18 sales charge increment, or both, under this subchapter shall not be granted
+19 an abatement under this subchapter unless the applicant is in good standing
+20 with the State of Arkansas.
+21 (d)(1) The terms of an abatement of the property charge increment or
+22 the sales charge increment, or both, under this subchapter, including the
+23 duration and percentage of the abatement, shall be determined by the board of
+24 the economic development district based on the expected economic impact of
+25 the applicant's proposed business or project.
+26 (2) The duration of any abatement of the property charge
+27 increment or the sales charge increment, or both, under this subchapter shall
+28 not exceed thirty (30) years.
+29 (e) The board of an economic development district may require periodic
+30 reviews of a business or project for which an applicant has been granted an
+31 abatement of the property charge increment or the sales charge increment, or
+32 both, under this subchapter to ensure that the business or project continues
+33 to meet the eligibility criteria established at the time the abatement was
+34 granted.
+35
+36 14-177-603. Application process for abatement — Agreement.
+27 04/16/2025 9:25:56 AM JLL259
+
+SB647
+1 (a) An applicant seeking abatement of the property charge increment or
+2 the sales charge increment, or both, under this subchapter shall submit a
+3 detailed proposal to the board of the economic development district
+4 outlining:
+5 (1) The nature of the proposed business or project;
+6 (2) The expected economic benefits of the proposed business or
+7 project; and
+8 (3) A justification for the request for abatement of the
+9 property charge increment or the sales charge increment, or both.
+10 (b) The board of an economic development district shall:
+11 (1) Review all applications submitted under this section; and
+12 (2) Determine whether to approve each application based on the:
+13 (A) Strategic fit of the proposed business or project with
+14 the goals of the board of the economic development district;
+15 (B) Potential economic benefit of the proposed business or
+16 project to the economic development district; and
+17 (C) Any other criteria as provided in § 14-177-602.
+18 (c) If a board of an economic development district approves an
+19 application submitted under this section, the board of the economic
+20 development district and the applicant shall execute an agreement concerning
+21 the terms of the abatement of the property charge increment or the sales
+22 charge increment, or both, under this subchapter.
+23
+24 14-177-604. Reporting requirement.
+25 (a) A recipient of an abatement of the property charge increment or
+26 the sales charge increment, or both, under this subchapter shall submit an
+27 annual report to the board of the economic development district that awarded
+28 the abatement detailing the recipient's compliance with the terms of the
+29 abatement agreement, including without limitation updates on investment
+30 levels, employment figures, and other relevant performance-based criteria.
+31 (b) The failure of a recipient of an abatement under this subchapter
+32 to meet the agreed-upon terms of the abatement may result in the:
+33 (1) Revocation of the abatement of the property charge increment
+34 or the sales charge increment, or both; and
+35 (2) Board of the economic development district's requiring:
+36 (A) Repayment of the abated property charge increment and
+28 04/16/2025 9:25:56 AM JLL259
+
+SB647
+1 the sales charge increment; or
+2 (B) Payment of any performance security.
+3
+4 Subchapter 7 — Economic Development District Bonds
+5
+6 14-177-701. Issuance of bonds — Terms and conditions.
+7 (a) The formation charter may authorize the board of the economic
+8 development district being formed to issue bonds to finance economic
+9 development construction within the economic development district in
+10 accordance with the economic development plan.
+11 (b) The board of an economic development district shall determine the
+12 terms of bonds issued under this subchapter, including the maturity, interest
+13 rate, and repayment schedule for the bonds, based on the projected cash flow
+14 from available funds and the financial needs of the projects proposed to be
+15 funded by the bonds.
+16 (c) A two-thirds majority vote of the board of an economic development
+17 district is required to approve bonds issued under this subchapter.
+18 (d) Approval for the issuance of bonds from the establishing authority
+19 of the economic development district may be included in the formation
+20 charter.
+21
+22 14-177-702. Repayment of bonds — Oversight.
+23 (a) The repayment of bonds issued under this subchapter may be funded
+24 through, paid for, and secured by available funds as determined by the board
+25 of the economic development district.
+26 (b)(1) Available funds may be pledged as security for bonds issued
+27 under this subchapter to allow the economic development district to use the
+28 available funds to service debt obligations related to the bonds.
+29 (2) If available funds are pledged for the repayment of bonds
+30 under this subsection, the board of an economic development district shall
+31 establish a detailed plan demonstrating the sufficiency of the available
+32 funds to cover debt service requirements while maintaining the operational
+33 and developmental objectives and obligations of the economic development
+34 district.
+35 (c) The board of an economic development district shall:
+36 (1) Establish a bond oversight committee to:
+29 04/16/2025 9:25:56 AM JLL259
+
+SB647
+1 (A) Monitor the use of bond proceeds under this
+2 subchapter; and
+3 (B) Ensure that the bond proceeds are used for the
+4 purposes specified in the bond issuance documents; and
+5 (2) Conduct regular audits to assess the:
+6 (A) Management and utilization of bond proceeds under this
+7 subchapter; and
+8 (B) Adequacy of the available funds to service debt
+9 obligations related to the bonds issued under this subchapter.
+10
+11 14-177-703. Guarantee of bond repayment.
+12 (a) To enhance the creditworthiness of bonds issued under this
+13 subchapter and to support substantial economic development initiatives, an
+14 establishing authority may guarantee the repayment of bonds issued by an
+15 economic development district using any portion or combination of the
+16 property charge baseline, sales charge baseline, reserved property charge,
+17 and reserved sales charge received by the establishing authority.
+18 (b) An establishing authority’s guarantee of bonds under this section
+19 shall be structured as follows:
+20 (1) For the first three (3) years after the issuance of the
+21 bonds, the establishing authority may guarantee up to one hundred percent
+22 (100%) of the bond repayments;
+23 (2) For the fourth and fifth year after the issuance of the
+24 bonds, the establishing authority may guarantee up to fifty percent (50%) of
+25 the bond repayments; and
+26 (3) For the sixth and seventh years after the issuance of the
+27 bonds, the establishing authority may guarantee up to thirty-three percent
+28 (33%) of the bond repayments.
+29 (c) The maturity date of bonds guaranteed under this section may
+30 extend beyond the term of the guarantee provided by the establishing
+31 authority.
+32 (d) A decision to guarantee the repayment of bonds under this section
+33 shall be approved by a majority vote of the members of the establishing
+34 authority.
+35 (e) An establishing authority that guarantees the repayment of bonds
+36 under this section shall:
+30 04/16/2025 9:25:56 AM JLL259
+
+SB647
+1 (1)(A) Establish a special guarantee fund from which guaranteed
+2 amounts will be paid.
+3 (B) The special guarantee fund established under
+4 subdivision (e)(1)(A) of this section shall be replenished annually with the
+5 specified portion of the property charge baseline, reserved property charge,
+6 sales charge baseline, and reserved sales charge received by the economic
+7 development district.
+8 (C) An establishing authority that establishes a special
+9 guarantee fund under subdivision (e)(1)(A) of this section shall establish
+10 protocols to manage the special guarantee fund to ensure that there are
+11 sufficient funds available to meet the guarantee obligations of the
+12 establishing authority under this section as they become due;
+13 (2) Conduct an annual independent audit of the special guarantee
+14 fund established under subdivision (e)(1)(A) of this section and the
+15 management of the special guarantee fund to ensure transparency and proper
+16 use of the establishing authority’s revenues; and
+17 (3) Implement risk mitigation strategies, including without
+18 limitation setting aside reserve funds or obtaining reinsurance, to manage
+19 the potential fiscal impact of the guarantee provided under this section.
+20 (f)(1) Before approving a guarantee under this section, an
+21 establishing authority shall conduct a risk assessment to evaluate the
+22 potential financial impact on the establishing authority’s finances.
+23 (2) The risk assessment required under subdivision (f)(1) of
+24 this section shall consider the:
+25 (A) Viability of the projects funded by the bonds issued
+26 under this chapter; and
+27 (B) Expected revenues of the economic development
+28 district.
+29
+30 SECTION 1. DO NOT CODIFY. Contingent effective date.
+31 This act is effective on and after January 1, 2027, contingent on
+32 Senate Joint Resolution 15 of the Ninety-Fifth General Assembly being
+33 referred to the people and adopted at the 2026 general election.
+34
+35
+36
+31 04/16/2025 9:25:56 AM JLL259
+
+[DELETED:       A A  T D  B   S c C E  S   1  T D   1  A   ( §   ( m    (]
+[DELETED: S2 0    (    (    (   ( m m a c m   ( f    (    (    (    (    (   ( c e e w    ( l i h o d 1   ( w t r   ( g d   (]
+[DELETED: S3 0    ( t    ( d c   ( d o   ( a e v b   ( p b   ( p   ( i d    (     ( l p     (     (     (     ( u     ( l     (     ( l   (]
+[DELETED: S4 0 c e   ( c e   ( f     ( t     (    (     ( t s t     ( a    ( t o   ( t w d   ( s   1  (   ( c e d   ( a d]
+[DELETED: S5 0 e   ( c e d n   ( o t a   ( e e f    ( ( o   ( a i   ( f a    ( (     ( d     ( a m  ( s d   ( r a]
+[DELETED: S6 0   ( r a  S   1  ( o m  ( b m  ( d t  ( c   1  ( b   ( t b e   ( p   ( a  ( u   ( d   (   (]
+[DELETED: S7 0 b i   1 d  ( e   ( e p   ( s p    ( s     ( i     ( t e p d  ( t d 1 a   1  (   (   ( n   ( d   (]
+[DELETED: S8 0 d   (   (   ( d  ( m    ( a    ( a    ( c a    (    (   ( m    (    ( d   ( c d d a c a u    ( d    (    (    ( d    (]
+[DELETED: S9 0 d   ( s f   1  ( m t   ( a   ( a   ( p   (   (  ( u r d   1  ( e e d   ( c d d t e e o b]
+[DELETED: S1 0    ( d    (    (    ( d    ( d  ( r e d  ( r a e   1  (   ( c c a i g   ( d e  ( c c   (   ( a  ( b]
+[DELETED: S1 0 b   (   ( a p   1  P s  S   1  ( c  ( f   ( d e   ( d i  ( b  ( d  ( c p d   1  ( s    (]
+[DELETED: S1 0 m    ( c    ( c c   ( d p    ( m (  ( f d    ( w    ( d   ( d d d r m t m d  (    (    (   ( d    (    ( y]
+[DELETED: S1 0    ( y  ( f   1  (   ( h   ( p v  ( r f c   1  (   ( g d   ( s   ( m e d   ( g w   ( d s   ( d]
+[DELETED: S1 0 e e    ( o     (     ( e  (   ( e b   ( t   ( e d   ( p d   (   ( s d    ( n i f o  ( i   1  ( q  ( b]
+[DELETED: S1 0 d   ( e    (    ( e    ( I  ( d   1  ( o g I t r  ( n b d   1  ( s f   ( s d r  ( o d t ]
+[DELETED: S1 0  1 r  ( d   ( f   ( s d   ( t o o  ( e c l r   ( d l d   ( s  ( r s   ( d d   ( t d o  ( m]
+[DELETED: S1 0 d  (   ( f e   ( e f  (  S   1  ( w o   (   (   ( 4   ( 4   (  (   ( s   (  ( w  ( u   ( i e   ( d]
+[DELETED: S1 0 f   1  ( f  ( d   ( t   ( o i  ( t i    ( p     ( d w     ( a c    ( d   ( b a  ( p p u  ( t t d]
+[DELETED: S1 0   1 a  ( d t  ( d   ( s t   ( s   ( t d d  ( t    ( s d     ( r t     ( a c    ( d   ( i s  ( w s]
+[DELETED: S2 0   ( s u  ( i t t d   1  ( e r t   ( p u  ( t  ( c  ( c    (    ( m   ( a t p a o e   1  (]
+[DELETED: S2 0 e r s   ( s u  ( a  ( c  ( s    (    ( m   ( a a e a a a   1  ( a e   ( ( t d  ( n p  ( b]
+[DELETED: S2 0 p t n   ( a p t t d p   1  ( a e   ( o s t  ( a t  ( b s s t d   ( a ( t a a a ]
+[DELETED: S2 0  1 a  ( e d d d   ( e p d d   ( t d r    ( s c  ( e d d   ( p a   ( t d r    ( s c  (   ( d]
+[DELETED: S2 0 t   ( c t d  S   1  ( d f p c a  ( u d  ( c t   1  (   ( d   ( d l   (  ( f p d   ( m]
+[DELETED: S2 0 t   ( s p   ( s s  ( t a c  ( a r t  ( i r t o   1  ( b p f o  ( r o   ( t c t w s]
+[DELETED: S2 0  ( a o p   1  ( b a r l r  ( s r l a w u  S I   1  ( d i d d e  ( i r s   1]
+[DELETED: S2 0  ( s d a c d  ( s l c a b   ( c a e  ( s a w  ( t d t t   ( i n  ( r a b t g   1]
+[DELETED: S2 0  ( t d o   (   ( p   ( p  (   (   (    ( t    ( p    (  ( a d t c   1  ( t a t a l  ( t   ( o   (    (]
+[DELETED: S2 0 t    (  S   1  ( d d a  ( t r f f  ( d  ( o c   1  ( t o  ( u a   ( u e f a d  (   (]
+[DELETED: S3 0    ( s    ( p   (    ( s    ( o   1  ( s e e p a  ( s   ( b (   ( b t   ( b (  ( e a  ( s a  ( u]
+[DELETED: S3 0   ( a    ( s s s d    ( g p s e   ( f m u   ( l t  ( e p   ( t    ( u    ( d   S  T S r   ]

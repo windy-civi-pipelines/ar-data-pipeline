@@ -1,0 +1,338 @@
+Title: Stricken language would be deleted from and underlined language would be added to present law.
+Official Title: Stricken language would be deleted from and underlined language would be added to present law.
+Number of Sections: 1
+Source: versions - HB 1766
+Media Type: application/pdf
+Strikethrough Detection: 4 sections found
+
+================================================================================
+
+Section 1:
+1 State of Arkansas As Engrossed: H4/2/25
+A Bill
+2 95th General Assembly
+3 Regular Session, 2025 HOUSE BILL 1766
+4
+5 By: Representative Ennett
+6 By: Senator B. Davis
+7
+For An Act To Be Entitled
+8
+9 AN ACT TO AMEND THE LAW REGARDING HIGHER EDUCATION;
+10 TO CREATE THE ARKANSAS RESPOND, INNOVATE, SUCCEED,
+11 AND EMPOWER (RISE) ACT; AND FOR OTHER PURPOSES.
+12
+13
+Subtitle
+14
+15 TO CREATE THE ARKANSAS RESPOND,
+16 INNOVATE, SUCCEED, AND EMPOWER (RISE)
+17 ACT.
+18
+19 BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF ARKANSAS:
+20
+21 SECTION 1. Arkansas Code Title 6, Chapter 60, is amended to add an
+22 additional subchapter to read as follows:
+23 Subchapter 16 — Students with Disabilities
+24
+25 6-60-1601. Title.
+26 This act shall be known and may be cited as the "Arkansas Respond,
+27 Innovate, Succeed, and Empower (RISE) Act".
+28
+29 6-60-1602. Definitions.
+30 As used in this subchapter:
+31 (1) "Institution of higher education" means a public institution
+32 of higher education, tribal college, or a private institution of higher
+33 education that receives federal funding;
+34 (2) "Plain language" means communication an audience can
+35 understand the first time the audience reads or hears it; and
+36 (3) "Student with a disability" means an admitted or enrolled
+*CRH065*
+04-02-2025 10:49:06 CRH065
+As Engrossed: H4/2/25 HB1766
+1 student who meets the definition of an individual with a disability under the
+2 Americans with Disabilities Act of 1990, 42 U.S.C. § 12101 et seq., as it
+3 existed on January 1, 2025, and includes a student with an intellectual
+4 disability as defined in 34 C.F.R. § 668.231(b), as it existed on January 1,
+5 2025, who is admitted or enrolled in a comprehensive transition or
+6 postsecondary program as defined in 34 C.F.R. § 668.231(a), as it existed on
+7 January 1, 2025.
+8
+9 6-60-1603. Policy — Documentation — Dissemination of information.
+10 (a)(1) Each institution of higher education shall adopt a policy
+11 providing that the documentation under subsection (b) of this section will be
+12 considered in evaluating whether a student is a student with a disability.
+13 (2) The institution of higher education may request additional
+14 documentation if needed to evaluate whether a student is a student with a
+15 disability.
+16 (b) The following information submitted by either an admitted or an
+17 enrolled student will be considered in evaluating whether a student is a
+18 student with a disability:
+19 (1) Documentation that the individual has had an individualized
+20 education program as defined in § 6-41-217;
+21 (2) Documentation that the individual has received services or
+22 accommodations under a plan under Section 504 of the Rehabilitation Act of
+23 1973, 29 U.S.C. § 794 et seq., as it existed on January 1, 2025;
+24 (3) Documentation of a plan or record of service for the
+25 individual from a private school, a local educational agency, a state
+26 educational agency, or an institution of higher education provided under a
+27 plan under Section 504 of the Rehabilitation Act of 1973, 29 U.S.C. § 794 et
+28 seq., as it existed on January 1, 2025, or in accordance with the Americans
+29 with Disabilities Act of 1990, 42 U.S.C. § 12101 et seq., as it existed on
+30 January 1, 2025; or
+31 (4) Documentation of a disability due to military service.
+32 (c) The policy adopted under this subsection (a) of this section
+33 shall:
+34 (1) Be transparent and explicit; and
+35 (2) Include information:
+36 (A) Describing the process by which the institution of
+2 04-02-2025 10:49:06 CRH065
+As Engrossed: H4/2/25 HB1766
+1 higher education determines eligibility for accommodations for a student with
+2 a disability; and
+3 (B) Regarding any disability resource center or other
+4 areas within the institution of higher education that provide accommodations
+5 for students with disabilities, including without limitation housing and
+6 residence life.
+7 (e) Each institution of higher education shall disseminate the
+8 information required under subsection (c) of this section:
+9 (1) To applicants, students, parents, and faculty in plain
+10 language and in formats consistent with the Americans with Disabilities Act
+11 of 1990, 42 U.S.C. § 12101 et seq., as it existed on January 1, 2025; and
+12 (2) During the student application process, at student
+13 orientation, in academic catalogs, and on the institution of higher
+14 education's public website.
+15
+16 6-60-1604. Establishment of reasonable accommodation.
+17 (a)(1) An institution of higher education shall engage in an
+18 interactive process to:
+19 (A) Document the accommodation needs of a student with a
+20 disability; and
+21 (B) Establish a reasonable accommodation or accommodations
+22 for a student with a disability.
+23 (2) The institution of higher education may request additional
+24 documentation if needed during the interactive process.
+25 (b)(1) An institution of higher education shall include a
+26 representative list of reasonable accommodations and disability resources for
+27 students with a disability that is accessible to applicants, students,
+28 parents, and faculty in plain language and in formats consistent with the
+29 Americans with Disabilities Act of 1990, 42 U.S.C. § 12101 et seq., as it
+30 existed on January 1, 2025.
+31 (2) Before a determination that a reasonable accommodation or
+32 disability resource presented on a representative list for students with a
+33 disability is provided under subdivision (b)(1) of this section, the student
+34 shall present written documentation indicating the need for the reasonable
+35 accommodation or disability resource.
+36 (3) The information required under subdivision (b)(1) of this
+3 04-02-2025 10:49:06 CRH065
+As Engrossed: H4/2/25 HB1766
+1 section shall be provided during the student application process, at student
+2 orientation, in academic catalogs, and on the institution of higher
+3 education's public website.
+4 (c) The reasonable accommodations and disability resources available
+5 to students shall be individualized and not limited to the list provided
+6 under subsection (b) of this section.
+7
+8 6-60-1605. Requirements for institutions of higher education.
+9 Each institution of higher education shall:
+10 (1) Advise admitted students who have self-identified as having
+11 a disability for which they are requesting an accommodation of the process
+12 for requesting accommodations;
+13 (2) Not require a student to be reevaluated for the presence of
+14 a permanent disability if the student previously provided proof to the
+15 institution of higher education of a permanent disability status; and
+16 (3) Have an established process to follow if an instructor or
+17 academic office believes that an accommodation would fundamentally or
+18 substantially alter an essential requirement of a course or program or pose
+19 an undue burden on the institution of higher education.
+20
+21 SECTION 2. EFFECTIVE DATE. Section 1 of this act is effective January
+22 1, 2026.
+23
+24 /s/Ennett
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+4 04-02-2025 10:49:06 CRH065
+[DELETED:  A      A T A   T I A  B   S a S   6  T I      6  A   ( o e   ( u   (]
+[DELETED:  H2 0 s A e d 2 p J   6  ( p c   ( d d  ( e s   ( e   ( a 1   ( i e p s w J   (  ( s   (   (    (]
+[DELETED:  H3 0 h a    ( a f r  ( i   ( l o   ( o e     6  ( i    ( d    ( f   ( d  ( r s p A e   ( d d s a   (]
+[DELETED:  H4 0 s o e  ( t u   6  E   ( a f   ( a i   ( a s a   S 1  /            ]
+
+
+================================================================================
+
+Raw Text:
+Stricken language would be deleted from and underlined language would be added to present law.
+1 State of Arkansas As Engrossed: H4/2/25
+A Bill
+2 95th General Assembly
+3 Regular Session, 2025 HOUSE BILL 1766
+4
+5 By: Representative Ennett
+6 By: Senator B. Davis
+7
+For An Act To Be Entitled
+8
+9 AN ACT TO AMEND THE LAW REGARDING HIGHER EDUCATION;
+10 TO CREATE THE ARKANSAS RESPOND, INNOVATE, SUCCEED,
+11 AND EMPOWER (RISE) ACT; AND FOR OTHER PURPOSES.
+12
+13
+Subtitle
+14
+15 TO CREATE THE ARKANSAS RESPOND,
+16 INNOVATE, SUCCEED, AND EMPOWER (RISE)
+17 ACT.
+18
+19 BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF ARKANSAS:
+20
+21 SECTION 1. Arkansas Code Title 6, Chapter 60, is amended to add an
+22 additional subchapter to read as follows:
+23 Subchapter 16 — Students with Disabilities
+24
+25 6-60-1601. Title.
+26 This act shall be known and may be cited as the "Arkansas Respond,
+27 Innovate, Succeed, and Empower (RISE) Act".
+28
+29 6-60-1602. Definitions.
+30 As used in this subchapter:
+31 (1) "Institution of higher education" means a public institution
+32 of higher education, tribal college, or a private institution of higher
+33 education that receives federal funding;
+34 (2) "Plain language" means communication an audience can
+35 understand the first time the audience reads or hears it; and
+36 (3) "Student with a disability" means an admitted or enrolled
+*CRH065*
+04-02-2025 10:49:06 CRH065
+
+As Engrossed: H4/2/25 HB1766
+1 student who meets the definition of an individual with a disability under the
+2 Americans with Disabilities Act of 1990, 42 U.S.C. § 12101 et seq., as it
+3 existed on January 1, 2025, and includes a student with an intellectual
+4 disability as defined in 34 C.F.R. § 668.231(b), as it existed on January 1,
+5 2025, who is admitted or enrolled in a comprehensive transition or
+6 postsecondary program as defined in 34 C.F.R. § 668.231(a), as it existed on
+7 January 1, 2025.
+8
+9 6-60-1603. Policy — Documentation — Dissemination of information.
+10 (a)(1) Each institution of higher education shall adopt a policy
+11 providing that the documentation under subsection (b) of this section will be
+12 considered in evaluating whether a student is a student with a disability.
+13 (2) The institution of higher education may request additional
+14 documentation if needed to evaluate whether a student is a student with a
+15 disability.
+16 (b) The following information submitted by either an admitted or an
+17 enrolled student will be considered in evaluating whether a student is a
+18 student with a disability:
+19 (1) Documentation that the individual has had an individualized
+20 education program as defined in § 6-41-217;
+21 (2) Documentation that the individual has received services or
+22 accommodations under a plan under Section 504 of the Rehabilitation Act of
+23 1973, 29 U.S.C. § 794 et seq., as it existed on January 1, 2025;
+24 (3) Documentation of a plan or record of service for the
+25 individual from a private school, a local educational agency, a state
+26 educational agency, or an institution of higher education provided under a
+27 plan under Section 504 of the Rehabilitation Act of 1973, 29 U.S.C. § 794 et
+28 seq., as it existed on January 1, 2025, or in accordance with the Americans
+29 with Disabilities Act of 1990, 42 U.S.C. § 12101 et seq., as it existed on
+30 January 1, 2025; or
+31 (4) Documentation of a disability due to military service.
+32 (c) The policy adopted under this subsection (a) of this section
+33 shall:
+34 (1) Be transparent and explicit; and
+35 (2) Include information:
+36 (A) Describing the process by which the institution of
+2 04-02-2025 10:49:06 CRH065
+
+As Engrossed: H4/2/25 HB1766
+1 higher education determines eligibility for accommodations for a student with
+2 a disability; and
+3 (B) Regarding any disability resource center or other
+4 areas within the institution of higher education that provide accommodations
+5 for students with disabilities, including without limitation housing and
+6 residence life.
+7 (e) Each institution of higher education shall disseminate the
+8 information required under subsection (c) of this section:
+9 (1) To applicants, students, parents, and faculty in plain
+10 language and in formats consistent with the Americans with Disabilities Act
+11 of 1990, 42 U.S.C. § 12101 et seq., as it existed on January 1, 2025; and
+12 (2) During the student application process, at student
+13 orientation, in academic catalogs, and on the institution of higher
+14 education's public website.
+15
+16 6-60-1604. Establishment of reasonable accommodation.
+17 (a)(1) An institution of higher education shall engage in an
+18 interactive process to:
+19 (A) Document the accommodation needs of a student with a
+20 disability; and
+21 (B) Establish a reasonable accommodation or accommodations
+22 for a student with a disability.
+23 (2) The institution of higher education may request additional
+24 documentation if needed during the interactive process.
+25 (b)(1) An institution of higher education shall include a
+26 representative list of reasonable accommodations and disability resources for
+27 students with a disability that is accessible to applicants, students,
+28 parents, and faculty in plain language and in formats consistent with the
+29 Americans with Disabilities Act of 1990, 42 U.S.C. § 12101 et seq., as it
+30 existed on January 1, 2025.
+31 (2) Before a determination that a reasonable accommodation or
+32 disability resource presented on a representative list for students with a
+33 disability is provided under subdivision (b)(1) of this section, the student
+34 shall present written documentation indicating the need for the reasonable
+35 accommodation or disability resource.
+36 (3) The information required under subdivision (b)(1) of this
+3 04-02-2025 10:49:06 CRH065
+
+As Engrossed: H4/2/25 HB1766
+1 section shall be provided during the student application process, at student
+2 orientation, in academic catalogs, and on the institution of higher
+3 education's public website.
+4 (c) The reasonable accommodations and disability resources available
+5 to students shall be individualized and not limited to the list provided
+6 under subsection (b) of this section.
+7
+8 6-60-1605. Requirements for institutions of higher education.
+9 Each institution of higher education shall:
+10 (1) Advise admitted students who have self-identified as having
+11 a disability for which they are requesting an accommodation of the process
+12 for requesting accommodations;
+13 (2) Not require a student to be reevaluated for the presence of
+14 a permanent disability if the student previously provided proof to the
+15 institution of higher education of a permanent disability status; and
+16 (3) Have an established process to follow if an instructor or
+17 academic office believes that an accommodation would fundamentally or
+18 substantially alter an essential requirement of a course or program or pose
+19 an undue burden on the institution of higher education.
+20
+21 SECTION 2. EFFECTIVE DATE. Section 1 of this act is effective January
+22 1, 2026.
+23
+24 /s/Ennett
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+4 04-02-2025 10:49:06 CRH065
+
+[DELETED:  A      A T A   T I A  B   S a S   6  T I      6  A   ( o e   ( u   (]
+[DELETED:  H2 0 s A e d 2 p J   6  ( p c   ( d d  ( e s   ( e   ( a 1   ( i e p s w J   (  ( s   (   (    (]
+[DELETED:  H3 0 h a    ( a f r  ( i   ( l o   ( o e     6  ( i    ( d    ( f   ( d  ( r s p A e   ( d d s a   (]
+[DELETED:  H4 0 s o e  ( t u   6  E   ( a f   ( a i   ( a s a   S 1  /            ]

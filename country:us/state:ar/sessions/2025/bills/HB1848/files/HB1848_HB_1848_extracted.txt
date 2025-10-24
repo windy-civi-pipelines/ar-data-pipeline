@@ -1,0 +1,180 @@
+Title: Stricken language would be deleted from and underlined language would be added to present law.
+Official Title: Stricken language would be deleted from and underlined language would be added to present law.
+Number of Sections: 1
+Source: versions - HB 1848
+Media Type: application/pdf
+Strikethrough Detection: 2 sections found
+
+================================================================================
+
+Section 1:
+1 State of Arkansas
+A Bill
+2 95th General Assembly
+3 Regular Session, 2025 HOUSE BILL 1848
+4
+5 By: Representatives Hudson, K. Moore, McCullough, Eubanks
+6 By: Senator Irvin
+7
+For An Act To Be Entitled
+8
+9 AN ACT TO AMEND THE LAW REGARDING THE PRESUMPTION
+10 THAT AN AWARD OF JOINT CUSTODY BETWEEN PARENTS IS IN
+11 A CHILD'S BEST INTEREST WHEN THERE IS DOMESTIC ABUSE;
+12 AND FOR OTHER PURPOSES.
+13
+14
+Subtitle
+15
+16 TO AMEND THE LAW REGARDING THE
+17 PRESUMPTION THAT AN AWARD OF JOINT
+18 CUSTODY BETWEEN PARENTS IS IN A CHILD'S
+19 BEST INTEREST WHEN THERE IS DOMESTIC
+20 ABUSE.
+21
+22 BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF ARKANSAS:
+23
+24 SECTION 1. Arkansas Code § 9-13-101(c), concerning the award of
+25 custody in a case concerning child custody or visitation when a party has
+26 committed an act of domestic violence, is amended to read as follows:
+27 (c)(1) If a party to an action concerning custody of or a right to
+28 visitation with a child has committed an act of domestic violence abuse
+29 against the party making the allegation or a family or household member of
+30 either party and such allegations are proven by a preponderance of the
+31 evidence at a hearing on the merits, the circuit court must shall consider
+32 the effect of such domestic violence upon the best interests interest of the
+33 child, whether or not the child was physically injured or personally
+34 witnessed the abuse, together with such facts and circumstances as the
+35 circuit court deems relevant in making a directive pursuant to this section.
+36 (2) For purposes of this section, "domestic abuse" means:
+*LJH253*
+03/18/2025 3:16:06 PM LJH253
+HB1848
+1 (A) Physical harm, bodily injury, assault, or the
+2 infliction of fear of imminent physical harm, bodily injury, or assault
+3 between family or household members; or
+4 (B) Any sexual conduct between family or household
+5 members, whether minors or adults, that constitutes an offense under the laws
+6 of this state.
+7 (2)(3) With regard to an award of custody:
+8 (A) There is a rebuttable presumption that it is not in
+9 the best interest of the child to be placed in the sole custody or care of an
+10 abusive parent a parent in cases in which there is a finding by a
+11 preponderance of the evidence that the parent has engaged in a pattern of
+12 domestic abuse or other party who has been found at a hearing on the merits
+13 to have engaged in a pattern of domestic abuse.
+14 (B) The parent or other party that has been found to have
+15 committed domestic abuse has the burden of rebutting the presumption under
+16 subdivision (c)(3)(A) of this section by proving by a preponderance of the
+17 evidence that having custody or care of the child will not endanger the child
+18 as set forth in subdivision (b)(1)(A)(vii) of this section.
+19 (4) With regard to an award of reasonable parenting time
+20 provided for in subdivision (b)(1)(A)(vii) of this section to a parent or
+21 other party who fails to rebut the presumption under subdivision (c)(3)(B) of
+22 this section, a court awarding unsupervised parenting time to that parent or
+23 other party:
+24 (A) Shall, in addition to the facts, findings, and
+25 conclusions of law in the court's written order under subdivision (b)(3)(A)
+26 of this section, make findings as to:
+27 (i) Whether the parent or other party poses an
+28 ongoing risk of harm to the child; and
+29 (ii) Why the parent or other party who committed the
+30 domestic abuse does not present a risk of harm to the child; and
+31 (B) May order safety conditions and completion of a
+32 certified domestic violence intervention program for the parent or other
+33 party's visits with the child.
+34
+35
+36
+2 03/18/2025 3:16:06 PM LJH253
+[DELETED:          A T A A   T P C B A  B   S c c  ( v a e e t c w c   (]
+[DELETED: H2 0    ( i b    ( m o   (    ( t a p d t    ( c s e a   ( p o t o    ( c o     ( o     ( d    ( c p]
+
+
+================================================================================
+
+Raw Text:
+Stricken language would be deleted from and underlined language would be added to present law.
+1 State of Arkansas
+A Bill
+2 95th General Assembly
+3 Regular Session, 2025 HOUSE BILL 1848
+4
+5 By: Representatives Hudson, K. Moore, McCullough, Eubanks
+6 By: Senator Irvin
+7
+For An Act To Be Entitled
+8
+9 AN ACT TO AMEND THE LAW REGARDING THE PRESUMPTION
+10 THAT AN AWARD OF JOINT CUSTODY BETWEEN PARENTS IS IN
+11 A CHILD'S BEST INTEREST WHEN THERE IS DOMESTIC ABUSE;
+12 AND FOR OTHER PURPOSES.
+13
+14
+Subtitle
+15
+16 TO AMEND THE LAW REGARDING THE
+17 PRESUMPTION THAT AN AWARD OF JOINT
+18 CUSTODY BETWEEN PARENTS IS IN A CHILD'S
+19 BEST INTEREST WHEN THERE IS DOMESTIC
+20 ABUSE.
+21
+22 BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF ARKANSAS:
+23
+24 SECTION 1. Arkansas Code § 9-13-101(c), concerning the award of
+25 custody in a case concerning child custody or visitation when a party has
+26 committed an act of domestic violence, is amended to read as follows:
+27 (c)(1) If a party to an action concerning custody of or a right to
+28 visitation with a child has committed an act of domestic violence abuse
+29 against the party making the allegation or a family or household member of
+30 either party and such allegations are proven by a preponderance of the
+31 evidence at a hearing on the merits, the circuit court must shall consider
+32 the effect of such domestic violence upon the best interests interest of the
+33 child, whether or not the child was physically injured or personally
+34 witnessed the abuse, together with such facts and circumstances as the
+35 circuit court deems relevant in making a directive pursuant to this section.
+36 (2) For purposes of this section, "domestic abuse" means:
+*LJH253*
+03/18/2025 3:16:06 PM LJH253
+
+HB1848
+1 (A) Physical harm, bodily injury, assault, or the
+2 infliction of fear of imminent physical harm, bodily injury, or assault
+3 between family or household members; or
+4 (B) Any sexual conduct between family or household
+5 members, whether minors or adults, that constitutes an offense under the laws
+6 of this state.
+7 (2)(3) With regard to an award of custody:
+8 (A) There is a rebuttable presumption that it is not in
+9 the best interest of the child to be placed in the sole custody or care of an
+10 abusive parent a parent in cases in which there is a finding by a
+11 preponderance of the evidence that the parent has engaged in a pattern of
+12 domestic abuse or other party who has been found at a hearing on the merits
+13 to have engaged in a pattern of domestic abuse.
+14 (B) The parent or other party that has been found to have
+15 committed domestic abuse has the burden of rebutting the presumption under
+16 subdivision (c)(3)(A) of this section by proving by a preponderance of the
+17 evidence that having custody or care of the child will not endanger the child
+18 as set forth in subdivision (b)(1)(A)(vii) of this section.
+19 (4) With regard to an award of reasonable parenting time
+20 provided for in subdivision (b)(1)(A)(vii) of this section to a parent or
+21 other party who fails to rebut the presumption under subdivision (c)(3)(B) of
+22 this section, a court awarding unsupervised parenting time to that parent or
+23 other party:
+24 (A) Shall, in addition to the facts, findings, and
+25 conclusions of law in the court's written order under subdivision (b)(3)(A)
+26 of this section, make findings as to:
+27 (i) Whether the parent or other party poses an
+28 ongoing risk of harm to the child; and
+29 (ii) Why the parent or other party who committed the
+30 domestic abuse does not present a risk of harm to the child; and
+31 (B) May order safety conditions and completion of a
+32 certified domestic violence intervention program for the parent or other
+33 party's visits with the child.
+34
+35
+36
+2 03/18/2025 3:16:06 PM LJH253
+
+[DELETED:          A T A A   T P C B A  B   S c c  ( v a e e t c w c   (]
+[DELETED: H2 0    ( i b    ( m o   (    ( t a p d t    ( c s e a   ( p o t o    ( c o     ( o     ( d    ( c p]

@@ -1,0 +1,1918 @@
+Title: Stricken language would be deleted from and underlined language would be added to present law.
+Official Title: Stricken language would be deleted from and underlined language would be added to present law.
+Number of Sections: 1
+Source: versions - SB 117
+Media Type: application/pdf
+Strikethrough Detection: 24 sections found
+
+================================================================================
+
+Section 1:
+1 State of ArkansasAs Engrossed: S2/18/25 S2/25/25 S3/11/25 S3/31/25 H4/8/25
+A Bill
+2 95th General Assembly
+3 Regular Session, 2025 SENATE BILL 117
+4
+5 By: Senator C. Penzo
+6 By: Representative Long
+7
+For An Act To Be Entitled
+8
+9 AN ACT TO CREATE THE NATUROPATHIC PHYSICIAN PRACTICE
+10 ACT; TO PROVIDE FOR LICENSURE OF NATUROPATHIC
+11 PHYSICIANS IN ARKANSAS; TO CREATE THE ARKANSAS STATE
+12 BOARD OF NATURAL MEDICINE; AND FOR OTHER PURPOSES.
+13
+14
+Subtitle
+15
+16 TO CREATE THE NATUROPATHIC PHYSICIAN
+17 PRACTICE ACT; TO PROVIDE FOR LICENSURE
+18 OF NATUROPATHIC PHYSICIANS IN ARKANSAS;
+19 AND TO CREATE THE ARKANSAS STATE BOARD
+20 OF NATURAL MEDICINE.
+21
+22 BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF ARKANSAS:
+23
+24 SECTION 1. Arkansas Code Title 17 is amended to add an additional
+25 chapter to read as follows:
+26 CHAPTER 108
+27 NATUROPATHIC PHYSICIAN PRACTICE ACT
+28
+29 Subchapter 1 — General Provisions
+30
+31 17-108-101. Title.
+32 This subchapter shall be known and may be cited as the "Naturopathic
+33 Physician Practice Act".
+34
+35 17-108-102. Legislative findings and intent.
+36 (a) The General Assembly finds that:
+*JMB077*
+04-08-2025 10:16:01 JMB077
+As Engrossed: S2/18/25 S2/25/25 S3/11/25 S3/31/25 H4/8/25 SB117
+1 (1) The practice of naturopathic medicine in this state affects
+2 the public health, safety, and welfare and should be subject to regulation
+3 and control in the public interest; and
+4 (2) Naturopathic physicians comprise a distinct healthcare
+5 profession that affects the public health, safety, and welfare and increases
+6 freedom of choice in health care in this state.
+7 (b) It is the intent of the General Assembly to ensure that
+8 naturopathic physicians and the practice of naturopathic medicine as defined
+9 in this subchapter merit the confidence of the public, that only qualified
+10 persons be authorized to practice naturopathic medicine in this state, and
+11 that a person shall not practice naturopathic medicine without a valid
+12 existing license.
+13
+14 17-108-103. Definitions.
+15 As used in this subchapter:
+16 (1) "Approved naturopathic medical school" means a medical
+17 school approved by the Arkansas State Board of Natural Medicine under this
+18 subchapter that prepares a naturopathic physician for the practice of
+19 naturopathic medicine;
+20 (2) "Clinical laboratory procedure" means the use of
+21 venipuncture consistent with naturopathic medical practice, commonly used
+22 diagnostic modalities consistent with naturopathic practice, the recording of
+23 a patient's health history, physical examination, ordering and interpretation
+24 of radiographic diagnostics, and other standard imaging and examination of
+25 body orifices, excluding endoscopy and colonoscopy;
+26 (3) "Electromagnetism” means the administration of electricity
+27 or its derivatives to assist in tissue healing and regeneration by cell
+28 stimulation, removal of edema and inflammatory mediators, and angiogenesis;
+29 (4) "Homeopathic medicine" means a system of medicine based on
+30 the use of infinitesimal doses of substances capable of producing symptoms
+31 similar to those of the disease treated, as listed in the Homeopathic
+32 Pharmacopoeia of the United States;
+33 (5) "Hygiene" means the use of preventive techniques, including
+34 personal hygiene, asepsis, public health, and safety;
+35 (6) "Laboratory examination" means:
+36 (A) Phlebotomy;
+2 04-08-2025 10:16:01 JMB077
+As Engrossed: S2/18/25 S2/25/25 S3/11/25 S3/31/25 H4/8/25 SB117
+1 (B) A clinical laboratory procedure;
+2 (C) An orificial examination;
+3 (D) A physiological function test; and
+4 (E) A screening or test that is consistent with
+5 naturopathic education and training;
+6 (7) "Naturopathic medicine" means:
+7 (A) A system of health care for the prevention, diagnosis,
+8 and treatment of human health conditions, injury, and disease;
+9 (B) The promotion or restoration of health; and
+10 (C) The support and stimulation of a patient's inherent
+11 self-healing processes through patient education and the use of naturopathic
+12 therapies and therapeutic substances;
+13 (8)(A) “Naturopathic physical medicine” means the manual
+14 administration of mechanical treatment to body structures or tissues for the
+15 purpose of restoring normal physiological function to the body by normalizing
+16 and balancing the musculoskeletal system of the body, including massage,
+17 stretching, resistance, or joint play examination.
+18 (B) “Naturopathic physical medicine” does not include:
+19 (i) The employment or application of chiropractic or
+20 spinal adjustments and the principles or techniques of chiropractic science;
+21 or
+22 (ii) The manipulation or adjustment of the spine or
+23 extremity joints of the human body beyond the elastic barrier, including
+24 small amplitude movement at or beyond the end range of normal joint motion;
+25 (9) "Naturopathic physician" means an individual licensed under
+26 this subchapter as a naturopathic physician to practice naturopathic medicine
+27 in this state;
+28 (10) "Naturopathic therapeutic medicine" means the use of one
+29 (1) or more of the following physical agents in a manner consistent with
+30 naturopathic medical practice on a part or the whole of the body, by hand or
+31 by mechanical means, in the resolution of a human ailment or condition:
+32 (A) Air;
+33 (B) Water;
+34 (C) Heat;
+35 (D) Cold;
+36 (E) Sound;
+3 04-08-2025 10:16:01 JMB077
+As Engrossed: S2/18/25 S2/25/25 S3/11/25 S3/31/25 H4/8/25 SB117
+1 (F) Light;
+2 (G) Electromagnetism;
+3 (H) Soft tissue therapy;
+4 (I) Therapeutic exercise; or
+5 (J) Naturopathic physical medicine;
+6 (11) "Naturopathic therapy" means the use of:
+7 (A) Naturopathic therapeutic medicine;
+8 (B) Suggestion;
+9 (C) Hygiene;
+10 (D) A therapeutic substance;
+11 (E) Nutrition and food science;
+12 (F) Homeopathic medicine; or
+13 (G) A clinical laboratory procedure;
+14 (12) "Nutrition and food science" means the prevention and
+15 treatment of disease or other human conditions through the use of food,
+16 water, herbs, roots, bark, or natural food elements;
+17 (13) "Professional examination" means a competency-based
+18 national naturopathic physician licensing examination administered by the
+19 North American Board of Naturopathic Examiners or its successor agency, which
+20 nationally administers a naturopathic examination that represents federal
+21 standards of education and training;
+22 (14) "Suggestion" means a technique using:
+23 (A) Biofeedback;
+24 (B) Hypnosis;
+25 (C) Health education; or
+26 (D) Health counseling; and
+27 (15) "Therapeutic substance" means any of the following
+28 exemplified in a standard naturopathic medical text, journal, or
+29 pharmacopeia:
+30 (A) A vitamin;
+31 (B) A mineral;
+32 (C) A nutraceutical;
+33 (D) A botanical medicine;
+34 (E) Oxygen;
+35 (F) A homeopathic medicine; or
+36 (G) Other physiologic substance.
+4 04-08-2025 10:16:01 JMB077
+As Engrossed: S2/18/25 S2/25/25 S3/11/25 S3/31/25 H4/8/25 SB117
+1
+2 17-108-104. Exemptions.
+3 This subchapter does not prohibit or restrict:
+4 (1) The practice of a healthcare profession by an individual who
+5 is licensed, certified, or registered under the laws of this state and who is
+6 performing services within the individual's scope of practice;
+7 (2) The practice of naturopathic medicine by a student enrolled
+8 in an approved naturopathic medical school if the practice of naturopathic
+9 medicine by a student is performed under a course of instruction or an
+10 assignment from an instructor and under the supervision of an instructor who
+11 is a licensee or a duly licensed professional in the instructed field;
+12 (3) A person that sells a vitamin or herb from providing
+13 information about the vitamin or herb;
+14 (4) The practice of naturopathic medicine by a person who is
+15 licensed to practice in any other state or district in the United States and
+16 who enters this state to consult with a naturopathic physician of this state
+17 if the consultation is limited to examination, recommendation, or testimony
+18 in litigation; or
+19 (5) A person or practitioner who is not licensed as a
+20 naturopathic physician from recommending ayurvedic medicine, herbal remedies,
+21 nutritional advice, homeopathy, or other therapy that is within the scope of
+22 practice of naturopathic medicine if that person or practitioner does not:
+23 (A) Use a title protected under this subchapter;
+24 (B) Represent or assume the character or appearance of a
+25 licensee of this subchapter; or
+26 (C) Otherwise use a name, title, or other designation that
+27 indicates or implies that the person is a licensee of this subchapter.
+28
+29 17-108-105. Title protection.
+30 (a) A licensee shall use the title "naturopathic physician" or
+31 "naturopathic doctor" and the recognized abbreviation "N.D.".
+32 (b) A licensee has the exclusive right to use the following terms in
+33 reference to the licensee's self:
+34 (1) "Naturopathic physician";
+35 (2) "Naturopathic doctor";
+36 (3) "Doctor of naturopathic medicine";
+5 04-08-2025 10:16:01 JMB077
+As Engrossed: S2/18/25 S2/25/25 S3/11/25 S3/31/25 H4/8/25 SB117
+1 (4) "Doctor of naturopathy";
+2 (5) "N.D.";
+3 (6) "ND";
+4 (7) "NMD"; and
+5 (8) "N.M.D.".
+6 (c) An individual represents the individual's self to be a
+7 naturopathic physician or a naturopathic doctor when the individual uses or
+8 adopts any of the terms in subdivisions (b)(1)-(8) of this section in
+9 reference to the individual's self.
+10 (d)(1) An individual shall not represent the individual's self to the
+11 public as a naturopathic physician, naturopathic doctor, a doctor of
+12 naturopathic medicine, or a doctor of naturopathy, or as being otherwise
+13 authorized to practice naturopathic medicine in the state, unless the
+14 individual is licensed under this subchapter.
+15 (2) An individual who is not licensed under this subchapter is
+16 guilty of a Class A misdemeanor if he or she:
+17 (A) Holds himself or herself out as a naturopathic
+18 physician or naturopathic doctor;
+19 (B) Uses any combination or abbreviation of the term
+20 "naturopathic physician" or "naturopathic doctor" indicating or implying that
+21 he or she is a naturopathic physician or naturopathic doctor; or
+22 (C) Acts as a naturopathic physician without being
+23 licensed by the Arkansas State Board of Natural Medicine.
+24
+25 17-108-106. Approved naturopathic medical school.
+26 (a) The Arkansas State Board of Natural Medicine shall establish, by
+27 rule, guidelines for an approved naturopathic medical school and
+28 specifications for the education of naturopathic physicians in this state.
+29 (b) The guidelines established under subsection (a) of this section
+30 shall include that the approved naturopathic medical school shall require at
+31 a minimum:
+32 (1) Graduation from:
+33 (A) A naturopathic medical education program in the United
+34 States providing the degree of Doctor of Naturopathy or Doctor of
+35 Naturopathic Medicine, that:
+36 (i) Offers graduate-level, full-time didactic, and
+6 04-08-2025 10:16:01 JMB077
+As Engrossed: S2/18/25 S2/25/25 S3/11/25 S3/31/25 H4/8/25 SB117
+1 supervised clinical training;
+2 (ii) Is accredited or has achieved candidacy status
+3 for accreditation by the Council on Naturopathic Medical Education or an
+4 equivalent federally recognized accrediting body for naturopathic medical
+5 programs also recognized by the Arkansas State Board of Natural Medicine; and
+6 (iii) Is an institution of higher education or part
+7 of an institution of higher education that is either accredited or is a
+8 candidate for accreditation by a regional or national institutional
+9 accrediting agency recognized by the United States Secretary of Education;
+10 (B) A degree-granting institution of higher education
+11 that, before the existence of the Council on Naturopathic Medical Education,
+12 offered a full-time, structured curriculum in basic sciences and supervised
+13 patient care comprising a doctoral naturopathic medical education requiring
+14 not less than one hundred thirty-two (132) weeks of coursework to be
+15 completed within a period of not less than thirty-five (35) months, that was
+16 reputable and in good standing in the judgment of the Arkansas State Board of
+17 Natural Medicine and which, if still in existence, has current programmatic
+18 accreditation by the Council on Naturopathic Medical Education or a federally
+19 recognized equivalent accrediting agency;
+20 (C) A diploma-granting, degree-equivalent institution of
+21 higher education located in Canada that, before the existence of the Council
+22 on Naturopathic Medical Education, had provincial approval for participation
+23 in government-funded student aid programs, offered a full-time, structured
+24 curriculum in basic sciences and supervised patient care comprising a
+25 doctoral naturopathic medical education requiring not less than one hundred
+26 thirty-two (132) weeks of coursework to be completed within a period of not
+27 less than thirty (30) months, was reputable and in good standing in the
+28 judgment of the Arkansas State Board of Natural Medicine, and, if still in
+29 existence, has current programmatic accreditation by the Council on
+30 Naturopathic Medical Education or a federally recognized equivalent
+31 accrediting agency, and currently has provincial approval for participation
+32 in government-funded student aid programs; or
+33 (D) A diploma-granting, degree-equivalent institution of
+34 higher education located in Canada that has provincial approval for
+35 participation in government-funded student aid programs, offers graduate-
+36 level, full-time didactic, and supervised clinical training, and is
+7 04-08-2025 10:16:01 JMB077
+As Engrossed: S2/18/25 S2/25/25 S3/11/25 S3/31/25 H4/8/25 SB117
+1 accredited or has achieved candidacy status for accreditation by the Council
+2 on Naturopathic Medical Education or an equivalent federally recognized
+3 accrediting body for naturopathic medical programs also recognized by the
+4 Arkansas State Board of Natural Medicine; and
+5 (2) Successful completion of a competency-based national
+6 naturopathic medicine licensing examination administered by the North
+7 American Board of Naturopathic Examiners, or an equivalent agency recognized
+8 by the Arkansas State Board of Natural Medicine, or, for graduates of
+9 approved naturopathic medical programs in the United States before the
+10 existence of the Council on Naturopathic Medical Education, a competency-
+11 based state naturopathic medicine licensing examination, or equivalent
+12 Canadian provincial licensing examination for the practice of naturopathic
+13 medicine approved by the Arkansas State Board of Natural Medicine.
+14
+15 Subchapter 2 — Regulatory Agency
+16
+17 17-108-201. Arkansas State Board of Natural Medicine — Powers and
+18 duties.
+19 The Arkansas State Board of Natural Medicine shall:
+20 (1) Regulate the licensure of naturopathic physicians and
+21 determine the hours of continuing education units required for maintaining a
+22 license as a naturopathic physician;
+23 (2) Prescribe the manner in which records of
+24 examinations and treatments shall be kept and maintained;
+25 (3) Establish:
+26 (A) Standards for professional responsibility and conduct;
+27 (B) Criteria for advertising or promotional materials;
+28 (C) Continuing education hours and content;
+29 (D) Standards for the state jurisprudence examination;
+30 (E) Schedules for providing licensing examinations and for
+31 the issuance of examination results;
+32 (F) Procedures and standards for reviewing licensing
+33 examination scores;
+34 (G) Procedures for reviewing transcripts demonstrating
+35 completion of an approved naturopathic medical school;
+36 (H) Requirements for issuance and renewal of licenses; and
+8 04-08-2025 10:16:01 JMB077
+As Engrossed: S2/18/25 S2/25/25 S3/11/25 S3/31/25 H4/8/25 SB117
+1 (I) Any other matter necessary to implement this chapter;
+2 (4) Identify disciplinary actions and circumstances that require
+3 disciplinary action;
+4 (5) Develop a means to provide information to all naturopathic
+5 physicians in the state;
+6 (6) Provide for:
+7 (A) The investigation of complaints against naturopathic
+8 physicians or persons holding themselves out as naturopathic physicians in
+9 the state;
+10 (B) The publication of information for the public about
+11 naturopathic physicians and the practice of naturopathic medicine in the
+12 state; and
+13 (C) An orderly process for reinstatement of a license; and
+14 (7) Create and maintain a list of approved naturopathic medical
+15 schools that meet statutory requirements under this chapter.
+16
+17 Subchapter 3 — Licensure
+18
+19 17-108-301. Qualifications for licensure.
+20 The Arkansas State Board of Natural Medicine shall license an applicant
+21 who:
+22 (1) Submits, in accordance with rules of the board, the
+23 following items to the board:
+24 (A) An application for licensure developed by the board
+25 and submitted in accordance with rules of the board;
+26 (B) An application fee submitted in an amount and manner
+27 established by rules of the board;
+28 (C) Evidence that the applicant has:
+29 (i) Graduated from an approved naturopathic medical
+30 school;
+31 (ii) Successfully completed a competency-based
+32 national naturopathic medicine licensing examination; and
+33 (iii) Passed a state jurisprudence examination that
+34 meets standards established in rules of the board;
+35 (D) Evidence of professional liability insurance with
+36 policy limits not less than prescribed by the board;
+9 04-08-2025 10:16:01 JMB077
+As Engrossed: S2/18/25 S2/25/25 S3/11/25 S3/31/25 H4/8/25 SB117
+1 (2) Is determined by the board to be physically and mentally
+2 capable of safely practicing naturopathic medicine with or without reasonable
+3 accommodation; and
+4 (3) Has not had a license to practice naturopathic medicine or
+5 other healthcare license, registration, or certificate refused, revoked, or
+6 suspended by any other jurisdiction for reasons that relate to the
+7 applicant's ability to skillfully and safely practice naturopathic medicine
+8 unless that license, registration, or certification has been restored to good
+9 standing by that jurisdiction.
+10
+11 17-108-302. Scope of practice.
+12 A licensee may practice naturopathic medicine to provide primary care
+13 in alignment with naturopathic medical education to:
+14 (1) Perform physical examinations;
+15 (2) Order laboratory examinations;
+16 (3) Order diagnostic imaging studies;
+17 (4) Interpret the results of laboratory examinations for
+18 diagnostic purposes;
+19 (5) Order and, based on a radiologist's report, take action on
+20 diagnostic imaging studies in a manner consistent with naturopathic training;
+21 (6) Prescribe, administer, dispense, and order food, extracts of
+22 food, nutraceuticals, vitamins, amino acids, minerals, enzymes, botanicals
+23 and their extracts, botanical medicines, homeopathic medicines, all dietary
+24 supplements, and nonprescription drugs as defined by the Federal Food, Drug,
+25 and Cosmetic Act, 21 U.S.C. § 301 et seq., as existing on January 1, 2025;
+26 (7) Use routes of administration of therapeutic substances that
+27 include oral, nasal, auricular, ocular, rectal, vaginal, and transdermal
+28 consistent with the education and training of a naturopathic physician;
+29 (8) Perform naturopathic therapeutic medicine;
+30 (9) Employ the use of naturopathic therapy; and
+31 (10) Use therapeutic devices, barrier contraception, and durable
+32 medical equipment.
+33
+34 17-108-303. License expiration and renewal — Denial and revocation —
+35 Continuing education.
+36 (a) A license issued or renewed under this chapter shall expire two
+10 04-08-2025 10:16:01 JMB077
+As Engrossed: S2/18/25 S2/25/25 S3/11/25 S3/31/25 H4/8/25 SB117
+1 (2) years following its issuance or renewal.
+2 (b) The Arkansas State Board of Natural Medicine may renew the license
+3 of any naturopathic physician who, upon the expiration of his or her license:
+4 (1) Has submitted an application for renewal;
+5 (2) Has paid the renewal fee established by rules of the board;
+6 (3) Meets the qualifications for licensure under this subchapter
+7 and rules of the board; and
+8 (4) Meets the continuing education requirements established by
+9 the board.
+10 (c) The board shall grant an opportunity for a hearing to applicants
+11 and licensees for whom the board intends to refuse to issue or renew a
+12 license, or whose license the board proposes to revoke or suspend.
+13
+14 17-108-304. Display of license.
+15 A naturopathic physician shall display his or her license in his or her
+16 place of business in a location clearly visible to his or her patients and
+17 shall also display evidence of the naturopathic physician having completed an
+18 approved naturopathic medical school.
+19
+20 17-108-305. Referral requirement.
+21 A naturopathic physician shall refer to a physician licensed to
+22 practice in the state any patient whose medical condition is determined, at
+23 the time of evaluation or treatment, to be beyond the scope of practice of
+24 the naturopathic physician.
+25
+26 17-108-306. Criminal background check.
+27 (a)(1) Each applicant for a license issued by the Arkansas State Board
+28 of Natural Medicine is required to apply to the Identification Bureau of the
+29 Division of Arkansas State Police for a state and federal criminal background
+30 check to be conducted by the Identification Bureau of the Division of
+31 Arkansas State Police and the Federal Bureau of Investigation.
+32 (2) A license shall not be issued to an applicant until the
+33 board receives and approves the state and federal criminal background check.
+34 (b) The criminal background check shall conform to applicable federal
+35 standards that are in effect on January 1, 2025, and shall include the taking
+36 of fingerprints.
+11 04-08-2025 10:16:01 JMB077
+As Engrossed: S2/18/25 S2/25/25 S3/11/25 S3/31/25 H4/8/25 SB117
+1 (c) The applicant shall sign a release of information to the board and
+2 shall be responsible to the Division of Arkansas State Police for the payment
+3 of any fee associated with the criminal background check.
+4 (d) Upon completion of the criminal background check, the
+5 Identification Bureau of the Division of Arkansas State Police shall forward
+6 to the board all releasable information obtained concerning the applicant in
+7 the commission of any offense listed in subsection (e) of this section.
+8 (e) Except as provided in subsection (f) of this section, a person
+9 shall not receive or hold a license issued by the board if the person has
+10 been convicted of or pleaded guilty or nolo contendere to any felony listed
+11 under § 17-3-102 or a crime involving fraud, dishonesty, untruthfulness, or
+12 untrustworthiness, or is a registered sex offender or required to register as
+13 a sex offender.
+14 (f)(1) The provisions of subsection (e) of this section may be waived
+15 by the board upon the request of:
+16 (A) An affected applicant for licensure; or
+17 (B) The person holding a license subject to sanctions.
+18 (2) Circumstances for which a waiver may be granted shall
+19 include without limitation:
+20 (A) The age at which the crime was committed;
+21 (B) The circumstances surrounding the crime;
+22 (C) The length of time since the crime was committed;
+23 (D) Subsequent work history;
+24 (E) Employment references;
+25 (F) Character references; and
+26 (G) Other evidence demonstrating that the applicant does
+27 not pose a threat to the public.
+28 (g)(1) Information received by the board from the Identification
+29 Bureau of the Division of Arkansas State Police or the Federal Bureau of
+30 Investigation under this section shall not be available for examination
+31 except by:
+32 (A) The affected applicant for licensure or his or her
+33 authorized representative; or
+34 (B) The person whose license is subject to revocation or
+35 his or her authorized representative.
+36 (2) A record, file, or document shall not be removed from the
+12 04-08-2025 10:16:01 JMB077
+As Engrossed: S2/18/25 S2/25/25 S3/11/25 S3/31/25 H4/8/25 SB117
+1 custody of the division.
+2 (h) Information made available to the affected applicant for licensure
+3 or the person whose license is subject to revocation shall pertain to that
+4 person only.
+5 (i) Rights of privilege and confidentiality established in this
+6 section shall not extend to any document created for purposes other than the
+7 background check.
+8 (j) The board may adopt rules to fully implement this section.
+9
+10 SECTION 2. Arkansas Code § 17-102-102(1), concerning the definition of
+11 "acupuncture" within the Arkansas Acupuncture Practices Act, is amended to
+12 read as follows:
+13 (1) “Acupuncture” means the insertion, manipulation, and removal
+14 of filiform needles from the body and the use of other modalities and
+15 procedures at specific locations on the body for the prevention, cure, or
+16 correction of a malady, illness, injury, pain, or other condition or disorder
+17 by controlling and regulating the flow and balance of energy and functioning
+18 of the patient to restore and maintain health, but acupuncture shall not be
+19 considered surgery;
+20
+21 SECTION 3. Arkansas Code § 17-102-102(3), concerning the definition of
+22 "board" within the Arkansas Acupuncture Practices Act, is repealed.
+23
+24 (3) “Board” means the Arkansas State Board of Acupuncture and
+25 Related Techniques;
+26
+27 SECTION 4. Arkansas Code § 17-102-103(a)(1), concerning the
+28 disposition of funds under the Arkansas Acupuncture Practices Act, is amended
+29 to read as follows:
+30 (a)(1) All fees authorized by this chapter are the property of the
+31 Arkansas State Board of Acupuncture and Related Techniques Natural Medicine
+32 and shall be provided to the Treasurer of the Arkansas State Board of
+33 Acupuncture and Related Techniques Natural Medicine to be disposed of as
+34 provided in this chapter.
+35
+36 SECTION 5. Arkansas Code § 17-102-104(c) is amended to read as
+13 04-08-2025 10:16:01 JMB077
+As Engrossed: S2/18/25 S2/25/25 S3/11/25 S3/31/25 H4/8/25 SB117
+1 follows:
+2 (c) A person licensed or certified under this chapter shall not
+3 identify himself or herself as a doctor or physician unless he or she has
+4 earned a doctorate degree or transitional doctoral degree from an accredited,
+5 approved, or authorized education institution as approved by Arkansas State
+6 Board of Natural Medicine.
+7
+8 SECTION 6. Arkansas Code § 17-102-106 is amended to read as follows:
+9 17-102-106. Prosecution of violations.
+10 It shall be the duty of the several prosecuting attorneys of the State
+11 of Arkansas to prosecute to final judgment every criminal violation of this
+12 chapter committed within their jurisdictions when requested and authorized by
+13 the Arkansas State Board of Acupuncture and Related Techniques Natural
+14 Medicine.
+15
+16 SECTION 7. Arkansas Code Title 17, Chapter 102, Subchapter 2, as
+17 amended by Sections 33, 34, and 35 of Acts 2025, No. 170, is amended to read
+18 as follows:
+19 Subchapter 2 — Arkansas State Board of Acupuncture and Related Techniques
+20 Natural Medicine
+21
+22 17-102-201. Creation of board — Members — Appointment.
+23 (a)(1)(A) There is created the Arkansas State Board of Acupuncture and
+24 Related Techniques Natural Medicine.
+25 (B) The board shall consist of five (5) eight (8) persons
+26 appointed by the Governor as full members and one (1) person appointed by the
+27 Governor as an ex officio member subject to confirmation by the Senate for
+28 terms of three (3) years, except as provided in subsection (b) of this
+29 section.
+30 (2) Three (3) full members of the board shall be qualified
+31 acupuncturists.
+32 (3) Three (3) members shall be qualified naturopathic
+33 physicians.
+34 (3)(A)(4)(A) Two (2) full members shall be appointed to
+35 represent the public and shall not have practiced acupuncture and related
+36 techniques, naturopathic medicine, or any other medical professional
+14 04-08-2025 10:16:01 JMB077
+As Engrossed: S2/18/25 S2/25/25 S3/11/25 S3/31/25 H4/8/25 SB117
+1 regulated by the board in this or any other jurisdiction nor be retired from
+2 or have any financial interest in the occupation occupations regulated.
+3 (B) The public members shall be subject to confirmation by
+4 the Senate. One (1) member shall represent consumers, and one (1) member
+5 shall be sixty (60) years of age or older and shall be the representative of
+6 the elderly.
+7 (C) The same member shall not represent both consumers and
+8 the elderly under subdivision (a)(4)(B) of this section.
+9 (C)(D) The public members shall be full voting members but
+10 shall not participate in the grading of examinations.
+11 (4)(A) The ex officio member shall be a physician licensed
+12 pursuant to the Arkansas Medical Practices Act, § 17-95-201 et seq., § 17-95-
+13 301 et seq., and § 17-95-401 et seq., and shall be entitled to be notified of
+14 all board meetings and to participate in the deliberations of the board.
+15 (B) However, the ex officio member shall have no vote,
+16 shall not serve as an officer of the board, and shall not be counted to
+17 establish a quorum or a majority necessary to conduct business.
+18 (5)(A) On a biennial basis, the board shall file a written
+19 report with the House Committee on Public Health, Welfare, and Labor and the
+20 Senate Committee on Public Health, Welfare, and Labor.
+21 (B) The report shall contain a certified copy of the
+22 minutes of all board meetings as required by § 17-102-205 for the calendar
+23 years covering the period of time since the last report.
+24 (C) The report shall contain a comprehensive assessment of
+25 the board's functionality, including without limitation staff and office site
+26 adequacy and any other information as may be requested by the House Committee
+27 on Public Health, Welfare, and Labor and the Senate Committee on Public
+28 Health, Welfare, and Labor sufficient for the House Committee on Public
+29 Health, Welfare, and Labor and the Senate Committee on Public Health,
+30 Welfare, and Labor to make a recommendation to the Governor regarding whether
+31 the board should be continued or whether the board should be disbanded and
+32 abolished in accordance with a proclamation issued by the Governor.
+33 (b)(1) The initial full members of the board shall be appointed by the
+34 Governor for staggered terms as follows:
+35 (A) One (1) member's term shall expire after one (1) year;
+36 (B) One (1) member's term shall expire after two (2)
+15 04-08-2025 10:16:01 JMB077
+As Engrossed: S2/18/25 S2/25/25 S3/11/25 S3/31/25 H4/8/25 SB117
+1 years; and
+2 (C) One (1) member's term shall expire after three (3)
+3 years.
+4 (2) Of the two (2) additional members appointed pursuant to Acts
+5 1999, No. 536, one (1) shall be appointed for a two-year term and the other
+6 for a three-year term.
+7 (3) The initial ex officio board member shall be appointed to a
+8 term of three (3) years.
+9 (4) Successors shall be appointed for three-year terms.
+10 (5)(2) Vacancies shall be filled by appointment by the Governor
+11 for the unexpired term.
+12 (6)(3) Board members shall serve until their successors have
+13 been appointed and qualified.
+14 (c) The Governor may remove any full member from the board for any
+15 reason that would justify the suspension or revocation of his or her license
+16 to practice acupuncture and related techniques.
+17 The term of each member shall expire on December 31 of the year
+18 designated, and a successor appointee shall be named by the Governor, subject
+19 to confirmation by the Senate, on or before the expiration date of the term
+20 expiring.
+21 (d)(1) Vacancies shall be filled by appointment by the Governor within
+22 thirty (30) days of the vacancy.
+23 (2) Vacancies of a professional member must be filled by a
+24 qualified appointee from the same profession.
+25 (e) The members of the board shall take the oath prescribed by the
+26 Arkansas Constitution for state officers before entering upon the discharge
+27 of their duties.
+28 (f)(1) A member of the board may be removed from the board by the
+29 Governor:
+30 (A) For good cause under § 25-16-804;
+31 (B) For cause including dishonorable or unprofessional
+32 conduct, abuse of authority, malfeasance, misfeasance, or nonfeasance; or
+33 (C) For any reason that would justify probation,
+34 suspension, or revocation of his or her license to practice in the medical
+35 profession he or she represents.
+36 (2) A member of the board shall not be involved in an
+16 04-08-2025 10:16:01 JMB077
+As Engrossed: S2/18/25 S2/25/25 S3/11/25 S3/31/25 H4/8/25 SB117
+1 investigation except to cooperate with the investigation as required by the
+2 investigator.
+3 (d)(g) A person who is or has been in the preceding two (2) years on
+4 the faculty of a school which is subject to review by the board may not serve
+5 on the board.
+6
+7 17-102-202. Board members — Qualifications.
+8 (a) Each member of the Arkansas State Board of Acupuncture and Related
+9 Techniques Natural Medicine shall be a citizen of the United States, a
+10 resident of this state, and, before entering upon the duties of the office,
+11 shall take the oath prescribed by the Arkansas Constitution for state
+12 officers and shall file it with the Secretary of State who shall thereupon
+13 issue to each person so appointed a certificate of appointment.
+14 (b) Each full professional member who is a qualified acupuncturist
+15 also shall be a graduate of a reputable school or institute of acupuncture or
+16 Oriental medicine and be certified by the National Certification Commission
+17 for Acupuncture and Oriental Medicine.
+18
+19 17-102-203. Board members — Liability.
+20 (a) A No member of the Arkansas State Board of Acupuncture and Related
+21 Techniques Natural Medicine during the term of his or her office or
+22 thereafter shall not be liable for damages as a result of any official act in
+23 the performance of his or her duty as such a member.
+24 (b) Any action therefor shall upon motion be dismissed with prejudice
+25 at the cost of the plaintiff.
+26
+27 17-102-204. Board organization — Meetings.
+28 (a) The Arkansas State Board of Acupuncture and Related Techniques
+29 shall in May each year hold a meeting and elect from the board's membership a
+30 president, a secretary, and a treasurer for terms set by the board.
+31 (b)(1) It shall be the duty of the board to meet regularly one (1)
+32 time in every six (6) months.
+33 (2) Special meetings of the board may be called at any time at
+34 the pleasure of the President of the Arkansas State Board of Acupuncture and
+35 Related Techniques or by the Secretary of the Arkansas State Board of
+36 Acupuncture and Related Techniques on the request of any two (2) full members
+17 04-08-2025 10:16:01 JMB077
+As Engrossed: S2/18/25 S2/25/25 S3/11/25 S3/31/25 H4/8/25 SB117
+1 of the board.
+2 (3) Three (3) full members shall constitute a quorum at any
+3 meeting of the board.
+4 (c) The board shall determine by its own rules the time and manner of
+5 giving notice to members of meetings and other matters.
+6 (d) Any action of the board shall require an affirmative vote of a
+7 majority of the full membership of the board, excluding the ex officio
+8 member.
+9 (a)(1) Within thirty (30) days of appointment of members, the members
+10 of the Arkansas State Board of Natural Medicine shall meet and organize by
+11 electing a chair, vice chair, secretary, and treasurer.
+12 (2) The Treasurer of the Arkansas State Board of Natural
+13 Medicine shall give bond in such amount as may be designated by the board,
+14 which may be increased or decreased from time to time, conditioned for the
+15 faithful disbursement and accounting of all moneys coming into his or her
+16 hands as the treasurer.
+17 (b) The board shall hold its regular meetings as established by rule
+18 of the board and shall have the power to call and hold special meetings at
+19 such times and places as deemed necessary.
+20
+21 17-102-205. Board minutes — Records.
+22 (a) The Secretary of the Arkansas State Board of Acupuncture and
+23 Related Techniques Natural Medicine shall keep a record of the minutes of its
+24 meetings and a record of all persons making application for license and the
+25 action of the Arkansas State Board of Acupuncture and Related Techniques
+26 Natural Medicine thereon.
+27 (b) The secretary shall also keep a record of the names, addresses,
+28 and license numbers of all acupuncturists licensed by the board, together
+29 with a record of license renewals, suspensions, and revocations.
+30
+31 17-102-206. Board duties and powers.
+32 (a)(1) The Arkansas State Board of Acupuncture and Related Techniques
+33 Natural Medicine is empowered to incur whatever expenses it may deem
+34 necessary or expedient in performing its functions.
+35 (2) All of the disbursements provided for in this section shall
+36 be out of the fees and fines collected by the Arkansas State Board of
+18 04-08-2025 10:16:01 JMB077
+As Engrossed: S2/18/25 S2/25/25 S3/11/25 S3/31/25 H4/8/25 SB117
+1 Acupuncture and Related Techniques Natural Medicine.
+2 (b) The Arkansas State Board of Acupuncture and Related Techniques is
+3 authorized to Natural Medicine shall:
+4 (1) Make suitable bylaws for carrying out the duties of the
+5 Arkansas State Board of Acupuncture and Related Techniques Natural Medicine
+6 under the provisions of this chapter;
+7 (2) Sue and be sued;
+8 (3) Have an official seal that shall bear the words “Arkansas
+9 State Board of Acupuncture and Related Techniques Natural Medicine”;
+10 (4)(A) Provide a secretary's certificate.
+11 (B) The certificate of the Secretary of the Arkansas State
+12 Board of Acupuncture and Related Techniques Natural Medicine under seal shall
+13 be accepted in the courts of the state as the best evidence as to the minutes
+14 of the Arkansas State Board of Acupuncture and Related Techniques Natural
+15 Medicine and shall likewise be accepted in the courts of the state as the
+16 best evidence as to the licensure or nonlicensure of any person under the
+17 requirements of this chapter;
+18 (5)(A) Adopt, publish, and, from time to time, revise rules
+19 consistent with the law as may be necessary to enable the Arkansas State
+20 Board of Acupuncture and Related Techniques Natural Medicine to carry into
+21 effect the provisions of this chapter and the Naturopathic Physician Practice
+22 Act, § 17-108-101 et seq.
+23 (B) All proposed rules after July 31, 2009, shall be
+24 approved in writing by the Arkansas State Medical Board under the Arkansas
+25 Administrative Procedure Act, § 25-15-201 et seq., but before submission to
+26 the Administrative Rules Subcommittee of the Legislative Council;
+27 (6) Keep a record of all proceedings, receipts, and
+28 disbursements of the Arkansas State Board of Acupuncture and Related
+29 Techniques Natural Medicine;
+30 (7) Adopt standards for applicants wishing to take the licensing
+31 examination under this chapter and conduct examinations or contract with
+32 persons or entities to conduct examinations of applicants under this chapter;
+33 (8)(A) Grant, deny, renew, suspend, or revoke licenses to
+34 practice acupuncture and related techniques for any cause stated in this
+35 chapter.
+36 (B) Except as otherwise provided by this chapter, the
+19 04-08-2025 10:16:01 JMB077
+As Engrossed: S2/18/25 S2/25/25 S3/11/25 S3/31/25 H4/8/25 SB117
+1 Arkansas State Board of Acupuncture and Related Techniques Natural Medicine
+2 shall have exclusive jurisdiction to determine who shall be permitted to
+3 practice acupuncture and related techniques in the State of Arkansas; and
+4 (9) Conduct disciplinary proceedings under this chapter and the
+5 Naturopathic Physician Practice Act, § 17-108-101 et seq.;
+6 (10) Develop a means to provide information to all professionals
+7 in this state governed by the Arkansas State Board of Natural Medicine; and
+8 (11) Provide for:
+9 (A) The investigation of complaints against any person
+10 regulated by the Arkansas State Board of Natural Medicine or holding himself
+11 or herself out to be a professional regulated by the Arkansas State of
+12 Natural Medicine;
+13 (B) The publication of information for the public about
+14 professions and practices regulated by the Arkansas State Board of Natural
+15 Medicine; and
+16 (C) An orderly process for the reinstatement of a license.
+17 (c)(1) In the performance of the duties of the Arkansas State Board of
+18 Acupuncture and Related Techniques Natural Medicine, the Arkansas State Board
+19 of Acupuncture and Related Techniques Natural Medicine may administer oaths
+20 and take testimony on any matters within the Arkansas State Board of
+21 Acupuncture and Related Techniques' Natural Medicine's jurisdiction and issue
+22 subpoenas and thereby compel the attendance of persons before the Arkansas
+23 State Board of Acupuncture and Related Techniques Natural Medicine for the
+24 purpose of examining any facts or conditions properly pending before the
+25 Arkansas State Board of Acupuncture and Related Techniques Natural Medicine
+26 for action of the Arkansas State Board of Acupuncture and Related Techniques
+27 Natural Medicine.
+28 (2) All subpoenas issued by the Arkansas State Board of
+29 Acupuncture and Related Techniques Natural Medicine shall be served in the
+30 manner prescribed by law for the service of subpoenas issuing from the
+31 courts, and all persons so served shall obey the subpoenas or be subject to
+32 the penalties provided by law for the disobedience of subpoenas issuing from
+33 the courts.
+34
+35 SECTION 8. Arkansas Code § 17-102-303(c), concerning the unlawful
+36 practices and penalties under the Arkansas Acupuncture Practices Act, is
+20 04-08-2025 10:16:01 JMB077
+As Engrossed: S2/18/25 S2/25/25 S3/11/25 S3/31/25 H4/8/25 SB117
+1 amended to read as follows:
+2 (c)(1) The courts of this state having general equity jurisdiction are
+3 vested with jurisdiction and power to enjoin the unlawful practice of
+4 acupuncture and related techniques in a proceeding by the Arkansas State
+5 Board of Acupuncture and Related Techniques Natural Medicine or any member
+6 thereof or by any citizen of this state in the county in which the alleged
+7 unlawful practice occurred or in which the defendant resides or in Pulaski
+8 County.
+9 (2) The issuance of an injunction shall not relieve a person
+10 from criminal prosecution for violation of the provisions of this chapter,
+11 but the remedy of injunction shall be in addition to liability to criminal
+12 prosecution.
+13
+14 SECTION 9. Arkansas Code § 17-102-304(a)(1) and (2), concerning the
+15 application and qualifications to be licensed as an acupuncturist under the
+16 Arkansas Acupuncture Practices Act, are amended to read as follows:
+17 (a)(1) No A person shall not be licensed to practice acupuncture and
+18 related techniques unless he or she has passed an examination and has been
+19 found to have the necessary qualifications as prescribed in the rules adopted
+20 by the Arkansas State Board of Acupuncture and Related Techniques Natural
+21 Medicine.
+22 (2)(A) Applications for a license to practice acupuncture and
+23 related techniques in the State of Arkansas pursuant to this chapter shall be
+24 made to the Secretary of the Arkansas State Board of Acupuncture and Related
+25 Techniques Natural Medicine in writing on forms furnished by the board.
+26 (B) The application shall be signed by the applicant in
+27 his or her own handwriting and acknowledged before an officer authorized to
+28 administer oaths.
+29
+30 SECTION 10. Arkansas Code § 17-102-305(b), concerning examinations for
+31 an acupuncturist under the Arkansas Acupuncture Practices Act, is amended to
+32 read as follows:
+33 (b)(1) The Arkansas State Board of Acupuncture and Related Techniques
+34 Natural Medicine shall hold an examination at least one (1) time each
+35 calendar year, and all applicants shall be notified in writing of the date
+36 and time of all examinations.
+21 04-08-2025 10:16:01 JMB077
+As Engrossed: S2/18/25 S2/25/25 S3/11/25 S3/31/25 H4/8/25 SB117
+1 (2) The board may utilize a nationally recognized examination if
+2 it deems the national exam is sufficient to qualify a practitioner for
+3 licensure in this state.
+4
+5 SECTION 11. Arkansas Code § 17-102-307(1), concerning license renewal
+6 under the Arkansas Acupuncture Practices Act, is amended to read as follows:
+7 (1) Meets all current standards of the Arkansas State Board of
+8 Acupuncture and Related Techniques Natural Medicine; and
+9
+10 SECTION 12. Arkansas Code § 17-102-308(a), concerning continuing
+11 education for acupuncturists under the Arkansas Acupuncture Practices Act, is
+12 amended to read as follows:
+13 (a) The Arkansas State Board of Acupuncture and Related Techniques
+14 Natural Medicine shall not renew the license of any person engaged in the
+15 practice of acupuncture and related techniques unless the licensee presents
+16 to the board evidence of attendance at a board-approved educational session
+17 or sessions of not fewer than twenty-four (24) hours of continuing education
+18 within the previous biennial period.
+19
+20 SECTION 13. Arkansas Code § 17-102-309(a), concerning disciplinary
+21 actions and grounds under the Arkansas Acupuncture Practices Act, is amended
+22 to read as follows:
+23 (a) The following acts by an applicant for a license or by a licensed
+24 acupuncturist shall constitute grounds for which the disciplinary actions
+25 specified in subsection (b) of this section may be taken by the Arkansas
+26 State Board of Acupuncture and Related Techniques Natural Medicine:
+27 (1) Attempting to obtain, obtaining, or renewing a license to
+28 practice acupuncture and related techniques by bribery, fraud, or deceit;
+29 (2) Having pled guilty or nolo contendere to, or having been
+30 found guilty of, a crime in any jurisdiction which directly relates to the
+31 practice of acupuncture and related techniques or to the ability to practice
+32 same;
+33 (3) Advertising, practicing, or attempting to practice under a
+34 name other than one's own;
+35 (4) Making deceptive, untrue, or fraudulent representations in
+36 the practice of acupuncture and related techniques;
+22 04-08-2025 10:16:01 JMB077
+As Engrossed: S2/18/25 S2/25/25 S3/11/25 S3/31/25 H4/8/25 SB117
+1 (5) Becoming mentally incompetent or unfit or incompetent by
+2 reason of negligence, habits, or other causes;
+3 (6) Becoming habitually intemperate or addicted to the use of
+4 habit-forming drugs, illegal drugs, or alcohol;
+5 (7) Acting unprofessionally in the practice of acupuncture and
+6 related techniques;
+7 (8) Committing fraud or deceit in filing insurance forms,
+8 documents, or information pertaining to the health or welfare of a patient;
+9 or
+10 (9) Willfully or repeatedly violating any of the provisions of
+11 this chapter or any rule or order of the board.
+12
+13 SECTION 14. Arkansas Code § 25-16-903(1), concerning the authorization
+14 for a sixty dollar ($60.00) stipend, is amended to read as follows:
+15 (1) Arkansas State Board of Acupuncture and Related Techniques
+16 Natural Medicine;
+17
+18 SECTION 15. Arkansas Code § 25-43-802(a)(15), concerning the state
+19 entities transferred to the Department of Health, is amended to read as
+20 follows:
+21 (15) The Arkansas State Board of Acupuncture and Related
+22 Techniques Natural Medicine, created under § 17-102-201;
+23
+24 SECTION 16. DO NOT CODIFY. TEMPORARY LANGUAGE. Issuance of first
+25 licenses.
+26 On or before December 1, 2025, the Arkansas State Board of Natural
+27 Medicine shall issue licenses to those applicants who have met the
+28 requirements of this act and board rules promulgated in accordance with this
+29 act.
+30
+31 SECTION 17. DO NOT CODIFY. TEMPORARY LANGUAGE. Transition period -
+32 Membership.
+33 (a)(1) Except as provided in subdivision (a)(2) of this section, the
+34 existing members of the Arkansas State Board of Acupuncture and Related
+35 Techniques shall have their terms expire upon the effective date of this act.
+36 (2) The two (2) members of the Arkansas State Board of
+23 04-08-2025 10:16:01 JMB077
+As Engrossed: S2/18/25 S2/25/25 S3/11/25 S3/31/25 H4/8/25 SB117
+1 Acupuncture and Related Techniques who represent the public shall continue to
+2 serve as members of the Arkansas State Board of Natural Medicine and shall
+3 exercise the powers and duties assigned until the expiration of the members'
+4 terms.
+5 (3) Members of the Arkansas State Board of Acupuncture and
+6 Related Techniques may be appointed to serve as members of the Arkansas State
+7 Board of Natural Medicine.
+8 (b) Except as provided in subdivision (a)(2) of this section, upon the
+9 effective date of this act, the initial members of the Arkansas State Board
+10 of Natural Medicine created under this act shall be appointed by the Governor
+11 for staggered terms as follows:
+12 (1) The term of one (1) member who is an acupuncturist and one
+13 (1) member who is a naturopathic physician shall expire after one (1) year;
+14 (2) The term of one (1) member who is an acupuncturist and one
+15 (1) member who is a naturopathic physician shall expire after two (2) years;
+16 and
+17 (3) The term of one (1) member who is an acupuncturist and one
+18 (1) member who is a naturopathic physician shall expire after three (3)
+19 years.
+20
+21 /s/C. Penzo
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+24 04-08-2025 10:16:01 JMB077
+[DELETED:  A       A A P B   T P O A O  B   S c C N  S   1  T P   1  (]
+[DELETED:  S2 0   ( t a   ( p f  ( n i p t e   1  A   ( s s n   ( v d a o b   ( o s   ( t s P   ( p   (    (]
+[DELETED:  S3 0    (    (    (    ( n   (    ( a    (    ( s t   ( a p a s    (     ( s o     ( e s   ( t i ( ( n b    (    (    (    (    (]
+[DELETED:  S4 0    (    (    (    (    (     (    (    (    (    (    (    (  (   ( t w   ( n N n s   (    (    (    (    (   ( e p    (    (    (    (    (    (  (]
+[DELETED:  S5 0   1  T   ( i p   ( i m a i   ( i   ( l w i i   ( n n p    (    ( l    ( i   1  ( "  ( r   (   (   (]
+[DELETED:  S6 0   (   (   (   (   (  ( n a r  ( p n a i   ( g    ( p    ( " h    ( l   1  ( r s  ( s a   (    ( S N     (]
+[DELETED:  S7 0 s     ( f e p     ( o c a    ( t o p n c r N a r    ( h o i c d t l j e N a i    ( h p l]
+[DELETED:  S8 0 a o a A   ( n A b a e b C m  S   1 d  T   ( d l     ( e   (    (    (    (    (    ( t    ( e    ( c    (]
+[DELETED:  S9 0    (   ( d   ( p   (    ( p t    ( n s    (   ( s  S   1  T w   ( f    ( a    ( e    (     ( s     ( n     ( m    ( p]
+[DELETED:  S1 0   ( c a   ( o s a u s   1  A i   (   (   (   ( d   ( d   ( f a s a   ( i c   (   ( ( m   1 C  (]
+[DELETED:  S1 0 (  ( o   (   (   ( a   ( t  ( a l   1  A p s a   1  A p t t   1  ( o D c A   ( b  ( s o]
+[DELETED:  S1 0  ( s o  ( I t t  ( s b u u a  ( b    (    (   ( i    (    (    (    (    (    (    ( n  ( B I e    ( a    ( h   (]
+[DELETED:  S1 0 c  ( o p  ( s b  (   S " r   ( o p c b o c   S "    ( R   S d t  ( A a A p   S]
+[DELETED:  S1 0 f  ( i e a B   S  1  I o c t M   S a a S N   1  ( R    ( a G t s   ( a   ( p   ( r t]
+[DELETED:  S1 0 r o    ( t s t    ( t    ( s   ( p 3 a    ( s e   ( r S    ( m y    ( t a o H H W t a  ( G    (    (]
+[DELETED:  S1 0 y    ( y   ( 1 f   ( t   (   ( f   ( b  ( r t  T d t e  ( t   ( q  ( A o  ( G    (    ( c    ( s p   (]
+[DELETED:  S1 0 i i  ( t o   1  ( T r s o i  ( a O f   1  ( T t t  ( a   1  ( s p  ( t   ( t R A]
+[DELETED:  S1 0 o   ( m  ( g  ( m m  ( o e   ( M w f h  ( o s   1  ( R m a N  ( a w   1  ( N n   ( b]
+[DELETED:  S1 0 A  ( a   ( A u   (   ( S   (    ( B b o M b r   ( c B e A    ( a A t   ( d T   ( e p   ( p c    (]
+[DELETED:  S2 0 A s p   ( N   ( i   (    ( r o N    ( p M    (  ( A o a A s S p A f N   ( A m c t t   S p]
+[DELETED:  S2 0 a  ( v a B t u C   ( f b p   S a A  ( r f b M   ( r m T    ( h a   S a r  ( N c a]
+[DELETED:  S2 0   ( i l   S u   ( A   S e a  ( N p t o w   S a t  ( a s S   ( p   ( f p s   ( n   ( t]
+[DELETED:  S2 0   ( r   ( h   ( r   ( d o   ( t   S f   ( N   S e f   ( T   S l  O M r a   S M  ( e T   (]
+[DELETED:  S2 0 A s e t   ( R B  ( e o f   ( (   ( ( a   ( ( y  /               ]
+
+
+================================================================================
+
+Raw Text:
+Stricken language would be deleted from and underlined language would be added to present law.
+1 State of ArkansasAs Engrossed: S2/18/25 S2/25/25 S3/11/25 S3/31/25 H4/8/25
+A Bill
+2 95th General Assembly
+3 Regular Session, 2025 SENATE BILL 117
+4
+5 By: Senator C. Penzo
+6 By: Representative Long
+7
+For An Act To Be Entitled
+8
+9 AN ACT TO CREATE THE NATUROPATHIC PHYSICIAN PRACTICE
+10 ACT; TO PROVIDE FOR LICENSURE OF NATUROPATHIC
+11 PHYSICIANS IN ARKANSAS; TO CREATE THE ARKANSAS STATE
+12 BOARD OF NATURAL MEDICINE; AND FOR OTHER PURPOSES.
+13
+14
+Subtitle
+15
+16 TO CREATE THE NATUROPATHIC PHYSICIAN
+17 PRACTICE ACT; TO PROVIDE FOR LICENSURE
+18 OF NATUROPATHIC PHYSICIANS IN ARKANSAS;
+19 AND TO CREATE THE ARKANSAS STATE BOARD
+20 OF NATURAL MEDICINE.
+21
+22 BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF ARKANSAS:
+23
+24 SECTION 1. Arkansas Code Title 17 is amended to add an additional
+25 chapter to read as follows:
+26 CHAPTER 108
+27 NATUROPATHIC PHYSICIAN PRACTICE ACT
+28
+29 Subchapter 1 — General Provisions
+30
+31 17-108-101. Title.
+32 This subchapter shall be known and may be cited as the "Naturopathic
+33 Physician Practice Act".
+34
+35 17-108-102. Legislative findings and intent.
+36 (a) The General Assembly finds that:
+*JMB077*
+04-08-2025 10:16:01 JMB077
+
+As Engrossed: S2/18/25 S2/25/25 S3/11/25 S3/31/25 H4/8/25 SB117
+1 (1) The practice of naturopathic medicine in this state affects
+2 the public health, safety, and welfare and should be subject to regulation
+3 and control in the public interest; and
+4 (2) Naturopathic physicians comprise a distinct healthcare
+5 profession that affects the public health, safety, and welfare and increases
+6 freedom of choice in health care in this state.
+7 (b) It is the intent of the General Assembly to ensure that
+8 naturopathic physicians and the practice of naturopathic medicine as defined
+9 in this subchapter merit the confidence of the public, that only qualified
+10 persons be authorized to practice naturopathic medicine in this state, and
+11 that a person shall not practice naturopathic medicine without a valid
+12 existing license.
+13
+14 17-108-103. Definitions.
+15 As used in this subchapter:
+16 (1) "Approved naturopathic medical school" means a medical
+17 school approved by the Arkansas State Board of Natural Medicine under this
+18 subchapter that prepares a naturopathic physician for the practice of
+19 naturopathic medicine;
+20 (2) "Clinical laboratory procedure" means the use of
+21 venipuncture consistent with naturopathic medical practice, commonly used
+22 diagnostic modalities consistent with naturopathic practice, the recording of
+23 a patient's health history, physical examination, ordering and interpretation
+24 of radiographic diagnostics, and other standard imaging and examination of
+25 body orifices, excluding endoscopy and colonoscopy;
+26 (3) "Electromagnetism” means the administration of electricity
+27 or its derivatives to assist in tissue healing and regeneration by cell
+28 stimulation, removal of edema and inflammatory mediators, and angiogenesis;
+29 (4) "Homeopathic medicine" means a system of medicine based on
+30 the use of infinitesimal doses of substances capable of producing symptoms
+31 similar to those of the disease treated, as listed in the Homeopathic
+32 Pharmacopoeia of the United States;
+33 (5) "Hygiene" means the use of preventive techniques, including
+34 personal hygiene, asepsis, public health, and safety;
+35 (6) "Laboratory examination" means:
+36 (A) Phlebotomy;
+2 04-08-2025 10:16:01 JMB077
+
+As Engrossed: S2/18/25 S2/25/25 S3/11/25 S3/31/25 H4/8/25 SB117
+1 (B) A clinical laboratory procedure;
+2 (C) An orificial examination;
+3 (D) A physiological function test; and
+4 (E) A screening or test that is consistent with
+5 naturopathic education and training;
+6 (7) "Naturopathic medicine" means:
+7 (A) A system of health care for the prevention, diagnosis,
+8 and treatment of human health conditions, injury, and disease;
+9 (B) The promotion or restoration of health; and
+10 (C) The support and stimulation of a patient's inherent
+11 self-healing processes through patient education and the use of naturopathic
+12 therapies and therapeutic substances;
+13 (8)(A) “Naturopathic physical medicine” means the manual
+14 administration of mechanical treatment to body structures or tissues for the
+15 purpose of restoring normal physiological function to the body by normalizing
+16 and balancing the musculoskeletal system of the body, including massage,
+17 stretching, resistance, or joint play examination.
+18 (B) “Naturopathic physical medicine” does not include:
+19 (i) The employment or application of chiropractic or
+20 spinal adjustments and the principles or techniques of chiropractic science;
+21 or
+22 (ii) The manipulation or adjustment of the spine or
+23 extremity joints of the human body beyond the elastic barrier, including
+24 small amplitude movement at or beyond the end range of normal joint motion;
+25 (9) "Naturopathic physician" means an individual licensed under
+26 this subchapter as a naturopathic physician to practice naturopathic medicine
+27 in this state;
+28 (10) "Naturopathic therapeutic medicine" means the use of one
+29 (1) or more of the following physical agents in a manner consistent with
+30 naturopathic medical practice on a part or the whole of the body, by hand or
+31 by mechanical means, in the resolution of a human ailment or condition:
+32 (A) Air;
+33 (B) Water;
+34 (C) Heat;
+35 (D) Cold;
+36 (E) Sound;
+3 04-08-2025 10:16:01 JMB077
+
+As Engrossed: S2/18/25 S2/25/25 S3/11/25 S3/31/25 H4/8/25 SB117
+1 (F) Light;
+2 (G) Electromagnetism;
+3 (H) Soft tissue therapy;
+4 (I) Therapeutic exercise; or
+5 (J) Naturopathic physical medicine;
+6 (11) "Naturopathic therapy" means the use of:
+7 (A) Naturopathic therapeutic medicine;
+8 (B) Suggestion;
+9 (C) Hygiene;
+10 (D) A therapeutic substance;
+11 (E) Nutrition and food science;
+12 (F) Homeopathic medicine; or
+13 (G) A clinical laboratory procedure;
+14 (12) "Nutrition and food science" means the prevention and
+15 treatment of disease or other human conditions through the use of food,
+16 water, herbs, roots, bark, or natural food elements;
+17 (13) "Professional examination" means a competency-based
+18 national naturopathic physician licensing examination administered by the
+19 North American Board of Naturopathic Examiners or its successor agency, which
+20 nationally administers a naturopathic examination that represents federal
+21 standards of education and training;
+22 (14) "Suggestion" means a technique using:
+23 (A) Biofeedback;
+24 (B) Hypnosis;
+25 (C) Health education; or
+26 (D) Health counseling; and
+27 (15) "Therapeutic substance" means any of the following
+28 exemplified in a standard naturopathic medical text, journal, or
+29 pharmacopeia:
+30 (A) A vitamin;
+31 (B) A mineral;
+32 (C) A nutraceutical;
+33 (D) A botanical medicine;
+34 (E) Oxygen;
+35 (F) A homeopathic medicine; or
+36 (G) Other physiologic substance.
+4 04-08-2025 10:16:01 JMB077
+
+As Engrossed: S2/18/25 S2/25/25 S3/11/25 S3/31/25 H4/8/25 SB117
+1
+2 17-108-104. Exemptions.
+3 This subchapter does not prohibit or restrict:
+4 (1) The practice of a healthcare profession by an individual who
+5 is licensed, certified, or registered under the laws of this state and who is
+6 performing services within the individual's scope of practice;
+7 (2) The practice of naturopathic medicine by a student enrolled
+8 in an approved naturopathic medical school if the practice of naturopathic
+9 medicine by a student is performed under a course of instruction or an
+10 assignment from an instructor and under the supervision of an instructor who
+11 is a licensee or a duly licensed professional in the instructed field;
+12 (3) A person that sells a vitamin or herb from providing
+13 information about the vitamin or herb;
+14 (4) The practice of naturopathic medicine by a person who is
+15 licensed to practice in any other state or district in the United States and
+16 who enters this state to consult with a naturopathic physician of this state
+17 if the consultation is limited to examination, recommendation, or testimony
+18 in litigation; or
+19 (5) A person or practitioner who is not licensed as a
+20 naturopathic physician from recommending ayurvedic medicine, herbal remedies,
+21 nutritional advice, homeopathy, or other therapy that is within the scope of
+22 practice of naturopathic medicine if that person or practitioner does not:
+23 (A) Use a title protected under this subchapter;
+24 (B) Represent or assume the character or appearance of a
+25 licensee of this subchapter; or
+26 (C) Otherwise use a name, title, or other designation that
+27 indicates or implies that the person is a licensee of this subchapter.
+28
+29 17-108-105. Title protection.
+30 (a) A licensee shall use the title "naturopathic physician" or
+31 "naturopathic doctor" and the recognized abbreviation "N.D.".
+32 (b) A licensee has the exclusive right to use the following terms in
+33 reference to the licensee's self:
+34 (1) "Naturopathic physician";
+35 (2) "Naturopathic doctor";
+36 (3) "Doctor of naturopathic medicine";
+5 04-08-2025 10:16:01 JMB077
+
+As Engrossed: S2/18/25 S2/25/25 S3/11/25 S3/31/25 H4/8/25 SB117
+1 (4) "Doctor of naturopathy";
+2 (5) "N.D.";
+3 (6) "ND";
+4 (7) "NMD"; and
+5 (8) "N.M.D.".
+6 (c) An individual represents the individual's self to be a
+7 naturopathic physician or a naturopathic doctor when the individual uses or
+8 adopts any of the terms in subdivisions (b)(1)-(8) of this section in
+9 reference to the individual's self.
+10 (d)(1) An individual shall not represent the individual's self to the
+11 public as a naturopathic physician, naturopathic doctor, a doctor of
+12 naturopathic medicine, or a doctor of naturopathy, or as being otherwise
+13 authorized to practice naturopathic medicine in the state, unless the
+14 individual is licensed under this subchapter.
+15 (2) An individual who is not licensed under this subchapter is
+16 guilty of a Class A misdemeanor if he or she:
+17 (A) Holds himself or herself out as a naturopathic
+18 physician or naturopathic doctor;
+19 (B) Uses any combination or abbreviation of the term
+20 "naturopathic physician" or "naturopathic doctor" indicating or implying that
+21 he or she is a naturopathic physician or naturopathic doctor; or
+22 (C) Acts as a naturopathic physician without being
+23 licensed by the Arkansas State Board of Natural Medicine.
+24
+25 17-108-106. Approved naturopathic medical school.
+26 (a) The Arkansas State Board of Natural Medicine shall establish, by
+27 rule, guidelines for an approved naturopathic medical school and
+28 specifications for the education of naturopathic physicians in this state.
+29 (b) The guidelines established under subsection (a) of this section
+30 shall include that the approved naturopathic medical school shall require at
+31 a minimum:
+32 (1) Graduation from:
+33 (A) A naturopathic medical education program in the United
+34 States providing the degree of Doctor of Naturopathy or Doctor of
+35 Naturopathic Medicine, that:
+36 (i) Offers graduate-level, full-time didactic, and
+6 04-08-2025 10:16:01 JMB077
+
+As Engrossed: S2/18/25 S2/25/25 S3/11/25 S3/31/25 H4/8/25 SB117
+1 supervised clinical training;
+2 (ii) Is accredited or has achieved candidacy status
+3 for accreditation by the Council on Naturopathic Medical Education or an
+4 equivalent federally recognized accrediting body for naturopathic medical
+5 programs also recognized by the Arkansas State Board of Natural Medicine; and
+6 (iii) Is an institution of higher education or part
+7 of an institution of higher education that is either accredited or is a
+8 candidate for accreditation by a regional or national institutional
+9 accrediting agency recognized by the United States Secretary of Education;
+10 (B) A degree-granting institution of higher education
+11 that, before the existence of the Council on Naturopathic Medical Education,
+12 offered a full-time, structured curriculum in basic sciences and supervised
+13 patient care comprising a doctoral naturopathic medical education requiring
+14 not less than one hundred thirty-two (132) weeks of coursework to be
+15 completed within a period of not less than thirty-five (35) months, that was
+16 reputable and in good standing in the judgment of the Arkansas State Board of
+17 Natural Medicine and which, if still in existence, has current programmatic
+18 accreditation by the Council on Naturopathic Medical Education or a federally
+19 recognized equivalent accrediting agency;
+20 (C) A diploma-granting, degree-equivalent institution of
+21 higher education located in Canada that, before the existence of the Council
+22 on Naturopathic Medical Education, had provincial approval for participation
+23 in government-funded student aid programs, offered a full-time, structured
+24 curriculum in basic sciences and supervised patient care comprising a
+25 doctoral naturopathic medical education requiring not less than one hundred
+26 thirty-two (132) weeks of coursework to be completed within a period of not
+27 less than thirty (30) months, was reputable and in good standing in the
+28 judgment of the Arkansas State Board of Natural Medicine, and, if still in
+29 existence, has current programmatic accreditation by the Council on
+30 Naturopathic Medical Education or a federally recognized equivalent
+31 accrediting agency, and currently has provincial approval for participation
+32 in government-funded student aid programs; or
+33 (D) A diploma-granting, degree-equivalent institution of
+34 higher education located in Canada that has provincial approval for
+35 participation in government-funded student aid programs, offers graduate-
+36 level, full-time didactic, and supervised clinical training, and is
+7 04-08-2025 10:16:01 JMB077
+
+As Engrossed: S2/18/25 S2/25/25 S3/11/25 S3/31/25 H4/8/25 SB117
+1 accredited or has achieved candidacy status for accreditation by the Council
+2 on Naturopathic Medical Education or an equivalent federally recognized
+3 accrediting body for naturopathic medical programs also recognized by the
+4 Arkansas State Board of Natural Medicine; and
+5 (2) Successful completion of a competency-based national
+6 naturopathic medicine licensing examination administered by the North
+7 American Board of Naturopathic Examiners, or an equivalent agency recognized
+8 by the Arkansas State Board of Natural Medicine, or, for graduates of
+9 approved naturopathic medical programs in the United States before the
+10 existence of the Council on Naturopathic Medical Education, a competency-
+11 based state naturopathic medicine licensing examination, or equivalent
+12 Canadian provincial licensing examination for the practice of naturopathic
+13 medicine approved by the Arkansas State Board of Natural Medicine.
+14
+15 Subchapter 2 — Regulatory Agency
+16
+17 17-108-201. Arkansas State Board of Natural Medicine — Powers and
+18 duties.
+19 The Arkansas State Board of Natural Medicine shall:
+20 (1) Regulate the licensure of naturopathic physicians and
+21 determine the hours of continuing education units required for maintaining a
+22 license as a naturopathic physician;
+23 (2) Prescribe the manner in which records of
+24 examinations and treatments shall be kept and maintained;
+25 (3) Establish:
+26 (A) Standards for professional responsibility and conduct;
+27 (B) Criteria for advertising or promotional materials;
+28 (C) Continuing education hours and content;
+29 (D) Standards for the state jurisprudence examination;
+30 (E) Schedules for providing licensing examinations and for
+31 the issuance of examination results;
+32 (F) Procedures and standards for reviewing licensing
+33 examination scores;
+34 (G) Procedures for reviewing transcripts demonstrating
+35 completion of an approved naturopathic medical school;
+36 (H) Requirements for issuance and renewal of licenses; and
+8 04-08-2025 10:16:01 JMB077
+
+As Engrossed: S2/18/25 S2/25/25 S3/11/25 S3/31/25 H4/8/25 SB117
+1 (I) Any other matter necessary to implement this chapter;
+2 (4) Identify disciplinary actions and circumstances that require
+3 disciplinary action;
+4 (5) Develop a means to provide information to all naturopathic
+5 physicians in the state;
+6 (6) Provide for:
+7 (A) The investigation of complaints against naturopathic
+8 physicians or persons holding themselves out as naturopathic physicians in
+9 the state;
+10 (B) The publication of information for the public about
+11 naturopathic physicians and the practice of naturopathic medicine in the
+12 state; and
+13 (C) An orderly process for reinstatement of a license; and
+14 (7) Create and maintain a list of approved naturopathic medical
+15 schools that meet statutory requirements under this chapter.
+16
+17 Subchapter 3 — Licensure
+18
+19 17-108-301. Qualifications for licensure.
+20 The Arkansas State Board of Natural Medicine shall license an applicant
+21 who:
+22 (1) Submits, in accordance with rules of the board, the
+23 following items to the board:
+24 (A) An application for licensure developed by the board
+25 and submitted in accordance with rules of the board;
+26 (B) An application fee submitted in an amount and manner
+27 established by rules of the board;
+28 (C) Evidence that the applicant has:
+29 (i) Graduated from an approved naturopathic medical
+30 school;
+31 (ii) Successfully completed a competency-based
+32 national naturopathic medicine licensing examination; and
+33 (iii) Passed a state jurisprudence examination that
+34 meets standards established in rules of the board;
+35 (D) Evidence of professional liability insurance with
+36 policy limits not less than prescribed by the board;
+9 04-08-2025 10:16:01 JMB077
+
+As Engrossed: S2/18/25 S2/25/25 S3/11/25 S3/31/25 H4/8/25 SB117
+1 (2) Is determined by the board to be physically and mentally
+2 capable of safely practicing naturopathic medicine with or without reasonable
+3 accommodation; and
+4 (3) Has not had a license to practice naturopathic medicine or
+5 other healthcare license, registration, or certificate refused, revoked, or
+6 suspended by any other jurisdiction for reasons that relate to the
+7 applicant's ability to skillfully and safely practice naturopathic medicine
+8 unless that license, registration, or certification has been restored to good
+9 standing by that jurisdiction.
+10
+11 17-108-302. Scope of practice.
+12 A licensee may practice naturopathic medicine to provide primary care
+13 in alignment with naturopathic medical education to:
+14 (1) Perform physical examinations;
+15 (2) Order laboratory examinations;
+16 (3) Order diagnostic imaging studies;
+17 (4) Interpret the results of laboratory examinations for
+18 diagnostic purposes;
+19 (5) Order and, based on a radiologist's report, take action on
+20 diagnostic imaging studies in a manner consistent with naturopathic training;
+21 (6) Prescribe, administer, dispense, and order food, extracts of
+22 food, nutraceuticals, vitamins, amino acids, minerals, enzymes, botanicals
+23 and their extracts, botanical medicines, homeopathic medicines, all dietary
+24 supplements, and nonprescription drugs as defined by the Federal Food, Drug,
+25 and Cosmetic Act, 21 U.S.C. § 301 et seq., as existing on January 1, 2025;
+26 (7) Use routes of administration of therapeutic substances that
+27 include oral, nasal, auricular, ocular, rectal, vaginal, and transdermal
+28 consistent with the education and training of a naturopathic physician;
+29 (8) Perform naturopathic therapeutic medicine;
+30 (9) Employ the use of naturopathic therapy; and
+31 (10) Use therapeutic devices, barrier contraception, and durable
+32 medical equipment.
+33
+34 17-108-303. License expiration and renewal — Denial and revocation —
+35 Continuing education.
+36 (a) A license issued or renewed under this chapter shall expire two
+10 04-08-2025 10:16:01 JMB077
+
+As Engrossed: S2/18/25 S2/25/25 S3/11/25 S3/31/25 H4/8/25 SB117
+1 (2) years following its issuance or renewal.
+2 (b) The Arkansas State Board of Natural Medicine may renew the license
+3 of any naturopathic physician who, upon the expiration of his or her license:
+4 (1) Has submitted an application for renewal;
+5 (2) Has paid the renewal fee established by rules of the board;
+6 (3) Meets the qualifications for licensure under this subchapter
+7 and rules of the board; and
+8 (4) Meets the continuing education requirements established by
+9 the board.
+10 (c) The board shall grant an opportunity for a hearing to applicants
+11 and licensees for whom the board intends to refuse to issue or renew a
+12 license, or whose license the board proposes to revoke or suspend.
+13
+14 17-108-304. Display of license.
+15 A naturopathic physician shall display his or her license in his or her
+16 place of business in a location clearly visible to his or her patients and
+17 shall also display evidence of the naturopathic physician having completed an
+18 approved naturopathic medical school.
+19
+20 17-108-305. Referral requirement.
+21 A naturopathic physician shall refer to a physician licensed to
+22 practice in the state any patient whose medical condition is determined, at
+23 the time of evaluation or treatment, to be beyond the scope of practice of
+24 the naturopathic physician.
+25
+26 17-108-306. Criminal background check.
+27 (a)(1) Each applicant for a license issued by the Arkansas State Board
+28 of Natural Medicine is required to apply to the Identification Bureau of the
+29 Division of Arkansas State Police for a state and federal criminal background
+30 check to be conducted by the Identification Bureau of the Division of
+31 Arkansas State Police and the Federal Bureau of Investigation.
+32 (2) A license shall not be issued to an applicant until the
+33 board receives and approves the state and federal criminal background check.
+34 (b) The criminal background check shall conform to applicable federal
+35 standards that are in effect on January 1, 2025, and shall include the taking
+36 of fingerprints.
+11 04-08-2025 10:16:01 JMB077
+
+As Engrossed: S2/18/25 S2/25/25 S3/11/25 S3/31/25 H4/8/25 SB117
+1 (c) The applicant shall sign a release of information to the board and
+2 shall be responsible to the Division of Arkansas State Police for the payment
+3 of any fee associated with the criminal background check.
+4 (d) Upon completion of the criminal background check, the
+5 Identification Bureau of the Division of Arkansas State Police shall forward
+6 to the board all releasable information obtained concerning the applicant in
+7 the commission of any offense listed in subsection (e) of this section.
+8 (e) Except as provided in subsection (f) of this section, a person
+9 shall not receive or hold a license issued by the board if the person has
+10 been convicted of or pleaded guilty or nolo contendere to any felony listed
+11 under § 17-3-102 or a crime involving fraud, dishonesty, untruthfulness, or
+12 untrustworthiness, or is a registered sex offender or required to register as
+13 a sex offender.
+14 (f)(1) The provisions of subsection (e) of this section may be waived
+15 by the board upon the request of:
+16 (A) An affected applicant for licensure; or
+17 (B) The person holding a license subject to sanctions.
+18 (2) Circumstances for which a waiver may be granted shall
+19 include without limitation:
+20 (A) The age at which the crime was committed;
+21 (B) The circumstances surrounding the crime;
+22 (C) The length of time since the crime was committed;
+23 (D) Subsequent work history;
+24 (E) Employment references;
+25 (F) Character references; and
+26 (G) Other evidence demonstrating that the applicant does
+27 not pose a threat to the public.
+28 (g)(1) Information received by the board from the Identification
+29 Bureau of the Division of Arkansas State Police or the Federal Bureau of
+30 Investigation under this section shall not be available for examination
+31 except by:
+32 (A) The affected applicant for licensure or his or her
+33 authorized representative; or
+34 (B) The person whose license is subject to revocation or
+35 his or her authorized representative.
+36 (2) A record, file, or document shall not be removed from the
+12 04-08-2025 10:16:01 JMB077
+
+As Engrossed: S2/18/25 S2/25/25 S3/11/25 S3/31/25 H4/8/25 SB117
+1 custody of the division.
+2 (h) Information made available to the affected applicant for licensure
+3 or the person whose license is subject to revocation shall pertain to that
+4 person only.
+5 (i) Rights of privilege and confidentiality established in this
+6 section shall not extend to any document created for purposes other than the
+7 background check.
+8 (j) The board may adopt rules to fully implement this section.
+9
+10 SECTION 2. Arkansas Code § 17-102-102(1), concerning the definition of
+11 "acupuncture" within the Arkansas Acupuncture Practices Act, is amended to
+12 read as follows:
+13 (1) “Acupuncture” means the insertion, manipulation, and removal
+14 of filiform needles from the body and the use of other modalities and
+15 procedures at specific locations on the body for the prevention, cure, or
+16 correction of a malady, illness, injury, pain, or other condition or disorder
+17 by controlling and regulating the flow and balance of energy and functioning
+18 of the patient to restore and maintain health, but acupuncture shall not be
+19 considered surgery;
+20
+21 SECTION 3. Arkansas Code § 17-102-102(3), concerning the definition of
+22 "board" within the Arkansas Acupuncture Practices Act, is repealed.
+23
+24 (3) “Board” means the Arkansas State Board of Acupuncture and
+25 Related Techniques;
+26
+27 SECTION 4. Arkansas Code § 17-102-103(a)(1), concerning the
+28 disposition of funds under the Arkansas Acupuncture Practices Act, is amended
+29 to read as follows:
+30 (a)(1) All fees authorized by this chapter are the property of the
+31 Arkansas State Board of Acupuncture and Related Techniques Natural Medicine
+32 and shall be provided to the Treasurer of the Arkansas State Board of
+33 Acupuncture and Related Techniques Natural Medicine to be disposed of as
+34 provided in this chapter.
+35
+36 SECTION 5. Arkansas Code § 17-102-104(c) is amended to read as
+13 04-08-2025 10:16:01 JMB077
+
+As Engrossed: S2/18/25 S2/25/25 S3/11/25 S3/31/25 H4/8/25 SB117
+1 follows:
+2 (c) A person licensed or certified under this chapter shall not
+3 identify himself or herself as a doctor or physician unless he or she has
+4 earned a doctorate degree or transitional doctoral degree from an accredited,
+5 approved, or authorized education institution as approved by Arkansas State
+6 Board of Natural Medicine.
+7
+8 SECTION 6. Arkansas Code § 17-102-106 is amended to read as follows:
+9 17-102-106. Prosecution of violations.
+10 It shall be the duty of the several prosecuting attorneys of the State
+11 of Arkansas to prosecute to final judgment every criminal violation of this
+12 chapter committed within their jurisdictions when requested and authorized by
+13 the Arkansas State Board of Acupuncture and Related Techniques Natural
+14 Medicine.
+15
+16 SECTION 7. Arkansas Code Title 17, Chapter 102, Subchapter 2, as
+17 amended by Sections 33, 34, and 35 of Acts 2025, No. 170, is amended to read
+18 as follows:
+19 Subchapter 2 — Arkansas State Board of Acupuncture and Related Techniques
+20 Natural Medicine
+21
+22 17-102-201. Creation of board — Members — Appointment.
+23 (a)(1)(A) There is created the Arkansas State Board of Acupuncture and
+24 Related Techniques Natural Medicine.
+25 (B) The board shall consist of five (5) eight (8) persons
+26 appointed by the Governor as full members and one (1) person appointed by the
+27 Governor as an ex officio member subject to confirmation by the Senate for
+28 terms of three (3) years, except as provided in subsection (b) of this
+29 section.
+30 (2) Three (3) full members of the board shall be qualified
+31 acupuncturists.
+32 (3) Three (3) members shall be qualified naturopathic
+33 physicians.
+34 (3)(A)(4)(A) Two (2) full members shall be appointed to
+35 represent the public and shall not have practiced acupuncture and related
+36 techniques, naturopathic medicine, or any other medical professional
+14 04-08-2025 10:16:01 JMB077
+
+As Engrossed: S2/18/25 S2/25/25 S3/11/25 S3/31/25 H4/8/25 SB117
+1 regulated by the board in this or any other jurisdiction nor be retired from
+2 or have any financial interest in the occupation occupations regulated.
+3 (B) The public members shall be subject to confirmation by
+4 the Senate. One (1) member shall represent consumers, and one (1) member
+5 shall be sixty (60) years of age or older and shall be the representative of
+6 the elderly.
+7 (C) The same member shall not represent both consumers and
+8 the elderly under subdivision (a)(4)(B) of this section.
+9 (C)(D) The public members shall be full voting members but
+10 shall not participate in the grading of examinations.
+11 (4)(A) The ex officio member shall be a physician licensed
+12 pursuant to the Arkansas Medical Practices Act, § 17-95-201 et seq., § 17-95-
+13 301 et seq., and § 17-95-401 et seq., and shall be entitled to be notified of
+14 all board meetings and to participate in the deliberations of the board.
+15 (B) However, the ex officio member shall have no vote,
+16 shall not serve as an officer of the board, and shall not be counted to
+17 establish a quorum or a majority necessary to conduct business.
+18 (5)(A) On a biennial basis, the board shall file a written
+19 report with the House Committee on Public Health, Welfare, and Labor and the
+20 Senate Committee on Public Health, Welfare, and Labor.
+21 (B) The report shall contain a certified copy of the
+22 minutes of all board meetings as required by § 17-102-205 for the calendar
+23 years covering the period of time since the last report.
+24 (C) The report shall contain a comprehensive assessment of
+25 the board's functionality, including without limitation staff and office site
+26 adequacy and any other information as may be requested by the House Committee
+27 on Public Health, Welfare, and Labor and the Senate Committee on Public
+28 Health, Welfare, and Labor sufficient for the House Committee on Public
+29 Health, Welfare, and Labor and the Senate Committee on Public Health,
+30 Welfare, and Labor to make a recommendation to the Governor regarding whether
+31 the board should be continued or whether the board should be disbanded and
+32 abolished in accordance with a proclamation issued by the Governor.
+33 (b)(1) The initial full members of the board shall be appointed by the
+34 Governor for staggered terms as follows:
+35 (A) One (1) member's term shall expire after one (1) year;
+36 (B) One (1) member's term shall expire after two (2)
+15 04-08-2025 10:16:01 JMB077
+
+As Engrossed: S2/18/25 S2/25/25 S3/11/25 S3/31/25 H4/8/25 SB117
+1 years; and
+2 (C) One (1) member's term shall expire after three (3)
+3 years.
+4 (2) Of the two (2) additional members appointed pursuant to Acts
+5 1999, No. 536, one (1) shall be appointed for a two-year term and the other
+6 for a three-year term.
+7 (3) The initial ex officio board member shall be appointed to a
+8 term of three (3) years.
+9 (4) Successors shall be appointed for three-year terms.
+10 (5)(2) Vacancies shall be filled by appointment by the Governor
+11 for the unexpired term.
+12 (6)(3) Board members shall serve until their successors have
+13 been appointed and qualified.
+14 (c) The Governor may remove any full member from the board for any
+15 reason that would justify the suspension or revocation of his or her license
+16 to practice acupuncture and related techniques.
+17 The term of each member shall expire on December 31 of the year
+18 designated, and a successor appointee shall be named by the Governor, subject
+19 to confirmation by the Senate, on or before the expiration date of the term
+20 expiring.
+21 (d)(1) Vacancies shall be filled by appointment by the Governor within
+22 thirty (30) days of the vacancy.
+23 (2) Vacancies of a professional member must be filled by a
+24 qualified appointee from the same profession.
+25 (e) The members of the board shall take the oath prescribed by the
+26 Arkansas Constitution for state officers before entering upon the discharge
+27 of their duties.
+28 (f)(1) A member of the board may be removed from the board by the
+29 Governor:
+30 (A) For good cause under § 25-16-804;
+31 (B) For cause including dishonorable or unprofessional
+32 conduct, abuse of authority, malfeasance, misfeasance, or nonfeasance; or
+33 (C) For any reason that would justify probation,
+34 suspension, or revocation of his or her license to practice in the medical
+35 profession he or she represents.
+36 (2) A member of the board shall not be involved in an
+16 04-08-2025 10:16:01 JMB077
+
+As Engrossed: S2/18/25 S2/25/25 S3/11/25 S3/31/25 H4/8/25 SB117
+1 investigation except to cooperate with the investigation as required by the
+2 investigator.
+3 (d)(g) A person who is or has been in the preceding two (2) years on
+4 the faculty of a school which is subject to review by the board may not serve
+5 on the board.
+6
+7 17-102-202. Board members — Qualifications.
+8 (a) Each member of the Arkansas State Board of Acupuncture and Related
+9 Techniques Natural Medicine shall be a citizen of the United States, a
+10 resident of this state, and, before entering upon the duties of the office,
+11 shall take the oath prescribed by the Arkansas Constitution for state
+12 officers and shall file it with the Secretary of State who shall thereupon
+13 issue to each person so appointed a certificate of appointment.
+14 (b) Each full professional member who is a qualified acupuncturist
+15 also shall be a graduate of a reputable school or institute of acupuncture or
+16 Oriental medicine and be certified by the National Certification Commission
+17 for Acupuncture and Oriental Medicine.
+18
+19 17-102-203. Board members — Liability.
+20 (a) A No member of the Arkansas State Board of Acupuncture and Related
+21 Techniques Natural Medicine during the term of his or her office or
+22 thereafter shall not be liable for damages as a result of any official act in
+23 the performance of his or her duty as such a member.
+24 (b) Any action therefor shall upon motion be dismissed with prejudice
+25 at the cost of the plaintiff.
+26
+27 17-102-204. Board organization — Meetings.
+28 (a) The Arkansas State Board of Acupuncture and Related Techniques
+29 shall in May each year hold a meeting and elect from the board's membership a
+30 president, a secretary, and a treasurer for terms set by the board.
+31 (b)(1) It shall be the duty of the board to meet regularly one (1)
+32 time in every six (6) months.
+33 (2) Special meetings of the board may be called at any time at
+34 the pleasure of the President of the Arkansas State Board of Acupuncture and
+35 Related Techniques or by the Secretary of the Arkansas State Board of
+36 Acupuncture and Related Techniques on the request of any two (2) full members
+17 04-08-2025 10:16:01 JMB077
+
+As Engrossed: S2/18/25 S2/25/25 S3/11/25 S3/31/25 H4/8/25 SB117
+1 of the board.
+2 (3) Three (3) full members shall constitute a quorum at any
+3 meeting of the board.
+4 (c) The board shall determine by its own rules the time and manner of
+5 giving notice to members of meetings and other matters.
+6 (d) Any action of the board shall require an affirmative vote of a
+7 majority of the full membership of the board, excluding the ex officio
+8 member.
+9 (a)(1) Within thirty (30) days of appointment of members, the members
+10 of the Arkansas State Board of Natural Medicine shall meet and organize by
+11 electing a chair, vice chair, secretary, and treasurer.
+12 (2) The Treasurer of the Arkansas State Board of Natural
+13 Medicine shall give bond in such amount as may be designated by the board,
+14 which may be increased or decreased from time to time, conditioned for the
+15 faithful disbursement and accounting of all moneys coming into his or her
+16 hands as the treasurer.
+17 (b) The board shall hold its regular meetings as established by rule
+18 of the board and shall have the power to call and hold special meetings at
+19 such times and places as deemed necessary.
+20
+21 17-102-205. Board minutes — Records.
+22 (a) The Secretary of the Arkansas State Board of Acupuncture and
+23 Related Techniques Natural Medicine shall keep a record of the minutes of its
+24 meetings and a record of all persons making application for license and the
+25 action of the Arkansas State Board of Acupuncture and Related Techniques
+26 Natural Medicine thereon.
+27 (b) The secretary shall also keep a record of the names, addresses,
+28 and license numbers of all acupuncturists licensed by the board, together
+29 with a record of license renewals, suspensions, and revocations.
+30
+31 17-102-206. Board duties and powers.
+32 (a)(1) The Arkansas State Board of Acupuncture and Related Techniques
+33 Natural Medicine is empowered to incur whatever expenses it may deem
+34 necessary or expedient in performing its functions.
+35 (2) All of the disbursements provided for in this section shall
+36 be out of the fees and fines collected by the Arkansas State Board of
+18 04-08-2025 10:16:01 JMB077
+
+As Engrossed: S2/18/25 S2/25/25 S3/11/25 S3/31/25 H4/8/25 SB117
+1 Acupuncture and Related Techniques Natural Medicine.
+2 (b) The Arkansas State Board of Acupuncture and Related Techniques is
+3 authorized to Natural Medicine shall:
+4 (1) Make suitable bylaws for carrying out the duties of the
+5 Arkansas State Board of Acupuncture and Related Techniques Natural Medicine
+6 under the provisions of this chapter;
+7 (2) Sue and be sued;
+8 (3) Have an official seal that shall bear the words “Arkansas
+9 State Board of Acupuncture and Related Techniques Natural Medicine”;
+10 (4)(A) Provide a secretary's certificate.
+11 (B) The certificate of the Secretary of the Arkansas State
+12 Board of Acupuncture and Related Techniques Natural Medicine under seal shall
+13 be accepted in the courts of the state as the best evidence as to the minutes
+14 of the Arkansas State Board of Acupuncture and Related Techniques Natural
+15 Medicine and shall likewise be accepted in the courts of the state as the
+16 best evidence as to the licensure or nonlicensure of any person under the
+17 requirements of this chapter;
+18 (5)(A) Adopt, publish, and, from time to time, revise rules
+19 consistent with the law as may be necessary to enable the Arkansas State
+20 Board of Acupuncture and Related Techniques Natural Medicine to carry into
+21 effect the provisions of this chapter and the Naturopathic Physician Practice
+22 Act, § 17-108-101 et seq.
+23 (B) All proposed rules after July 31, 2009, shall be
+24 approved in writing by the Arkansas State Medical Board under the Arkansas
+25 Administrative Procedure Act, § 25-15-201 et seq., but before submission to
+26 the Administrative Rules Subcommittee of the Legislative Council;
+27 (6) Keep a record of all proceedings, receipts, and
+28 disbursements of the Arkansas State Board of Acupuncture and Related
+29 Techniques Natural Medicine;
+30 (7) Adopt standards for applicants wishing to take the licensing
+31 examination under this chapter and conduct examinations or contract with
+32 persons or entities to conduct examinations of applicants under this chapter;
+33 (8)(A) Grant, deny, renew, suspend, or revoke licenses to
+34 practice acupuncture and related techniques for any cause stated in this
+35 chapter.
+36 (B) Except as otherwise provided by this chapter, the
+19 04-08-2025 10:16:01 JMB077
+
+As Engrossed: S2/18/25 S2/25/25 S3/11/25 S3/31/25 H4/8/25 SB117
+1 Arkansas State Board of Acupuncture and Related Techniques Natural Medicine
+2 shall have exclusive jurisdiction to determine who shall be permitted to
+3 practice acupuncture and related techniques in the State of Arkansas; and
+4 (9) Conduct disciplinary proceedings under this chapter and the
+5 Naturopathic Physician Practice Act, § 17-108-101 et seq.;
+6 (10) Develop a means to provide information to all professionals
+7 in this state governed by the Arkansas State Board of Natural Medicine; and
+8 (11) Provide for:
+9 (A) The investigation of complaints against any person
+10 regulated by the Arkansas State Board of Natural Medicine or holding himself
+11 or herself out to be a professional regulated by the Arkansas State of
+12 Natural Medicine;
+13 (B) The publication of information for the public about
+14 professions and practices regulated by the Arkansas State Board of Natural
+15 Medicine; and
+16 (C) An orderly process for the reinstatement of a license.
+17 (c)(1) In the performance of the duties of the Arkansas State Board of
+18 Acupuncture and Related Techniques Natural Medicine, the Arkansas State Board
+19 of Acupuncture and Related Techniques Natural Medicine may administer oaths
+20 and take testimony on any matters within the Arkansas State Board of
+21 Acupuncture and Related Techniques' Natural Medicine's jurisdiction and issue
+22 subpoenas and thereby compel the attendance of persons before the Arkansas
+23 State Board of Acupuncture and Related Techniques Natural Medicine for the
+24 purpose of examining any facts or conditions properly pending before the
+25 Arkansas State Board of Acupuncture and Related Techniques Natural Medicine
+26 for action of the Arkansas State Board of Acupuncture and Related Techniques
+27 Natural Medicine.
+28 (2) All subpoenas issued by the Arkansas State Board of
+29 Acupuncture and Related Techniques Natural Medicine shall be served in the
+30 manner prescribed by law for the service of subpoenas issuing from the
+31 courts, and all persons so served shall obey the subpoenas or be subject to
+32 the penalties provided by law for the disobedience of subpoenas issuing from
+33 the courts.
+34
+35 SECTION 8. Arkansas Code § 17-102-303(c), concerning the unlawful
+36 practices and penalties under the Arkansas Acupuncture Practices Act, is
+20 04-08-2025 10:16:01 JMB077
+
+As Engrossed: S2/18/25 S2/25/25 S3/11/25 S3/31/25 H4/8/25 SB117
+1 amended to read as follows:
+2 (c)(1) The courts of this state having general equity jurisdiction are
+3 vested with jurisdiction and power to enjoin the unlawful practice of
+4 acupuncture and related techniques in a proceeding by the Arkansas State
+5 Board of Acupuncture and Related Techniques Natural Medicine or any member
+6 thereof or by any citizen of this state in the county in which the alleged
+7 unlawful practice occurred or in which the defendant resides or in Pulaski
+8 County.
+9 (2) The issuance of an injunction shall not relieve a person
+10 from criminal prosecution for violation of the provisions of this chapter,
+11 but the remedy of injunction shall be in addition to liability to criminal
+12 prosecution.
+13
+14 SECTION 9. Arkansas Code § 17-102-304(a)(1) and (2), concerning the
+15 application and qualifications to be licensed as an acupuncturist under the
+16 Arkansas Acupuncture Practices Act, are amended to read as follows:
+17 (a)(1) No A person shall not be licensed to practice acupuncture and
+18 related techniques unless he or she has passed an examination and has been
+19 found to have the necessary qualifications as prescribed in the rules adopted
+20 by the Arkansas State Board of Acupuncture and Related Techniques Natural
+21 Medicine.
+22 (2)(A) Applications for a license to practice acupuncture and
+23 related techniques in the State of Arkansas pursuant to this chapter shall be
+24 made to the Secretary of the Arkansas State Board of Acupuncture and Related
+25 Techniques Natural Medicine in writing on forms furnished by the board.
+26 (B) The application shall be signed by the applicant in
+27 his or her own handwriting and acknowledged before an officer authorized to
+28 administer oaths.
+29
+30 SECTION 10. Arkansas Code § 17-102-305(b), concerning examinations for
+31 an acupuncturist under the Arkansas Acupuncture Practices Act, is amended to
+32 read as follows:
+33 (b)(1) The Arkansas State Board of Acupuncture and Related Techniques
+34 Natural Medicine shall hold an examination at least one (1) time each
+35 calendar year, and all applicants shall be notified in writing of the date
+36 and time of all examinations.
+21 04-08-2025 10:16:01 JMB077
+
+As Engrossed: S2/18/25 S2/25/25 S3/11/25 S3/31/25 H4/8/25 SB117
+1 (2) The board may utilize a nationally recognized examination if
+2 it deems the national exam is sufficient to qualify a practitioner for
+3 licensure in this state.
+4
+5 SECTION 11. Arkansas Code § 17-102-307(1), concerning license renewal
+6 under the Arkansas Acupuncture Practices Act, is amended to read as follows:
+7 (1) Meets all current standards of the Arkansas State Board of
+8 Acupuncture and Related Techniques Natural Medicine; and
+9
+10 SECTION 12. Arkansas Code § 17-102-308(a), concerning continuing
+11 education for acupuncturists under the Arkansas Acupuncture Practices Act, is
+12 amended to read as follows:
+13 (a) The Arkansas State Board of Acupuncture and Related Techniques
+14 Natural Medicine shall not renew the license of any person engaged in the
+15 practice of acupuncture and related techniques unless the licensee presents
+16 to the board evidence of attendance at a board-approved educational session
+17 or sessions of not fewer than twenty-four (24) hours of continuing education
+18 within the previous biennial period.
+19
+20 SECTION 13. Arkansas Code § 17-102-309(a), concerning disciplinary
+21 actions and grounds under the Arkansas Acupuncture Practices Act, is amended
+22 to read as follows:
+23 (a) The following acts by an applicant for a license or by a licensed
+24 acupuncturist shall constitute grounds for which the disciplinary actions
+25 specified in subsection (b) of this section may be taken by the Arkansas
+26 State Board of Acupuncture and Related Techniques Natural Medicine:
+27 (1) Attempting to obtain, obtaining, or renewing a license to
+28 practice acupuncture and related techniques by bribery, fraud, or deceit;
+29 (2) Having pled guilty or nolo contendere to, or having been
+30 found guilty of, a crime in any jurisdiction which directly relates to the
+31 practice of acupuncture and related techniques or to the ability to practice
+32 same;
+33 (3) Advertising, practicing, or attempting to practice under a
+34 name other than one's own;
+35 (4) Making deceptive, untrue, or fraudulent representations in
+36 the practice of acupuncture and related techniques;
+22 04-08-2025 10:16:01 JMB077
+
+As Engrossed: S2/18/25 S2/25/25 S3/11/25 S3/31/25 H4/8/25 SB117
+1 (5) Becoming mentally incompetent or unfit or incompetent by
+2 reason of negligence, habits, or other causes;
+3 (6) Becoming habitually intemperate or addicted to the use of
+4 habit-forming drugs, illegal drugs, or alcohol;
+5 (7) Acting unprofessionally in the practice of acupuncture and
+6 related techniques;
+7 (8) Committing fraud or deceit in filing insurance forms,
+8 documents, or information pertaining to the health or welfare of a patient;
+9 or
+10 (9) Willfully or repeatedly violating any of the provisions of
+11 this chapter or any rule or order of the board.
+12
+13 SECTION 14. Arkansas Code § 25-16-903(1), concerning the authorization
+14 for a sixty dollar ($60.00) stipend, is amended to read as follows:
+15 (1) Arkansas State Board of Acupuncture and Related Techniques
+16 Natural Medicine;
+17
+18 SECTION 15. Arkansas Code § 25-43-802(a)(15), concerning the state
+19 entities transferred to the Department of Health, is amended to read as
+20 follows:
+21 (15) The Arkansas State Board of Acupuncture and Related
+22 Techniques Natural Medicine, created under § 17-102-201;
+23
+24 SECTION 16. DO NOT CODIFY. TEMPORARY LANGUAGE. Issuance of first
+25 licenses.
+26 On or before December 1, 2025, the Arkansas State Board of Natural
+27 Medicine shall issue licenses to those applicants who have met the
+28 requirements of this act and board rules promulgated in accordance with this
+29 act.
+30
+31 SECTION 17. DO NOT CODIFY. TEMPORARY LANGUAGE. Transition period -
+32 Membership.
+33 (a)(1) Except as provided in subdivision (a)(2) of this section, the
+34 existing members of the Arkansas State Board of Acupuncture and Related
+35 Techniques shall have their terms expire upon the effective date of this act.
+36 (2) The two (2) members of the Arkansas State Board of
+23 04-08-2025 10:16:01 JMB077
+
+As Engrossed: S2/18/25 S2/25/25 S3/11/25 S3/31/25 H4/8/25 SB117
+1 Acupuncture and Related Techniques who represent the public shall continue to
+2 serve as members of the Arkansas State Board of Natural Medicine and shall
+3 exercise the powers and duties assigned until the expiration of the members'
+4 terms.
+5 (3) Members of the Arkansas State Board of Acupuncture and
+6 Related Techniques may be appointed to serve as members of the Arkansas State
+7 Board of Natural Medicine.
+8 (b) Except as provided in subdivision (a)(2) of this section, upon the
+9 effective date of this act, the initial members of the Arkansas State Board
+10 of Natural Medicine created under this act shall be appointed by the Governor
+11 for staggered terms as follows:
+12 (1) The term of one (1) member who is an acupuncturist and one
+13 (1) member who is a naturopathic physician shall expire after one (1) year;
+14 (2) The term of one (1) member who is an acupuncturist and one
+15 (1) member who is a naturopathic physician shall expire after two (2) years;
+16 and
+17 (3) The term of one (1) member who is an acupuncturist and one
+18 (1) member who is a naturopathic physician shall expire after three (3)
+19 years.
+20
+21 /s/C. Penzo
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+24 04-08-2025 10:16:01 JMB077
+
+[DELETED:  A       A A P B   T P O A O  B   S c C N  S   1  T P   1  (]
+[DELETED:  S2 0   ( t a   ( p f  ( n i p t e   1  A   ( s s n   ( v d a o b   ( o s   ( t s P   ( p   (    (]
+[DELETED:  S3 0    (    (    (    ( n   (    ( a    (    ( s t   ( a p a s    (     ( s o     ( e s   ( t i ( ( n b    (    (    (    (    (]
+[DELETED:  S4 0    (    (    (    (    (     (    (    (    (    (    (    (  (   ( t w   ( n N n s   (    (    (    (    (   ( e p    (    (    (    (    (    (  (]
+[DELETED:  S5 0   1  T   ( i p   ( i m a i   ( i   ( l w i i   ( n n p    (    ( l    ( i   1  ( "  ( r   (   (   (]
+[DELETED:  S6 0   (   (   (   (   (  ( n a r  ( p n a i   ( g    ( p    ( " h    ( l   1  ( r s  ( s a   (    ( S N     (]
+[DELETED:  S7 0 s     ( f e p     ( o c a    ( t o p n c r N a r    ( h o i c d t l j e N a i    ( h p l]
+[DELETED:  S8 0 a o a A   ( n A b a e b C m  S   1 d  T   ( d l     ( e   (    (    (    (    (    ( t    ( e    ( c    (]
+[DELETED:  S9 0    (   ( d   ( p   (    ( p t    ( n s    (   ( s  S   1  T w   ( f    ( a    ( e    (     ( s     ( n     ( m    ( p]
+[DELETED:  S1 0   ( c a   ( o s a u s   1  A i   (   (   (   ( d   ( d   ( f a s a   ( i c   (   ( ( m   1 C  (]
+[DELETED:  S1 0 (  ( o   (   (   ( a   ( t  ( a l   1  A p s a   1  A p t t   1  ( o D c A   ( b  ( s o]
+[DELETED:  S1 0  ( s o  ( I t t  ( s b u u a  ( b    (    (   ( i    (    (    (    (    (    (    ( n  ( B I e    ( a    ( h   (]
+[DELETED:  S1 0 c  ( o p  ( s b  (   S " r   ( o p c b o c   S "    ( R   S d t  ( A a A p   S]
+[DELETED:  S1 0 f  ( i e a B   S  1  I o c t M   S a a S N   1  ( R    ( a G t s   ( a   ( p   ( r t]
+[DELETED:  S1 0 r o    ( t s t    ( t    ( s   ( p 3 a    ( s e   ( r S    ( m y    ( t a o H H W t a  ( G    (    (]
+[DELETED:  S1 0 y    ( y   ( 1 f   ( t   (   ( f   ( b  ( r t  T d t e  ( t   ( q  ( A o  ( G    (    ( c    ( s p   (]
+[DELETED:  S1 0 i i  ( t o   1  ( T r s o i  ( a O f   1  ( T t t  ( a   1  ( s p  ( t   ( t R A]
+[DELETED:  S1 0 o   ( m  ( g  ( m m  ( o e   ( M w f h  ( o s   1  ( R m a N  ( a w   1  ( N n   ( b]
+[DELETED:  S1 0 A  ( a   ( A u   (   ( S   (    ( B b o M b r   ( c B e A    ( a A t   ( d T   ( e p   ( p c    (]
+[DELETED:  S2 0 A s p   ( N   ( i   (    ( r o N    ( p M    (  ( A o a A s S p A f N   ( A m c t t   S p]
+[DELETED:  S2 0 a  ( v a B t u C   ( f b p   S a A  ( r f b M   ( r m T    ( h a   S a r  ( N c a]
+[DELETED:  S2 0   ( i l   S u   ( A   S e a  ( N p t o w   S a t  ( a s S   ( p   ( f p s   ( n   ( t]
+[DELETED:  S2 0   ( r   ( h   ( r   ( d o   ( t   S f   ( N   S e f   ( T   S l  O M r a   S M  ( e T   (]
+[DELETED:  S2 0 A s e t   ( R B  ( e o f   ( (   ( ( a   ( ( y  /               ]

@@ -1,0 +1,232 @@
+Title: ______________________________________________________________________
+Official Title: ______________________________________________________________________
+Number of Sections: 3
+Source: versions - Amendment S1
+Media Type: application/pdf
+Strikethrough Detection: 4 sections found
+
+================================================================================
+
+Section 1:
+ARKANSAS SENATE
+95th General Assembly - Regular Session, 2025
+Amendment Form
+Subtitle of House Bill 1877
+CONCERNING CRIMINAL OFFENSES RELATED TO POSSESSION OF SEXUALLY
+EXPLICIT MATERIAL THAT DEPICTS A CHILD; AND TO INCLUDE A COMPUTER
+GENERATED IMAGE THAT IS INDISTINGUISHABLE FROM THE IMAGE OF A CHILD.
+______________________________________________________________________
+Amendment No. 1 to House Bill 1877
+Amend House Bill 1877 as engrossed H4/7/25 (version: 4/7/25 10:44:55 AM):
+Page 1, delete line 33, and substitute the following:
+"in whole or in part, through the use of artificial intelligence;"
+AND
+Page 2, delete line 4, and substitute the following:
+"painting; and
+(8) "Adversarial testing" means red teaming or another activity
+or exercise conducted in a controlled environment and in collaboration with
+an artificial intelligence developer to identify a potential adverse behavior
+or outcome of a model or system, to determine how the potential adverse
+behavior or outcome of a model or system could occur, to stress test
+safeguards, and to conduct other structured evaluation methods as set forth
+by the National Institute of Standards and Technology."
+AND
+Page 2, delete line 25, and substitute the following:
+"SECTION 3. Arkansas Code § 5-27-304, concerning the offense of
+pandering or possessing visual or print medium depicting sexually explicit
+conduct involving a child, is amended to add an additional subsection to read
+*.CEB328*
+CEB328 - 04-08-2025 07:43:27 Page 1 of 4
+as follows:
+(c) This section does not apply to:
+(1) A visual or print medium possessed, controlled, or
+intentionally viewed as part of a law enforcement investigation; or
+(2)(A) An interactive computer service as defined in 47 U.S.C. §
+230 for:
+(i) Content provided by another party; and
+(ii) Computer generated visual or print medium
+depicting sexually explicit conduct involving a child when the visual or
+print medium is generated as part of adversarial testing conducted in good
+faith to prevent, detect, or mitigate the risk of artificial intelligence
+systems generating visual or print medium depicting sexually explicit conduct
+involving a child.
+(B) Subdivision (c)(2)(A) of this section does not include
+a person who engages in adversarial testing for personal or exploitative
+purposes or for purposes unrelated to legitimate artificial intelligence
+safety testing.
+
+Section 2:
+SECTION 4. Arkansas Code § 5-27-601(13) is repealed."
+AND
+Page 2, delete line 34, and substitute the following:
+"artificial intelligence;"
+AND
+Page 3, delete line 3, and substitute the following:
+"child that is a drawing, cartoon sculpture, or painting; and
+(18) "Adversarial testing" means red teaming or another activity
+or exercise conducted in a controlled environment and in collaboration with
+an artificial intelligence developer to identify a potential adverse behavior
+or outcome of a model or system, to determine how the potential adverse
+behavior or outcome of a model or system could occur, to stress test
+safeguards, and to conduct other structured evaluation methods as set forth
+by the National Institute of Standards and Technology."
+CEB328 - 04-08-2025 07:43:27 Amendment No. 1 to House Bill 1877 Page 2 of 4
+AND
+Page 3, delete lines 29 through 32, and substitute the following:
+"SECTION 7. Arkansas Code § 5-27-602, concerning distributing,
+possessing, or viewing of matter depicting sexually explicit conduct
+involving a child, is amended to add an additional subsection to read as
+follows:
+(d) This section does not apply to:
+(1) Matter depicting sexually explicit conduct involving a child
+possessed, controlled, or intentionally viewed as part of a law enforcement
+investigation; or
+(2)(A) An interactive computer service as defined in 47 U.S.C. §
+230 for:
+(i) Content provided by another party; or
+(ii) Computer generated matter depicting sexually
+explicit conduct involving a child when the matter is generated as part of
+adversarial testing conducted in good faith to prevent, detect, or mitigate
+the risk of artificial intelligence systems generating matter depicting
+sexually explicit conduct involving a child.
+(B) Subdivision (d)(2)(A) of this section does not include
+a person who engages in adversarial testing for personal or exploitative
+purposes or for purposes unrelated to legitimate artificial intelligence
+safety testing.
+
+Section 3:
+SECTION 8. Arkansas Code § 5-27-603 is amended to read as follows:
+5-27-603. Possession or use of child sexual abuse material Electronic
+facilitation of child sexual abuse.
+(a) A person commits possession or use of child sexual abuse material
+electronic facilitation of child sexual abuse"
+AND
+Page 4, delete line 15, and substitute the following:
+"(b) Possession or use of child sexual abuse material Electronic
+facilitation of child sexual abuse is a Class B"
+CEB328 - 04-08-2025 07:43:27 Amendment No. 1 to House Bill 1877 Page 3 of 4
+AND
+Appropriately renumber the sections of the bill
+The Amendment was read the first time, rules suspended and read the second time and _______________________
+By: Senator J. Bryant
+CEB/CEB - 04-08-2025 07:43:27 _________________________
+CEB328 Secretary
+CEB328 - 04-08-2025 07:43:27 Amendment No. 1 to House Bill 1877 Page 4 of 4
+[DELETED:  PA   ("]
+[DELETED:  P( ( (   (   (  (S (]
+[DELETED:  P"( ( (   (   (  (S5("]
+[DELETED:  P _ S]
+
+
+================================================================================
+
+Raw Text:
+ARKANSAS SENATE
+95th General Assembly - Regular Session, 2025
+Amendment Form
+______________________________________________________________________
+Subtitle of House Bill 1877
+CONCERNING CRIMINAL OFFENSES RELATED TO POSSESSION OF SEXUALLY
+EXPLICIT MATERIAL THAT DEPICTS A CHILD; AND TO INCLUDE A COMPUTER
+GENERATED IMAGE THAT IS INDISTINGUISHABLE FROM THE IMAGE OF A CHILD.
+______________________________________________________________________
+Amendment No. 1 to House Bill 1877
+Amend House Bill 1877 as engrossed H4/7/25 (version: 4/7/25 10:44:55 AM):
+Page 1, delete line 33, and substitute the following:
+"in whole or in part, through the use of artificial intelligence;"
+AND
+Page 2, delete line 4, and substitute the following:
+"painting; and
+(8) "Adversarial testing" means red teaming or another activity
+or exercise conducted in a controlled environment and in collaboration with
+an artificial intelligence developer to identify a potential adverse behavior
+or outcome of a model or system, to determine how the potential adverse
+behavior or outcome of a model or system could occur, to stress test
+safeguards, and to conduct other structured evaluation methods as set forth
+by the National Institute of Standards and Technology."
+AND
+Page 2, delete line 25, and substitute the following:
+"SECTION 3. Arkansas Code § 5-27-304, concerning the offense of
+pandering or possessing visual or print medium depicting sexually explicit
+conduct involving a child, is amended to add an additional subsection to read
+*.CEB328*
+CEB328 - 04-08-2025 07:43:27 Page 1 of 4
+
+as follows:
+(c) This section does not apply to:
+(1) A visual or print medium possessed, controlled, or
+intentionally viewed as part of a law enforcement investigation; or
+(2)(A) An interactive computer service as defined in 47 U.S.C. §
+230 for:
+(i) Content provided by another party; and
+(ii) Computer generated visual or print medium
+depicting sexually explicit conduct involving a child when the visual or
+print medium is generated as part of adversarial testing conducted in good
+faith to prevent, detect, or mitigate the risk of artificial intelligence
+systems generating visual or print medium depicting sexually explicit conduct
+involving a child.
+(B) Subdivision (c)(2)(A) of this section does not include
+a person who engages in adversarial testing for personal or exploitative
+purposes or for purposes unrelated to legitimate artificial intelligence
+safety testing.
+SECTION 4. Arkansas Code § 5-27-601(13) is repealed."
+AND
+Page 2, delete line 34, and substitute the following:
+"artificial intelligence;"
+AND
+Page 3, delete line 3, and substitute the following:
+"child that is a drawing, cartoon sculpture, or painting; and
+(18) "Adversarial testing" means red teaming or another activity
+or exercise conducted in a controlled environment and in collaboration with
+an artificial intelligence developer to identify a potential adverse behavior
+or outcome of a model or system, to determine how the potential adverse
+behavior or outcome of a model or system could occur, to stress test
+safeguards, and to conduct other structured evaluation methods as set forth
+by the National Institute of Standards and Technology."
+CEB328 - 04-08-2025 07:43:27 Amendment No. 1 to House Bill 1877 Page 2 of 4
+
+AND
+Page 3, delete lines 29 through 32, and substitute the following:
+"SECTION 7. Arkansas Code § 5-27-602, concerning distributing,
+possessing, or viewing of matter depicting sexually explicit conduct
+involving a child, is amended to add an additional subsection to read as
+follows:
+(d) This section does not apply to:
+(1) Matter depicting sexually explicit conduct involving a child
+possessed, controlled, or intentionally viewed as part of a law enforcement
+investigation; or
+(2)(A) An interactive computer service as defined in 47 U.S.C. §
+230 for:
+(i) Content provided by another party; or
+(ii) Computer generated matter depicting sexually
+explicit conduct involving a child when the matter is generated as part of
+adversarial testing conducted in good faith to prevent, detect, or mitigate
+the risk of artificial intelligence systems generating matter depicting
+sexually explicit conduct involving a child.
+(B) Subdivision (d)(2)(A) of this section does not include
+a person who engages in adversarial testing for personal or exploitative
+purposes or for purposes unrelated to legitimate artificial intelligence
+safety testing.
+SECTION 8. Arkansas Code § 5-27-603 is amended to read as follows:
+5-27-603. Possession or use of child sexual abuse material Electronic
+facilitation of child sexual abuse.
+(a) A person commits possession or use of child sexual abuse material
+electronic facilitation of child sexual abuse"
+AND
+Page 4, delete line 15, and substitute the following:
+"(b) Possession or use of child sexual abuse material Electronic
+facilitation of child sexual abuse is a Class B"
+CEB328 - 04-08-2025 07:43:27 Amendment No. 1 to House Bill 1877 Page 3 of 4
+
+AND
+Appropriately renumber the sections of the bill
+The Amendment was read the first time, rules suspended and read the second time and _______________________
+By: Senator J. Bryant
+CEB/CEB - 04-08-2025 07:43:27 _________________________
+CEB328 Secretary
+CEB328 - 04-08-2025 07:43:27 Amendment No. 1 to House Bill 1877 Page 4 of 4
+
+[DELETED:  PA   ("]
+[DELETED:  P( ( (   (   (  (S (]
+[DELETED:  P"( ( (   (   (  (S5("]
+[DELETED:  P _ S]

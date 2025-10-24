@@ -1,0 +1,492 @@
+Title: Stricken language would be deleted from and underlined language would be added to present law.
+Official Title: Stricken language would be deleted from and underlined language would be added to present law.
+Number of Sections: 1
+Source: versions - SB 55
+Media Type: application/pdf
+Strikethrough Detection: 6 sections found
+
+================================================================================
+
+Section 1:
+1 State of Arkansas As Engrossed: S4/7/25
+A Bill
+2 95th General Assembly
+3 Regular Session, 2025 SENATE BILL 55
+4
+5 By: Joint Budget Committee
+6
+7
+For An Act To Be Entitled
+8
+9 AN ACT TO MAKE AN APPROPRIATION FOR PERSONAL SERVICES
+10 AND OPERATING EXPENSES FOR THE ARKANSAS SUPREME COURT
+11 FOR THE FISCAL YEAR ENDING JUNE 30, 2026; AND FOR
+12 OTHER PURPOSES.
+13
+14
+Subtitle
+15
+16 AN ACT FOR THE ARKANSAS SUPREME COURT
+17 APPROPRIATION FOR THE 2025-2026 FISCAL
+18 YEAR.
+19
+20
+21 BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF ARKANSAS:
+22
+23 SECTION 1. REGULAR SALARIES - OPERATIONS. There is hereby established
+24 for the Arkansas Supreme Court for the 2025-2026 fiscal year, the following
+25 maximum number of regular employees.
+26
+27 Maximum Annual
+28 Maximum Salary Rate
+29 Item Class No. of Fiscal Year
+30 No. Code Title Employees 2025-2026
+31 (1) Q009N SUPREME COURT CLERK 1 GRADE EXE01
+32 (2) Q051C NETWORK ADMINISTRATOR 1 GRADE IST10
+33 (3) Q263C APPELLATE AUTOMATION SPECIALIST 1 GRADE IST08
+34 (4) Q106C DATA POLICY MANAGER 1 GRADE IST08
+35 (5) Q021C APPELLATE REVIEW ATTORNEY II 2 GRADE SPC07
+36 (6) Q011C CRIMINAL COORDINATOR 1 GRADE SPC07
+*JAR026*
+04-07-2025 17:34:03 JAR026
+As Engrossed: S4/7/25 SB55
+1 (7) Q072C FISCAL OFFICER 1 GRADE SPC07
+2 (8) Q010C LIBRARY DIRECTOR 1 GRADE SPC07
+3 (9) Q035C SUPREME COURT LAW CLERK 14 GRADE SPC07
+4 (10) Q012C SUPREME COURT REPORTER 1 GRADE SPC07
+5 (11) Q037C ASSISTANT CRIMINAL COORDINATOR 2 GRADE SPC05
+6 (12) Q036C CHIEF DEPUTY CLERK 1 GRADE SPC05
+7 (13) Q217C DEPUTY CRIMINAL COORDINATOR 1 GRADE SPC06
+8 (14) Q288C SUPREME COURT HUMAN RESOURCE COORD 1 GRADE SGS11
+9 (15) Q083C COMMUNICATIONS COUNSEL 1 GRADE SPC04
+10 (16) Q038C DEPUTY REPORTER 1 GRADE SPC05
+11 (17) Q090C EXECUTIVE ASSISTANT TO CLERK 1 GRADE SGS08
+12 (18) Q091C JUDICIAL CHIEF ADMINISTRATIVE ASSIST 1 GRADE SGS09
+13 (19) Q125C SUPREME COURT POLICE OFFICER 5 GRADE LES04
+14 (20) Q228C DEPUTY CLERK 1 GRADE SGS08
+15 (21) Q108C FINANCIAL SPECIALIST 1 GRADE SGS09
+16 (22) Q116C JUDICIAL ADMINISTRATIVE ASSISTANT 6 GRADE SGS09
+17 (23) Q109C RECORDS SUPERVISOR 1 GRADE SGS09
+18 (24) Q107C ASSISTANT CHIEF DEPUTY CLERK 1 GRADE SGS08
+19 (25) Q122C DATA RESEARCH ANALYST 1 GRADE SGS08
+20 (26) Q192C PUBLIC SERVICE LIBRARIAN 1 GRADE SGS08
+21 (27) Q124C LIBRARY TECHNICAL ASSISTANT 1 GRADE SGS07
+22 MAX. NO. OF EMPLOYEES 51
+23
+24 SECTION 2. EXTRA HELP - OPERATIONS. There is hereby authorized, for
+25 the Arkansas Supreme Court for the 2025-2026 fiscal year, the following
+26 maximum number of part-time or temporary employees, to be known as "Extra
+27 Help", payable from funds appropriated herein for such purposes: five (5)
+28 temporary or part-time employees, when needed, at rates of pay not to exceed
+29 those provided in the Uniform Classification and Compensation Act, or its
+30 successor, or this act for the appropriate classification.
+31
+32 SECTION 3. APPROPRIATION - OPERATIONS. There is hereby appropriated,
+33 to the Arkansas Supreme Court, to be payable from the State Central Services
+34 Fund, for personal services and operating expenses of the Arkansas Supreme
+35 Court for the fiscal year ending June 30, 2026, the following:
+2 04-07-2025 17:34:03 JAR026
+As Engrossed: S4/7/25 SB55
+1
+2 ITEM FISCAL YEAR
+3 NO. 2025-2026
+4 (01) REGULAR SALARIES $4,689,830
+5 (02) EXTRA HELP 30,000
+6 (03) PERSONAL SERVICES MATCHING 1,483,556
+7 (04) MAINT. & GEN. OPERATION
+8 (A) OPER. EXPENSE 417,765
+9 (B) CONF. & TRAVEL 55,000
+10 (C) PROF. FEES 25,000
+11 (D) CAP. OUTLAY 112,000
+12 (E) DATA PROC. 0
+13 (05) ARKANSAS REPORTS 229,477
+14 (06) COURT APPOINTED ATTORNEYS 195,000
+15 (07) COMMISSIONS AND COMMITTEES 20,000
+16 (08) SPECIAL JUSTICES 5,500
+17 (09) JUDICIAL EDUCATION 100,000
+18 (10) RECORDS MAINTENANCE TECHNOLOGY 300,000
+19 TOTAL AMOUNT APPROPRIATED $7,663,128
+20
+21 SECTION 4. REGULAR SALARIES - SUPREME COURT BAR OF ARKANSAS. There is
+22 hereby established for the Arkansas Supreme Court - Bar of Arkansas for the
+23 2025-2026 fiscal year, the following maximum number of regular employees.
+24
+25 Maximum Annual
+26 Maximum Salary Rate
+27 Item Class No. of Fiscal Year
+28 No. Code Title Employees 2025-2026
+29 (1) Q057N SUPREME COURT DIRECTOR OF OPC 1 GRADE EXE01
+30 (2) Q058N SUPREME COURT DIRECTOR OF OPP 1 GRADE EXE01
+31 (3) Q059N SUPREME COURT DEP DIRECTOR OF OPC 1 GRADE SPC08
+32 (4) Q268C SUPREME COURT ATTORNEY SUPERVISOR 1 GRADE SPC07
+33 (5) Q269C SUPREME COURT ATTORNEY SPECIALIST 1 GRADE SPC06
+34 (6) Q200C SUPREME COURT DIRECTOR OF AJC 1 GRADE SPC06
+35 (7) Q201C SUPREME COURT DIRECTOR OF JLAP 1 GRADE SPC06
+36 (8) Q199C SUPREME COURT SENIOR STAFF ATTY OPC 1 GRADE SPC06
+3 04-07-2025 17:34:03 JAR026
+As Engrossed: S4/7/25 SB55
+1 (9) Q202C SUPREME COURT STAFF ATTORNEY OPC 2 GRADE SPC05
+2 (10) Q264C HELP DESK APPLICATION SPECIALIST 1 GRADE SGS11
+3 (11) Q204C SUPREME COURT DEPUTY DIRECTOR JLAP 1 GRADE SPC05
+4 (12) Q207C SUPREME COURT LICENSING DIRECTOR 1 GRADE SGS11
+5 (13) Q229C SUPREME COURT PROGRAM COORD AJC 1 GRADE SPC04
+6 (14) Q301C SUPREME COURT PROGRAM COORD OPP II 1 GRADE SGS11
+7 (15) Q203C SUPREME COURT PROGRAM COORD OPP I 1 GRADE SGS08
+8 (16) Q270C SUPREME COURT ADMIN ASST/PARALEGAL 1 GRADE SGS09
+9 (17) Q206C SUPREME COURT FINANCIAL SPECIALIST 1 GRADE SGS09
+10 (18) Q208C SUPREME COURT PARALEGAL OPC 1 GRADE SGS09
+11 (19) Q211C SUPREME COURT ADMIN ASSISTANT AJC 1 GRADE SGS07
+12 (20) Q297C SUPREME COURT ADMIN ASSISTANT OPC 1 GRADE SGS07
+13 (21) Q210C SUPREME COURT ADMIN ASSISTANT OPP 2 GRADE SGS07
+14 (22) Q230C SUPREME COURT ADMIN ASST JLAP 1 GRADE SGS06
+15 (23) Q209C SUPREME COURT INVESTIGATOR OPC 1 GRADE SGS07
+16 MAX. NO. OF EMPLOYEES 25
+17
+18 SECTION 5. EXTRA HELP - SUPREME COURT BAR OF ARKANSAS. There is hereby
+19 authorized, for the Arkansas Supreme Court for the 2025-2026 fiscal year, the
+20 following maximum number of part-time or temporary employees, to be known as
+21 "Extra Help", payable from funds appropriated herein for such purposes: five
+22 (5) temporary or part-time employees, when needed, at rates of pay not to
+23 exceed those provided in the Uniform Classification and Compensation Act, or
+24 its successor, or this act for the appropriate classification.
+25
+26 SECTION 6. APPROPRIATION - SUPREME COURT BAR OF ARKANSAS. There is
+27 hereby appropriated, to the Arkansas Supreme Court, to be payable from cash
+28 funds as defined by Arkansas Code §19-4-801, for personal services and
+29 operating expenses for the fiscal year ending June 30, 2026, the following:
+30
+31 ITEM FISCAL YEAR
+32 NO. 2025-2026
+33 (01) REGULAR SALARIES $1,886,951
+34 (02) EXTRA HELP 20,000
+35 (03) PERSONAL SERVICES MATCHING 632,963
+4 04-07-2025 17:34:03 JAR026
+As Engrossed: S4/7/25 SB55
+1 (04) MAINT. & GEN. OPERATION
+2 (A) OPER. EXPENSE 750,000
+3 (B) CONF. & TRAVEL 181,700
+4 (C) PROF. FEES 420,000
+5 (D) CAP. OUTLAY 75,000
+6 (E) DATA PROC. 0
+7 (05) CONSTRUCTION 75,000
+8 (06) REFUNDS/INVESTMENTS/TRANSFERS 1,690,000
+9 TOTAL AMOUNT APPROPRIATED $5,731,614
+10
+11 SECTION 7. COMPLIANCE WITH OTHER LAWS. Disbursement of funds
+12 authorized by this act shall be limited to the appropriation for such agency
+13 and funds made available by law for the support of such appropriations; and
+14 the restrictions of the State Procurement Law, the General Accounting and
+15 Budgetary Procedures Law, the Revenue Stabilization Law, the Regular Salary
+16 Procedures and Restrictions Act, or their successors, and other fiscal
+17 control laws of this State, where applicable, and regulations promulgated by
+18 the Department of Finance and Administration, as authorized by law, shall be
+19 strictly complied with in disbursement of said funds.
+20
+21 SECTION 8. LEGISLATIVE INTENT. It is the intent of the General
+22 Assembly that any funds disbursed under the authority of the appropriations
+23 contained in this act shall be in compliance with the stated reasons for
+24 which this act was adopted, as evidenced by the Agency Requests, Executive
+25 Recommendations and Legislative Recommendations contained in the budget
+26 manuals prepared by the Department of Finance and Administration, letters, or
+27 summarized oral testimony in the official minutes of the Arkansas Legislative
+28 Council or Joint Budget Committee which relate to its passage and adoption.
+29
+30 SECTION 9. EMERGENCY CLAUSE. It is found and determined by the General
+31 Assembly, that the Constitution of the State of Arkansas prohibits the
+32 appropriation of funds for more than a one (1) year period; that the
+33 effectiveness of this Act on July 1, 2025 is essential to the operation of
+34 the agency for which the appropriations in this Act are provided, and that in
+35 the event of an extension of the legislative session, the delay in the
+36 effective date of this Act beyond July 1, 2025 could work irreparable harm
+5 04-07-2025 17:34:03 JAR026
+As Engrossed: S4/7/25 SB55
+1 upon the proper administration and provision of essential governmental
+2 programs. Therefore, an emergency is hereby declared to exist and this Act
+3 being necessary for the immediate preservation of the public peace, health
+4 and safety shall be in full force and effect from and after July 1, 2025.
+5
+6 /s/Joint Budget Committee
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+6 04-07-2025 17:34:03 JAR026
+[DELETED:  A      A A F O   A A Y    B   S f m                     ]
+[DELETED:  S2 0                                               S t m H t t s   S t F C]
+[DELETED:  S3 0  I   ( ( ( (           ( ( ( ( ( (     S h 2                         ]
+[DELETED:  S4 0                                   S a f " ( e i   S h f o  I   ( ( (]
+[DELETED:  S5 0 (           ( (     S a a t B P c t s   S A c w R m s C   S A a e t t e]
+[DELETED:  S6 0 u p b a  /                              ]
+
+
+================================================================================
+
+Raw Text:
+Stricken language would be deleted from and underlined language would be added to present law.
+1 State of Arkansas As Engrossed: S4/7/25
+A Bill
+2 95th General Assembly
+3 Regular Session, 2025 SENATE BILL 55
+4
+5 By: Joint Budget Committee
+6
+7
+For An Act To Be Entitled
+8
+9 AN ACT TO MAKE AN APPROPRIATION FOR PERSONAL SERVICES
+10 AND OPERATING EXPENSES FOR THE ARKANSAS SUPREME COURT
+11 FOR THE FISCAL YEAR ENDING JUNE 30, 2026; AND FOR
+12 OTHER PURPOSES.
+13
+14
+Subtitle
+15
+16 AN ACT FOR THE ARKANSAS SUPREME COURT
+17 APPROPRIATION FOR THE 2025-2026 FISCAL
+18 YEAR.
+19
+20
+21 BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF ARKANSAS:
+22
+23 SECTION 1. REGULAR SALARIES - OPERATIONS. There is hereby established
+24 for the Arkansas Supreme Court for the 2025-2026 fiscal year, the following
+25 maximum number of regular employees.
+26
+27 Maximum Annual
+28 Maximum Salary Rate
+29 Item Class No. of Fiscal Year
+30 No. Code Title Employees 2025-2026
+31 (1) Q009N SUPREME COURT CLERK 1 GRADE EXE01
+32 (2) Q051C NETWORK ADMINISTRATOR 1 GRADE IST10
+33 (3) Q263C APPELLATE AUTOMATION SPECIALIST 1 GRADE IST08
+34 (4) Q106C DATA POLICY MANAGER 1 GRADE IST08
+35 (5) Q021C APPELLATE REVIEW ATTORNEY II 2 GRADE SPC07
+36 (6) Q011C CRIMINAL COORDINATOR 1 GRADE SPC07
+*JAR026*
+04-07-2025 17:34:03 JAR026
+
+As Engrossed: S4/7/25 SB55
+1 (7) Q072C FISCAL OFFICER 1 GRADE SPC07
+2 (8) Q010C LIBRARY DIRECTOR 1 GRADE SPC07
+3 (9) Q035C SUPREME COURT LAW CLERK 14 GRADE SPC07
+4 (10) Q012C SUPREME COURT REPORTER 1 GRADE SPC07
+5 (11) Q037C ASSISTANT CRIMINAL COORDINATOR 2 GRADE SPC05
+6 (12) Q036C CHIEF DEPUTY CLERK 1 GRADE SPC05
+7 (13) Q217C DEPUTY CRIMINAL COORDINATOR 1 GRADE SPC06
+8 (14) Q288C SUPREME COURT HUMAN RESOURCE COORD 1 GRADE SGS11
+9 (15) Q083C COMMUNICATIONS COUNSEL 1 GRADE SPC04
+10 (16) Q038C DEPUTY REPORTER 1 GRADE SPC05
+11 (17) Q090C EXECUTIVE ASSISTANT TO CLERK 1 GRADE SGS08
+12 (18) Q091C JUDICIAL CHIEF ADMINISTRATIVE ASSIST 1 GRADE SGS09
+13 (19) Q125C SUPREME COURT POLICE OFFICER 5 GRADE LES04
+14 (20) Q228C DEPUTY CLERK 1 GRADE SGS08
+15 (21) Q108C FINANCIAL SPECIALIST 1 GRADE SGS09
+16 (22) Q116C JUDICIAL ADMINISTRATIVE ASSISTANT 6 GRADE SGS09
+17 (23) Q109C RECORDS SUPERVISOR 1 GRADE SGS09
+18 (24) Q107C ASSISTANT CHIEF DEPUTY CLERK 1 GRADE SGS08
+19 (25) Q122C DATA RESEARCH ANALYST 1 GRADE SGS08
+20 (26) Q192C PUBLIC SERVICE LIBRARIAN 1 GRADE SGS08
+21 (27) Q124C LIBRARY TECHNICAL ASSISTANT 1 GRADE SGS07
+22 MAX. NO. OF EMPLOYEES 51
+23
+24 SECTION 2. EXTRA HELP - OPERATIONS. There is hereby authorized, for
+25 the Arkansas Supreme Court for the 2025-2026 fiscal year, the following
+26 maximum number of part-time or temporary employees, to be known as "Extra
+27 Help", payable from funds appropriated herein for such purposes: five (5)
+28 temporary or part-time employees, when needed, at rates of pay not to exceed
+29 those provided in the Uniform Classification and Compensation Act, or its
+30 successor, or this act for the appropriate classification.
+31
+32 SECTION 3. APPROPRIATION - OPERATIONS. There is hereby appropriated,
+33 to the Arkansas Supreme Court, to be payable from the State Central Services
+34 Fund, for personal services and operating expenses of the Arkansas Supreme
+35 Court for the fiscal year ending June 30, 2026, the following:
+2 04-07-2025 17:34:03 JAR026
+
+As Engrossed: S4/7/25 SB55
+1
+2 ITEM FISCAL YEAR
+3 NO. 2025-2026
+4 (01) REGULAR SALARIES $4,689,830
+5 (02) EXTRA HELP 30,000
+6 (03) PERSONAL SERVICES MATCHING 1,483,556
+7 (04) MAINT. & GEN. OPERATION
+8 (A) OPER. EXPENSE 417,765
+9 (B) CONF. & TRAVEL 55,000
+10 (C) PROF. FEES 25,000
+11 (D) CAP. OUTLAY 112,000
+12 (E) DATA PROC. 0
+13 (05) ARKANSAS REPORTS 229,477
+14 (06) COURT APPOINTED ATTORNEYS 195,000
+15 (07) COMMISSIONS AND COMMITTEES 20,000
+16 (08) SPECIAL JUSTICES 5,500
+17 (09) JUDICIAL EDUCATION 100,000
+18 (10) RECORDS MAINTENANCE TECHNOLOGY 300,000
+19 TOTAL AMOUNT APPROPRIATED $7,663,128
+20
+21 SECTION 4. REGULAR SALARIES - SUPREME COURT BAR OF ARKANSAS. There is
+22 hereby established for the Arkansas Supreme Court - Bar of Arkansas for the
+23 2025-2026 fiscal year, the following maximum number of regular employees.
+24
+25 Maximum Annual
+26 Maximum Salary Rate
+27 Item Class No. of Fiscal Year
+28 No. Code Title Employees 2025-2026
+29 (1) Q057N SUPREME COURT DIRECTOR OF OPC 1 GRADE EXE01
+30 (2) Q058N SUPREME COURT DIRECTOR OF OPP 1 GRADE EXE01
+31 (3) Q059N SUPREME COURT DEP DIRECTOR OF OPC 1 GRADE SPC08
+32 (4) Q268C SUPREME COURT ATTORNEY SUPERVISOR 1 GRADE SPC07
+33 (5) Q269C SUPREME COURT ATTORNEY SPECIALIST 1 GRADE SPC06
+34 (6) Q200C SUPREME COURT DIRECTOR OF AJC 1 GRADE SPC06
+35 (7) Q201C SUPREME COURT DIRECTOR OF JLAP 1 GRADE SPC06
+36 (8) Q199C SUPREME COURT SENIOR STAFF ATTY OPC 1 GRADE SPC06
+3 04-07-2025 17:34:03 JAR026
+
+As Engrossed: S4/7/25 SB55
+1 (9) Q202C SUPREME COURT STAFF ATTORNEY OPC 2 GRADE SPC05
+2 (10) Q264C HELP DESK APPLICATION SPECIALIST 1 GRADE SGS11
+3 (11) Q204C SUPREME COURT DEPUTY DIRECTOR JLAP 1 GRADE SPC05
+4 (12) Q207C SUPREME COURT LICENSING DIRECTOR 1 GRADE SGS11
+5 (13) Q229C SUPREME COURT PROGRAM COORD AJC 1 GRADE SPC04
+6 (14) Q301C SUPREME COURT PROGRAM COORD OPP II 1 GRADE SGS11
+7 (15) Q203C SUPREME COURT PROGRAM COORD OPP I 1 GRADE SGS08
+8 (16) Q270C SUPREME COURT ADMIN ASST/PARALEGAL 1 GRADE SGS09
+9 (17) Q206C SUPREME COURT FINANCIAL SPECIALIST 1 GRADE SGS09
+10 (18) Q208C SUPREME COURT PARALEGAL OPC 1 GRADE SGS09
+11 (19) Q211C SUPREME COURT ADMIN ASSISTANT AJC 1 GRADE SGS07
+12 (20) Q297C SUPREME COURT ADMIN ASSISTANT OPC 1 GRADE SGS07
+13 (21) Q210C SUPREME COURT ADMIN ASSISTANT OPP 2 GRADE SGS07
+14 (22) Q230C SUPREME COURT ADMIN ASST JLAP 1 GRADE SGS06
+15 (23) Q209C SUPREME COURT INVESTIGATOR OPC 1 GRADE SGS07
+16 MAX. NO. OF EMPLOYEES 25
+17
+18 SECTION 5. EXTRA HELP - SUPREME COURT BAR OF ARKANSAS. There is hereby
+19 authorized, for the Arkansas Supreme Court for the 2025-2026 fiscal year, the
+20 following maximum number of part-time or temporary employees, to be known as
+21 "Extra Help", payable from funds appropriated herein for such purposes: five
+22 (5) temporary or part-time employees, when needed, at rates of pay not to
+23 exceed those provided in the Uniform Classification and Compensation Act, or
+24 its successor, or this act for the appropriate classification.
+25
+26 SECTION 6. APPROPRIATION - SUPREME COURT BAR OF ARKANSAS. There is
+27 hereby appropriated, to the Arkansas Supreme Court, to be payable from cash
+28 funds as defined by Arkansas Code §19-4-801, for personal services and
+29 operating expenses for the fiscal year ending June 30, 2026, the following:
+30
+31 ITEM FISCAL YEAR
+32 NO. 2025-2026
+33 (01) REGULAR SALARIES $1,886,951
+34 (02) EXTRA HELP 20,000
+35 (03) PERSONAL SERVICES MATCHING 632,963
+4 04-07-2025 17:34:03 JAR026
+
+As Engrossed: S4/7/25 SB55
+1 (04) MAINT. & GEN. OPERATION
+2 (A) OPER. EXPENSE 750,000
+3 (B) CONF. & TRAVEL 181,700
+4 (C) PROF. FEES 420,000
+5 (D) CAP. OUTLAY 75,000
+6 (E) DATA PROC. 0
+7 (05) CONSTRUCTION 75,000
+8 (06) REFUNDS/INVESTMENTS/TRANSFERS 1,690,000
+9 TOTAL AMOUNT APPROPRIATED $5,731,614
+10
+11 SECTION 7. COMPLIANCE WITH OTHER LAWS. Disbursement of funds
+12 authorized by this act shall be limited to the appropriation for such agency
+13 and funds made available by law for the support of such appropriations; and
+14 the restrictions of the State Procurement Law, the General Accounting and
+15 Budgetary Procedures Law, the Revenue Stabilization Law, the Regular Salary
+16 Procedures and Restrictions Act, or their successors, and other fiscal
+17 control laws of this State, where applicable, and regulations promulgated by
+18 the Department of Finance and Administration, as authorized by law, shall be
+19 strictly complied with in disbursement of said funds.
+20
+21 SECTION 8. LEGISLATIVE INTENT. It is the intent of the General
+22 Assembly that any funds disbursed under the authority of the appropriations
+23 contained in this act shall be in compliance with the stated reasons for
+24 which this act was adopted, as evidenced by the Agency Requests, Executive
+25 Recommendations and Legislative Recommendations contained in the budget
+26 manuals prepared by the Department of Finance and Administration, letters, or
+27 summarized oral testimony in the official minutes of the Arkansas Legislative
+28 Council or Joint Budget Committee which relate to its passage and adoption.
+29
+30 SECTION 9. EMERGENCY CLAUSE. It is found and determined by the General
+31 Assembly, that the Constitution of the State of Arkansas prohibits the
+32 appropriation of funds for more than a one (1) year period; that the
+33 effectiveness of this Act on July 1, 2025 is essential to the operation of
+34 the agency for which the appropriations in this Act are provided, and that in
+35 the event of an extension of the legislative session, the delay in the
+36 effective date of this Act beyond July 1, 2025 could work irreparable harm
+5 04-07-2025 17:34:03 JAR026
+
+As Engrossed: S4/7/25 SB55
+1 upon the proper administration and provision of essential governmental
+2 programs. Therefore, an emergency is hereby declared to exist and this Act
+3 being necessary for the immediate preservation of the public peace, health
+4 and safety shall be in full force and effect from and after July 1, 2025.
+5
+6 /s/Joint Budget Committee
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+6 04-07-2025 17:34:03 JAR026
+
+[DELETED:  A      A A F O   A A Y    B   S f m                     ]
+[DELETED:  S2 0                                               S t m H t t s   S t F C]
+[DELETED:  S3 0  I   ( ( ( (           ( ( ( ( ( (     S h 2                         ]
+[DELETED:  S4 0                                   S a f " ( e i   S h f o  I   ( ( (]
+[DELETED:  S5 0 (           ( (     S a a t B P c t s   S A c w R m s C   S A a e t t e]
+[DELETED:  S6 0 u p b a  /                              ]

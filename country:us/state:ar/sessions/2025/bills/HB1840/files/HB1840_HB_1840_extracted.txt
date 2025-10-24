@@ -1,0 +1,180 @@
+Title: Stricken language would be deleted from and underlined language would be added to present law.
+Official Title: Stricken language would be deleted from and underlined language would be added to present law.
+Number of Sections: 1
+Source: versions - HB 1840
+Media Type: application/pdf
+Strikethrough Detection: 2 sections found
+
+================================================================================
+
+Section 1:
+1 State of Arkansas As Engrossed: S4/3/25
+A Bill
+2 95th General Assembly
+3 Regular Session, 2025 HOUSE BILL 1840
+4
+5 By: Representative L. Johnson
+6 By: Senator Irvin
+7
+For An Act To Be Entitled
+8
+9 AN ACT TO AMEND THE MEDICAID PROVIDER-LED ORGANIZED
+10 CARE ACT TO ENSURE THAT SEDATION DENTISTRY IS COVERED
+11 BY RISK-BASED PROVIDER ORGANIZATIONS; AND FOR OTHER
+12 PURPOSES.
+13
+14
+Subtitle
+15
+16 TO AMEND THE MEDICAID PROVIDER-LED
+17 ORGANIZED CARE ACT TO ENSURE THAT
+18 SEDATION DENTISTRY IS COVERED BY RISK-
+19 BASED PROVIDER ORGANIZATIONS.
+20
+21 BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF ARKANSAS:
+22
+23 SECTION 1. Arkansas Code § 20-77-2703(6), concerning the definition of
+24 "direct service provider" within the Medicaid Provider-Led Organized Care
+25 Act, is amended to read as follows:
+26 (6) “Direct service provider” means an organization or
+27 individual that delivers healthcare services, including sedation dentistry,
+28 to enrollable Medicaid beneficiary populations;
+29
+30 SECTION 2. Arkansas Code § 20-77-2703, concerning definitions within
+31 the Medicaid Provider-Led Organized Care Act, is amended to add an additional
+32 subdivision to read as follows:
+33 (15) "Sedation dentistry" means the administration of sedative
+34 medications during dental procedures to address routine and complex dental
+35 care needs, including minimal sedation, moderate sedation, deep sedation, and
+36 general anesthesia.
+*JMB547*
+04-03-2025 16:26:58 JMB547
+As Engrossed: S4/3/25 HB1840
+1
+2 SECTION 3. Arkansas Code § 20-77-2705(b), concerning the excluded
+3 services under the Medicaid Provider-Led Organized Care Act, is amended to
+4 read as follows:
+5 (b) The Medicaid provider-led organized care system shall be
+6 implemented to the extent possible, but shall not include the following
+7 services when provided to enrollable Medicaid beneficiary populations:
+8 (1) Nonemergency medical transportation in a capitated program;
+9 (2) Dental benefits in a capitated program, not including
+10 sedation dentistry;
+11 (3) School-based services provided by school employees;
+12 (4) Skilled nursing facility services;
+13 (5) Assisted living facility services;
+14 (6) Human development center services; or
+15 (7) Waiver services provided to adults with physical
+16 disabilities through the ARChoices in Homecare program or the Arkansas
+17 IndependentChoices program.
+18
+19 SECTION 4. Arkansas Code § 20-77-2706(f)(3), concerning the
+20 characteristics and duties of a risk-based provider organization under the
+21 Medicaid Provider-Led Organized Care Act, is amended to read as follows:
+22 (3)(A) Process claims, including medical claims and dental
+23 claims for sedation dentistry, or otherwise ensure payment to direct service
+24 providers within time frames established under federal regulations for goods
+25 and services delivered to the enrollable Medicaid beneficiary populations.
+26 (B) Services provided by a risk-based provider
+27 organization shall include medical and dental coverage for sedation dentistry
+28 services;
+29
+30 /s/L. Johnson
+31
+32
+33
+34
+35
+36
+2 04-03-2025 16:26:58 JMB547
+[DELETED:  A      A C B P   T O S B  B   S " A   ( i t   S t s   ( m c g]
+[DELETED:  H2 0   S s r  ( i s   (   ( s   (   (   (   (   ( d I   S c M   ( c p a    ( o s  /      ]
+
+
+================================================================================
+
+Raw Text:
+Stricken language would be deleted from and underlined language would be added to present law.
+1 State of Arkansas As Engrossed: S4/3/25
+A Bill
+2 95th General Assembly
+3 Regular Session, 2025 HOUSE BILL 1840
+4
+5 By: Representative L. Johnson
+6 By: Senator Irvin
+7
+For An Act To Be Entitled
+8
+9 AN ACT TO AMEND THE MEDICAID PROVIDER-LED ORGANIZED
+10 CARE ACT TO ENSURE THAT SEDATION DENTISTRY IS COVERED
+11 BY RISK-BASED PROVIDER ORGANIZATIONS; AND FOR OTHER
+12 PURPOSES.
+13
+14
+Subtitle
+15
+16 TO AMEND THE MEDICAID PROVIDER-LED
+17 ORGANIZED CARE ACT TO ENSURE THAT
+18 SEDATION DENTISTRY IS COVERED BY RISK-
+19 BASED PROVIDER ORGANIZATIONS.
+20
+21 BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF ARKANSAS:
+22
+23 SECTION 1. Arkansas Code § 20-77-2703(6), concerning the definition of
+24 "direct service provider" within the Medicaid Provider-Led Organized Care
+25 Act, is amended to read as follows:
+26 (6) “Direct service provider” means an organization or
+27 individual that delivers healthcare services, including sedation dentistry,
+28 to enrollable Medicaid beneficiary populations;
+29
+30 SECTION 2. Arkansas Code § 20-77-2703, concerning definitions within
+31 the Medicaid Provider-Led Organized Care Act, is amended to add an additional
+32 subdivision to read as follows:
+33 (15) "Sedation dentistry" means the administration of sedative
+34 medications during dental procedures to address routine and complex dental
+35 care needs, including minimal sedation, moderate sedation, deep sedation, and
+36 general anesthesia.
+*JMB547*
+04-03-2025 16:26:58 JMB547
+
+As Engrossed: S4/3/25 HB1840
+1
+2 SECTION 3. Arkansas Code § 20-77-2705(b), concerning the excluded
+3 services under the Medicaid Provider-Led Organized Care Act, is amended to
+4 read as follows:
+5 (b) The Medicaid provider-led organized care system shall be
+6 implemented to the extent possible, but shall not include the following
+7 services when provided to enrollable Medicaid beneficiary populations:
+8 (1) Nonemergency medical transportation in a capitated program;
+9 (2) Dental benefits in a capitated program, not including
+10 sedation dentistry;
+11 (3) School-based services provided by school employees;
+12 (4) Skilled nursing facility services;
+13 (5) Assisted living facility services;
+14 (6) Human development center services; or
+15 (7) Waiver services provided to adults with physical
+16 disabilities through the ARChoices in Homecare program or the Arkansas
+17 IndependentChoices program.
+18
+19 SECTION 4. Arkansas Code § 20-77-2706(f)(3), concerning the
+20 characteristics and duties of a risk-based provider organization under the
+21 Medicaid Provider-Led Organized Care Act, is amended to read as follows:
+22 (3)(A) Process claims, including medical claims and dental
+23 claims for sedation dentistry, or otherwise ensure payment to direct service
+24 providers within time frames established under federal regulations for goods
+25 and services delivered to the enrollable Medicaid beneficiary populations.
+26 (B) Services provided by a risk-based provider
+27 organization shall include medical and dental coverage for sedation dentistry
+28 services;
+29
+30 /s/L. Johnson
+31
+32
+33
+34
+35
+36
+2 04-03-2025 16:26:58 JMB547
+
+[DELETED:  A      A C B P   T O S B  B   S " A   ( i t   S t s   ( m c g]
+[DELETED:  H2 0   S s r  ( i s   (   ( s   (   (   (   (   ( d I   S c M   ( c p a    ( o s  /      ]

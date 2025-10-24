@@ -1,0 +1,496 @@
+Title: Stricken language would be deleted from and underlined language would be added to present law.
+Official Title: Stricken language would be deleted from and underlined language would be added to present law.
+Number of Sections: 1
+Source: versions - HB 1299
+Media Type: application/pdf
+Strikethrough Detection: 6 sections found
+
+================================================================================
+
+Section 1:
+1 State of Arkansas As Engrossed: H2/20/25
+A Bill
+2 95th General Assembly
+3 Regular Session, 2025 HOUSE BILL 1299
+4
+5 By: Representative L. Johnson
+6 By: Senator Irvin
+7
+For An Act To Be Entitled
+8
+9 AN ACT TO PROHIBIT HEALTHCARE INSURERS FROM
+10 EXERCISING RECOUPMENT FOR PAYMENT OF HEALTHCARE
+11 SERVICES MORE THAN ONE YEAR AFTER PAYMENT FOR
+12 HEALTHCARE SERVICES WAS MADE; AND FOR OTHER PURPOSES.
+13
+14
+Subtitle
+15
+16 TO PROHIBIT HEALTHCARE INSURERS FROM
+17 EXERCISING RECOUPMENT FOR PAYMENT OF
+18 HEALTHCARE SERVICES MORE THAN ONE YEAR
+19 AFTER THE PAYMENT FOR HEALTHCARE
+20 SERVICES WAS MADE.
+21
+22 BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF ARKANSAS:
+23
+24 SECTION 1. Arkansas Code Title 23, Chapter 99, is amended to add an
+25 additional subchapter to read as follows:
+26
+27 Subchapter 19 — Recoupment
+28
+29 23-99-1901. Definitions.
+30 As used in this subchapter:
+31 (1) "Abuse" means provider practices that:
+32 (A) Are inconsistent with sound fiscal, business, or
+33 medical practices; and
+34 (B) Result in unnecessary cost or reimbursement for
+35 services that are not medically necessary or that fail to meet professionally
+36 recognized standards for health care;
+*ANS034*
+02-20-2025 11:53:12 ANS034
+As Engrossed: H2/20/25 HB1299
+1 (2) "Covered person" means an individual who is entitled to
+2 receive healthcare services under the terms of a health benefit plan;
+3 (3)(A) "Fraud” means a purposeful deception or misrepresentation
+4 made by a person with the knowledge that the deception could result in some
+5 unauthorized benefit to the person or another person.
+6 (B) "Fraud" includes an act that constitutes fraud under
+7 applicable federal or state law;
+8 (4)(A) "Health benefit plan" means an individual, blanket, or
+9 group plan, policy, or contract for healthcare services issued, renewed, or
+10 extended in this state by a healthcare insurer, health maintenance
+11 organization, hospital medical service corporation, or self-insured
+12 governmental or church plan in this state.
+13 (B) "Health benefit plan" includes:
+14 (i) Indemnity and managed care plans; and
+15 (ii) Plans providing health benefits to state and
+16 public school employees under § 21-5-401 et seq.
+17 (C) "Health benefit plan" does not include:
+18 (i) A plan that provides only dental benefits or eye
+19 and vision care benefits;
+20 (ii) A disability income plan;
+21 (iii) A credit insurance plan;
+22 (iv) Insurance coverage issued as a supplement to
+23 liability insurance;
+24 (v) Medical payments under an automobile or
+25 homeowners insurance plan;
+26 (vi) A health benefit plan provided under Arkansas
+27 Constitution, Article 5, § 32, the Workers' Compensation Law, § 11-9-101 et
+28 seq., or the Public Employee Workers' Compensation Act, § 21-5-601 et seq.;
+29 (vii) A plan that provides only indemnity for
+30 hospital confinement;
+31 (viii) An accident-only plan;
+32 (ix) A specified disease plan; or
+33 (x) A plan provided under the Medicaid Provider-Led
+34 Organized Care Act, § 20-77-2701;
+35 (5)(A) "Healthcare insurer" means an entity that is subject to
+36 state insurance regulation and provides coverage for health benefits in this
+2 02-20-2025 11:53:12 ANS034
+As Engrossed: H2/20/25 HB1299
+1 state.
+2 (B) "Healthcare insurer" includes:
+3 (i) An insurance company;
+4 (ii) A health maintenance organization;
+5 (iii) A hospital and medical service corporation;
+6 and
+7 (iv) A sponsor of a nonfederal self-funded
+8 governmental healthcare plan;
+9 (6) "Healthcare provider" means a person or entity that is
+10 licensed, certified, or otherwise authorized by the laws of this state to
+11 provide healthcare services;
+12 (7) "Recoupment" means an action or attempt by a healthcare
+13 insurer to recover or collect payments already made to a healthcare provider
+14 with respect to a claim by:
+15 (A) Reducing other payments currently owed to the
+16 healthcare provider;
+17 (B) Withholding or setting off the amount against current
+18 or future payments to the healthcare provider;
+19 (C) Demanding repayment from a healthcare provider for a
+20 claim already paid; or
+21 (D) Any other means that reduce or affect the future claim
+22 payments to the healthcare provider; and
+23 (8) "Waste" means the overuse of services or practices that
+24 directly or indirectly result in unnecessary cost to a health benefit plan.
+25
+26 23-99-1902. Time.
+27 (a) Except in cases of fraud, waste, or abuse committed by a
+28 healthcare provider, a healthcare insurer may exercise recoupment from a
+29 healthcare provider only within three hundred sixty-five (365) days after the
+30 date that the healthcare insurer paid the claim submitted by the healthcare
+31 provider.
+32 (b)(1) A healthcare insurer that exercises recoupment under subsection
+33 (a) of this section shall give the healthcare provider a written or
+34 electronic statement specifying the basis for the recoupment.
+35 (2) The statement required under subdivision (b)(1) of this
+36 section shall include:
+3 02-20-2025 11:53:12 ANS034
+As Engrossed: H2/20/25 HB1299
+1 (A) The disclosure information required under § 23-99-
+2 1904; and
+3 (B)(i) Notice of any right to internal appeal by the
+4 healthcare provider.
+5 (ii) If the healthcare provider initiates an
+6 internal appeal under subdivision (b)(2)(B)(i) of this section, the
+7 healthcare insurer shall suspend recoupment efforts for the alleged
+8 overpayment until such time as the healthcare insurer has prevailed after the
+9 healthcare provider has exhausted all available internal appeals.
+10
+11 23-99-1903. Persons not covered.
+12 (a) Except in the case of fraud, waste, or abuse committed by a
+13 healthcare provider or as described under subdivision (b)(1) of this section,
+14 a healthcare insurer shall not exercise recoupment if:
+15 (1) The healthcare provider or other party on its behalf
+16 verified the patient eligibility for a covered service from the healthcare
+17 insurer or its agent; and
+18 (2) The healthcare provider provided healthcare services to the
+19 covered person in good-faith reliance on the verification.
+20 (b)(1) A healthcare insurer has ninety (90) days from the date of
+21 services to notify the healthcare provider of a verification error and the
+22 fact that healthcare services rendered will not be covered if:
+23 (A) The verification error was made in good-faith reliance
+24 at the time of the verification upon information provided by the party
+25 responsible for enrolling a covered person in the health benefit plan; and
+26 (B) The party responsible for enrolling a covered person
+27 in the health benefit plan is separate and independent from, and is not an
+28 employee, representative, assignee, affiliate, subsidiary, or otherwise under
+29 the common control of, the healthcare insurer.
+30 (2) If a recoupment notice is sent based upon a verification
+31 error under subdivision (b)(1) of this section, the healthcare insurer shall
+32 include a specific explanation of the error.
+33
+34 23-99-1904. Disclosure required — Exercising recoupment.
+35 (a) A healthcare insurer shall give written notice to a healthcare
+36 provider of the healthcare insurer's intent to exercise recoupment if the
+4 02-20-2025 11:53:12 ANS034
+As Engrossed: H2/20/25 HB1299
+1 healthcare insurer determines that payment was made:
+2 (1) For healthcare services not covered under the covered
+3 person's health benefit plan; or
+4 (2) To a person who was ineligible to receive benefits under the
+5 health benefit plan.
+6 (b) A healthcare insurer may:
+7 (1) Request a refund from a healthcare provider; or
+8 (2) Exercise recoupment of the payment from the healthcare
+9 provider under this section.
+10 (c) If a healthcare insurer exercises recoupment, then the healthcare
+11 insurer shall provide the healthcare provider written documentation that
+12 specifies the:
+13 (1) Amount of the recoupment;
+14 (2) Covered person's name to which the recoupment applies;
+15 (3) Patient identification number;
+16 (4) Date of the healthcare service;
+17 (5) Healthcare service on which the recoupment is based;
+18 (6) Pending claim being recouped or future claim that is
+19 anticipated to be recouped; and
+20 (7) Specific reason for the recoupment.
+21 (d)(1) In a recoupment based upon medical necessity determinations,
+22 level of service determinations, coding errors, or billing irregularities,
+23 the healthcare insurer exercising recoupment shall ensure that the recoupment
+24 is reconciled to specific claims and shall provide specific reasons for the
+25 recoupment.
+26 (2) A specific reason for recoupment under subdivision (d)(1) of
+27 this section shall not consist of mere conclusionary statements but shall
+28 contain specific information from which the healthcare provider can determine
+29 the basis for the recoupment and make a reasoned determination about whether
+30 to challenge the recoupment.
+31 (3) If the healthcare provider obtained prior authorization for
+32 the healthcare service for the covered person from the healthcare insurer or
+33 the healthcare insurer's employee, agent, representative, or assign, the
+34 healthcare insurer shall not exercise recoupment based upon a retroactive
+35 medical necessity determination or level of service determination except in
+36 instances of fraud, waste, or abuse by the healthcare provider in obtaining
+5 02-20-2025 11:53:12 ANS034
+As Engrossed: H2/20/25 HB1299
+1 the prior authorization.
+2 (e)(1) If a prior authorization is not obtained by the healthcare
+3 provider and the healthcare insurer exercises recoupment based on a
+4 determination that the healthcare provider billed the wrong level of care,
+5 the healthcare insurer shall state in the notice of recoupment which level of
+6 care the healthcare insurer has determined would have been appropriate.
+7 (2) If a prior authorization is not obtained by a healthcare
+8 provider and the healthcare insurer exercises recoupment based on a
+9 determination that the healthcare service rendered was not medically
+10 necessary, the healthcare insurer shall include with the notice of
+11 recoupment:
+12 (A) The specific criteria required for medical necessity
+13 for the healthcare service; and
+14
+15 (B) The specific reason why the respective healthcare service failed to meet
+16 the criteria described under subdivision (e)(2)(A) of this section.
+17 (3) Upon notice being served under subdivision (e)(1) or
+18 subdivision (e)(2) of this section, a healthcare provider shall have ninety
+19 (90) days to correct the claim and resubmit the claim regardless of a timely
+20 filing provision under a contract or policy or procedure restrictions.
+21
+22 23-99-1905. Unfair trade practices.
+23 A healthcare insurer that fails to comply with this subchapter is
+24 subject to and in violation of the Trade Practices Act, § 23-66-201 et seq.
+25
+26 /s/L. Johnson
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+6 02-20-2025 11:53:12 ANS034
+[DELETED:  A   EBL1     A E S H   T E H A S  B   S a  S   2  A   (    ( m    ( s r]
+[DELETED:  H2 0   ( r   ( m u    ( a   ( g e o g    (     (     ( p    (     ( a     (     (     ( l     ( h     ( C s     ( h     (     (     ( O   ( s]
+[DELETED:  H3 0 s    (     (     (     ( a     ( g   ( l p   ( i w    ( h    ( o    ( c    ( p   ( d   2  ( h h d p  ( ( e   ( s]
+[DELETED:  H4 0    ( 1    ( h     ( i h o h   2  ( h a   ( v i     ( c  ( s f    ( a r    ( i e t   ( e i   2  ( p]
+[DELETED:  H5 0 h   ( p   ( h  (   (   ( p  ( i s   (   (   (   (   (   ( a   (  ( l t i r   ( t c t t   ( t t h m i]
+[DELETED:  H6 0 t  ( p d t c   ( p d n r    ( f     t   ( s ( f   2  A s  /          ]
+
+
+================================================================================
+
+Raw Text:
+Stricken language would be deleted from and underlined language would be added to present law.
+1 State of Arkansas As Engrossed: H2/20/25
+A Bill
+2 95th General Assembly
+3 Regular Session, 2025 HOUSE BILL 1299
+4
+5 By: Representative L. Johnson
+6 By: Senator Irvin
+7
+For An Act To Be Entitled
+8
+9 AN ACT TO PROHIBIT HEALTHCARE INSURERS FROM
+10 EXERCISING RECOUPMENT FOR PAYMENT OF HEALTHCARE
+11 SERVICES MORE THAN ONE YEAR AFTER PAYMENT FOR
+12 HEALTHCARE SERVICES WAS MADE; AND FOR OTHER PURPOSES.
+13
+14
+Subtitle
+15
+16 TO PROHIBIT HEALTHCARE INSURERS FROM
+17 EXERCISING RECOUPMENT FOR PAYMENT OF
+18 HEALTHCARE SERVICES MORE THAN ONE YEAR
+19 AFTER THE PAYMENT FOR HEALTHCARE
+20 SERVICES WAS MADE.
+21
+22 BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF ARKANSAS:
+23
+24 SECTION 1. Arkansas Code Title 23, Chapter 99, is amended to add an
+25 additional subchapter to read as follows:
+26
+27 Subchapter 19 — Recoupment
+28
+29 23-99-1901. Definitions.
+30 As used in this subchapter:
+31 (1) "Abuse" means provider practices that:
+32 (A) Are inconsistent with sound fiscal, business, or
+33 medical practices; and
+34 (B) Result in unnecessary cost or reimbursement for
+35 services that are not medically necessary or that fail to meet professionally
+36 recognized standards for health care;
+*ANS034*
+02-20-2025 11:53:12 ANS034
+
+As Engrossed: H2/20/25 HB1299
+1 (2) "Covered person" means an individual who is entitled to
+2 receive healthcare services under the terms of a health benefit plan;
+3 (3)(A) "Fraud” means a purposeful deception or misrepresentation
+4 made by a person with the knowledge that the deception could result in some
+5 unauthorized benefit to the person or another person.
+6 (B) "Fraud" includes an act that constitutes fraud under
+7 applicable federal or state law;
+8 (4)(A) "Health benefit plan" means an individual, blanket, or
+9 group plan, policy, or contract for healthcare services issued, renewed, or
+10 extended in this state by a healthcare insurer, health maintenance
+11 organization, hospital medical service corporation, or self-insured
+12 governmental or church plan in this state.
+13 (B) "Health benefit plan" includes:
+14 (i) Indemnity and managed care plans; and
+15 (ii) Plans providing health benefits to state and
+16 public school employees under § 21-5-401 et seq.
+17 (C) "Health benefit plan" does not include:
+18 (i) A plan that provides only dental benefits or eye
+19 and vision care benefits;
+20 (ii) A disability income plan;
+21 (iii) A credit insurance plan;
+22 (iv) Insurance coverage issued as a supplement to
+23 liability insurance;
+24 (v) Medical payments under an automobile or
+25 homeowners insurance plan;
+26 (vi) A health benefit plan provided under Arkansas
+27 Constitution, Article 5, § 32, the Workers' Compensation Law, § 11-9-101 et
+28 seq., or the Public Employee Workers' Compensation Act, § 21-5-601 et seq.;
+29 (vii) A plan that provides only indemnity for
+30 hospital confinement;
+31 (viii) An accident-only plan;
+32 (ix) A specified disease plan; or
+33 (x) A plan provided under the Medicaid Provider-Led
+34 Organized Care Act, § 20-77-2701;
+35 (5)(A) "Healthcare insurer" means an entity that is subject to
+36 state insurance regulation and provides coverage for health benefits in this
+2 02-20-2025 11:53:12 ANS034
+
+As Engrossed: H2/20/25 HB1299
+1 state.
+2 (B) "Healthcare insurer" includes:
+3 (i) An insurance company;
+4 (ii) A health maintenance organization;
+5 (iii) A hospital and medical service corporation;
+6 and
+7 (iv) A sponsor of a nonfederal self-funded
+8 governmental healthcare plan;
+9 (6) "Healthcare provider" means a person or entity that is
+10 licensed, certified, or otherwise authorized by the laws of this state to
+11 provide healthcare services;
+12 (7) "Recoupment" means an action or attempt by a healthcare
+13 insurer to recover or collect payments already made to a healthcare provider
+14 with respect to a claim by:
+15 (A) Reducing other payments currently owed to the
+16 healthcare provider;
+17 (B) Withholding or setting off the amount against current
+18 or future payments to the healthcare provider;
+19 (C) Demanding repayment from a healthcare provider for a
+20 claim already paid; or
+21 (D) Any other means that reduce or affect the future claim
+22 payments to the healthcare provider; and
+23 (8) "Waste" means the overuse of services or practices that
+24 directly or indirectly result in unnecessary cost to a health benefit plan.
+25
+26 23-99-1902. Time.
+27 (a) Except in cases of fraud, waste, or abuse committed by a
+28 healthcare provider, a healthcare insurer may exercise recoupment from a
+29 healthcare provider only within three hundred sixty-five (365) days after the
+30 date that the healthcare insurer paid the claim submitted by the healthcare
+31 provider.
+32 (b)(1) A healthcare insurer that exercises recoupment under subsection
+33 (a) of this section shall give the healthcare provider a written or
+34 electronic statement specifying the basis for the recoupment.
+35 (2) The statement required under subdivision (b)(1) of this
+36 section shall include:
+3 02-20-2025 11:53:12 ANS034
+
+As Engrossed: H2/20/25 HB1299
+1 (A) The disclosure information required under § 23-99-
+2 1904; and
+3 (B)(i) Notice of any right to internal appeal by the
+4 healthcare provider.
+5 (ii) If the healthcare provider initiates an
+6 internal appeal under subdivision (b)(2)(B)(i) of this section, the
+7 healthcare insurer shall suspend recoupment efforts for the alleged
+8 overpayment until such time as the healthcare insurer has prevailed after the
+9 healthcare provider has exhausted all available internal appeals.
+10
+11 23-99-1903. Persons not covered.
+12 (a) Except in the case of fraud, waste, or abuse committed by a
+13 healthcare provider or as described under subdivision (b)(1) of this section,
+14 a healthcare insurer shall not exercise recoupment if:
+15 (1) The healthcare provider or other party on its behalf
+16 verified the patient eligibility for a covered service from the healthcare
+17 insurer or its agent; and
+18 (2) The healthcare provider provided healthcare services to the
+19 covered person in good-faith reliance on the verification.
+20 (b)(1) A healthcare insurer has ninety (90) days from the date of
+21 services to notify the healthcare provider of a verification error and the
+22 fact that healthcare services rendered will not be covered if:
+23 (A) The verification error was made in good-faith reliance
+24 at the time of the verification upon information provided by the party
+25 responsible for enrolling a covered person in the health benefit plan; and
+26 (B) The party responsible for enrolling a covered person
+27 in the health benefit plan is separate and independent from, and is not an
+28 employee, representative, assignee, affiliate, subsidiary, or otherwise under
+29 the common control of, the healthcare insurer.
+30 (2) If a recoupment notice is sent based upon a verification
+31 error under subdivision (b)(1) of this section, the healthcare insurer shall
+32 include a specific explanation of the error.
+33
+34 23-99-1904. Disclosure required — Exercising recoupment.
+35 (a) A healthcare insurer shall give written notice to a healthcare
+36 provider of the healthcare insurer's intent to exercise recoupment if the
+4 02-20-2025 11:53:12 ANS034
+
+As Engrossed: H2/20/25 HB1299
+1 healthcare insurer determines that payment was made:
+2 (1) For healthcare services not covered under the covered
+3 person's health benefit plan; or
+4 (2) To a person who was ineligible to receive benefits under the
+5 health benefit plan.
+6 (b) A healthcare insurer may:
+7 (1) Request a refund from a healthcare provider; or
+8 (2) Exercise recoupment of the payment from the healthcare
+9 provider under this section.
+10 (c) If a healthcare insurer exercises recoupment, then the healthcare
+11 insurer shall provide the healthcare provider written documentation that
+12 specifies the:
+13 (1) Amount of the recoupment;
+14 (2) Covered person's name to which the recoupment applies;
+15 (3) Patient identification number;
+16 (4) Date of the healthcare service;
+17 (5) Healthcare service on which the recoupment is based;
+18 (6) Pending claim being recouped or future claim that is
+19 anticipated to be recouped; and
+20 (7) Specific reason for the recoupment.
+21 (d)(1) In a recoupment based upon medical necessity determinations,
+22 level of service determinations, coding errors, or billing irregularities,
+23 the healthcare insurer exercising recoupment shall ensure that the recoupment
+24 is reconciled to specific claims and shall provide specific reasons for the
+25 recoupment.
+26 (2) A specific reason for recoupment under subdivision (d)(1) of
+27 this section shall not consist of mere conclusionary statements but shall
+28 contain specific information from which the healthcare provider can determine
+29 the basis for the recoupment and make a reasoned determination about whether
+30 to challenge the recoupment.
+31 (3) If the healthcare provider obtained prior authorization for
+32 the healthcare service for the covered person from the healthcare insurer or
+33 the healthcare insurer's employee, agent, representative, or assign, the
+34 healthcare insurer shall not exercise recoupment based upon a retroactive
+35 medical necessity determination or level of service determination except in
+36 instances of fraud, waste, or abuse by the healthcare provider in obtaining
+5 02-20-2025 11:53:12 ANS034
+
+As Engrossed: H2/20/25 HB1299
+1 the prior authorization.
+2 (e)(1) If a prior authorization is not obtained by the healthcare
+3 provider and the healthcare insurer exercises recoupment based on a
+4 determination that the healthcare provider billed the wrong level of care,
+5 the healthcare insurer shall state in the notice of recoupment which level of
+6 care the healthcare insurer has determined would have been appropriate.
+7 (2) If a prior authorization is not obtained by a healthcare
+8 provider and the healthcare insurer exercises recoupment based on a
+9 determination that the healthcare service rendered was not medically
+10 necessary, the healthcare insurer shall include with the notice of
+11 recoupment:
+12 (A) The specific criteria required for medical necessity
+13 for the healthcare service; and
+14
+15 (B) The specific reason why the respective healthcare service failed to meet
+16 the criteria described under subdivision (e)(2)(A) of this section.
+17 (3) Upon notice being served under subdivision (e)(1) or
+18 subdivision (e)(2) of this section, a healthcare provider shall have ninety
+19 (90) days to correct the claim and resubmit the claim regardless of a timely
+20 filing provision under a contract or policy or procedure restrictions.
+21
+22 23-99-1905. Unfair trade practices.
+23 A healthcare insurer that fails to comply with this subchapter is
+24 subject to and in violation of the Trade Practices Act, § 23-66-201 et seq.
+25
+26 /s/L. Johnson
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+6 02-20-2025 11:53:12 ANS034
+
+[DELETED:  A   EBL1     A E S H   T E H A S  B   S a  S   2  A   (    ( m    ( s r]
+[DELETED:  H2 0   ( r   ( m u    ( a   ( g e o g    (     (     ( p    (     ( a     (     (     ( l     ( h     ( C s     ( h     (     (     ( O   ( s]
+[DELETED:  H3 0 s    (     (     (     ( a     ( g   ( l p   ( i w    ( h    ( o    ( c    ( p   ( d   2  ( h h d p  ( ( e   ( s]
+[DELETED:  H4 0    ( 1    ( h     ( i h o h   2  ( h a   ( v i     ( c  ( s f    ( a r    ( i e t   ( e i   2  ( p]
+[DELETED:  H5 0 h   ( p   ( h  (   (   ( p  ( i s   (   (   (   (   (   ( a   (  ( l t i r   ( t c t t   ( t t h m i]
+[DELETED:  H6 0 t  ( p d t c   ( p d n r    ( f     t   ( s ( f   2  A s  /          ]

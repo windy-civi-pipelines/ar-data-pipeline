@@ -1,0 +1,575 @@
+Title: Stricken language would be deleted from and underlined language would be added to present law.
+Official Title: Stricken language would be deleted from and underlined language would be added to present law.
+Number of Sections: 1
+Source: versions - HB 1857
+Media Type: application/pdf
+Strikethrough Detection: 7 sections found
+
+================================================================================
+
+Section 1:
+1 State of Arkansas
+A Bill
+2 95th General Assembly
+3 Regular Session, 2025 HOUSE BILL 1857
+4
+5 By: Representatives L. Johnson, Henley
+6 By: Senator J. Boyd
+7
+For An Act To Be Entitled
+8
+9 AN ACT TO AMEND THE LAW CONCERNING THE COLLECTION OF
+10 SALES AND USE TAX ON THE SALE OF A NEW OR USED
+11 MOTORBOAT; TO PROVIDE FOR THE DIRECT PAYMENT OF SALES
+12 AND USE TAX ON A MOTORBOAT SOLD BY A MOTORBOAT
+13 DEALER; AND FOR OTHER PURPOSES.
+14
+15
+Subtitle
+16
+17 TO AMEND THE LAW CONCERNING THE
+18 COLLECTION OF SALES AND USE TAX ON THE
+19 SALE OF A NEW OR USED MOTORBOAT; AND TO
+20 PROVIDE FOR THE DIRECT PAYMENT OF SALES
+21 AND USE TAX ON A MOTORBOAT SOLD BY A
+22 MOTORBOAT DEALER.
+23
+24 BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF ARKANSAS:
+25
+26 SECTION 1. Arkansas Code Title 26, Chapter 52, Subchapter 5, is
+27 amended to add an additional section to read as follows:
+28 26-52-524. Direct payment of tax by consumer-user — New and used
+29 motorboats sold by motorboat dealer — Definitions.
+30 (a) As used in this section, "motorboat" means the same as defined in
+31 § 27-101-103.
+32 (b)(1)(A) On or before the time for applying for a certificate of
+33 number as prescribed by § 27-101-304, a consumer shall pay to the Secretary
+34 of the Department of Finance and Administration the tax levied by this
+35 chapter and all other gross receipts taxes levied by the state with respect
+36 to the sale by a motorboat dealer of a new or used motorboat required to be
+*JLL341*
+03/19/2025 1:25:42 PM JLL341
+HB1857
+1 numbered in this state.
+2 (B) The tax levied by this chapter or other gross receipts
+3 taxes levied by the state shall not be collected by the motorboat dealer.
+4 (2) The secretary shall require the payment of the taxes at the
+5 time of registration before issuing a certificate of number for the new or
+6 used motorboat.
+7 (3) If the consumer fails to pay the taxes when due:
+8 (A) There is assessed a penalty equal to ten percent (10%)
+9 of the amount of taxes due; and
+10 (B) The consumer shall pay to the secretary the penalty
+11 under subdivision (b)(3)(A) of this section and the taxes due before the
+12 secretary issues a certificate of number for the motorboat.
+13 (c)(1)(A) Except as provided in this section, when a used motorboat is
+14 taken in trade as a credit or part payment on the sale of a new or used
+15 motorboat by a motorboat dealer, the tax levied by this chapter and all other
+16 gross receipts taxes levied by the state shall be paid on the net difference
+17 between the total consideration for the new or used motorboat sold and the
+18 credit for the used motorboat taken in trade.
+19 (B)(i) When a used motorboat is sold by a consumer, rather
+20 than traded in as a credit or part payment on the sale of a new or used
+21 motorboat, and the consumer subsequently purchases a new or used motorboat of
+22 greater value from a motorboat dealer within sixty (60) days of the sale, the
+23 tax levied by this chapter and all other gross receipts taxes levied by the
+24 state shall be paid on the net difference between the total consideration for
+25 the new or used motorboat purchased subsequently and the amount received from
+26 the sale of the used motorboat sold in lieu of a trade-in.
+27 (ii)(a) Upon applying for a certificate of number
+28 for the new or used motorboat, a consumer claiming the deduction provided by
+29 subdivision (c)(1)(B)(i) of this section shall provide a bill of sale signed
+30 by all parties to the transaction that reflects the total consideration paid
+31 to the motorboat dealer for the motorboat.
+32 (b) A copy of the bill of sale shall be
+33 deposited with the Department of Finance and Administration at the time of
+34 application for a certificate of number for the new or used motorboat.
+35 (c) The deduction provided by this section
+36 shall not be allowed unless the taxpayer claiming the deduction provides a
+2 03/19/2025 1:25:42 PM JLL341
+HB1857
+1 copy of a bill of sale signed by all parties to the transaction that reflects
+2 the total consideration paid to the motorboat dealer for the motorboat.
+3 (iii) If the taxpayer claiming the deduction
+4 provided in this section fails to provide a bill of sale signed by all
+5 parties to the transaction that reflects the total consideration paid to the
+6 motorboat dealer for the motorboat, tax shall be due on the total
+7 consideration paid for the new or used motorboat without any deduction for
+8 the value of the item sold.
+9 (2)(A)(i) When a motorboat dealer removes a motorboat from its
+10 inventory and the motorboat is used by the dealership as a service motorboat,
+11 the dealer shall obtain a certificate of number, register and obtain a
+12 certificate of title, and pay sales tax on the listed retail price of the new
+13 motorboat.
+14 (ii)(a) When the motorboat dealer returns the
+15 service motorboat to inventory as a used motorboat and replaces it with a new
+16 motorboat for dealership use as a service motorboat, the dealer shall pay
+17 sales tax on the difference between the listed retail price of the new
+18 service motorboat to be used by the dealership and the value of the used
+19 service motorboat being returned to inventory.
+20 (b) The value of the used service motorboat
+21 shall be the highest listed wholesale price reflected in the most current
+22 edition of a publication that is generally accepted by the motorboat industry
+23 as providing an accurate valuation of used motorboats.
+24 (B)(i) As used in this subsection, “service motorboat”
+25 means a motorboat driven exclusively by an employee of the dealership and
+26 used either to transport dealership customers or dealership parts and
+27 equipment.
+28 (ii) “Service motorboat” does not include a
+29 motorboat that is rented by the dealership, used as a demonstration
+30 motorboat, or used by a dealership employee for personal use.
+31 (d) All parts and accessories purchased by motorboat dealers for
+32 resale or used by motorboat dealers for the reconditioning or rebuilding of
+33 used motorboats intended for resale are exempt from gross receipts tax,
+34 provided that the motorboat dealer meets the requirements of § 26-52-
+35 401(12)(A) and applicable rules promulgated by the secretary.
+36 (e) This section does not repeal any exemption from this chapter.
+3 03/19/2025 1:25:42 PM JLL341
+HB1857
+1 (f) A credit is not allowed for sales or use taxes paid to another
+2 state with respect to the purchase of a motorboat that first obtained a
+3 certificate of number or title by the purchaser in Arkansas.
+4 (g)(1)(A) Except as provided in subdivision (g)(1)(B) of this section,
+5 a motorboat dealer with a permit under § 27-101-302(5) who has purchased a
+6 used motorboat may pay the applicable fees and apply for a certificate of
+7 number for the used motorboat for the sole purpose of obtaining a certificate
+8 of title to the used motorboat without payment of gross receipts tax.
+9 (B)(i) The sale of a motorboat from the original franchise
+10 dealer to any other dealer, person, corporation, or other entity other than a
+11 franchise dealer of the same make of motorboat and which sale is reflected on
+12 the statement of origin shall be subject to gross receipts tax.
+13 (ii) The motorboat shall be considered a used
+14 motorboat that shall have a registered certificate of number and be titled,
+15 and tax shall be paid at the time of application for a certificate of number.
+16 (2) If a certificate of number is issued for a motorboat under §
+17 27-101-302(5)(C), the used motorboat titled by a dealer under this subsection
+18 shall not be operated on the waters of this state unless there is displayed
+19 on the used motorboat the identifying certificate of number issued under §
+20 27-101-302(5)(C).
+21 (h)(1) For purposes of this section, the total consideration for a
+22 used motorboat shall be presumed to be the greater of the actual sales price
+23 as provided on the bill of sale, invoice, or financing agreement or the
+24 average loan value price of the motorboat as listed in the most current
+25 edition of a publication that is generally accepted by the industry as
+26 providing an accurate valuation of used motorboats.
+27 (2) If the published loan value exceeds the invoiced price, the
+28 taxpayer shall establish to the secretary's satisfaction that the price
+29 reflected on the invoice or other document is true and correct.
+30 (3) If the secretary determines that the invoiced price is not
+31 the actual selling price of the motorboat, the total consideration shall be
+32 the published loan value.
+33
+34 SECTION 2. Arkansas Code Title 26, Chapter 53, Subchapter 1, is
+35 amended to add an additional section to read as follows:
+36 26-53-151. Tax on new and used motorboats — Payment and collection —
+4 03/19/2025 1:25:42 PM JLL341
+HB1857
+1 Definition.
+2 (a) As used in this section, "motorboat" means the same as defined in
+3 § 27-101-103.
+4 (b)(1) Upon applying for a certificate of number in this state, a new
+5 or used motorboat sold by a motorboat dealer located outside of the state and
+6 required to be registered with a certificate of number in this state is
+7 subject to the tax levied in this subchapter and all other use taxes levied
+8 by the state.
+9 (2)(A)(i) On or before the time for applying for a certificate
+10 of number as prescribed by § 27-101-304, the applicant for a certificate of
+11 number for the motorboat shall pay the taxes to the Secretary of the
+12 Department of Finance and Administration.
+13 (ii) The tax levied by this chapter or other use
+14 taxes levied by the state shall not be collected by the motorboat dealer.
+15 (B) The secretary shall collect the taxes before issuing a
+16 certificate of number for the motorboat.
+17 (3) If the applicant for a certificate of number for a motorboat
+18 fails to pay the taxes when due:
+19 (A) There is assessed a penalty equal to ten percent (10%)
+20 of the amount of taxes due; and
+21 (B) The person making application for a certificate of
+22 number for a motorboat shall pay to the secretary the penalty under
+23 subdivision (b)(3)(A) of this section and the taxes due before the secretary
+24 issues a certificate of number for the motorboat.
+25 (c)(1) When a used motorboat is taken in trade as a credit or part
+26 payment on the sale of a new or used motorboat by a motorboat dealer located
+27 outside of the state, the tax levied in this subchapter and all other use
+28 taxes levied by the state shall be paid on the net difference between the
+29 total consideration for the new or used motorboat sold and the credit for the
+30 used motorboat taken in trade.
+31 (2)(A) When a used motorboat is sold by a consumer, rather than
+32 traded in as a credit or part payment on the sale of a new or used motorboat,
+33 and the consumer subsequently purchases a new or used motorboat of greater
+34 value from a motorboat dealer located outside of the state within sixty (60)
+35 days of the sale, the tax levied by this chapter and all other gross receipts
+36 taxes levied by the state shall be paid on the net difference between the
+5 03/19/2025 1:25:42 PM JLL341
+HB1857
+1 total consideration for the new or used motorboat purchased subsequently and
+2 the amount received from the sale of the used motorboat sold in lieu of a
+3 trade-in.
+4 (B)(i) Upon applying for a certificate of number for the
+5 new or used motorboat, a consumer claiming the deduction provided by
+6 subdivision (c)(2)(A) of this section shall provide a bill of sale signed by
+7 all parties to the transaction that reflects the total consideration paid to
+8 the motorboat dealer for the motorboat.
+9 (ii) A copy of the bill of sale shall be deposited
+10 with the Department of Finance and Administration at the time of registration
+11 of the new or used motorboat.
+12 (iii) The deduction provided by this subdivision
+13 (c)(2) shall not be allowed unless the taxpayer claiming the deduction
+14 provides a copy of a bill of sale signed by all parties to the transaction
+15 that reflects the total consideration paid to the motorboat dealer for the
+16 motorboat.
+17 (C) If the taxpayer claiming the deduction provided in
+18 this subdivision (c)(2) fails to provide a bill of sale signed by all parties
+19 to the transaction that reflects the total consideration paid to the
+20 motorboat dealer for the motorboat, tax shall be due on the total
+21 consideration paid for the new or used motorboat without any deduction for
+22 the value of the item sold.
+23 (d) The tax imposed by this subchapter does not apply to a motorboat
+24 to be registered by a bona fide nonresident of this state.
+25 (e) This section does not repeal any exemption from this subchapter.
+26 (f)(1) Upon payment of all applicable fees, a motorboat dealer with a
+27 permit under § 27-101-302(5) who has purchased a used motorboat from outside
+28 of the state may apply for a certificate of number for the motorboat for the
+29 sole purpose of obtaining a certificate of title to the vehicle without
+30 payment of use tax.
+31 (2) If a certificate of number is issued for a motorboat under §
+32 27-101-302(5)(C), the used motorboat titled by a dealer under this subsection
+33 shall not be operated on the waters of this state unless there is displayed
+34 on the used motorboat the identifying certificate of number issued under §
+35 27-101-302(5)(C).
+36 (g)(1) For purposes of this section, the total consideration for a
+6 03/19/2025 1:25:42 PM JLL341
+HB1857
+1 used motorboat shall be presumed to be the greater of the actual sales price
+2 as provided on a bill of sale, invoice, or financing agreement or the average
+3 loan value of the motorboat as listed in the most current edition of a
+4 publication which is generally accepted by the motorboat industry as
+5 providing an accurate valuation of used motorboats.
+6 (2) If the published loan value exceeds the invoiced price, the
+7 taxpayer shall establish to the secretary's satisfaction that the price
+8 reflected on the invoice or other document is true and correct.
+9 (3) If the secretary determines that the invoiced price is not
+10 the actual selling price of the motorboat, the total consideration shall be
+11 the published loan value.
+12
+13 SECTION 3. EFFECTIVE DATE. Sections 1 and 2 of this act are effective
+14 on the first day of the calendar quarter following the effective date of this
+15 act.
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+7 03/19/2025 1:25:42 PM JLL341
+[DELETED:       A S M A D  T C S P A M  B   S a  2 m  ( §  ( n o c t]
+[DELETED: H2 0 n    ( t   ( t u   (    ( o    ( u s  ( t m g b c    ( t m g t s t t     ( f s b t      ( d a      ( s]
+[DELETED: H3 0 c t     ( p p m c t   ( i t c m     ( s m s s s      ( s e a    ( m u e     ( m m  ( r u p 4  (]
+[DELETED: H4 0  ( s c  ( a u n o    ( d f t     ( m a   ( 2 s o 2  ( u a a e p   ( t r   ( t t   S a  2]
+[DELETED: H5 0 D  ( §  ( o r s b   ( o n D     ( t    ( c   ( f    ( o    ( n s i  ( p o t t u   ( t a v d t]
+[DELETED: H6 0 t t t    ( n s a t     ( w o     ( ( p t m    ( t t m c t  ( t  (  ( p o s p   ( 2 s o 2  (]
+[DELETED: H7 0 u a l p p   ( t r   ( t t   S o a                     ]
+
+
+================================================================================
+
+Raw Text:
+Stricken language would be deleted from and underlined language would be added to present law.
+1 State of Arkansas
+A Bill
+2 95th General Assembly
+3 Regular Session, 2025 HOUSE BILL 1857
+4
+5 By: Representatives L. Johnson, Henley
+6 By: Senator J. Boyd
+7
+For An Act To Be Entitled
+8
+9 AN ACT TO AMEND THE LAW CONCERNING THE COLLECTION OF
+10 SALES AND USE TAX ON THE SALE OF A NEW OR USED
+11 MOTORBOAT; TO PROVIDE FOR THE DIRECT PAYMENT OF SALES
+12 AND USE TAX ON A MOTORBOAT SOLD BY A MOTORBOAT
+13 DEALER; AND FOR OTHER PURPOSES.
+14
+15
+Subtitle
+16
+17 TO AMEND THE LAW CONCERNING THE
+18 COLLECTION OF SALES AND USE TAX ON THE
+19 SALE OF A NEW OR USED MOTORBOAT; AND TO
+20 PROVIDE FOR THE DIRECT PAYMENT OF SALES
+21 AND USE TAX ON A MOTORBOAT SOLD BY A
+22 MOTORBOAT DEALER.
+23
+24 BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF ARKANSAS:
+25
+26 SECTION 1. Arkansas Code Title 26, Chapter 52, Subchapter 5, is
+27 amended to add an additional section to read as follows:
+28 26-52-524. Direct payment of tax by consumer-user — New and used
+29 motorboats sold by motorboat dealer — Definitions.
+30 (a) As used in this section, "motorboat" means the same as defined in
+31 § 27-101-103.
+32 (b)(1)(A) On or before the time for applying for a certificate of
+33 number as prescribed by § 27-101-304, a consumer shall pay to the Secretary
+34 of the Department of Finance and Administration the tax levied by this
+35 chapter and all other gross receipts taxes levied by the state with respect
+36 to the sale by a motorboat dealer of a new or used motorboat required to be
+*JLL341*
+03/19/2025 1:25:42 PM JLL341
+
+HB1857
+1 numbered in this state.
+2 (B) The tax levied by this chapter or other gross receipts
+3 taxes levied by the state shall not be collected by the motorboat dealer.
+4 (2) The secretary shall require the payment of the taxes at the
+5 time of registration before issuing a certificate of number for the new or
+6 used motorboat.
+7 (3) If the consumer fails to pay the taxes when due:
+8 (A) There is assessed a penalty equal to ten percent (10%)
+9 of the amount of taxes due; and
+10 (B) The consumer shall pay to the secretary the penalty
+11 under subdivision (b)(3)(A) of this section and the taxes due before the
+12 secretary issues a certificate of number for the motorboat.
+13 (c)(1)(A) Except as provided in this section, when a used motorboat is
+14 taken in trade as a credit or part payment on the sale of a new or used
+15 motorboat by a motorboat dealer, the tax levied by this chapter and all other
+16 gross receipts taxes levied by the state shall be paid on the net difference
+17 between the total consideration for the new or used motorboat sold and the
+18 credit for the used motorboat taken in trade.
+19 (B)(i) When a used motorboat is sold by a consumer, rather
+20 than traded in as a credit or part payment on the sale of a new or used
+21 motorboat, and the consumer subsequently purchases a new or used motorboat of
+22 greater value from a motorboat dealer within sixty (60) days of the sale, the
+23 tax levied by this chapter and all other gross receipts taxes levied by the
+24 state shall be paid on the net difference between the total consideration for
+25 the new or used motorboat purchased subsequently and the amount received from
+26 the sale of the used motorboat sold in lieu of a trade-in.
+27 (ii)(a) Upon applying for a certificate of number
+28 for the new or used motorboat, a consumer claiming the deduction provided by
+29 subdivision (c)(1)(B)(i) of this section shall provide a bill of sale signed
+30 by all parties to the transaction that reflects the total consideration paid
+31 to the motorboat dealer for the motorboat.
+32 (b) A copy of the bill of sale shall be
+33 deposited with the Department of Finance and Administration at the time of
+34 application for a certificate of number for the new or used motorboat.
+35 (c) The deduction provided by this section
+36 shall not be allowed unless the taxpayer claiming the deduction provides a
+2 03/19/2025 1:25:42 PM JLL341
+
+HB1857
+1 copy of a bill of sale signed by all parties to the transaction that reflects
+2 the total consideration paid to the motorboat dealer for the motorboat.
+3 (iii) If the taxpayer claiming the deduction
+4 provided in this section fails to provide a bill of sale signed by all
+5 parties to the transaction that reflects the total consideration paid to the
+6 motorboat dealer for the motorboat, tax shall be due on the total
+7 consideration paid for the new or used motorboat without any deduction for
+8 the value of the item sold.
+9 (2)(A)(i) When a motorboat dealer removes a motorboat from its
+10 inventory and the motorboat is used by the dealership as a service motorboat,
+11 the dealer shall obtain a certificate of number, register and obtain a
+12 certificate of title, and pay sales tax on the listed retail price of the new
+13 motorboat.
+14 (ii)(a) When the motorboat dealer returns the
+15 service motorboat to inventory as a used motorboat and replaces it with a new
+16 motorboat for dealership use as a service motorboat, the dealer shall pay
+17 sales tax on the difference between the listed retail price of the new
+18 service motorboat to be used by the dealership and the value of the used
+19 service motorboat being returned to inventory.
+20 (b) The value of the used service motorboat
+21 shall be the highest listed wholesale price reflected in the most current
+22 edition of a publication that is generally accepted by the motorboat industry
+23 as providing an accurate valuation of used motorboats.
+24 (B)(i) As used in this subsection, “service motorboat”
+25 means a motorboat driven exclusively by an employee of the dealership and
+26 used either to transport dealership customers or dealership parts and
+27 equipment.
+28 (ii) “Service motorboat” does not include a
+29 motorboat that is rented by the dealership, used as a demonstration
+30 motorboat, or used by a dealership employee for personal use.
+31 (d) All parts and accessories purchased by motorboat dealers for
+32 resale or used by motorboat dealers for the reconditioning or rebuilding of
+33 used motorboats intended for resale are exempt from gross receipts tax,
+34 provided that the motorboat dealer meets the requirements of § 26-52-
+35 401(12)(A) and applicable rules promulgated by the secretary.
+36 (e) This section does not repeal any exemption from this chapter.
+3 03/19/2025 1:25:42 PM JLL341
+
+HB1857
+1 (f) A credit is not allowed for sales or use taxes paid to another
+2 state with respect to the purchase of a motorboat that first obtained a
+3 certificate of number or title by the purchaser in Arkansas.
+4 (g)(1)(A) Except as provided in subdivision (g)(1)(B) of this section,
+5 a motorboat dealer with a permit under § 27-101-302(5) who has purchased a
+6 used motorboat may pay the applicable fees and apply for a certificate of
+7 number for the used motorboat for the sole purpose of obtaining a certificate
+8 of title to the used motorboat without payment of gross receipts tax.
+9 (B)(i) The sale of a motorboat from the original franchise
+10 dealer to any other dealer, person, corporation, or other entity other than a
+11 franchise dealer of the same make of motorboat and which sale is reflected on
+12 the statement of origin shall be subject to gross receipts tax.
+13 (ii) The motorboat shall be considered a used
+14 motorboat that shall have a registered certificate of number and be titled,
+15 and tax shall be paid at the time of application for a certificate of number.
+16 (2) If a certificate of number is issued for a motorboat under §
+17 27-101-302(5)(C), the used motorboat titled by a dealer under this subsection
+18 shall not be operated on the waters of this state unless there is displayed
+19 on the used motorboat the identifying certificate of number issued under §
+20 27-101-302(5)(C).
+21 (h)(1) For purposes of this section, the total consideration for a
+22 used motorboat shall be presumed to be the greater of the actual sales price
+23 as provided on the bill of sale, invoice, or financing agreement or the
+24 average loan value price of the motorboat as listed in the most current
+25 edition of a publication that is generally accepted by the industry as
+26 providing an accurate valuation of used motorboats.
+27 (2) If the published loan value exceeds the invoiced price, the
+28 taxpayer shall establish to the secretary's satisfaction that the price
+29 reflected on the invoice or other document is true and correct.
+30 (3) If the secretary determines that the invoiced price is not
+31 the actual selling price of the motorboat, the total consideration shall be
+32 the published loan value.
+33
+34 SECTION 2. Arkansas Code Title 26, Chapter 53, Subchapter 1, is
+35 amended to add an additional section to read as follows:
+36 26-53-151. Tax on new and used motorboats — Payment and collection —
+4 03/19/2025 1:25:42 PM JLL341
+
+HB1857
+1 Definition.
+2 (a) As used in this section, "motorboat" means the same as defined in
+3 § 27-101-103.
+4 (b)(1) Upon applying for a certificate of number in this state, a new
+5 or used motorboat sold by a motorboat dealer located outside of the state and
+6 required to be registered with a certificate of number in this state is
+7 subject to the tax levied in this subchapter and all other use taxes levied
+8 by the state.
+9 (2)(A)(i) On or before the time for applying for a certificate
+10 of number as prescribed by § 27-101-304, the applicant for a certificate of
+11 number for the motorboat shall pay the taxes to the Secretary of the
+12 Department of Finance and Administration.
+13 (ii) The tax levied by this chapter or other use
+14 taxes levied by the state shall not be collected by the motorboat dealer.
+15 (B) The secretary shall collect the taxes before issuing a
+16 certificate of number for the motorboat.
+17 (3) If the applicant for a certificate of number for a motorboat
+18 fails to pay the taxes when due:
+19 (A) There is assessed a penalty equal to ten percent (10%)
+20 of the amount of taxes due; and
+21 (B) The person making application for a certificate of
+22 number for a motorboat shall pay to the secretary the penalty under
+23 subdivision (b)(3)(A) of this section and the taxes due before the secretary
+24 issues a certificate of number for the motorboat.
+25 (c)(1) When a used motorboat is taken in trade as a credit or part
+26 payment on the sale of a new or used motorboat by a motorboat dealer located
+27 outside of the state, the tax levied in this subchapter and all other use
+28 taxes levied by the state shall be paid on the net difference between the
+29 total consideration for the new or used motorboat sold and the credit for the
+30 used motorboat taken in trade.
+31 (2)(A) When a used motorboat is sold by a consumer, rather than
+32 traded in as a credit or part payment on the sale of a new or used motorboat,
+33 and the consumer subsequently purchases a new or used motorboat of greater
+34 value from a motorboat dealer located outside of the state within sixty (60)
+35 days of the sale, the tax levied by this chapter and all other gross receipts
+36 taxes levied by the state shall be paid on the net difference between the
+5 03/19/2025 1:25:42 PM JLL341
+
+HB1857
+1 total consideration for the new or used motorboat purchased subsequently and
+2 the amount received from the sale of the used motorboat sold in lieu of a
+3 trade-in.
+4 (B)(i) Upon applying for a certificate of number for the
+5 new or used motorboat, a consumer claiming the deduction provided by
+6 subdivision (c)(2)(A) of this section shall provide a bill of sale signed by
+7 all parties to the transaction that reflects the total consideration paid to
+8 the motorboat dealer for the motorboat.
+9 (ii) A copy of the bill of sale shall be deposited
+10 with the Department of Finance and Administration at the time of registration
+11 of the new or used motorboat.
+12 (iii) The deduction provided by this subdivision
+13 (c)(2) shall not be allowed unless the taxpayer claiming the deduction
+14 provides a copy of a bill of sale signed by all parties to the transaction
+15 that reflects the total consideration paid to the motorboat dealer for the
+16 motorboat.
+17 (C) If the taxpayer claiming the deduction provided in
+18 this subdivision (c)(2) fails to provide a bill of sale signed by all parties
+19 to the transaction that reflects the total consideration paid to the
+20 motorboat dealer for the motorboat, tax shall be due on the total
+21 consideration paid for the new or used motorboat without any deduction for
+22 the value of the item sold.
+23 (d) The tax imposed by this subchapter does not apply to a motorboat
+24 to be registered by a bona fide nonresident of this state.
+25 (e) This section does not repeal any exemption from this subchapter.
+26 (f)(1) Upon payment of all applicable fees, a motorboat dealer with a
+27 permit under § 27-101-302(5) who has purchased a used motorboat from outside
+28 of the state may apply for a certificate of number for the motorboat for the
+29 sole purpose of obtaining a certificate of title to the vehicle without
+30 payment of use tax.
+31 (2) If a certificate of number is issued for a motorboat under §
+32 27-101-302(5)(C), the used motorboat titled by a dealer under this subsection
+33 shall not be operated on the waters of this state unless there is displayed
+34 on the used motorboat the identifying certificate of number issued under §
+35 27-101-302(5)(C).
+36 (g)(1) For purposes of this section, the total consideration for a
+6 03/19/2025 1:25:42 PM JLL341
+
+HB1857
+1 used motorboat shall be presumed to be the greater of the actual sales price
+2 as provided on a bill of sale, invoice, or financing agreement or the average
+3 loan value of the motorboat as listed in the most current edition of a
+4 publication which is generally accepted by the motorboat industry as
+5 providing an accurate valuation of used motorboats.
+6 (2) If the published loan value exceeds the invoiced price, the
+7 taxpayer shall establish to the secretary's satisfaction that the price
+8 reflected on the invoice or other document is true and correct.
+9 (3) If the secretary determines that the invoiced price is not
+10 the actual selling price of the motorboat, the total consideration shall be
+11 the published loan value.
+12
+13 SECTION 3. EFFECTIVE DATE. Sections 1 and 2 of this act are effective
+14 on the first day of the calendar quarter following the effective date of this
+15 act.
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+7 03/19/2025 1:25:42 PM JLL341
+
+[DELETED:       A S M A D  T C S P A M  B   S a  2 m  ( §  ( n o c t]
+[DELETED: H2 0 n    ( t   ( t u   (    ( o    ( u s  ( t m g b c    ( t m g t s t t     ( f s b t      ( d a      ( s]
+[DELETED: H3 0 c t     ( p p m c t   ( i t c m     ( s m s s s      ( s e a    ( m u e     ( m m  ( r u p 4  (]
+[DELETED: H4 0  ( s c  ( a u n o    ( d f t     ( m a   ( 2 s o 2  ( u a a e p   ( t r   ( t t   S a  2]
+[DELETED: H5 0 D  ( §  ( o r s b   ( o n D     ( t    ( c   ( f    ( o    ( n s i  ( p o t t u   ( t a v d t]
+[DELETED: H6 0 t t t    ( n s a t     ( w o     ( ( p t m    ( t t m c t  ( t  (  ( p o s p   ( 2 s o 2  (]
+[DELETED: H7 0 u a l p p   ( t r   ( t t   S o a                     ]

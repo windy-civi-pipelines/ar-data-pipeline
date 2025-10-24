@@ -1,0 +1,417 @@
+Title: Stricken language would be deleted from and underlined language would be added to present law.
+Official Title: Stricken language would be deleted from and underlined language would be added to present law.
+Number of Sections: 1
+Source: versions - HB 1252
+Media Type: application/pdf
+Strikethrough Detection: 5 sections found
+
+================================================================================
+
+Section 1:
+1 State of Arkansas As Engrossed: H2/13/25 S4/3/25
+A Bill
+2 95th General Assembly
+3 Regular Session, 2025 HOUSE BILL 1252
+4
+5 By: Representative L. Johnson
+6 By: Senator Irvin
+7
+For An Act To Be Entitled
+8
+9 AN ACT TO ESTABLISH THE CERTIFIED COMMUNITY-BASED
+10 DOULA CERTIFICATION ACT; TO CERTIFY BIRTH AND
+11 POSTPARTUM DOULAS IN THIS STATE TO IMPROVE MATERNAL
+12 AND INFANT OUTCOMES; AND FOR OTHER PURPOSES.
+13
+14
+Subtitle
+15
+16 TO ESTABLISH THE CERTIFIED COMMUNITY-
+17 BASED DOULA CERTIFICATION ACT; AND TO
+18 CERTIFY BIRTH AND POSTPARTUM DOULAS IN
+19 THIS STATE TO IMPROVE MATERNAL AND
+20 INFANT OUTCOMES.
+21
+22 BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF ARKANSAS:
+23
+24 SECTION 1. Arkansas Code Title 17, is amended to add an additional
+25 chapter to read as follows:
+26 CHAPTER 108
+27
+28 CERTIFIED COMMUNITY-BASED DOULA CERTIFICATION ACT
+29
+30 Subchapter 1 - General Provisions
+31
+32 17-108-101. Title.
+33 This chapter shall be known and may be cited as the “Certified
+34 Community-Based Doula Certification Act”.
+35
+36 17-108-102. Definitions.
+*JMB036*
+04-03-2025 17:22:37 JMB036
+As Engrossed: H2/13/25 S4/3/25 HB1252
+1 As used in this chapter:
+2 (1) "Certified community-based doula" means an individual who is
+3 a trained professional and provides nonclinical emotional, physical, and
+4 informational support to women, before and during pregnancy and continuing
+5 through the postpartum period; and
+6 (2) “Health benefit plan” means an individual, blanket, or group
+7 plan, policy, or contract for healthcare services issued or delivered in this
+8 state by a healthcare insurer, health maintenance organization, hospital
+9 medical service corporation, or self-insured governmental or church plan in
+10 this state.
+11 Subchapter 2 - Certification
+12
+13 17-108-201. Certified community-based doula — Certification.
+14 (a) The Department of Health shall issue a certification to be a
+15 certified community-based doula to an individual who:
+16 (1) Is eighteen (18) years of age or older;
+17 (2) Submits evidence of:
+18 (A) Maintaining a certification from a doula certification
+19 organization designated by the department under § 17-108-203; or
+20 (B) Holding a certificate as a doula by the Doula Alliance
+21 of Arkansas; and
+22 (3) Submits an application with an application fee of fifty
+23 dollars ($50.00).
+24 (b)(1) A certification under this section is valid for two (2) years
+25 after the date of issuance.
+26 (2) To renew a certification, a doula shall:
+27 (A)(i) Complete ten (10) hours of professional development
+28 requirements and training over two (2) years.
+29 (ii) The department, in conjunction with the Doula
+30 Alliance of Arkansas, may adopt rules relating to the tracking by the
+31 department of professional development and training; and
+32 (B) Submit a renewal application with a renewal
+33 application fee as determined by the department.
+34 (c) The department shall create and maintain a registry of certified
+35 community-based doulas to be made available to the public.
+36
+2 04-03-2025 17:22:37 JMB036
+As Engrossed: H2/13/25 S4/3/25 HB1252
+1 17-108-202. Suspension, revocation, nonissuance, or nonrenewal.
+2 (a) The Department of Health may suspend, revoke, or refuse to issue
+3 or renew the certification of a certified community-based doula for:
+4 (1) Securing a certification under this chapter through fraud or
+5 deceit;
+6 (2) Unethical conduct, gross ignorance, or inefficiency in the
+7 conduct of his or her practice;
+8 (3) Using a false name or an alias in his or her practice;
+9 (4) Violating any provision of this chapter; or
+10 (5) Failing to comply with any of the requirements for issuance
+11 of the certification.
+12 (b) Proceedings under this section shall comply with the Arkansas
+13 Administrative Procedure Act, § 25-15-201 et seq.
+14
+15 17-108-203. Designated doula certification organizations.
+16 (a) The Department of Health, in conjunction with the Doula Alliance
+17 of Arkansas, shall establish criteria for an organization to be designated as
+18 a doula certification organization.
+19 (b)(1) The department, in conjunction with the Doula Alliance of
+20 Arkansas, shall periodically review the doula certification organizations
+21 designated by the department.
+22 (2) The department, in conjunction with the Doula Alliance of
+23 Arkansas, may:
+24 (A) Designate additional organizations as doula
+25 certification organizations for the purpose of certifying doulas for
+26 inclusion on the registry of certified community-based doulas; and
+27 (B)(i) Remove the designation of a doula certification
+28 organization previously designated.
+29 (ii) If the department removes a designation, the
+30 department shall provide notice of the removal by publication on the
+31 department's website and specify the date after which a certification by the
+32 doula certification organization no longer authorizes a doula certified by
+33 the doula certification organization to be included on the certified
+34 community-based doula registry.
+35 (c)(1) A doula certification organization seeking designation under
+36 this section shall provide the department with evidence that the doula
+3 04-03-2025 17:22:37 JMB036
+As Engrossed: H2/13/25 S4/3/25 HB1252
+1 certification organization satisfies designation criteria established by the
+2 department.
+3 (2) If the department designates a doula certification
+4 organization under this section, the department shall provide notice of the
+5 designation by publication on the department's website for the certified
+6 community-based doula registry and specify the date after which a
+7 certification by the doula certification organization authorizes a doula
+8 certified by the organization to be included on the certified community-based
+9 doula registry.
+10 (d) This section does not prohibit an individual from submitting his
+11 or her doula certification to the department without involvement of a doula
+12 certification organization.
+13
+14 Subchapter 3 - Miscellaneous Provisions
+15
+16 17-108-301. Scope of practice.
+17 A certified community-based doula under this chapter shall perform only
+18 the following types of services:
+19 (1) Providing childbirth education;
+20 (2) Helping pregnant women navigate the healthcare system;
+21 (3) Advocating for pregnant women before, during, and after the
+22 birth of a child;
+23 (4) Connecting pregnant women with community resources; and
+24 (5) Supporting pregnant women with continuous emotional and
+25 physical support throughout labor and birth and intermittently during the
+26 prenatal and postpartum periods.
+27
+28 17-108-302. Patient and personal data and information.
+29 (a) Patient and personal data and information accessed or attained by
+30 a certified community-based doula under this chapter is exempt from
+31 disclosure under the Freedom of Information Act of 1967, § 25-19-101 et seq.,
+32 and is confidential and privileged as otherwise required by federal law.
+33 (b) If a certified community-based doula under this chapter does not
+34 maintain the confidential and privileged nature of the patient data or
+35 information, the doula shall be subject to any penalty under state and
+36 federal law for a breach of confidential patient data or information.
+4 04-03-2025 17:22:37 JMB036
+As Engrossed: H2/13/25 S4/3/25 HB1252
+1
+2 17-108-303. Certified community-based doula compensation.
+3 (a) A certified community-based doula under this chapter shall receive
+4 compensation for services provided from:
+5 (1) The Arkansas Medicaid Program; and
+6 (2) A health benefit plan.
+7 (b) Services described in subsection (a) of this section shall include
+8 support during a hospital delivery and during the prenatal and postpartum
+9 periods as defined through rules established by the Department of Human
+10 Services.
+11 17-108-304. Rules.
+12 (a) The Department of Health may promulgate rules relating to the
+13 certification and regulation of certified community-based doulas under this
+14 subchapter and relating to the designation of an organization as a doula
+15 certification organization.
+16 (b) On or before December 31, 2025, the Department of Human Services
+17 shall promulgate rules relating to the reimbursement of doulas under the
+18 Arkansas Medicaid Program.
+19
+20 /s/L. Johnson
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+5 04-03-2025 17:22:37 JMB036
+[DELETED:  A       A D P A   T B C T I  B   S c C  C  S   1  T C   1]
+[DELETED:  H2 0  A   ( a i t   ( p s m t S   1  ( c   (   (    ( o    ( o   ( d  ( a   (    ( r     ( A d    ( a  ( c ]
+[DELETED:  H3 0  1  ( o   ( d   ( c   (   (   ( o  ( A   1  ( o a  ( A d   ( A    ( c i    ( o     ( d d d t c  ( t]
+[DELETED:  H4 0 c d   ( o d c c c d  ( o c  S   1  A t   (   (   ( b   (   ( p p   1  ( a d a  ( m i f]
+[DELETED:  H5 0   1  ( c   (   ( ( s p S  1  ( c s c  ( s A  /                ]
+
+
+================================================================================
+
+Raw Text:
+Stricken language would be deleted from and underlined language would be added to present law.
+1 State of Arkansas As Engrossed: H2/13/25 S4/3/25
+A Bill
+2 95th General Assembly
+3 Regular Session, 2025 HOUSE BILL 1252
+4
+5 By: Representative L. Johnson
+6 By: Senator Irvin
+7
+For An Act To Be Entitled
+8
+9 AN ACT TO ESTABLISH THE CERTIFIED COMMUNITY-BASED
+10 DOULA CERTIFICATION ACT; TO CERTIFY BIRTH AND
+11 POSTPARTUM DOULAS IN THIS STATE TO IMPROVE MATERNAL
+12 AND INFANT OUTCOMES; AND FOR OTHER PURPOSES.
+13
+14
+Subtitle
+15
+16 TO ESTABLISH THE CERTIFIED COMMUNITY-
+17 BASED DOULA CERTIFICATION ACT; AND TO
+18 CERTIFY BIRTH AND POSTPARTUM DOULAS IN
+19 THIS STATE TO IMPROVE MATERNAL AND
+20 INFANT OUTCOMES.
+21
+22 BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF ARKANSAS:
+23
+24 SECTION 1. Arkansas Code Title 17, is amended to add an additional
+25 chapter to read as follows:
+26 CHAPTER 108
+27
+28 CERTIFIED COMMUNITY-BASED DOULA CERTIFICATION ACT
+29
+30 Subchapter 1 - General Provisions
+31
+32 17-108-101. Title.
+33 This chapter shall be known and may be cited as the “Certified
+34 Community-Based Doula Certification Act”.
+35
+36 17-108-102. Definitions.
+*JMB036*
+04-03-2025 17:22:37 JMB036
+
+As Engrossed: H2/13/25 S4/3/25 HB1252
+1 As used in this chapter:
+2 (1) "Certified community-based doula" means an individual who is
+3 a trained professional and provides nonclinical emotional, physical, and
+4 informational support to women, before and during pregnancy and continuing
+5 through the postpartum period; and
+6 (2) “Health benefit plan” means an individual, blanket, or group
+7 plan, policy, or contract for healthcare services issued or delivered in this
+8 state by a healthcare insurer, health maintenance organization, hospital
+9 medical service corporation, or self-insured governmental or church plan in
+10 this state.
+11 Subchapter 2 - Certification
+12
+13 17-108-201. Certified community-based doula — Certification.
+14 (a) The Department of Health shall issue a certification to be a
+15 certified community-based doula to an individual who:
+16 (1) Is eighteen (18) years of age or older;
+17 (2) Submits evidence of:
+18 (A) Maintaining a certification from a doula certification
+19 organization designated by the department under § 17-108-203; or
+20 (B) Holding a certificate as a doula by the Doula Alliance
+21 of Arkansas; and
+22 (3) Submits an application with an application fee of fifty
+23 dollars ($50.00).
+24 (b)(1) A certification under this section is valid for two (2) years
+25 after the date of issuance.
+26 (2) To renew a certification, a doula shall:
+27 (A)(i) Complete ten (10) hours of professional development
+28 requirements and training over two (2) years.
+29 (ii) The department, in conjunction with the Doula
+30 Alliance of Arkansas, may adopt rules relating to the tracking by the
+31 department of professional development and training; and
+32 (B) Submit a renewal application with a renewal
+33 application fee as determined by the department.
+34 (c) The department shall create and maintain a registry of certified
+35 community-based doulas to be made available to the public.
+36
+2 04-03-2025 17:22:37 JMB036
+
+As Engrossed: H2/13/25 S4/3/25 HB1252
+1 17-108-202. Suspension, revocation, nonissuance, or nonrenewal.
+2 (a) The Department of Health may suspend, revoke, or refuse to issue
+3 or renew the certification of a certified community-based doula for:
+4 (1) Securing a certification under this chapter through fraud or
+5 deceit;
+6 (2) Unethical conduct, gross ignorance, or inefficiency in the
+7 conduct of his or her practice;
+8 (3) Using a false name or an alias in his or her practice;
+9 (4) Violating any provision of this chapter; or
+10 (5) Failing to comply with any of the requirements for issuance
+11 of the certification.
+12 (b) Proceedings under this section shall comply with the Arkansas
+13 Administrative Procedure Act, § 25-15-201 et seq.
+14
+15 17-108-203. Designated doula certification organizations.
+16 (a) The Department of Health, in conjunction with the Doula Alliance
+17 of Arkansas, shall establish criteria for an organization to be designated as
+18 a doula certification organization.
+19 (b)(1) The department, in conjunction with the Doula Alliance of
+20 Arkansas, shall periodically review the doula certification organizations
+21 designated by the department.
+22 (2) The department, in conjunction with the Doula Alliance of
+23 Arkansas, may:
+24 (A) Designate additional organizations as doula
+25 certification organizations for the purpose of certifying doulas for
+26 inclusion on the registry of certified community-based doulas; and
+27 (B)(i) Remove the designation of a doula certification
+28 organization previously designated.
+29 (ii) If the department removes a designation, the
+30 department shall provide notice of the removal by publication on the
+31 department's website and specify the date after which a certification by the
+32 doula certification organization no longer authorizes a doula certified by
+33 the doula certification organization to be included on the certified
+34 community-based doula registry.
+35 (c)(1) A doula certification organization seeking designation under
+36 this section shall provide the department with evidence that the doula
+3 04-03-2025 17:22:37 JMB036
+
+As Engrossed: H2/13/25 S4/3/25 HB1252
+1 certification organization satisfies designation criteria established by the
+2 department.
+3 (2) If the department designates a doula certification
+4 organization under this section, the department shall provide notice of the
+5 designation by publication on the department's website for the certified
+6 community-based doula registry and specify the date after which a
+7 certification by the doula certification organization authorizes a doula
+8 certified by the organization to be included on the certified community-based
+9 doula registry.
+10 (d) This section does not prohibit an individual from submitting his
+11 or her doula certification to the department without involvement of a doula
+12 certification organization.
+13
+14 Subchapter 3 - Miscellaneous Provisions
+15
+16 17-108-301. Scope of practice.
+17 A certified community-based doula under this chapter shall perform only
+18 the following types of services:
+19 (1) Providing childbirth education;
+20 (2) Helping pregnant women navigate the healthcare system;
+21 (3) Advocating for pregnant women before, during, and after the
+22 birth of a child;
+23 (4) Connecting pregnant women with community resources; and
+24 (5) Supporting pregnant women with continuous emotional and
+25 physical support throughout labor and birth and intermittently during the
+26 prenatal and postpartum periods.
+27
+28 17-108-302. Patient and personal data and information.
+29 (a) Patient and personal data and information accessed or attained by
+30 a certified community-based doula under this chapter is exempt from
+31 disclosure under the Freedom of Information Act of 1967, § 25-19-101 et seq.,
+32 and is confidential and privileged as otherwise required by federal law.
+33 (b) If a certified community-based doula under this chapter does not
+34 maintain the confidential and privileged nature of the patient data or
+35 information, the doula shall be subject to any penalty under state and
+36 federal law for a breach of confidential patient data or information.
+4 04-03-2025 17:22:37 JMB036
+
+As Engrossed: H2/13/25 S4/3/25 HB1252
+1
+2 17-108-303. Certified community-based doula compensation.
+3 (a) A certified community-based doula under this chapter shall receive
+4 compensation for services provided from:
+5 (1) The Arkansas Medicaid Program; and
+6 (2) A health benefit plan.
+7 (b) Services described in subsection (a) of this section shall include
+8 support during a hospital delivery and during the prenatal and postpartum
+9 periods as defined through rules established by the Department of Human
+10 Services.
+11 17-108-304. Rules.
+12 (a) The Department of Health may promulgate rules relating to the
+13 certification and regulation of certified community-based doulas under this
+14 subchapter and relating to the designation of an organization as a doula
+15 certification organization.
+16 (b) On or before December 31, 2025, the Department of Human Services
+17 shall promulgate rules relating to the reimbursement of doulas under the
+18 Arkansas Medicaid Program.
+19
+20 /s/L. Johnson
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+5 04-03-2025 17:22:37 JMB036
+
+[DELETED:  A       A D P A   T B C T I  B   S c C  C  S   1  T C   1]
+[DELETED:  H2 0  A   ( a i t   ( p s m t S   1  ( c   (   (    ( o    ( o   ( d  ( a   (    ( r     ( A d    ( a  ( c ]
+[DELETED:  H3 0  1  ( o   ( d   ( c   (   (   ( o  ( A   1  ( o a  ( A d   ( A    ( c i    ( o     ( d d d t c  ( t]
+[DELETED:  H4 0 c d   ( o d c c c d  ( o c  S   1  A t   (   (   ( b   (   ( p p   1  ( a d a  ( m i f]
+[DELETED:  H5 0   1  ( c   (   ( ( s p S  1  ( c s c  ( s A  /                ]

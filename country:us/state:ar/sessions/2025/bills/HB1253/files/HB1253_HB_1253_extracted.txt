@@ -1,0 +1,1839 @@
+Title: Stricken language would be deleted from and underlined language would be added to present law.
+Official Title: Stricken language would be deleted from and underlined language would be added to present law.
+Number of Sections: 1
+Source: versions - HB 1253
+Media Type: application/pdf
+Strikethrough Detection: 23 sections found
+
+================================================================================
+
+Section 1:
+1 State of Arkansas As Engrossed: H2/26/25 H3/3/25
+A Bill
+2 95th General Assembly
+3 Regular Session, 2025 HOUSE BILL 1253
+4
+5 By: Representative L. Johnson
+6 By: Senator J. Boyd
+7
+For An Act To Be Entitled
+8
+9 AN ACT TO ADOPT THE EMERGENCY MEDICAL SERVICES
+10 PERSONNEL LICENSURE INTERSTATE COMPACT IN ARKANSAS;
+11 AND FOR OTHER PURPOSES.
+12
+13
+Subtitle
+14
+15 TO ADOPT THE EMERGENCY MEDICAL SERVICES
+16 PERSONNEL LICENSURE INTERSTATE COMPACT
+17 IN ARKANSAS.
+18
+19 BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF ARKANSAS:
+20
+21 SECTION 1. Arkansas Code Title 20, Chapter 13, is amended to add an
+22 additional subchapter to read as follows:
+23 Subchapter 19 — Emergency Medical Services Personnel Licensure Interstate
+24 Compact
+25
+26 20-13-1901. Text of compact.
+27 The Emergency Medical Services Personnel Licensure Interstate Compact
+28 is enacted into law and entered into by this state with all states legally
+29 joining therein and in the form substantially as follows:
+30
+31 RECOGNITION OF EMERGENCY MEDICAL SERVICES PERSONNEL LICENSURE INTERSTATE
+32 COMPACT (“REPLICA”)
+33
+34 EMS PERSONNEL LICENSURE INTERSTATE COMPACT
+35
+36 SECTION 1. PURPOSE
+*JMB028*
+03-03-2025 10:28:20 JMB028
+As Engrossed: H2/26/25 H3/3/25 HB1253
+1
+2 In order to protect the public through verification of competency and ensure
+3 accountability for patient care related activities all states license
+4 emergency medical services (EMS) personnel, such as emergency medical
+5 technicians (EMTs), advanced EMTs and paramedics. This Compact is intended to
+6 facilitate the day to day movement of EMS personnel across state boundaries
+7 in the performance of their EMS duties as assigned by an appropriate
+8 authority and authorize state EMS offices to afford immediate legal
+9 recognition to EMS personnel licensed in a member state. This Compact
+10 recognizes that states have a vested interest in protecting the public’s
+11 health and safety through their licensing and regulation of EMS personnel and
+12 that such state regulation shared among the member states will best protect
+13 public health and safety. This Compact is designed to achieve the following
+14 purposes and objectives:
+15 1. Increase public access to EMS personnel;
+16 2. Enhance the states’ ability to protect the public’s health and
+17 safety, especially patient safety;
+18 3. Encourage the cooperation of member states in the areas of EMS
+19 personnel licensure and regulation;
+20 4. Support licensing of military members who are separating from an
+21 active duty tour and their spouses;
+22 5. Facilitate the exchange of information between member states
+23 regarding EMS personnel licensure, adverse action and significant
+24 investigatory information;
+25 6. Promote compliance with the laws governing EMS personnel practice
+26 in each member state; and
+27 7. Invest all member states with the authority to hold EMS personnel
+28 accountable through the mutual recognition of member state licenses.
+29
+30 SECTION 2. DEFINITIONS
+31
+32 In this compact:
+33 A. “Advanced Emergency Medical Technician (AEMT)” means: an
+34 individual licensed with cognitive knowledge and a scope of practice that
+35 corresponds to that level in the National EMS Education Standards and
+36 National EMS Scope of Practice Model.
+2 03-03-2025 10:28:20 JMB028
+As Engrossed: H2/26/25 H3/3/25 HB1253
+1 B. “Adverse Action” means: any administrative, civil, equitable or
+2 criminal action permitted by a state’s laws which may be imposed against
+3 licensed EMS personnel by a state EMS authority or state court, including,
+4 but not limited to, actions against an individual’s license such as
+5 revocation, suspension, probation, consent agreement, monitoring or other
+6 limitation or encumbrance on the individual’s practice, letters of reprimand
+7 or admonition, fines, criminal convictions and state court judgments
+8 enforcing adverse actions by the state EMS authority.
+9 C. “Alternative program” means: a voluntary, non-disciplinary
+10 substance abuse recovery program approved by a state EMS authority.
+11 D. “Certification” means: the successful verification of entry-level
+12 cognitive and psychomotor competency using a reliable, validated, and legally
+13 defensible examination.
+14 E. “Commission” means: the national administrative body of which all
+15 states that have enacted the compact are members.
+16 F. “Emergency Medical Technician (EMT)” means: an individual licensed
+17 with cognitive knowledge and a scope of practice that corresponds to that
+18 level in the National EMS Education Standards and National EMS Scope of
+19 Practice Model.
+20 G. “Home State” means: a member state where an individual is licensed
+21 to practice emergency medical services.
+22 H. “License” means: the authorization by a state for an individual to
+23 practice as an EMT, AEMT, paramedic, or a level in between EMT and paramedic.
+24 I. “Medical Director” means: a physician licensed in a member state
+25 who is accountable for the care delivered by EMS personnel.
+26 J. “Member State” means: a state that has enacted this compact.
+27 K. “Privilege to Practice” means: an individual’s authority to
+28 deliver emergency medical services in remote states as authorized under this
+29 compact.
+30 L. “Paramedic” means: an individual licensed with cognitive knowledge
+31 and a scope of practice that corresponds to that level in the National EMS
+32 Education Standards and National EMS Scope of Practice Model.
+33 M. “Remote State” means: a member state in which an individual is not
+34 licensed.
+35 N. “Restricted” means: the outcome of an adverse action that limits a
+36 license or the privilege to practice.
+3 03-03-2025 10:28:20 JMB028
+As Engrossed: H2/26/25 H3/3/25 HB1253
+1 O. “Rule” means: a written statement by the interstate Commission
+2 promulgated pursuant to Section 12 of this compact that is of general
+3 applicability; implements, interprets, or prescribes a policy or provision of
+4 the compact; or is an organizational, procedural, or practice requirement of
+5 the Commission and has the force and effect of statutory law in a member
+6 state and includes the amendment, repeal, or suspension of an existing rule.
+7 P. “Scope of Practice” means: defined parameters of various duties or
+8 services that may be provided by an individual with specific credentials.
+9 Whether regulated by rule, statute, or court decision, it tends to represent
+10 the limits of services an individual may perform.
+11 Q. “Significant Investigatory Information” means:
+12 1. .investigative information that a state EMS authority, after
+13 a preliminary inquiry that includes notification and an opportunity to
+14 respond if required by state law, has reason to believe, if proved true,
+15 would result in the imposition of an adverse action on a license or privilege
+16 to practice; or
+17 2. investigative information that indicates that the individual
+18 represents an immediate threat to public health and safety regardless of
+19 whether the individual has been notified and had an opportunity to respond.
+20 R. “State” means: means any state, commonwealth, district, or
+21 territory of the United States.
+22 S. “State EMS Authority” means: the board, office, or other agency
+23 with the legislative mandate to license EMS personnel.
+24
+25 SECTION 3. HOME STATE LICENSURE
+26
+27 A. Any member state in which an individual holds a current license
+28 shall be deemed a home state for purposes of this compact.
+29 B. Any member state may require an individual to obtain and retain a
+30 license to be authorized to practice in the member state under circumstances
+31 not authorized by the privilege to practice under the terms of this compact.
+32 C. A home state’s license authorizes an individual to practice in a
+33 remote state under the privilege to practice only if the home state:
+34 1. Currently requires the use of the National Registry of
+35 Emergency Medical Technicians (NREMT) examination as a condition of issuing
+36 initial licenses at the EMT and paramedic levels;
+4 03-03-2025 10:28:20 JMB028
+As Engrossed: H2/26/25 H3/3/25 HB1253
+1 2. Has a mechanism in place for receiving and investigating
+2 complaints about individuals;
+3 3. Notifies the Commission, in compliance with the terms herein,
+4 of any adverse action or significant investigatory information regarding an
+5 individual;
+6 4. No later than five years after activation of the Compact,
+7 requires a criminal background check of all applicants for initial licensure,
+8 including the use of the results of fingerprint or other biometric data
+9 checks compliant with the requirements of the Federal Bureau of Investigation
+10 with the exception of federal employees who have suitability determination in
+11 accordance with US CFR §731.202 and submit documentation of such as
+12 promulgated in the rules of the Commission; and
+13 5. Complies with the rules of the Commission.
+14
+15 SECTION 4. COMPACT PRIVILEGE TO PRACTICE
+16
+17 A. Member states shall recognize the privilege to practice of an
+18 individual licensed in another member state that is in conformance with
+19 Section 3.
+20 B. To exercise the privilege to practice under the terms and
+21 provisions of this compact, an individual must:
+22 1. Be at least 18 years of age;
+23 2. Possess a current unrestricted license in a member state as
+24 an EMT, AEMT, paramedic, or state recognized and licensed level with a scope
+25 of practice and authority between EMT and paramedic; and
+26 3. Practice under the supervision of a medical director.
+27 C. An individual providing patient care in a remote state under the
+28 privilege to practice shall function within the scope of practice authorized
+29 by the home state unless and until modified by an appropriate authority in
+30 the remote state as may be defined in the rules of the commission.
+31 D. Except as provided in Section 4 subsection C, an individual
+32 practicing in a remote state will be subject to the remote state’s authority
+33 and laws. A remote state may, in accordance with due process and that state’s
+34 laws, restrict, suspend, or revoke an individual’s privilege to practice in
+35 the remote state and may take any other necessary actions to protect the
+36 health and safety of its citizens. If a remote state takes action it shall
+5 03-03-2025 10:28:20 JMB028
+As Engrossed: H2/26/25 H3/3/25 HB1253
+1 promptly notify the home state and the Commission.
+2 E. If an individual’s license in any home state is restricted or
+3 suspended, the individual shall not be eligible to practice in a remote state
+4 under the privilege to practice until the individual’s home state license is
+5 restored.
+6 F. If an individual’s privilege to practice in any remote state is
+7 restricted, suspended, or revoked the individual shall not be eligible to
+8 practice in any remote state until the individual’s privilege to practice is
+9 restored.
+10
+11 SECTION 5. CONDITIONS OF PRACTICE IN A REMOTE STATE
+12
+13 An individual may practice in a remote state under a privilege to practice
+14 only in the performance of the individual’s EMS duties as assigned by an
+15 appropriate authority, as defined in the rules of the Commission, and under
+16 the following circumstances:
+17 1. The individual originates a patient transport in a home state and
+18 transports the patient to a remote state;
+19 2. The individual originates in the home state and enters a remote
+20 state to pick up a patient and provide care and transport of the patient to
+21 the home state;
+22 3. The individual enters a remote state to provide patient care and/or
+23 transport within that remote state;
+24 4. The individual enters a remote state to pick up a patient and
+25 provide care and transport to a third member state;
+26 5. Other conditions as determined by rules promulgated by the
+27 commission.
+28
+29 SECTION 6. RELATIONSHIP TO EMERGENCY MANAGEMENT ASSISTANCE COMPACT
+30
+31 Upon a member state’s governor’s declaration of a state of emergency or
+32 disaster that activates the Emergency Management Assistance Compact (EMAC),
+33 all relevant terms and provisions of EMAC shall apply and to the extent any
+34 terms or provisions of this Compact conflicts with EMAC, the terms of EMAC
+35 shall prevail with respect to any individual practicing in the remote state
+36 in response to such declaration.
+6 03-03-2025 10:28:20 JMB028
+As Engrossed: H2/26/25 H3/3/25 HB1253
+1
+2 SECTION 7. VETERANS, SERVICE MEMBERS SEPARATING FROM ACTIVE DUTY MILITARY,
+3 AND THEIR SPOUSES
+4
+5 A. Member states shall consider a veteran, active military service
+6 member, and member of the National Guard and Reserves separating from an
+7 active duty tour, and a spouse thereof, who holds a current valid and
+8 unrestricted NREMT certification at or above the level of the state license
+9 being sought as satisfying the minimum training and examination requirements
+10 for such licensure.
+11 B. Member states shall expedite the processing of licensure
+12 applications submitted by veterans, active military service members, and
+13 members of the National Guard and Reserves separating from an active duty
+14 tour, and their spouses.
+15 C. All individuals functioning with a privilege to practice under this
+16 Section remain subject to the Adverse Actions provisions of Section VIII.
+17
+18 SECTION 8. ADVERSE ACTIONS
+19
+20 A. A home state shall have exclusive power to impose adverse action
+21 against an individual’s license issued by the home state.
+22 B. If an individual’s license in any home state is restricted or
+23 suspended, the individual shall not be eligible to practice in a remote state
+24 under the privilege to practice until the individual’s home state license is
+25 restored.
+26 1. All home state adverse action orders shall include a
+27 statement that the individual’s compact privileges are inactive. The order
+28 may allow the individual to practice in remote states with prior written
+29 authorization from both the home state and remote state’s EMS authority.
+30 2. An individual currently subject to adverse action in the home
+31 state shall not practice in any remote state without prior written
+32 authorization from both the home state and remote state’s EMS authority.
+33 C. A member state shall report adverse actions and any occurrences
+34 that the individual’s compact privileges are restricted, suspended, or
+35 revoked to the Commission in accordance with the rules of the Commission.
+36 D. A remote state may take adverse action on an individual’s privilege
+7 03-03-2025 10:28:20 JMB028
+As Engrossed: H2/26/25 H3/3/25 HB1253
+1 to practice within that state.
+2 E. Any member state may take adverse action against an individual’s
+3 privilege to practice in that state based on the factual findings of another
+4 member state, so long as each state follows its own procedures for imposing
+5 such adverse action.
+6 F. A home state’s EMS authority shall investigate and take appropriate
+7 action with respect to reported conduct in a remote state as it would if such
+8 conduct had occurred within the home state. In such cases, the home state’s
+9 law shall control in determining the appropriate adverse action.
+10 G. Nothing in this Compact shall override a member state’s decision
+11 that participation in an alternative program may be used in lieu of adverse
+12 action and that such participation shall remain non-public if required by the
+13 member state’s laws. Member states must require individuals who enter any
+14 alternative programs to agree not to practice in any other member state
+15 during the term of the alternative program without prior authorization from
+16 such other member state.
+17
+18 SECTION 9. ADDITIONAL POWERS INVESTED IN A MEMBER STATE’S EMS AUTHORITY
+19
+20 A member state’s EMS authority, in addition to any other powers granted under
+21 state law, is authorized under this compact to:
+22 1. Issue subpoenas for both hearings and investigations that require
+23 the attendance and testimony of witnesses and the production of evidence.
+24 Subpoenas issued by a member state’s EMS authority for the attendance and
+25 testimony of witnesses, and/or the production of evidence from another member
+26 state, shall be enforced in the remote state by any court of competent
+27 jurisdiction, according to that court’s practice and procedure in considering
+28 subpoenas issued in its own proceedings. The issuing state EMS authority
+29 shall pay any witness fees, travel expenses, mileage, and other fees required
+30 by the service statutes of the state where the witnesses and/or evidence are
+31 located; and
+32 2. Issue cease and desist orders to restrict, suspend, or revoke an
+33 individual’s privilege to practice in the state.
+34
+35 SECTION 10. ESTABLISHMENT OF THE INTERSTATE COMMISSION FOR EMS PERSONNEL
+36 PRACTICE
+8 03-03-2025 10:28:20 JMB028
+As Engrossed: H2/26/25 H3/3/25 HB1253
+1
+2 A. The Compact states hereby create and establish a joint public
+3 agency known as the Interstate Commission for EMS Personnel Practice.
+4 1. The Commission is a body politic and an instrumentality of
+5 the Compact states.
+6 2. Venue is proper and judicial proceedings by or against the
+7 Commission shall be brought solely and exclusively in a court of competent
+8 jurisdiction where the principal office of the Commission is located. The
+9 Commission may waive venue and jurisdictional defenses to the extent it
+10 adopts or consents to participate in alternative dispute resolution
+11 proceedings.
+12 3. Nothing in this Compact shall be construed to be a waiver of
+13 sovereign immunity.
+14 B. Membership, Voting, and Meetings
+15 1. Each member state shall have and be limited to one (1)
+16 delegate. The responsible official of the state EMS authority or his designee
+17 shall be the delegate to this Compact for each member state. Any delegate
+18 may be removed or suspended from office as provided by the law of the state
+19 from which the delegate is appointed. Any vacancy occurring in the
+20 Commission shall be filled in accordance with the laws of the member state in
+21 which the vacancy exists. In the event that more than one board, office, or
+22 other agency with the legislative mandate to license EMS personnel at and
+23 above the level of EMT exists, the Governor of the state will determine which
+24 entity will be responsible for assigning the delegate.
+25 2. Each delegate shall be entitled to one (1) vote with regard
+26 to the promulgation of rules and creation of bylaws and shall otherwise have
+27 an opportunity to participate in the business and affairs of the Commission.
+28 A delegate shall vote in person or by such other means as provided in the
+29 bylaws. The bylaws may provide for delegates’ participation in meetings by
+30 telephone or other means of communication.
+31 3. The Commission shall meet at least once during each calendar
+32 year. Additional meetings shall be held as set forth in the bylaws.
+33 4. All meetings shall be open to the public, and public notice
+34 of meetings shall be given in the same manner as required under the
+35 rulemaking provisions in Section XII.
+36 5. The Commission may convene in a closed, non-public meeting if
+9 03-03-2025 10:28:20 JMB028
+As Engrossed: H2/26/25 H3/3/25 HB1253
+1 the Commission must discuss:
+2 a. Non-compliance of a member state with its obligations
+3 under the Compact;
+4 b. The employment, compensation, discipline or other
+5 personnel matters, practices or procedures related to specific employees or
+6 other matters related to the Commission’s internal personnel practices and
+7 procedures;
+8 c. Current, threatened, or reasonably anticipated
+9 litigation;
+10 d. Negotiation of contracts for the purchase or sale of
+11 goods, services, or real estate;
+12 e. Accusing any person of a crime or formally censuring
+13 any person;
+14 f. Disclosure of trade secrets or commercial or financial
+15 information that is privileged or confidential;
+16 g. Disclosure of information of a personal nature where
+17 disclosure would constitute a clearly unwarranted invasion of personal
+18 privacy;
+19 h. Disclosure of investigatory records compiled for law
+20 enforcement purposes;
+21 i. Disclosure of information related to any investigatory
+22 reports prepared by or on behalf of or for use of the Commission or other
+23 committee charged with responsibility of investigation or determination of
+24 compliance issues pursuant to the compact; or
+25 j. Matters specifically exempted from disclosure by
+26 federal or member state statute.
+27 6. If a meeting, or portion of a meeting, is closed pursuant to
+28 this provision, the Commission’s legal counsel or designee shall certify that
+29 the meeting may be closed and shall reference each relevant exempting
+30 provision. The Commission shall keep minutes that fully and clearly describe
+31 all matters discussed in a meeting and shall provide a full and accurate
+32 summary of actions taken, and the reasons therefore, including a description
+33 of the views expressed. All documents considered in connection with an action
+34 shall be identified in such minutes. All minutes and documents of a closed
+35 meeting shall remain under seal, subject to release by a majority vote of the
+36 Commission or order of a court of competent jurisdiction.
+10 03-03-2025 10:28:20 JMB028
+As Engrossed: H2/26/25 H3/3/25 HB1253
+1 C. The Commission shall, by a majority vote of the delegates,
+2 prescribe bylaws and/or rules to govern its conduct as may be necessary or
+3 appropriate to carry out the purposes and exercise the powers of the compact,
+4 including but not limited to:
+5 1. Establishing the fiscal year of the Commission;
+6 2. Providing reasonable standards and procedures:
+7 a. for the establishment and meetings of other committees;
+8 and
+9 b. governing any general or specific delegation of any
+10 authority or function of the Commission;
+11 3. Providing reasonable procedures for calling and conducting
+12 meetings of the Commission, ensuring reasonable advance notice of all
+13 meetings, and providing an opportunity for attendance of such meetings by
+14 interested parties, with enumerated exceptions designed to protect the
+15 public’s interest, the privacy of individuals, and proprietary information,
+16 including trade secrets. The Commission may meet in closed session only after
+17 a majority of the membership votes to close a meeting in whole or in part. As
+18 soon as practicable, the Commission must make public a copy of the vote to
+19 close the meeting revealing the vote of each member with no proxy votes
+20 allowed;
+21 4. Establishing the titles, duties and authority, and reasonable
+22 procedures for the election of the officers of the Commission;
+23 5. Providing reasonable standards and procedures for the
+24 establishment of the personnel policies and programs of the Commission.
+25 Notwithstanding any civil service or other similar laws of any member state,
+26 the bylaws shall exclusively govern the personnel policies and programs of
+27 the Commission;
+28 6. Promulgating a code of ethics to address permissible and
+29 prohibited activities of Commission members and employees;
+30 7. Providing a mechanism for winding up the operations of the
+31 Commission and the equitable disposition of any surplus funds that may exist
+32 after the termination of the Compact after the payment and/or reserving of
+33 all of its debts and obligations;
+34 8. The Commission shall publish its bylaws and file a copy
+35 thereof, and a copy of any amendment thereto, with the appropriate agency or
+36 officer in each of the member states, if any.
+11 03-03-2025 10:28:20 JMB028
+As Engrossed: H2/26/25 H3/3/25 HB1253
+1 9. The Commission shall maintain its financial records in
+2 accordance with the bylaws.
+3 10. The Commission shall meet and take such actions as are
+4 consistent with the provisions of this Compact and the bylaws.
+5 D. The Commission shall have the following powers:
+6 1. The authority to promulgate uniform rules to facilitate and
+7 coordinate implementation and administration of this Compact. The rules shall
+8 have the force and effect of law and shall be binding in all member states;
+9 2. To bring and prosecute legal proceedings or actions in the
+10 name of the Commission, provided that the standing of any state EMS authority
+11 or other regulatory body responsible for EMS personnel licensure to sue or be
+12 sued under applicable law shall not be affected;
+13 3. To purchase and maintain insurance and bonds;
+14 4. To borrow, accept, or contract for services of personnel,
+15 including, but not limited to, employees of a member state;
+16 5. To hire employees, elect or appoint officers, fix
+17 compensation, define duties, grant such individuals appropriate authority to
+18 carry out the purposes of the compact, and to establish the Commission’s
+19 personnel policies and programs relating to conflicts of interest,
+20 qualifications of personnel, and other related personnel matters;
+21 6. To accept any and all appropriate donations and grants of
+22 money, equipment, supplies, materials and services, and to receive, utilize
+23 and dispose of the same; provided that at all times the Commission shall
+24 strive to avoid any appearance of impropriety and/or conflict of interest;
+25 7. To lease, purchase, accept appropriate gifts or donations of,
+26 or otherwise to own, hold, improve or use, any property, real, personal or
+27 mixed; provided that at all times the Commission shall strive to avoid any
+28 appearance of impropriety;
+29 8. To sell convey, mortgage, pledge, lease, exchange, abandon,
+30 or otherwise dispose of any property real, personal, or mixed;
+31 9. To establish a budget and make expenditures;
+32 10. To borrow money;
+33 11. To appoint committees, including advisory committees
+34 comprised of members, state regulators, state legislators or their
+35 representatives, and consumer representatives, and such other interested
+36 persons as may be designated in this compact and the bylaws;
+12 03-03-2025 10:28:20 JMB028
+As Engrossed: H2/26/25 H3/3/25 HB1253
+1 12. To provide and receive information from, and to cooperate
+2 with, law enforcement agencies;
+3 13. To adopt and use an official seal; and
+4 14. To perform such other functions as may be necessary or
+5 appropriate to achieve the purposes of this Compact consistent with the state
+6 regulation of EMS personnel licensure and practice.
+7 E. Financing of the Commission
+8 1. The Commission shall pay, or provide for the payment of, the
+9 reasonable expenses of its establishment, organization, and ongoing
+10 activities.
+11 2. The Commission may accept any and all appropriate revenue
+12 sources, donations, and grants of money, equipment, supplies, materials, and
+13 services.
+14 3. The Commission may levy on and collect an annual assessment
+15 from each member state or impose fees on other parties to cover the cost of
+16 the operations and activities of the Commission and its staff, which must be
+17 in a total amount sufficient to cover its annual budget as approved each year
+18 for which revenue is not provided by other sources. The aggregate annual
+19 assessment amount shall be allocated based upon a formula to be determined by
+20 the Commission, which shall promulgate a rule binding upon all member states.
+21 4. The Commission shall not incur obligations of any kind prior
+22 to securing the funds adequate to meet the same; nor shall the Commission
+23 pledge the credit of any of the member states, except by and with the
+24 authority of the member state.
+25 5. The Commission shall keep accurate accounts of all receipts
+26 and disbursements. The receipts and disbursements of the Commission shall be
+27 subject to the audit and accounting procedures established under its bylaws.
+28 However, all receipts and disbursements of funds handled by the Commission
+29 shall be audited yearly by a certified or licensed public accountant, and the
+30 report of the audit shall be included in and become part of the annual report
+31 of the Commission.
+32 F. Qualified Immunity, Defense, and Indemnification
+33 1. The members, officers, executive director, employees and
+34 representatives of the Commission shall be immune from suit and liability,
+35 either personally or in their official capacity, for any claim for damage to
+36 or loss of property or personal injury or other civil liability caused by or
+13 03-03-2025 10:28:20 JMB028
+As Engrossed: H2/26/25 H3/3/25 HB1253
+1 arising out of any actual or alleged act, error or omission that occurred, or
+2 that the person against whom the claim is made had a reasonable basis for
+3 believing occurred within the scope of Commission employment, duties or
+4 responsibilities; provided that nothing in this paragraph shall be construed
+5 to protect any such person from suit and/or liability for any damage, loss,
+6 injury, or liability caused by the intentional or willful or wanton
+7 misconduct of that person.
+8 2. The Commission shall defend any member, officer, executive
+9 director, employee or representative of the Commission in any civil action
+10 seeking to impose liability arising out of any actual or alleged act, error,
+11 or omission that occurred within the scope of Commission employment, duties,
+12 or responsibilities, or that the person against whom the claim is made had a
+13 reasonable basis for believing occurred within the scope of Commission
+14 employment, duties, or responsibilities; provided that nothing herein shall
+15 be construed to prohibit that person from retaining his or her own counsel;
+16 and provided further, that the actual or alleged act, error, or omission did
+17 not result from that person’s intentional or willful or wanton misconduct.
+18 3. The Commission shall indemnify and hold harmless any member,
+19 officer, executive director, employee, or representative of the Commission
+20 for the amount of any settlement or judgment obtained against that person
+21 arising out of any actual or alleged act, error or omission that occurred
+22 within the scope of Commission employment, duties, or responsibilities, or
+23 that such person had a reasonable basis for believing occurred within the
+24 scope of Commission employment, duties, or responsibilities, provided that
+25 the actual or alleged act, error, or omission did not result from the
+26 intentional or willful or wanton misconduct of that person.
+27
+28 SECTION 11. COORDINATED DATABASE
+29
+30 A. The Commission shall provide for the development and maintenance of
+31 a coordinated database and reporting system containing licensure, adverse
+32 action, and significant investigatory information on all licensed individuals
+33 in member states.
+34 B. Notwithstanding any other provision of state law to the contrary, a
+35 member state shall submit a uniform data set to the coordinated database on
+36 all individuals to whom this compact is applicable as required by the rules
+14 03-03-2025 10:28:20 JMB028
+As Engrossed: H2/26/25 H3/3/25 HB1253
+1 of the Commission, including:
+2 1. Identifying information;
+3 2. Licensure data;
+4 3. Significant investigatory information;
+5 4. Adverse actions against an individual’s license;
+6 5. An indicator that an individual’s privilege to practice is
+7 restricted, suspended or revoked;
+8 6. Non-confidential information related to alternative program
+9 participation;
+10 7. Any denial of application for licensure, and the reason(s)
+11 for such denial; and
+12 8. Other information that may facilitate the administration of
+13 this Compact, as determined by the rules of the Commission.
+14 C. The coordinated database administrator shall promptly notify all
+15 member states of any adverse action taken against, or significant
+16 investigative information on, any individual in a member state.
+17 D. Member states contributing information to the coordinated database
+18 may designate information that may not be shared with the public without the
+19 express permission of the contributing state.
+20 E. Any information submitted to the coordinated database that is
+21 subsequently required to be expunged by the laws of the member state
+22 contributing the information shall be removed from the coordinated database.
+23
+24 SECTION 12. RULEMAKING
+25
+26 A. The Commission shall exercise its rulemaking powers pursuant to the
+27 criteria set forth in this Section and the rules adopted thereunder. Rules
+28 and amendments shall become binding as of the date specified in each rule or
+29 amendment.
+30 B. If a majority of the legislatures of the member states rejects a
+31 rule, by enactment of a statute or resolution in the same manner used to
+32 adopt the Compact, then such rule shall have no further force and effect in
+33 any member state.
+34 C. Rules or amendments to the rules shall be adopted at a regular or
+35 special meeting of the Commission.
+36 D. Prior to promulgation and adoption of a final rule or rules by the
+15 03-03-2025 10:28:20 JMB028
+As Engrossed: H2/26/25 H3/3/25 HB1253
+1 Commission, and at least sixty (60) days in advance of the meeting at which
+2 the rule will be considered and voted upon, the Commission shall file a
+3 Notice of Proposed Rulemaking:
+4 1. On the website of the Commission; and
+5 2. On the website of each member state EMS authority or the
+6 publication in which each state would otherwise publish proposed rules.
+7 E. The Notice of Proposed Rulemaking shall include:
+8 1. The proposed time, date, and location of the meeting in which
+9 the rule will be considered and voted upon;
+10 2. The text of the proposed rule or amendment and the reason for
+11 the proposed rule;
+12 3. A request for comments on the proposed rule from any
+13 interested person; and
+14 4. The manner in which interested persons may submit notice to
+15 the Commission of their intention to attend the public hearing and any
+16 written comments.
+17 F. Prior to adoption of a proposed rule, the Commission shall allow
+18 persons to submit written data, facts, opinions, and arguments, which shall
+19 be made available to the public.
+20 G. The Commission shall grant an opportunity for a public hearing
+21 before it adopts a rule or amendment if a hearing is requested by:
+22 1. At least twenty-five (25) persons;
+23 2. A governmental subdivision or agency; or
+24 3. An association having at least twenty-five (25) members.
+25 H. If a hearing is held on the proposed rule or amendment, the
+26 Commission shall publish the place, time, and date of the scheduled public
+27 hearing.
+28 1. All persons wishing to be heard at the hearing shall notify
+29 the executive director of the Commission or other designated member in
+30 writing of their desire to appear and testify at the hearing not less than
+31 five (5) business days before the scheduled date of the hearing.
+32 2. Hearings shall be conducted in a manner providing each person
+33 who wishes to comment a fair and reasonable opportunity to comment orally or
+34 in writing.
+35 3. No transcript of the hearing is required, unless a written
+36 request for a transcript is made, in which case the person requesting the
+16 03-03-2025 10:28:20 JMB028
+As Engrossed: H2/26/25 H3/3/25 HB1253
+1 transcript shall bear the cost of producing the transcript. A recording may
+2 be made in lieu of a transcript under the same terms and conditions as a
+3 transcript. This subsection shall not preclude the Commission from making a
+4 transcript or recording of the hearing if it so chooses.
+5 4. Nothing in this section shall be construed as requiring a
+6 separate hearing on each rule. Rules may be grouped for the convenience of
+7 the Commission at hearings required by this section.
+8 I. Following the scheduled hearing date, or by the close of business
+9 on the scheduled hearing date if the hearing was not held, the Commission
+10 shall consider all written and oral comments received.
+11 J. The Commission shall, by majority vote of all members, take final
+12 action on the proposed rule and shall determine the effective date of the
+13 rule, if any, based on the rulemaking record and the full text of the rule.
+14 K. If no written notice of intent to attend the public hearing by
+15 interested parties is received, the Commission may proceed with promulgation
+16 of the proposed rule without a public hearing.
+17 L. Upon determination that an emergency exists, the Commission may
+18 consider and adopt an emergency rule without prior notice, opportunity for
+19 comment, or hearing, provided that the usual rulemaking procedures provided
+20 in the Compact and in this section shall be retroactively applied to the rule
+21 as soon as reasonably possible, in no event later than ninety (90) days after
+22 the effective date of the rule. For the purposes of this provision, an
+23 emergency rule is one that must be adopted immediately in order to:
+24 1. Meet an imminent threat to public health, safety, or welfare;
+25 2. Prevent a loss of Commission or member state funds;
+26 3. Meet a deadline for the promulgation of an administrative
+27 rule that is established by federal law or rule; or
+28 4. Protect public health and safety.
+29 M. The Commission or an authorized committee of the Commission may
+30 direct revisions to a previously adopted rule or amendment for purposes of
+31 correcting typographical errors, errors in format, errors in consistency, or
+32 grammatical errors. Public notice of any revisions shall be posted on the
+33 website of the Commission. The revision shall be subject to challenge by any
+34 person for a period of thirty (30) days after posting. The revision may be
+35 challenged only on grounds that the revision results in a material change to
+36 a rule. A challenge shall be made in writing, and delivered to the chair of
+17 03-03-2025 10:28:20 JMB028
+As Engrossed: H2/26/25 H3/3/25 HB1253
+1 the Commission prior to the end of the notice period. If no challenge is
+2 made, the revision will take effect without further action. If the revision
+3 is challenged, the revision may not take effect without the approval of the
+4 Commission.
+5
+6 SECTION 13. OVERSIGHT, DISPUTE RESOLUTION, AND ENFORCEMENT
+7
+8 A. Oversight
+9 1. The executive, legislative, and judicial branches of state
+10 government in each member state shall enforce this compact and take all
+11 actions necessary and appropriate to effectuate the compact’s purposes and
+12 intent. The provisions of this compact and the rules promulgated hereunder
+13 shall have standing as statutory law.
+14 2. All courts shall take judicial notice of the compact and the
+15 rules in any judicial or administrative proceeding in a member state
+16 pertaining to the subject matter of this compact which may affect the powers,
+17 responsibilities or actions of the Commission.
+18 3. The Commission shall be entitled to receive service of
+19 process in any such proceeding, and shall have standing to intervene in such
+20 a proceeding for all purposes. Failure to provide service of process to the
+21 Commission shall render a judgment or order void as to the Commission, this
+22 Compact, or promulgated rules.
+23 B. Default, Technical Assistance, and Termination
+24 1. If the Commission determines that a member state has
+25 defaulted in the performance of its obligations or responsibilities under
+26 this compact or the promulgated rules, the Commission shall:
+27 a. Provide written notice to the defaulting state and
+28 other member states of the nature of the default, the proposed means of
+29 curing the default and/or any other action to be taken by the Commission; and
+30 b. Provide remedial training and specific technical
+31 assistance regarding the default.
+32 2. If a state in default fails to cure the default, the
+33 defaulting state may be terminated from the Compact upon an affirmative vote
+34 of a majority of the member states, and all rights, privileges and benefits
+35 conferred by this compact may be terminated on the effective date of
+36 termination. A cure of the default does not relieve the offending state of
+18 03-03-2025 10:28:20 JMB028
+As Engrossed: H2/26/25 H3/3/25 HB1253
+1 obligations or liabilities incurred during the period of default.
+2 3. Termination of membership in the compact shall be imposed
+3 only after all other means of securing compliance have been exhausted. Notice
+4 of intent to suspend or terminate shall be given by the Commission to the
+5 governor, the majority and minority leaders of the defaulting state’s
+6 legislature, and each of the member states.
+7 4. A state that has been terminated is responsible for all
+8 assessments, obligations, and liabilities incurred through the effective date
+9 of termination, including obligations that extend beyond the effective date
+10 of termination.
+11 5. The Commission shall not bear any costs related to a state
+12 that is found to be in default or that has been terminated from the compact,
+13 unless agreed upon in writing between the Commission and the defaulting
+14 state.
+15 6. The defaulting state may appeal the action of the Commission
+16 by petitioning the U.S. District Court for the District of Columbia or the
+17 federal district where the Commission has its principal offices. The
+18 prevailing member shall be awarded all costs of such litigation, including
+19 reasonable attorney’s fees.
+20 C. Dispute Resolution
+21 1. Upon request by a member state, the Commission shall attempt
+22 to resolve disputes related to the compact that arise among member states and
+23 between member and non-member states.
+24 2. The Commission shall promulgate a rule providing for both
+25 mediation and binding dispute resolution for disputes as appropriate.
+26 D. Enforcement
+27 1. The Commission, in the reasonable exercise of its discretion,
+28 shall enforce the provisions and rules of this compact.
+29 2. By majority vote, the Commission may initiate legal action in
+30 the United States District Court for the District of Columbia or the federal
+31 district where the Commission has its principal offices against a member
+32 state in default to enforce compliance with the provisions of the compact and
+33 its promulgated rules and bylaws. The relief sought may include both
+34 injunctive relief and damages. In the event judicial enforcement is
+35 necessary, the prevailing member shall be awarded all costs of such
+36 litigation, including reasonable attorney’s fees.
+19 03-03-2025 10:28:20 JMB028
+As Engrossed: H2/26/25 H3/3/25 HB1253
+1 3. The remedies herein shall not be the exclusive remedies of
+2 the Commission. The Commission may pursue any other remedies available under
+3 federal or state law.
+4
+5 SECTION 14. DATE OF IMPLEMENTATION OF THE INTERSTATE COMMISSION FOR EMS
+6 PERSONNEL PRACTICE AND ASSOCIATED RULES, WITHDRAWAL, AND AMENDMENT
+7
+8 A. The compact shall come into effect on the date on which the compact
+9 statute is enacted into law in the tenth member state. The provisions, which
+10 become effective at that time, shall be limited to the powers granted to the
+11 Commission relating to assembly and the promulgation of rules. Thereafter,
+12 the Commission shall meet and exercise rulemaking powers necessary to the
+13 implementation and administration of the compact.
+14 B. Any state that joins the compact subsequent to the Commission’s
+15 initial adoption of the rules shall be subject to the rules as they exist on
+16 the date on which the compact becomes law in that state. Any rule that has
+17 been previously adopted by the Commission shall have the full force and
+18 effect of law on the day the compact becomes law in that state.
+19 C. Any member state may withdraw from this compact by enacting a
+20 statute repealing the same.
+21 1. A member state’s withdrawal shall not take effect until six
+22 (6) months after enactment of the repealing statute.
+23 2. Withdrawal shall not affect the continuing requirement of the
+24 withdrawing state’s EMS authority to comply with the investigative and
+25 adverse action reporting requirements of this act prior to the effective date
+26 of withdrawal.
+27 D. Nothing contained in this compact shall be construed to invalidate
+28 or prevent any EMS personnel licensure agreement or other cooperative
+29 arrangement between a member state and a non-member state that does not
+30 conflict with the provisions of this compact.
+31 E. This Compact may be amended by the member states. No amendment to
+32 this Compact shall become effective and binding upon any member state until
+33 it is enacted into the laws of all member states.
+34
+35 SECTION 15. CONSTRUCTION AND SEVERABILITY
+36
+20 03-03-2025 10:28:20 JMB028
+As Engrossed: H2/26/25 H3/3/25 HB1253
+1 This Compact shall be liberally construed so as to effectuate the purposes
+2 thereof. If this compact shall be held contrary to the constitution of any
+3 state member thereto, the compact shall remain in full force and effect as to
+4 the remaining member states. Nothing in this compact supersedes state law or
+5 rules related to licensure of EMS agencies.
+6
+7 20-13-1902. Administration of compact — Rules.
+8 (a) The Department of Health is the Emergency Medical Services
+9 Personnel Licensure Interstate Compact administrator in this state.
+10 (b) The department may adopt rules consistent with the compact that
+11 are necessary to implement this subchapter.
+12 (c) The department is not required to adopt the rules of the
+13 Interstate Commission for EMS Personnel Practice for those rules to be
+14 effective in this state.
+15 (d) For the purposes of the member state's ability to reject a rule
+16 under Section 12(B) of the Emergency Medical Services Personnel Licensure
+17 Interstate Compact, Arkansas delegates its authority in this provision to the
+18 General Assembly or the Legislative Council.
+19
+20 SECTION 2. Arkansas Code § 20-13-1102 is amended to read as follows:
+21 20-13-1102. Mandatory criminal history checks for emergency medical
+22 services personnel.
+23 (a)(1) Any applicant applying for initial licensure shall complete a
+24 criminal history check form and shall request the Identification Bureau of
+25 the Division of Arkansas State Police to conduct a state or and national
+26 criminal history check, or both, on the applicant.
+27 (2) The applicant shall pay all appropriate fees for the state
+28 or and national criminal history check, or both, as set forth by the bureau.
+29 (3) The applicant shall attach the criminal history check form
+30 to the Arkansas emergency medical services personnel licensure application.
+31 (b) The Division of Emergency Medical Services of the Department of
+32 Health shall conduct a state or and national criminal history check, or both,
+33 on the applicant and determine whether the applicant is disqualified from
+34 licensure based on the report of the applicant's criminal history and forward
+35 its determination to the applicant directly.
+36
+21 03-03-2025 10:28:20 JMB028
+As Engrossed: H2/26/25 H3/3/25 HB1253
+1 SECTION 3. Arkansas Code § 20-13-1104 is amended to read as follows:
+2 20-13-1104. Form — State and national criminal history check.
+3 (a) A request for a state or and national criminal history check, or
+4 both, on a person shall include a completed form as required by the
+5 Identification Bureau of the Division of Arkansas State Police and by the
+6 Federal Bureau of Investigation.
+7 (b) If an applicant is requesting initial Arkansas emergency medical
+8 services personnel licensure and can provide proof of continuous residency in
+9 the State of Arkansas for the past five (5) years, then the applicant shall
+10 be required to have only a state criminal history check completed.
+11 (c) If an applicant is requesting initial Arkansas emergency medical
+12 services personnel licensure and is from another state or if the applicant
+13 cannot provide proof of continuous residency in the State of Arkansas for the
+14 past five (5) years, the applicant shall be required to have both a state and
+15 a national criminal history check completed.
+16 (b) The criminal history check shall conform to the applicable federal
+17 standards and shall include the taking of fingerprints.
+18 (c) Upon completion of the criminal history check, the Identification
+19 Bureau of the Division of Arkansas State Police shall forward to the
+20 Department of Health all releasable information obtained concerning the
+21 applicant.
+22 (d)(1) Any information received by the department from the
+23 Identification Bureau of the Division of Arkansas State Police under this
+24 section shall not be available for examination except by:
+25 (A) The affected applicant for licensure or his or her
+26 authorized representative; or
+27 (B) The person whose license is subject to revocation or
+28 his or her authorized representative.
+29 (2) A record, file, or document shall not be removed from the
+30 custody of the Identification Bureau of the Division of Arkansas State
+31 Police.
+32 (e) Any information made available to the affected applicant for
+33 licensure or the person whose license is subject to revocation shall be
+34 information pertaining to that person only.
+35 (f) Rights of privilege and confidentiality established in this
+36 section shall not extend to a document created for purposes other than the
+22 03-03-2025 10:28:20 JMB028
+As Engrossed: H2/26/25 H3/3/25 HB1253
+1 criminal history check.
+2 (g) The department shall adopt the necessary rules to implement this
+3 section.
+4 (h)(1) The department may participate at the state and federal level
+5 in programs that provide notification of an arrest subsequent to an initial
+6 criminal history check that is conducted through available governmental
+7 systems.
+8 (2) The department may submit an applicant's fingerprints to the
+9 federal Next Generation Identification system.
+10 (3) The fingerprints may be searched against future submissions
+11 to the federal Next Generation Identification system, including latent
+12 fingerprint searches.
+13 (4) An applicant enrolled in the federal Next Generation
+14 Identification system is not required to re-fingerprint when a subsequent
+15 request for a state or federal criminal history check is required if:
+16 (A) A legible set of the applicant's fingerprints is
+17 obtained when the applicant enrolls in the federal Next Generation
+18 Identification system; and
+19 (B) The applicant is subject to the Rap Back service of
+20 the federal Next Generation Identification system.
+21 (i) The Identification Bureau of the Division of Arkansas State Police
+22 and the Federal Bureau of Investigation may maintain fingerprints in the
+23 Integrated Automated Fingerprint Identification System.
+24
+25 /s/L. Johnson
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+23 03-03-2025 10:28:20 JMB028
+[DELETED:  A       A P A   T P I  B   S a S C   2  T i j  R C  E  S]
+[DELETED:  H2 0  I a e t f i a r r h t p p  1  2 s  3 p  4 a  5 r i  6 i  7 a  S  I  A i c N]
+[DELETED:  H3 0  B c l b r l o e  C s  D c d  E s  F w l P  G t  H p  I w  J  K d c  L a E  M l  N l]
+[DELETED:  H4 0  O p a t t s  P s W t  Q   1 a r w t   2 r w  R t  S w  S   A s  B l n  C r   1 E i]
+[DELETED:  H5 0   2 c   3 o i   4 r i c w a p  5  S   A i S  B p   1   2 a o   3  C p b t  D p a l t h]
+[DELETED:  H6 0 p  E s u r  F r p r  S  A o a t  1 t  2 s t  3 t  4 p  5 c  S  U d a t s i]
+[DELETED:  H7 0  S A   A m a u b f  B a m t  C S  S   A a  B s u r   1 s m a   2 s a  C t r  D]
+[DELETED:  H8 0 t  E p m s  F a c l  G t a m a d s  S  A s  1 t S t s j s s b l  2 i  S P]
+[DELETED:  H9 0   A a   1 t   2 C j C a p   3 s  B   1 d s m f C w o a e   2 t a A b t   3 y   4 o r   5]
+[DELETED:  H1 0 t    a u    b p o p    c l    d g    e a    f i    g d p    h e    i r c c    j f   6 t t p a s o s m C]
+[DELETED:  H1 0  C p a i   1   2    a a    b a   3 m m i p i a s c a   4 p   5 e N t t   6 p   7 C a a   8 t o]
+[DELETED:  H1 0   9 a   1 c  D   1 c h   2 n o s   3   4 i   5 c c p q   6 m a s   7 o m a   8 o   9   1   1 c r p]
+[DELETED:  H1 0   1 w   1   1 a r  E   1 r a   2 s s   3 f t i f a t   4 t p a   5 a s H s r o  F   1 r e o]
+[DELETED:  H1 0 a t b r t i m   2 d s o o r e b a n   3 o f a w t s t i  S   A a a i  B m a]
+[DELETED:  H1 0 o   1   2   3   4   5 r   6 p   7 f   8 t  C m i  D m e  E s c  S   A c a a  B r a a  C s  D]
+[DELETED:  H1 0 C t N   1   2 p  E   1 t   2 t   3 i   4 t w  F p b  G b   1   2   3  H C h   1 t w f   2 w i   3 r]
+[DELETED:  H1 0 t b t t   4 s t  I o s  J a r  K i o  L c c i a t e   1   2   3 r   4  M d c g w p c a]
+[DELETED:  H1 0 t m i C  S   A   1 g a i s   2 r p r   3 p a C C  B   1 d t    a o c    b a   2 d o c t]
+[DELETED:  H1 0 o   3 o o g l   4 a o o   5 t u s   6 b f p r  C   1 t b   2 m  D   1 s   2 t d s i i n l]
+[DELETED:  H2 0   3 t f  S P   A s b C t i  B i t b e  C s   1 (   2 w a o  D o a c  E t i  S ]
+[DELETED:  H2 0 T t s t r   2  ( P  ( a  ( I e  ( u I G   S  2 s  ( c t c   ( o   ( t  ( H o l i ]
+[DELETED:  H2 0  S  2  ( b I F  ( s t b  ( s c p a  ( s  ( B D a  ( I s    ( a    ( h   ( c P  ( l i  ( s]
+[DELETED:  H2 0 c  ( s  ( i c s   ( f   ( t f   ( I r    ( o I    ( t  ( a I  /           ]
+
+
+================================================================================
+
+Raw Text:
+Stricken language would be deleted from and underlined language would be added to present law.
+1 State of Arkansas As Engrossed: H2/26/25 H3/3/25
+A Bill
+2 95th General Assembly
+3 Regular Session, 2025 HOUSE BILL 1253
+4
+5 By: Representative L. Johnson
+6 By: Senator J. Boyd
+7
+For An Act To Be Entitled
+8
+9 AN ACT TO ADOPT THE EMERGENCY MEDICAL SERVICES
+10 PERSONNEL LICENSURE INTERSTATE COMPACT IN ARKANSAS;
+11 AND FOR OTHER PURPOSES.
+12
+13
+Subtitle
+14
+15 TO ADOPT THE EMERGENCY MEDICAL SERVICES
+16 PERSONNEL LICENSURE INTERSTATE COMPACT
+17 IN ARKANSAS.
+18
+19 BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF ARKANSAS:
+20
+21 SECTION 1. Arkansas Code Title 20, Chapter 13, is amended to add an
+22 additional subchapter to read as follows:
+23 Subchapter 19 — Emergency Medical Services Personnel Licensure Interstate
+24 Compact
+25
+26 20-13-1901. Text of compact.
+27 The Emergency Medical Services Personnel Licensure Interstate Compact
+28 is enacted into law and entered into by this state with all states legally
+29 joining therein and in the form substantially as follows:
+30
+31 RECOGNITION OF EMERGENCY MEDICAL SERVICES PERSONNEL LICENSURE INTERSTATE
+32 COMPACT (“REPLICA”)
+33
+34 EMS PERSONNEL LICENSURE INTERSTATE COMPACT
+35
+36 SECTION 1. PURPOSE
+*JMB028*
+03-03-2025 10:28:20 JMB028
+
+As Engrossed: H2/26/25 H3/3/25 HB1253
+1
+2 In order to protect the public through verification of competency and ensure
+3 accountability for patient care related activities all states license
+4 emergency medical services (EMS) personnel, such as emergency medical
+5 technicians (EMTs), advanced EMTs and paramedics. This Compact is intended to
+6 facilitate the day to day movement of EMS personnel across state boundaries
+7 in the performance of their EMS duties as assigned by an appropriate
+8 authority and authorize state EMS offices to afford immediate legal
+9 recognition to EMS personnel licensed in a member state. This Compact
+10 recognizes that states have a vested interest in protecting the public’s
+11 health and safety through their licensing and regulation of EMS personnel and
+12 that such state regulation shared among the member states will best protect
+13 public health and safety. This Compact is designed to achieve the following
+14 purposes and objectives:
+15 1. Increase public access to EMS personnel;
+16 2. Enhance the states’ ability to protect the public’s health and
+17 safety, especially patient safety;
+18 3. Encourage the cooperation of member states in the areas of EMS
+19 personnel licensure and regulation;
+20 4. Support licensing of military members who are separating from an
+21 active duty tour and their spouses;
+22 5. Facilitate the exchange of information between member states
+23 regarding EMS personnel licensure, adverse action and significant
+24 investigatory information;
+25 6. Promote compliance with the laws governing EMS personnel practice
+26 in each member state; and
+27 7. Invest all member states with the authority to hold EMS personnel
+28 accountable through the mutual recognition of member state licenses.
+29
+30 SECTION 2. DEFINITIONS
+31
+32 In this compact:
+33 A. “Advanced Emergency Medical Technician (AEMT)” means: an
+34 individual licensed with cognitive knowledge and a scope of practice that
+35 corresponds to that level in the National EMS Education Standards and
+36 National EMS Scope of Practice Model.
+2 03-03-2025 10:28:20 JMB028
+
+As Engrossed: H2/26/25 H3/3/25 HB1253
+1 B. “Adverse Action” means: any administrative, civil, equitable or
+2 criminal action permitted by a state’s laws which may be imposed against
+3 licensed EMS personnel by a state EMS authority or state court, including,
+4 but not limited to, actions against an individual’s license such as
+5 revocation, suspension, probation, consent agreement, monitoring or other
+6 limitation or encumbrance on the individual’s practice, letters of reprimand
+7 or admonition, fines, criminal convictions and state court judgments
+8 enforcing adverse actions by the state EMS authority.
+9 C. “Alternative program” means: a voluntary, non-disciplinary
+10 substance abuse recovery program approved by a state EMS authority.
+11 D. “Certification” means: the successful verification of entry-level
+12 cognitive and psychomotor competency using a reliable, validated, and legally
+13 defensible examination.
+14 E. “Commission” means: the national administrative body of which all
+15 states that have enacted the compact are members.
+16 F. “Emergency Medical Technician (EMT)” means: an individual licensed
+17 with cognitive knowledge and a scope of practice that corresponds to that
+18 level in the National EMS Education Standards and National EMS Scope of
+19 Practice Model.
+20 G. “Home State” means: a member state where an individual is licensed
+21 to practice emergency medical services.
+22 H. “License” means: the authorization by a state for an individual to
+23 practice as an EMT, AEMT, paramedic, or a level in between EMT and paramedic.
+24 I. “Medical Director” means: a physician licensed in a member state
+25 who is accountable for the care delivered by EMS personnel.
+26 J. “Member State” means: a state that has enacted this compact.
+27 K. “Privilege to Practice” means: an individual’s authority to
+28 deliver emergency medical services in remote states as authorized under this
+29 compact.
+30 L. “Paramedic” means: an individual licensed with cognitive knowledge
+31 and a scope of practice that corresponds to that level in the National EMS
+32 Education Standards and National EMS Scope of Practice Model.
+33 M. “Remote State” means: a member state in which an individual is not
+34 licensed.
+35 N. “Restricted” means: the outcome of an adverse action that limits a
+36 license or the privilege to practice.
+3 03-03-2025 10:28:20 JMB028
+
+As Engrossed: H2/26/25 H3/3/25 HB1253
+1 O. “Rule” means: a written statement by the interstate Commission
+2 promulgated pursuant to Section 12 of this compact that is of general
+3 applicability; implements, interprets, or prescribes a policy or provision of
+4 the compact; or is an organizational, procedural, or practice requirement of
+5 the Commission and has the force and effect of statutory law in a member
+6 state and includes the amendment, repeal, or suspension of an existing rule.
+7 P. “Scope of Practice” means: defined parameters of various duties or
+8 services that may be provided by an individual with specific credentials.
+9 Whether regulated by rule, statute, or court decision, it tends to represent
+10 the limits of services an individual may perform.
+11 Q. “Significant Investigatory Information” means:
+12 1. .investigative information that a state EMS authority, after
+13 a preliminary inquiry that includes notification and an opportunity to
+14 respond if required by state law, has reason to believe, if proved true,
+15 would result in the imposition of an adverse action on a license or privilege
+16 to practice; or
+17 2. investigative information that indicates that the individual
+18 represents an immediate threat to public health and safety regardless of
+19 whether the individual has been notified and had an opportunity to respond.
+20 R. “State” means: means any state, commonwealth, district, or
+21 territory of the United States.
+22 S. “State EMS Authority” means: the board, office, or other agency
+23 with the legislative mandate to license EMS personnel.
+24
+25 SECTION 3. HOME STATE LICENSURE
+26
+27 A. Any member state in which an individual holds a current license
+28 shall be deemed a home state for purposes of this compact.
+29 B. Any member state may require an individual to obtain and retain a
+30 license to be authorized to practice in the member state under circumstances
+31 not authorized by the privilege to practice under the terms of this compact.
+32 C. A home state’s license authorizes an individual to practice in a
+33 remote state under the privilege to practice only if the home state:
+34 1. Currently requires the use of the National Registry of
+35 Emergency Medical Technicians (NREMT) examination as a condition of issuing
+36 initial licenses at the EMT and paramedic levels;
+4 03-03-2025 10:28:20 JMB028
+
+As Engrossed: H2/26/25 H3/3/25 HB1253
+1 2. Has a mechanism in place for receiving and investigating
+2 complaints about individuals;
+3 3. Notifies the Commission, in compliance with the terms herein,
+4 of any adverse action or significant investigatory information regarding an
+5 individual;
+6 4. No later than five years after activation of the Compact,
+7 requires a criminal background check of all applicants for initial licensure,
+8 including the use of the results of fingerprint or other biometric data
+9 checks compliant with the requirements of the Federal Bureau of Investigation
+10 with the exception of federal employees who have suitability determination in
+11 accordance with US CFR §731.202 and submit documentation of such as
+12 promulgated in the rules of the Commission; and
+13 5. Complies with the rules of the Commission.
+14
+15 SECTION 4. COMPACT PRIVILEGE TO PRACTICE
+16
+17 A. Member states shall recognize the privilege to practice of an
+18 individual licensed in another member state that is in conformance with
+19 Section 3.
+20 B. To exercise the privilege to practice under the terms and
+21 provisions of this compact, an individual must:
+22 1. Be at least 18 years of age;
+23 2. Possess a current unrestricted license in a member state as
+24 an EMT, AEMT, paramedic, or state recognized and licensed level with a scope
+25 of practice and authority between EMT and paramedic; and
+26 3. Practice under the supervision of a medical director.
+27 C. An individual providing patient care in a remote state under the
+28 privilege to practice shall function within the scope of practice authorized
+29 by the home state unless and until modified by an appropriate authority in
+30 the remote state as may be defined in the rules of the commission.
+31 D. Except as provided in Section 4 subsection C, an individual
+32 practicing in a remote state will be subject to the remote state’s authority
+33 and laws. A remote state may, in accordance with due process and that state’s
+34 laws, restrict, suspend, or revoke an individual’s privilege to practice in
+35 the remote state and may take any other necessary actions to protect the
+36 health and safety of its citizens. If a remote state takes action it shall
+5 03-03-2025 10:28:20 JMB028
+
+As Engrossed: H2/26/25 H3/3/25 HB1253
+1 promptly notify the home state and the Commission.
+2 E. If an individual’s license in any home state is restricted or
+3 suspended, the individual shall not be eligible to practice in a remote state
+4 under the privilege to practice until the individual’s home state license is
+5 restored.
+6 F. If an individual’s privilege to practice in any remote state is
+7 restricted, suspended, or revoked the individual shall not be eligible to
+8 practice in any remote state until the individual’s privilege to practice is
+9 restored.
+10
+11 SECTION 5. CONDITIONS OF PRACTICE IN A REMOTE STATE
+12
+13 An individual may practice in a remote state under a privilege to practice
+14 only in the performance of the individual’s EMS duties as assigned by an
+15 appropriate authority, as defined in the rules of the Commission, and under
+16 the following circumstances:
+17 1. The individual originates a patient transport in a home state and
+18 transports the patient to a remote state;
+19 2. The individual originates in the home state and enters a remote
+20 state to pick up a patient and provide care and transport of the patient to
+21 the home state;
+22 3. The individual enters a remote state to provide patient care and/or
+23 transport within that remote state;
+24 4. The individual enters a remote state to pick up a patient and
+25 provide care and transport to a third member state;
+26 5. Other conditions as determined by rules promulgated by the
+27 commission.
+28
+29 SECTION 6. RELATIONSHIP TO EMERGENCY MANAGEMENT ASSISTANCE COMPACT
+30
+31 Upon a member state’s governor’s declaration of a state of emergency or
+32 disaster that activates the Emergency Management Assistance Compact (EMAC),
+33 all relevant terms and provisions of EMAC shall apply and to the extent any
+34 terms or provisions of this Compact conflicts with EMAC, the terms of EMAC
+35 shall prevail with respect to any individual practicing in the remote state
+36 in response to such declaration.
+6 03-03-2025 10:28:20 JMB028
+
+As Engrossed: H2/26/25 H3/3/25 HB1253
+1
+2 SECTION 7. VETERANS, SERVICE MEMBERS SEPARATING FROM ACTIVE DUTY MILITARY,
+3 AND THEIR SPOUSES
+4
+5 A. Member states shall consider a veteran, active military service
+6 member, and member of the National Guard and Reserves separating from an
+7 active duty tour, and a spouse thereof, who holds a current valid and
+8 unrestricted NREMT certification at or above the level of the state license
+9 being sought as satisfying the minimum training and examination requirements
+10 for such licensure.
+11 B. Member states shall expedite the processing of licensure
+12 applications submitted by veterans, active military service members, and
+13 members of the National Guard and Reserves separating from an active duty
+14 tour, and their spouses.
+15 C. All individuals functioning with a privilege to practice under this
+16 Section remain subject to the Adverse Actions provisions of Section VIII.
+17
+18 SECTION 8. ADVERSE ACTIONS
+19
+20 A. A home state shall have exclusive power to impose adverse action
+21 against an individual’s license issued by the home state.
+22 B. If an individual’s license in any home state is restricted or
+23 suspended, the individual shall not be eligible to practice in a remote state
+24 under the privilege to practice until the individual’s home state license is
+25 restored.
+26 1. All home state adverse action orders shall include a
+27 statement that the individual’s compact privileges are inactive. The order
+28 may allow the individual to practice in remote states with prior written
+29 authorization from both the home state and remote state’s EMS authority.
+30 2. An individual currently subject to adverse action in the home
+31 state shall not practice in any remote state without prior written
+32 authorization from both the home state and remote state’s EMS authority.
+33 C. A member state shall report adverse actions and any occurrences
+34 that the individual’s compact privileges are restricted, suspended, or
+35 revoked to the Commission in accordance with the rules of the Commission.
+36 D. A remote state may take adverse action on an individual’s privilege
+7 03-03-2025 10:28:20 JMB028
+
+As Engrossed: H2/26/25 H3/3/25 HB1253
+1 to practice within that state.
+2 E. Any member state may take adverse action against an individual’s
+3 privilege to practice in that state based on the factual findings of another
+4 member state, so long as each state follows its own procedures for imposing
+5 such adverse action.
+6 F. A home state’s EMS authority shall investigate and take appropriate
+7 action with respect to reported conduct in a remote state as it would if such
+8 conduct had occurred within the home state. In such cases, the home state’s
+9 law shall control in determining the appropriate adverse action.
+10 G. Nothing in this Compact shall override a member state’s decision
+11 that participation in an alternative program may be used in lieu of adverse
+12 action and that such participation shall remain non-public if required by the
+13 member state’s laws. Member states must require individuals who enter any
+14 alternative programs to agree not to practice in any other member state
+15 during the term of the alternative program without prior authorization from
+16 such other member state.
+17
+18 SECTION 9. ADDITIONAL POWERS INVESTED IN A MEMBER STATE’S EMS AUTHORITY
+19
+20 A member state’s EMS authority, in addition to any other powers granted under
+21 state law, is authorized under this compact to:
+22 1. Issue subpoenas for both hearings and investigations that require
+23 the attendance and testimony of witnesses and the production of evidence.
+24 Subpoenas issued by a member state’s EMS authority for the attendance and
+25 testimony of witnesses, and/or the production of evidence from another member
+26 state, shall be enforced in the remote state by any court of competent
+27 jurisdiction, according to that court’s practice and procedure in considering
+28 subpoenas issued in its own proceedings. The issuing state EMS authority
+29 shall pay any witness fees, travel expenses, mileage, and other fees required
+30 by the service statutes of the state where the witnesses and/or evidence are
+31 located; and
+32 2. Issue cease and desist orders to restrict, suspend, or revoke an
+33 individual’s privilege to practice in the state.
+34
+35 SECTION 10. ESTABLISHMENT OF THE INTERSTATE COMMISSION FOR EMS PERSONNEL
+36 PRACTICE
+8 03-03-2025 10:28:20 JMB028
+
+As Engrossed: H2/26/25 H3/3/25 HB1253
+1
+2 A. The Compact states hereby create and establish a joint public
+3 agency known as the Interstate Commission for EMS Personnel Practice.
+4 1. The Commission is a body politic and an instrumentality of
+5 the Compact states.
+6 2. Venue is proper and judicial proceedings by or against the
+7 Commission shall be brought solely and exclusively in a court of competent
+8 jurisdiction where the principal office of the Commission is located. The
+9 Commission may waive venue and jurisdictional defenses to the extent it
+10 adopts or consents to participate in alternative dispute resolution
+11 proceedings.
+12 3. Nothing in this Compact shall be construed to be a waiver of
+13 sovereign immunity.
+14 B. Membership, Voting, and Meetings
+15 1. Each member state shall have and be limited to one (1)
+16 delegate. The responsible official of the state EMS authority or his designee
+17 shall be the delegate to this Compact for each member state. Any delegate
+18 may be removed or suspended from office as provided by the law of the state
+19 from which the delegate is appointed. Any vacancy occurring in the
+20 Commission shall be filled in accordance with the laws of the member state in
+21 which the vacancy exists. In the event that more than one board, office, or
+22 other agency with the legislative mandate to license EMS personnel at and
+23 above the level of EMT exists, the Governor of the state will determine which
+24 entity will be responsible for assigning the delegate.
+25 2. Each delegate shall be entitled to one (1) vote with regard
+26 to the promulgation of rules and creation of bylaws and shall otherwise have
+27 an opportunity to participate in the business and affairs of the Commission.
+28 A delegate shall vote in person or by such other means as provided in the
+29 bylaws. The bylaws may provide for delegates’ participation in meetings by
+30 telephone or other means of communication.
+31 3. The Commission shall meet at least once during each calendar
+32 year. Additional meetings shall be held as set forth in the bylaws.
+33 4. All meetings shall be open to the public, and public notice
+34 of meetings shall be given in the same manner as required under the
+35 rulemaking provisions in Section XII.
+36 5. The Commission may convene in a closed, non-public meeting if
+9 03-03-2025 10:28:20 JMB028
+
+As Engrossed: H2/26/25 H3/3/25 HB1253
+1 the Commission must discuss:
+2 a. Non-compliance of a member state with its obligations
+3 under the Compact;
+4 b. The employment, compensation, discipline or other
+5 personnel matters, practices or procedures related to specific employees or
+6 other matters related to the Commission’s internal personnel practices and
+7 procedures;
+8 c. Current, threatened, or reasonably anticipated
+9 litigation;
+10 d. Negotiation of contracts for the purchase or sale of
+11 goods, services, or real estate;
+12 e. Accusing any person of a crime or formally censuring
+13 any person;
+14 f. Disclosure of trade secrets or commercial or financial
+15 information that is privileged or confidential;
+16 g. Disclosure of information of a personal nature where
+17 disclosure would constitute a clearly unwarranted invasion of personal
+18 privacy;
+19 h. Disclosure of investigatory records compiled for law
+20 enforcement purposes;
+21 i. Disclosure of information related to any investigatory
+22 reports prepared by or on behalf of or for use of the Commission or other
+23 committee charged with responsibility of investigation or determination of
+24 compliance issues pursuant to the compact; or
+25 j. Matters specifically exempted from disclosure by
+26 federal or member state statute.
+27 6. If a meeting, or portion of a meeting, is closed pursuant to
+28 this provision, the Commission’s legal counsel or designee shall certify that
+29 the meeting may be closed and shall reference each relevant exempting
+30 provision. The Commission shall keep minutes that fully and clearly describe
+31 all matters discussed in a meeting and shall provide a full and accurate
+32 summary of actions taken, and the reasons therefore, including a description
+33 of the views expressed. All documents considered in connection with an action
+34 shall be identified in such minutes. All minutes and documents of a closed
+35 meeting shall remain under seal, subject to release by a majority vote of the
+36 Commission or order of a court of competent jurisdiction.
+10 03-03-2025 10:28:20 JMB028
+
+As Engrossed: H2/26/25 H3/3/25 HB1253
+1 C. The Commission shall, by a majority vote of the delegates,
+2 prescribe bylaws and/or rules to govern its conduct as may be necessary or
+3 appropriate to carry out the purposes and exercise the powers of the compact,
+4 including but not limited to:
+5 1. Establishing the fiscal year of the Commission;
+6 2. Providing reasonable standards and procedures:
+7 a. for the establishment and meetings of other committees;
+8 and
+9 b. governing any general or specific delegation of any
+10 authority or function of the Commission;
+11 3. Providing reasonable procedures for calling and conducting
+12 meetings of the Commission, ensuring reasonable advance notice of all
+13 meetings, and providing an opportunity for attendance of such meetings by
+14 interested parties, with enumerated exceptions designed to protect the
+15 public’s interest, the privacy of individuals, and proprietary information,
+16 including trade secrets. The Commission may meet in closed session only after
+17 a majority of the membership votes to close a meeting in whole or in part. As
+18 soon as practicable, the Commission must make public a copy of the vote to
+19 close the meeting revealing the vote of each member with no proxy votes
+20 allowed;
+21 4. Establishing the titles, duties and authority, and reasonable
+22 procedures for the election of the officers of the Commission;
+23 5. Providing reasonable standards and procedures for the
+24 establishment of the personnel policies and programs of the Commission.
+25 Notwithstanding any civil service or other similar laws of any member state,
+26 the bylaws shall exclusively govern the personnel policies and programs of
+27 the Commission;
+28 6. Promulgating a code of ethics to address permissible and
+29 prohibited activities of Commission members and employees;
+30 7. Providing a mechanism for winding up the operations of the
+31 Commission and the equitable disposition of any surplus funds that may exist
+32 after the termination of the Compact after the payment and/or reserving of
+33 all of its debts and obligations;
+34 8. The Commission shall publish its bylaws and file a copy
+35 thereof, and a copy of any amendment thereto, with the appropriate agency or
+36 officer in each of the member states, if any.
+11 03-03-2025 10:28:20 JMB028
+
+As Engrossed: H2/26/25 H3/3/25 HB1253
+1 9. The Commission shall maintain its financial records in
+2 accordance with the bylaws.
+3 10. The Commission shall meet and take such actions as are
+4 consistent with the provisions of this Compact and the bylaws.
+5 D. The Commission shall have the following powers:
+6 1. The authority to promulgate uniform rules to facilitate and
+7 coordinate implementation and administration of this Compact. The rules shall
+8 have the force and effect of law and shall be binding in all member states;
+9 2. To bring and prosecute legal proceedings or actions in the
+10 name of the Commission, provided that the standing of any state EMS authority
+11 or other regulatory body responsible for EMS personnel licensure to sue or be
+12 sued under applicable law shall not be affected;
+13 3. To purchase and maintain insurance and bonds;
+14 4. To borrow, accept, or contract for services of personnel,
+15 including, but not limited to, employees of a member state;
+16 5. To hire employees, elect or appoint officers, fix
+17 compensation, define duties, grant such individuals appropriate authority to
+18 carry out the purposes of the compact, and to establish the Commission’s
+19 personnel policies and programs relating to conflicts of interest,
+20 qualifications of personnel, and other related personnel matters;
+21 6. To accept any and all appropriate donations and grants of
+22 money, equipment, supplies, materials and services, and to receive, utilize
+23 and dispose of the same; provided that at all times the Commission shall
+24 strive to avoid any appearance of impropriety and/or conflict of interest;
+25 7. To lease, purchase, accept appropriate gifts or donations of,
+26 or otherwise to own, hold, improve or use, any property, real, personal or
+27 mixed; provided that at all times the Commission shall strive to avoid any
+28 appearance of impropriety;
+29 8. To sell convey, mortgage, pledge, lease, exchange, abandon,
+30 or otherwise dispose of any property real, personal, or mixed;
+31 9. To establish a budget and make expenditures;
+32 10. To borrow money;
+33 11. To appoint committees, including advisory committees
+34 comprised of members, state regulators, state legislators or their
+35 representatives, and consumer representatives, and such other interested
+36 persons as may be designated in this compact and the bylaws;
+12 03-03-2025 10:28:20 JMB028
+
+As Engrossed: H2/26/25 H3/3/25 HB1253
+1 12. To provide and receive information from, and to cooperate
+2 with, law enforcement agencies;
+3 13. To adopt and use an official seal; and
+4 14. To perform such other functions as may be necessary or
+5 appropriate to achieve the purposes of this Compact consistent with the state
+6 regulation of EMS personnel licensure and practice.
+7 E. Financing of the Commission
+8 1. The Commission shall pay, or provide for the payment of, the
+9 reasonable expenses of its establishment, organization, and ongoing
+10 activities.
+11 2. The Commission may accept any and all appropriate revenue
+12 sources, donations, and grants of money, equipment, supplies, materials, and
+13 services.
+14 3. The Commission may levy on and collect an annual assessment
+15 from each member state or impose fees on other parties to cover the cost of
+16 the operations and activities of the Commission and its staff, which must be
+17 in a total amount sufficient to cover its annual budget as approved each year
+18 for which revenue is not provided by other sources. The aggregate annual
+19 assessment amount shall be allocated based upon a formula to be determined by
+20 the Commission, which shall promulgate a rule binding upon all member states.
+21 4. The Commission shall not incur obligations of any kind prior
+22 to securing the funds adequate to meet the same; nor shall the Commission
+23 pledge the credit of any of the member states, except by and with the
+24 authority of the member state.
+25 5. The Commission shall keep accurate accounts of all receipts
+26 and disbursements. The receipts and disbursements of the Commission shall be
+27 subject to the audit and accounting procedures established under its bylaws.
+28 However, all receipts and disbursements of funds handled by the Commission
+29 shall be audited yearly by a certified or licensed public accountant, and the
+30 report of the audit shall be included in and become part of the annual report
+31 of the Commission.
+32 F. Qualified Immunity, Defense, and Indemnification
+33 1. The members, officers, executive director, employees and
+34 representatives of the Commission shall be immune from suit and liability,
+35 either personally or in their official capacity, for any claim for damage to
+36 or loss of property or personal injury or other civil liability caused by or
+13 03-03-2025 10:28:20 JMB028
+
+As Engrossed: H2/26/25 H3/3/25 HB1253
+1 arising out of any actual or alleged act, error or omission that occurred, or
+2 that the person against whom the claim is made had a reasonable basis for
+3 believing occurred within the scope of Commission employment, duties or
+4 responsibilities; provided that nothing in this paragraph shall be construed
+5 to protect any such person from suit and/or liability for any damage, loss,
+6 injury, or liability caused by the intentional or willful or wanton
+7 misconduct of that person.
+8 2. The Commission shall defend any member, officer, executive
+9 director, employee or representative of the Commission in any civil action
+10 seeking to impose liability arising out of any actual or alleged act, error,
+11 or omission that occurred within the scope of Commission employment, duties,
+12 or responsibilities, or that the person against whom the claim is made had a
+13 reasonable basis for believing occurred within the scope of Commission
+14 employment, duties, or responsibilities; provided that nothing herein shall
+15 be construed to prohibit that person from retaining his or her own counsel;
+16 and provided further, that the actual or alleged act, error, or omission did
+17 not result from that person’s intentional or willful or wanton misconduct.
+18 3. The Commission shall indemnify and hold harmless any member,
+19 officer, executive director, employee, or representative of the Commission
+20 for the amount of any settlement or judgment obtained against that person
+21 arising out of any actual or alleged act, error or omission that occurred
+22 within the scope of Commission employment, duties, or responsibilities, or
+23 that such person had a reasonable basis for believing occurred within the
+24 scope of Commission employment, duties, or responsibilities, provided that
+25 the actual or alleged act, error, or omission did not result from the
+26 intentional or willful or wanton misconduct of that person.
+27
+28 SECTION 11. COORDINATED DATABASE
+29
+30 A. The Commission shall provide for the development and maintenance of
+31 a coordinated database and reporting system containing licensure, adverse
+32 action, and significant investigatory information on all licensed individuals
+33 in member states.
+34 B. Notwithstanding any other provision of state law to the contrary, a
+35 member state shall submit a uniform data set to the coordinated database on
+36 all individuals to whom this compact is applicable as required by the rules
+14 03-03-2025 10:28:20 JMB028
+
+As Engrossed: H2/26/25 H3/3/25 HB1253
+1 of the Commission, including:
+2 1. Identifying information;
+3 2. Licensure data;
+4 3. Significant investigatory information;
+5 4. Adverse actions against an individual’s license;
+6 5. An indicator that an individual’s privilege to practice is
+7 restricted, suspended or revoked;
+8 6. Non-confidential information related to alternative program
+9 participation;
+10 7. Any denial of application for licensure, and the reason(s)
+11 for such denial; and
+12 8. Other information that may facilitate the administration of
+13 this Compact, as determined by the rules of the Commission.
+14 C. The coordinated database administrator shall promptly notify all
+15 member states of any adverse action taken against, or significant
+16 investigative information on, any individual in a member state.
+17 D. Member states contributing information to the coordinated database
+18 may designate information that may not be shared with the public without the
+19 express permission of the contributing state.
+20 E. Any information submitted to the coordinated database that is
+21 subsequently required to be expunged by the laws of the member state
+22 contributing the information shall be removed from the coordinated database.
+23
+24 SECTION 12. RULEMAKING
+25
+26 A. The Commission shall exercise its rulemaking powers pursuant to the
+27 criteria set forth in this Section and the rules adopted thereunder. Rules
+28 and amendments shall become binding as of the date specified in each rule or
+29 amendment.
+30 B. If a majority of the legislatures of the member states rejects a
+31 rule, by enactment of a statute or resolution in the same manner used to
+32 adopt the Compact, then such rule shall have no further force and effect in
+33 any member state.
+34 C. Rules or amendments to the rules shall be adopted at a regular or
+35 special meeting of the Commission.
+36 D. Prior to promulgation and adoption of a final rule or rules by the
+15 03-03-2025 10:28:20 JMB028
+
+As Engrossed: H2/26/25 H3/3/25 HB1253
+1 Commission, and at least sixty (60) days in advance of the meeting at which
+2 the rule will be considered and voted upon, the Commission shall file a
+3 Notice of Proposed Rulemaking:
+4 1. On the website of the Commission; and
+5 2. On the website of each member state EMS authority or the
+6 publication in which each state would otherwise publish proposed rules.
+7 E. The Notice of Proposed Rulemaking shall include:
+8 1. The proposed time, date, and location of the meeting in which
+9 the rule will be considered and voted upon;
+10 2. The text of the proposed rule or amendment and the reason for
+11 the proposed rule;
+12 3. A request for comments on the proposed rule from any
+13 interested person; and
+14 4. The manner in which interested persons may submit notice to
+15 the Commission of their intention to attend the public hearing and any
+16 written comments.
+17 F. Prior to adoption of a proposed rule, the Commission shall allow
+18 persons to submit written data, facts, opinions, and arguments, which shall
+19 be made available to the public.
+20 G. The Commission shall grant an opportunity for a public hearing
+21 before it adopts a rule or amendment if a hearing is requested by:
+22 1. At least twenty-five (25) persons;
+23 2. A governmental subdivision or agency; or
+24 3. An association having at least twenty-five (25) members.
+25 H. If a hearing is held on the proposed rule or amendment, the
+26 Commission shall publish the place, time, and date of the scheduled public
+27 hearing.
+28 1. All persons wishing to be heard at the hearing shall notify
+29 the executive director of the Commission or other designated member in
+30 writing of their desire to appear and testify at the hearing not less than
+31 five (5) business days before the scheduled date of the hearing.
+32 2. Hearings shall be conducted in a manner providing each person
+33 who wishes to comment a fair and reasonable opportunity to comment orally or
+34 in writing.
+35 3. No transcript of the hearing is required, unless a written
+36 request for a transcript is made, in which case the person requesting the
+16 03-03-2025 10:28:20 JMB028
+
+As Engrossed: H2/26/25 H3/3/25 HB1253
+1 transcript shall bear the cost of producing the transcript. A recording may
+2 be made in lieu of a transcript under the same terms and conditions as a
+3 transcript. This subsection shall not preclude the Commission from making a
+4 transcript or recording of the hearing if it so chooses.
+5 4. Nothing in this section shall be construed as requiring a
+6 separate hearing on each rule. Rules may be grouped for the convenience of
+7 the Commission at hearings required by this section.
+8 I. Following the scheduled hearing date, or by the close of business
+9 on the scheduled hearing date if the hearing was not held, the Commission
+10 shall consider all written and oral comments received.
+11 J. The Commission shall, by majority vote of all members, take final
+12 action on the proposed rule and shall determine the effective date of the
+13 rule, if any, based on the rulemaking record and the full text of the rule.
+14 K. If no written notice of intent to attend the public hearing by
+15 interested parties is received, the Commission may proceed with promulgation
+16 of the proposed rule without a public hearing.
+17 L. Upon determination that an emergency exists, the Commission may
+18 consider and adopt an emergency rule without prior notice, opportunity for
+19 comment, or hearing, provided that the usual rulemaking procedures provided
+20 in the Compact and in this section shall be retroactively applied to the rule
+21 as soon as reasonably possible, in no event later than ninety (90) days after
+22 the effective date of the rule. For the purposes of this provision, an
+23 emergency rule is one that must be adopted immediately in order to:
+24 1. Meet an imminent threat to public health, safety, or welfare;
+25 2. Prevent a loss of Commission or member state funds;
+26 3. Meet a deadline for the promulgation of an administrative
+27 rule that is established by federal law or rule; or
+28 4. Protect public health and safety.
+29 M. The Commission or an authorized committee of the Commission may
+30 direct revisions to a previously adopted rule or amendment for purposes of
+31 correcting typographical errors, errors in format, errors in consistency, or
+32 grammatical errors. Public notice of any revisions shall be posted on the
+33 website of the Commission. The revision shall be subject to challenge by any
+34 person for a period of thirty (30) days after posting. The revision may be
+35 challenged only on grounds that the revision results in a material change to
+36 a rule. A challenge shall be made in writing, and delivered to the chair of
+17 03-03-2025 10:28:20 JMB028
+
+As Engrossed: H2/26/25 H3/3/25 HB1253
+1 the Commission prior to the end of the notice period. If no challenge is
+2 made, the revision will take effect without further action. If the revision
+3 is challenged, the revision may not take effect without the approval of the
+4 Commission.
+5
+6 SECTION 13. OVERSIGHT, DISPUTE RESOLUTION, AND ENFORCEMENT
+7
+8 A. Oversight
+9 1. The executive, legislative, and judicial branches of state
+10 government in each member state shall enforce this compact and take all
+11 actions necessary and appropriate to effectuate the compact’s purposes and
+12 intent. The provisions of this compact and the rules promulgated hereunder
+13 shall have standing as statutory law.
+14 2. All courts shall take judicial notice of the compact and the
+15 rules in any judicial or administrative proceeding in a member state
+16 pertaining to the subject matter of this compact which may affect the powers,
+17 responsibilities or actions of the Commission.
+18 3. The Commission shall be entitled to receive service of
+19 process in any such proceeding, and shall have standing to intervene in such
+20 a proceeding for all purposes. Failure to provide service of process to the
+21 Commission shall render a judgment or order void as to the Commission, this
+22 Compact, or promulgated rules.
+23 B. Default, Technical Assistance, and Termination
+24 1. If the Commission determines that a member state has
+25 defaulted in the performance of its obligations or responsibilities under
+26 this compact or the promulgated rules, the Commission shall:
+27 a. Provide written notice to the defaulting state and
+28 other member states of the nature of the default, the proposed means of
+29 curing the default and/or any other action to be taken by the Commission; and
+30 b. Provide remedial training and specific technical
+31 assistance regarding the default.
+32 2. If a state in default fails to cure the default, the
+33 defaulting state may be terminated from the Compact upon an affirmative vote
+34 of a majority of the member states, and all rights, privileges and benefits
+35 conferred by this compact may be terminated on the effective date of
+36 termination. A cure of the default does not relieve the offending state of
+18 03-03-2025 10:28:20 JMB028
+
+As Engrossed: H2/26/25 H3/3/25 HB1253
+1 obligations or liabilities incurred during the period of default.
+2 3. Termination of membership in the compact shall be imposed
+3 only after all other means of securing compliance have been exhausted. Notice
+4 of intent to suspend or terminate shall be given by the Commission to the
+5 governor, the majority and minority leaders of the defaulting state’s
+6 legislature, and each of the member states.
+7 4. A state that has been terminated is responsible for all
+8 assessments, obligations, and liabilities incurred through the effective date
+9 of termination, including obligations that extend beyond the effective date
+10 of termination.
+11 5. The Commission shall not bear any costs related to a state
+12 that is found to be in default or that has been terminated from the compact,
+13 unless agreed upon in writing between the Commission and the defaulting
+14 state.
+15 6. The defaulting state may appeal the action of the Commission
+16 by petitioning the U.S. District Court for the District of Columbia or the
+17 federal district where the Commission has its principal offices. The
+18 prevailing member shall be awarded all costs of such litigation, including
+19 reasonable attorney’s fees.
+20 C. Dispute Resolution
+21 1. Upon request by a member state, the Commission shall attempt
+22 to resolve disputes related to the compact that arise among member states and
+23 between member and non-member states.
+24 2. The Commission shall promulgate a rule providing for both
+25 mediation and binding dispute resolution for disputes as appropriate.
+26 D. Enforcement
+27 1. The Commission, in the reasonable exercise of its discretion,
+28 shall enforce the provisions and rules of this compact.
+29 2. By majority vote, the Commission may initiate legal action in
+30 the United States District Court for the District of Columbia or the federal
+31 district where the Commission has its principal offices against a member
+32 state in default to enforce compliance with the provisions of the compact and
+33 its promulgated rules and bylaws. The relief sought may include both
+34 injunctive relief and damages. In the event judicial enforcement is
+35 necessary, the prevailing member shall be awarded all costs of such
+36 litigation, including reasonable attorney’s fees.
+19 03-03-2025 10:28:20 JMB028
+
+As Engrossed: H2/26/25 H3/3/25 HB1253
+1 3. The remedies herein shall not be the exclusive remedies of
+2 the Commission. The Commission may pursue any other remedies available under
+3 federal or state law.
+4
+5 SECTION 14. DATE OF IMPLEMENTATION OF THE INTERSTATE COMMISSION FOR EMS
+6 PERSONNEL PRACTICE AND ASSOCIATED RULES, WITHDRAWAL, AND AMENDMENT
+7
+8 A. The compact shall come into effect on the date on which the compact
+9 statute is enacted into law in the tenth member state. The provisions, which
+10 become effective at that time, shall be limited to the powers granted to the
+11 Commission relating to assembly and the promulgation of rules. Thereafter,
+12 the Commission shall meet and exercise rulemaking powers necessary to the
+13 implementation and administration of the compact.
+14 B. Any state that joins the compact subsequent to the Commission’s
+15 initial adoption of the rules shall be subject to the rules as they exist on
+16 the date on which the compact becomes law in that state. Any rule that has
+17 been previously adopted by the Commission shall have the full force and
+18 effect of law on the day the compact becomes law in that state.
+19 C. Any member state may withdraw from this compact by enacting a
+20 statute repealing the same.
+21 1. A member state’s withdrawal shall not take effect until six
+22 (6) months after enactment of the repealing statute.
+23 2. Withdrawal shall not affect the continuing requirement of the
+24 withdrawing state’s EMS authority to comply with the investigative and
+25 adverse action reporting requirements of this act prior to the effective date
+26 of withdrawal.
+27 D. Nothing contained in this compact shall be construed to invalidate
+28 or prevent any EMS personnel licensure agreement or other cooperative
+29 arrangement between a member state and a non-member state that does not
+30 conflict with the provisions of this compact.
+31 E. This Compact may be amended by the member states. No amendment to
+32 this Compact shall become effective and binding upon any member state until
+33 it is enacted into the laws of all member states.
+34
+35 SECTION 15. CONSTRUCTION AND SEVERABILITY
+36
+20 03-03-2025 10:28:20 JMB028
+
+As Engrossed: H2/26/25 H3/3/25 HB1253
+1 This Compact shall be liberally construed so as to effectuate the purposes
+2 thereof. If this compact shall be held contrary to the constitution of any
+3 state member thereto, the compact shall remain in full force and effect as to
+4 the remaining member states. Nothing in this compact supersedes state law or
+5 rules related to licensure of EMS agencies.
+6
+7 20-13-1902. Administration of compact — Rules.
+8 (a) The Department of Health is the Emergency Medical Services
+9 Personnel Licensure Interstate Compact administrator in this state.
+10 (b) The department may adopt rules consistent with the compact that
+11 are necessary to implement this subchapter.
+12 (c) The department is not required to adopt the rules of the
+13 Interstate Commission for EMS Personnel Practice for those rules to be
+14 effective in this state.
+15 (d) For the purposes of the member state's ability to reject a rule
+16 under Section 12(B) of the Emergency Medical Services Personnel Licensure
+17 Interstate Compact, Arkansas delegates its authority in this provision to the
+18 General Assembly or the Legislative Council.
+19
+20 SECTION 2. Arkansas Code § 20-13-1102 is amended to read as follows:
+21 20-13-1102. Mandatory criminal history checks for emergency medical
+22 services personnel.
+23 (a)(1) Any applicant applying for initial licensure shall complete a
+24 criminal history check form and shall request the Identification Bureau of
+25 the Division of Arkansas State Police to conduct a state or and national
+26 criminal history check, or both, on the applicant.
+27 (2) The applicant shall pay all appropriate fees for the state
+28 or and national criminal history check, or both, as set forth by the bureau.
+29 (3) The applicant shall attach the criminal history check form
+30 to the Arkansas emergency medical services personnel licensure application.
+31 (b) The Division of Emergency Medical Services of the Department of
+32 Health shall conduct a state or and national criminal history check, or both,
+33 on the applicant and determine whether the applicant is disqualified from
+34 licensure based on the report of the applicant's criminal history and forward
+35 its determination to the applicant directly.
+36
+21 03-03-2025 10:28:20 JMB028
+
+As Engrossed: H2/26/25 H3/3/25 HB1253
+1 SECTION 3. Arkansas Code § 20-13-1104 is amended to read as follows:
+2 20-13-1104. Form — State and national criminal history check.
+3 (a) A request for a state or and national criminal history check, or
+4 both, on a person shall include a completed form as required by the
+5 Identification Bureau of the Division of Arkansas State Police and by the
+6 Federal Bureau of Investigation.
+7 (b) If an applicant is requesting initial Arkansas emergency medical
+8 services personnel licensure and can provide proof of continuous residency in
+9 the State of Arkansas for the past five (5) years, then the applicant shall
+10 be required to have only a state criminal history check completed.
+11 (c) If an applicant is requesting initial Arkansas emergency medical
+12 services personnel licensure and is from another state or if the applicant
+13 cannot provide proof of continuous residency in the State of Arkansas for the
+14 past five (5) years, the applicant shall be required to have both a state and
+15 a national criminal history check completed.
+16 (b) The criminal history check shall conform to the applicable federal
+17 standards and shall include the taking of fingerprints.
+18 (c) Upon completion of the criminal history check, the Identification
+19 Bureau of the Division of Arkansas State Police shall forward to the
+20 Department of Health all releasable information obtained concerning the
+21 applicant.
+22 (d)(1) Any information received by the department from the
+23 Identification Bureau of the Division of Arkansas State Police under this
+24 section shall not be available for examination except by:
+25 (A) The affected applicant for licensure or his or her
+26 authorized representative; or
+27 (B) The person whose license is subject to revocation or
+28 his or her authorized representative.
+29 (2) A record, file, or document shall not be removed from the
+30 custody of the Identification Bureau of the Division of Arkansas State
+31 Police.
+32 (e) Any information made available to the affected applicant for
+33 licensure or the person whose license is subject to revocation shall be
+34 information pertaining to that person only.
+35 (f) Rights of privilege and confidentiality established in this
+36 section shall not extend to a document created for purposes other than the
+22 03-03-2025 10:28:20 JMB028
+
+As Engrossed: H2/26/25 H3/3/25 HB1253
+1 criminal history check.
+2 (g) The department shall adopt the necessary rules to implement this
+3 section.
+4 (h)(1) The department may participate at the state and federal level
+5 in programs that provide notification of an arrest subsequent to an initial
+6 criminal history check that is conducted through available governmental
+7 systems.
+8 (2) The department may submit an applicant's fingerprints to the
+9 federal Next Generation Identification system.
+10 (3) The fingerprints may be searched against future submissions
+11 to the federal Next Generation Identification system, including latent
+12 fingerprint searches.
+13 (4) An applicant enrolled in the federal Next Generation
+14 Identification system is not required to re-fingerprint when a subsequent
+15 request for a state or federal criminal history check is required if:
+16 (A) A legible set of the applicant's fingerprints is
+17 obtained when the applicant enrolls in the federal Next Generation
+18 Identification system; and
+19 (B) The applicant is subject to the Rap Back service of
+20 the federal Next Generation Identification system.
+21 (i) The Identification Bureau of the Division of Arkansas State Police
+22 and the Federal Bureau of Investigation may maintain fingerprints in the
+23 Integrated Automated Fingerprint Identification System.
+24
+25 /s/L. Johnson
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+23 03-03-2025 10:28:20 JMB028
+
+[DELETED:  A       A P A   T P I  B   S a S C   2  T i j  R C  E  S]
+[DELETED:  H2 0  I a e t f i a r r h t p p  1  2 s  3 p  4 a  5 r i  6 i  7 a  S  I  A i c N]
+[DELETED:  H3 0  B c l b r l o e  C s  D c d  E s  F w l P  G t  H p  I w  J  K d c  L a E  M l  N l]
+[DELETED:  H4 0  O p a t t s  P s W t  Q   1 a r w t   2 r w  R t  S w  S   A s  B l n  C r   1 E i]
+[DELETED:  H5 0   2 c   3 o i   4 r i c w a p  5  S   A i S  B p   1   2 a o   3  C p b t  D p a l t h]
+[DELETED:  H6 0 p  E s u r  F r p r  S  A o a t  1 t  2 s t  3 t  4 p  5 c  S  U d a t s i]
+[DELETED:  H7 0  S A   A m a u b f  B a m t  C S  S   A a  B s u r   1 s m a   2 s a  C t r  D]
+[DELETED:  H8 0 t  E p m s  F a c l  G t a m a d s  S  A s  1 t S t s j s s b l  2 i  S P]
+[DELETED:  H9 0   A a   1 t   2 C j C a p   3 s  B   1 d s m f C w o a e   2 t a A b t   3 y   4 o r   5]
+[DELETED:  H1 0 t    a u    b p o p    c l    d g    e a    f i    g d p    h e    i r c c    j f   6 t t p a s o s m C]
+[DELETED:  H1 0  C p a i   1   2    a a    b a   3 m m i p i a s c a   4 p   5 e N t t   6 p   7 C a a   8 t o]
+[DELETED:  H1 0   9 a   1 c  D   1 c h   2 n o s   3   4 i   5 c c p q   6 m a s   7 o m a   8 o   9   1   1 c r p]
+[DELETED:  H1 0   1 w   1   1 a r  E   1 r a   2 s s   3 f t i f a t   4 t p a   5 a s H s r o  F   1 r e o]
+[DELETED:  H1 0 a t b r t i m   2 d s o o r e b a n   3 o f a w t s t i  S   A a a i  B m a]
+[DELETED:  H1 0 o   1   2   3   4   5 r   6 p   7 f   8 t  C m i  D m e  E s c  S   A c a a  B r a a  C s  D]
+[DELETED:  H1 0 C t N   1   2 p  E   1 t   2 t   3 i   4 t w  F p b  G b   1   2   3  H C h   1 t w f   2 w i   3 r]
+[DELETED:  H1 0 t b t t   4 s t  I o s  J a r  K i o  L c c i a t e   1   2   3 r   4  M d c g w p c a]
+[DELETED:  H1 0 t m i C  S   A   1 g a i s   2 r p r   3 p a C C  B   1 d t    a o c    b a   2 d o c t]
+[DELETED:  H1 0 o   3 o o g l   4 a o o   5 t u s   6 b f p r  C   1 t b   2 m  D   1 s   2 t d s i i n l]
+[DELETED:  H2 0   3 t f  S P   A s b C t i  B i t b e  C s   1 (   2 w a o  D o a c  E t i  S ]
+[DELETED:  H2 0 T t s t r   2  ( P  ( a  ( I e  ( u I G   S  2 s  ( c t c   ( o   ( t  ( H o l i ]
+[DELETED:  H2 0  S  2  ( b I F  ( s t b  ( s c p a  ( s  ( B D a  ( I s    ( a    ( h   ( c P  ( l i  ( s]
+[DELETED:  H2 0 c  ( s  ( i c s   ( f   ( t f   ( I r    ( o I    ( t  ( a I  /           ]

@@ -1,0 +1,338 @@
+Title: Stricken language would be deleted from and underlined language would be added to present law.
+Official Title: Stricken language would be deleted from and underlined language would be added to present law.
+Number of Sections: 1
+Source: versions - HB 1869
+Media Type: application/pdf
+Strikethrough Detection: 4 sections found
+
+================================================================================
+
+Section 1:
+1 State of Arkansas As Engrossed: H4/7/25
+A Bill
+2 95th General Assembly
+3 Regular Session, 2025 HOUSE BILL 1869
+4
+5 By: Representative L. Johnson
+6 By: Senator Irvin
+7
+For An Act To Be Entitled
+8
+9 AN ACT TO CREATE THE MATERNAL OUTCOMES MANAGEMENT
+10 SYSTEM WITHIN THE DEPARTMENT OF HEALTH; TO ORGANIZE
+11 MATERNAL HEALTH RESOURCES; AND FOR OTHER PURPOSES.
+12
+13
+Subtitle
+14
+15 TO CREATE THE MATERNAL OUTCOMES
+16 MANAGEMENT SYSTEM WITHIN THE DEPARTMENT
+17 OF HEALTH; AND TO ORGANIZE MATERNAL
+18 HEALTH RESOURCES.
+19
+20 BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF ARKANSAS:
+21
+22 SECTION 1. Arkansas Code Title 20, Chapter 16, is amended to add an
+23 additional subchapter to read as follows:
+24 Subchapter 26 — Maternal Outcomes Management System
+25
+26 20-16-2601. Legislative intent.
+27 It is the intent of this subchapter to establish a comprehensive
+28 statewide system of care addressing maternal health by organizing resources,
+29 educating providers and patients, incentivizing best practices, and
+30 collecting critical data to drive improvement.
+31
+32 20-16-2602. Maternal Outcomes Management System.
+33 (a) The Department of Health shall create a comprehensive statewide
+34 system of care addressing maternal health to be called the "Maternal Outcomes
+35 Management System".
+36 (b) The Maternal Outcomes Management System shall without limitation:
+*JMB578*
+04-07-2025 10:25:54 JMB578
+As Engrossed: H4/7/25 HB1869
+1 (1)(A) Research and organize maternal health resources.
+2 (B) The Department of Health, in conjunction with other
+3 state agencies as appropriate, shall maintain on the website of the
+4 Department of Health resources pertaining to maternal health including
+5 without limitation information regarding:
+6 (i) Enrollment in the Arkansas Medicaid Program;
+7 (ii) Lactation education;
+8 (iii) Provider access;
+9 (iv) Transportation resources;
+10 (v) Maternal health education; and
+11 (vi) Local community support services;
+12 (2) Provide education to patients and clinicians regarding
+13 maternal health issues;
+14 (3) Incentivize best practices for maternal health through the
+15 grant program described in § 20-16-2603;
+16 (4) In conjunction with the Arkansas Hospital Association, the
+17 Department of Human Services, and the Department of Health, collect data
+18 concerning maternal health from birthing and delivery hospitals to promote
+19 best practices and to identify opportunities for improvement in maternal
+20 health care;
+21 (5) Develop a platform for structured peer review; and
+22 (6) Coordinate care through the continuum of services needed to
+23 ensure the best maternal health outcomes.
+24 (c) The activities of the Maternal Outcomes Management System under
+25 this section and the additional requirements under this subchapter are
+26 contingent upon the availability and appropriation of funding.
+27
+28 20-16-2603. Grants for birthing and delivery hospitals — Designation
+29 system.
+30 (a)(1) As part of the Maternal Outcomes Management System, the
+31 Department of Health shall establish a grant program for birthing and
+32 delivery hospitals that includes a designation system for birthing and
+33 delivery hospitals based on the individual hospital's capability to provide
+34 clinical care for pregnant women.
+35 (2) The department shall:
+36 (A) Accept applications from birthing and delivery
+2 04-07-2025 10:25:54 JMB578
+As Engrossed: H4/7/25 HB1869
+1 hospitals to participate in the grant program under subdivision (a)(1) of
+2 this section;
+3 (B) Determine conditions for designation in the grant
+4 program under subdivision (a)(1) of this section; and
+5 (C) Set the time frame for review and renewal of the
+6 applications under subdivision (a)(2)(A) of this section.
+7 (3) The designation system for birthing and delivery hospitals
+8 described in subdivision (a)(1) of this section shall:
+9 (A) Be in accordance with the levels of maternal care from
+10 the American College of Obstetricians and Gynecologists, as existing on
+11 January 1, 2025; and
+12 (B) Evaluate the capabilities of a hospital to deliver
+13 high-quality maternity care and ensure that all mothers receive the
+14 appropriate level of care.
+15 (4) The birthing and delivery hospitals under subdivision (a)(1)
+16 of this section shall be organized into the appropriate hospital regions to
+17 meet regularly as determined by the department to discuss maternal health
+18 data and to provide a forum for regional peer review and performance feedback
+19 to and from the department and the birthing and delivery hospitals.
+20 (b) To qualify for a grant under the grant program established under
+21 subsection (a) of this section, a birthing and delivery hospital shall meet
+22 requirements set by the department including without limitation:
+23 (1) Community outreach and education;
+24 (2) Clinician education on maternal health;
+25 (3) Peer review of all birthing and delivery complications;
+26 (4) Participation in regional meetings of birthing and delivery
+27 hospitals;
+28 (5) An on-site maternal health coordinator;
+29 (6) Local site visits from inspectors of the department; and
+30 (7) Achievement of certain clinical metrics consistent with
+31 evidence-based practices proven to improve maternal health outcomes.
+32 (c) A grant under this section shall be distributed in a manner that
+33 provides the greatest financial support to birthing and delivery hospitals
+34 with the fewest resources.
+35 (d) The department may promulgate rules to implement this section.
+36
+3 04-07-2025 10:25:54 JMB578
+As Engrossed: H4/7/25 HB1869
+1 20-16-2604. MOMS Care Connect — Coordinating call center.
+2 The Department of Health shall establish a call center to be called the
+3 "MOMS Care Connect" to operate in conjunction with the Arkansas Trauma Call
+4 Center and to coordinate transfers of pregnant women between hospitals to
+5 ensure an appropriate level of care is provided.
+6
+7 20-16-2605. Postpartum Support Hotline — Post-delivery call center.
+8 (a)(1) The Department of Health shall establish a call center to be
+9 called the "Postpartum Support Hotline" to proactively reach out to mothers
+10 post-delivery.
+11 (2) The call center established in this section shall be
+12 separate from MOMS Care Connect established under § 20-16-2604.
+13 (3) The department may partner with another state entity or an
+14 institution of higher education to establish the call center established in
+15 this section.
+16 (b) The call center under this section shall screen mothers through a
+17 standardized questionnaire developed by the department to determine which
+18 mothers need follow-up information, including without limitation information
+19 regarding:
+20 (1) The mental well-being of the mother;
+21 (2) Access to follow-up healthcare;
+22 (3) Lactation or feeding concerns;
+23 (4) Healthy sleep for infants; and
+24 (5) Screening for certain medical conditions.
+25 (c) The call center under this section shall provide connections
+26 directly to resources to support mothers identified as needing follow-up
+27 information.
+28
+29 /s/L. Johnson
+30
+31
+32
+33
+34
+35
+36
+4 04-07-2025 10:25:54 JMB578
+[DELETED:  A       A S M   T M O H  B   S a S   2  I s e c   2  ( s M  (]
+[DELETED:  H2 0   (    ( s D w     (     (     (     (     (     (   ( m   ( g   ( D c b h   (   ( e  ( t c   2 s  ( D d d c   (    (]
+[DELETED:  H3 0 h t    ( p    ( a   ( d    ( t J    ( h a   ( o m d t  ( s r   (   (   (   ( h   (   (   ( e  ( p w  ( ]
+[DELETED:  H4 0  2  T " C e   2  ( c p   ( s   ( i t  ( s m r   (   (   (   (   (  ( d i  /       ]
+
+
+================================================================================
+
+Raw Text:
+Stricken language would be deleted from and underlined language would be added to present law.
+1 State of Arkansas As Engrossed: H4/7/25
+A Bill
+2 95th General Assembly
+3 Regular Session, 2025 HOUSE BILL 1869
+4
+5 By: Representative L. Johnson
+6 By: Senator Irvin
+7
+For An Act To Be Entitled
+8
+9 AN ACT TO CREATE THE MATERNAL OUTCOMES MANAGEMENT
+10 SYSTEM WITHIN THE DEPARTMENT OF HEALTH; TO ORGANIZE
+11 MATERNAL HEALTH RESOURCES; AND FOR OTHER PURPOSES.
+12
+13
+Subtitle
+14
+15 TO CREATE THE MATERNAL OUTCOMES
+16 MANAGEMENT SYSTEM WITHIN THE DEPARTMENT
+17 OF HEALTH; AND TO ORGANIZE MATERNAL
+18 HEALTH RESOURCES.
+19
+20 BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF ARKANSAS:
+21
+22 SECTION 1. Arkansas Code Title 20, Chapter 16, is amended to add an
+23 additional subchapter to read as follows:
+24 Subchapter 26 — Maternal Outcomes Management System
+25
+26 20-16-2601. Legislative intent.
+27 It is the intent of this subchapter to establish a comprehensive
+28 statewide system of care addressing maternal health by organizing resources,
+29 educating providers and patients, incentivizing best practices, and
+30 collecting critical data to drive improvement.
+31
+32 20-16-2602. Maternal Outcomes Management System.
+33 (a) The Department of Health shall create a comprehensive statewide
+34 system of care addressing maternal health to be called the "Maternal Outcomes
+35 Management System".
+36 (b) The Maternal Outcomes Management System shall without limitation:
+*JMB578*
+04-07-2025 10:25:54 JMB578
+
+As Engrossed: H4/7/25 HB1869
+1 (1)(A) Research and organize maternal health resources.
+2 (B) The Department of Health, in conjunction with other
+3 state agencies as appropriate, shall maintain on the website of the
+4 Department of Health resources pertaining to maternal health including
+5 without limitation information regarding:
+6 (i) Enrollment in the Arkansas Medicaid Program;
+7 (ii) Lactation education;
+8 (iii) Provider access;
+9 (iv) Transportation resources;
+10 (v) Maternal health education; and
+11 (vi) Local community support services;
+12 (2) Provide education to patients and clinicians regarding
+13 maternal health issues;
+14 (3) Incentivize best practices for maternal health through the
+15 grant program described in § 20-16-2603;
+16 (4) In conjunction with the Arkansas Hospital Association, the
+17 Department of Human Services, and the Department of Health, collect data
+18 concerning maternal health from birthing and delivery hospitals to promote
+19 best practices and to identify opportunities for improvement in maternal
+20 health care;
+21 (5) Develop a platform for structured peer review; and
+22 (6) Coordinate care through the continuum of services needed to
+23 ensure the best maternal health outcomes.
+24 (c) The activities of the Maternal Outcomes Management System under
+25 this section and the additional requirements under this subchapter are
+26 contingent upon the availability and appropriation of funding.
+27
+28 20-16-2603. Grants for birthing and delivery hospitals — Designation
+29 system.
+30 (a)(1) As part of the Maternal Outcomes Management System, the
+31 Department of Health shall establish a grant program for birthing and
+32 delivery hospitals that includes a designation system for birthing and
+33 delivery hospitals based on the individual hospital's capability to provide
+34 clinical care for pregnant women.
+35 (2) The department shall:
+36 (A) Accept applications from birthing and delivery
+2 04-07-2025 10:25:54 JMB578
+
+As Engrossed: H4/7/25 HB1869
+1 hospitals to participate in the grant program under subdivision (a)(1) of
+2 this section;
+3 (B) Determine conditions for designation in the grant
+4 program under subdivision (a)(1) of this section; and
+5 (C) Set the time frame for review and renewal of the
+6 applications under subdivision (a)(2)(A) of this section.
+7 (3) The designation system for birthing and delivery hospitals
+8 described in subdivision (a)(1) of this section shall:
+9 (A) Be in accordance with the levels of maternal care from
+10 the American College of Obstetricians and Gynecologists, as existing on
+11 January 1, 2025; and
+12 (B) Evaluate the capabilities of a hospital to deliver
+13 high-quality maternity care and ensure that all mothers receive the
+14 appropriate level of care.
+15 (4) The birthing and delivery hospitals under subdivision (a)(1)
+16 of this section shall be organized into the appropriate hospital regions to
+17 meet regularly as determined by the department to discuss maternal health
+18 data and to provide a forum for regional peer review and performance feedback
+19 to and from the department and the birthing and delivery hospitals.
+20 (b) To qualify for a grant under the grant program established under
+21 subsection (a) of this section, a birthing and delivery hospital shall meet
+22 requirements set by the department including without limitation:
+23 (1) Community outreach and education;
+24 (2) Clinician education on maternal health;
+25 (3) Peer review of all birthing and delivery complications;
+26 (4) Participation in regional meetings of birthing and delivery
+27 hospitals;
+28 (5) An on-site maternal health coordinator;
+29 (6) Local site visits from inspectors of the department; and
+30 (7) Achievement of certain clinical metrics consistent with
+31 evidence-based practices proven to improve maternal health outcomes.
+32 (c) A grant under this section shall be distributed in a manner that
+33 provides the greatest financial support to birthing and delivery hospitals
+34 with the fewest resources.
+35 (d) The department may promulgate rules to implement this section.
+36
+3 04-07-2025 10:25:54 JMB578
+
+As Engrossed: H4/7/25 HB1869
+1 20-16-2604. MOMS Care Connect — Coordinating call center.
+2 The Department of Health shall establish a call center to be called the
+3 "MOMS Care Connect" to operate in conjunction with the Arkansas Trauma Call
+4 Center and to coordinate transfers of pregnant women between hospitals to
+5 ensure an appropriate level of care is provided.
+6
+7 20-16-2605. Postpartum Support Hotline — Post-delivery call center.
+8 (a)(1) The Department of Health shall establish a call center to be
+9 called the "Postpartum Support Hotline" to proactively reach out to mothers
+10 post-delivery.
+11 (2) The call center established in this section shall be
+12 separate from MOMS Care Connect established under § 20-16-2604.
+13 (3) The department may partner with another state entity or an
+14 institution of higher education to establish the call center established in
+15 this section.
+16 (b) The call center under this section shall screen mothers through a
+17 standardized questionnaire developed by the department to determine which
+18 mothers need follow-up information, including without limitation information
+19 regarding:
+20 (1) The mental well-being of the mother;
+21 (2) Access to follow-up healthcare;
+22 (3) Lactation or feeding concerns;
+23 (4) Healthy sleep for infants; and
+24 (5) Screening for certain medical conditions.
+25 (c) The call center under this section shall provide connections
+26 directly to resources to support mothers identified as needing follow-up
+27 information.
+28
+29 /s/L. Johnson
+30
+31
+32
+33
+34
+35
+36
+4 04-07-2025 10:25:54 JMB578
+
+[DELETED:  A       A S M   T M O H  B   S a S   2  I s e c   2  ( s M  (]
+[DELETED:  H2 0   (    ( s D w     (     (     (     (     (     (   ( m   ( g   ( D c b h   (   ( e  ( t c   2 s  ( D d d c   (    (]
+[DELETED:  H3 0 h t    ( p    ( a   ( d    ( t J    ( h a   ( o m d t  ( s r   (   (   (   ( h   (   (   ( e  ( p w  ( ]
+[DELETED:  H4 0  2  T " C e   2  ( c p   ( s   ( i t  ( s m r   (   (   (   (   (  ( d i  /       ]

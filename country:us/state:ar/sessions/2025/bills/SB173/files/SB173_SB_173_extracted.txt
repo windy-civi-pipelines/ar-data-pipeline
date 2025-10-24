@@ -1,0 +1,259 @@
+Title: Stricken language would be deleted from and underlined language would be added to present law.
+Official Title: Stricken language would be deleted from and underlined language would be added to present law.
+Number of Sections: 1
+Source: versions - SB 173
+Media Type: application/pdf
+Strikethrough Detection: 3 sections found
+
+================================================================================
+
+Section 1:
+1 State of Arkansas
+A Bill
+2 95th General Assembly
+3 Regular Session, 2025 SENATE BILL 173
+4
+5 By: Senators C. Tucker, J. Bryant
+6 By: Representatives Gazaway, M. Shepherd
+7
+For An Act To Be Entitled
+8
+9 AN ACT TO MAKE TECHNICAL CORRECTIONS TO TITLE 7 OF
+10 THE ARKANSAS CODE CONCERNING ELECTIONS; AND FOR OTHER
+11 PURPOSES.
+12
+13
+Subtitle
+14
+15 TO MAKE TECHNICAL CORRECTIONS TO TITLE 7
+16 OF THE ARKANSAS CODE CONCERNING
+17 ELECTIONS.
+18
+19 BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF ARKANSAS:
+20
+21 SECTION 1. Arkansas Code § 7-5-615(d), concerning the tabulation of
+22 votes and the duplication of damaged or defective ballots, is reenacted to
+23 ratify the decision by the Arkansas Code Revision Commission to merge Acts
+24 2023, No. 444, § 6, and Acts 2023, No. 460, § 1.
+25 (d)(1) If any ballot is damaged or defective so that it cannot
+26 properly be counted by the electronic vote tabulating device, a true
+27 duplicate copy shall be made of the damaged ballot.
+28 (2) When duplicating a ballot, and in the presence of another
+29 election official and designated poll watchers, if any, an election official
+30 shall:
+31 (A) Reproduce the selections of the voter on a second
+32 ballot that is the same ballot style as the ballot cast by the voter;
+33 (B) Stamp or write the word “duplicate” on the duplicated
+34 ballot;
+35 (C) Stamp or write the word “original” on the original
+36 damaged or defective ballot;
+*SSS003*
+01/31/2025 10:16:37 AM SSS003
+SB173
+1 (D) Label both the original damaged or defective ballot
+2 and the duplicate ballot with the same unique serial number;
+3 (E) Substitute the duplicated ballot for the original
+4 damaged or defective ballot;
+5 (F) Count the duplicated ballots in the same manner as
+6 other ballots in that election; and
+7 (G) Secure and separately store the original damaged or
+8 defective ballots in the same manner as other ballots in that election.
+9 (3) The duplication of a damaged or defective ballot counted at
+10 the central counting facility shall be conducted by an election official at
+11 the same time and location that ballots with no defects are counted.
+12 (4) The duplication of a damaged or defective ballot cast at a
+13 polling site shall be delivered securely to the county board of election
+14 commissioners to be duplicated by election officials or added to the
+15 precinct's count manually on the night of the election.
+16 (5) An election official under subdivision (d)(2) of this
+17 section shall maintain a recorded count of damaged ballots to be duplicated
+18 in the presence of authorized poll watchers, if any, and provide the report
+19 to the county board of election commissioners.
+20
+21 SECTION 2. Arkansas Code § 7-6-220(a)(1)(A), concerning reporting of
+22 independent expenditures, is reenacted to ratify the decision by the Arkansas
+23 Code Revision Commission to change "five-hundred-dollar" to "two-hundred-
+24 dollar" in order to correct a reference error.
+25 (1)(A) No later than fifteen (15) days following the month in
+26 which the two-hundred-dollar threshold required under this section is met,
+27 the first financial report shall be filed.
+28
+29 SECTION 3. Arkansas Code § 7-9-127(a)(6), concerning interference with
+30 initiative petitions and proposed measures, is reenacted to ratify the
+31 decision by the Arkansas Code Revision Commission to change the ending
+32 conjunction from “and” to “or”.
+33 (6) Misrepresents the purpose and effect of the petition or the
+34 measure affected for the purpose of causing a person to not sign a petition
+35 when acting as a canvasser; or
+36
+2 01/31/2025 10:16:37 AM SSS003
+SB173
+1 SECTION 4. DO NOT CODIFY. CONSTRUCTION AND LEGISLATIVE INTENT.
+2 It is the intent of the General Assembly that:
+3 (1) The enactment and adoption of this act shall not expressly
+4 or impliedly repeal an act passed during the regular session of the Ninety-
+5 Fifth General Assembly;
+6 (2) To the extent that a conflict exists between an act of the
+7 regular session of the Ninety-Fifth General Assembly and this act:
+8 (A) The act of the regular session of the Ninety-Fifth
+9 General Assembly shall be treated as a subsequent act passed by the General
+10 Assembly for the purposes of:
+11 (i) Giving the act of the regular session of the
+12 Ninety-Fifth General Assembly its full force and effect; and
+13 (ii) Amending or repealing the appropriate parts of
+14 the Arkansas Code of 1987; and
+15 (B) Section 1-2-107 shall not apply; and
+16 (3) This act shall make only technical, not substantive, changes
+17 to the Arkansas Code of 1987.
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+3 01/31/2025 10:16:37 AM SSS003
+[DELETED:      S A T P  T O E  B   S v r 2  ( p d   ( e s    ( b    ( b    ( d]
+[DELETED: S2 0    ( a    ( d    ( o    ( d   ( t t   ( p c p   ( s i t   S i C d   ( w t   S i d c   ( m w ]
+[DELETED: S3 0  S  I   ( o F   ( r    ( G A     ( N     ( t    (   ( t]
+
+
+================================================================================
+
+Raw Text:
+Stricken language would be deleted from and underlined language would be added to present law.
+1 State of Arkansas
+A Bill
+2 95th General Assembly
+3 Regular Session, 2025 SENATE BILL 173
+4
+5 By: Senators C. Tucker, J. Bryant
+6 By: Representatives Gazaway, M. Shepherd
+7
+For An Act To Be Entitled
+8
+9 AN ACT TO MAKE TECHNICAL CORRECTIONS TO TITLE 7 OF
+10 THE ARKANSAS CODE CONCERNING ELECTIONS; AND FOR OTHER
+11 PURPOSES.
+12
+13
+Subtitle
+14
+15 TO MAKE TECHNICAL CORRECTIONS TO TITLE 7
+16 OF THE ARKANSAS CODE CONCERNING
+17 ELECTIONS.
+18
+19 BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF ARKANSAS:
+20
+21 SECTION 1. Arkansas Code § 7-5-615(d), concerning the tabulation of
+22 votes and the duplication of damaged or defective ballots, is reenacted to
+23 ratify the decision by the Arkansas Code Revision Commission to merge Acts
+24 2023, No. 444, § 6, and Acts 2023, No. 460, § 1.
+25 (d)(1) If any ballot is damaged or defective so that it cannot
+26 properly be counted by the electronic vote tabulating device, a true
+27 duplicate copy shall be made of the damaged ballot.
+28 (2) When duplicating a ballot, and in the presence of another
+29 election official and designated poll watchers, if any, an election official
+30 shall:
+31 (A) Reproduce the selections of the voter on a second
+32 ballot that is the same ballot style as the ballot cast by the voter;
+33 (B) Stamp or write the word “duplicate” on the duplicated
+34 ballot;
+35 (C) Stamp or write the word “original” on the original
+36 damaged or defective ballot;
+*SSS003*
+01/31/2025 10:16:37 AM SSS003
+
+SB173
+1 (D) Label both the original damaged or defective ballot
+2 and the duplicate ballot with the same unique serial number;
+3 (E) Substitute the duplicated ballot for the original
+4 damaged or defective ballot;
+5 (F) Count the duplicated ballots in the same manner as
+6 other ballots in that election; and
+7 (G) Secure and separately store the original damaged or
+8 defective ballots in the same manner as other ballots in that election.
+9 (3) The duplication of a damaged or defective ballot counted at
+10 the central counting facility shall be conducted by an election official at
+11 the same time and location that ballots with no defects are counted.
+12 (4) The duplication of a damaged or defective ballot cast at a
+13 polling site shall be delivered securely to the county board of election
+14 commissioners to be duplicated by election officials or added to the
+15 precinct's count manually on the night of the election.
+16 (5) An election official under subdivision (d)(2) of this
+17 section shall maintain a recorded count of damaged ballots to be duplicated
+18 in the presence of authorized poll watchers, if any, and provide the report
+19 to the county board of election commissioners.
+20
+21 SECTION 2. Arkansas Code § 7-6-220(a)(1)(A), concerning reporting of
+22 independent expenditures, is reenacted to ratify the decision by the Arkansas
+23 Code Revision Commission to change "five-hundred-dollar" to "two-hundred-
+24 dollar" in order to correct a reference error.
+25 (1)(A) No later than fifteen (15) days following the month in
+26 which the two-hundred-dollar threshold required under this section is met,
+27 the first financial report shall be filed.
+28
+29 SECTION 3. Arkansas Code § 7-9-127(a)(6), concerning interference with
+30 initiative petitions and proposed measures, is reenacted to ratify the
+31 decision by the Arkansas Code Revision Commission to change the ending
+32 conjunction from “and” to “or”.
+33 (6) Misrepresents the purpose and effect of the petition or the
+34 measure affected for the purpose of causing a person to not sign a petition
+35 when acting as a canvasser; or
+36
+2 01/31/2025 10:16:37 AM SSS003
+
+SB173
+1 SECTION 4. DO NOT CODIFY. CONSTRUCTION AND LEGISLATIVE INTENT.
+2 It is the intent of the General Assembly that:
+3 (1) The enactment and adoption of this act shall not expressly
+4 or impliedly repeal an act passed during the regular session of the Ninety-
+5 Fifth General Assembly;
+6 (2) To the extent that a conflict exists between an act of the
+7 regular session of the Ninety-Fifth General Assembly and this act:
+8 (A) The act of the regular session of the Ninety-Fifth
+9 General Assembly shall be treated as a subsequent act passed by the General
+10 Assembly for the purposes of:
+11 (i) Giving the act of the regular session of the
+12 Ninety-Fifth General Assembly its full force and effect; and
+13 (ii) Amending or repealing the appropriate parts of
+14 the Arkansas Code of 1987; and
+15 (B) Section 1-2-107 shall not apply; and
+16 (3) This act shall make only technical, not substantive, changes
+17 to the Arkansas Code of 1987.
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+3 01/31/2025 10:16:37 AM SSS003
+
+[DELETED:      S A T P  T O E  B   S v r 2  ( p d   ( e s    ( b    ( b    ( d]
+[DELETED: S2 0    ( a    ( d    ( o    ( d   ( t t   ( p c p   ( s i t   S i C d   ( w t   S i d c   ( m w ]
+[DELETED: S3 0  S  I   ( o F   ( r    ( G A     ( N     ( t    (   ( t]

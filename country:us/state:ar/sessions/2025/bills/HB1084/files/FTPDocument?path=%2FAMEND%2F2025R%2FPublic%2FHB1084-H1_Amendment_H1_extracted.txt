@@ -1,0 +1,108 @@
+Title: ______________________________________________________________________
+Official Title: ______________________________________________________________________
+Number of Sections: 1
+Source: versions - Amendment H1
+Media Type: application/pdf
+Strikethrough Detection: 2 sections found
+
+================================================================================
+
+Section 1:
+Hall of the House of Representatives
+95th General Assembly - Regular Session, 2025
+Amendment Form
+JBC 04/02/25 (1h)
+Subtitle of House Bill 1084
+AN ACT FOR ARKANSAS LEGISLATIVE AUDIT OF THE LEGISLATIVE JOINT
+AUDITING COMMITTEE APPROPRIATION FOR THE 2025-2026 FISCAL YEAR.
+______________________________________________________________________
+Amendment No. 1 to House Bill 1084
+Amend House Bill 1084 as originally introduced:
+Page 1, delete SECTION 1 in its entirety and replace with:
+" SECTION 1. REGULAR SALARIES - OPERATIONS. There is hereby established
+for the Arkansas Legislative Audit of the Legislative Joint Auditing
+Committee for the 2025-2026 fiscal year, the following maximum number of
+regular employees.
+Maximum Annual
+Maximum Salary Rate
+Item Class No. of Fiscal Year
+No. Code Title Employees 2025-2026
+(1) Q001U LEGISLATIVE AUDITOR 1 GRADE EXE04
+(2) Q001N ASSISTANT LEGISLATIVE AUDITOR 1 GRADE EXE03
+(3) Q003N DEPUTY LEGISLATIVE AUDITOR 6 GRADE EXE03
+(4) Q002N LA LEGAL COUNSEL 1 GRADE EXE03
+(5) Q006N LA AUDIT MANAGER 5 GRADE SPC11
+(6) Q010N LA FIELD AUDIT SUPERVISOR 22 GRADE SPC10
+(7) Q296C LA IT SECURITY OFFICER 1 GRADE IST11
+(8) Q016N LA APPLICATION SYSTEMS ANALYST 2 GRADE IST09
+(9) Q002C LA ASSISTANT NETWORK ADMINISTRATOR 3 GRADE IST10
+(10) Q085C LA SENIOR NETWORK SERVICES SPECIALIST 2 GRADE IST06
+(11) Q018N LA SENIOR AUDITOR 53 GRADE SPC08
+(12) Q001C LA STAFF AUDITOR 187 GRADE SPC06
+(13) Q275C LA EDITOR 1 GRADE SPC05
+*.JAR054*
+JAR054 - 04-03-2025 09:34:47 Page 1 of 2
+(14) Q022C LA ADMINISTRATIVE SERVICES MANAGER 1 GRADE SGS09
+(15) Q053C LA ADMINISTRATIVE ASSISTANT 4 GRADE SGS08
+(16) Q096C LA ADMINISTRATIVE SERVICES SPEC 6 GRADE SGS06
+MAX. NO. OF EMPLOYEES 296".
+The Amendment was read ________________________________________________________________________________
+By: JOINT BUDGET COMMITTEE
+JAR/JAR - 04-03-2025 09:34:47 _________________________
+JAR054 Chief Clerk
+JAR054 - 04-03-2025 09:34:47 Amendment No. 1 to House Bill 1084 Page 2 of 2
+[DELETED:  PA  ]
+[DELETED:  P _ C]
+
+
+================================================================================
+
+Raw Text:
+Hall of the House of Representatives
+95th General Assembly - Regular Session, 2025
+Amendment Form
+JBC 04/02/25 (1h)
+______________________________________________________________________
+Subtitle of House Bill 1084
+AN ACT FOR ARKANSAS LEGISLATIVE AUDIT OF THE LEGISLATIVE JOINT
+AUDITING COMMITTEE APPROPRIATION FOR THE 2025-2026 FISCAL YEAR.
+______________________________________________________________________
+Amendment No. 1 to House Bill 1084
+Amend House Bill 1084 as originally introduced:
+Page 1, delete SECTION 1 in its entirety and replace with:
+" SECTION 1. REGULAR SALARIES - OPERATIONS. There is hereby established
+for the Arkansas Legislative Audit of the Legislative Joint Auditing
+Committee for the 2025-2026 fiscal year, the following maximum number of
+regular employees.
+Maximum Annual
+Maximum Salary Rate
+Item Class No. of Fiscal Year
+No. Code Title Employees 2025-2026
+(1) Q001U LEGISLATIVE AUDITOR 1 GRADE EXE04
+(2) Q001N ASSISTANT LEGISLATIVE AUDITOR 1 GRADE EXE03
+(3) Q003N DEPUTY LEGISLATIVE AUDITOR 6 GRADE EXE03
+(4) Q002N LA LEGAL COUNSEL 1 GRADE EXE03
+(5) Q006N LA AUDIT MANAGER 5 GRADE SPC11
+(6) Q010N LA FIELD AUDIT SUPERVISOR 22 GRADE SPC10
+(7) Q296C LA IT SECURITY OFFICER 1 GRADE IST11
+(8) Q016N LA APPLICATION SYSTEMS ANALYST 2 GRADE IST09
+(9) Q002C LA ASSISTANT NETWORK ADMINISTRATOR 3 GRADE IST10
+(10) Q085C LA SENIOR NETWORK SERVICES SPECIALIST 2 GRADE IST06
+(11) Q018N LA SENIOR AUDITOR 53 GRADE SPC08
+(12) Q001C LA STAFF AUDITOR 187 GRADE SPC06
+(13) Q275C LA EDITOR 1 GRADE SPC05
+*.JAR054*
+JAR054 - 04-03-2025 09:34:47 Page 1 of 2
+
+(14) Q022C LA ADMINISTRATIVE SERVICES MANAGER 1 GRADE SGS09
+(15) Q053C LA ADMINISTRATIVE ASSISTANT 4 GRADE SGS08
+(16) Q096C LA ADMINISTRATIVE SERVICES SPEC 6 GRADE SGS06
+MAX. NO. OF EMPLOYEES 296".
+The Amendment was read ________________________________________________________________________________
+By: JOINT BUDGET COMMITTEE
+JAR/JAR - 04-03-2025 09:34:47 _________________________
+JAR054 Chief Clerk
+JAR054 - 04-03-2025 09:34:47 Amendment No. 1 to House Bill 1084 Page 2 of 2
+
+[DELETED:  PA  ]
+[DELETED:  P _ C]

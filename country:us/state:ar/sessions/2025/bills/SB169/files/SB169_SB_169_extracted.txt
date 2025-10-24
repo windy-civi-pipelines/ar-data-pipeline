@@ -1,0 +1,259 @@
+Title: Stricken language would be deleted from and underlined language would be added to present law.
+Official Title: Stricken language would be deleted from and underlined language would be added to present law.
+Number of Sections: 1
+Source: versions - SB 169
+Media Type: application/pdf
+Strikethrough Detection: 3 sections found
+
+================================================================================
+
+Section 1:
+1 State of Arkansas
+A Bill
+2 95th General Assembly
+3 Regular Session, 2025 SENATE BILL 169
+4
+5 By: Senators C. Tucker, J. Bryant
+6 By: Representatives Gazaway, M. Shepherd
+7
+For An Act To Be Entitled
+8
+9 AN ACT TO MAKE TECHNICAL CORRECTIONS TO THE ARKANSAS
+10 CONSTITUTION; TO AMEND ARKANSAS CONSTITUTION,
+11 AMENDMENT 51; AND FOR OTHER PURPOSES.
+12
+13
+Subtitle
+14
+15 TO MAKE TECHNICAL CORRECTIONS TO THE
+16 ARKANSAS CONSTITUTION; AND TO AMEND
+17 ARKANSAS CONSTITUTION, AMENDMENT 51.
+18
+19 BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF ARKANSAS:
+20
+21 SECTION 1. Arkansas Constitution, Amendment 51, § 6(a)(2), concerning
+22 voter registration application forms, is amended to read as follows to
+23 correct a grammatical and punctuation error:
+24 (2) Such forms shall include, in identical print, statements
+25 that:
+26 (A) Specify voter eligibility requirements;
+27 (B) Contain an attestation that the applicant meets all
+28 voter eligibility requirements and that the applicant does not claim the
+29 right to vote in another county or state;
+30 (C) Specify the penalties provided by law for submission
+31 of a false voter registration application;
+32 (D) Inform applicants that where they register to vote
+33 will be kept confidential;
+34 (E) Inform applicants that declining to register will also
+35 be kept confidential; and
+36 (F) Inform applicants that they will be required to verify
+*SSS004*
+01/31/2025 10:40:01 AM SSS004
+SB169
+1 their registration when voting in person or by absentee ballot by providing a
+2 required document or identification card as provided in Arkansas
+3 Constitution, Amendment 51, § 13.;
+4 (G) Inform the applicant that if the voter registration
+5 application is being collected by a third-party voter registration
+6 organization, the third-party voter registration organization may be unable
+7 to deliver the application to the permanent registrar in the county in which
+8 the applicant resides before the thirty-day voter registration deadline to
+9 vote in the next election and that the applicant may elect to deliver the
+10 application in person or by mail; and
+11 (H) Inform the applicant of the process to determine if
+12 the application has been received by the Secretary of State.
+13
+14 SECTION 2. Arkansas Constitution, Amendment 51, § 9(a), concerning
+15 eligibility to register to vote, is amended to read as follows to correct a
+16 grammatical and punctuation error:
+17 (a) All persons may register who:
+18 (1) Have not been convicted of a felony unless the person's
+19 sentence has been discharged or the person has been pardoned;
+20 (2) Have not been adjudged mentally incompetent by a court of
+21 competent jurisdiction; and
+22 (3) Meet one (1) of the following requirements:
+23 (A) Are qualified electors who have not previously
+24 registered;
+25 (B) Will become qualified electors during the thirty-day
+26 period immediately prior to the next election scheduled within the county; or
+27 (C) Are otherwise qualified electors but whose
+28 registration has been cancelled in a manner provided for by this amendment.;
+29 and
+30 (4) Are citizens of the United States.
+31
+32 SECTION 3. Arkansas Constitution, Amendment 51, § 11(a), concerning
+33 cancellation of voter registrations, is amended to read as follows to correct
+34 a grammatical and punctuation error:
+35 (a) It shall be the duty of the permanent registrar to cancel the
+36 registration of voters:
+2 01/31/2025 10:40:01 AM SSS004
+SB169
+1 (1) Who have failed to respond to address confirmation mailings
+2 described in section 10 of this amendment and have not voted or appeared to
+3 vote in an election during the period beginning on the date of the notice and
+4 ending on the day after the date of the second general election for federal
+5 office that occurs after the date of the address confirmation notice;
+6 (2) Who have changed their residence to an address outside the
+7 county;
+8 (3) Who have died;
+9 (4) Who have been convicted of a felony and have not discharged
+10 their sentence or been pardoned;
+11 (5) Who are not lawfully qualified or registered electors of
+12 this state or of the county; or
+13 (6) Who have been adjudged mentally incompetent by a court of
+14 competent jurisdiction.; or
+15 (7) Who are not citizens of the United States.
+16
+17 SECTION 4. DO NOT CODIFY. CONSTRUCTION AND LEGISLATIVE INTENT.
+18 It is the intent of the General Assembly that:
+19 (1) The enactment and adoption of this act shall not expressly
+20 or impliedly repeal an act passed during the regular session of the Ninety-
+21 Fifth General Assembly;
+22 (2) To the extent that a conflict exists between an act of the
+23 regular session of the Ninety-Fifth General Assembly and this act:
+24 (A) The act of the regular session of the Ninety-Fifth
+25 General Assembly shall be treated as a subsequent act passed by the General
+26 Assembly for the purposes of:
+27 (i) Giving the act of the regular session of the
+28 Ninety-Fifth General Assembly its full force and effect; and
+29 (ii) Amending or repealing the appropriate parts of
+30 the Arkansas Constitution; and
+31 (B) Section 1-2-107 shall not apply; and
+32 (3) This act shall make only technical, not substantive, changes
+33 to the Arkansas Constitution.
+34
+35
+36
+3 01/31/2025 10:40:01 AM SSS004
+[DELETED:          A C A   T A A  B   S v c   ( t    (    ( v r    ( o    ( w    ( b    (]
+[DELETED: S2 0 t r C    ( a o t t v a    ( t   S e g  (   ( s   ( c   (    ( r    ( p    ( r a   (   S c a  ( r]
+[DELETED: S3 0   ( d v e o   ( c   (   ( t   ( t   ( c   (   S  I   ( o F   ( r    ( G A     ( N     ( t    (   ( t]
+
+
+================================================================================
+
+Raw Text:
+Stricken language would be deleted from and underlined language would be added to present law.
+1 State of Arkansas
+A Bill
+2 95th General Assembly
+3 Regular Session, 2025 SENATE BILL 169
+4
+5 By: Senators C. Tucker, J. Bryant
+6 By: Representatives Gazaway, M. Shepherd
+7
+For An Act To Be Entitled
+8
+9 AN ACT TO MAKE TECHNICAL CORRECTIONS TO THE ARKANSAS
+10 CONSTITUTION; TO AMEND ARKANSAS CONSTITUTION,
+11 AMENDMENT 51; AND FOR OTHER PURPOSES.
+12
+13
+Subtitle
+14
+15 TO MAKE TECHNICAL CORRECTIONS TO THE
+16 ARKANSAS CONSTITUTION; AND TO AMEND
+17 ARKANSAS CONSTITUTION, AMENDMENT 51.
+18
+19 BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF ARKANSAS:
+20
+21 SECTION 1. Arkansas Constitution, Amendment 51, § 6(a)(2), concerning
+22 voter registration application forms, is amended to read as follows to
+23 correct a grammatical and punctuation error:
+24 (2) Such forms shall include, in identical print, statements
+25 that:
+26 (A) Specify voter eligibility requirements;
+27 (B) Contain an attestation that the applicant meets all
+28 voter eligibility requirements and that the applicant does not claim the
+29 right to vote in another county or state;
+30 (C) Specify the penalties provided by law for submission
+31 of a false voter registration application;
+32 (D) Inform applicants that where they register to vote
+33 will be kept confidential;
+34 (E) Inform applicants that declining to register will also
+35 be kept confidential; and
+36 (F) Inform applicants that they will be required to verify
+*SSS004*
+01/31/2025 10:40:01 AM SSS004
+
+SB169
+1 their registration when voting in person or by absentee ballot by providing a
+2 required document or identification card as provided in Arkansas
+3 Constitution, Amendment 51, § 13.;
+4 (G) Inform the applicant that if the voter registration
+5 application is being collected by a third-party voter registration
+6 organization, the third-party voter registration organization may be unable
+7 to deliver the application to the permanent registrar in the county in which
+8 the applicant resides before the thirty-day voter registration deadline to
+9 vote in the next election and that the applicant may elect to deliver the
+10 application in person or by mail; and
+11 (H) Inform the applicant of the process to determine if
+12 the application has been received by the Secretary of State.
+13
+14 SECTION 2. Arkansas Constitution, Amendment 51, § 9(a), concerning
+15 eligibility to register to vote, is amended to read as follows to correct a
+16 grammatical and punctuation error:
+17 (a) All persons may register who:
+18 (1) Have not been convicted of a felony unless the person's
+19 sentence has been discharged or the person has been pardoned;
+20 (2) Have not been adjudged mentally incompetent by a court of
+21 competent jurisdiction; and
+22 (3) Meet one (1) of the following requirements:
+23 (A) Are qualified electors who have not previously
+24 registered;
+25 (B) Will become qualified electors during the thirty-day
+26 period immediately prior to the next election scheduled within the county; or
+27 (C) Are otherwise qualified electors but whose
+28 registration has been cancelled in a manner provided for by this amendment.;
+29 and
+30 (4) Are citizens of the United States.
+31
+32 SECTION 3. Arkansas Constitution, Amendment 51, § 11(a), concerning
+33 cancellation of voter registrations, is amended to read as follows to correct
+34 a grammatical and punctuation error:
+35 (a) It shall be the duty of the permanent registrar to cancel the
+36 registration of voters:
+2 01/31/2025 10:40:01 AM SSS004
+
+SB169
+1 (1) Who have failed to respond to address confirmation mailings
+2 described in section 10 of this amendment and have not voted or appeared to
+3 vote in an election during the period beginning on the date of the notice and
+4 ending on the day after the date of the second general election for federal
+5 office that occurs after the date of the address confirmation notice;
+6 (2) Who have changed their residence to an address outside the
+7 county;
+8 (3) Who have died;
+9 (4) Who have been convicted of a felony and have not discharged
+10 their sentence or been pardoned;
+11 (5) Who are not lawfully qualified or registered electors of
+12 this state or of the county; or
+13 (6) Who have been adjudged mentally incompetent by a court of
+14 competent jurisdiction.; or
+15 (7) Who are not citizens of the United States.
+16
+17 SECTION 4. DO NOT CODIFY. CONSTRUCTION AND LEGISLATIVE INTENT.
+18 It is the intent of the General Assembly that:
+19 (1) The enactment and adoption of this act shall not expressly
+20 or impliedly repeal an act passed during the regular session of the Ninety-
+21 Fifth General Assembly;
+22 (2) To the extent that a conflict exists between an act of the
+23 regular session of the Ninety-Fifth General Assembly and this act:
+24 (A) The act of the regular session of the Ninety-Fifth
+25 General Assembly shall be treated as a subsequent act passed by the General
+26 Assembly for the purposes of:
+27 (i) Giving the act of the regular session of the
+28 Ninety-Fifth General Assembly its full force and effect; and
+29 (ii) Amending or repealing the appropriate parts of
+30 the Arkansas Constitution; and
+31 (B) Section 1-2-107 shall not apply; and
+32 (3) This act shall make only technical, not substantive, changes
+33 to the Arkansas Constitution.
+34
+35
+36
+3 01/31/2025 10:40:01 AM SSS004
+
+[DELETED:          A C A   T A A  B   S v c   ( t    (    ( v r    ( o    ( w    ( b    (]
+[DELETED: S2 0 t r C    ( a o t t v a    ( t   S e g  (   ( s   ( c   (    ( r    ( p    ( r a   (   S c a  ( r]
+[DELETED: S3 0   ( d v e o   ( c   (   ( t   ( t   ( c   (   S  I   ( o F   ( r    ( G A     ( N     ( t    (   ( t]

@@ -1,0 +1,575 @@
+Title: Stricken language would be deleted from and underlined language would be added to present law.
+Official Title: Stricken language would be deleted from and underlined language would be added to present law.
+Number of Sections: 1
+Source: versions - SB 589
+Media Type: application/pdf
+Strikethrough Detection: 7 sections found
+
+================================================================================
+
+Section 1:
+1 State of Arkansas
+A Bill
+2 95th General Assembly
+3 Regular Session, 2025 SENATE BILL 589
+4
+5 By: Senator C. Penzo
+6
+7
+For An Act To Be Entitled
+8
+9 AN ACT TO CREATE THE 340B PROGRAM TRANSPARENCY ACT;
+10 TO REQUIRE TRANSPARENCY FROM CERTAIN 340B-COVERED
+11 ENTITIES CONCERNING THE USE OF 340B PROGRAM SAVINGS;
+12 TO REQUIRE CERTAIN 340B-COVERED ENTITIES TO ANNUALLY
+13 REPORT THE UTILIZATION AND DISTRIBUTION OF 340B
+14 PROGRAM SAVINGS TO ENSURE ACCOUNTABILITY AND
+15 TRANSPARENCY; AND FOR OTHER PURPOSES.
+16
+17
+Subtitle
+18
+19 TO CREATE THE 340B PROGRAM TRANSPARENCY
+20 ACT; AND TO AMEND THE LAW CONCERNING
+21 TRANSPARENCY AND ACCOUNTABILITY FOR
+22 CERTAIN 340B-COVERED ENTITIES.
+23
+24 BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF ARKANSAS:
+25
+26 SECTION 1. Arkansas Code Title 20, Chapter 6, is amended to add an
+27 additional subchapter to read as follows:
+28 Subchapter 5 — 340B Program Transparency Act
+29
+30 20-6-501. Title.
+31 This subchapter shall be known and may be cited as the "340B Program
+32 Transparency Act".
+33
+34 20-6-502. Definitions.
+35 As used in this subchapter:
+36 (1) "340B program" means the federal drug discount program
+*JMB451*
+03/31/2025 1:46:16 PM JMB451
+SB589
+1 established under Section 340B of the Public Health Service Act, 42 U.S.C. §
+2 256b, as it existed on January 1, 2025, that requires a drug manufacturer to
+3 provide discounted outpatient medications to a covered entity that serves a
+4 significant number of low-income and uninsured patients;
+5 (2) "340B savings" means the difference between the actual price
+6 paid by a covered entity or its contract pharmacy under the 340B program for
+7 a given drug or biological product and one (1) of the following acquisition
+8 costs, applied in the order of priority stated below, using date-sensitive
+9 and comparable data:
+10 (A)(i) The actual acquisition cost the covered entity or
+11 contract pharmacy has paid for the same drug or biological product when
+12 dispensed to non-340B qualifying patients based on verifiable transaction
+13 records from the same month as the 340B purchase.
+14 (ii) If data from the same month is not available,
+15 then data from the same calendar quarter shall be used;
+16 (B) The actual acquisition cost for the same drug or
+17 biological product as reflected in published acquisition data from the same
+18 month, if available, or from the same calendar quarter if monthly data is not
+19 available, and that is accessible to the covered entity or contract pharmacy
+20 from a distributor or group purchasing organization, as long as the
+21 distributor or group purchasing organization was utilized to acquire the drug
+22 or biological product by the covered entity or contract pharmacy within the
+23 same month or calendar quarter; or
+24 (C)(i) If neither subdivision (2)(A) or subdivision (2)(B)
+25 of this section is available for the specific product, the estimated
+26 acquisition cost the covered entity or contract pharmacy would have paid for
+27 the drug or biological product in the absence of participation in the 340B
+28 program, ensuring to the extent possible that the estimation uses data from
+29 the same month or, if not available, from the same calendar quarter.
+30 (ii) A covered entity or contract pharmacy shall
+31 rely on subdivision (2)(C) of this section only if neither subdivision (2)(A)
+32 or subdivision (2)(B) of this section is feasible for that specific drug or
+33 biological product;
+34 (3) "Contract pharmacy" means a pharmacy that has executed a
+35 contract with a covered entity to dispense 340B drugs on behalf of the
+36 covered entity consistent with federal regulations and guidelines;
+2 03/31/2025 1:46:16 PM JMB451
+SB589
+1 (4) "Covered entity" means a hospital or other healthcare
+2 provider located in this state that participates in the 340B program as
+3 defined by 42 U.S.C. § 256b, as it existed on January 1, 2025; and
+4 (5)(A) "Medically underserved area" means an entire county that,
+5 at any point during the reporting period, has an active medically underserved
+6 area designation from the United States Health Resources and Services
+7 Administration if the medically underserved area designation is for a single
+8 county and has not been withdrawn or proposed for withdrawal.
+9 (B) "Medically underserved area" does not include a
+10 medically underserved area that is for a county subdivision, partial areas of
+11 a county, a census tract, or other smaller geographic unit or that has been
+12 withdrawn or proposed for withdrawal.
+13
+14 20-6-503. Annual 340B transparency report.
+15 (a)(1) Each covered entity shall submit an annual 340B transparency
+16 report to the Department of Health on or before March 31 of each year,
+17 covering the previous calendar year.
+18 (2) The department shall develop a standard reporting form
+19 consistent with the requirements of this subchapter.
+20 (b) At a minimum, a covered entity shall report:
+21 (1) Aggregate 340B savings for the prior calendar year,
+22 including without limitation:
+23 (A) The total number of prescription, infusion, and
+24 injection drug claims processed by the covered entity or its contract
+25 pharmacies;
+26 (B) The total number of 340B-eligible prescription,
+27 infusion, and injection drug claims processed by the covered entity or its
+28 contract pharmacies;
+29 (C) An estimate of the total 340B savings realized by the
+30 covered entity; and
+31 (D) A description of the methodology used to calculate the
+32 aggregate 340B savings;
+33 (2) Utilization of 340B savings, including a detailed accounting
+34 of how the 340B savings were allocated or reinvested, specifying:
+35 (A)(i)(a) The aggregate amount directed toward offsetting
+36 the cost of uncompensated care or charity care.
+3 03/31/2025 1:46:16 PM JMB451
+SB589
+1 (b) The amount reported under subdivision
+2 (b)(2)(A)(i)(a) of this section shall reflect only the funds actually
+3 disbursed or redeemed from the 340B savings, rather than merely allocated or
+4 earmarked for future use.
+5 (ii) However, for purposes of this calculation:
+6 (a) Contractual discounts or adjustments
+7 already applied by insurance companies or government healthcare programs
+8 shall not be included;
+9 (b) Charges for denied services or medical
+10 supplies unrelated to the drug or biological product, or unrelated to the
+11 administration of the drug or biological product, shall not be included; and
+12 (c) Any other discounts, reductions,
+13 incentives, or offsets that covered entity patients customarily receive in
+14 the normal course of business shall not be included;
+15 (B)(i) The aggregate amount directed to patient financial
+16 assistance or support programs, including without limitation transportation,
+17 nutritional counseling, and housing assistance.
+18 (ii) The amount reported shall reflect only the
+19 funds actually disbursed or redeemed from the 340B savings, rather than
+20 merely allocated or earmarked for future use;
+21 (C) The aggregate amount used to expand patient access to
+22 healthcare services, including without limitation new facility or clinic
+23 sites, extended hours, or additional programs that directly expand patient
+24 access to healthcare services for populations living in and having a primary
+25 residence located in a medically underserved area in this state;
+26 (D) The aggregate amount directed, used, or allocated to
+27 administrative operations, including without limitation:
+28 (i) Salaries, wages, bonuses, and other forms of
+29 employee compensation;
+30 (ii) Benefits, such as retirement contributions,
+31 health insurance premiums, or stipends;
+32 (iii) General overhead expenses, including without
+33 limitation facility maintenance, utilities, office supplies, and information
+34 technology;
+35 (iv) Marketing, public relations, or advertising
+36 costs;
+4 03/31/2025 1:46:16 PM JMB451
+SB589
+1 (v) Management or consulting fees; and
+2 (vi) Any other administrative expenditures not
+3 directly related to patient care or financial assistance;
+4 (E) The amount allocated to any foundations or charitable
+5 organizations affiliated with the covered entity;
+6 (F) Any other uses of 340B savings, itemized to provide
+7 meaningful transparency without disclosing confidential business information
+8 that is protected by state or federal law; and
+9 (G) The total amounts disclosed under subdivisions
+10 (b)(2)(A)-(F) of this section, which do not exceed the total amount reported
+11 under subdivision (b)(1)(C) of this section;
+12 (3) The charity care and uncompensated care metrics provided by
+13 the covered entity, including without limitation:
+14 (A) The total dollar value of charity care or
+15 uncompensated care provided by the covered entity;
+16 (B) The total dollar value of bad debt or unreimbursed
+17 care; and
+18 (C)(i) The distinct number of patients receiving charity
+19 care or financial assistance.
+20 (ii) The metric under subdivision (b)(3)(C)(i) of
+21 this section shall be disclosed:
+22 (a) As an aggregate; and
+23 (b) By county, where county is based on the
+24 patient’s home address or primary place of residence;
+25 (4) Populations served, including without limitation:
+26 (A)(i) The total number of distinct patients who receive
+27 services from the covered entity.
+28 (ii) The metric under subdivision (b)(4)(A)(i) of
+29 this section shall be disclosed:
+30 (a) As an aggregate; and
+31 (b) By county, where county is based on the
+32 patient's home address or primary place of residence; and
+33 (B)(i) The total number of distinct patients who received
+34 services from the covered entity with a home address or primary place of
+35 residence located within a medically underserved area.
+36 (ii) The metric under subdivision (b)(4)(B)(i) of
+5 03/31/2025 1:46:16 PM JMB451
+SB589
+1 this section shall be disclosed:
+2 (a) As an aggregate; and
+3 (b) By county, where county is based on the
+4 patient's home address or primary place of residence;
+5 (5) The total number of distinct clinics or facilities, listed
+6 by physical address, operated by the covered entity located within a
+7 medically underserved area;
+8 (6) The total number of distinct patients who received services
+9 from the clinics or facilities operated by the covered entity located within
+10 a medically underserved area; and
+11 (7) Contract pharmacy arrangements, including without
+12 limitation:
+13 (A) The name and address of each contract pharmacy; and
+14 (B) The total number of 340B-eligible claims processed
+15 through each contract pharmacy.
+16 (c)(1) The department shall post each covered entity’s 340B
+17 transparency report on a publicly accessible website no later than sixty (60)
+18 days after the annual submission deadline, redacting any trade secrets or
+19 proprietary data that is exempt from disclosure under Arkansas law.
+20 (2) A covered entity may request that specific information be
+21 classified as confidential, subject to review and approval by the department
+22 under the Freedom of Information Act of 1967, § 25-19-101 et seq.
+23
+24 20-6-504. Enforcement — Penalties.
+25 (a) The Department of Health may:
+26 (1) Receive and review annual 340B transparency reports for
+27 completeness and accuracy; and
+28 (2) Conduct compliance audits or investigations of a covered
+29 entity’s 340B activities, as necessary, to verify the accuracy of reported
+30 information.
+31 (b)(1) If the department determines that a covered entity has failed to
+32 submit a timely or complete 340B transparency report, the department shall
+33 notify the covered entity in writing and provide thirty (30) days for the
+34 covered entity to cure the deficiency.
+35 (2) If the covered entity fails to cure the deficiency within
+36 thirty (30) days, the department may impose an administrative penalty not to
+6 03/31/2025 1:46:16 PM JMB451
+SB589
+1 exceed five hundred dollars ($500) per day for each day of noncompliance,
+2 subject to a maximum of one hundred fifty thousand dollars ($150,000) per
+3 year.
+4 (3) The department may waive or reduce penalties upon a showing
+5 of good cause.
+6
+7 20-6-505. Rules.
+8 (a) The Department of Health shall promulgate rules to implement and
+9 administer this subchapter.
+10 (b) The rules under subsection (a) of this section shall include
+11 without limitation:
+12 (1) The development of standardized reporting forms and
+13 procedures;
+14 (2) The process for requesting confidential treatment of
+15 proprietary information; and
+16 (3) The criteria for determining penalties for noncompliance.
+17
+18 20-6-506. Construction.
+19 (a) This subchapter does not conflict with or preempt any federal law
+20 or regulation governing the 340B program.
+21 (b) To the extent a provision of this subchapter is in conflict with
+22 federal law, that provision of this subchapter is void.
+23
+24 20-6-507. Severability.
+25 If a section, subsection, subdivision, sentence, or clause of this
+26 subchapter is held invalid or unconstitutional, the remaining provisions
+27 shall remain in force and shall be construed to give effect to the intent of
+28 the subchapter.
+29
+30 SECTION 2. DO NOT CODIFY. Effective date.
+31 This act is effective on and after January 1, 2026.
+32
+33
+34
+35
+36
+7 03/31/2025 1:46:16 PM JMB451
+[DELETED:          A T E T R P T   T A T C  B   S a S   2  T T   2  A   (]
+[DELETED: S2 0 e 2 p s   ( p a c a    ( c d r     ( t    ( b m a f d o s    ( o a t p t     ( r o b   ( c c]
+[DELETED: S3 0   ( p d   ( a a A c    ( m a w   2  ( r c   ( c  (   ( i    ( i p    ( i c    ( c    ( a   ( o    ( t]
+[DELETED: S4 0      ( ( d e     (      ( a s      ( s a      ( i t    ( a n     ( f m    ( h s a r    ( a     ( e     ( h     ( l t     ( c]
+[DELETED: S5 0     (     ( d    ( o    ( m t    ( ( u   ( t    ( u    ( c    ( c     ( t      (      ( p   (    ( s     ( t      (      ( p    ( s r     (]
+[DELETED: S6 0 t      (      ( p   ( b m   ( f a   ( l    (    ( t  ( t d p   ( c u   2  (   ( c   ( e i  ( s n c   ( t]
+[DELETED: S7 0 e s y   ( o   2  ( a  ( w   ( p   ( p   (   2  ( o  ( f   2  I s s t   S  T]
+
+
+================================================================================
+
+Raw Text:
+Stricken language would be deleted from and underlined language would be added to present law.
+1 State of Arkansas
+A Bill
+2 95th General Assembly
+3 Regular Session, 2025 SENATE BILL 589
+4
+5 By: Senator C. Penzo
+6
+7
+For An Act To Be Entitled
+8
+9 AN ACT TO CREATE THE 340B PROGRAM TRANSPARENCY ACT;
+10 TO REQUIRE TRANSPARENCY FROM CERTAIN 340B-COVERED
+11 ENTITIES CONCERNING THE USE OF 340B PROGRAM SAVINGS;
+12 TO REQUIRE CERTAIN 340B-COVERED ENTITIES TO ANNUALLY
+13 REPORT THE UTILIZATION AND DISTRIBUTION OF 340B
+14 PROGRAM SAVINGS TO ENSURE ACCOUNTABILITY AND
+15 TRANSPARENCY; AND FOR OTHER PURPOSES.
+16
+17
+Subtitle
+18
+19 TO CREATE THE 340B PROGRAM TRANSPARENCY
+20 ACT; AND TO AMEND THE LAW CONCERNING
+21 TRANSPARENCY AND ACCOUNTABILITY FOR
+22 CERTAIN 340B-COVERED ENTITIES.
+23
+24 BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF ARKANSAS:
+25
+26 SECTION 1. Arkansas Code Title 20, Chapter 6, is amended to add an
+27 additional subchapter to read as follows:
+28 Subchapter 5 — 340B Program Transparency Act
+29
+30 20-6-501. Title.
+31 This subchapter shall be known and may be cited as the "340B Program
+32 Transparency Act".
+33
+34 20-6-502. Definitions.
+35 As used in this subchapter:
+36 (1) "340B program" means the federal drug discount program
+*JMB451*
+03/31/2025 1:46:16 PM JMB451
+
+SB589
+1 established under Section 340B of the Public Health Service Act, 42 U.S.C. §
+2 256b, as it existed on January 1, 2025, that requires a drug manufacturer to
+3 provide discounted outpatient medications to a covered entity that serves a
+4 significant number of low-income and uninsured patients;
+5 (2) "340B savings" means the difference between the actual price
+6 paid by a covered entity or its contract pharmacy under the 340B program for
+7 a given drug or biological product and one (1) of the following acquisition
+8 costs, applied in the order of priority stated below, using date-sensitive
+9 and comparable data:
+10 (A)(i) The actual acquisition cost the covered entity or
+11 contract pharmacy has paid for the same drug or biological product when
+12 dispensed to non-340B qualifying patients based on verifiable transaction
+13 records from the same month as the 340B purchase.
+14 (ii) If data from the same month is not available,
+15 then data from the same calendar quarter shall be used;
+16 (B) The actual acquisition cost for the same drug or
+17 biological product as reflected in published acquisition data from the same
+18 month, if available, or from the same calendar quarter if monthly data is not
+19 available, and that is accessible to the covered entity or contract pharmacy
+20 from a distributor or group purchasing organization, as long as the
+21 distributor or group purchasing organization was utilized to acquire the drug
+22 or biological product by the covered entity or contract pharmacy within the
+23 same month or calendar quarter; or
+24 (C)(i) If neither subdivision (2)(A) or subdivision (2)(B)
+25 of this section is available for the specific product, the estimated
+26 acquisition cost the covered entity or contract pharmacy would have paid for
+27 the drug or biological product in the absence of participation in the 340B
+28 program, ensuring to the extent possible that the estimation uses data from
+29 the same month or, if not available, from the same calendar quarter.
+30 (ii) A covered entity or contract pharmacy shall
+31 rely on subdivision (2)(C) of this section only if neither subdivision (2)(A)
+32 or subdivision (2)(B) of this section is feasible for that specific drug or
+33 biological product;
+34 (3) "Contract pharmacy" means a pharmacy that has executed a
+35 contract with a covered entity to dispense 340B drugs on behalf of the
+36 covered entity consistent with federal regulations and guidelines;
+2 03/31/2025 1:46:16 PM JMB451
+
+SB589
+1 (4) "Covered entity" means a hospital or other healthcare
+2 provider located in this state that participates in the 340B program as
+3 defined by 42 U.S.C. § 256b, as it existed on January 1, 2025; and
+4 (5)(A) "Medically underserved area" means an entire county that,
+5 at any point during the reporting period, has an active medically underserved
+6 area designation from the United States Health Resources and Services
+7 Administration if the medically underserved area designation is for a single
+8 county and has not been withdrawn or proposed for withdrawal.
+9 (B) "Medically underserved area" does not include a
+10 medically underserved area that is for a county subdivision, partial areas of
+11 a county, a census tract, or other smaller geographic unit or that has been
+12 withdrawn or proposed for withdrawal.
+13
+14 20-6-503. Annual 340B transparency report.
+15 (a)(1) Each covered entity shall submit an annual 340B transparency
+16 report to the Department of Health on or before March 31 of each year,
+17 covering the previous calendar year.
+18 (2) The department shall develop a standard reporting form
+19 consistent with the requirements of this subchapter.
+20 (b) At a minimum, a covered entity shall report:
+21 (1) Aggregate 340B savings for the prior calendar year,
+22 including without limitation:
+23 (A) The total number of prescription, infusion, and
+24 injection drug claims processed by the covered entity or its contract
+25 pharmacies;
+26 (B) The total number of 340B-eligible prescription,
+27 infusion, and injection drug claims processed by the covered entity or its
+28 contract pharmacies;
+29 (C) An estimate of the total 340B savings realized by the
+30 covered entity; and
+31 (D) A description of the methodology used to calculate the
+32 aggregate 340B savings;
+33 (2) Utilization of 340B savings, including a detailed accounting
+34 of how the 340B savings were allocated or reinvested, specifying:
+35 (A)(i)(a) The aggregate amount directed toward offsetting
+36 the cost of uncompensated care or charity care.
+3 03/31/2025 1:46:16 PM JMB451
+
+SB589
+1 (b) The amount reported under subdivision
+2 (b)(2)(A)(i)(a) of this section shall reflect only the funds actually
+3 disbursed or redeemed from the 340B savings, rather than merely allocated or
+4 earmarked for future use.
+5 (ii) However, for purposes of this calculation:
+6 (a) Contractual discounts or adjustments
+7 already applied by insurance companies or government healthcare programs
+8 shall not be included;
+9 (b) Charges for denied services or medical
+10 supplies unrelated to the drug or biological product, or unrelated to the
+11 administration of the drug or biological product, shall not be included; and
+12 (c) Any other discounts, reductions,
+13 incentives, or offsets that covered entity patients customarily receive in
+14 the normal course of business shall not be included;
+15 (B)(i) The aggregate amount directed to patient financial
+16 assistance or support programs, including without limitation transportation,
+17 nutritional counseling, and housing assistance.
+18 (ii) The amount reported shall reflect only the
+19 funds actually disbursed or redeemed from the 340B savings, rather than
+20 merely allocated or earmarked for future use;
+21 (C) The aggregate amount used to expand patient access to
+22 healthcare services, including without limitation new facility or clinic
+23 sites, extended hours, or additional programs that directly expand patient
+24 access to healthcare services for populations living in and having a primary
+25 residence located in a medically underserved area in this state;
+26 (D) The aggregate amount directed, used, or allocated to
+27 administrative operations, including without limitation:
+28 (i) Salaries, wages, bonuses, and other forms of
+29 employee compensation;
+30 (ii) Benefits, such as retirement contributions,
+31 health insurance premiums, or stipends;
+32 (iii) General overhead expenses, including without
+33 limitation facility maintenance, utilities, office supplies, and information
+34 technology;
+35 (iv) Marketing, public relations, or advertising
+36 costs;
+4 03/31/2025 1:46:16 PM JMB451
+
+SB589
+1 (v) Management or consulting fees; and
+2 (vi) Any other administrative expenditures not
+3 directly related to patient care or financial assistance;
+4 (E) The amount allocated to any foundations or charitable
+5 organizations affiliated with the covered entity;
+6 (F) Any other uses of 340B savings, itemized to provide
+7 meaningful transparency without disclosing confidential business information
+8 that is protected by state or federal law; and
+9 (G) The total amounts disclosed under subdivisions
+10 (b)(2)(A)-(F) of this section, which do not exceed the total amount reported
+11 under subdivision (b)(1)(C) of this section;
+12 (3) The charity care and uncompensated care metrics provided by
+13 the covered entity, including without limitation:
+14 (A) The total dollar value of charity care or
+15 uncompensated care provided by the covered entity;
+16 (B) The total dollar value of bad debt or unreimbursed
+17 care; and
+18 (C)(i) The distinct number of patients receiving charity
+19 care or financial assistance.
+20 (ii) The metric under subdivision (b)(3)(C)(i) of
+21 this section shall be disclosed:
+22 (a) As an aggregate; and
+23 (b) By county, where county is based on the
+24 patient’s home address or primary place of residence;
+25 (4) Populations served, including without limitation:
+26 (A)(i) The total number of distinct patients who receive
+27 services from the covered entity.
+28 (ii) The metric under subdivision (b)(4)(A)(i) of
+29 this section shall be disclosed:
+30 (a) As an aggregate; and
+31 (b) By county, where county is based on the
+32 patient's home address or primary place of residence; and
+33 (B)(i) The total number of distinct patients who received
+34 services from the covered entity with a home address or primary place of
+35 residence located within a medically underserved area.
+36 (ii) The metric under subdivision (b)(4)(B)(i) of
+5 03/31/2025 1:46:16 PM JMB451
+
+SB589
+1 this section shall be disclosed:
+2 (a) As an aggregate; and
+3 (b) By county, where county is based on the
+4 patient's home address or primary place of residence;
+5 (5) The total number of distinct clinics or facilities, listed
+6 by physical address, operated by the covered entity located within a
+7 medically underserved area;
+8 (6) The total number of distinct patients who received services
+9 from the clinics or facilities operated by the covered entity located within
+10 a medically underserved area; and
+11 (7) Contract pharmacy arrangements, including without
+12 limitation:
+13 (A) The name and address of each contract pharmacy; and
+14 (B) The total number of 340B-eligible claims processed
+15 through each contract pharmacy.
+16 (c)(1) The department shall post each covered entity’s 340B
+17 transparency report on a publicly accessible website no later than sixty (60)
+18 days after the annual submission deadline, redacting any trade secrets or
+19 proprietary data that is exempt from disclosure under Arkansas law.
+20 (2) A covered entity may request that specific information be
+21 classified as confidential, subject to review and approval by the department
+22 under the Freedom of Information Act of 1967, § 25-19-101 et seq.
+23
+24 20-6-504. Enforcement — Penalties.
+25 (a) The Department of Health may:
+26 (1) Receive and review annual 340B transparency reports for
+27 completeness and accuracy; and
+28 (2) Conduct compliance audits or investigations of a covered
+29 entity’s 340B activities, as necessary, to verify the accuracy of reported
+30 information.
+31 (b)(1) If the department determines that a covered entity has failed to
+32 submit a timely or complete 340B transparency report, the department shall
+33 notify the covered entity in writing and provide thirty (30) days for the
+34 covered entity to cure the deficiency.
+35 (2) If the covered entity fails to cure the deficiency within
+36 thirty (30) days, the department may impose an administrative penalty not to
+6 03/31/2025 1:46:16 PM JMB451
+
+SB589
+1 exceed five hundred dollars ($500) per day for each day of noncompliance,
+2 subject to a maximum of one hundred fifty thousand dollars ($150,000) per
+3 year.
+4 (3) The department may waive or reduce penalties upon a showing
+5 of good cause.
+6
+7 20-6-505. Rules.
+8 (a) The Department of Health shall promulgate rules to implement and
+9 administer this subchapter.
+10 (b) The rules under subsection (a) of this section shall include
+11 without limitation:
+12 (1) The development of standardized reporting forms and
+13 procedures;
+14 (2) The process for requesting confidential treatment of
+15 proprietary information; and
+16 (3) The criteria for determining penalties for noncompliance.
+17
+18 20-6-506. Construction.
+19 (a) This subchapter does not conflict with or preempt any federal law
+20 or regulation governing the 340B program.
+21 (b) To the extent a provision of this subchapter is in conflict with
+22 federal law, that provision of this subchapter is void.
+23
+24 20-6-507. Severability.
+25 If a section, subsection, subdivision, sentence, or clause of this
+26 subchapter is held invalid or unconstitutional, the remaining provisions
+27 shall remain in force and shall be construed to give effect to the intent of
+28 the subchapter.
+29
+30 SECTION 2. DO NOT CODIFY. Effective date.
+31 This act is effective on and after January 1, 2026.
+32
+33
+34
+35
+36
+7 03/31/2025 1:46:16 PM JMB451
+
+[DELETED:          A T E T R P T   T A T C  B   S a S   2  T T   2  A   (]
+[DELETED: S2 0 e 2 p s   ( p a c a    ( c d r     ( t    ( b m a f d o s    ( o a t p t     ( r o b   ( c c]
+[DELETED: S3 0   ( p d   ( a a A c    ( m a w   2  ( r c   ( c  (   ( i    ( i p    ( i c    ( c    ( a   ( o    ( t]
+[DELETED: S4 0      ( ( d e     (      ( a s      ( s a      ( i t    ( a n     ( f m    ( h s a r    ( a     ( e     ( h     ( l t     ( c]
+[DELETED: S5 0     (     ( d    ( o    ( m t    ( ( u   ( t    ( u    ( c    ( c     ( t      (      ( p   (    ( s     ( t      (      ( p    ( s r     (]
+[DELETED: S6 0 t      (      ( p   ( b m   ( f a   ( l    (    ( t  ( t d p   ( c u   2  (   ( c   ( e i  ( s n c   ( t]
+[DELETED: S7 0 e s y   ( o   2  ( a  ( w   ( p   ( p   (   2  ( o  ( f   2  I s s t   S  T]
