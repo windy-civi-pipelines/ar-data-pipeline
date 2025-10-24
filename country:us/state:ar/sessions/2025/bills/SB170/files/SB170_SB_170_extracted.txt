@@ -1,0 +1,180 @@
+Title: Stricken language would be deleted from and underlined language would be added to present law.
+Official Title: Stricken language would be deleted from and underlined language would be added to present law.
+Number of Sections: 1
+Source: versions - SB 170
+Media Type: application/pdf
+Strikethrough Detection: 2 sections found
+
+================================================================================
+
+Section 1:
+1 State of Arkansas
+A Bill
+2 95th General Assembly
+3 Regular Session, 2025 SENATE BILL 170
+4
+5 By: Senators C. Tucker, J. Bryant
+6 By: Representatives Gazaway, M. Shepherd
+7
+For An Act To Be Entitled
+8
+9 AN ACT TO MAKE TECHNICAL CORRECTIONS TO TITLE 1 OF
+10 THE ARKANSAS CODE CONCERNING GENERAL PROVISIONS; AND
+11 FOR OTHER PURPOSES.
+12
+13
+Subtitle
+14
+15 TO MAKE TECHNICAL CORRECTIONS TO TITLE 1
+16 OF THE ARKANSAS CODE CONCERNING GENERAL
+17 PROVISIONS.
+18
+19 BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF ARKANSAS:
+20
+21 SECTION 1. Arkansas Code § 1-2-125 is repealed because the section has
+22 expired.
+23 1-2-125. Electronic document submissions and publications.
+24 (a)(1) A state agency, a court, or a local government entity that is
+25 required by law to accept, solicit, or publish any information, record,
+26 report, application, or other required material may accept, solicit, or
+27 publish the information, record, report, application, or other required
+28 material in an electronic form.
+29 (2) If a state agency, a court, or a local government entity
+30 accepts, solicits, or publishes the information, record, report, application,
+31 or other required material in an electronic form under subdivision (a)(1) of
+32 this section, the state agency, the court, or the local government entity
+33 shall also comply with existing requirements in law concerning the
+34 acceptance, solicitation, or publication of information, records, reports,
+35 applications, or other required materials.
+36 (3) A state agency, a court, or a local government entity may
+*JLL001*
+01/31/2025 10:13:46 AM JLL001
+SB170
+1 require an electronic form of receipt verification of information, records,
+2 reports, applications, or other required materials accepted, solicited, or
+3 published in an electronic form.
+4 (b) If as provided by this section, a state agency, a court, or a
+5 local government entity decides to accept, solicit, or publish the
+6 information, record, report, application, or other required material in an
+7 electronic form, the state agency, the court, or the local government entity
+8 shall:
+9 (1) Notify the Legislative Council within thirty (30) days of
+10 its decision and the justifications for the decision; and
+11 (2) On or before the expiration date of this section, advise the
+12 Legislative Council as to the sections of the Arkansas Code that should be
+13 amended to allow indefinitely for the discretion to accept, solicit, or
+14 publish the information, records, report, application, or other required
+15 material in an electronic form.
+16 (c) This section expires four (4) years after August 1, 2017.
+17
+18 SECTION 2. DO NOT CODIFY. CONSTRUCTION AND LEGISLATIVE INTENT.
+19 It is the intent of the General Assembly that:
+20 (1) The enactment and adoption of this act shall not expressly
+21 or impliedly repeal an act passed during the regular session of the Ninety-
+22 Fifth General Assembly;
+23 (2) To the extent that a conflict exists between an act of the
+24 regular session of the Ninety-Fifth General Assembly and this act:
+25 (A) The act of the regular session of the Ninety-Fifth
+26 General Assembly shall be treated as a subsequent act passed by the General
+27 Assembly for the purposes of:
+28 (i) Giving the act of the regular session of the
+29 Ninety-Fifth General Assembly its full force and effect; and
+30 (ii) Amending or repealing the appropriate parts of
+31 the Arkansas Code of 1987; and
+32 (B) Section 1-2-107 shall not apply; and
+33 (3) This act shall make only technical, not substantive, changes
+34 to the Arkansas Code of 1987.
+35
+36
+2 01/31/2025 10:13:46 AM JLL001
+[DELETED:       A T F  T O P  B   S e  1  ( r r p m   ( a o t s a a   (]
+[DELETED: S2 0 r r p  ( l i e s   ( i   ( L a p m  (   S  I   ( o F   ( r    ( G A     ( N     ( t    (   ( t]
+
+
+================================================================================
+
+Raw Text:
+Stricken language would be deleted from and underlined language would be added to present law.
+1 State of Arkansas
+A Bill
+2 95th General Assembly
+3 Regular Session, 2025 SENATE BILL 170
+4
+5 By: Senators C. Tucker, J. Bryant
+6 By: Representatives Gazaway, M. Shepherd
+7
+For An Act To Be Entitled
+8
+9 AN ACT TO MAKE TECHNICAL CORRECTIONS TO TITLE 1 OF
+10 THE ARKANSAS CODE CONCERNING GENERAL PROVISIONS; AND
+11 FOR OTHER PURPOSES.
+12
+13
+Subtitle
+14
+15 TO MAKE TECHNICAL CORRECTIONS TO TITLE 1
+16 OF THE ARKANSAS CODE CONCERNING GENERAL
+17 PROVISIONS.
+18
+19 BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF ARKANSAS:
+20
+21 SECTION 1. Arkansas Code § 1-2-125 is repealed because the section has
+22 expired.
+23 1-2-125. Electronic document submissions and publications.
+24 (a)(1) A state agency, a court, or a local government entity that is
+25 required by law to accept, solicit, or publish any information, record,
+26 report, application, or other required material may accept, solicit, or
+27 publish the information, record, report, application, or other required
+28 material in an electronic form.
+29 (2) If a state agency, a court, or a local government entity
+30 accepts, solicits, or publishes the information, record, report, application,
+31 or other required material in an electronic form under subdivision (a)(1) of
+32 this section, the state agency, the court, or the local government entity
+33 shall also comply with existing requirements in law concerning the
+34 acceptance, solicitation, or publication of information, records, reports,
+35 applications, or other required materials.
+36 (3) A state agency, a court, or a local government entity may
+*JLL001*
+01/31/2025 10:13:46 AM JLL001
+
+SB170
+1 require an electronic form of receipt verification of information, records,
+2 reports, applications, or other required materials accepted, solicited, or
+3 published in an electronic form.
+4 (b) If as provided by this section, a state agency, a court, or a
+5 local government entity decides to accept, solicit, or publish the
+6 information, record, report, application, or other required material in an
+7 electronic form, the state agency, the court, or the local government entity
+8 shall:
+9 (1) Notify the Legislative Council within thirty (30) days of
+10 its decision and the justifications for the decision; and
+11 (2) On or before the expiration date of this section, advise the
+12 Legislative Council as to the sections of the Arkansas Code that should be
+13 amended to allow indefinitely for the discretion to accept, solicit, or
+14 publish the information, records, report, application, or other required
+15 material in an electronic form.
+16 (c) This section expires four (4) years after August 1, 2017.
+17
+18 SECTION 2. DO NOT CODIFY. CONSTRUCTION AND LEGISLATIVE INTENT.
+19 It is the intent of the General Assembly that:
+20 (1) The enactment and adoption of this act shall not expressly
+21 or impliedly repeal an act passed during the regular session of the Ninety-
+22 Fifth General Assembly;
+23 (2) To the extent that a conflict exists between an act of the
+24 regular session of the Ninety-Fifth General Assembly and this act:
+25 (A) The act of the regular session of the Ninety-Fifth
+26 General Assembly shall be treated as a subsequent act passed by the General
+27 Assembly for the purposes of:
+28 (i) Giving the act of the regular session of the
+29 Ninety-Fifth General Assembly its full force and effect; and
+30 (ii) Amending or repealing the appropriate parts of
+31 the Arkansas Code of 1987; and
+32 (B) Section 1-2-107 shall not apply; and
+33 (3) This act shall make only technical, not substantive, changes
+34 to the Arkansas Code of 1987.
+35
+36
+2 01/31/2025 10:13:46 AM JLL001
+
+[DELETED:       A T F  T O P  B   S e  1  ( r r p m   ( a o t s a a   (]
+[DELETED: S2 0 r r p  ( l i e s   ( i   ( L a p m  (   S  I   ( o F   ( r    ( G A     ( N     ( t    (   ( t]

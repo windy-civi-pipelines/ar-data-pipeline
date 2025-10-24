@@ -1,0 +1,812 @@
+Title: Stricken language would be deleted from and underlined language would be added to present law.
+Official Title: Stricken language would be deleted from and underlined language would be added to present law.
+Number of Sections: 1
+Source: versions - SB 74
+Media Type: application/pdf
+Strikethrough Detection: 10 sections found
+
+================================================================================
+
+Section 1:
+1 State of Arkansas
+A Bill
+2 95th General Assembly
+3 Regular Session, 2025 SENATE BILL 74
+4
+5 By: Joint Budget Committee
+6
+7
+For An Act To Be Entitled
+8
+9 AN ACT TO MAKE AN APPROPRIATION FOR PERSONAL SERVICES
+10 AND OPERATING EXPENSES FOR THE DEPARTMENT OF VETERANS
+11 AFFAIRS FOR THE FISCAL YEAR ENDING JUNE 30, 2026; AND
+12 FOR OTHER PURPOSES.
+13
+14
+Subtitle
+15
+16 AN ACT FOR THE DEPARTMENT OF VETERANS
+17 AFFAIRS APPROPRIATION FOR THE 2025-2026
+18 FISCAL YEAR.
+19
+20
+21 BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF ARKANSAS:
+22
+23 SECTION 1. REGULAR SALARIES - OPERATIONS. There is hereby established
+24 for the Department of Veterans Affairs for the 2025-2026 fiscal year, the
+25 following maximum number of regular employees.
+26
+27 Maximum Annual
+28 Maximum Salary Rate
+29 Item Class No. of Fiscal Year
+30 No. Code Title Employees 2025-2026
+31 (1) SC015 SECRETARY OF VETERANS AFFAIRS 1 GRADE SE05
+32 (2) U008U ADVA DIRECTOR 1 GRADE SE02
+33 (3) L018N NURSE PRACTITIONER 1 GRADE MP04
+34 (4) L002C NURSING DIRECTOR 2 GRADE MP04
+35 (5) L009C NURSE MANAGER 1 GRADE MP03
+36 (6) L019C REGISTERED NURSE COORDINATOR 1 GRADE MP02
+*BSS011*
+01/14/2025 2:25:29 PM BSS011
+SB74
+1 (7) L027C REGISTERED NURSE SUPERVISOR 1 GRADE MP02
+2 (8) L032C REGISTERED NURSE - HOSPITAL 18 GRADE MP01
+3 (9) D022N IT SENIOR PROJECT MANAGER 1 GRADE IT09
+4 (10) D079C COMPUTER SUPPORT TECHNICIAN 1 GRADE IT02
+5 (11) N197N NURSING HOME DIVISION DIRECTOR 1 GRADE GS15
+6 (12) L026N ADVA STATE VETERANS HOME ADMINISTRATOR 2 GRADE GS14
+7 (13) A133C ADVA CHIEF FINANCIAL OFFICER 1 GRADE GS13
+8 (14) G318C ADVA DIVISION DIRECTOR 2 GRADE GS13
+9 (15) L111C ADVA NURSING HOME ASST ADMINISTRATOR 2 GRADE GS12
+10 (16) R006C HUMAN RESOURCES ADMINISTRATOR 1 GRADE GS12
+11 (17) A027C ACCOUNTING OPERATIONS MANAGER 1 GRADE GS11
+12 (18) X223C ADVA QUALITY ASSURANCE ADMINISTRATOR 1 GRADE GS11
+13 (19) A044C AUDIT COORDINATOR 1 GRADE GS10
+14 (20) M009C LICENSED CERTIFIED SOCIAL WORKER 2 GRADE GS09
+15 (21) P004C PUBLIC INFORMATION MANAGER 1 GRADE GS09
+16 (22) X038C QUALITY ASSURANCE MANAGER 2 GRADE GS09
+17 (23) A082C ACCOUNTANT II 1 GRADE GS08
+18 (24) S003C FOOD & BEVERAGE DIRECTOR 2 GRADE GS08
+19 (25) R014C PERSONNEL MANAGER 1 GRADE GS08
+20 (26) V004C PROCUREMENT MANAGER 1 GRADE GS08
+21 (27) A041C PROGRAM FISCAL MANAGER 1 GRADE GS08
+22 (28) X062C QUALITY ASSURANCE COORDINATOR 2 GRADE GS08
+23 (29) G253C ADVA SERVICE OFFICER 11 GRADE GS07
+24 (30) G237C ADVA CEMETERY MANAGER 2 GRADE GS07
+25 (31) U009U ADVA VETERANS CHILD WELFARE DIR 1 GRADE GS07
+26 (32) R024C ASSISTANT PERSONNEL MANAGER 1 GRADE GS07
+27 (33) G159C DEPARTMENT BUSINESS COORDINATOR 1 GRADE GS07
+28 (34) P065C DEVELOPMENT SPECIALIST 2 GRADE GS07
+29 (35) S017C MAINTENANCE COORDINATOR 2 GRADE GS07
+30 (36) M024C RESIDENTIAL SERVICES MANAGER 1 GRADE GS07
+31 (37) C037C ADMINISTRATIVE ANALYST 1 GRADE GS06
+32 (38) L069C LICENSED PRACTICAL NURSE 40 GRADE GS06
+33 (39) S033C MAINTENANCE SUPERVISOR 2 GRADE GS06
+34 (40) C022C BUSINESS OPERATIONS SPECIALIST 1 GRADE GS05
+35 (41) V014C BUYER 1 GRADE GS05
+36 (42) A091C FISCAL SUPPORT ANALYST 1 GRADE GS05
+2 01/14/2025 2:25:29 PM BSS011
+SB74
+1 (43) R032C HUMAN RESOURCES PROGRAM REPRESENTATIVE 3 GRADE GS05
+2 (44) V015C PURCHASING SPECIALIST 1 GRADE GS05
+3 (45) M065C RECREATIONAL ACTIVITY SUPERVISOR 2 GRADE GS05
+4 (46) V018C WAREHOUSE MANAGER 1 GRADE GS05
+5 (47) C056C ADMINISTRATIVE SPECIALIST III 2 GRADE GS04
+6 (48) S044C FOOD PREPARATION MANAGER 1 GRADE GS04
+7 (49) S046C MAINTENANCE TECHNICIAN 9 GRADE GS04
+8 (50) C073C ADMINISTRATIVE SPECIALIST II 3 GRADE GS03
+9 (51) L082C CERTIFIED NURSING ASSISTANT 146 GRADE GS03
+10 (52) S056C FOOD PREPARATION SUPERVISOR 3 GRADE GS03
+11 (53) S050C MAINTENANCE SPECIALIST 3 GRADE GS03
+12 (54) C087C ADMINISTRATIVE SPECIALIST I 1 GRADE GS02
+13 (55) S085C FOOD PREPARATION SPECIALIST 7 GRADE GS02
+14 (56) S084C INSTITUTIONAL SERVICES SUPERVISOR 1 GRADE GS02
+15 (57) S089C FOOD PREPARATION TECHNICIAN 2 GRADE GS01
+16 MAX. NO. OF EMPLOYEES 305
+17
+18 SECTION 2. APPROPRIATION - STATE OPERATIONS. There is hereby
+19 appropriated, to the Department of Veterans Affairs, to be payable from the
+20 Miscellaneous Agencies Fund Account, for personal services and operating
+21 expenses of the Department of Veterans Affairs - State Operations for the
+22 fiscal year ending June 30, 2026, the following:
+23
+24 ITEM FISCAL YEAR
+25 NO. 2025-2026
+26 (01) REGULAR SALARIES $1,328,091
+27 (02) PERSONAL SERVICES MATCHING 476,999
+28 (03) MAINT. & GEN. OPERATION
+29 (A) OPER. EXPENSE 197,906
+30 (B) CONF. & TRAVEL 69,594
+31 (C) PROF. FEES 0
+32 (D) CAP. OUTLAY 0
+33 (E) DATA PROC. 0
+34 (04) AID TO COUNTY VETERANS' SERVICE
+35 OFFICES 516,000
+36 (05) PROMOTIONAL ITEMS 4,000
+3 01/14/2025 2:25:29 PM BSS011
+SB74
+1 TOTAL AMOUNT APPROPRIATED $2,592,590
+2
+3 SECTION 3. EXTRA HELP - VETERANS' HOMES. There is hereby authorized,
+4 for the Department of Veterans Affairs - Veterans' Homes for the 2025-2026
+5 fiscal year, the following maximum number of part-time or temporary
+6 employees, to be known as "Extra Help", payable from funds appropriated
+7 herein for such purposes: thirty (30) temporary or part-time employees, when
+8 needed, at rates of pay not to exceed those provided in the Uniform
+9 Classification and Compensation Act, or its successor, or this act for the
+10 appropriate classification.
+11
+12 SECTION 4. APPROPRIATION - VETERANS' HOMES - CASH. There is hereby
+13 appropriated, to the Department of Veterans Affairs, to be payable from the
+14 cash fund deposited in the State Treasury as determined by the Chief Fiscal
+15 Officer of the State, for personal services and operating expenses of the
+16 Department of Veterans Affairs - Veterans' Homes - Cash for the fiscal year
+17 ending June 30, 2026, the following:
+18
+19 ITEM FISCAL YEAR
+20 NO. 2025-2026
+21 (01) REGULAR SALARIES $11,198,689
+22 (02) EXTRA HELP 45,339
+23 (03) PERSONAL SERVICES MATCHING 4,810,335
+24 (04) OVERTIME 550,000
+25 (05) MAINT. & GEN. OPERATION
+26 (A) OPER. EXPENSE 14,903,703
+27 (B) CONF. & TRAVEL 52,500
+28 (C) PROF. FEES 1,176,000
+29 (D) CAP. OUTLAY 313,000
+30 (E) DATA PROC. 0
+31 (06) PROMOTIONAL ITEMS 6,000
+32 (07) SPECIAL MAINTENANCE 72,831
+33 TOTAL AMOUNT APPROPRIATED $33,128,397
+34
+35 SECTION 5. APPROPRIATION - NW AR STATE VETERANS' HOME - CASH. There is
+36 hereby appropriated, to the Department of Veterans Affairs, to be payable
+4 01/14/2025 2:25:29 PM BSS011
+SB74
+1 from the cash fund deposited in the State Treasury as determined by the Chief
+2 Fiscal Officer of the State, for matching funds for land acquisition,
+3 improvements, construction, renovation, and purchase of equipment for a State
+4 Veterans' Home in Northwest Arkansas for the Department of Veterans Affairs -
+5 NW AR State Veterans' Home - Cash for the fiscal year ending June 30, 2026,
+6 the following:
+7
+8 ITEM FISCAL YEAR
+9 NO. 2025-2026
+10 (01) NW AR STATE VETERANS HOME $15,000,000
+11
+12 SECTION 6. APPROPRIATION - NW AR STATE VETERANS' HOME - FEDERAL. There
+13 is hereby appropriated, to the Department of Veterans Affairs, to be payable
+14 from the federal funds as designated by the Chief Fiscal Officer of the
+15 State, for land acquisition, improvements, construction renovation, and
+16 purchase of equipment for a State Veterans' Home in Northwest Arkansas for
+17 the Department of Veterans Affairs - NW AR State Veterans Home - Federal for
+18 the fiscal year ending June 30, 2026, the following:
+19
+20 ITEM FISCAL YEAR
+21 NO. 2025-2026
+22 (01) NW AR STATE VETERANS HOME - FEDERAL $30,000,000
+23
+24 SECTION 7. APPROPRIATION - VETERANS' CEMETERIES - STATE. There is
+25 hereby appropriated, to the Department of Veterans Affairs, to be payable
+26 from the Miscellaneous Agencies Fund Account, for personal services and
+27 operating expenses of the Department of Veterans Affairs - Veterans'
+28 Cemeteries - State for the fiscal year ending June 30, 2026, the following:
+29
+30 ITEM FISCAL YEAR
+31 NO. 2025-2026
+32 (01) REGULAR SALARIES $688,586
+33 (02) PERSONAL SERVICES MATCHING 286,867
+34 (03) MAINT. & GEN. OPERATION
+35 (A) OPER. EXPENSE 158,350
+36 (B) CONF. & TRAVEL 0
+5 01/14/2025 2:25:29 PM BSS011
+SB74
+1 (C) PROF. FEES 0
+2 (D) CAP. OUTLAY 0
+3 (E) DATA PROC. 0
+4 (04) CEMETERY REALIGNMENT AND MAINTENANCE 50,000
+5 TOTAL AMOUNT APPROPRIATED $1,183,803
+6
+7 SECTION 8. EXTRA HELP - VETERANS' CEMETERIES - CASH. There is hereby
+8 authorized, for the Department of Veterans Affairs - Veterans' Cemeteries -
+9 Cash for the 2025-2026 fiscal year, the following maximum number of part-time
+10 or temporary employees, to be known as "Extra Help", payable from funds
+11 appropriated herein for such purposes: five (5) temporary or part-time
+12 employees, when needed, at rates of pay not to exceed those provided in the
+13 Uniform Classification and Compensation Act, or its successor, or this act
+14 for the appropriate classification.
+15
+16 SECTION 9. APPROPRIATION - VETERANS' CEMETERIES - CASH. There is
+17 hereby appropriated, to the Department of Veterans Affairs, to be payable
+18 from the cash fund deposited in the State Treasury as determined by the Chief
+19 Fiscal Officer of the State, for personal services and operating expenses of
+20 the Department of Veterans Affairs - Veterans' Cemeteries - Cash for the
+21 fiscal year ending June 30, 2026, the following:
+22
+23 ITEM FISCAL YEAR
+24 NO. 2025-2026
+25 (01) REGULAR SALARIES $28,020
+26 (02) EXTRA HELP 24,000
+27 (03) PERSONAL SERVICES MATCHING 14,213
+28 (04) MAINT. & GEN. OPERATION
+29 (A) OPER. EXPENSE 453,475
+30 (B) CONF. & TRAVEL 17,600
+31 (C) PROF. FEES 0
+32 (D) CAP. OUTLAY 125,000
+33 (E) DATA PROC. 0
+34 (05) PROMOTIONAL ITEMS 6,500
+35 TOTAL AMOUNT APPROPRIATED $668,808
+36
+6 01/14/2025 2:25:29 PM BSS011
+SB74
+1 SECTION 10. APPROPRIATION - MILITARY FUNERAL HONORS PROGRAM. There is
+2 hereby appropriated, to the Department of Veterans Affairs, to be payable
+3 from the Military Funeral Honors Fund, for operating expenses of the
+4 Department of Veterans Affairs - Military Funeral Honors Program for the
+5 fiscal year ending June 30, 2026, the following:
+6
+7 ITEM FISCAL YEAR
+8 NO. 2025-2026
+9 (01) MILITARY FUNERAL HONORS EXPENSES $45,900
+10
+11 SECTION 11. APPROPRIATION - NLR CEMETERY EXPANSION 2 - FEDERAL. There
+12 is hereby appropriated, to the Department of Veterans Affairs, to be payable
+13 from the federal funds as designated by the Chief Fiscal Officer of the
+14 State, for construction and expansion expenses for the North Little Rock
+15 Veterans' Cemetery of the Department of Veterans Affairs - NLR Cemetery
+16 Expansion 2 - Federal for the fiscal year ending June 30, 2026, the
+17 following:
+18
+19 ITEM FISCAL YEAR
+20 NO. 2025-2026
+21 (01) CONSTRUCTION AND EXPANSION EXPENSES $2,000,000
+22
+23 SECTION 12. APPROPRIATION - OPERATIONS - DIABLED VETERANS' SERVICES
+24 OFFICE. There is hereby appropriated, to the Department of Veterans Affairs,
+25 to be payable from the Miscellaneous Agencies Fund Account, for personal
+26 services and operating expenses of the Department of Veterans Affairs -
+27 Disabled Veteran's Services Office for the fiscal year ending June 30, 2026,
+28 the following:
+29
+30 ITEM FISCAL YEAR
+31 NO. 2025-2026
+32 (01) REGULAR SALARIES $33,205
+33 (02) PERSONAL SERVICES MATCHING 15,547
+34 (03) MAINT. & GEN. OPERATION
+35 (A) OPER. EXPENSE 3,000
+36 (B) CONF. & TRAVEL 0
+7 01/14/2025 2:25:29 PM BSS011
+SB74
+1 (C) PROF. FEES 0
+2 (D) CAP. OUTLAY 0
+3 (E) DATA PROC. 0
+4 TOTAL AMOUNT APPROPRIATED $51,752
+5
+6 SECTION 13. APPROPRIATION - OPERATIONS - ARKANSAS VETERANS' CHILD
+7 WELFARE SERVICE. There is hereby appropriated, to the Department of Veterans
+8 Affairs, to be payable from the Miscellaneous Agencies Fund Account, for
+9 personal services and operating expenses of the Department of Veterans
+10 Affairs - Arkansas Veterans' Child Welfare Service for the fiscal year ending
+11 June 30, 2026, the following:
+12
+13 ITEM FISCAL YEAR
+14 NO. 2025-2026
+15 (01) REGULAR SALARIES $48,400
+16 (02) PERSONAL SERVICES MATCHING 19,037
+17 (03) MAINT. & GEN. OPERATION
+18 (A) OPER. EXPENSE 4,182
+19 (B) CONF. & TRAVEL 0
+20 (C) PROF. FEES 0
+21 (D) CAP. OUTLAY 0
+22 (E) DATA PROC. 0
+23 (04) GRANTS/AID-ASSISTANCE TO MINOR
+24 CHILDREN 107,762
+25 TOTAL AMOUNT APPROPRIATED $179,381
+26
+27 SECTION 14. SPECIAL LANGUAGE. NOT TO BE INCORPORATED INTO THE ARKANSAS
+28 36 CODE NOR PUBLISHED SEPARATELY AS SPECIAL, LOCAL AND TEMPORARY LAW.
+29 ARKANSAS DEPARTMENT OF VETERANS AFFAIRS. At the close of the fiscal year
+30 ending June 30, 2025, the Chief Fiscal Officer of the State shall authorize
+31 up to $50,000 of the balance of funds remaining in the Miscellaneous Agencies
+32 Fund Account for the Department of Veterans Affairs for operations to be
+33 transferred into a sub-fund created within the Miscellaneous Agencies Fund
+34 Account to support the state veteran cemetery realignment and maintenance
+35 expenses in the appropriation entitled "Cemetery Realignment and Maintenance
+36 Expenses".
+8 01/14/2025 2:25:29 PM BSS011
+SB74
+1 Any carry forward of unexpended balance of funding as authorized herein, may
+2 be carried forward under the following conditions:
+3 (1) Prior to June 30, 2025 the Agency shall by written statement set forth
+4 its reason(s) for the need to carry forward said funding to the Department
+5 of Finance and Administration Office of Budget;
+6 (2) The Department of Finance and Administration Office of Budget shall
+7 report to the Arkansas Legislative Council all amounts carried forward by the
+8 September Arkansas Legislative Council or Joint Budget Committee meeting
+9 which report shall include the name of the Agency, Board, Commission or
+10 Institution and the amount of the funding carried forward from the first
+11 fiscal year to the second fiscal year, the program name or line item, the
+12 funding source of that appropriation and a copy of the written request set
+13 forth in (1) above;
+14 (3) Each Agency, Board, Commission or Institution shall provide a written
+15 report to the Arkansas Legislative Council or Joint Budget Committee
+16 containing all information set forth in item (2) above, along with a written
+17 statement as to the current status of the project, contract, purpose etc. for
+18 which the carry forward was originally requested no later than thirty (30)
+19 days prior to the time the Agency, Board, Commission or Institution presents
+20 its budget request to the Arkansas Legislative Council/Joint Budget
+21 Committee; and
+22 (4) Thereupon, the Department of Finance and Administration shall include
+23 all information obtained in item (3) above in the budget manuals and/or a
+24 statement of non-compliance by the Agency, Board, Commission or Institution.
+25 The provisions of this section shall be in effect only from July 1, 2025
+26 through June 30, 2026.
+27
+28 SECTION 15. COMPLIANCE WITH OTHER LAWS. Disbursement of funds
+29 authorized by this act shall be limited to the appropriation for such agency
+30 and funds made available by law for the support of such appropriations; and
+31 the restrictions of the State Procurement Law, the General Accounting and
+32 Budgetary Procedures Law, the Revenue Stabilization Law, the Regular Salary
+33 Procedures and Restrictions Act, or their successors, and other fiscal
+34 control laws of this State, where applicable, and regulations promulgated by
+35 the Department of Finance and Administration, as authorized by law, shall be
+36 strictly complied with in disbursement of said funds.
+9 01/14/2025 2:25:29 PM BSS011
+SB74
+1
+2 SECTION 16. LEGISLATIVE INTENT. It is the intent of the General
+3 Assembly that any funds disbursed under the authority of the appropriations
+4 contained in this act shall be in compliance with the stated reasons for
+5 which this act was adopted, as evidenced by the Agency Requests, Executive
+6 Recommendations and Legislative Recommendations contained in the budget
+7 manuals prepared by the Department of Finance and Administration, letters, or
+8 summarized oral testimony in the official minutes of the Arkansas Legislative
+9 Council or Joint Budget Committee which relate to its passage and adoption.
+10
+11 SECTION 17. EMERGENCY CLAUSE. It is found and determined by the
+12 General Assembly, that the Constitution of the State of Arkansas prohibits
+13 the appropriation of funds for more than a one (1) year period; that the
+14 effectiveness of this Act on July 1, 2025 is essential to the operation of
+15 the agency for which the appropriations in this Act are provided, and that in
+16 the event of an extension of the legislative session, the delay in the
+17 effective date of this Act beyond July 1, 2025 could work irreparable harm
+18 upon the proper administration and provision of essential governmental
+19 programs. Therefore, an emergency is hereby declared to exist and this Act
+20 being necessary for the immediate preservation of the public peace, health
+21 and safety shall be in full force and effect from and after July 1, 2025.
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+10 01/14/2025 2:25:29 PM BSS011
+[DELETED:      S A A A F  A A F    B   S f f                     ]
+[DELETED: S2 0                                                                        ]
+[DELETED: S3 0                                   S a M e f  I   ( ( (           (   (]
+[DELETED: S4 0     S f f e h n C a   S a c O D e  I   ( ( ( ( (           ( (     S h]
+[DELETED: S5 0 f F i V N t  I   (   S i f S p t t  I   (   S h f o C  I   ( ( (    ]
+[DELETED: S6 0       (     S a C o a e U f   S h f F t f  I   ( ( ( (           (   ]
+[DELETED: S7 0  S h f D f  I   (   S i f S V E f  I   (   S O t s D t  I   ( ( (    ]
+[DELETED: S8 0           S W A p A J  I   ( ( (           (       S 3 A e u F t A e E]
+[DELETED: S9 0 A b ( i o ( r S w I f f f ( r c s w d i C ( a s T t   S a a t B P c t s]
+[DELETED: S1 0   S A c w R m s C   S G t e t t e u p b a               ]
+
+
+================================================================================
+
+Raw Text:
+Stricken language would be deleted from and underlined language would be added to present law.
+1 State of Arkansas
+A Bill
+2 95th General Assembly
+3 Regular Session, 2025 SENATE BILL 74
+4
+5 By: Joint Budget Committee
+6
+7
+For An Act To Be Entitled
+8
+9 AN ACT TO MAKE AN APPROPRIATION FOR PERSONAL SERVICES
+10 AND OPERATING EXPENSES FOR THE DEPARTMENT OF VETERANS
+11 AFFAIRS FOR THE FISCAL YEAR ENDING JUNE 30, 2026; AND
+12 FOR OTHER PURPOSES.
+13
+14
+Subtitle
+15
+16 AN ACT FOR THE DEPARTMENT OF VETERANS
+17 AFFAIRS APPROPRIATION FOR THE 2025-2026
+18 FISCAL YEAR.
+19
+20
+21 BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF ARKANSAS:
+22
+23 SECTION 1. REGULAR SALARIES - OPERATIONS. There is hereby established
+24 for the Department of Veterans Affairs for the 2025-2026 fiscal year, the
+25 following maximum number of regular employees.
+26
+27 Maximum Annual
+28 Maximum Salary Rate
+29 Item Class No. of Fiscal Year
+30 No. Code Title Employees 2025-2026
+31 (1) SC015 SECRETARY OF VETERANS AFFAIRS 1 GRADE SE05
+32 (2) U008U ADVA DIRECTOR 1 GRADE SE02
+33 (3) L018N NURSE PRACTITIONER 1 GRADE MP04
+34 (4) L002C NURSING DIRECTOR 2 GRADE MP04
+35 (5) L009C NURSE MANAGER 1 GRADE MP03
+36 (6) L019C REGISTERED NURSE COORDINATOR 1 GRADE MP02
+*BSS011*
+01/14/2025 2:25:29 PM BSS011
+
+SB74
+1 (7) L027C REGISTERED NURSE SUPERVISOR 1 GRADE MP02
+2 (8) L032C REGISTERED NURSE - HOSPITAL 18 GRADE MP01
+3 (9) D022N IT SENIOR PROJECT MANAGER 1 GRADE IT09
+4 (10) D079C COMPUTER SUPPORT TECHNICIAN 1 GRADE IT02
+5 (11) N197N NURSING HOME DIVISION DIRECTOR 1 GRADE GS15
+6 (12) L026N ADVA STATE VETERANS HOME ADMINISTRATOR 2 GRADE GS14
+7 (13) A133C ADVA CHIEF FINANCIAL OFFICER 1 GRADE GS13
+8 (14) G318C ADVA DIVISION DIRECTOR 2 GRADE GS13
+9 (15) L111C ADVA NURSING HOME ASST ADMINISTRATOR 2 GRADE GS12
+10 (16) R006C HUMAN RESOURCES ADMINISTRATOR 1 GRADE GS12
+11 (17) A027C ACCOUNTING OPERATIONS MANAGER 1 GRADE GS11
+12 (18) X223C ADVA QUALITY ASSURANCE ADMINISTRATOR 1 GRADE GS11
+13 (19) A044C AUDIT COORDINATOR 1 GRADE GS10
+14 (20) M009C LICENSED CERTIFIED SOCIAL WORKER 2 GRADE GS09
+15 (21) P004C PUBLIC INFORMATION MANAGER 1 GRADE GS09
+16 (22) X038C QUALITY ASSURANCE MANAGER 2 GRADE GS09
+17 (23) A082C ACCOUNTANT II 1 GRADE GS08
+18 (24) S003C FOOD & BEVERAGE DIRECTOR 2 GRADE GS08
+19 (25) R014C PERSONNEL MANAGER 1 GRADE GS08
+20 (26) V004C PROCUREMENT MANAGER 1 GRADE GS08
+21 (27) A041C PROGRAM FISCAL MANAGER 1 GRADE GS08
+22 (28) X062C QUALITY ASSURANCE COORDINATOR 2 GRADE GS08
+23 (29) G253C ADVA SERVICE OFFICER 11 GRADE GS07
+24 (30) G237C ADVA CEMETERY MANAGER 2 GRADE GS07
+25 (31) U009U ADVA VETERANS CHILD WELFARE DIR 1 GRADE GS07
+26 (32) R024C ASSISTANT PERSONNEL MANAGER 1 GRADE GS07
+27 (33) G159C DEPARTMENT BUSINESS COORDINATOR 1 GRADE GS07
+28 (34) P065C DEVELOPMENT SPECIALIST 2 GRADE GS07
+29 (35) S017C MAINTENANCE COORDINATOR 2 GRADE GS07
+30 (36) M024C RESIDENTIAL SERVICES MANAGER 1 GRADE GS07
+31 (37) C037C ADMINISTRATIVE ANALYST 1 GRADE GS06
+32 (38) L069C LICENSED PRACTICAL NURSE 40 GRADE GS06
+33 (39) S033C MAINTENANCE SUPERVISOR 2 GRADE GS06
+34 (40) C022C BUSINESS OPERATIONS SPECIALIST 1 GRADE GS05
+35 (41) V014C BUYER 1 GRADE GS05
+36 (42) A091C FISCAL SUPPORT ANALYST 1 GRADE GS05
+2 01/14/2025 2:25:29 PM BSS011
+
+SB74
+1 (43) R032C HUMAN RESOURCES PROGRAM REPRESENTATIVE 3 GRADE GS05
+2 (44) V015C PURCHASING SPECIALIST 1 GRADE GS05
+3 (45) M065C RECREATIONAL ACTIVITY SUPERVISOR 2 GRADE GS05
+4 (46) V018C WAREHOUSE MANAGER 1 GRADE GS05
+5 (47) C056C ADMINISTRATIVE SPECIALIST III 2 GRADE GS04
+6 (48) S044C FOOD PREPARATION MANAGER 1 GRADE GS04
+7 (49) S046C MAINTENANCE TECHNICIAN 9 GRADE GS04
+8 (50) C073C ADMINISTRATIVE SPECIALIST II 3 GRADE GS03
+9 (51) L082C CERTIFIED NURSING ASSISTANT 146 GRADE GS03
+10 (52) S056C FOOD PREPARATION SUPERVISOR 3 GRADE GS03
+11 (53) S050C MAINTENANCE SPECIALIST 3 GRADE GS03
+12 (54) C087C ADMINISTRATIVE SPECIALIST I 1 GRADE GS02
+13 (55) S085C FOOD PREPARATION SPECIALIST 7 GRADE GS02
+14 (56) S084C INSTITUTIONAL SERVICES SUPERVISOR 1 GRADE GS02
+15 (57) S089C FOOD PREPARATION TECHNICIAN 2 GRADE GS01
+16 MAX. NO. OF EMPLOYEES 305
+17
+18 SECTION 2. APPROPRIATION - STATE OPERATIONS. There is hereby
+19 appropriated, to the Department of Veterans Affairs, to be payable from the
+20 Miscellaneous Agencies Fund Account, for personal services and operating
+21 expenses of the Department of Veterans Affairs - State Operations for the
+22 fiscal year ending June 30, 2026, the following:
+23
+24 ITEM FISCAL YEAR
+25 NO. 2025-2026
+26 (01) REGULAR SALARIES $1,328,091
+27 (02) PERSONAL SERVICES MATCHING 476,999
+28 (03) MAINT. & GEN. OPERATION
+29 (A) OPER. EXPENSE 197,906
+30 (B) CONF. & TRAVEL 69,594
+31 (C) PROF. FEES 0
+32 (D) CAP. OUTLAY 0
+33 (E) DATA PROC. 0
+34 (04) AID TO COUNTY VETERANS' SERVICE
+35 OFFICES 516,000
+36 (05) PROMOTIONAL ITEMS 4,000
+3 01/14/2025 2:25:29 PM BSS011
+
+SB74
+1 TOTAL AMOUNT APPROPRIATED $2,592,590
+2
+3 SECTION 3. EXTRA HELP - VETERANS' HOMES. There is hereby authorized,
+4 for the Department of Veterans Affairs - Veterans' Homes for the 2025-2026
+5 fiscal year, the following maximum number of part-time or temporary
+6 employees, to be known as "Extra Help", payable from funds appropriated
+7 herein for such purposes: thirty (30) temporary or part-time employees, when
+8 needed, at rates of pay not to exceed those provided in the Uniform
+9 Classification and Compensation Act, or its successor, or this act for the
+10 appropriate classification.
+11
+12 SECTION 4. APPROPRIATION - VETERANS' HOMES - CASH. There is hereby
+13 appropriated, to the Department of Veterans Affairs, to be payable from the
+14 cash fund deposited in the State Treasury as determined by the Chief Fiscal
+15 Officer of the State, for personal services and operating expenses of the
+16 Department of Veterans Affairs - Veterans' Homes - Cash for the fiscal year
+17 ending June 30, 2026, the following:
+18
+19 ITEM FISCAL YEAR
+20 NO. 2025-2026
+21 (01) REGULAR SALARIES $11,198,689
+22 (02) EXTRA HELP 45,339
+23 (03) PERSONAL SERVICES MATCHING 4,810,335
+24 (04) OVERTIME 550,000
+25 (05) MAINT. & GEN. OPERATION
+26 (A) OPER. EXPENSE 14,903,703
+27 (B) CONF. & TRAVEL 52,500
+28 (C) PROF. FEES 1,176,000
+29 (D) CAP. OUTLAY 313,000
+30 (E) DATA PROC. 0
+31 (06) PROMOTIONAL ITEMS 6,000
+32 (07) SPECIAL MAINTENANCE 72,831
+33 TOTAL AMOUNT APPROPRIATED $33,128,397
+34
+35 SECTION 5. APPROPRIATION - NW AR STATE VETERANS' HOME - CASH. There is
+36 hereby appropriated, to the Department of Veterans Affairs, to be payable
+4 01/14/2025 2:25:29 PM BSS011
+
+SB74
+1 from the cash fund deposited in the State Treasury as determined by the Chief
+2 Fiscal Officer of the State, for matching funds for land acquisition,
+3 improvements, construction, renovation, and purchase of equipment for a State
+4 Veterans' Home in Northwest Arkansas for the Department of Veterans Affairs -
+5 NW AR State Veterans' Home - Cash for the fiscal year ending June 30, 2026,
+6 the following:
+7
+8 ITEM FISCAL YEAR
+9 NO. 2025-2026
+10 (01) NW AR STATE VETERANS HOME $15,000,000
+11
+12 SECTION 6. APPROPRIATION - NW AR STATE VETERANS' HOME - FEDERAL. There
+13 is hereby appropriated, to the Department of Veterans Affairs, to be payable
+14 from the federal funds as designated by the Chief Fiscal Officer of the
+15 State, for land acquisition, improvements, construction renovation, and
+16 purchase of equipment for a State Veterans' Home in Northwest Arkansas for
+17 the Department of Veterans Affairs - NW AR State Veterans Home - Federal for
+18 the fiscal year ending June 30, 2026, the following:
+19
+20 ITEM FISCAL YEAR
+21 NO. 2025-2026
+22 (01) NW AR STATE VETERANS HOME - FEDERAL $30,000,000
+23
+24 SECTION 7. APPROPRIATION - VETERANS' CEMETERIES - STATE. There is
+25 hereby appropriated, to the Department of Veterans Affairs, to be payable
+26 from the Miscellaneous Agencies Fund Account, for personal services and
+27 operating expenses of the Department of Veterans Affairs - Veterans'
+28 Cemeteries - State for the fiscal year ending June 30, 2026, the following:
+29
+30 ITEM FISCAL YEAR
+31 NO. 2025-2026
+32 (01) REGULAR SALARIES $688,586
+33 (02) PERSONAL SERVICES MATCHING 286,867
+34 (03) MAINT. & GEN. OPERATION
+35 (A) OPER. EXPENSE 158,350
+36 (B) CONF. & TRAVEL 0
+5 01/14/2025 2:25:29 PM BSS011
+
+SB74
+1 (C) PROF. FEES 0
+2 (D) CAP. OUTLAY 0
+3 (E) DATA PROC. 0
+4 (04) CEMETERY REALIGNMENT AND MAINTENANCE 50,000
+5 TOTAL AMOUNT APPROPRIATED $1,183,803
+6
+7 SECTION 8. EXTRA HELP - VETERANS' CEMETERIES - CASH. There is hereby
+8 authorized, for the Department of Veterans Affairs - Veterans' Cemeteries -
+9 Cash for the 2025-2026 fiscal year, the following maximum number of part-time
+10 or temporary employees, to be known as "Extra Help", payable from funds
+11 appropriated herein for such purposes: five (5) temporary or part-time
+12 employees, when needed, at rates of pay not to exceed those provided in the
+13 Uniform Classification and Compensation Act, or its successor, or this act
+14 for the appropriate classification.
+15
+16 SECTION 9. APPROPRIATION - VETERANS' CEMETERIES - CASH. There is
+17 hereby appropriated, to the Department of Veterans Affairs, to be payable
+18 from the cash fund deposited in the State Treasury as determined by the Chief
+19 Fiscal Officer of the State, for personal services and operating expenses of
+20 the Department of Veterans Affairs - Veterans' Cemeteries - Cash for the
+21 fiscal year ending June 30, 2026, the following:
+22
+23 ITEM FISCAL YEAR
+24 NO. 2025-2026
+25 (01) REGULAR SALARIES $28,020
+26 (02) EXTRA HELP 24,000
+27 (03) PERSONAL SERVICES MATCHING 14,213
+28 (04) MAINT. & GEN. OPERATION
+29 (A) OPER. EXPENSE 453,475
+30 (B) CONF. & TRAVEL 17,600
+31 (C) PROF. FEES 0
+32 (D) CAP. OUTLAY 125,000
+33 (E) DATA PROC. 0
+34 (05) PROMOTIONAL ITEMS 6,500
+35 TOTAL AMOUNT APPROPRIATED $668,808
+36
+6 01/14/2025 2:25:29 PM BSS011
+
+SB74
+1 SECTION 10. APPROPRIATION - MILITARY FUNERAL HONORS PROGRAM. There is
+2 hereby appropriated, to the Department of Veterans Affairs, to be payable
+3 from the Military Funeral Honors Fund, for operating expenses of the
+4 Department of Veterans Affairs - Military Funeral Honors Program for the
+5 fiscal year ending June 30, 2026, the following:
+6
+7 ITEM FISCAL YEAR
+8 NO. 2025-2026
+9 (01) MILITARY FUNERAL HONORS EXPENSES $45,900
+10
+11 SECTION 11. APPROPRIATION - NLR CEMETERY EXPANSION 2 - FEDERAL. There
+12 is hereby appropriated, to the Department of Veterans Affairs, to be payable
+13 from the federal funds as designated by the Chief Fiscal Officer of the
+14 State, for construction and expansion expenses for the North Little Rock
+15 Veterans' Cemetery of the Department of Veterans Affairs - NLR Cemetery
+16 Expansion 2 - Federal for the fiscal year ending June 30, 2026, the
+17 following:
+18
+19 ITEM FISCAL YEAR
+20 NO. 2025-2026
+21 (01) CONSTRUCTION AND EXPANSION EXPENSES $2,000,000
+22
+23 SECTION 12. APPROPRIATION - OPERATIONS - DIABLED VETERANS' SERVICES
+24 OFFICE. There is hereby appropriated, to the Department of Veterans Affairs,
+25 to be payable from the Miscellaneous Agencies Fund Account, for personal
+26 services and operating expenses of the Department of Veterans Affairs -
+27 Disabled Veteran's Services Office for the fiscal year ending June 30, 2026,
+28 the following:
+29
+30 ITEM FISCAL YEAR
+31 NO. 2025-2026
+32 (01) REGULAR SALARIES $33,205
+33 (02) PERSONAL SERVICES MATCHING 15,547
+34 (03) MAINT. & GEN. OPERATION
+35 (A) OPER. EXPENSE 3,000
+36 (B) CONF. & TRAVEL 0
+7 01/14/2025 2:25:29 PM BSS011
+
+SB74
+1 (C) PROF. FEES 0
+2 (D) CAP. OUTLAY 0
+3 (E) DATA PROC. 0
+4 TOTAL AMOUNT APPROPRIATED $51,752
+5
+6 SECTION 13. APPROPRIATION - OPERATIONS - ARKANSAS VETERANS' CHILD
+7 WELFARE SERVICE. There is hereby appropriated, to the Department of Veterans
+8 Affairs, to be payable from the Miscellaneous Agencies Fund Account, for
+9 personal services and operating expenses of the Department of Veterans
+10 Affairs - Arkansas Veterans' Child Welfare Service for the fiscal year ending
+11 June 30, 2026, the following:
+12
+13 ITEM FISCAL YEAR
+14 NO. 2025-2026
+15 (01) REGULAR SALARIES $48,400
+16 (02) PERSONAL SERVICES MATCHING 19,037
+17 (03) MAINT. & GEN. OPERATION
+18 (A) OPER. EXPENSE 4,182
+19 (B) CONF. & TRAVEL 0
+20 (C) PROF. FEES 0
+21 (D) CAP. OUTLAY 0
+22 (E) DATA PROC. 0
+23 (04) GRANTS/AID-ASSISTANCE TO MINOR
+24 CHILDREN 107,762
+25 TOTAL AMOUNT APPROPRIATED $179,381
+26
+27 SECTION 14. SPECIAL LANGUAGE. NOT TO BE INCORPORATED INTO THE ARKANSAS
+28 36 CODE NOR PUBLISHED SEPARATELY AS SPECIAL, LOCAL AND TEMPORARY LAW.
+29 ARKANSAS DEPARTMENT OF VETERANS AFFAIRS. At the close of the fiscal year
+30 ending June 30, 2025, the Chief Fiscal Officer of the State shall authorize
+31 up to $50,000 of the balance of funds remaining in the Miscellaneous Agencies
+32 Fund Account for the Department of Veterans Affairs for operations to be
+33 transferred into a sub-fund created within the Miscellaneous Agencies Fund
+34 Account to support the state veteran cemetery realignment and maintenance
+35 expenses in the appropriation entitled "Cemetery Realignment and Maintenance
+36 Expenses".
+8 01/14/2025 2:25:29 PM BSS011
+
+SB74
+1 Any carry forward of unexpended balance of funding as authorized herein, may
+2 be carried forward under the following conditions:
+3 (1) Prior to June 30, 2025 the Agency shall by written statement set forth
+4 its reason(s) for the need to carry forward said funding to the Department
+5 of Finance and Administration Office of Budget;
+6 (2) The Department of Finance and Administration Office of Budget shall
+7 report to the Arkansas Legislative Council all amounts carried forward by the
+8 September Arkansas Legislative Council or Joint Budget Committee meeting
+9 which report shall include the name of the Agency, Board, Commission or
+10 Institution and the amount of the funding carried forward from the first
+11 fiscal year to the second fiscal year, the program name or line item, the
+12 funding source of that appropriation and a copy of the written request set
+13 forth in (1) above;
+14 (3) Each Agency, Board, Commission or Institution shall provide a written
+15 report to the Arkansas Legislative Council or Joint Budget Committee
+16 containing all information set forth in item (2) above, along with a written
+17 statement as to the current status of the project, contract, purpose etc. for
+18 which the carry forward was originally requested no later than thirty (30)
+19 days prior to the time the Agency, Board, Commission or Institution presents
+20 its budget request to the Arkansas Legislative Council/Joint Budget
+21 Committee; and
+22 (4) Thereupon, the Department of Finance and Administration shall include
+23 all information obtained in item (3) above in the budget manuals and/or a
+24 statement of non-compliance by the Agency, Board, Commission or Institution.
+25 The provisions of this section shall be in effect only from July 1, 2025
+26 through June 30, 2026.
+27
+28 SECTION 15. COMPLIANCE WITH OTHER LAWS. Disbursement of funds
+29 authorized by this act shall be limited to the appropriation for such agency
+30 and funds made available by law for the support of such appropriations; and
+31 the restrictions of the State Procurement Law, the General Accounting and
+32 Budgetary Procedures Law, the Revenue Stabilization Law, the Regular Salary
+33 Procedures and Restrictions Act, or their successors, and other fiscal
+34 control laws of this State, where applicable, and regulations promulgated by
+35 the Department of Finance and Administration, as authorized by law, shall be
+36 strictly complied with in disbursement of said funds.
+9 01/14/2025 2:25:29 PM BSS011
+
+SB74
+1
+2 SECTION 16. LEGISLATIVE INTENT. It is the intent of the General
+3 Assembly that any funds disbursed under the authority of the appropriations
+4 contained in this act shall be in compliance with the stated reasons for
+5 which this act was adopted, as evidenced by the Agency Requests, Executive
+6 Recommendations and Legislative Recommendations contained in the budget
+7 manuals prepared by the Department of Finance and Administration, letters, or
+8 summarized oral testimony in the official minutes of the Arkansas Legislative
+9 Council or Joint Budget Committee which relate to its passage and adoption.
+10
+11 SECTION 17. EMERGENCY CLAUSE. It is found and determined by the
+12 General Assembly, that the Constitution of the State of Arkansas prohibits
+13 the appropriation of funds for more than a one (1) year period; that the
+14 effectiveness of this Act on July 1, 2025 is essential to the operation of
+15 the agency for which the appropriations in this Act are provided, and that in
+16 the event of an extension of the legislative session, the delay in the
+17 effective date of this Act beyond July 1, 2025 could work irreparable harm
+18 upon the proper administration and provision of essential governmental
+19 programs. Therefore, an emergency is hereby declared to exist and this Act
+20 being necessary for the immediate preservation of the public peace, health
+21 and safety shall be in full force and effect from and after July 1, 2025.
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+10 01/14/2025 2:25:29 PM BSS011
+
+[DELETED:      S A A A F  A A F    B   S f f                     ]
+[DELETED: S2 0                                                                        ]
+[DELETED: S3 0                                   S a M e f  I   ( ( (           (   (]
+[DELETED: S4 0     S f f e h n C a   S a c O D e  I   ( ( ( ( (           ( (     S h]
+[DELETED: S5 0 f F i V N t  I   (   S i f S p t t  I   (   S h f o C  I   ( ( (    ]
+[DELETED: S6 0       (     S a C o a e U f   S h f F t f  I   ( ( ( (           (   ]
+[DELETED: S7 0  S h f D f  I   (   S i f S V E f  I   (   S O t s D t  I   ( ( (    ]
+[DELETED: S8 0           S W A p A J  I   ( ( (           (       S 3 A e u F t A e E]
+[DELETED: S9 0 A b ( i o ( r S w I f f f ( r c s w d i C ( a s T t   S a a t B P c t s]
+[DELETED: S1 0   S A c w R m s C   S G t e t t e u p b a               ]

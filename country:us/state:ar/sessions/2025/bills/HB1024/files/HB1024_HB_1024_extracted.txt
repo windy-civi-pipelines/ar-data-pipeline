@@ -1,0 +1,259 @@
+Title: Stricken language would be deleted from and underlined language would be added to present law.
+Official Title: Stricken language would be deleted from and underlined language would be added to present law.
+Number of Sections: 1
+Source: versions - HB 1024
+Media Type: application/pdf
+Strikethrough Detection: 3 sections found
+
+================================================================================
+
+Section 1:
+1 State of Arkansas As Engrossed: H1/16/25
+A Bill
+2 95th General Assembly
+3 Regular Session, 2025 HOUSE BILL 1024
+4
+5 Representatives A. Collins, Springer
+6
+7
+For An Act To Be Entitled
+8
+9 AN ACT TO AMEND THE LAW CONCERNING PUBLIC EMPLOYEES;
+10 TO REPEAL THE LAW PROHIBITING COLLECTIVE BARGAINING;
+11 AND FOR OTHER PURPOSES.
+12
+13
+Subtitle
+14
+15 TO AMEND THE LAW CONCERNING PUBLIC
+16 EMPLOYEES; AND TO REPEAL THE LAW
+17 PROHIBITING COLLECTIVE BARGAINING.
+18
+19 BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF ARKANSAS:
+20
+21 SECTION 1. Arkansas Code § 11-4-205 is amended to read as follows:
+22 11-4-205. Right of collective bargaining not affected.
+23 (a) Except as provided in subsection (b) of this section, nothing
+24 Nothing in this subchapter, including the provisions of § 11-4-218(b), shall
+25 be deemed to interfere with, impede, or in any way diminish the right of
+26 employers and employees to bargain collectively through representatives of
+27 their own choosing in order to establish wages or other conditions of work.
+28 (b) Collective bargaining by public employees is prohibited under §
+29 21-1-801 et seq.
+30
+31 SECTION 2. Arkansas Code Title 21, Chapter 1, Subchapter 8, is
+32 repealed.
+33 Subchapter 8 - Collective Bargaining
+34
+35 21-1-801. Definitions.
+36 As used in this subchapter:
+*LGL013*
+01-16-2025 14:46:42 LGL013
+As Engrossed: H1/16/25 HB1024
+1 (1)(A) “Public employee” means a person who performs a full-time
+2 or part-time service for wages, salary, or other remuneration for a public
+3 employer.
+4 (B) “Public employee” includes without limitation a state
+5 employee under § 21-1-610.
+6 (C) “Public employee” does not include a:
+7 (i) Public safety officer, including without
+8 limitation a:
+9 (a) Law enforcement officer; and
+10 (b) Firefighter; and
+11 (ii) Public transit system employee whose public
+12 employer is a recipient of a federal grant administered by the Federal
+13 Transit Administration;
+14 (2) “Public employer” means:
+15 (A) An agency, department, board, commission, division,
+16 office, bureau, council, authority, or other instrumentality of the state,
+17 including the offices of the various Arkansas elected constitutional officers
+18 and the General Assembly and its agencies, bureaus, and divisions;
+19 (B) A state-supported college, university, technical
+20 college, community college, or other institution of higher education or a
+21 department, division, or agency of a state institution of higher education;
+22 (C) The Supreme Court, the Court of Appeals, the
+23 Administrative Office of the Courts, the circuit courts, and prosecuting
+24 attorneys' offices; and
+25 (D) A public school district, school, or an office or
+26 department of a public school district in Arkansas; and
+27 (3) “Strike” means a refusal to work organized by two (2) or
+28 more public employees as a form of protest in an attempt to gain a concession
+29 or concessions from a public employer.
+30
+31 21-1-802. Collective bargaining prohibited.
+32 (a) A public employer shall not recognize a labor union or other
+33 public employee association as a bargaining agent of public employees.
+34 (b) A public employer shall not collectively bargain or enter into any
+35 collective bargaining contract with a labor union or other public employee
+36 association or its agents with respect to any matter relating to public
+2 01-16-2025 14:46:42 LGL013
+As Engrossed: H1/16/25 HB1024
+1 employees, public employees' employment with a public employer, or public
+2 employees' tenure with a public employer.
+3
+4 21-1-803. Prohibited activities.
+5 (a) A public employee willfully refuses to perform the duties of his
+6 or her employment with a public employer when, acting in concert with one (1)
+7 or more public employees, he or she:
+8 (1) Strikes or walks away from the duties of his or her
+9 employment with the public employer;
+10 (2) Physically obstructs the activity or operation of the public
+11 employer; or
+12 (3) Physically impedes the operations of a public employer.
+13 (b) A public employee who violates subsection (a) of this section
+14 shall be terminated by the public employer.
+15 (c) A public employee terminated under subsection (b) of this section
+16 is ineligible for employment with a public employer in any position or
+17 capacity for twelve (12) months after being terminated for willfully refusing
+18 to perform the duties of his or her employment with a public employer.
+19 (d) A public employer shall include in the public employer's personnel
+20 manual a statement that willfully refusing to perform the duties of his or
+21 her employment with a public employer constitutes grounds for dismissal.
+22
+23 21-1-804. Public employee associations.
+24 Public employees may form associations for the purpose of promoting the
+25 public employees' interests before a public employer.
+26
+27 /s/A. Collins
+28
+29
+30
+31
+32
+33
+34
+35
+36
+3 01-16-2025 14:46:42 LGL013
+[DELETED:  A    H    A T A   T E P  B   S  1   N b e t   2   S r S   2  A]
+[DELETED:  H2 0   ( o e    ( e    (     ( l      (      (     ( e T   (    ( o i a    ( c d    ( A a    ( d   ( m o   2  ( p  ( c a]
+[DELETED:  H3 0 e e   2  ( o o   ( e   ( e   (  ( s  ( i c t  ( m h   2  P p  /         ]
+
+
+================================================================================
+
+Raw Text:
+Stricken language would be deleted from and underlined language would be added to present law.
+1 State of Arkansas As Engrossed: H1/16/25
+A Bill
+2 95th General Assembly
+3 Regular Session, 2025 HOUSE BILL 1024
+4
+5 Representatives A. Collins, Springer
+6
+7
+For An Act To Be Entitled
+8
+9 AN ACT TO AMEND THE LAW CONCERNING PUBLIC EMPLOYEES;
+10 TO REPEAL THE LAW PROHIBITING COLLECTIVE BARGAINING;
+11 AND FOR OTHER PURPOSES.
+12
+13
+Subtitle
+14
+15 TO AMEND THE LAW CONCERNING PUBLIC
+16 EMPLOYEES; AND TO REPEAL THE LAW
+17 PROHIBITING COLLECTIVE BARGAINING.
+18
+19 BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF ARKANSAS:
+20
+21 SECTION 1. Arkansas Code § 11-4-205 is amended to read as follows:
+22 11-4-205. Right of collective bargaining not affected.
+23 (a) Except as provided in subsection (b) of this section, nothing
+24 Nothing in this subchapter, including the provisions of § 11-4-218(b), shall
+25 be deemed to interfere with, impede, or in any way diminish the right of
+26 employers and employees to bargain collectively through representatives of
+27 their own choosing in order to establish wages or other conditions of work.
+28 (b) Collective bargaining by public employees is prohibited under §
+29 21-1-801 et seq.
+30
+31 SECTION 2. Arkansas Code Title 21, Chapter 1, Subchapter 8, is
+32 repealed.
+33 Subchapter 8 - Collective Bargaining
+34
+35 21-1-801. Definitions.
+36 As used in this subchapter:
+*LGL013*
+01-16-2025 14:46:42 LGL013
+
+As Engrossed: H1/16/25 HB1024
+1 (1)(A) “Public employee” means a person who performs a full-time
+2 or part-time service for wages, salary, or other remuneration for a public
+3 employer.
+4 (B) “Public employee” includes without limitation a state
+5 employee under § 21-1-610.
+6 (C) “Public employee” does not include a:
+7 (i) Public safety officer, including without
+8 limitation a:
+9 (a) Law enforcement officer; and
+10 (b) Firefighter; and
+11 (ii) Public transit system employee whose public
+12 employer is a recipient of a federal grant administered by the Federal
+13 Transit Administration;
+14 (2) “Public employer” means:
+15 (A) An agency, department, board, commission, division,
+16 office, bureau, council, authority, or other instrumentality of the state,
+17 including the offices of the various Arkansas elected constitutional officers
+18 and the General Assembly and its agencies, bureaus, and divisions;
+19 (B) A state-supported college, university, technical
+20 college, community college, or other institution of higher education or a
+21 department, division, or agency of a state institution of higher education;
+22 (C) The Supreme Court, the Court of Appeals, the
+23 Administrative Office of the Courts, the circuit courts, and prosecuting
+24 attorneys' offices; and
+25 (D) A public school district, school, or an office or
+26 department of a public school district in Arkansas; and
+27 (3) “Strike” means a refusal to work organized by two (2) or
+28 more public employees as a form of protest in an attempt to gain a concession
+29 or concessions from a public employer.
+30
+31 21-1-802. Collective bargaining prohibited.
+32 (a) A public employer shall not recognize a labor union or other
+33 public employee association as a bargaining agent of public employees.
+34 (b) A public employer shall not collectively bargain or enter into any
+35 collective bargaining contract with a labor union or other public employee
+36 association or its agents with respect to any matter relating to public
+2 01-16-2025 14:46:42 LGL013
+
+As Engrossed: H1/16/25 HB1024
+1 employees, public employees' employment with a public employer, or public
+2 employees' tenure with a public employer.
+3
+4 21-1-803. Prohibited activities.
+5 (a) A public employee willfully refuses to perform the duties of his
+6 or her employment with a public employer when, acting in concert with one (1)
+7 or more public employees, he or she:
+8 (1) Strikes or walks away from the duties of his or her
+9 employment with the public employer;
+10 (2) Physically obstructs the activity or operation of the public
+11 employer; or
+12 (3) Physically impedes the operations of a public employer.
+13 (b) A public employee who violates subsection (a) of this section
+14 shall be terminated by the public employer.
+15 (c) A public employee terminated under subsection (b) of this section
+16 is ineligible for employment with a public employer in any position or
+17 capacity for twelve (12) months after being terminated for willfully refusing
+18 to perform the duties of his or her employment with a public employer.
+19 (d) A public employer shall include in the public employer's personnel
+20 manual a statement that willfully refusing to perform the duties of his or
+21 her employment with a public employer constitutes grounds for dismissal.
+22
+23 21-1-804. Public employee associations.
+24 Public employees may form associations for the purpose of promoting the
+25 public employees' interests before a public employer.
+26
+27 /s/A. Collins
+28
+29
+30
+31
+32
+33
+34
+35
+36
+3 01-16-2025 14:46:42 LGL013
+
+[DELETED:  A    H    A T A   T E P  B   S  1   N b e t   2   S r S   2  A]
+[DELETED:  H2 0   ( o e    ( e    (     ( l      (      (     ( e T   (    ( o i a    ( c d    ( A a    ( d   ( m o   2  ( p  ( c a]
+[DELETED:  H3 0 e e   2  ( o o   ( e   ( e   (  ( s  ( i c t  ( m h   2  P p  /         ]

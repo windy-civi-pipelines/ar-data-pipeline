@@ -1,0 +1,180 @@
+Title: Stricken language would be deleted from and underlined language would be added to present law.
+Official Title: Stricken language would be deleted from and underlined language would be added to present law.
+Number of Sections: 1
+Source: versions - HB 1309
+Media Type: application/pdf
+Strikethrough Detection: 2 sections found
+
+================================================================================
+
+Section 1:
+1 State of Arkansas
+A Bill
+2 95th General Assembly
+3 Regular Session, 2025 HOUSE BILL 1309
+4
+5 By: Representatives Rose, L. Johnson
+6 By: Senator Irvin
+7
+For An Act To Be Entitled
+8
+9 AN ACT TO AMEND THE LAW CONCERNING COVERAGE OF
+10 EXAMINATIONS FOR BREAST CANCER; TO CLARIFY THE COST-
+11 SHARING REQUIREMENTS FOR EXAMINATIONS FOR BREAST
+12 CANCER; AND FOR OTHER PURPOSES.
+13
+14
+Subtitle
+15
+16 TO AMEND THE LAW CONCERNING COVERAGE OF
+17 EXAMINATIONS FOR BREAST CANCER; AND TO
+18 CLARIFY THE COST-SHARING REQUIREMENTS
+19 FOR EXAMINATIONS FOR BREAST CANCER.
+20
+21 BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF ARKANSAS:
+22
+23 SECTION 1. Arkansas Code § 23-79-140(c), concerning mammographies
+24 performed in an unaccredited facility, is amended to read as follows:
+25 (c)(1) A healthcare insurer shall not pay for mammographies performed
+26 in an unaccredited facility after January 1, 1990.
+27 (2) This section applies to a credentialed or accredited place
+28 of service in which the service is provided.
+29
+30 SECTION 2. Arkansas Code § 23-79-140(e), concerning copayments and
+31 deductibles under a health benefit plan for examinations for breast cancer,
+32 is amended to read as follows:
+33 (e)(1) Benefits under this section are subject to any health benefit
+34 plan provisions that apply to other services covered by the health benefit
+35 plan, except that a health benefit plan shall not impose a copayment or
+36 deductible cost-sharing requirement for a screening mammogram, even if:
+*ANS072*
+01/29/2025 9:45:56 AM ANS072
+HB1309
+1 (A) A service is provided on different dates of service;
+2 or
+3 (B) More than one (1) service is provided on the same date
+4 of service.
+5 (2) A breast ultrasound shall not be subject to a deductible or
+6 any applicable copayment cost-sharing requirement, even if:
+7 (A) A service is provided on different dates of service;
+8 or
+9 (B) More than one (1) service is provided on the same date
+10 of service.
+11 (3) A healthcare insurer shall ensure that an individual's cost-
+12 sharing requirement under a health benefit plan that is applicable to a
+13 diagnostic examination for breast cancer, including breast magnetic resonance
+14 imaging, is no less favorable than the cost-sharing requirement that is
+15 applicable to a screening examination for breast cancer.
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+2 01/29/2025 9:45:56 AM ANS072
+[DELETED:       A E S C  T E C F  B   S p  ( i   ( o   S d i  ( p p d]
+[DELETED: H2 0    ( o    ( o   ( a    ( o    ( o   ( s d i a]
+
+
+================================================================================
+
+Raw Text:
+Stricken language would be deleted from and underlined language would be added to present law.
+1 State of Arkansas
+A Bill
+2 95th General Assembly
+3 Regular Session, 2025 HOUSE BILL 1309
+4
+5 By: Representatives Rose, L. Johnson
+6 By: Senator Irvin
+7
+For An Act To Be Entitled
+8
+9 AN ACT TO AMEND THE LAW CONCERNING COVERAGE OF
+10 EXAMINATIONS FOR BREAST CANCER; TO CLARIFY THE COST-
+11 SHARING REQUIREMENTS FOR EXAMINATIONS FOR BREAST
+12 CANCER; AND FOR OTHER PURPOSES.
+13
+14
+Subtitle
+15
+16 TO AMEND THE LAW CONCERNING COVERAGE OF
+17 EXAMINATIONS FOR BREAST CANCER; AND TO
+18 CLARIFY THE COST-SHARING REQUIREMENTS
+19 FOR EXAMINATIONS FOR BREAST CANCER.
+20
+21 BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF ARKANSAS:
+22
+23 SECTION 1. Arkansas Code § 23-79-140(c), concerning mammographies
+24 performed in an unaccredited facility, is amended to read as follows:
+25 (c)(1) A healthcare insurer shall not pay for mammographies performed
+26 in an unaccredited facility after January 1, 1990.
+27 (2) This section applies to a credentialed or accredited place
+28 of service in which the service is provided.
+29
+30 SECTION 2. Arkansas Code § 23-79-140(e), concerning copayments and
+31 deductibles under a health benefit plan for examinations for breast cancer,
+32 is amended to read as follows:
+33 (e)(1) Benefits under this section are subject to any health benefit
+34 plan provisions that apply to other services covered by the health benefit
+35 plan, except that a health benefit plan shall not impose a copayment or
+36 deductible cost-sharing requirement for a screening mammogram, even if:
+*ANS072*
+01/29/2025 9:45:56 AM ANS072
+
+HB1309
+1 (A) A service is provided on different dates of service;
+2 or
+3 (B) More than one (1) service is provided on the same date
+4 of service.
+5 (2) A breast ultrasound shall not be subject to a deductible or
+6 any applicable copayment cost-sharing requirement, even if:
+7 (A) A service is provided on different dates of service;
+8 or
+9 (B) More than one (1) service is provided on the same date
+10 of service.
+11 (3) A healthcare insurer shall ensure that an individual's cost-
+12 sharing requirement under a health benefit plan that is applicable to a
+13 diagnostic examination for breast cancer, including breast magnetic resonance
+14 imaging, is no less favorable than the cost-sharing requirement that is
+15 applicable to a screening examination for breast cancer.
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+2 01/29/2025 9:45:56 AM ANS072
+
+[DELETED:       A E S C  T E C F  B   S p  ( i   ( o   S d i  ( p p d]
+[DELETED: H2 0    ( o    ( o   ( a    ( o    ( o   ( s d i a]

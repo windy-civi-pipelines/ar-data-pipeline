@@ -1,0 +1,101 @@
+Title: Stricken language would be deleted from and underlined language would be added to present law.
+Official Title: Stricken language would be deleted from and underlined language would be added to present law.
+Number of Sections: 1
+Source: versions - SB 548
+Media Type: application/pdf
+Strikethrough Detection: 1 sections found
+
+================================================================================
+
+Section 1:
+1 State of Arkansas
+A Bill
+2 95th General Assembly
+3 Regular Session, 2025 SENATE BILL 548
+4
+5 By: Senator G. Leding
+6 By: Representative Womack
+7
+For An Act To Be Entitled
+8
+9 AN ACT TO AMEND THE LAW CONCERNING WARRANTS OF
+10 ARREST; TO REQUIRE THAT NOTICE OF A WARRANT BE SENT
+11 TO THE PERSON NAMED IN THE ARREST WARRANT; AND FOR
+12 OTHER PURPOSES.
+13
+14
+Subtitle
+15
+16 TO AMEND THE LAW CONCERNING WARRANTS OF
+17 ARREST; AND TO REQUIRE THAT NOTICE OF A
+18 WARRANT BE SENT TO THE PERSON NAMED IN
+19 THE ARREST WARRANT.
+20
+21 BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF ARKANSAS:
+22
+23 SECTION 1. Arkansas Code § 16-81-104, concerning warrants of arrest
+24 generally, is amended to add an additional subsection to read as follows:
+25 (c) When a warrant of arrest is issued, a copy of the warrant shall be
+26 sent by certified mail to the current or last known address of the person for
+27 whom the warrant is issued within:
+28 (1) Ten (10) days for a misdemeanor offense or a violation; or
+29 (2) Sixty (60) days for a felony offense.
+30
+31
+32
+33
+34
+35
+36
+*CEB241*
+03/20/2025 3:21:36 PM CEB241
+[DELETED:       A A T O  T A W T  B   S g  ( s w   (   (]
+
+
+================================================================================
+
+Raw Text:
+Stricken language would be deleted from and underlined language would be added to present law.
+1 State of Arkansas
+A Bill
+2 95th General Assembly
+3 Regular Session, 2025 SENATE BILL 548
+4
+5 By: Senator G. Leding
+6 By: Representative Womack
+7
+For An Act To Be Entitled
+8
+9 AN ACT TO AMEND THE LAW CONCERNING WARRANTS OF
+10 ARREST; TO REQUIRE THAT NOTICE OF A WARRANT BE SENT
+11 TO THE PERSON NAMED IN THE ARREST WARRANT; AND FOR
+12 OTHER PURPOSES.
+13
+14
+Subtitle
+15
+16 TO AMEND THE LAW CONCERNING WARRANTS OF
+17 ARREST; AND TO REQUIRE THAT NOTICE OF A
+18 WARRANT BE SENT TO THE PERSON NAMED IN
+19 THE ARREST WARRANT.
+20
+21 BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF ARKANSAS:
+22
+23 SECTION 1. Arkansas Code § 16-81-104, concerning warrants of arrest
+24 generally, is amended to add an additional subsection to read as follows:
+25 (c) When a warrant of arrest is issued, a copy of the warrant shall be
+26 sent by certified mail to the current or last known address of the person for
+27 whom the warrant is issued within:
+28 (1) Ten (10) days for a misdemeanor offense or a violation; or
+29 (2) Sixty (60) days for a felony offense.
+30
+31
+32
+33
+34
+35
+36
+*CEB241*
+03/20/2025 3:21:36 PM CEB241
+
+[DELETED:       A A T O  T A W T  B   S g  ( s w   (   (]

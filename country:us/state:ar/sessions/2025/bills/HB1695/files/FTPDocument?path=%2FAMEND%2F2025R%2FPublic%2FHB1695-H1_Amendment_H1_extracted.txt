@@ -1,0 +1,250 @@
+Title: ______________________________________________________________________
+Official Title: ______________________________________________________________________
+Number of Sections: 2
+Source: versions - Amendment H1
+Media Type: application/pdf
+Strikethrough Detection: 4 sections found
+
+================================================================================
+
+Section 1:
+Hall of the House of Representatives
+95th General Assembly - Regular Session, 2025
+Amendment Form
+Subtitle of House Bill 1695
+TO CLARIFY THE FORECLOSURE PROCESS FOR PROPERTY SUBJECT TO A
+MUNICIPAL LIEN; TO ALLOW A MUNICIPALITY TO ENJOIN THE SALE OF PROPERTY
+TO CERTAIN PERSONS; AND TO PROVIDE FOR THE PRIORITY OF UNRECORDED
+MUNICIPAL LIENS.
+______________________________________________________________________
+Amendment No. 1 to House Bill 1695
+Amend House Bill 1695 as originally introduced:
+Page 1, line 13, delete "ENJOIN" and substitute "PETITION TO SET ASIDE"
+AND
+Delete the subtitle in its entirety and substitute:
+"TO CLARIFY THE FORECLOSURE PROCESS FOR
+PROPERTY SUBJECT TO A MUNICIPAL LIEN; TO
+ALLOW A MUNICIPALITY TO PETITION TO SET
+ASIDE THE SALE OF PROPERTY TO CERTAIN
+PERSONS; AND TO PROVIDE FOR THE PRIORITY
+OF UNRECORDED MUNICIPAL LIENS."
+AND
+Immediately after the enacting clause, add an additional section to read as
+follows:
+"SECTION 1. Arkansas Code § 14-54-901 is amended to read as follows:
+14-54-901. Municipal authority.
+(a) Incorporated towns and cities of the first and second class are
+empowered to order the owner of lots and other real property within their
+towns or cities to cut weeds; to remove garbage, rubbish, and other unsightly
+and unsanitary articles and things upon the property; and to eliminate, fill
+up, or remove stagnant pools of water or any other unsanitary thing, place,
+or condition which might become a breeding place for mosquitoes, flies, and
+germs harmful to the health of the community, after the town or city has
+provided therefor by an ordinance to that effect.
+(b) A city of the first class, a city of the second class, or an
+*.JLL297*
+JLL297 - 03-11-2025 05:20:17 Page 1 of 4
+incorporated town may order the removal or razing of, or remove or raze,
+buildings or houses that in the opinion of the city council or town council
+have become dilapidated, unsightly, unsafe, unsanitary, obnoxious, or
+detrimental to the public welfare and shall provide by ordinance the manner
+of removing and making these removals."
+AND
+Page 2, delete line 20, and substitute the following:
+"(2) The town or city or town shall file the lien with the
+circuit court county recorder"
+AND
+Page 2, line 27, delete "circuit clerk" and substitute "circuit clerk county
+recorder"
+AND
+Page 3, delete lines 22 and 23, and substitute the following:
+"record in the office of the county recorder within thirty (30) days of the
+satisfaction of the lien."
+AND
+Page 4, line 13, delete "laws;" and substitute "laws; and"
+AND
+Page 4, line 16, delete "property;" and substitute "property."
+AND
+Page 4, delete line 17, and substitute the following:
+"(iv)(a) When a commissioner appointed under
+subdivision (a)(1)(B)(ii) of this section has set the time and place of a
+public sale under subdivision (a)(1)(B)(iii)(b) of this section, the city or
+town that petitioned for the sale of the property under subdivision
+(a)(1)(B)(i) of this section shall provide notice of the sale to the owner of
+the property at the"
+AND
+Page 4, delete lines 21 and 22, and substitute the following:
+"(b) A city or town is not required to notify
+a"
+AND
+Page 4, delete lines 24 through 26, and substitute the following:
+"this subdivision (a)(1)(B)(iv).
+JLL297 - 03-11-2025 05:20:17 Amendment No. 1 to House Bill 1695 Page 2 of 4
+(c) The notice to an owner required under
+subdivision (a)(1)(B)(iv)(a) of this section shall contain at least"
+AND
+Page 4, delete lines 32 and 33, and substitute the following:
+"sale of the property by publishing an advertisement in a"
+AND
+Page 5, delete lines 2 through 31, and substitute the following:
+"subdivision (a)(1)(B) of this section shall be distributed in accordance
+with the order of disbursement issued by the circuit court."
+AND
+Page 6, line 8, delete "14-56-203" and substitute "14-56-203 14-54-901(b)"
+AND
+Page 6, line 21, delete "circuit clerk" and substitute "county recorder"
+AND
+Page 6, delete lines 24 through 26, and substitute the following:
+"of the lien on the record in the office of the county recorder within thirty
+(30) days of the satisfaction of the lien.
+
+Section 2:
+SECTION 10. Arkansas Code § 14-56-203 is repealed.
+14-56-203. Removal or razing of buildings.
+Cities of the first class, cities of the second class, and incorporated
+towns may order the removal or razing of, or remove or raze, buildings or
+houses that in the opinion of the city council or town council have become
+dilapidated, unsightly, unsafe, unsanitary, obnoxious, or detrimental to the
+public welfare and shall provide by ordinance the manner of removing and
+making these removals."
+AND
+Page 6, delete lines 31 and 32, and substitute the following:
+"(3) A city or town incorporated in this state may petition the
+Commissioner of State Lands to exercise his or her authority under § 26-37-
+204(b) to set aside a conveyance under this section to a person or"
+AND
+Appropriately renumber the sections of the bill
+JLL297 - 03-11-2025 05:20:17 Amendment No. 1 to House Bill 1695 Page 3 of 4
+The Amendment was read ________________________________________________________________________________
+By: Representative J. Richardson
+JLL/JLL - 03-11-2025 05:20:17 _________________________
+JLL297 Chief Clerk
+JLL297 - 03-11-2025 05:20:17 Amendment No. 1 to House Bill 1695 Page 4 of 4
+[DELETED:  PA  "1((]
+[DELETED:  P "   "    "]
+[DELETED:  P    (S1C "]
+[DELETED:  P _ C]
+
+
+================================================================================
+
+Raw Text:
+Hall of the House of Representatives
+95th General Assembly - Regular Session, 2025
+Amendment Form
+______________________________________________________________________
+Subtitle of House Bill 1695
+TO CLARIFY THE FORECLOSURE PROCESS FOR PROPERTY SUBJECT TO A
+MUNICIPAL LIEN; TO ALLOW A MUNICIPALITY TO ENJOIN THE SALE OF PROPERTY
+TO CERTAIN PERSONS; AND TO PROVIDE FOR THE PRIORITY OF UNRECORDED
+MUNICIPAL LIENS.
+______________________________________________________________________
+Amendment No. 1 to House Bill 1695
+Amend House Bill 1695 as originally introduced:
+Page 1, line 13, delete "ENJOIN" and substitute "PETITION TO SET ASIDE"
+AND
+Delete the subtitle in its entirety and substitute:
+"TO CLARIFY THE FORECLOSURE PROCESS FOR
+PROPERTY SUBJECT TO A MUNICIPAL LIEN; TO
+ALLOW A MUNICIPALITY TO PETITION TO SET
+ASIDE THE SALE OF PROPERTY TO CERTAIN
+PERSONS; AND TO PROVIDE FOR THE PRIORITY
+OF UNRECORDED MUNICIPAL LIENS."
+AND
+Immediately after the enacting clause, add an additional section to read as
+follows:
+"SECTION 1. Arkansas Code § 14-54-901 is amended to read as follows:
+14-54-901. Municipal authority.
+(a) Incorporated towns and cities of the first and second class are
+empowered to order the owner of lots and other real property within their
+towns or cities to cut weeds; to remove garbage, rubbish, and other unsightly
+and unsanitary articles and things upon the property; and to eliminate, fill
+up, or remove stagnant pools of water or any other unsanitary thing, place,
+or condition which might become a breeding place for mosquitoes, flies, and
+germs harmful to the health of the community, after the town or city has
+provided therefor by an ordinance to that effect.
+(b) A city of the first class, a city of the second class, or an
+*.JLL297*
+JLL297 - 03-11-2025 05:20:17 Page 1 of 4
+
+incorporated town may order the removal or razing of, or remove or raze,
+buildings or houses that in the opinion of the city council or town council
+have become dilapidated, unsightly, unsafe, unsanitary, obnoxious, or
+detrimental to the public welfare and shall provide by ordinance the manner
+of removing and making these removals."
+AND
+Page 2, delete line 20, and substitute the following:
+"(2) The town or city or town shall file the lien with the
+circuit court county recorder"
+AND
+Page 2, line 27, delete "circuit clerk" and substitute "circuit clerk county
+recorder"
+AND
+Page 3, delete lines 22 and 23, and substitute the following:
+"record in the office of the county recorder within thirty (30) days of the
+satisfaction of the lien."
+AND
+Page 4, line 13, delete "laws;" and substitute "laws; and"
+AND
+Page 4, line 16, delete "property;" and substitute "property."
+AND
+Page 4, delete line 17, and substitute the following:
+"(iv)(a) When a commissioner appointed under
+subdivision (a)(1)(B)(ii) of this section has set the time and place of a
+public sale under subdivision (a)(1)(B)(iii)(b) of this section, the city or
+town that petitioned for the sale of the property under subdivision
+(a)(1)(B)(i) of this section shall provide notice of the sale to the owner of
+the property at the"
+AND
+Page 4, delete lines 21 and 22, and substitute the following:
+"(b) A city or town is not required to notify
+a"
+AND
+Page 4, delete lines 24 through 26, and substitute the following:
+"this subdivision (a)(1)(B)(iv).
+JLL297 - 03-11-2025 05:20:17 Amendment No. 1 to House Bill 1695 Page 2 of 4
+
+(c) The notice to an owner required under
+subdivision (a)(1)(B)(iv)(a) of this section shall contain at least"
+AND
+Page 4, delete lines 32 and 33, and substitute the following:
+"sale of the property by publishing an advertisement in a"
+AND
+Page 5, delete lines 2 through 31, and substitute the following:
+"subdivision (a)(1)(B) of this section shall be distributed in accordance
+with the order of disbursement issued by the circuit court."
+AND
+Page 6, line 8, delete "14-56-203" and substitute "14-56-203 14-54-901(b)"
+AND
+Page 6, line 21, delete "circuit clerk" and substitute "county recorder"
+AND
+Page 6, delete lines 24 through 26, and substitute the following:
+"of the lien on the record in the office of the county recorder within thirty
+(30) days of the satisfaction of the lien.
+SECTION 10. Arkansas Code § 14-56-203 is repealed.
+14-56-203. Removal or razing of buildings.
+Cities of the first class, cities of the second class, and incorporated
+towns may order the removal or razing of, or remove or raze, buildings or
+houses that in the opinion of the city council or town council have become
+dilapidated, unsightly, unsafe, unsanitary, obnoxious, or detrimental to the
+public welfare and shall provide by ordinance the manner of removing and
+making these removals."
+AND
+Page 6, delete lines 31 and 32, and substitute the following:
+"(3) A city or town incorporated in this state may petition the
+Commissioner of State Lands to exercise his or her authority under § 26-37-
+204(b) to set aside a conveyance under this section to a person or"
+AND
+Appropriately renumber the sections of the bill
+JLL297 - 03-11-2025 05:20:17 Amendment No. 1 to House Bill 1695 Page 3 of 4
+
+The Amendment was read ________________________________________________________________________________
+By: Representative J. Richardson
+JLL/JLL - 03-11-2025 05:20:17 _________________________
+JLL297 Chief Clerk
+JLL297 - 03-11-2025 05:20:17 Amendment No. 1 to House Bill 1695 Page 4 of 4
+
+[DELETED:  PA  "1((]
+[DELETED:  P "   "    "]
+[DELETED:  P    (S1C "]
+[DELETED:  P _ C]

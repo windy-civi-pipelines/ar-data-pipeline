@@ -1,0 +1,575 @@
+Title: Stricken language would be deleted from and underlined language would be added to present law.
+Official Title: Stricken language would be deleted from and underlined language would be added to present law.
+Number of Sections: 1
+Source: versions - HB 1695
+Media Type: application/pdf
+Strikethrough Detection: 7 sections found
+
+================================================================================
+
+Section 1:
+1 State of Arkansas As Engrossed: H3/17/25 S4/8/25
+A Bill
+2 95th General Assembly
+3 Regular Session, 2025 HOUSE BILL 1695
+4
+5 By: Representatives J. Richardson, Andrews, Hudson
+6 By: Senator Crowell
+7
+8
+For An Act To Be Entitled
+9 AN ACT TO AMEND THE LAW CONCERNING MUNICIPAL LIENS
+10 RELATED TO NEGLECTED PROPERTY AND TAX-DELINQUENT
+11 PROPERTY; TO CLARIFY THE FORECLOSURE PROCESS FOR
+12 PROPERTY SUBJECT TO A MUNICIPAL LIEN; TO ALLOW A
+13 MUNICIPALITY TO PETITION TO SET ASIDE THE SALE OF
+14 PROPERTY BY THE STATE TO A PERSON THAT OWNS TAX-
+15 DELINQUENT PROPERTY IN THIS STATE; TO PROVIDE FOR THE
+16 PRIORITY OF UNRECORDED MUNICIPAL LIENS OVER OTHER
+17 UNRECORDED LIENS; AND FOR OTHER PURPOSES.
+18
+19
+20
+Subtitle
+21 TO CLARIFY THE FORECLOSURE PROCESS FOR
+22 PROPERTY SUBJECT TO A MUNICIPAL LIEN; TO
+23 ALLOW A MUNICIPALITY TO PETITION TO SET
+24 ASIDE THE SALE OF PROPERTY TO CERTAIN
+25 PERSONS; AND TO PROVIDE FOR THE PRIORITY
+26 OF UNRECORDED MUNICIPAL LIENS.
+27
+28 BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF ARKANSAS:
+29
+30 SECTION 1. Arkansas Code § 14-54-901 is amended to read as follows:
+31 14-54-901. Municipal authority.
+32 (a) Incorporated towns and cities of the first and second class are
+33 empowered to order the owner of lots and other real property within their
+34 towns or cities to cut weeds; to remove garbage, rubbish, and other unsightly
+35 and unsanitary articles and things upon the property; and to eliminate, fill
+36 up, or remove stagnant pools of water or any other unsanitary thing, place,
+*JLL189*
+04-08-2025 11:19:05 JLL189
+As Engrossed: H3/17/25 S4/8/25 HB1695
+1 or condition which might become a breeding place for mosquitoes, flies, and
+2 germs harmful to the health of the community, after the town or city has
+3 provided therefor by an ordinance to that effect.
+4 (b) A city of the first class, a city of the second class, or an
+5 incorporated town may order the removal or razing of, or remove or raze,
+6 buildings or houses that in the opinion of the city council or town council
+7 have become dilapidated, unsightly, unsafe, unsanitary, obnoxious, or
+8 detrimental to the public welfare and shall provide by ordinance the manner
+9 of removing and making these removals.
+10
+11 SECTION 2. Arkansas Code § 14-54-903(b), concerning the refusal of a
+12 property owner to comply with a municipal notice related to neglected
+13 property, is amended to read as follows:
+14 (b)(1) If the owner or lienholder of any lot or other real property
+15 within an incorporated town or city neglects or refuses to remove, abate, or
+16 eliminate any condition under an ordinance passed by the city or town as
+17 provided in § 14-54-901, after having been given seven (7) days' notice in
+18 writing to do so, then the town or city may do whatever is necessary to
+19 correct the condition and to charge the cost thereof to the owner of the lots
+20 or other real property.
+21 (2) A city or town incurring costs under subdivision (b)(1) of
+22 this section may collect the costs from the owner of the lot or other real
+23 property in the manner provided for the collection of a civil judgment.
+24
+25 SECTION 3. Arkansas Code § 14-54-903(c)(2), concerning the refusal of
+26 a property owner to comply with a municipal notice related to neglected
+27 property, is amended to read as follows:
+28 (2) The town or city or town shall file the lien with the
+29 circuit court county recorder no later than one hundred twenty (120) days
+30 after the town or city completes the clean-up work on the property.
+31
+32 SECTION 4. Arkansas Code § 14-54-903(i), concerning the refusal of a
+33 property owner to comply with a municipal notice related to neglected
+34 property, is amended to read as follows:
+35 (i) The city or town shall file its lien with the circuit clerk county
+36 recorder no later than sixty (60) days after the governing body of the city
+2 04-08-2025 11:19:05 JLL189
+As Engrossed: H3/17/25 S4/8/25 HB1695
+1 or town confirms the lien amount, or if the lien is appealed, within sixty
+2 (60) days after the city or town wins on appeal.
+3
+4 SECTION 5. Arkansas Code § 14-54-903(j)(2), concerning the refusal of
+5 a property owner to comply with a municipal notice related to neglected
+6 property, is amended to read as follows:
+7 (2) Priority status shall be awarded to the priority clean-up
+8 lien with respect to any previously recorded lien if the court determines
+9 that such lienholder has failed to exercise its rights to foreclose its lien
+10 when the obligation it secures becomes in default or has failed to pay the
+11 costs of work undertaken by a city or town that composes the clean-up lien.
+12 However, the amount as to which the clean-up lien shall have priority shall
+13 be the amount the court finds reasonable and is limited to:
+14 (A) No more than one two thousand dollars ($1,000)
+15 ($2,000) for grass or weed cutting;
+16 (B) No more than five ten thousand dollars ($5,000)
+17 ($10,000) to board and secure the property;
+18 (C) No more than seven thousand five hundred dollars
+19 ($7,500) fifteen thousand dollars ($15,000) to demolish any structures on the
+20 property; or
+21 (D) No more than fifteen thirty thousand dollars ($15,000)
+22 ($30,000) for environmental remediation.
+23
+24 SECTION 6. Arkansas Code § 14-54-903, concerning the refusal of a
+25 property owner to comply with a municipal notice related to neglected
+26 property, is amended to add an additional subsection to read as follows:
+27 (k) If an indebtedness filed as a lien under this section is paid and
+28 satisfied, the city or town shall enter satisfaction of the lien on the
+29 record in the office of the county recorder within thirty (30) days of the
+30 satisfaction of the lien.
+31
+32 SECTION 7. Arkansas Code § 14-54-904(a)(1), concerning the manner of
+33 enforcing a lien for clearance by municipality, is amended to read as
+34 follows:
+35 (1)(A) By an action for foreclosure in the circuit court by the
+36 city or town, or if the city or town has established a land bank, by a land
+3 04-08-2025 11:19:05 JLL189
+As Engrossed: H3/17/25 S4/8/25 HB1695
+1 bank that has been assigned the lien.
+2 (B)(i) A city or town that has been granted a lien under
+3 this subchapter may:
+4 (a)(1) File an action for foreclosure under
+5 this subdivision (a)(1) in the circuit court that has jurisdiction over the
+6 property that is subject to the lien.
+7 (2) An action for foreclosure under this
+8 subdivision (a)(1) shall name all lienholders of record over which a city or
+9 town claims the city or town has priority as parties to the foreclosure.
+10 (3) If a lienholder is not named as a
+11 party to a foreclosure under subdivision (a)(1)(B)(i)(a)(2) of this section,
+12 the lien held by the lienholder shall remain on the property; and
+13 (b) Petition for the circuit court to order
+14 the sale of the property.
+15 (ii)(a) If a city or town petitions a circuit court
+16 for the sale of property under subdivision (a)(1)(B)(i) of this section, the
+17 circuit court may order the property to be sold at a public sale.
+18 (b) If a circuit court orders the sale of
+19 property at a public sale under subdivision (a)(1)(B)(ii)(a) of this section,
+20 the circuit court shall appoint a commissioner to oversee the sale of the
+21 property.
+22 (iii) A commissioner appointed under subdivision
+23 (a)(1)(B)(ii)(b) of this section shall:
+24 (a) Be responsible for conducting the public
+25 sale of the property in accordance with the order of the circuit court and
+26 any applicable laws; and
+27 (b) Set the time and place of the public sale
+28 at a date that is at least thirty (30) days after the circuit court ordered
+29 the sale of the property.
+30 (iv)(a) When a commissioner appointed under
+31 subdivision (a)(1)(B)(ii) of this section has set the time and place of a
+32 public sale under subdivision (a)(1)(B)(iii)(b) of this section, the city or
+33 town that petitioned for the sale of the property under subdivision
+34 (a)(1)(B)(i) of this section shall provide notice of the sale to the owner of
+35 the property at the owner's last known address and any lienholders of record
+36 at the address shown in the relevant land records of the time and place of
+4 04-08-2025 11:19:05 JLL189
+As Engrossed: H3/17/25 S4/8/25 HB1695
+1 the public sale of the property.
+2 (b) A city or town is not required to
+3 notify a holder of an unrecorded lien or an unrecorded assignee of a
+4 lienholder under this subdivision (a)(1)(B)(iv).
+5 (c) The notice to an owner required under
+6 subdivision (a)(1)(B)(iv)(a) of this section shall contain at least
+7 (3) The notice to an owner required under
+8 subdivision (a)(1)(B)(iii)(c)(1) of this section shall contain at least a
+9 partial or abbreviated legal description of the property, the parcel number
+10 for the property, the date of the public sale of the property, and a
+11 statement that the property will be sold if not redeemed by the date of the
+12 public sale; and
+13 (d) Advertise the time and place of the public
+14 sale of the property by publishing an advertisement in a newspaper of general
+15 circulation in the county in which the property is located at least one (1)
+16 time a week for two (2) consecutive weeks before the public sale.
+17 (C) Proceeds from a public sale conducted under
+18 subdivision (a)(1)(B) of this section shall be distributed based on the
+19 priority of the liens on the property in accordance with the order of
+20 disbursement issued by the circuit court.
+21 (D) A lien that exists on property sold at a public sale
+22 that complies with the requirements stated in this section and is conducted
+23 under subdivision (a)(1)(B) of this section that is not satisfied after the
+24 distributions provided under subdivision (a)(1)(C) of this section is
+25 extinguished upon the completion of the public sale conducted under
+26 subdivision (a)(1)(B) of this section; or
+27
+28 SECTION 8. Arkansas Code § 14-54-904(b)(1)(A), concerning the
+29 enforcement of a lien for clearance by municipality, is amended to read as
+30 follows:
+31 (b)(1)(A)(i) In any situation in which a city of the first class or
+32 city of the second class or town issues an order for the removal, repair to
+33 return the structure to compliance with minimum building code standards, or
+34 razing of a building or house under the provisions of 14-56-203 14-54-901(b)
+35 and such order is not complied with by the owner of the building or house and
+36 the city or town then removes, repairs, or razes the building or house, a
+5 04-08-2025 11:19:05 JLL189
+As Engrossed: H3/17/25 S4/8/25 HB1695
+1 lien is granted and given against the real property for the cost of the owner
+2 of the building or house is liable for all costs incurred by the city or town
+3 related to the removal, repair, or razing of the building or house, including
+4 without limitation any administrative, legal, filing, collection, and title
+5 search costs.
+6 (ii) A city or town may collect costs incurred under
+7 this subsection from the owner of the building or house in any manner
+8 provided for the collection of a civil judgment.
+9 (iii) A city or town is granted a lien for the costs
+10 incurred under this subsection, which shall be filed in the office of the
+11 county recorder within one hundred twenty (120) days.
+12 (iv) If an indebtedness filed as a lien under this
+13 subsection is paid and satisfied, the city or town shall enter satisfaction
+14 of the lien on the record in the office of the county recorder within thirty
+15 (30) days of the satisfaction of the lien.
+16
+17 SECTION 9. Arkansas Code § 14-56-203 is repealed.
+18 14-56-203. Removal or razing of buildings.
+19 Cities of the first class, cities of the second class, and incorporated
+20 towns may order the removal or razing of, or remove or raze, buildings or
+21 houses that in the opinion of the city council or town council have become
+22 dilapidated, unsightly, unsafe, unsanitary, obnoxious, or detrimental to the
+23 public welfare and shall provide by ordinance the manner of removing and
+24 making these removals.
+25
+26 SECTION 10. Arkansas Code § 26-37-205(b)(2)(A), concerning the
+27 distribution of funds from the sale of tax-delinquent property, is amended to
+28 read as follows:
+29 (2)(A) After Except as provided in subdivision (b)(2)(E)(ii) of
+30 this section, after payment is made to the Commissioner of State Lands
+31 pursuant to subdivision (b)(1) of this section, the amount left in the
+32 remaining funds shall be paid to the former owners of the tax-delinquent
+33 parcel.
+34
+35 SECTION 11. Arkansas Code § 26-37-205(b)(2)(E), concerning the
+36 distribution of funds from the sale of tax-delinquent property, is amended to
+6 04-08-2025 11:19:05 JLL189
+As Engrossed: H3/17/25 S4/8/25 HB1695
+1 read as follows:
+2 (E)(i) In the event of any dispute, claim, multiple claims
+3 of ownership, controversy regarding the release of the funds, or claim not
+4 expressly permitted under this section, the Commissioner of State Lands may
+5 require the party or parties to provide a court order to resolve the issues
+6 and to establish the party or parties entitled to the remaining funds.
+7 (ii)(a) A city or town incorporated in this state
+8 that possesses an unrecorded clean-up lien on property under § 14-54-903(c)
+9 or § 14-54-904(b) may file a claim for the amount of the unrecorded lien in
+10 circuit court.
+11 (b) A claim for the amount of an unrecorded
+12 lien under this subdivision (b)(2)(E)(ii) has priority status over other
+13 unrecorded liens.
+14 (c) A court that determines the validity of a
+15 claim for the amount of an unrecorded lien under this subdivision
+16 (b)(2)(E)(ii) shall issue an order for the amount to be distributed by the
+17 Commissioner of State Lands to the city or town from the escrow fund
+18 established under subdivision (a)(6) of this section before funds may be
+19 released to the former owners of the property.
+20
+21 /s/J. Richardson
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+7 04-08-2025 11:19:05 JLL189
+[DELETED:  A  EBL1       A R P P M P D P U   T P A A P O  B   S  1  ( e t a u]
+[DELETED:  H2 0 o g p  ( i b h d o   S p p  ( w e p w c o   ( t p   S a p   ( c a   S p p  ( r]
+[DELETED:  H3 0 o (   S a p   ( l t w c H b    ( (    ( (    ( ( p    ( (   S p p  ( s r s   S e f   ( c]
+[DELETED:  H4 0 b    ( t      ( t p       ( s t       ( p t      ( t     ( f c      ( p t p     ( (      ( s a           ( a t      ( s p t ( t a]
+[DELETED:  H5 0 t       ( n l      ( s      ( s p f s p      ( s c t    ( s p d      ( t u d e s   S e f  ( c r r a t]
+[DELETED:  H6 0 l o r w s     ( t p     ( i c     ( s o (   S  1  C t h d p m   S d r   ( t p r p   S d]
+[DELETED:  H7 0 r    ( o e r a     ( t o c      ( l u      ( c ( C e r  /               ]
+
+
+================================================================================
+
+Raw Text:
+Stricken language would be deleted from and underlined language would be added to present law.
+1 State of Arkansas As Engrossed: H3/17/25 S4/8/25
+A Bill
+2 95th General Assembly
+3 Regular Session, 2025 HOUSE BILL 1695
+4
+5 By: Representatives J. Richardson, Andrews, Hudson
+6 By: Senator Crowell
+7
+8
+For An Act To Be Entitled
+9 AN ACT TO AMEND THE LAW CONCERNING MUNICIPAL LIENS
+10 RELATED TO NEGLECTED PROPERTY AND TAX-DELINQUENT
+11 PROPERTY; TO CLARIFY THE FORECLOSURE PROCESS FOR
+12 PROPERTY SUBJECT TO A MUNICIPAL LIEN; TO ALLOW A
+13 MUNICIPALITY TO PETITION TO SET ASIDE THE SALE OF
+14 PROPERTY BY THE STATE TO A PERSON THAT OWNS TAX-
+15 DELINQUENT PROPERTY IN THIS STATE; TO PROVIDE FOR THE
+16 PRIORITY OF UNRECORDED MUNICIPAL LIENS OVER OTHER
+17 UNRECORDED LIENS; AND FOR OTHER PURPOSES.
+18
+19
+20
+Subtitle
+21 TO CLARIFY THE FORECLOSURE PROCESS FOR
+22 PROPERTY SUBJECT TO A MUNICIPAL LIEN; TO
+23 ALLOW A MUNICIPALITY TO PETITION TO SET
+24 ASIDE THE SALE OF PROPERTY TO CERTAIN
+25 PERSONS; AND TO PROVIDE FOR THE PRIORITY
+26 OF UNRECORDED MUNICIPAL LIENS.
+27
+28 BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF ARKANSAS:
+29
+30 SECTION 1. Arkansas Code § 14-54-901 is amended to read as follows:
+31 14-54-901. Municipal authority.
+32 (a) Incorporated towns and cities of the first and second class are
+33 empowered to order the owner of lots and other real property within their
+34 towns or cities to cut weeds; to remove garbage, rubbish, and other unsightly
+35 and unsanitary articles and things upon the property; and to eliminate, fill
+36 up, or remove stagnant pools of water or any other unsanitary thing, place,
+*JLL189*
+04-08-2025 11:19:05 JLL189
+
+As Engrossed: H3/17/25 S4/8/25 HB1695
+1 or condition which might become a breeding place for mosquitoes, flies, and
+2 germs harmful to the health of the community, after the town or city has
+3 provided therefor by an ordinance to that effect.
+4 (b) A city of the first class, a city of the second class, or an
+5 incorporated town may order the removal or razing of, or remove or raze,
+6 buildings or houses that in the opinion of the city council or town council
+7 have become dilapidated, unsightly, unsafe, unsanitary, obnoxious, or
+8 detrimental to the public welfare and shall provide by ordinance the manner
+9 of removing and making these removals.
+10
+11 SECTION 2. Arkansas Code § 14-54-903(b), concerning the refusal of a
+12 property owner to comply with a municipal notice related to neglected
+13 property, is amended to read as follows:
+14 (b)(1) If the owner or lienholder of any lot or other real property
+15 within an incorporated town or city neglects or refuses to remove, abate, or
+16 eliminate any condition under an ordinance passed by the city or town as
+17 provided in § 14-54-901, after having been given seven (7) days' notice in
+18 writing to do so, then the town or city may do whatever is necessary to
+19 correct the condition and to charge the cost thereof to the owner of the lots
+20 or other real property.
+21 (2) A city or town incurring costs under subdivision (b)(1) of
+22 this section may collect the costs from the owner of the lot or other real
+23 property in the manner provided for the collection of a civil judgment.
+24
+25 SECTION 3. Arkansas Code § 14-54-903(c)(2), concerning the refusal of
+26 a property owner to comply with a municipal notice related to neglected
+27 property, is amended to read as follows:
+28 (2) The town or city or town shall file the lien with the
+29 circuit court county recorder no later than one hundred twenty (120) days
+30 after the town or city completes the clean-up work on the property.
+31
+32 SECTION 4. Arkansas Code § 14-54-903(i), concerning the refusal of a
+33 property owner to comply with a municipal notice related to neglected
+34 property, is amended to read as follows:
+35 (i) The city or town shall file its lien with the circuit clerk county
+36 recorder no later than sixty (60) days after the governing body of the city
+2 04-08-2025 11:19:05 JLL189
+
+As Engrossed: H3/17/25 S4/8/25 HB1695
+1 or town confirms the lien amount, or if the lien is appealed, within sixty
+2 (60) days after the city or town wins on appeal.
+3
+4 SECTION 5. Arkansas Code § 14-54-903(j)(2), concerning the refusal of
+5 a property owner to comply with a municipal notice related to neglected
+6 property, is amended to read as follows:
+7 (2) Priority status shall be awarded to the priority clean-up
+8 lien with respect to any previously recorded lien if the court determines
+9 that such lienholder has failed to exercise its rights to foreclose its lien
+10 when the obligation it secures becomes in default or has failed to pay the
+11 costs of work undertaken by a city or town that composes the clean-up lien.
+12 However, the amount as to which the clean-up lien shall have priority shall
+13 be the amount the court finds reasonable and is limited to:
+14 (A) No more than one two thousand dollars ($1,000)
+15 ($2,000) for grass or weed cutting;
+16 (B) No more than five ten thousand dollars ($5,000)
+17 ($10,000) to board and secure the property;
+18 (C) No more than seven thousand five hundred dollars
+19 ($7,500) fifteen thousand dollars ($15,000) to demolish any structures on the
+20 property; or
+21 (D) No more than fifteen thirty thousand dollars ($15,000)
+22 ($30,000) for environmental remediation.
+23
+24 SECTION 6. Arkansas Code § 14-54-903, concerning the refusal of a
+25 property owner to comply with a municipal notice related to neglected
+26 property, is amended to add an additional subsection to read as follows:
+27 (k) If an indebtedness filed as a lien under this section is paid and
+28 satisfied, the city or town shall enter satisfaction of the lien on the
+29 record in the office of the county recorder within thirty (30) days of the
+30 satisfaction of the lien.
+31
+32 SECTION 7. Arkansas Code § 14-54-904(a)(1), concerning the manner of
+33 enforcing a lien for clearance by municipality, is amended to read as
+34 follows:
+35 (1)(A) By an action for foreclosure in the circuit court by the
+36 city or town, or if the city or town has established a land bank, by a land
+3 04-08-2025 11:19:05 JLL189
+
+As Engrossed: H3/17/25 S4/8/25 HB1695
+1 bank that has been assigned the lien.
+2 (B)(i) A city or town that has been granted a lien under
+3 this subchapter may:
+4 (a)(1) File an action for foreclosure under
+5 this subdivision (a)(1) in the circuit court that has jurisdiction over the
+6 property that is subject to the lien.
+7 (2) An action for foreclosure under this
+8 subdivision (a)(1) shall name all lienholders of record over which a city or
+9 town claims the city or town has priority as parties to the foreclosure.
+10 (3) If a lienholder is not named as a
+11 party to a foreclosure under subdivision (a)(1)(B)(i)(a)(2) of this section,
+12 the lien held by the lienholder shall remain on the property; and
+13 (b) Petition for the circuit court to order
+14 the sale of the property.
+15 (ii)(a) If a city or town petitions a circuit court
+16 for the sale of property under subdivision (a)(1)(B)(i) of this section, the
+17 circuit court may order the property to be sold at a public sale.
+18 (b) If a circuit court orders the sale of
+19 property at a public sale under subdivision (a)(1)(B)(ii)(a) of this section,
+20 the circuit court shall appoint a commissioner to oversee the sale of the
+21 property.
+22 (iii) A commissioner appointed under subdivision
+23 (a)(1)(B)(ii)(b) of this section shall:
+24 (a) Be responsible for conducting the public
+25 sale of the property in accordance with the order of the circuit court and
+26 any applicable laws; and
+27 (b) Set the time and place of the public sale
+28 at a date that is at least thirty (30) days after the circuit court ordered
+29 the sale of the property.
+30 (iv)(a) When a commissioner appointed under
+31 subdivision (a)(1)(B)(ii) of this section has set the time and place of a
+32 public sale under subdivision (a)(1)(B)(iii)(b) of this section, the city or
+33 town that petitioned for the sale of the property under subdivision
+34 (a)(1)(B)(i) of this section shall provide notice of the sale to the owner of
+35 the property at the owner's last known address and any lienholders of record
+36 at the address shown in the relevant land records of the time and place of
+4 04-08-2025 11:19:05 JLL189
+
+As Engrossed: H3/17/25 S4/8/25 HB1695
+1 the public sale of the property.
+2 (b) A city or town is not required to
+3 notify a holder of an unrecorded lien or an unrecorded assignee of a
+4 lienholder under this subdivision (a)(1)(B)(iv).
+5 (c) The notice to an owner required under
+6 subdivision (a)(1)(B)(iv)(a) of this section shall contain at least
+7 (3) The notice to an owner required under
+8 subdivision (a)(1)(B)(iii)(c)(1) of this section shall contain at least a
+9 partial or abbreviated legal description of the property, the parcel number
+10 for the property, the date of the public sale of the property, and a
+11 statement that the property will be sold if not redeemed by the date of the
+12 public sale; and
+13 (d) Advertise the time and place of the public
+14 sale of the property by publishing an advertisement in a newspaper of general
+15 circulation in the county in which the property is located at least one (1)
+16 time a week for two (2) consecutive weeks before the public sale.
+17 (C) Proceeds from a public sale conducted under
+18 subdivision (a)(1)(B) of this section shall be distributed based on the
+19 priority of the liens on the property in accordance with the order of
+20 disbursement issued by the circuit court.
+21 (D) A lien that exists on property sold at a public sale
+22 that complies with the requirements stated in this section and is conducted
+23 under subdivision (a)(1)(B) of this section that is not satisfied after the
+24 distributions provided under subdivision (a)(1)(C) of this section is
+25 extinguished upon the completion of the public sale conducted under
+26 subdivision (a)(1)(B) of this section; or
+27
+28 SECTION 8. Arkansas Code § 14-54-904(b)(1)(A), concerning the
+29 enforcement of a lien for clearance by municipality, is amended to read as
+30 follows:
+31 (b)(1)(A)(i) In any situation in which a city of the first class or
+32 city of the second class or town issues an order for the removal, repair to
+33 return the structure to compliance with minimum building code standards, or
+34 razing of a building or house under the provisions of 14-56-203 14-54-901(b)
+35 and such order is not complied with by the owner of the building or house and
+36 the city or town then removes, repairs, or razes the building or house, a
+5 04-08-2025 11:19:05 JLL189
+
+As Engrossed: H3/17/25 S4/8/25 HB1695
+1 lien is granted and given against the real property for the cost of the owner
+2 of the building or house is liable for all costs incurred by the city or town
+3 related to the removal, repair, or razing of the building or house, including
+4 without limitation any administrative, legal, filing, collection, and title
+5 search costs.
+6 (ii) A city or town may collect costs incurred under
+7 this subsection from the owner of the building or house in any manner
+8 provided for the collection of a civil judgment.
+9 (iii) A city or town is granted a lien for the costs
+10 incurred under this subsection, which shall be filed in the office of the
+11 county recorder within one hundred twenty (120) days.
+12 (iv) If an indebtedness filed as a lien under this
+13 subsection is paid and satisfied, the city or town shall enter satisfaction
+14 of the lien on the record in the office of the county recorder within thirty
+15 (30) days of the satisfaction of the lien.
+16
+17 SECTION 9. Arkansas Code § 14-56-203 is repealed.
+18 14-56-203. Removal or razing of buildings.
+19 Cities of the first class, cities of the second class, and incorporated
+20 towns may order the removal or razing of, or remove or raze, buildings or
+21 houses that in the opinion of the city council or town council have become
+22 dilapidated, unsightly, unsafe, unsanitary, obnoxious, or detrimental to the
+23 public welfare and shall provide by ordinance the manner of removing and
+24 making these removals.
+25
+26 SECTION 10. Arkansas Code § 26-37-205(b)(2)(A), concerning the
+27 distribution of funds from the sale of tax-delinquent property, is amended to
+28 read as follows:
+29 (2)(A) After Except as provided in subdivision (b)(2)(E)(ii) of
+30 this section, after payment is made to the Commissioner of State Lands
+31 pursuant to subdivision (b)(1) of this section, the amount left in the
+32 remaining funds shall be paid to the former owners of the tax-delinquent
+33 parcel.
+34
+35 SECTION 11. Arkansas Code § 26-37-205(b)(2)(E), concerning the
+36 distribution of funds from the sale of tax-delinquent property, is amended to
+6 04-08-2025 11:19:05 JLL189
+
+As Engrossed: H3/17/25 S4/8/25 HB1695
+1 read as follows:
+2 (E)(i) In the event of any dispute, claim, multiple claims
+3 of ownership, controversy regarding the release of the funds, or claim not
+4 expressly permitted under this section, the Commissioner of State Lands may
+5 require the party or parties to provide a court order to resolve the issues
+6 and to establish the party or parties entitled to the remaining funds.
+7 (ii)(a) A city or town incorporated in this state
+8 that possesses an unrecorded clean-up lien on property under § 14-54-903(c)
+9 or § 14-54-904(b) may file a claim for the amount of the unrecorded lien in
+10 circuit court.
+11 (b) A claim for the amount of an unrecorded
+12 lien under this subdivision (b)(2)(E)(ii) has priority status over other
+13 unrecorded liens.
+14 (c) A court that determines the validity of a
+15 claim for the amount of an unrecorded lien under this subdivision
+16 (b)(2)(E)(ii) shall issue an order for the amount to be distributed by the
+17 Commissioner of State Lands to the city or town from the escrow fund
+18 established under subdivision (a)(6) of this section before funds may be
+19 released to the former owners of the property.
+20
+21 /s/J. Richardson
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+7 04-08-2025 11:19:05 JLL189
+
+[DELETED:  A  EBL1       A R P P M P D P U   T P A A P O  B   S  1  ( e t a u]
+[DELETED:  H2 0 o g p  ( i b h d o   S p p  ( w e p w c o   ( t p   S a p   ( c a   S p p  ( r]
+[DELETED:  H3 0 o (   S a p   ( l t w c H b    ( (    ( (    ( ( p    ( (   S p p  ( s r s   S e f   ( c]
+[DELETED:  H4 0 b    ( t      ( t p       ( s t       ( p t      ( t     ( f c      ( p t p     ( (      ( s a           ( a t      ( s p t ( t a]
+[DELETED:  H5 0 t       ( n l      ( s      ( s p f s p      ( s c t    ( s p d      ( t u d e s   S e f  ( c r r a t]
+[DELETED:  H6 0 l o r w s     ( t p     ( i c     ( s o (   S  1  C t h d p m   S d r   ( t p r p   S d]
+[DELETED:  H7 0 r    ( o e r a     ( t o c      ( l u      ( c ( C e r  /               ]

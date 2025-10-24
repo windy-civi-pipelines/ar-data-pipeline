@@ -1,0 +1,1523 @@
+Title: Stricken language would be deleted from and underlined language would be added to present law.
+Official Title: Stricken language would be deleted from and underlined language would be added to present law.
+Number of Sections: 1
+Source: versions - HB 1989
+Media Type: application/pdf
+Strikethrough Detection: 19 sections found
+
+================================================================================
+
+Section 1:
+1 State of Arkansas
+A Bill
+2 95th General Assembly
+3 Regular Session, 2025 HOUSE BILL 1989
+4
+5 By: Representative Cavenaugh
+6
+7
+For An Act To Be Entitled
+8
+9 AN ACT TO AMEND THE LAW CONCERNING USED MOTOR
+10 VEHICLES BUYERS PROTECTION; TO AMEND THE LAW
+11 CONCERNING THE APPLICATION PROCESS FOR A WHOLESALE
+12 USED MOTOR VEHICLE DEALER'S LICENSE OR RETAIL USED
+13 MOTOR VEHICLE DEALER'S LICENSE; AND FOR OTHER
+14 PURPOSES.
+15
+16
+Subtitle
+17
+18 TO AMEND THE LAW CONCERNING USED MOTOR
+19 VEHICLES BUYERS PROTECTION; AND TO AMEND
+20 THE LAW CONCERNING THE USED MOTOR
+21 VEHICLE DEALER'S LICENSE APPLICATION
+22 PROCESS.
+23
+24 BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF ARKANSAS:
+25
+26 SECTION 1. Arkansas Code § 23-112-601 is amended to read as follows:
+27 23-112-601. Necessity for regulation — Legislative findings —
+28 Legislative declaration.
+29 (a) The General Assembly declares that the public interest is affected
+30 by the sale and distribution of used motor vehicles, and it is recognized
+31 that a significant factor of the inducement in making a sale of a used motor
+32 vehicle to a member of the general public is the trust and confidence of the
+33 purchaser in the retail used motor vehicle dealer or wholesale used motor
+34 vehicle dealer from whom the purchase is made, with the expectancy that the
+35 dealer will remain in business to stand behind and provide service for the
+36 motor vehicle purchased.
+*ZRC134*
+04/03/2025 4:32:37 PM ZRC134
+HB1989
+1 (b) It is therefore found to be necessary to license retail used motor
+2 vehicle dealers and wholesale used motor vehicle dealers and to prohibit
+3 certain acts and set penalties for violations and perpetration of certain
+4 acts by retail used motor vehicle dealers and wholesale used motor vehicle
+5 dealers who are not licensed as new motor vehicle dealers selling used cars
+6 incidental to their new motor vehicle dealership operations, salespersons,
+7 agents, representatives, and employees of retail used motor vehicle dealers
+8 and wholesale used motor vehicle dealers in order to:
+9 (1) Prevent fraud, improper impositions, and other abuses upon
+10 the citizens of this state;
+11 (2) Protect and preserve the investments and properties of the
+12 citizens of this state; and
+13 (3) Foster and keep alive vigorous and healthy competition by
+14 prohibiting unfair practices by which fair and honest competition is
+15 destroyed or prevented.
+16
+17 SECTION 2. Arkansas Code § 23-112-602(1)—(4), concerning the
+18 definitions related to used motor vehicle buyers protection, are amended to
+19 read as follows:
+20 (1)(A) “Auto auction” means any person who operates or provides
+21 a place of business or facilities for the wholesale exchange of motor
+22 vehicles by and between duly licensed motor vehicle dealers, or from retail
+23 used motor vehicle dealers and wholesale used motor vehicle dealers to
+24 individuals, or individuals to retail used motor vehicle dealers and
+25 wholesale used motor vehicle dealers, or any combination thereof, or any
+26 motor vehicle dealer licensed to sell used motor vehicles, selling used motor
+27 vehicles using an auction format or on consignment.
+28 (B) “Auto auction” also applies to any person who provides
+29 the facilities for or is in the business of selling motor vehicles in an
+30 auction format;
+31 (2) “Designee” means a person or entity that:
+32 (A) Agrees to perform inspections of retail used motor
+33 vehicle dealers and wholesale used motor vehicle dealers under this
+34 subchapter on behalf of the department Division of Arkansas State Police; and
+35 (B) The department division determines is appropriately
+36 suited for serving as a designee under this subchapter;
+2 04/03/2025 4:32:37 PM ZRC134
+HB1989
+1 (3) “Drafter” means any person who obtains financing for the
+2 purchase and resale of vehicles of another person or a retail used motor
+3 vehicle dealer or wholesale used motor vehicle dealer through the use of the
+4 account of or based on the extension of credit by presenting at the time of
+5 purchase of the subject vehicles a documentary draft for purchase of the
+6 vehicle or who otherwise promises to pay through the accounts or credit of
+7 another person or a retail used motor vehicle dealer or wholesale used motor
+8 vehicle dealer;
+9 (4) “Licensed location” means the address designated as the
+10 business address of the used motor vehicle dealer on his or her application
+11 for a retail used motor vehicle dealer's license or a wholesale used motor
+12 vehicle dealer's license;
+13
+14 SECTION 3. Arkansas Code § 23-112-602(7), concerning the definitions
+15 related to used motor vehicle buyers protection, is amended to read as
+16 follows:
+17 (7) “Person” means and includes, individually and collectively,
+18 individuals, firms, partnerships, associations, corporations, trusts, or any
+19 other form of business, individual enterprise, company, or entity;
+20
+21 SECTION 4. Arkansas Code § 23-112-602(10)(A)(i), concerning the
+22 definitions related to used motor vehicle buyers protection, is amended to
+23 read as follows:
+24 (10)(A)(i) “Used motor vehicle dealer”, hereinafter referred to
+25 as or “dealer”, means any person, retailer, wholesaler, or auto auction who,
+26 for a commission or with intent to make a profit or gain of money or other
+27 thing of value, sells, brokers, exchanges, rents, or leases with the option
+28 to purchase or own, or attempts to negotiate a sale or exchange of an
+29 interest in any used motor vehicle, or who is wholly or in part in the
+30 business of buying, selling, trading, or exchanging used motor vehicles,
+31 whether or not such motor vehicles are owned by the person.
+32
+33 SECTION 5. Arkansas Code § 23-112-602(11) and (12), concerning the
+34 definitions related to used motor vehicle buyers protection, are amended to
+35 read as follows:
+36 (11) “Used motor vehicle salesperson”, hereinafter referred to
+3 04/03/2025 4:32:37 PM ZRC134
+HB1989
+1 as “salesperson”, is anyone who for compensation of any kind operates as a
+2 salesperson, broker, agent, or representative of a retail used motor vehicle
+3 dealer or wholesale used motor vehicle dealer, or any person who attempts to
+4 or in fact negotiates a sale of a vehicle owned partially or entirely by a
+5 retail used motor vehicle dealers or wholesale used motor vehicle dealer, or
+6 a person or drafter using the financial resources, line of credit, or floor
+7 plan of a retail used motor vehicle dealer or wholesale used motor vehicle
+8 dealer to purchase, sell, or exchange an interest in a used motor vehicle;
+9 and
+10 (12)(A) “Wholesaler” or "wholesale used motor vehicle dealer"
+11 means any person, resident or nonresident, who, in whole or in part,
+12 primarily sells used motor vehicles to motor vehicle dealers.
+13 (B) Used Retail used motor vehicle dealers who, incidental
+14 to their primary business, sell motor vehicles to other retail used motor
+15 vehicle dealers and wholesale used motor vehicle dealers are not considered
+16 wholesalers because of their incidental sales.
+17
+18 SECTION 6. Arkansas Code § 23-112-602, concerning the definitions
+19 related to used motor vehicle buyers protection, is amended to add additional
+20 subdivisions to read as follows:
+21 (13) "Convicted" means that a person plead guilty or nolo
+22 contendere to or was found guilty of a criminal offense, including a
+23 conviction that has been sealed or expunged; and
+24 (14) "Retail used motor vehicle dealer" means a person who sells
+25 used motor vehicles to the public.
+26
+27 SECTION 7. Arkansas Code § 23-112-603(a)(3) and (4), concerning the
+28 penalties for a violation of the law concerning used motor vehicle buyers
+29 protection, are amended to read as follows:
+30 (3) A third or subsequent violation is a Class D felony, and the
+31 retail used motor vehicle dealer's or wholesale used motor vehicle dealer's
+32 license shall be suspended for three (3) years for each respective third or
+33 subsequent violation; and
+34 (4)(A) In addition to or instead of the penalties listed under
+35 subdivisions (a)(1)-(3) of this section, the Director of the Division of
+36 Arkansas State Police may issue a fine in an amount not to exceed one
+4 04/03/2025 4:32:37 PM ZRC134
+HB1989
+1 thousand dollars ($1,000) for each violation of this subchapter.
+2 (B) The fines collected under subdivision (a)(4)(A) of
+3 this section shall be remitted to the Division of Arkansas State Police and
+4 shall be deposited into the State Treasury to the credit of the Division of
+5 Arkansas State Police Fund.
+6
+7 SECTION 8. Arkansas Code § 23-112-603(b), concerning the penalties for
+8 a violation of the law concerning used motor vehicle buyers protection, is
+9 amended to read as follows:
+10 (b) Any person found guilty of selling a used motor vehicle as a
+11 dealer or salesperson while his or her retail used motor vehicle dealer's or
+12 salesperson's license or wholesale used motor vehicle dealer's or
+13 salesperson's license is suspended or revoked shall be guilty of a Class C
+14 felony.
+15
+16 SECTION 9. Arkansas Code § 23-112-603(d), concerning the penalties for
+17 a violation of the law concerning used motor vehicle buyers protection, is
+18 amended to read as follows:
+19 (d)(1) A retail used motor vehicle dealer or wholesale used motor
+20 vehicle dealer licensed under this subchapter shall maintain a licensed
+21 location.
+22 (2) When a retail used motor vehicle dealer or wholesale used
+23 motor vehicle dealer changes or moves his or her licensed location, within
+24 fifteen (15) calendar days of the relocation, the retail used motor vehicle
+25 dealer or wholesale used motor vehicle dealer shall notify the division in
+26 writing of the dealership name, the previous location, and the new location.
+27 (3)(A) If the division determines that the used motor vehicle
+28 dealer's business location of the retail used motor vehicle dealer or
+29 wholesale used motor vehicle dealer has moved and notification to the
+30 division has not been properly made, the division shall levy a fine equal to
+31 the amount of the license fee.
+32 (B) The fine collected pursuant to subdivision (d)(3)(A)
+33 of this section shall be remitted to the division and shall be deposited into
+34 the State Treasury as special revenue to the credit of the division.
+35
+36 SECTION 10. Arkansas Code §§ 23-112-604 through 23-112-607 are amended
+5 04/03/2025 4:32:37 PM ZRC134
+HB1989
+1 to read as follows:
+2 23-112-604. Powers generally.
+3 (a) The Department Division of Arkansas State Police may promulgate
+4 rules that are necessary to implement, enforce, and administer this
+5 subchapter.
+6 (b) The department division may cancel a dealer's license if the
+7 retail used motor vehicle dealer or wholesale used motor vehicle dealer:
+8 (1) Fails to keep and maintain the requirements of § 23-112-
+9 607(a) and (c) of this subchapter; or
+10 (2) Pleads guilty or nolo contendere to or has been found guilty
+11 of a violation of § 23-112-605.
+12
+13 23-112-605. Violations.
+14 It shall be a violation of this subchapter to knowingly or
+15 intentionally:
+16 (1)(A) Sell a vehicle without a retail used motor vehicle
+17 dealer's license or wholesale used motor vehicle dealer's license.
+18 (B) The sale of each vehicle shall constitute a separate
+19 offense;
+20 (2) Commit a fraudulent act in selling, purchasing, or otherwise
+21 dealing in motor vehicles;
+22 (3) Fail to maintain the conditions and requirements necessary
+23 to qualify for the issuance of a retail used motor vehicle dealer's license
+24 or wholesale used motor vehicle dealer's license;
+25 (4) Sell, attempt to sell, or advertise for sale vehicles from a
+26 location other than that set forth on the retail used motor vehicle dealer's
+27 license or wholesale used motor vehicle dealer's license, except:
+28 (A) As a participating dealer in a state trade association
+29 promotion or exhibit; or
+30 (B) With a special sale permit; or
+31 (C) At an auto auction;
+32 (5) Falsify, alter, or neglect to endorse or deliver a
+33 certificate of title to a transferee or lawful owner, or fail to properly
+34 designate a transferee on a document of assignment or certificate of title;
+35 (6) Knowingly purchase, sell, or otherwise acquire or dispose of
+36 a stolen motor vehicle;
+6 04/03/2025 4:32:37 PM ZRC134
+HB1989
+1 (7) Submit a false affidavit setting forth that a title has been
+2 lost or destroyed;
+3 (8) Pass title or reassign title as a retail used motor vehicle
+4 dealer or wholesale used motor vehicle dealer without a retail used motor
+5 vehicle dealer's license or wholesale used motor vehicle dealer's license or
+6 when his or her retail used motor vehicle dealer's license or wholesale used
+7 motor vehicle dealer's license has been suspended;
+8 (9) To represent oneself as a retail used motor vehicle dealer
+9 or wholesale used motor vehicle dealer or as a salesperson, either verbally
+10 or in any advertisement, when not licensed as such;
+11 (10) Violate any provision or requirement in this subchapter; or
+12 (11) Knowingly assist an unlicensed retail used motor vehicle
+13 dealer or wholesale used motor vehicle dealer in the sale of a motor
+14 vehicle.; or
+15 (12) Misuse a:
+16 (A) Dealer's master plate or dealer's extra license plate
+17 under § 27-14-1704;
+18 (B) Transporter plate under § 27-14-1806; or
+19 (C) Wholesale used motor vehicle dealer master plate,
+20 wholesale used motor vehicle extra dealer plate, or wholesale used motor
+21 vehicle dealer transporter plate under § 23-112-623.
+22
+23 23-112-606. License required.
+24 It shall be unlawful for any person to engage in business as a retail
+25 used motor vehicle dealer or wholesale used motor vehicle dealer or to sell a
+26 vehicle not his or her own without obtaining a retail used motor vehicle
+27 dealer's license or wholesale used motor vehicle dealer's license, except
+28 that a person defined as a salesperson in § 23-112-602 may act on behalf of
+29 the dealer by whom such a person is employed.
+30
+31 23-112-607. Dealer's license.
+32 (a)(1) Persons wishing to obtain a retail used motor vehicle dealer's
+33 license or wholesale used motor vehicle dealer's license shall submit a fully
+34 executed application on such retail used motor vehicle dealer's license or
+35 wholesale used motor vehicle dealer application forms as may be prescribed by
+36 the Department Division of Arkansas State Police.
+7 04/03/2025 4:32:37 PM ZRC134
+HB1989
+1 (2) The application shall be verified by the oath or affirmation
+2 of the applicant.
+3 (b)(1) An applicant for a used motor vehicle dealer's license or a A
+4 licensee seeking to renew a retail used motor vehicle dealer's license or
+5 wholesale used motor vehicle dealer's license shall establish that he or she
+6 has sold at least five (5) ten (10) used motor vehicles during the previous
+7 calendar year.
+8 (2) A licensee shall possess and present valid and signed copies
+9 of certificates of title and bills of sale upon a random audit or yearly
+10 renewal inspection by the division.
+11 (c) The department In addition to an application for a retail used
+12 motor vehicle dealer's license or a wholesale used motor vehicle dealer's
+13 license, the division shall require in relation to the application the
+14 following information and verification prior to issuing a retail used motor
+15 vehicle dealer's license certificate or wholesale used motor vehicle dealer's
+16 license certificate:
+17 (1) A photograph of the business location;
+18 (2) A Proof that the applicant possesses a corporate surety bond
+19 in the sum of at least twenty-five thousand dollars ($25,000) fifty thousand
+20 dollars ($50,000);
+21 (3) Proof of liability insurance coverage on all vehicles to be
+22 offered for sale in an amount equal to or greater than the amount required by
+23 the Motor Vehicle Safety Responsibility Act, § 27-19-101 et seq.;
+24 (4) A list of the persons or entities having any ownership
+25 interest in the used vehicle dealership;
+26 (5) A list of managers or salespersons to be employed;
+27 (6) That Evidence that the applicant has a bona fide an
+28 established place of business used primarily for the sale of used motor
+29 vehicles that:
+30 (A) Includes an enclosed building or structure; and
+31 (B) Is owned, rented, or leased by the applicant and is
+32 occupied and used primarily for the sale of used motor vehicles;
+33 (7) That Evidence that the applicant has a telephone number
+34 listed in the name of the business in an online directory;
+35 (8) That A photograph demonstrating that the applicant has a an
+36 exterior sign that: identifying
+8 04/03/2025 4:32:37 PM ZRC134
+HB1989
+1 (A) Identifies the establishment as a used motor vehicle
+2 dealership; and
+3 (B) Is legible from the street, road, or highway, and a
+4 picture thereof;
+5 (9) That Evidence that the applicant has an office space
+6 dedicated to the business that contains a filing cabinet or other repository
+7 adequate to secure the business records of the establishment under lock and
+8 key or combination;
+9 (10) Whether A disclosure as to whether the applicant has ever:
+10 (A) been Been issued a retail motor vehicle dealer's
+11 license or wholesale motor vehicle dealer's license,; and
+12 (B) if the applicant has ever had Had a retail motor
+13 vehicle dealer's license or wholesale motor vehicle dealer's license
+14 suspended or revoked;
+15 (11)(A) Except as provided in subdivision (c)(11)(B) of this
+16 section, an An affidavit from a department division officer or a designee of
+17 the department division stating that the officer or a designee of the
+18 department division has inspected the facility within thirty (30) sixty (60)
+19 days before issuance or renewal of a license and found it to be in compliance
+20 with the requirements for application.
+21 (B) If a licensee has been continuously licensed at the
+22 same facility for ten (10) years or more, then the licensee shall only be
+23 required to comply with subdivision (c)(11)(A) of this section one (1) time
+24 every other year; and The owner of the facility being inspected under
+25 subdivision (c)(11)(A) of this section or the owner's designated power of
+26 attorney shall be present for the inspection before the issuance or renewal
+27 of a license;
+28 (12) The name, address, and telephone number of the person
+29 designated to receive legal process in the event of the commencement of any
+30 legal action in any court against the applicant;
+31 (13) A copy of a valid driver's license for each owner, partner,
+32 manager, and salesperson listed on the application; and
+33 (14)(A)(i) A criminal record check conducted at the time of
+34 issuance or renewal of a license of each owner, partner, manager, and
+35 salesperson by the division and the Federal Bureau of Investigation.
+36 (ii) Criminal history records from the Arkansas
+9 04/03/2025 4:32:37 PM ZRC134
+HB1989
+1 Crime Information Center shall be available to the Director of the Division
+2 of Arkansas State Police for the review of an applicant.
+3 (B) The state and national criminal background check
+4 required under this subdivision (c)(14) shall:
+5 (i) Conform to applicable federal standards; and
+6 (ii) Include the taking of fingerprints.
+7 (C) The applicant shall:
+8 (i) Sign a release of information to the director;
+9 and
+10 (ii) Pay any fee associated with the state and
+11 national criminal background check.
+12 (D) Upon completion of the state and national criminal
+13 background check required under this subdivision (c)(14), the division shall
+14 forward to the director all releasable information obtained concerning the
+15 applicant.
+16 (E)(i) The division shall not issue a new license to a
+17 person who has been found guilty of a Class Y, Class A, or Class B felony,
+18 including a sealed or expunged offense, in any court in the state or a
+19 comparable offense in another state or in a military or federal court for
+20 which a pardon has not been granted.
+21 (ii) An applicant who has been found guilty of a
+22 Class D or Class C felony shall be disqualified for a period of ten (10)
+23 years from the date of adjudication.
+24 (F) The director may deny, suspend, or revoke a retail
+25 used motor vehicle dealer's license or a wholesale used motor vehicle
+26 dealer's license for an arrest or indictment of a felony listed under
+27 subdivision (c)(14)(E) of this section.
+28 (G) The division shall promulgate rules to implement and
+29 administer this subdivision (c)(14).
+30 (H)(i) A holder of a current and valid retail used motor
+31 vehicle dealer's license or wholesale used motor vehicle dealer's license who
+32 possesses a license before the effective date of this act is exempt from
+33 disqualification under subdivision (c)(14)(E) of this section for a felony
+34 conviction before the effective date of this act.
+35 (ii) A holder of a current and valid retail motor
+36 vehicle dealer's license or wholesale used motor vehicle dealer's license who
+10 04/03/2025 4:32:37 PM ZRC134
+HB1989
+1 possesses a license before the effective date of this act shall be
+2 disqualified for a felony arrest or conviction that occurs after the
+3 effective date of this act.
+4 (d)(1)(A) Each applicant shall obtain a corporate surety bond in the
+5 penal sum of twenty-five thousand dollars ($25,000) fifty thousand dollars
+6 ($50,000) on a bond form approved by the state.
+7 (B) However, an applicant for a license at multiple
+8 locations may provide a corporate surety bond in the penal sum of one hundred
+9 thousand dollars ($100,000) two hundred thousand dollars ($200,000) covering
+10 all licensed locations in lieu of separate bonds for each individual
+11 location.
+12 (2) The bond shall be an indemnity for any loss and reasonable
+13 attorney's fees sustained by a retail buyer by reason of the acts of the
+14 person bonded when such an act constitutes a violation of this law.
+15 (3) However, the surety shall in no event be liable for more
+16 than twenty-five thousand dollars ($25,000) fifty thousand dollars ($50,000).
+17 (4) The bond shall be executed in the name of the State of
+18 Arkansas or any aggrieved party.
+19 (5) The proceeds of the bonds shall be paid either to the State
+20 of Arkansas or to the retail buyer upon a judgment from an Arkansas court of
+21 competent jurisdiction against the principal and in favor of the aggrieved
+22 party or the State of Arkansas.
+23 (6) However, the surety shall in no event be required to pay any
+24 judgment obtained by fraud or collusion, as between the dealer and the retail
+25 buyer, or which was rendered against a person bonded for an act that does not
+26 constitute a violation of this subchapter. These defenses may be raised at
+27 any time, subject to the applicable statute of limitations.
+28
+29 SECTION 11. Arkansas Code § 23-112-611(a), concerning records that a
+30 used motor vehicle dealer must maintain, is amended to read as follows:
+31 (a)(1) Every person required to have a license shall maintain, for
+32 three (3) years from the date of purchase, records of each vehicle
+33 transaction to which the person was a party.
+34 (2) Records maintained under subdivision (a)(1) of this section
+35 shall be maintained at the business location listed on the license of the
+36 person required to maintain the records.
+11 04/03/2025 4:32:37 PM ZRC134
+HB1989
+1
+2 SECTION 12. Arkansas Code § 23-112-613 is amended to read as follows:
+3 23-112-613. Delivery prior to sale — Disclosures — Definitions.
+4 (a) As used in this section:
+5 (1)(A) “Contract for sale” means the final agreement between a
+6 retail used motor vehicle dealer or wholesale used motor vehicle dealer and a
+7 consumer that:
+8 (i) Includes all material terms of the sale of a
+9 motor vehicle; and
+10 (ii) Is binding upon the seller, the buyer, and any
+11 necessary third-party financer.
+12 (B) “Contract for sale” includes a financing agreement and
+13 all material financing terms if the motor vehicle is to be financed; and
+14 (2) “Delivery prior to sale” means a delivery of a motor vehicle
+15 by a retail used motor vehicle dealer or wholesale used motor vehicle dealer
+16 to a consumer prior to the completion and execution by both parties of a
+17 contract for sale.
+18 (b) If a retail used motor vehicle dealer or wholesale used motor
+19 vehicle dealer engages in a delivery prior to sale, then the retail used
+20 motor vehicle dealer or wholesale used motor vehicle dealer shall provide the
+21 consumer with an agreement for delivery prior to sale at the time of delivery
+22 of the motor vehicle to the consumer.
+23 (c)(1) The agreement for delivery prior to sale shall be:
+24 (A) Printed in at least 12-point type; and
+25 (B) Signed by the consumer and the retail used motor
+26 vehicle dealer or wholesale used motor vehicle dealer or the dealer's
+27 representative.
+28 (2) The agreement for delivery prior to sale shall not be
+29 considered a contract for sale.
+30 (d) The agreement for delivery prior to sale shall include all of the
+31 following terms:
+32 (1) Unless the consumer is approved for financing and both
+33 parties have executed a contract for sale, then the retail used motor vehicle
+34 dealer or wholesale used motor vehicle dealer shall not:
+35 (A) Deposit or cash any down payment provided by the
+36 consumer; and
+12 04/03/2025 4:32:37 PM ZRC134
+HB1989
+1 (B) Sell any motor vehicle that is presented by the
+2 consumer as a trade-in;
+3 (2) The consumer retains the right to cancel the purchase of a
+4 motor vehicle if:
+5 (A) The retail used motor vehicle dealer or wholesale used
+6 motor vehicle dealer changes any terms; or
+7 (B) The consumer fails to obtain financing that meets the
+8 agreed-upon interest rate;
+9 (3) If a consumer who executes an agreement for delivery prior
+10 to sale chooses not to execute a contract for sale or otherwise cancels the
+11 purchase as provided under this section, then:
+12 (A) The retail used motor vehicle dealer or wholesale used
+13 motor vehicle dealer shall not:
+14 (i) Impose any charge or penalty against the
+15 consumer; or
+16 (ii) Deposit or cash any down payment provided by
+17 the consumer; and
+18 (B) The retail used motor vehicle dealer or wholesale used
+19 motor vehicle dealer shall immediately return any motor vehicle that was
+20 presented by the consumer as a trade-in; and
+21 (4) If the consumer decides not to purchase the motor vehicle,
+22 the consumer shall return the motor vehicle to the retail used motor vehicle
+23 dealer or wholesale used motor vehicle dealer within forty-eight (48) hours
+24 after the consumer notifies the retail used motor vehicle dealer or wholesale
+25 used motor vehicle dealer.
+26 (e) If a consumer fails to return a motor vehicle pursuant to
+27 subdivision (d)(4) of this section, then the retail used motor vehicle dealer
+28 or wholesale used motor vehicle dealer may recover the vehicle without the
+29 necessity of judicial process if the recovery is possible without committing
+30 an act of breaking or entering or breach of the peace.
+31 (f) The Division of Arkansas State Police shall promulgate rules to
+32 implement, enforce, and administer this section.
+33
+34 SECTION 13. Arkansas Code § 23-112-617(a)—(c), concerning used motor
+35 vehicle dealer service and handling fees, are amended to read as follows:
+36 (a) A retail used motor vehicle dealer or wholesale used motor vehicle
+13 04/03/2025 4:32:37 PM ZRC134
+HB1989
+1 dealer may fill in the blanks on standardized forms in connection with the
+2 sale or lease of used motor vehicles if the motor vehicle dealer does not
+3 charge for the service of filling in the blanks or otherwise charge for
+4 preparing documents.
+5 (b)(1) A retail used motor vehicle dealer or wholesale used motor
+6 vehicle dealer may charge a service and handling fee in connection with the
+7 sale or lease of a used motor vehicle for:
+8 (A) The handling, processing, and storage of documents;
+9 and
+10 (B) Other administrative and clerical services.
+11 (2)(A) The service and handling fee may be charged to allow cost
+12 recovery for retail used motor vehicle dealer or wholesale used motor vehicle
+13 dealers.
+14 (B) A portion of the service and handling fee may result
+15 in profit to the used motor vehicle dealer.
+16 (c)(1)(A) The Department Division of Arkansas State Police shall
+17 determine by rule the amount of the service and handling fee that may be
+18 charged by a retail used motor vehicle dealer or wholesale used motor vehicle
+19 dealer. (B) The service and handling fee shall be no less
+20 than zero dollars ($0.00) and no more than one hundred twenty-nine dollars
+21 ($129).
+22 (2) If a service and handling fee is charged under this section,
+23 the service and handling fee shall be:
+24 (A) Charged to all retail customers; and
+25 (B) Disclosed on the retail buyer's order form as a
+26 separate itemized charge.
+27
+28 SECTION 14. Arkansas Code § 23-112-617(e), concerning used motor
+29 vehicle dealer service and handling fees, is amended to read as follows:
+30 (e) The Department division of Arkansas State Police may promulgate
+31 rules to implement, enforce, and administer this section.
+32
+33 SECTION 15. Arkansas Code Title 23, Chapter 112, Subchapter 6, is
+34 amended to add additional sections to read as follows:
+35 23-112-618. Used motor vehicle dealer application.
+36 (a) An application for a license under this subchapter shall:
+14 04/03/2025 4:32:37 PM ZRC134
+HB1989
+1 (1) Be in the form prescribed by the Director of the Division of
+2 Arkansas State Police; and
+3 (2) Include:
+4 (A) The full name and business address of the applicant;
+5 (B) The name under which the applicant intends to do
+6 business; and
+7 (C)(i) Submission of the applicant's fingerprints.
+8 (ii) An out-of-state applicant shall submit two (2)
+9 classifiable sets of fingerprints, and an in-state applicant shall submit
+10 fingerprints through a harvester or livescan operator located within the
+11 state;
+12 (D) A verified statement disclosing any record of arrests,
+13 pending criminal charges, or convictions of the applicant of a felony,
+14 including a felony that has been sealed or expunged;
+15 (E) For an applicant who is an individual:
+16 (i) Any information required by the director that
+17 would show that the applicant is honest, trustworthy, and of good character;
+18 and
+19 (ii) The Social Security number of the applicant;
+20 and
+21 (F) For an applicant who is not an individual, the
+22 taxpayer identification number of the applicant.
+23 (b)(1)(A) A first-time applicant or an applicant for license or
+24 credential renewal shall apply to the Division of Arkansas State Police for a
+25 state and national criminal background check to be conducted by the division
+26 and the Federal Bureau of Investigation.
+27 (B) Criminal history records from the Arkansas Crime
+28 Information Center shall be available to the director for the review of an
+29 applicant.
+30 (2) The state and national criminal background check required
+31 under this subsection shall:
+32 (A) Conform to applicable federal standards; and
+33 (B) Include the taking of fingerprints as required in
+34 subdivision (a)(2)(C) of this section.
+35 (3) The applicant shall:
+36 (A) Sign a release of information to the director; and
+15 04/03/2025 4:32:37 PM ZRC134
+HB1989
+1 (B) Pay any fee associated with the state and national
+2 criminal background check.
+3 (4) Upon completion of the state and national criminal
+4 background check required under this subsection, the division shall forward
+5 to the director all releasable information obtained concerning the applicant.
+6 (c) The burden is on the applicant to provide information that is
+7 sufficient to allow the director to determine if the applicant is qualified
+8 to hold a license under this subchapter.
+9
+10 23-112-619. Fingerprint cards.
+11 (a) The Identification Bureau of the Division of Arkansas State Police
+12 may retain the fingerprints collected for an individual who is fingerprinted
+13 under this subchapter.
+14 (b) The Director of the Division of Arkansas State Police may enroll a
+15 person issued a license under this subchapter in a program that
+16 electronically notifies law enforcement if the person has been arrested.
+17
+18 23-112-620. Retail used motor vehicle dealer.
+19 (a) An applicant for a retail used motor vehicle dealer's license
+20 shall provide a certificate of good standing from the Secretary of State to
+21 the Division of Arkansas State Police with the application for a retail used
+22 motor vehicle dealer's license.
+23 (b)(1) A retail used motor vehicle dealer is limited to four (4)
+24 dealerships per business location.
+25 (2) A retail used motor vehicle dealer shall maintain a minimum
+26 vehicle inventory of at least five (5) vehicles per dealership at the
+27 business location of the retail used motor vehicle dealer.
+28 (3) A retail used motor vehicle dealer shall meet the annual
+29 sales requirements under § 23-112-607(b)(2).
+30
+31 23-112-621. Wholesale used motor vehicle dealer.
+32 (a) An applicant for a wholesale used motor vehicle dealer's license
+33 shall submit a separate application for a wholesale used motor vehicle
+34 dealer’s license to the Division of Arkansas State Police.
+35 (b) A wholesale used motor vehicle dealer is not required to maintain
+36 inventory at the wholesale used motor vehicle dealer's place of business.
+16 04/03/2025 4:32:37 PM ZRC134
+HB1989
+1 (c) Unless a wholesale used motor vehicle dealer is also a licensed
+2 retail used motor vehicle dealer, engaging in retail sales is grounds for the
+3 revocation of a wholesale used motor vehicle dealer's license.
+4
+5 23-112-622. Procedure for denial of application for license.
+6 (a) The Director of the Division of Arkansas State Police may deny the
+7 issuance of a license under this subchapter.
+8 (b) The director shall notify the applicant in writing of the
+9 director's decision to deny the issuance of a license.
+10 (c) An applicant whose application for a license has been denied under
+11 this section may appeal the decision to the director by submitting an appeal
+12 within ten (10) days of the receipt of the notice of denial issued under
+13 subsection (b) of this section.
+14
+15 23-112-623. Used motor vehicle dealer plates — Penalties.
+16 (a) When an applicant for a retail used motor vehicle dealer's license
+17 or a wholesale used motor vehicle dealer's license obtains a retail used
+18 motor vehicle dealer's license or a wholesale used motor vehicle dealer's
+19 license, the Department of Finance and Administration shall issue:
+20 (1) To a licensed retail used motor vehicle dealer:
+21 (A) One (1) master plate;
+22 (B) One (1) transporter plate; and
+23 (C) One (1) extra dealer plate; and
+24 (2) To a licensed wholesale used motor vehicle dealer:
+25 (A) One (1) master plate; and
+26 (B) One (1) transporter plate.
+27 (b) The holder of the retail used motor vehicle dealer's license or
+28 wholesale used motor vehicle dealer's license shall be the only person to
+29 possess a master plate issued under subsection (a) of this section.
+30 (c) Only one (1) salesperson or manager may possess and use the extra
+31 dealer plate.
+32 (d) Misuse of a used motor vehicle dealer plate shall result in the
+33 confiscation of the used motor vehicle dealer plate by law enforcement or an
+34 inspector assigned to the Division of Arkansas State Police Used Motor
+35 Vehicle Division.
+36 (e)(1)(A) A person who violates this section is subject to a civil
+17 04/03/2025 4:32:37 PM ZRC134
+HB1989
+1 penalty of one thousand dollars ($1,000) for each violation.
+2 (B) A person who violates this section shall surrender the
+3 dealer plates issued under subsection (a) of this section to law enforcement.
+4 (2) The division shall assess penalties for a violation of this
+5 section by written notice to the violator.
+6 (3) If a civil penalty assessed under this section is not paid
+7 within forty-five (45) days of notice of the violation, the wholesale used
+8 motor vehicle dealer's license or the retail used motor vehicle dealer's
+9 license, or both, of the person who committed the violation shall be
+10 suspended.
+11 (4) Upon a third or subsequent violation of this section, the
+12 wholesale used motor vehicle dealer's license or the retail used motor
+13 vehicle dealer's license, or both, of the person who committed the violation
+14 shall be revoked.
+15 (f) A civil penalty assessed under this section shall be remitted to
+16 the division and shall be deposited into the State Treasury to the credit of
+17 the Division of Arkansas State Police Fund.
+18
+19 23-112-624. Grounds for disciplinary action.
+20 (a) The Director of the Division of Arkansas State Police may suspend
+21 or revoke a license or issue a fine in an amount not to exceed one thousand
+22 dollars ($1,000) for each violation of this subchapter.
+23 (b) The director may deny an application or renewal for a license on
+24 proof that the applicant or licensee:
+25 (1) Violated this subchapter or violated a rule promulgated
+26 under this subchapter;
+27 (2) No longer meets the qualifications for a license under this
+28 subchapter; or
+29 (3) Has been arrested for an offense that, if convicted, would
+30 result in disqualification for the license under this subchapter.
+31 (c)(1) The director may summarily suspend a license issued under this
+32 subchapter for no more than sixty (60) days if it is shown that the health,
+33 safety, or welfare of the public is endangered.
+34 (2) If a hearing on a license that has been summarily suspended
+35 is adjourned at the request of the licensee, the suspension may be continued
+36 for the additional period of the adjournment.
+18 04/03/2025 4:32:37 PM ZRC134
+HB1989
+1 (d) The director may suspend a license of a person who is found guilty
+2 of or has pleaded guilty or nolo contendere to a felony or a crime involving
+3 an act of violence in this state or a comparable offense in another state or
+4 territory of the United States or in any foreign country.
+5
+6 23-112-625. License — Record of denial, revocation, or suspension.
+7 If the Director of the Division of Arkansas State Police denies an
+8 application, suspends or revokes a license, or imposes a fine under this
+9 subchapter, the director's decision shall be mailed to the applicant or
+10 license holder within sixty (60) days of the director's decision.
+11
+12 23-112-626. Appeal of denial, suspension, or revocation — Venue.
+13 (a) The denial, suspension, or revocation of a license under this
+14 subchapter by the Director of the Division of Arkansas State Police:
+15 (1) May be appealed to the Pulaski County Circuit Court; and
+16 (2) Shall be governed by § 25-15-212.
+17 (b) Venue for the appeal to circuit court under this section shall be
+18 in Pulaski County, Arkansas.
+19
+20 SECTION 16. TEMPORARY LANGUAGE. DO NOT CODIFY. Currently issued
+21 extra dealer plates — Effectiveness.
+22 (a) A currently issued extra dealer plate that is valid and in good
+23 standing with the Division of Arkansas State Police and the Department of
+24 Finance and Administration shall remain active until the expiration date of
+25 the extra dealer plate.
+26 (b) Upon expiration of a currently issued extra dealer plate, the
+27 currently issued extra dealer plate shall be returned to the Department of
+28 Finance and Administration and shall be no longer valid for use by the used
+29 motor vehicle dealer.
+30
+31 SECTION 17. TEMPORARY LANGUAGE. DO NOT CODIFY. Dealer's license —
+32 Rules — Promulgation.
+33 The Division of Arkansas State Police shall promulgate rules for the
+34 application and issuance of a retail used motor vehicle dealer's license or
+35 wholesale used motor vehicle dealer's license within one hundred twenty (120)
+36 days of the effective date of this act.
+19 04/03/2025 4:32:37 PM ZRC134
+[DELETED:       A V C U M P  T V T V P  B   S  2 L  ( b t v p v d m]
+[DELETED: H2 0  ( v c a d i a a   ( t   ( c   ( p d   S d r   ( a v u i w m v    ( t a   (    ( v s    ( s]
+[DELETED: H3 0   ( p v a p v a v   ( b f v   S r f   ( i o   S d r   ( a f t t i b w   S d r   (]
+[DELETED: H4 0 a s d o r a p d a   ( m p    ( t v w   S r s   ( c c   ( u   S p p   ( r l s   ( s A]
+[DELETED: H5 0 t    ( t s A   S a a  ( d s s f    S a a  ( v l   ( m f d w   ( d w d t    ( o t   S]
+[DELETED: H6 0 t  2  ( r s  ( r   ( 6   ( o   2  I i   ( d    ( o   ( d   ( t o   ( l l    ( p    (    (   ( c d   ( a]
+[DELETED: H7 0   ( l   ( d v w m   ( o o   (   ( d v   (    ( u    (    ( w v   2  I u v d t t   2  ( l e w t]
+[DELETED: H8 0   ( o  ( l w h c   ( o r  ( m l f v l   (   ( i d   ( o t   ( i   (   ( e v    (    ( o   ( l   ( e]
+[DELETED: H9 0    ( d    ( p   ( d a k   (    ( l    ( v s   ( s t d d w    ( s r e s a o   ( d l   ( m   ( i s     (]
+[DELETED: H1 0 C o    ( r     (     (    (     ( a     ( n    ( b f a    ( p i c w     ( C y    ( u d s    ( a    ( v p d c     ( v]
+[DELETED: H1 0 p d e  ( p (    ( l t a l   ( a p   ( t   ( A   ( o c p   ( j b c a   S u  ( t t   ( s p]
+[DELETED: H1 0   S  2  (   ( r c     ( m     ( n    ( a   ( b t c  ( v m c o  (    (    ( v r   ( c  ( f   ( p d    ( c]
+[DELETED: H1 0    ( c   ( m    ( m    ( a   ( t p    ( m     ( c     ( t    ( m p   ( t d a u  ( s o n a  ( i   S v  (]
+[DELETED: H1 0 d s c p  ( v s    ( a    (   ( r d    ( i  ( d c d   ( t (   ( t    (    ( s   S v  ( r   S a  2  (]
+[DELETED: H1 0   ( A   (    (    ( b    (     ( c f s    ( p i    (     ( w a     ( a    ( t  ( c s a    ( I a   ( u    (    ( s   (    (]
+[DELETED: H1 0    ( c   ( b t  ( s t   2  ( m u  ( p e   2  ( s t m  ( d   ( v b   ( s   2  ( s d  ( i]
+[DELETED: H1 0  ( r r   2  ( i  ( d  ( t w s   2  ( o m l   (    (    (    (   (    (    (  ( w p  ( d  ( c i V  (]
+[DELETED: H1 0 p    ( d   ( s   ( w m l s   ( w v s  ( t t   2  ( o d  ( p   ( u   ( s   ( r  ( s s    ( i f]
+[DELETED: H1 0  ( o a t   2  I a s l   2  ( s   (   (  ( i   S e  ( s F t  ( c F m   S R  T a w d]
+
+
+================================================================================
+
+Raw Text:
+Stricken language would be deleted from and underlined language would be added to present law.
+1 State of Arkansas
+A Bill
+2 95th General Assembly
+3 Regular Session, 2025 HOUSE BILL 1989
+4
+5 By: Representative Cavenaugh
+6
+7
+For An Act To Be Entitled
+8
+9 AN ACT TO AMEND THE LAW CONCERNING USED MOTOR
+10 VEHICLES BUYERS PROTECTION; TO AMEND THE LAW
+11 CONCERNING THE APPLICATION PROCESS FOR A WHOLESALE
+12 USED MOTOR VEHICLE DEALER'S LICENSE OR RETAIL USED
+13 MOTOR VEHICLE DEALER'S LICENSE; AND FOR OTHER
+14 PURPOSES.
+15
+16
+Subtitle
+17
+18 TO AMEND THE LAW CONCERNING USED MOTOR
+19 VEHICLES BUYERS PROTECTION; AND TO AMEND
+20 THE LAW CONCERNING THE USED MOTOR
+21 VEHICLE DEALER'S LICENSE APPLICATION
+22 PROCESS.
+23
+24 BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF ARKANSAS:
+25
+26 SECTION 1. Arkansas Code § 23-112-601 is amended to read as follows:
+27 23-112-601. Necessity for regulation — Legislative findings —
+28 Legislative declaration.
+29 (a) The General Assembly declares that the public interest is affected
+30 by the sale and distribution of used motor vehicles, and it is recognized
+31 that a significant factor of the inducement in making a sale of a used motor
+32 vehicle to a member of the general public is the trust and confidence of the
+33 purchaser in the retail used motor vehicle dealer or wholesale used motor
+34 vehicle dealer from whom the purchase is made, with the expectancy that the
+35 dealer will remain in business to stand behind and provide service for the
+36 motor vehicle purchased.
+*ZRC134*
+04/03/2025 4:32:37 PM ZRC134
+
+HB1989
+1 (b) It is therefore found to be necessary to license retail used motor
+2 vehicle dealers and wholesale used motor vehicle dealers and to prohibit
+3 certain acts and set penalties for violations and perpetration of certain
+4 acts by retail used motor vehicle dealers and wholesale used motor vehicle
+5 dealers who are not licensed as new motor vehicle dealers selling used cars
+6 incidental to their new motor vehicle dealership operations, salespersons,
+7 agents, representatives, and employees of retail used motor vehicle dealers
+8 and wholesale used motor vehicle dealers in order to:
+9 (1) Prevent fraud, improper impositions, and other abuses upon
+10 the citizens of this state;
+11 (2) Protect and preserve the investments and properties of the
+12 citizens of this state; and
+13 (3) Foster and keep alive vigorous and healthy competition by
+14 prohibiting unfair practices by which fair and honest competition is
+15 destroyed or prevented.
+16
+17 SECTION 2. Arkansas Code § 23-112-602(1)—(4), concerning the
+18 definitions related to used motor vehicle buyers protection, are amended to
+19 read as follows:
+20 (1)(A) “Auto auction” means any person who operates or provides
+21 a place of business or facilities for the wholesale exchange of motor
+22 vehicles by and between duly licensed motor vehicle dealers, or from retail
+23 used motor vehicle dealers and wholesale used motor vehicle dealers to
+24 individuals, or individuals to retail used motor vehicle dealers and
+25 wholesale used motor vehicle dealers, or any combination thereof, or any
+26 motor vehicle dealer licensed to sell used motor vehicles, selling used motor
+27 vehicles using an auction format or on consignment.
+28 (B) “Auto auction” also applies to any person who provides
+29 the facilities for or is in the business of selling motor vehicles in an
+30 auction format;
+31 (2) “Designee” means a person or entity that:
+32 (A) Agrees to perform inspections of retail used motor
+33 vehicle dealers and wholesale used motor vehicle dealers under this
+34 subchapter on behalf of the department Division of Arkansas State Police; and
+35 (B) The department division determines is appropriately
+36 suited for serving as a designee under this subchapter;
+2 04/03/2025 4:32:37 PM ZRC134
+
+HB1989
+1 (3) “Drafter” means any person who obtains financing for the
+2 purchase and resale of vehicles of another person or a retail used motor
+3 vehicle dealer or wholesale used motor vehicle dealer through the use of the
+4 account of or based on the extension of credit by presenting at the time of
+5 purchase of the subject vehicles a documentary draft for purchase of the
+6 vehicle or who otherwise promises to pay through the accounts or credit of
+7 another person or a retail used motor vehicle dealer or wholesale used motor
+8 vehicle dealer;
+9 (4) “Licensed location” means the address designated as the
+10 business address of the used motor vehicle dealer on his or her application
+11 for a retail used motor vehicle dealer's license or a wholesale used motor
+12 vehicle dealer's license;
+13
+14 SECTION 3. Arkansas Code § 23-112-602(7), concerning the definitions
+15 related to used motor vehicle buyers protection, is amended to read as
+16 follows:
+17 (7) “Person” means and includes, individually and collectively,
+18 individuals, firms, partnerships, associations, corporations, trusts, or any
+19 other form of business, individual enterprise, company, or entity;
+20
+21 SECTION 4. Arkansas Code § 23-112-602(10)(A)(i), concerning the
+22 definitions related to used motor vehicle buyers protection, is amended to
+23 read as follows:
+24 (10)(A)(i) “Used motor vehicle dealer”, hereinafter referred to
+25 as or “dealer”, means any person, retailer, wholesaler, or auto auction who,
+26 for a commission or with intent to make a profit or gain of money or other
+27 thing of value, sells, brokers, exchanges, rents, or leases with the option
+28 to purchase or own, or attempts to negotiate a sale or exchange of an
+29 interest in any used motor vehicle, or who is wholly or in part in the
+30 business of buying, selling, trading, or exchanging used motor vehicles,
+31 whether or not such motor vehicles are owned by the person.
+32
+33 SECTION 5. Arkansas Code § 23-112-602(11) and (12), concerning the
+34 definitions related to used motor vehicle buyers protection, are amended to
+35 read as follows:
+36 (11) “Used motor vehicle salesperson”, hereinafter referred to
+3 04/03/2025 4:32:37 PM ZRC134
+
+HB1989
+1 as “salesperson”, is anyone who for compensation of any kind operates as a
+2 salesperson, broker, agent, or representative of a retail used motor vehicle
+3 dealer or wholesale used motor vehicle dealer, or any person who attempts to
+4 or in fact negotiates a sale of a vehicle owned partially or entirely by a
+5 retail used motor vehicle dealers or wholesale used motor vehicle dealer, or
+6 a person or drafter using the financial resources, line of credit, or floor
+7 plan of a retail used motor vehicle dealer or wholesale used motor vehicle
+8 dealer to purchase, sell, or exchange an interest in a used motor vehicle;
+9 and
+10 (12)(A) “Wholesaler” or "wholesale used motor vehicle dealer"
+11 means any person, resident or nonresident, who, in whole or in part,
+12 primarily sells used motor vehicles to motor vehicle dealers.
+13 (B) Used Retail used motor vehicle dealers who, incidental
+14 to their primary business, sell motor vehicles to other retail used motor
+15 vehicle dealers and wholesale used motor vehicle dealers are not considered
+16 wholesalers because of their incidental sales.
+17
+18 SECTION 6. Arkansas Code § 23-112-602, concerning the definitions
+19 related to used motor vehicle buyers protection, is amended to add additional
+20 subdivisions to read as follows:
+21 (13) "Convicted" means that a person plead guilty or nolo
+22 contendere to or was found guilty of a criminal offense, including a
+23 conviction that has been sealed or expunged; and
+24 (14) "Retail used motor vehicle dealer" means a person who sells
+25 used motor vehicles to the public.
+26
+27 SECTION 7. Arkansas Code § 23-112-603(a)(3) and (4), concerning the
+28 penalties for a violation of the law concerning used motor vehicle buyers
+29 protection, are amended to read as follows:
+30 (3) A third or subsequent violation is a Class D felony, and the
+31 retail used motor vehicle dealer's or wholesale used motor vehicle dealer's
+32 license shall be suspended for three (3) years for each respective third or
+33 subsequent violation; and
+34 (4)(A) In addition to or instead of the penalties listed under
+35 subdivisions (a)(1)-(3) of this section, the Director of the Division of
+36 Arkansas State Police may issue a fine in an amount not to exceed one
+4 04/03/2025 4:32:37 PM ZRC134
+
+HB1989
+1 thousand dollars ($1,000) for each violation of this subchapter.
+2 (B) The fines collected under subdivision (a)(4)(A) of
+3 this section shall be remitted to the Division of Arkansas State Police and
+4 shall be deposited into the State Treasury to the credit of the Division of
+5 Arkansas State Police Fund.
+6
+7 SECTION 8. Arkansas Code § 23-112-603(b), concerning the penalties for
+8 a violation of the law concerning used motor vehicle buyers protection, is
+9 amended to read as follows:
+10 (b) Any person found guilty of selling a used motor vehicle as a
+11 dealer or salesperson while his or her retail used motor vehicle dealer's or
+12 salesperson's license or wholesale used motor vehicle dealer's or
+13 salesperson's license is suspended or revoked shall be guilty of a Class C
+14 felony.
+15
+16 SECTION 9. Arkansas Code § 23-112-603(d), concerning the penalties for
+17 a violation of the law concerning used motor vehicle buyers protection, is
+18 amended to read as follows:
+19 (d)(1) A retail used motor vehicle dealer or wholesale used motor
+20 vehicle dealer licensed under this subchapter shall maintain a licensed
+21 location.
+22 (2) When a retail used motor vehicle dealer or wholesale used
+23 motor vehicle dealer changes or moves his or her licensed location, within
+24 fifteen (15) calendar days of the relocation, the retail used motor vehicle
+25 dealer or wholesale used motor vehicle dealer shall notify the division in
+26 writing of the dealership name, the previous location, and the new location.
+27 (3)(A) If the division determines that the used motor vehicle
+28 dealer's business location of the retail used motor vehicle dealer or
+29 wholesale used motor vehicle dealer has moved and notification to the
+30 division has not been properly made, the division shall levy a fine equal to
+31 the amount of the license fee.
+32 (B) The fine collected pursuant to subdivision (d)(3)(A)
+33 of this section shall be remitted to the division and shall be deposited into
+34 the State Treasury as special revenue to the credit of the division.
+35
+36 SECTION 10. Arkansas Code §§ 23-112-604 through 23-112-607 are amended
+5 04/03/2025 4:32:37 PM ZRC134
+
+HB1989
+1 to read as follows:
+2 23-112-604. Powers generally.
+3 (a) The Department Division of Arkansas State Police may promulgate
+4 rules that are necessary to implement, enforce, and administer this
+5 subchapter.
+6 (b) The department division may cancel a dealer's license if the
+7 retail used motor vehicle dealer or wholesale used motor vehicle dealer:
+8 (1) Fails to keep and maintain the requirements of § 23-112-
+9 607(a) and (c) of this subchapter; or
+10 (2) Pleads guilty or nolo contendere to or has been found guilty
+11 of a violation of § 23-112-605.
+12
+13 23-112-605. Violations.
+14 It shall be a violation of this subchapter to knowingly or
+15 intentionally:
+16 (1)(A) Sell a vehicle without a retail used motor vehicle
+17 dealer's license or wholesale used motor vehicle dealer's license.
+18 (B) The sale of each vehicle shall constitute a separate
+19 offense;
+20 (2) Commit a fraudulent act in selling, purchasing, or otherwise
+21 dealing in motor vehicles;
+22 (3) Fail to maintain the conditions and requirements necessary
+23 to qualify for the issuance of a retail used motor vehicle dealer's license
+24 or wholesale used motor vehicle dealer's license;
+25 (4) Sell, attempt to sell, or advertise for sale vehicles from a
+26 location other than that set forth on the retail used motor vehicle dealer's
+27 license or wholesale used motor vehicle dealer's license, except:
+28 (A) As a participating dealer in a state trade association
+29 promotion or exhibit; or
+30 (B) With a special sale permit; or
+31 (C) At an auto auction;
+32 (5) Falsify, alter, or neglect to endorse or deliver a
+33 certificate of title to a transferee or lawful owner, or fail to properly
+34 designate a transferee on a document of assignment or certificate of title;
+35 (6) Knowingly purchase, sell, or otherwise acquire or dispose of
+36 a stolen motor vehicle;
+6 04/03/2025 4:32:37 PM ZRC134
+
+HB1989
+1 (7) Submit a false affidavit setting forth that a title has been
+2 lost or destroyed;
+3 (8) Pass title or reassign title as a retail used motor vehicle
+4 dealer or wholesale used motor vehicle dealer without a retail used motor
+5 vehicle dealer's license or wholesale used motor vehicle dealer's license or
+6 when his or her retail used motor vehicle dealer's license or wholesale used
+7 motor vehicle dealer's license has been suspended;
+8 (9) To represent oneself as a retail used motor vehicle dealer
+9 or wholesale used motor vehicle dealer or as a salesperson, either verbally
+10 or in any advertisement, when not licensed as such;
+11 (10) Violate any provision or requirement in this subchapter; or
+12 (11) Knowingly assist an unlicensed retail used motor vehicle
+13 dealer or wholesale used motor vehicle dealer in the sale of a motor
+14 vehicle.; or
+15 (12) Misuse a:
+16 (A) Dealer's master plate or dealer's extra license plate
+17 under § 27-14-1704;
+18 (B) Transporter plate under § 27-14-1806; or
+19 (C) Wholesale used motor vehicle dealer master plate,
+20 wholesale used motor vehicle extra dealer plate, or wholesale used motor
+21 vehicle dealer transporter plate under § 23-112-623.
+22
+23 23-112-606. License required.
+24 It shall be unlawful for any person to engage in business as a retail
+25 used motor vehicle dealer or wholesale used motor vehicle dealer or to sell a
+26 vehicle not his or her own without obtaining a retail used motor vehicle
+27 dealer's license or wholesale used motor vehicle dealer's license, except
+28 that a person defined as a salesperson in § 23-112-602 may act on behalf of
+29 the dealer by whom such a person is employed.
+30
+31 23-112-607. Dealer's license.
+32 (a)(1) Persons wishing to obtain a retail used motor vehicle dealer's
+33 license or wholesale used motor vehicle dealer's license shall submit a fully
+34 executed application on such retail used motor vehicle dealer's license or
+35 wholesale used motor vehicle dealer application forms as may be prescribed by
+36 the Department Division of Arkansas State Police.
+7 04/03/2025 4:32:37 PM ZRC134
+
+HB1989
+1 (2) The application shall be verified by the oath or affirmation
+2 of the applicant.
+3 (b)(1) An applicant for a used motor vehicle dealer's license or a A
+4 licensee seeking to renew a retail used motor vehicle dealer's license or
+5 wholesale used motor vehicle dealer's license shall establish that he or she
+6 has sold at least five (5) ten (10) used motor vehicles during the previous
+7 calendar year.
+8 (2) A licensee shall possess and present valid and signed copies
+9 of certificates of title and bills of sale upon a random audit or yearly
+10 renewal inspection by the division.
+11 (c) The department In addition to an application for a retail used
+12 motor vehicle dealer's license or a wholesale used motor vehicle dealer's
+13 license, the division shall require in relation to the application the
+14 following information and verification prior to issuing a retail used motor
+15 vehicle dealer's license certificate or wholesale used motor vehicle dealer's
+16 license certificate:
+17 (1) A photograph of the business location;
+18 (2) A Proof that the applicant possesses a corporate surety bond
+19 in the sum of at least twenty-five thousand dollars ($25,000) fifty thousand
+20 dollars ($50,000);
+21 (3) Proof of liability insurance coverage on all vehicles to be
+22 offered for sale in an amount equal to or greater than the amount required by
+23 the Motor Vehicle Safety Responsibility Act, § 27-19-101 et seq.;
+24 (4) A list of the persons or entities having any ownership
+25 interest in the used vehicle dealership;
+26 (5) A list of managers or salespersons to be employed;
+27 (6) That Evidence that the applicant has a bona fide an
+28 established place of business used primarily for the sale of used motor
+29 vehicles that:
+30 (A) Includes an enclosed building or structure; and
+31 (B) Is owned, rented, or leased by the applicant and is
+32 occupied and used primarily for the sale of used motor vehicles;
+33 (7) That Evidence that the applicant has a telephone number
+34 listed in the name of the business in an online directory;
+35 (8) That A photograph demonstrating that the applicant has a an
+36 exterior sign that: identifying
+8 04/03/2025 4:32:37 PM ZRC134
+
+HB1989
+1 (A) Identifies the establishment as a used motor vehicle
+2 dealership; and
+3 (B) Is legible from the street, road, or highway, and a
+4 picture thereof;
+5 (9) That Evidence that the applicant has an office space
+6 dedicated to the business that contains a filing cabinet or other repository
+7 adequate to secure the business records of the establishment under lock and
+8 key or combination;
+9 (10) Whether A disclosure as to whether the applicant has ever:
+10 (A) been Been issued a retail motor vehicle dealer's
+11 license or wholesale motor vehicle dealer's license,; and
+12 (B) if the applicant has ever had Had a retail motor
+13 vehicle dealer's license or wholesale motor vehicle dealer's license
+14 suspended or revoked;
+15 (11)(A) Except as provided in subdivision (c)(11)(B) of this
+16 section, an An affidavit from a department division officer or a designee of
+17 the department division stating that the officer or a designee of the
+18 department division has inspected the facility within thirty (30) sixty (60)
+19 days before issuance or renewal of a license and found it to be in compliance
+20 with the requirements for application.
+21 (B) If a licensee has been continuously licensed at the
+22 same facility for ten (10) years or more, then the licensee shall only be
+23 required to comply with subdivision (c)(11)(A) of this section one (1) time
+24 every other year; and The owner of the facility being inspected under
+25 subdivision (c)(11)(A) of this section or the owner's designated power of
+26 attorney shall be present for the inspection before the issuance or renewal
+27 of a license;
+28 (12) The name, address, and telephone number of the person
+29 designated to receive legal process in the event of the commencement of any
+30 legal action in any court against the applicant;
+31 (13) A copy of a valid driver's license for each owner, partner,
+32 manager, and salesperson listed on the application; and
+33 (14)(A)(i) A criminal record check conducted at the time of
+34 issuance or renewal of a license of each owner, partner, manager, and
+35 salesperson by the division and the Federal Bureau of Investigation.
+36 (ii) Criminal history records from the Arkansas
+9 04/03/2025 4:32:37 PM ZRC134
+
+HB1989
+1 Crime Information Center shall be available to the Director of the Division
+2 of Arkansas State Police for the review of an applicant.
+3 (B) The state and national criminal background check
+4 required under this subdivision (c)(14) shall:
+5 (i) Conform to applicable federal standards; and
+6 (ii) Include the taking of fingerprints.
+7 (C) The applicant shall:
+8 (i) Sign a release of information to the director;
+9 and
+10 (ii) Pay any fee associated with the state and
+11 national criminal background check.
+12 (D) Upon completion of the state and national criminal
+13 background check required under this subdivision (c)(14), the division shall
+14 forward to the director all releasable information obtained concerning the
+15 applicant.
+16 (E)(i) The division shall not issue a new license to a
+17 person who has been found guilty of a Class Y, Class A, or Class B felony,
+18 including a sealed or expunged offense, in any court in the state or a
+19 comparable offense in another state or in a military or federal court for
+20 which a pardon has not been granted.
+21 (ii) An applicant who has been found guilty of a
+22 Class D or Class C felony shall be disqualified for a period of ten (10)
+23 years from the date of adjudication.
+24 (F) The director may deny, suspend, or revoke a retail
+25 used motor vehicle dealer's license or a wholesale used motor vehicle
+26 dealer's license for an arrest or indictment of a felony listed under
+27 subdivision (c)(14)(E) of this section.
+28 (G) The division shall promulgate rules to implement and
+29 administer this subdivision (c)(14).
+30 (H)(i) A holder of a current and valid retail used motor
+31 vehicle dealer's license or wholesale used motor vehicle dealer's license who
+32 possesses a license before the effective date of this act is exempt from
+33 disqualification under subdivision (c)(14)(E) of this section for a felony
+34 conviction before the effective date of this act.
+35 (ii) A holder of a current and valid retail motor
+36 vehicle dealer's license or wholesale used motor vehicle dealer's license who
+10 04/03/2025 4:32:37 PM ZRC134
+
+HB1989
+1 possesses a license before the effective date of this act shall be
+2 disqualified for a felony arrest or conviction that occurs after the
+3 effective date of this act.
+4 (d)(1)(A) Each applicant shall obtain a corporate surety bond in the
+5 penal sum of twenty-five thousand dollars ($25,000) fifty thousand dollars
+6 ($50,000) on a bond form approved by the state.
+7 (B) However, an applicant for a license at multiple
+8 locations may provide a corporate surety bond in the penal sum of one hundred
+9 thousand dollars ($100,000) two hundred thousand dollars ($200,000) covering
+10 all licensed locations in lieu of separate bonds for each individual
+11 location.
+12 (2) The bond shall be an indemnity for any loss and reasonable
+13 attorney's fees sustained by a retail buyer by reason of the acts of the
+14 person bonded when such an act constitutes a violation of this law.
+15 (3) However, the surety shall in no event be liable for more
+16 than twenty-five thousand dollars ($25,000) fifty thousand dollars ($50,000).
+17 (4) The bond shall be executed in the name of the State of
+18 Arkansas or any aggrieved party.
+19 (5) The proceeds of the bonds shall be paid either to the State
+20 of Arkansas or to the retail buyer upon a judgment from an Arkansas court of
+21 competent jurisdiction against the principal and in favor of the aggrieved
+22 party or the State of Arkansas.
+23 (6) However, the surety shall in no event be required to pay any
+24 judgment obtained by fraud or collusion, as between the dealer and the retail
+25 buyer, or which was rendered against a person bonded for an act that does not
+26 constitute a violation of this subchapter. These defenses may be raised at
+27 any time, subject to the applicable statute of limitations.
+28
+29 SECTION 11. Arkansas Code § 23-112-611(a), concerning records that a
+30 used motor vehicle dealer must maintain, is amended to read as follows:
+31 (a)(1) Every person required to have a license shall maintain, for
+32 three (3) years from the date of purchase, records of each vehicle
+33 transaction to which the person was a party.
+34 (2) Records maintained under subdivision (a)(1) of this section
+35 shall be maintained at the business location listed on the license of the
+36 person required to maintain the records.
+11 04/03/2025 4:32:37 PM ZRC134
+
+HB1989
+1
+2 SECTION 12. Arkansas Code § 23-112-613 is amended to read as follows:
+3 23-112-613. Delivery prior to sale — Disclosures — Definitions.
+4 (a) As used in this section:
+5 (1)(A) “Contract for sale” means the final agreement between a
+6 retail used motor vehicle dealer or wholesale used motor vehicle dealer and a
+7 consumer that:
+8 (i) Includes all material terms of the sale of a
+9 motor vehicle; and
+10 (ii) Is binding upon the seller, the buyer, and any
+11 necessary third-party financer.
+12 (B) “Contract for sale” includes a financing agreement and
+13 all material financing terms if the motor vehicle is to be financed; and
+14 (2) “Delivery prior to sale” means a delivery of a motor vehicle
+15 by a retail used motor vehicle dealer or wholesale used motor vehicle dealer
+16 to a consumer prior to the completion and execution by both parties of a
+17 contract for sale.
+18 (b) If a retail used motor vehicle dealer or wholesale used motor
+19 vehicle dealer engages in a delivery prior to sale, then the retail used
+20 motor vehicle dealer or wholesale used motor vehicle dealer shall provide the
+21 consumer with an agreement for delivery prior to sale at the time of delivery
+22 of the motor vehicle to the consumer.
+23 (c)(1) The agreement for delivery prior to sale shall be:
+24 (A) Printed in at least 12-point type; and
+25 (B) Signed by the consumer and the retail used motor
+26 vehicle dealer or wholesale used motor vehicle dealer or the dealer's
+27 representative.
+28 (2) The agreement for delivery prior to sale shall not be
+29 considered a contract for sale.
+30 (d) The agreement for delivery prior to sale shall include all of the
+31 following terms:
+32 (1) Unless the consumer is approved for financing and both
+33 parties have executed a contract for sale, then the retail used motor vehicle
+34 dealer or wholesale used motor vehicle dealer shall not:
+35 (A) Deposit or cash any down payment provided by the
+36 consumer; and
+12 04/03/2025 4:32:37 PM ZRC134
+
+HB1989
+1 (B) Sell any motor vehicle that is presented by the
+2 consumer as a trade-in;
+3 (2) The consumer retains the right to cancel the purchase of a
+4 motor vehicle if:
+5 (A) The retail used motor vehicle dealer or wholesale used
+6 motor vehicle dealer changes any terms; or
+7 (B) The consumer fails to obtain financing that meets the
+8 agreed-upon interest rate;
+9 (3) If a consumer who executes an agreement for delivery prior
+10 to sale chooses not to execute a contract for sale or otherwise cancels the
+11 purchase as provided under this section, then:
+12 (A) The retail used motor vehicle dealer or wholesale used
+13 motor vehicle dealer shall not:
+14 (i) Impose any charge or penalty against the
+15 consumer; or
+16 (ii) Deposit or cash any down payment provided by
+17 the consumer; and
+18 (B) The retail used motor vehicle dealer or wholesale used
+19 motor vehicle dealer shall immediately return any motor vehicle that was
+20 presented by the consumer as a trade-in; and
+21 (4) If the consumer decides not to purchase the motor vehicle,
+22 the consumer shall return the motor vehicle to the retail used motor vehicle
+23 dealer or wholesale used motor vehicle dealer within forty-eight (48) hours
+24 after the consumer notifies the retail used motor vehicle dealer or wholesale
+25 used motor vehicle dealer.
+26 (e) If a consumer fails to return a motor vehicle pursuant to
+27 subdivision (d)(4) of this section, then the retail used motor vehicle dealer
+28 or wholesale used motor vehicle dealer may recover the vehicle without the
+29 necessity of judicial process if the recovery is possible without committing
+30 an act of breaking or entering or breach of the peace.
+31 (f) The Division of Arkansas State Police shall promulgate rules to
+32 implement, enforce, and administer this section.
+33
+34 SECTION 13. Arkansas Code § 23-112-617(a)—(c), concerning used motor
+35 vehicle dealer service and handling fees, are amended to read as follows:
+36 (a) A retail used motor vehicle dealer or wholesale used motor vehicle
+13 04/03/2025 4:32:37 PM ZRC134
+
+HB1989
+1 dealer may fill in the blanks on standardized forms in connection with the
+2 sale or lease of used motor vehicles if the motor vehicle dealer does not
+3 charge for the service of filling in the blanks or otherwise charge for
+4 preparing documents.
+5 (b)(1) A retail used motor vehicle dealer or wholesale used motor
+6 vehicle dealer may charge a service and handling fee in connection with the
+7 sale or lease of a used motor vehicle for:
+8 (A) The handling, processing, and storage of documents;
+9 and
+10 (B) Other administrative and clerical services.
+11 (2)(A) The service and handling fee may be charged to allow cost
+12 recovery for retail used motor vehicle dealer or wholesale used motor vehicle
+13 dealers.
+14 (B) A portion of the service and handling fee may result
+15 in profit to the used motor vehicle dealer.
+16 (c)(1)(A) The Department Division of Arkansas State Police shall
+17 determine by rule the amount of the service and handling fee that may be
+18 charged by a retail used motor vehicle dealer or wholesale used motor vehicle
+19 dealer. (B) The service and handling fee shall be no less
+20 than zero dollars ($0.00) and no more than one hundred twenty-nine dollars
+21 ($129).
+22 (2) If a service and handling fee is charged under this section,
+23 the service and handling fee shall be:
+24 (A) Charged to all retail customers; and
+25 (B) Disclosed on the retail buyer's order form as a
+26 separate itemized charge.
+27
+28 SECTION 14. Arkansas Code § 23-112-617(e), concerning used motor
+29 vehicle dealer service and handling fees, is amended to read as follows:
+30 (e) The Department division of Arkansas State Police may promulgate
+31 rules to implement, enforce, and administer this section.
+32
+33 SECTION 15. Arkansas Code Title 23, Chapter 112, Subchapter 6, is
+34 amended to add additional sections to read as follows:
+35 23-112-618. Used motor vehicle dealer application.
+36 (a) An application for a license under this subchapter shall:
+14 04/03/2025 4:32:37 PM ZRC134
+
+HB1989
+1 (1) Be in the form prescribed by the Director of the Division of
+2 Arkansas State Police; and
+3 (2) Include:
+4 (A) The full name and business address of the applicant;
+5 (B) The name under which the applicant intends to do
+6 business; and
+7 (C)(i) Submission of the applicant's fingerprints.
+8 (ii) An out-of-state applicant shall submit two (2)
+9 classifiable sets of fingerprints, and an in-state applicant shall submit
+10 fingerprints through a harvester or livescan operator located within the
+11 state;
+12 (D) A verified statement disclosing any record of arrests,
+13 pending criminal charges, or convictions of the applicant of a felony,
+14 including a felony that has been sealed or expunged;
+15 (E) For an applicant who is an individual:
+16 (i) Any information required by the director that
+17 would show that the applicant is honest, trustworthy, and of good character;
+18 and
+19 (ii) The Social Security number of the applicant;
+20 and
+21 (F) For an applicant who is not an individual, the
+22 taxpayer identification number of the applicant.
+23 (b)(1)(A) A first-time applicant or an applicant for license or
+24 credential renewal shall apply to the Division of Arkansas State Police for a
+25 state and national criminal background check to be conducted by the division
+26 and the Federal Bureau of Investigation.
+27 (B) Criminal history records from the Arkansas Crime
+28 Information Center shall be available to the director for the review of an
+29 applicant.
+30 (2) The state and national criminal background check required
+31 under this subsection shall:
+32 (A) Conform to applicable federal standards; and
+33 (B) Include the taking of fingerprints as required in
+34 subdivision (a)(2)(C) of this section.
+35 (3) The applicant shall:
+36 (A) Sign a release of information to the director; and
+15 04/03/2025 4:32:37 PM ZRC134
+
+HB1989
+1 (B) Pay any fee associated with the state and national
+2 criminal background check.
+3 (4) Upon completion of the state and national criminal
+4 background check required under this subsection, the division shall forward
+5 to the director all releasable information obtained concerning the applicant.
+6 (c) The burden is on the applicant to provide information that is
+7 sufficient to allow the director to determine if the applicant is qualified
+8 to hold a license under this subchapter.
+9
+10 23-112-619. Fingerprint cards.
+11 (a) The Identification Bureau of the Division of Arkansas State Police
+12 may retain the fingerprints collected for an individual who is fingerprinted
+13 under this subchapter.
+14 (b) The Director of the Division of Arkansas State Police may enroll a
+15 person issued a license under this subchapter in a program that
+16 electronically notifies law enforcement if the person has been arrested.
+17
+18 23-112-620. Retail used motor vehicle dealer.
+19 (a) An applicant for a retail used motor vehicle dealer's license
+20 shall provide a certificate of good standing from the Secretary of State to
+21 the Division of Arkansas State Police with the application for a retail used
+22 motor vehicle dealer's license.
+23 (b)(1) A retail used motor vehicle dealer is limited to four (4)
+24 dealerships per business location.
+25 (2) A retail used motor vehicle dealer shall maintain a minimum
+26 vehicle inventory of at least five (5) vehicles per dealership at the
+27 business location of the retail used motor vehicle dealer.
+28 (3) A retail used motor vehicle dealer shall meet the annual
+29 sales requirements under § 23-112-607(b)(2).
+30
+31 23-112-621. Wholesale used motor vehicle dealer.
+32 (a) An applicant for a wholesale used motor vehicle dealer's license
+33 shall submit a separate application for a wholesale used motor vehicle
+34 dealer’s license to the Division of Arkansas State Police.
+35 (b) A wholesale used motor vehicle dealer is not required to maintain
+36 inventory at the wholesale used motor vehicle dealer's place of business.
+16 04/03/2025 4:32:37 PM ZRC134
+
+HB1989
+1 (c) Unless a wholesale used motor vehicle dealer is also a licensed
+2 retail used motor vehicle dealer, engaging in retail sales is grounds for the
+3 revocation of a wholesale used motor vehicle dealer's license.
+4
+5 23-112-622. Procedure for denial of application for license.
+6 (a) The Director of the Division of Arkansas State Police may deny the
+7 issuance of a license under this subchapter.
+8 (b) The director shall notify the applicant in writing of the
+9 director's decision to deny the issuance of a license.
+10 (c) An applicant whose application for a license has been denied under
+11 this section may appeal the decision to the director by submitting an appeal
+12 within ten (10) days of the receipt of the notice of denial issued under
+13 subsection (b) of this section.
+14
+15 23-112-623. Used motor vehicle dealer plates — Penalties.
+16 (a) When an applicant for a retail used motor vehicle dealer's license
+17 or a wholesale used motor vehicle dealer's license obtains a retail used
+18 motor vehicle dealer's license or a wholesale used motor vehicle dealer's
+19 license, the Department of Finance and Administration shall issue:
+20 (1) To a licensed retail used motor vehicle dealer:
+21 (A) One (1) master plate;
+22 (B) One (1) transporter plate; and
+23 (C) One (1) extra dealer plate; and
+24 (2) To a licensed wholesale used motor vehicle dealer:
+25 (A) One (1) master plate; and
+26 (B) One (1) transporter plate.
+27 (b) The holder of the retail used motor vehicle dealer's license or
+28 wholesale used motor vehicle dealer's license shall be the only person to
+29 possess a master plate issued under subsection (a) of this section.
+30 (c) Only one (1) salesperson or manager may possess and use the extra
+31 dealer plate.
+32 (d) Misuse of a used motor vehicle dealer plate shall result in the
+33 confiscation of the used motor vehicle dealer plate by law enforcement or an
+34 inspector assigned to the Division of Arkansas State Police Used Motor
+35 Vehicle Division.
+36 (e)(1)(A) A person who violates this section is subject to a civil
+17 04/03/2025 4:32:37 PM ZRC134
+
+HB1989
+1 penalty of one thousand dollars ($1,000) for each violation.
+2 (B) A person who violates this section shall surrender the
+3 dealer plates issued under subsection (a) of this section to law enforcement.
+4 (2) The division shall assess penalties for a violation of this
+5 section by written notice to the violator.
+6 (3) If a civil penalty assessed under this section is not paid
+7 within forty-five (45) days of notice of the violation, the wholesale used
+8 motor vehicle dealer's license or the retail used motor vehicle dealer's
+9 license, or both, of the person who committed the violation shall be
+10 suspended.
+11 (4) Upon a third or subsequent violation of this section, the
+12 wholesale used motor vehicle dealer's license or the retail used motor
+13 vehicle dealer's license, or both, of the person who committed the violation
+14 shall be revoked.
+15 (f) A civil penalty assessed under this section shall be remitted to
+16 the division and shall be deposited into the State Treasury to the credit of
+17 the Division of Arkansas State Police Fund.
+18
+19 23-112-624. Grounds for disciplinary action.
+20 (a) The Director of the Division of Arkansas State Police may suspend
+21 or revoke a license or issue a fine in an amount not to exceed one thousand
+22 dollars ($1,000) for each violation of this subchapter.
+23 (b) The director may deny an application or renewal for a license on
+24 proof that the applicant or licensee:
+25 (1) Violated this subchapter or violated a rule promulgated
+26 under this subchapter;
+27 (2) No longer meets the qualifications for a license under this
+28 subchapter; or
+29 (3) Has been arrested for an offense that, if convicted, would
+30 result in disqualification for the license under this subchapter.
+31 (c)(1) The director may summarily suspend a license issued under this
+32 subchapter for no more than sixty (60) days if it is shown that the health,
+33 safety, or welfare of the public is endangered.
+34 (2) If a hearing on a license that has been summarily suspended
+35 is adjourned at the request of the licensee, the suspension may be continued
+36 for the additional period of the adjournment.
+18 04/03/2025 4:32:37 PM ZRC134
+
+HB1989
+1 (d) The director may suspend a license of a person who is found guilty
+2 of or has pleaded guilty or nolo contendere to a felony or a crime involving
+3 an act of violence in this state or a comparable offense in another state or
+4 territory of the United States or in any foreign country.
+5
+6 23-112-625. License — Record of denial, revocation, or suspension.
+7 If the Director of the Division of Arkansas State Police denies an
+8 application, suspends or revokes a license, or imposes a fine under this
+9 subchapter, the director's decision shall be mailed to the applicant or
+10 license holder within sixty (60) days of the director's decision.
+11
+12 23-112-626. Appeal of denial, suspension, or revocation — Venue.
+13 (a) The denial, suspension, or revocation of a license under this
+14 subchapter by the Director of the Division of Arkansas State Police:
+15 (1) May be appealed to the Pulaski County Circuit Court; and
+16 (2) Shall be governed by § 25-15-212.
+17 (b) Venue for the appeal to circuit court under this section shall be
+18 in Pulaski County, Arkansas.
+19
+20 SECTION 16. TEMPORARY LANGUAGE. DO NOT CODIFY. Currently issued
+21 extra dealer plates — Effectiveness.
+22 (a) A currently issued extra dealer plate that is valid and in good
+23 standing with the Division of Arkansas State Police and the Department of
+24 Finance and Administration shall remain active until the expiration date of
+25 the extra dealer plate.
+26 (b) Upon expiration of a currently issued extra dealer plate, the
+27 currently issued extra dealer plate shall be returned to the Department of
+28 Finance and Administration and shall be no longer valid for use by the used
+29 motor vehicle dealer.
+30
+31 SECTION 17. TEMPORARY LANGUAGE. DO NOT CODIFY. Dealer's license —
+32 Rules — Promulgation.
+33 The Division of Arkansas State Police shall promulgate rules for the
+34 application and issuance of a retail used motor vehicle dealer's license or
+35 wholesale used motor vehicle dealer's license within one hundred twenty (120)
+36 days of the effective date of this act.
+19 04/03/2025 4:32:37 PM ZRC134
+
+[DELETED:       A V C U M P  T V T V P  B   S  2 L  ( b t v p v d m]
+[DELETED: H2 0  ( v c a d i a a   ( t   ( c   ( p d   S d r   ( a v u i w m v    ( t a   (    ( v s    ( s]
+[DELETED: H3 0   ( p v a p v a v   ( b f v   S r f   ( i o   S d r   ( a f t t i b w   S d r   (]
+[DELETED: H4 0 a s d o r a p d a   ( m p    ( t v w   S r s   ( c c   ( u   S p p   ( r l s   ( s A]
+[DELETED: H5 0 t    ( t s A   S a a  ( d s s f    S a a  ( v l   ( m f d w   ( d w d t    ( o t   S]
+[DELETED: H6 0 t  2  ( r s  ( r   ( 6   ( o   2  I i   ( d    ( o   ( d   ( t o   ( l l    ( p    (    (   ( c d   ( a]
+[DELETED: H7 0   ( l   ( d v w m   ( o o   (   ( d v   (    ( u    (    ( w v   2  I u v d t t   2  ( l e w t]
+[DELETED: H8 0   ( o  ( l w h c   ( o r  ( m l f v l   (   ( i d   ( o t   ( i   (   ( e v    (    ( o   ( l   ( e]
+[DELETED: H9 0    ( d    ( p   ( d a k   (    ( l    ( v s   ( s t d d w    ( s r e s a o   ( d l   ( m   ( i s     (]
+[DELETED: H1 0 C o    ( r     (     (    (     ( a     ( n    ( b f a    ( p i c w     ( C y    ( u d s    ( a    ( v p d c     ( v]
+[DELETED: H1 0 p d e  ( p (    ( l t a l   ( a p   ( t   ( A   ( o c p   ( j b c a   S u  ( t t   ( s p]
+[DELETED: H1 0   S  2  (   ( r c     ( m     ( n    ( a   ( b t c  ( v m c o  (    (    ( v r   ( c  ( f   ( p d    ( c]
+[DELETED: H1 0    ( c   ( m    ( m    ( a   ( t p    ( m     ( c     ( t    ( m p   ( t d a u  ( s o n a  ( i   S v  (]
+[DELETED: H1 0 d s c p  ( v s    ( a    (   ( r d    ( i  ( d c d   ( t (   ( t    (    ( s   S v  ( r   S a  2  (]
+[DELETED: H1 0   ( A   (    (    ( b    (     ( c f s    ( p i    (     ( w a     ( a    ( t  ( c s a    ( I a   ( u    (    ( s   (    (]
+[DELETED: H1 0    ( c   ( b t  ( s t   2  ( m u  ( p e   2  ( s t m  ( d   ( v b   ( s   2  ( s d  ( i]
+[DELETED: H1 0  ( r r   2  ( i  ( d  ( t w s   2  ( o m l   (    (    (    (   (    (    (  ( w p  ( d  ( c i V  (]
+[DELETED: H1 0 p    ( d   ( s   ( w m l s   ( w v s  ( t t   2  ( o d  ( p   ( u   ( s   ( r  ( s s    ( i f]
+[DELETED: H1 0  ( o a t   2  I a s l   2  ( s   (   (  ( i   S e  ( s F t  ( c F m   S R  T a w d]

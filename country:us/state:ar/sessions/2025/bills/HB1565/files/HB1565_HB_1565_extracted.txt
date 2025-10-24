@@ -1,0 +1,180 @@
+Title: Stricken language would be deleted from and underlined language would be added to present law.
+Official Title: Stricken language would be deleted from and underlined language would be added to present law.
+Number of Sections: 1
+Source: versions - HB 1565
+Media Type: application/pdf
+Strikethrough Detection: 2 sections found
+
+================================================================================
+
+Section 1:
+1 State of Arkansas
+A Bill
+2 95th General Assembly
+3 Regular Session, 2025 HOUSE BILL 1565
+4
+5 By: Representative R. Burkes
+6 By: Senator Crowell
+7
+For An Act To Be Entitled
+8
+9 AN ACT TO AMEND THE LAW CONCERNING THE DUTIES OF A
+10 COUNTY PROPERTY ASSESSOR; TO PERMIT A PROPERTY OWNER
+11 TO OPT OUT OF HAVING THE PROPERTY OWNER'S INFORMATION
+12 POSTED ON AN ONLINE DATABASE; AND FOR OTHER PURPOSES.
+13
+14
+Subtitle
+15
+16 TO AMEND THE LAW CONCERNING THE DUTIES
+17 OF A COUNTY PROPERTY ASSESSOR; AND TO
+18 PERMIT A PROPERTY OWNER TO OPT OUT OF
+19 HAVING THE PROPERTY OWNER'S INFORMATION
+20 POSTED ON AN ONLINE DATABASE.
+21
+22 BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF ARKANSAS:
+23
+24 SECTION 1. DO NOT CODIFY. Legislative findings.
+25 The General Assembly finds that:
+26 (1) Records published online by county assessors are for the
+27 convenience of a property owner;
+28 (2) Online records afford a property owner the ability to pay
+29 taxes and fees online;
+30 (3) County assessors in Arkansas are not required by law to
+31 publish records online however, certain records are available upon request;
+32 and
+33 (4) Property owners may desire to opt out of having their
+34 records placed online for privacy or other reasons.
+35
+36 SECTION 2. Arkansas Code § 14-14-111(b), concerning county government
+*SSS200*
+02/24/2025 11:05:13 AM SSS200
+HB1565
+1 use of electronic records, is amended to add an additional subdivision to
+2 read as follows:
+3 (4) "Online database" means a website with administrative rights
+4 retained by a county official that is used by members of the public to search
+5 public records maintained by the office of the county official.
+6
+7 SECTION 3. Arkansas Code § 14-14-111, concerning county government use
+8 of electronic records, is amended to add additional subsections to read as
+9 follows:
+10 (e)(1) A county assessor who maintains an online database for property
+11 records shall allow a property owner to opt out of making the property
+12 owner's information available on the online database.
+13 (2) To opt out of having the property owner's information
+14 included in the online database under subdivision (e)(1) of this section, the
+15 property owner shall submit a request in writing to the county assessor
+16 stating the property owner's intent to opt out of the online database.
+17 (f) The Assessment Coordination Division may promulgate rules to
+18 create and maintain the forms necessary to submit a request under subsection
+19 (e) of this section.
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+2 02/24/2025 11:05:13 AM SSS200
+[DELETED:          A C T P   T O P H P  B   S  T   ( c   ( t   ( p a   ( r   S]
+[DELETED: H2 0 u r   ( r p   S o f  ( r o   ( i p s  ( c (]
+
+
+================================================================================
+
+Raw Text:
+Stricken language would be deleted from and underlined language would be added to present law.
+1 State of Arkansas
+A Bill
+2 95th General Assembly
+3 Regular Session, 2025 HOUSE BILL 1565
+4
+5 By: Representative R. Burkes
+6 By: Senator Crowell
+7
+For An Act To Be Entitled
+8
+9 AN ACT TO AMEND THE LAW CONCERNING THE DUTIES OF A
+10 COUNTY PROPERTY ASSESSOR; TO PERMIT A PROPERTY OWNER
+11 TO OPT OUT OF HAVING THE PROPERTY OWNER'S INFORMATION
+12 POSTED ON AN ONLINE DATABASE; AND FOR OTHER PURPOSES.
+13
+14
+Subtitle
+15
+16 TO AMEND THE LAW CONCERNING THE DUTIES
+17 OF A COUNTY PROPERTY ASSESSOR; AND TO
+18 PERMIT A PROPERTY OWNER TO OPT OUT OF
+19 HAVING THE PROPERTY OWNER'S INFORMATION
+20 POSTED ON AN ONLINE DATABASE.
+21
+22 BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF ARKANSAS:
+23
+24 SECTION 1. DO NOT CODIFY. Legislative findings.
+25 The General Assembly finds that:
+26 (1) Records published online by county assessors are for the
+27 convenience of a property owner;
+28 (2) Online records afford a property owner the ability to pay
+29 taxes and fees online;
+30 (3) County assessors in Arkansas are not required by law to
+31 publish records online however, certain records are available upon request;
+32 and
+33 (4) Property owners may desire to opt out of having their
+34 records placed online for privacy or other reasons.
+35
+36 SECTION 2. Arkansas Code § 14-14-111(b), concerning county government
+*SSS200*
+02/24/2025 11:05:13 AM SSS200
+
+HB1565
+1 use of electronic records, is amended to add an additional subdivision to
+2 read as follows:
+3 (4) "Online database" means a website with administrative rights
+4 retained by a county official that is used by members of the public to search
+5 public records maintained by the office of the county official.
+6
+7 SECTION 3. Arkansas Code § 14-14-111, concerning county government use
+8 of electronic records, is amended to add additional subsections to read as
+9 follows:
+10 (e)(1) A county assessor who maintains an online database for property
+11 records shall allow a property owner to opt out of making the property
+12 owner's information available on the online database.
+13 (2) To opt out of having the property owner's information
+14 included in the online database under subdivision (e)(1) of this section, the
+15 property owner shall submit a request in writing to the county assessor
+16 stating the property owner's intent to opt out of the online database.
+17 (f) The Assessment Coordination Division may promulgate rules to
+18 create and maintain the forms necessary to submit a request under subsection
+19 (e) of this section.
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+2 02/24/2025 11:05:13 AM SSS200
+
+[DELETED:          A C T P   T O P H P  B   S  T   ( c   ( t   ( p a   ( r   S]
+[DELETED: H2 0 u r   ( r p   S o f  ( r o   ( i p s  ( c (]

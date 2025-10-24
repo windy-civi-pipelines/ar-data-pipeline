@@ -1,0 +1,891 @@
+Title: Stricken language would be deleted from and underlined language would be added to present law.
+Official Title: Stricken language would be deleted from and underlined language would be added to present law.
+Number of Sections: 1
+Source: versions - SB 366
+Media Type: application/pdf
+Strikethrough Detection: 11 sections found
+
+================================================================================
+
+Section 1:
+1 State of Arkansas
+A Bill
+2 95th General Assembly
+3 Regular Session, 2025 SENATE BILL 366
+4
+5 By: Senator J. Boyd
+6 By: Representative L. Johnson
+7
+For An Act To Be Entitled
+8
+9 AN ACT TO CREATE THE STRENGTHEN ARKANSAS HOMES ACT;
+10 TO CREATE THE STRENGTHEN ARKANSAS HOMES PROGRAM FUND;
+11 AND FOR OTHER PURPOSES.
+12
+13
+Subtitle
+14
+15 TO CREATE THE STRENGTHEN ARKANSAS HOMES
+16 ACT; AND TO CREATE THE STRENGTHEN
+17 ARKANSAS HOMES PROGRAM FUND.
+18
+19 BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF ARKANSAS:
+20
+21 SECTION 1. Arkansas Code Title 19, Chapter 5, Subchapter 12, is
+22 amended to add an additional section to read as follows:
+23 19-5-1287. Strengthen Arkansas Homes Program Fund.
+24 (a) There is created on the books of the Treasurer of State, the
+25 Auditor of State, and the Chief Fiscal Officer of the State a miscellaneous
+26 fund to be known as the "Strengthen Arkansas Homes Program Fund".
+27 (b) The fund shall consist of:
+28 (1) Donations;
+29 (2) Grants;
+30 (3) Gifts;
+31 (4) Moneys obtained from private sources;
+32 (5) Appropriations from municipal and county governments, the
+33 state, and the United States Government;
+34 (6) Other revenues in support of the Strengthen Arkansas Homes
+35 Program established under the Strengthen Arkansas Homes Program Act, § 23-88-
+36 601 et seq.; and
+*ANS308*
+03/04/2025 7:32:41 AM ANS308
+SB366
+1 (7) Any other funds authorized or provided by law.
+2 (c)(1) The fund shall be administered by and disbursed at the
+3 direction of the Insurance Commissioner.
+4 (2) Moneys shall not be appropriated from the fund for any
+5 purpose except for the program.
+6 (d) Moneys deposited into the fund shall not be subject to a
+7 deduction, tax, levy, or other type of assessment.
+8 (e) An entity providing funds to the program shall be permitted to
+9 establish additional rules and guidelines under which those funds may be used
+10 if the rules and guidelines do not violate any state or federal law or State
+11 Insurance Department rules.
+12
+13 SECTION 2. Arkansas Code Title 23, Chapter 88, is amended to add an
+14 additional subchapter to read as follows:
+15
+16 Subchapter 6 — Strengthen Arkansas Homes Program Act
+17
+18 23-88-601. Title.
+19 This subchapter shall be known and may be cited as the "Strengthen
+20 Arkansas Homes Program Act".
+21
+22 23-88-602. Definitions.
+23 As used in this subchapter:
+24 (1) "Certificate of compliance" means a certificate of
+25 compliance with the most recent version of an applicable FORTIFIED Home
+26 construction standard from the Insurance Institute for Business & Home Safety
+27 or a successor entity;
+28 (2) "Construct" means to build, equip, install, or otherwise
+29 develop insurable dwelling;
+30 (3) "Cost to upgrade a single-family dwelling" means the cost
+31 required to upgrade a single-family dwelling to meet or exceed the
+32 construction standards required for the single-family dwelling to comply with
+33 the most recent version of applicable FORTIFIED Home construction standards
+34 published by the Insurance Institute for Business & Home Safety or a
+35 successor entity;
+36 (4)(A) "Insurable dwelling" means a single-family dwelling that
+2 03/04/2025 7:32:41 AM ANS308
+SB366
+1 is a detached structure and is located on, or affixed to, residential real
+2 estate.
+3 (B) "Insurable dwelling" does not include manufactured
+4 homes, mobile homes, or condominiums;
+5 (5) "Non-FORTIFIED dwelling" means a dwelling that does not
+6 comply with the most recent version of applicable FORTIFIED Home construction
+7 standards published by the Insurance Institute for Business & Home Safety or
+8 a successor entity; and
+9 (6) "Retrofitting" or "retrofit" is the process of modifying an
+10 existing building or structure after it has been constructed and occupied.
+11
+12 23-88-603. Strengthen Arkansas Homes Program.
+13 (a) There is established within the State Insurance Department the
+14 Strengthen Arkansas Homes Program.
+15 (b) The program is created to provide financial grants to real
+16 property owners and nonprofit organizations to assist and promote the
+17 mitigation of losses to insurable dwellings due to catastrophic wind events,
+18 including hail, according to FORTIFIED Home construction standards published
+19 by the Insurance Institute for Business & Home Safety or a successor entity.
+20 (c) This subchapter does not create an entitlement for a property
+21 owner or obligate the state to fund the inspection, construction, or
+22 retrofitting of residential property in this state.
+23 (d) The department may apply for financial grants to construct or
+24 retrofit insurable dwellings to resist loss due to catastrophic wind events
+25 or hail and deposit the funds into the Strengthen Arkansas Homes Program
+26 Fund.
+27 (e)(1) The department may make grants or funding available to a
+28 nonprofit entity for a project to construct or retrofit an insurable dwelling
+29 to resist loss due to catastrophic wind events or hail if the grant or
+30 funding to a nonprofit entity is allowable under grant or funding rules,
+31 requirements, guidelines, or criteria.
+32 (2) A nonprofit entity under subdivision (e)(1) of this section
+33 shall:
+34 (A) Agree to administer the grants or funding as the
+35 program would be required to administer grants or funding; and
+36 (B) Provide documentation to the department in a timely
+3 03/04/2025 7:32:41 AM ANS308
+SB366
+1 manner as requested by the department.
+2 (f)(1) All mitigation projects shall be based upon the securing of
+3 required local permits and applicable inspections in keeping with local
+4 building codes and the Insurance Institute for Business & Home Safety's
+5 FORTIFIED Home construction standards as adopted by rule by the Insurance
+6 Commissioner.
+7 (2) All mitigation projects are subject to random reinspection.
+8
+9 23-88-604. Eligibility.
+10 (a)(1) The owner of an insurable dwelling may apply for a grant under
+11 the Strengthen Arkansas Homes Program if the owner of an insurable dwelling
+12 meets the eligibility requirements as stated by the State Insurance
+13 Department for each grant type, either FORTIFIED Roof or FORTIFIED Silver.
+14 (2) The eligibility requirements under subdivision (a)(1) of
+15 this section shall include without limitation:
+16 (A) That the residential property owner shall own an
+17 insurable dwelling that has been granted a homestead exemption;
+18 (B) That the owner of the insurable dwelling shall claim
+19 his or her primary residence in a county where grants are being approved;
+20 (C) That an insurable dwelling to be constructed or
+21 retrofitted shall be an owner-occupied single-family primary residence;
+22 (D)(i) That the insurable dwelling shall be in good repair
+23 unless damaged by a catastrophic wind event or hail, and the insurable
+24 dwelling owner is eligible to receive a grant under this subchapter.
+25 (ii) The home repair shall not be part of an
+26 insurance claim;
+27 (E)(i) That an evaluator certified by the Insurance
+28 Institute for Business & Home Safety shall:
+29 (a) Prequalify the insurable dwelling as
+30 suitable for construction or retrofitting under the Strengthen Arkansas Homes
+31 Program; and
+32 (b) Identify improvements required to achieve
+33 an Insurance Institute for Business & Home Safety FORTIFIED Roof designation,
+34 FORTIFIED Silver designation, or a successor designation or a similar
+35 standard approved by rule by the Insurance Commissioner.
+36 (ii) The owner of the insurable dwelling shall:
+4 03/04/2025 7:32:41 AM ANS308
+SB366
+1 (a) Select the evaluator under subdivision
+2 (a)(2)(E)(i) of this section from a list provided by the department under the
+3 Strengthen Arkansas Homes Program; and
+4 (b) Pay the evaluator's fee out-of-pocket; and
+5 (F) That the owner of the insurable dwelling shall:
+6 (i)(a) Obtain bids from at least three (3)
+7 contractors certified by the Insurance Institute for Business & Home Safety
+8 and approved under the Strengthen Arkansas Homes Program.
+9 (b) If three (3) contractors certified by the
+10 Insurance Institute for Business & Home Safety are not available to provide
+11 bids in a geographic area where grants are offered, then a bid equivalent to
+12 the number of available contractors certified by the Insurance Institute for
+13 Business & Home Safety is acceptable under this subdivision (a)(2)(F)(i);
+14 (ii) Construct or retrofit the insurable dwelling to
+15 the Insurance Institute for Business & Home Safety FORTIFIED Roof designation
+16 or FORTIFIED Silver designation, or a successor designation or a similar
+17 standard approved by rule by the commissioner, which shall include a hail
+18 supplement;
+19 (iii)(a) Provide proof of an in-force policy
+20 providing wind insurance on the insurable dwelling.
+21 (b) If the owner of the insurable dwelling
+22 does not have wind insurance at the time of the grant application, he or she
+23 shall provide proof of wind insurance coverage within thirty (30) days from
+24 the time the insurable dwelling receives certification from the Insurance
+25 Institute for Business & Home Safety; and
+26 (iv)(a) If the insurable dwelling is in a Special
+27 Flood Hazard Area, provide proof of an in-force flood insurance policy.
+28 (b) The flood insurance policy under
+29 subdivision (a)(2)(F)(iv)(a) of this section may be from the National Flood
+30 Insurance Program or a private carrier.
+31 (b) An applicant for a Strengthen Arkansas Homes Program grant under
+32 this subchapter shall file an application with the department in the form and
+33 manner prescribed by the commissioner.
+34 (c) Documents, materials, and other information submitted to the
+35 department by the owner of an insurable dwelling or an insurance company in
+36 support of a Strengthen Arkansas Homes Program grant application shall be
+5 03/04/2025 7:32:41 AM ANS308
+SB366
+1 confidential and not subject to the Freedom of Information Act of 1967, § 25-
+2 19-101 et seq.
+3 (d)(1) Documents, materials, and other information submitted to the
+4 department by the owner of an insurable dwelling or an insurance company
+5 shall not be:
+6 (A) Subject to a public records request under the Freedom
+7 of Information Act of 1967, § 25-19-101 et seq.;
+8 (B) Subject to subpoena;
+9 (C) Subject to discovery; or
+10 (D) Admissible in evidence in a private civil action.
+11 (2) Subdivision (d)(1) of this section does not:
+12 (A) Apply to the disclosure of documents, materials, or
+13 other information to Arkansas Legislative Audit or to the Legislative Joint
+14 Auditing Committee as otherwise authorized by law; or
+15 (B) Preclude the subpoena authority under § 10-3-411 or §
+16 10-4-421.
+17 (e) The owner of an insurable dwelling shall use Strengthen Arkansas
+18 Homes Program grant funds to retrofit an insurable dwelling to resist loss
+19 due to a catastrophic wind event or hail.
+20 (f)(1) Any mitigation project under this subchapter shall be completed
+21 within three (3) months of the date the applicant receives notice of the
+22 Strengthen Arkansas Homes Program grant approval.
+23 (2) Failure to complete the project in the time allotted under
+24 subdivision (f)(1) of this section may result in forfeiture of the Strengthen
+25 Arkansas Homes Program grant.
+26 (g)(1) Strengthen Arkansas Homes Program grant funds shall only be
+27 paid once a certificate of compliance has been issued for the Insurance
+28 Institute for Business & Home Safety FORTIFIED Roof designation, FORTIFIED
+29 Silver designation, or a successor designation or a similar standard approved
+30 by rule of the commissioner.
+31 (2) The Strengthen Arkansas Homes Program grant funds shall be
+32 paid by the commissioner, on behalf of the owner of the insurable dwelling,
+33 directly to the contractor who performed the loss mitigation work.
+34 (h)(1) Except as provided in subdivision (h)(2) of this section, the
+35 department shall accept Strengthen Arkansas Homes Program grant applications
+36 on a first-come, first-served basis.
+6 03/04/2025 7:32:41 AM ANS308
+SB366
+1 (2) An application submitted under subdivision (h)(1) of this
+2 section shall be given priority if the applicant:
+3 (A) Lives in a location that, based on historical data,
+4 has a higher susceptibility to catastrophic wind events or hail; or
+5 (B) Meets any other criteria the commissioner determines
+6 is appropriate to meet the purpose of the Strengthen Arkansas Homes Program.
+7 (i) The department may conduct a random audit of funds, records, and
+8 properties to detect fraud or for any other reason related to the
+9 administration of the Strengthen Arkansas Homes Program.
+10
+11 23-88-605. Contractor requirements.
+12 (a) Under the Strengthen Arkansas Homes Program, the owner of an
+13 insurable dwelling shall hire a contractor certified by the Insurance
+14 Institute for Business & Home Safety who can perform work that satisfies the
+15 standards under this subchapter and the rules adopted by the Insurance
+16 Commissioner.
+17 (b) The State Insurance Department shall not endorse or otherwise
+18 provide preferential treatment to a contractor.
+19 (c)(1) The owner of an insurable dwelling is responsible for an amount
+20 owed to a contractor that exceeds awarded program grant funds.
+21 (2) The amount owed to a contractor that exceeds the awarded
+22 program grant funds shall be disclosed to the owner, reflected on the bid
+23 sheet, and approved by the owner before work begins.
+24 (3) A contractor shall not bill the owner for additional
+25 expenses after retrofit work is completed.
+26 (d) To be eligible to work on a project funded by the program as a
+27 contractor, a contractor shall:
+28 (1) Meet the program requirements under subsection (e) of this
+29 section; and
+30 (2) Maintain a current copy of all applicable certificates,
+31 licenses, and proof of insurance coverages with the program office.
+32 (e) The program requirements for a contractor to participate in the
+33 program include without limitation that the contractor:
+34 (1) Holds a valid and active contractor's license or
+35 registration in Arkansas and is free from all disciplinary action by the
+36 applicable licensing board;
+7 03/04/2025 7:32:41 AM ANS308
+SB366
+1 (2) Is registered to do business in Arkansas with the Secretary
+2 of State;
+3 (3) Has an in-force general liability policy with at least five
+4 hundred thousand dollars ($500,000) in liability coverage;
+5 (4) Has workers' compensation and employer's liability insurance
+6 as required by Arkansas law;
+7 (5)(A) Holds an active Insurance Institute for Business & Home
+8 Safety FORTIFIED Roof contractor certification or FORTIFIED professional
+9 certification.
+10 (B) The contractor is responsible for paying all fees
+11 associated with certification and training;
+12 (6) Has successfully registered as a supplier or payee with the
+13 Department of Finance and Administration;
+14 (7) Shall maintain accurate contact information with the State
+15 Insurance Department and notify the State Insurance Department within ten
+16 (10) days of any changes in his or her contact information;
+17 (8) Agrees to follow the program's procedures and rules as
+18 promulgated by the commissioner;
+19 (9) Shall not have a financial interest in a project funded by
+20 the program for which the contractor performs work other than receiving
+21 payment from the program on behalf of the owner of an insurable dwelling;
+22 (10) Shall report to the program any potential conflict of
+23 interest before work commences; and
+24 (11) Shall not be the evaluator for a project funded under the
+25 program.
+26
+27 23-88-606. Evaluator requirements.
+28 (a) To be eligible to work on a project funded by the Strengthen
+29 Arkansas Homes Program as an evaluator, an evaluator shall:
+30 (1) Meet the program requirements under subsection (b) of this
+31 section; and
+32 (2) Maintain a current copy of all applicable certificates,
+33 licenses, and proof of insurance coverage with the program office.
+34 (b) The program requirements for an evaluator to participate in the
+35 program include that the evaluator:
+36 (1)(A) Is in good standing with the Insurance Institute for
+8 03/04/2025 7:32:41 AM ANS308
+SB366
+1 Business & Home Safety and maintains an active Insurance Institute for
+2 Business & Home Safety certification as a FORTIFIED Home evaluator, or other
+3 certification under a successor entity of the Insurance Institute for
+4 Business & Home Safety.
+5 (B) The evaluator shall pay all fees associated with
+6 certification and training;
+7 (2) If applicable, is registered to do business in Arkansas with
+8 the Secretary of State;
+9 (3) Agrees to follow the program's procedures and rules as
+10 promulgated by the Insurance Commissioner;
+11 (4) Shall maintain accurate contact information with the State
+12 Insurance Department and notify the department within ten (10) days of any
+13 changes in his or her contact information;
+14 (5) Shall not have a financial interest in any project that the
+15 evaluator inspects for designation purposes for the program;
+16 (6) Shall not be a contractor or supplier of any materials,
+17 products, or systems installed in a project the evaluator inspects for
+18 designation purposes for the program;
+19 (7) Shall not be the sales agent for a project being designated
+20 for the program; and
+21 (8) Agrees to inform the department of a potential conflict of
+22 interest.
+23
+24 23-88-607. Premium discount.
+25 (a) An insurance company that writes property insurance for wind or
+26 hail coverage of any property located in this state that has been certified
+27 compliant with the most recent version of any applicable FORTIFIED Home
+28 construction standards published by the Insurance Institute for Business &
+29 Home Safety or a successor entity:
+30 (1) Shall provide a premium discount or rate reduction on the
+31 coverage if the discount or reduction is actuarially justified; or
+32 (2) May provide:
+33 (A) A premium discount or rate reduction on the coverage
+34 according to any standard discount amounts, targets, or benchmarks
+35 established under subsection (e) of this section; and
+36 (B) Any other adjustment on the coverage.
+9 03/04/2025 7:32:41 AM ANS308
+SB366
+1 (b) A premium discount, rate reduction, or other adjustment provided
+2 under subsection (a) of this section shall be subject to rate filing and
+3 other applicable regulatory requirements, including without limitation those
+4 under § 23-67-201 et seq.
+5 (c) An insurance company that offers a premium discount, rate
+6 reduction, or other adjustment under subdivision (a)(1) of this section shall
+7 provide the discount, reduction, or adjustment on the coverage of an
+8 insurable dwelling located in this state if the insurance company receives a
+9 copy of the certificate of compliance for the insurable dwelling.
+10 (d)(1) The Insurance Commissioner may promulgate rules that establish
+11 standard discount amounts, targets, or benchmarks for the coverage of any
+12 real property located in this state that has been certified compliant with
+13 the most recent version of any applicable FORTIFIED Home construction
+14 standards published by the Insurance Institute for Business & Home Safety or
+15 a successor entity.
+16 (2) Any standard discount amounts, targets, or benchmarks
+17 promulgated by the commissioner shall be:
+18 (A) Optional; and
+19 (B) Primarily for the benefit of insurance companies that
+20 are unable to obtain actuarially valid data to provide a premium discount or
+21 rate reduction under subdivision (a)(1) of this section due to inadequate
+22 resources or experience.
+23
+24 23-88-608. Policy endorsement for roof loss or repairs.
+25 An insurance company writing property insurance for personal risks that
+26 provides coverage of a single-family dwelling located in this state that is a
+27 non-FORTIFIED dwelling shall offer an optional rider, endorsement, or
+28 supplemental policy provision that provides the insured a right to receive
+29 claim payments for the cost to upgrade a single-family dwelling for a claim
+30 that:
+31 (1) Is covered under the insurance policy or contract; and
+32 (2) Requires replacement of the covered insured dwelling’s roof
+33 as defined by the insurance policy or contract.
+34
+35 23-88-609. Insurer requirements.
+36 A property insurer subject to §§ 23-88-607 and 23-88-608 shall:
+10 03/04/2025 7:32:41 AM ANS308
+SB366
+1 (1) Make any filings required under §§ 23-88-607 and 23-88-608;
+2 (2) Comply with any other regulatory requirements required under
+3 § 23-67-201 et seq.; and
+4 (3) Comply with any other laws that are necessary to ensure
+5 that:
+6 (A) Any premium discount or rate reduction required under
+7 § 23-88-607 is offered on an insurance policy or contract issued or renewed
+8 on and after July 1, 2026; and
+9 (B) The optional rider, endorsement, or supplemental
+10 policy provision required under § 23-88-608 is offered on an insurance policy
+11 or contract issued or renewed on and after July 1, 2026.
+12
+13 23-88-610. Rules.
+14 (a) The Insurance Commissioner shall promulgate rules to implement and
+15 administer this subchapter.
+16 (b) The rules promulgated under subsection (a) of this section shall
+17 include eligibility requirements necessary for the proper administration of
+18 this subchapter and eligibility requirements under any instructions or
+19 requirements on grants or funds received by the commissioner for the
+20 Strengthen Arkansas Homes Program.
+21
+22 SECTION 3. EFFECTIVE DATE. This act is effective on and after January
+23 1, 2026.
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+11 03/04/2025 7:32:41 AM ANS308
+[DELETED:       A T A  T A A  B   S a  1  ( A f  (   (   (   (   (   ( s   ( P 6]
+[DELETED: S2 0   (  ( d   ( p  ( d  ( e i I   S a  S   2  T A   2  A   ( c c o   ( d   ( r c t p s   (]
+[DELETED: S3 0 i e    ( h   ( c s a   ( e   2  ( S  ( p m i b  ( o r  ( r o F  ( n t f r   ( s    ( p    (]
+[DELETED: S4 0 m  ( r b F C   (   2  ( t m D   ( t    ( i    ( h    ( r    ( u d     ( i    ( I      ( s P      ( a F s     (]
+[DELETED: S5 0      ( ( S      (    (     ( c a      ( I b t B     ( t o s s     ( p      ( d s t I     ( F      ( s I  ( t m  ( d s]
+[DELETED: S6 0 c 1  ( d s    ( o    (    (    (   (    ( o A    ( 1  ( H d  ( w S   ( s A  ( p I S b   ( p d  ( d o]
+[DELETED: S7 0   ( s    ( h    ( i  ( p a   2  ( i I s C  ( p  ( o   ( p s   ( e  ( c   ( s   ( l  ( p   ( r a]
+[DELETED: S8 0   ( o   ( h   ( a   ( S c    ( a   ( D   ( I (   ( p   ( t p   ( i   ( p   2  ( A   ( s   ( l  ( p   (]
+[DELETED: S9 0 B B c B    ( c   ( t   ( p   ( I c   ( e   ( p d   ( f   ( i   2  ( h c c H   ( c   (    ( a e    (]
+[DELETED: S1 0  ( u o u  ( r p i c  ( s r t s a   ( p    (    ( a r r   2  A p n s c t   (   ( a   2  A]
+[DELETED: S1 0   (   ( §   ( t    ( § o    ( p o   2  ( a  ( i t r S   S 1]
+
+
+================================================================================
+
+Raw Text:
+Stricken language would be deleted from and underlined language would be added to present law.
+1 State of Arkansas
+A Bill
+2 95th General Assembly
+3 Regular Session, 2025 SENATE BILL 366
+4
+5 By: Senator J. Boyd
+6 By: Representative L. Johnson
+7
+For An Act To Be Entitled
+8
+9 AN ACT TO CREATE THE STRENGTHEN ARKANSAS HOMES ACT;
+10 TO CREATE THE STRENGTHEN ARKANSAS HOMES PROGRAM FUND;
+11 AND FOR OTHER PURPOSES.
+12
+13
+Subtitle
+14
+15 TO CREATE THE STRENGTHEN ARKANSAS HOMES
+16 ACT; AND TO CREATE THE STRENGTHEN
+17 ARKANSAS HOMES PROGRAM FUND.
+18
+19 BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF ARKANSAS:
+20
+21 SECTION 1. Arkansas Code Title 19, Chapter 5, Subchapter 12, is
+22 amended to add an additional section to read as follows:
+23 19-5-1287. Strengthen Arkansas Homes Program Fund.
+24 (a) There is created on the books of the Treasurer of State, the
+25 Auditor of State, and the Chief Fiscal Officer of the State a miscellaneous
+26 fund to be known as the "Strengthen Arkansas Homes Program Fund".
+27 (b) The fund shall consist of:
+28 (1) Donations;
+29 (2) Grants;
+30 (3) Gifts;
+31 (4) Moneys obtained from private sources;
+32 (5) Appropriations from municipal and county governments, the
+33 state, and the United States Government;
+34 (6) Other revenues in support of the Strengthen Arkansas Homes
+35 Program established under the Strengthen Arkansas Homes Program Act, § 23-88-
+36 601 et seq.; and
+*ANS308*
+03/04/2025 7:32:41 AM ANS308
+
+SB366
+1 (7) Any other funds authorized or provided by law.
+2 (c)(1) The fund shall be administered by and disbursed at the
+3 direction of the Insurance Commissioner.
+4 (2) Moneys shall not be appropriated from the fund for any
+5 purpose except for the program.
+6 (d) Moneys deposited into the fund shall not be subject to a
+7 deduction, tax, levy, or other type of assessment.
+8 (e) An entity providing funds to the program shall be permitted to
+9 establish additional rules and guidelines under which those funds may be used
+10 if the rules and guidelines do not violate any state or federal law or State
+11 Insurance Department rules.
+12
+13 SECTION 2. Arkansas Code Title 23, Chapter 88, is amended to add an
+14 additional subchapter to read as follows:
+15
+16 Subchapter 6 — Strengthen Arkansas Homes Program Act
+17
+18 23-88-601. Title.
+19 This subchapter shall be known and may be cited as the "Strengthen
+20 Arkansas Homes Program Act".
+21
+22 23-88-602. Definitions.
+23 As used in this subchapter:
+24 (1) "Certificate of compliance" means a certificate of
+25 compliance with the most recent version of an applicable FORTIFIED Home
+26 construction standard from the Insurance Institute for Business & Home Safety
+27 or a successor entity;
+28 (2) "Construct" means to build, equip, install, or otherwise
+29 develop insurable dwelling;
+30 (3) "Cost to upgrade a single-family dwelling" means the cost
+31 required to upgrade a single-family dwelling to meet or exceed the
+32 construction standards required for the single-family dwelling to comply with
+33 the most recent version of applicable FORTIFIED Home construction standards
+34 published by the Insurance Institute for Business & Home Safety or a
+35 successor entity;
+36 (4)(A) "Insurable dwelling" means a single-family dwelling that
+2 03/04/2025 7:32:41 AM ANS308
+
+SB366
+1 is a detached structure and is located on, or affixed to, residential real
+2 estate.
+3 (B) "Insurable dwelling" does not include manufactured
+4 homes, mobile homes, or condominiums;
+5 (5) "Non-FORTIFIED dwelling" means a dwelling that does not
+6 comply with the most recent version of applicable FORTIFIED Home construction
+7 standards published by the Insurance Institute for Business & Home Safety or
+8 a successor entity; and
+9 (6) "Retrofitting" or "retrofit" is the process of modifying an
+10 existing building or structure after it has been constructed and occupied.
+11
+12 23-88-603. Strengthen Arkansas Homes Program.
+13 (a) There is established within the State Insurance Department the
+14 Strengthen Arkansas Homes Program.
+15 (b) The program is created to provide financial grants to real
+16 property owners and nonprofit organizations to assist and promote the
+17 mitigation of losses to insurable dwellings due to catastrophic wind events,
+18 including hail, according to FORTIFIED Home construction standards published
+19 by the Insurance Institute for Business & Home Safety or a successor entity.
+20 (c) This subchapter does not create an entitlement for a property
+21 owner or obligate the state to fund the inspection, construction, or
+22 retrofitting of residential property in this state.
+23 (d) The department may apply for financial grants to construct or
+24 retrofit insurable dwellings to resist loss due to catastrophic wind events
+25 or hail and deposit the funds into the Strengthen Arkansas Homes Program
+26 Fund.
+27 (e)(1) The department may make grants or funding available to a
+28 nonprofit entity for a project to construct or retrofit an insurable dwelling
+29 to resist loss due to catastrophic wind events or hail if the grant or
+30 funding to a nonprofit entity is allowable under grant or funding rules,
+31 requirements, guidelines, or criteria.
+32 (2) A nonprofit entity under subdivision (e)(1) of this section
+33 shall:
+34 (A) Agree to administer the grants or funding as the
+35 program would be required to administer grants or funding; and
+36 (B) Provide documentation to the department in a timely
+3 03/04/2025 7:32:41 AM ANS308
+
+SB366
+1 manner as requested by the department.
+2 (f)(1) All mitigation projects shall be based upon the securing of
+3 required local permits and applicable inspections in keeping with local
+4 building codes and the Insurance Institute for Business & Home Safety's
+5 FORTIFIED Home construction standards as adopted by rule by the Insurance
+6 Commissioner.
+7 (2) All mitigation projects are subject to random reinspection.
+8
+9 23-88-604. Eligibility.
+10 (a)(1) The owner of an insurable dwelling may apply for a grant under
+11 the Strengthen Arkansas Homes Program if the owner of an insurable dwelling
+12 meets the eligibility requirements as stated by the State Insurance
+13 Department for each grant type, either FORTIFIED Roof or FORTIFIED Silver.
+14 (2) The eligibility requirements under subdivision (a)(1) of
+15 this section shall include without limitation:
+16 (A) That the residential property owner shall own an
+17 insurable dwelling that has been granted a homestead exemption;
+18 (B) That the owner of the insurable dwelling shall claim
+19 his or her primary residence in a county where grants are being approved;
+20 (C) That an insurable dwelling to be constructed or
+21 retrofitted shall be an owner-occupied single-family primary residence;
+22 (D)(i) That the insurable dwelling shall be in good repair
+23 unless damaged by a catastrophic wind event or hail, and the insurable
+24 dwelling owner is eligible to receive a grant under this subchapter.
+25 (ii) The home repair shall not be part of an
+26 insurance claim;
+27 (E)(i) That an evaluator certified by the Insurance
+28 Institute for Business & Home Safety shall:
+29 (a) Prequalify the insurable dwelling as
+30 suitable for construction or retrofitting under the Strengthen Arkansas Homes
+31 Program; and
+32 (b) Identify improvements required to achieve
+33 an Insurance Institute for Business & Home Safety FORTIFIED Roof designation,
+34 FORTIFIED Silver designation, or a successor designation or a similar
+35 standard approved by rule by the Insurance Commissioner.
+36 (ii) The owner of the insurable dwelling shall:
+4 03/04/2025 7:32:41 AM ANS308
+
+SB366
+1 (a) Select the evaluator under subdivision
+2 (a)(2)(E)(i) of this section from a list provided by the department under the
+3 Strengthen Arkansas Homes Program; and
+4 (b) Pay the evaluator's fee out-of-pocket; and
+5 (F) That the owner of the insurable dwelling shall:
+6 (i)(a) Obtain bids from at least three (3)
+7 contractors certified by the Insurance Institute for Business & Home Safety
+8 and approved under the Strengthen Arkansas Homes Program.
+9 (b) If three (3) contractors certified by the
+10 Insurance Institute for Business & Home Safety are not available to provide
+11 bids in a geographic area where grants are offered, then a bid equivalent to
+12 the number of available contractors certified by the Insurance Institute for
+13 Business & Home Safety is acceptable under this subdivision (a)(2)(F)(i);
+14 (ii) Construct or retrofit the insurable dwelling to
+15 the Insurance Institute for Business & Home Safety FORTIFIED Roof designation
+16 or FORTIFIED Silver designation, or a successor designation or a similar
+17 standard approved by rule by the commissioner, which shall include a hail
+18 supplement;
+19 (iii)(a) Provide proof of an in-force policy
+20 providing wind insurance on the insurable dwelling.
+21 (b) If the owner of the insurable dwelling
+22 does not have wind insurance at the time of the grant application, he or she
+23 shall provide proof of wind insurance coverage within thirty (30) days from
+24 the time the insurable dwelling receives certification from the Insurance
+25 Institute for Business & Home Safety; and
+26 (iv)(a) If the insurable dwelling is in a Special
+27 Flood Hazard Area, provide proof of an in-force flood insurance policy.
+28 (b) The flood insurance policy under
+29 subdivision (a)(2)(F)(iv)(a) of this section may be from the National Flood
+30 Insurance Program or a private carrier.
+31 (b) An applicant for a Strengthen Arkansas Homes Program grant under
+32 this subchapter shall file an application with the department in the form and
+33 manner prescribed by the commissioner.
+34 (c) Documents, materials, and other information submitted to the
+35 department by the owner of an insurable dwelling or an insurance company in
+36 support of a Strengthen Arkansas Homes Program grant application shall be
+5 03/04/2025 7:32:41 AM ANS308
+
+SB366
+1 confidential and not subject to the Freedom of Information Act of 1967, § 25-
+2 19-101 et seq.
+3 (d)(1) Documents, materials, and other information submitted to the
+4 department by the owner of an insurable dwelling or an insurance company
+5 shall not be:
+6 (A) Subject to a public records request under the Freedom
+7 of Information Act of 1967, § 25-19-101 et seq.;
+8 (B) Subject to subpoena;
+9 (C) Subject to discovery; or
+10 (D) Admissible in evidence in a private civil action.
+11 (2) Subdivision (d)(1) of this section does not:
+12 (A) Apply to the disclosure of documents, materials, or
+13 other information to Arkansas Legislative Audit or to the Legislative Joint
+14 Auditing Committee as otherwise authorized by law; or
+15 (B) Preclude the subpoena authority under § 10-3-411 or §
+16 10-4-421.
+17 (e) The owner of an insurable dwelling shall use Strengthen Arkansas
+18 Homes Program grant funds to retrofit an insurable dwelling to resist loss
+19 due to a catastrophic wind event or hail.
+20 (f)(1) Any mitigation project under this subchapter shall be completed
+21 within three (3) months of the date the applicant receives notice of the
+22 Strengthen Arkansas Homes Program grant approval.
+23 (2) Failure to complete the project in the time allotted under
+24 subdivision (f)(1) of this section may result in forfeiture of the Strengthen
+25 Arkansas Homes Program grant.
+26 (g)(1) Strengthen Arkansas Homes Program grant funds shall only be
+27 paid once a certificate of compliance has been issued for the Insurance
+28 Institute for Business & Home Safety FORTIFIED Roof designation, FORTIFIED
+29 Silver designation, or a successor designation or a similar standard approved
+30 by rule of the commissioner.
+31 (2) The Strengthen Arkansas Homes Program grant funds shall be
+32 paid by the commissioner, on behalf of the owner of the insurable dwelling,
+33 directly to the contractor who performed the loss mitigation work.
+34 (h)(1) Except as provided in subdivision (h)(2) of this section, the
+35 department shall accept Strengthen Arkansas Homes Program grant applications
+36 on a first-come, first-served basis.
+6 03/04/2025 7:32:41 AM ANS308
+
+SB366
+1 (2) An application submitted under subdivision (h)(1) of this
+2 section shall be given priority if the applicant:
+3 (A) Lives in a location that, based on historical data,
+4 has a higher susceptibility to catastrophic wind events or hail; or
+5 (B) Meets any other criteria the commissioner determines
+6 is appropriate to meet the purpose of the Strengthen Arkansas Homes Program.
+7 (i) The department may conduct a random audit of funds, records, and
+8 properties to detect fraud or for any other reason related to the
+9 administration of the Strengthen Arkansas Homes Program.
+10
+11 23-88-605. Contractor requirements.
+12 (a) Under the Strengthen Arkansas Homes Program, the owner of an
+13 insurable dwelling shall hire a contractor certified by the Insurance
+14 Institute for Business & Home Safety who can perform work that satisfies the
+15 standards under this subchapter and the rules adopted by the Insurance
+16 Commissioner.
+17 (b) The State Insurance Department shall not endorse or otherwise
+18 provide preferential treatment to a contractor.
+19 (c)(1) The owner of an insurable dwelling is responsible for an amount
+20 owed to a contractor that exceeds awarded program grant funds.
+21 (2) The amount owed to a contractor that exceeds the awarded
+22 program grant funds shall be disclosed to the owner, reflected on the bid
+23 sheet, and approved by the owner before work begins.
+24 (3) A contractor shall not bill the owner for additional
+25 expenses after retrofit work is completed.
+26 (d) To be eligible to work on a project funded by the program as a
+27 contractor, a contractor shall:
+28 (1) Meet the program requirements under subsection (e) of this
+29 section; and
+30 (2) Maintain a current copy of all applicable certificates,
+31 licenses, and proof of insurance coverages with the program office.
+32 (e) The program requirements for a contractor to participate in the
+33 program include without limitation that the contractor:
+34 (1) Holds a valid and active contractor's license or
+35 registration in Arkansas and is free from all disciplinary action by the
+36 applicable licensing board;
+7 03/04/2025 7:32:41 AM ANS308
+
+SB366
+1 (2) Is registered to do business in Arkansas with the Secretary
+2 of State;
+3 (3) Has an in-force general liability policy with at least five
+4 hundred thousand dollars ($500,000) in liability coverage;
+5 (4) Has workers' compensation and employer's liability insurance
+6 as required by Arkansas law;
+7 (5)(A) Holds an active Insurance Institute for Business & Home
+8 Safety FORTIFIED Roof contractor certification or FORTIFIED professional
+9 certification.
+10 (B) The contractor is responsible for paying all fees
+11 associated with certification and training;
+12 (6) Has successfully registered as a supplier or payee with the
+13 Department of Finance and Administration;
+14 (7) Shall maintain accurate contact information with the State
+15 Insurance Department and notify the State Insurance Department within ten
+16 (10) days of any changes in his or her contact information;
+17 (8) Agrees to follow the program's procedures and rules as
+18 promulgated by the commissioner;
+19 (9) Shall not have a financial interest in a project funded by
+20 the program for which the contractor performs work other than receiving
+21 payment from the program on behalf of the owner of an insurable dwelling;
+22 (10) Shall report to the program any potential conflict of
+23 interest before work commences; and
+24 (11) Shall not be the evaluator for a project funded under the
+25 program.
+26
+27 23-88-606. Evaluator requirements.
+28 (a) To be eligible to work on a project funded by the Strengthen
+29 Arkansas Homes Program as an evaluator, an evaluator shall:
+30 (1) Meet the program requirements under subsection (b) of this
+31 section; and
+32 (2) Maintain a current copy of all applicable certificates,
+33 licenses, and proof of insurance coverage with the program office.
+34 (b) The program requirements for an evaluator to participate in the
+35 program include that the evaluator:
+36 (1)(A) Is in good standing with the Insurance Institute for
+8 03/04/2025 7:32:41 AM ANS308
+
+SB366
+1 Business & Home Safety and maintains an active Insurance Institute for
+2 Business & Home Safety certification as a FORTIFIED Home evaluator, or other
+3 certification under a successor entity of the Insurance Institute for
+4 Business & Home Safety.
+5 (B) The evaluator shall pay all fees associated with
+6 certification and training;
+7 (2) If applicable, is registered to do business in Arkansas with
+8 the Secretary of State;
+9 (3) Agrees to follow the program's procedures and rules as
+10 promulgated by the Insurance Commissioner;
+11 (4) Shall maintain accurate contact information with the State
+12 Insurance Department and notify the department within ten (10) days of any
+13 changes in his or her contact information;
+14 (5) Shall not have a financial interest in any project that the
+15 evaluator inspects for designation purposes for the program;
+16 (6) Shall not be a contractor or supplier of any materials,
+17 products, or systems installed in a project the evaluator inspects for
+18 designation purposes for the program;
+19 (7) Shall not be the sales agent for a project being designated
+20 for the program; and
+21 (8) Agrees to inform the department of a potential conflict of
+22 interest.
+23
+24 23-88-607. Premium discount.
+25 (a) An insurance company that writes property insurance for wind or
+26 hail coverage of any property located in this state that has been certified
+27 compliant with the most recent version of any applicable FORTIFIED Home
+28 construction standards published by the Insurance Institute for Business &
+29 Home Safety or a successor entity:
+30 (1) Shall provide a premium discount or rate reduction on the
+31 coverage if the discount or reduction is actuarially justified; or
+32 (2) May provide:
+33 (A) A premium discount or rate reduction on the coverage
+34 according to any standard discount amounts, targets, or benchmarks
+35 established under subsection (e) of this section; and
+36 (B) Any other adjustment on the coverage.
+9 03/04/2025 7:32:41 AM ANS308
+
+SB366
+1 (b) A premium discount, rate reduction, or other adjustment provided
+2 under subsection (a) of this section shall be subject to rate filing and
+3 other applicable regulatory requirements, including without limitation those
+4 under § 23-67-201 et seq.
+5 (c) An insurance company that offers a premium discount, rate
+6 reduction, or other adjustment under subdivision (a)(1) of this section shall
+7 provide the discount, reduction, or adjustment on the coverage of an
+8 insurable dwelling located in this state if the insurance company receives a
+9 copy of the certificate of compliance for the insurable dwelling.
+10 (d)(1) The Insurance Commissioner may promulgate rules that establish
+11 standard discount amounts, targets, or benchmarks for the coverage of any
+12 real property located in this state that has been certified compliant with
+13 the most recent version of any applicable FORTIFIED Home construction
+14 standards published by the Insurance Institute for Business & Home Safety or
+15 a successor entity.
+16 (2) Any standard discount amounts, targets, or benchmarks
+17 promulgated by the commissioner shall be:
+18 (A) Optional; and
+19 (B) Primarily for the benefit of insurance companies that
+20 are unable to obtain actuarially valid data to provide a premium discount or
+21 rate reduction under subdivision (a)(1) of this section due to inadequate
+22 resources or experience.
+23
+24 23-88-608. Policy endorsement for roof loss or repairs.
+25 An insurance company writing property insurance for personal risks that
+26 provides coverage of a single-family dwelling located in this state that is a
+27 non-FORTIFIED dwelling shall offer an optional rider, endorsement, or
+28 supplemental policy provision that provides the insured a right to receive
+29 claim payments for the cost to upgrade a single-family dwelling for a claim
+30 that:
+31 (1) Is covered under the insurance policy or contract; and
+32 (2) Requires replacement of the covered insured dwelling’s roof
+33 as defined by the insurance policy or contract.
+34
+35 23-88-609. Insurer requirements.
+36 A property insurer subject to §§ 23-88-607 and 23-88-608 shall:
+10 03/04/2025 7:32:41 AM ANS308
+
+SB366
+1 (1) Make any filings required under §§ 23-88-607 and 23-88-608;
+2 (2) Comply with any other regulatory requirements required under
+3 § 23-67-201 et seq.; and
+4 (3) Comply with any other laws that are necessary to ensure
+5 that:
+6 (A) Any premium discount or rate reduction required under
+7 § 23-88-607 is offered on an insurance policy or contract issued or renewed
+8 on and after July 1, 2026; and
+9 (B) The optional rider, endorsement, or supplemental
+10 policy provision required under § 23-88-608 is offered on an insurance policy
+11 or contract issued or renewed on and after July 1, 2026.
+12
+13 23-88-610. Rules.
+14 (a) The Insurance Commissioner shall promulgate rules to implement and
+15 administer this subchapter.
+16 (b) The rules promulgated under subsection (a) of this section shall
+17 include eligibility requirements necessary for the proper administration of
+18 this subchapter and eligibility requirements under any instructions or
+19 requirements on grants or funds received by the commissioner for the
+20 Strengthen Arkansas Homes Program.
+21
+22 SECTION 3. EFFECTIVE DATE. This act is effective on and after January
+23 1, 2026.
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+11 03/04/2025 7:32:41 AM ANS308
+
+[DELETED:       A T A  T A A  B   S a  1  ( A f  (   (   (   (   (   ( s   ( P 6]
+[DELETED: S2 0   (  ( d   ( p  ( d  ( e i I   S a  S   2  T A   2  A   ( c c o   ( d   ( r c t p s   (]
+[DELETED: S3 0 i e    ( h   ( c s a   ( e   2  ( S  ( p m i b  ( o r  ( r o F  ( n t f r   ( s    ( p    (]
+[DELETED: S4 0 m  ( r b F C   (   2  ( t m D   ( t    ( i    ( h    ( r    ( u d     ( i    ( I      ( s P      ( a F s     (]
+[DELETED: S5 0      ( ( S      (    (     ( c a      ( I b t B     ( t o s s     ( p      ( d s t I     ( F      ( s I  ( t m  ( d s]
+[DELETED: S6 0 c 1  ( d s    ( o    (    (    (   (    ( o A    ( 1  ( H d  ( w S   ( s A  ( p I S b   ( p d  ( d o]
+[DELETED: S7 0   ( s    ( h    ( i  ( p a   2  ( i I s C  ( p  ( o   ( p s   ( e  ( c   ( s   ( l  ( p   ( r a]
+[DELETED: S8 0   ( o   ( h   ( a   ( S c    ( a   ( D   ( I (   ( p   ( t p   ( i   ( p   2  ( A   ( s   ( l  ( p   (]
+[DELETED: S9 0 B B c B    ( c   ( t   ( p   ( I c   ( e   ( p d   ( f   ( i   2  ( h c c H   ( c   (    ( a e    (]
+[DELETED: S1 0  ( u o u  ( r p i c  ( s r t s a   ( p    (    ( a r r   2  A p n s c t   (   ( a   2  A]
+[DELETED: S1 0   (   ( §   ( t    ( § o    ( p o   2  ( a  ( i t r S   S 1]

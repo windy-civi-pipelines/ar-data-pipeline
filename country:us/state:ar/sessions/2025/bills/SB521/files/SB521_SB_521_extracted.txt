@@ -1,0 +1,338 @@
+Title: Stricken language would be deleted from and underlined language would be added to present law.
+Official Title: Stricken language would be deleted from and underlined language would be added to present law.
+Number of Sections: 1
+Source: versions - SB 521
+Media Type: application/pdf
+Strikethrough Detection: 4 sections found
+
+================================================================================
+
+Section 1:
+1 State of Arkansas
+A Bill
+2 95th General Assembly
+3 Regular Session, 2025 SENATE BILL 521
+4
+5 By: Senator B. Davis
+6 By: Representative Unger
+7
+For An Act To Be Entitled
+8
+9 AN ACT TO AMEND THE LAW CONCERNING LAW ENFORCEMENT
+10 TRAINING REIMBURSEMENT; TO EXTEND THE TIME PERIOD
+11 AFTER COMPLETION OF TRAINING FOR WHICH REIMBURSEMENT
+12 IS REQUIRED; AND FOR OTHER PURPOSES.
+13
+14
+Subtitle
+15
+16 TO AMEND THE LAW CONCERNING LAW
+17 ENFORCEMENT TRAINING REIMBURSEMENT; AND
+18 TO EXTEND THE TIME PERIOD AFTER
+19 COMPLETION OF TRAINING FOR WHICH
+20 REIMBURSEMENT IS REQUIRED.
+21
+22 BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF ARKANSAS:
+23
+24 SECTION 1. Arkansas Code § 12-9-209 is amended to read as follows:
+25 12-9-209. Reimbursement for training costs or expenses.
+26 (a)(1) If a county, city, town, or state agency law enforcement agency
+27 pays the costs or expenses for training a law enforcement officer at a state-
+28 funded or municipally operated law enforcement training academy and another
+29 county, city, town, or state agency law enforcement agency employs that law
+30 enforcement officer within eighteen (18) twenty-four (24) months after
+31 completion of the training in a position requiring a certificate of training
+32 from a state-funded or municipally operated law enforcement training academy,
+33 the county, city, town, or state agency law enforcement agency that employs
+34 the law enforcement officer, at the time of employing the law enforcement
+35 officer, shall reimburse the county, city, town, or state agency law
+36 enforcement agency for all or a portion of the costs or expenses incurred by
+*CEB123*
+03/19/2025 1:29:39 PM CEB123
+SB521
+1 the county, city, town, or state agency law enforcement agency for the
+2 training of the law enforcement officer at the state-funded or municipally
+3 operated law enforcement training academy, unless the law enforcement officer
+4 has been terminated by the county, city, town, or state agency law
+5 enforcement agency that paid the costs or expenses of training, in which case
+6 no reimbursement is required from the county, city, town, or state agency law
+7 enforcement agency employing the law enforcement officer.
+8 (2) Reimbursement may be sought only from the first county,
+9 city, town, or state agency by each successive law enforcement agency that
+10 employed the law enforcement officer after the county, city, town, or state
+11 agency first law enforcement agency paid the costs or expenses of training
+12 within the twenty-four-month period after the date of the law enforcement
+13 officer's completion of training.
+14 (3) Reimbursement shall include any salary, travel expenses,
+15 food, lodging, or other costs, including nonrecoverable equipment costs,
+16 required to be paid by the county, city, town, or state agency, law
+17 enforcement agency as follows:
+18 (A) If the law enforcement officer is employed within two
+19 (2) twelve (12) months after completion of the training, the employing law
+20 enforcement agency shall reimburse the total of the costs or expenses of
+21 training; or
+22 (B) If the law enforcement officer is employed more than
+23 two (2) twelve (12) months but not more than six (6) twenty-four (24) months
+24 after completion of the training, the employing law enforcement agency shall
+25 reimburse eighty percent (80%) fifty percent (50%) of the costs or expenses
+26 of training;
+27 (C) If the law enforcement officer is employed more than
+28 six (6) months but not more than ten (10) months after completion of the
+29 training, the employing agency shall reimburse sixty percent (60%) of the
+30 costs or expenses of training;
+31 (D) If the law enforcement officer is employed more than
+32 ten (10) months but not more than fourteen (14) months after completion of
+33 the training, the employing agency shall reimburse forty percent (40%) of the
+34 costs or expenses of training; or
+35 (E) If the law enforcement officer is employed more than
+36 fourteen (14) months but not more than eighteen (18) months after completion
+2 03/19/2025 1:29:39 PM CEB123
+SB521
+1 of the training, the employing agency shall reimburse twenty percent (20%) of
+2 the costs or expenses of training.
+3 (b)(1) A request for reimbursement shall:
+4 (A) Be in writing;
+5 (B) Contain an itemized list of costs to be reimbursed;
+6 and
+7 (C) Be made by the original employing law enforcement
+8 agency to the subsequent employing law enforcement agency within six (6)
+9 months of the date on which the law enforcement officer was hired by the
+10 subsequent law enforcement agency.
+11 (2) If any county, city, town, or state agency law enforcement
+12 agency that employs a law enforcement officer whose costs or expenses of
+13 training were paid by another county, city, town, or state agency law
+14 enforcement agency fails to make reimbursement for the costs or expenses of
+15 training as required in subsection (a) of this section, the county, city,
+16 town, or state agency law enforcement agency entitled to reimbursement shall
+17 notify the Treasurer of State.
+18 (2)(3) The Treasurer of State shall then withhold the amount of
+19 the reimbursement due for training the law enforcement officer from the
+20 county or municipal aid of the employing county, city, town, or state agency
+21 law enforcement agency or from funds appropriated to the employing state
+22 agency and shall remit the amount to the county, city, town, or state agency
+23 law enforcement agency that is entitled to the reimbursement under the
+24 provisions of this section.
+25 (c)(1) A private community with a population of more than five
+26 thousand (5,000) persons that employs certified law enforcement officers is
+27 entitled to reimbursement under this section and may remit the reimbursed
+28 costs or expenses under subsection (a) of this section to an entity
+29 contracting with the private community that paid the training costs or
+30 expenses of the certified law enforcement officers.
+31 (d) A law enforcement agency that employs on a permanent basis a law
+32 enforcement officer who has completed training at a state-funded or
+33 municipally-operated law enforcement training academy shall comply with this
+34 section.
+35 (2)(e) As used in this subsection, section:
+36 (1) "Law enforcement agency" means the same as defined in § 12-
+3 03/19/2025 1:29:39 PM CEB123
+SB521
+1 9-102; and
+2 (2) "private Private community” means the same as defined in §
+3 14-14-814.
+4
+5 SECTION 2. Arkansas Code § 12-9-602(a)(1), concerning the employment
+6 or appointment, or separation from employment or appointment of a law
+7 enforcement officer, is amended to read as follows:
+8 (a)(1)(A) An employing law enforcement agency shall immediately notify
+9 the Division of Law Enforcement Standards and Training, in a manner adopted
+10 by the division, of the employment or appointment, or separation from
+11 employment or appointment, of any law enforcement officer.
+12 (B) Upon notification by an employing law enforcement
+13 agency of employment or appointment of any law enforcement officer, if the
+14 law enforcement officer completed required training from a state-funded or
+15 municipally-operated law enforcement training academy within the last twenty-
+16 four (24) months, the division shall notify the previous employing law
+17 enforcement agency that paid the costs or expenses for training the law
+18 enforcement officer.
+19
+20 SECTION 3. EFFECTIVE DATE. This act is effective on and after January
+21 1, 2026.
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+4 03/19/2025 1:29:39 PM CEB123
+[DELETED:       A T A I  T E T C R  B   S  1  ( p f c e c f t t o e]
+[DELETED: S2 0 t t o h e n e   ( c e a w o   ( f r e    ( ( e t    ( t a r o    ( s t c    ( t t c    ( f]
+[DELETED: S3 0 o t  (    (    ( a    ( a m s   ( a t e t t n   ( t c l a l p  ( t e c c e  ( e m s   (   (]
+[DELETED: S4 0 9   ( 1    S o e  ( t b e    ( a l m f e e   S 1               ]
+
+
+================================================================================
+
+Raw Text:
+Stricken language would be deleted from and underlined language would be added to present law.
+1 State of Arkansas
+A Bill
+2 95th General Assembly
+3 Regular Session, 2025 SENATE BILL 521
+4
+5 By: Senator B. Davis
+6 By: Representative Unger
+7
+For An Act To Be Entitled
+8
+9 AN ACT TO AMEND THE LAW CONCERNING LAW ENFORCEMENT
+10 TRAINING REIMBURSEMENT; TO EXTEND THE TIME PERIOD
+11 AFTER COMPLETION OF TRAINING FOR WHICH REIMBURSEMENT
+12 IS REQUIRED; AND FOR OTHER PURPOSES.
+13
+14
+Subtitle
+15
+16 TO AMEND THE LAW CONCERNING LAW
+17 ENFORCEMENT TRAINING REIMBURSEMENT; AND
+18 TO EXTEND THE TIME PERIOD AFTER
+19 COMPLETION OF TRAINING FOR WHICH
+20 REIMBURSEMENT IS REQUIRED.
+21
+22 BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF ARKANSAS:
+23
+24 SECTION 1. Arkansas Code § 12-9-209 is amended to read as follows:
+25 12-9-209. Reimbursement for training costs or expenses.
+26 (a)(1) If a county, city, town, or state agency law enforcement agency
+27 pays the costs or expenses for training a law enforcement officer at a state-
+28 funded or municipally operated law enforcement training academy and another
+29 county, city, town, or state agency law enforcement agency employs that law
+30 enforcement officer within eighteen (18) twenty-four (24) months after
+31 completion of the training in a position requiring a certificate of training
+32 from a state-funded or municipally operated law enforcement training academy,
+33 the county, city, town, or state agency law enforcement agency that employs
+34 the law enforcement officer, at the time of employing the law enforcement
+35 officer, shall reimburse the county, city, town, or state agency law
+36 enforcement agency for all or a portion of the costs or expenses incurred by
+*CEB123*
+03/19/2025 1:29:39 PM CEB123
+
+SB521
+1 the county, city, town, or state agency law enforcement agency for the
+2 training of the law enforcement officer at the state-funded or municipally
+3 operated law enforcement training academy, unless the law enforcement officer
+4 has been terminated by the county, city, town, or state agency law
+5 enforcement agency that paid the costs or expenses of training, in which case
+6 no reimbursement is required from the county, city, town, or state agency law
+7 enforcement agency employing the law enforcement officer.
+8 (2) Reimbursement may be sought only from the first county,
+9 city, town, or state agency by each successive law enforcement agency that
+10 employed the law enforcement officer after the county, city, town, or state
+11 agency first law enforcement agency paid the costs or expenses of training
+12 within the twenty-four-month period after the date of the law enforcement
+13 officer's completion of training.
+14 (3) Reimbursement shall include any salary, travel expenses,
+15 food, lodging, or other costs, including nonrecoverable equipment costs,
+16 required to be paid by the county, city, town, or state agency, law
+17 enforcement agency as follows:
+18 (A) If the law enforcement officer is employed within two
+19 (2) twelve (12) months after completion of the training, the employing law
+20 enforcement agency shall reimburse the total of the costs or expenses of
+21 training; or
+22 (B) If the law enforcement officer is employed more than
+23 two (2) twelve (12) months but not more than six (6) twenty-four (24) months
+24 after completion of the training, the employing law enforcement agency shall
+25 reimburse eighty percent (80%) fifty percent (50%) of the costs or expenses
+26 of training;
+27 (C) If the law enforcement officer is employed more than
+28 six (6) months but not more than ten (10) months after completion of the
+29 training, the employing agency shall reimburse sixty percent (60%) of the
+30 costs or expenses of training;
+31 (D) If the law enforcement officer is employed more than
+32 ten (10) months but not more than fourteen (14) months after completion of
+33 the training, the employing agency shall reimburse forty percent (40%) of the
+34 costs or expenses of training; or
+35 (E) If the law enforcement officer is employed more than
+36 fourteen (14) months but not more than eighteen (18) months after completion
+2 03/19/2025 1:29:39 PM CEB123
+
+SB521
+1 of the training, the employing agency shall reimburse twenty percent (20%) of
+2 the costs or expenses of training.
+3 (b)(1) A request for reimbursement shall:
+4 (A) Be in writing;
+5 (B) Contain an itemized list of costs to be reimbursed;
+6 and
+7 (C) Be made by the original employing law enforcement
+8 agency to the subsequent employing law enforcement agency within six (6)
+9 months of the date on which the law enforcement officer was hired by the
+10 subsequent law enforcement agency.
+11 (2) If any county, city, town, or state agency law enforcement
+12 agency that employs a law enforcement officer whose costs or expenses of
+13 training were paid by another county, city, town, or state agency law
+14 enforcement agency fails to make reimbursement for the costs or expenses of
+15 training as required in subsection (a) of this section, the county, city,
+16 town, or state agency law enforcement agency entitled to reimbursement shall
+17 notify the Treasurer of State.
+18 (2)(3) The Treasurer of State shall then withhold the amount of
+19 the reimbursement due for training the law enforcement officer from the
+20 county or municipal aid of the employing county, city, town, or state agency
+21 law enforcement agency or from funds appropriated to the employing state
+22 agency and shall remit the amount to the county, city, town, or state agency
+23 law enforcement agency that is entitled to the reimbursement under the
+24 provisions of this section.
+25 (c)(1) A private community with a population of more than five
+26 thousand (5,000) persons that employs certified law enforcement officers is
+27 entitled to reimbursement under this section and may remit the reimbursed
+28 costs or expenses under subsection (a) of this section to an entity
+29 contracting with the private community that paid the training costs or
+30 expenses of the certified law enforcement officers.
+31 (d) A law enforcement agency that employs on a permanent basis a law
+32 enforcement officer who has completed training at a state-funded or
+33 municipally-operated law enforcement training academy shall comply with this
+34 section.
+35 (2)(e) As used in this subsection, section:
+36 (1) "Law enforcement agency" means the same as defined in § 12-
+3 03/19/2025 1:29:39 PM CEB123
+
+SB521
+1 9-102; and
+2 (2) "private Private community” means the same as defined in §
+3 14-14-814.
+4
+5 SECTION 2. Arkansas Code § 12-9-602(a)(1), concerning the employment
+6 or appointment, or separation from employment or appointment of a law
+7 enforcement officer, is amended to read as follows:
+8 (a)(1)(A) An employing law enforcement agency shall immediately notify
+9 the Division of Law Enforcement Standards and Training, in a manner adopted
+10 by the division, of the employment or appointment, or separation from
+11 employment or appointment, of any law enforcement officer.
+12 (B) Upon notification by an employing law enforcement
+13 agency of employment or appointment of any law enforcement officer, if the
+14 law enforcement officer completed required training from a state-funded or
+15 municipally-operated law enforcement training academy within the last twenty-
+16 four (24) months, the division shall notify the previous employing law
+17 enforcement agency that paid the costs or expenses for training the law
+18 enforcement officer.
+19
+20 SECTION 3. EFFECTIVE DATE. This act is effective on and after January
+21 1, 2026.
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+4 03/19/2025 1:29:39 PM CEB123
+
+[DELETED:       A T A I  T E T C R  B   S  1  ( p f c e c f t t o e]
+[DELETED: S2 0 t t o h e n e   ( c e a w o   ( f r e    ( ( e t    ( t a r o    ( s t c    ( t t c    ( f]
+[DELETED: S3 0 o t  (    (    ( a    ( a m s   ( a t e t t n   ( t c l a l p  ( t e c c e  ( e m s   (   (]
+[DELETED: S4 0 9   ( 1    S o e  ( t b e    ( a l m f e e   S 1               ]

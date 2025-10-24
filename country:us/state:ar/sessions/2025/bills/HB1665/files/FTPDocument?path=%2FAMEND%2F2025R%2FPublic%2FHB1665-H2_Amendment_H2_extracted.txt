@@ -1,0 +1,183 @@
+Title: ______________________________________________________________________
+Official Title: ______________________________________________________________________
+Number of Sections: 4
+Source: versions - Amendment H2
+Media Type: application/pdf
+Strikethrough Detection: 3 sections found
+
+================================================================================
+
+Section 1:
+Hall of the House of Representatives
+95th General Assembly - Regular Session, 2025
+Amendment Form
+Subtitle of House Bill 1665
+TO AMEND THE LAW CONCERNING THE INSURANCE PREMIUM TAX; AND TO
+REPEAL THE CREDIT ALLOWED AGAINST THE INSURANCE PREMIUM TAX FOR
+ACCIDENT AND HEALTH COVERAGE BASED ON THE SALARY AND WAGES OF THE
+EMPLOYEES OF THE INSURER.
+______________________________________________________________________
+Amendment No. 2 to House Bill 1665
+Amend House Bill 1665 as engrossed H3/17/25 (version: 3/17/25 11:36:22 AM):
+Page 1, line 12, delete "COVERAGE" and substitute "COMPREHENSIVE HOSPITAL AND
+MEDICAL COVERAGE"
+AND
+Delete the subtitle in its entirety, and substitute the following:
+"TO REPEAL THE CREDIT ALLOWED AGAINST THE
+INSURANCE PREMIUM TAX FOR ACCIDENT AND
+HEALTH COMPREHENSIVE HOSPITAL AND MEDICAL
+COVERAGE BASED ON THE SALARY AND WAGES OF
+THE EMPLOYEES OF THE INSURER."
+AND
+Delete everything after the enacting clause, and substitute the following:
+"SECTION 1. Arkansas Code § 26-57-604(a)(1)(B), concerning the credit
+allowed against the premium tax based on the salary and wages of the
+employees of the insurer, is amended to add an additional subdivision to read
+as follows:
+*.JLL375*
+JLL375 - 04-01-2025 09:45:01 Page 1 of 3
+(iv) The credit shall not be applied as an offset
+against the premium tax on collections reported as individual or group
+comprehensive medical or hospital coverage.
+
+Section 2:
+SECTION 2. Arkansas Code § 26-57-604(a)(2)(A) and (B), concerning the
+credit allowed against the premium tax based on the salary and wages of the
+employees of the insurer, are amended to read as follows:
+(2)(A) The offset shall not reduce the accident and health
+premium tax due by more than the following amounts:
+(i) For tax years beginning before January 1, 2021,
+eighty percent (80%);
+(ii) For the tax year beginning January 1, 2021,
+seventy percent (70%);
+(iii) For the tax year beginning January 1, 2022,
+sixty percent (60%); and
+(iv) For tax years beginning on and after January 1,
+2023, fifty percent (50%).
+(B) Beginning January 1, 2020, an An authorized accident
+or health insurer shall not receive a credit under this subsection that
+exceeds an annual total of eighteen million dollars ($18,000,000).
+
+Section 3:
+SECTION 3. Arkansas Code § 26-57-604(a)(4), concerning the credit
+allowed against the premium tax based on the salary and wages of the
+employees of the insurer, is amended to read as follows:
+(4)(A)(i) Except as provided in subdivision (a)(4)(B) of this
+
+Section 4:
+section, on or before March 1 of each year, any such authorized life or
+accident and health insurer, including health maintenance organizations,
+desiring to qualify under this provision shall furnish the appropriate data
+and request on forms prescribed by the commissioner.
+(ii) For purposes of calculating the taxes under §§
+23-63-102 — 23-63-104, an insurer qualifying for a credit under this section
+shall compute the tax due under §§ 23-63-102 — 23-63-104, if any, by using an
+Arkansas premium tax rate of two and one-half percent (2½%).
+(B)(i) Subdivision (a)(4)(A) of this section shall only
+apply for tax years beginning prior to January 1, 2000.
+JLL375 - 04-01-2025 09:45:01 Amendment No. 2 to House Bill 1665 Page 2 of 3
+(ii) By On or before March 1 of each year, an
+authorized life or accident and health insurer, including health maintenance
+organizations, desiring to qualify under this provision shall furnish the
+appropriate data and request on forms prescribed by the commissioner.
+(iii)(B) However, for purposes of calculating the
+taxes under §§ 23-63-102 — 23-63-104, an insurer qualifying for a credit
+under this section shall compute the tax due under §§ 23-63-102 — 23-63-104,
+if any, by using an Arkansas premium tax rate of two and one-half percent
+(2½%) without regard to the credit specified in this section."
+The Amendment was read ________________________________________________________________________________
+By: Representative Wardlaw
+JLL/JLL - 04-01-2025 09:45:01 _________________________
+JLL375 Chief Clerk
+JLL375 - 04-01-2025 09:45:01 Amendment No. 2 to House Bill 1665 Page 3 of 3
+[DELETED:  PA  "]
+[DELETED:  P   (S (   (   (   (   (  (S (   (  (]
+[DELETED:  P   (   ( _ C]
+
+
+================================================================================
+
+Raw Text:
+Hall of the House of Representatives
+95th General Assembly - Regular Session, 2025
+Amendment Form
+______________________________________________________________________
+Subtitle of House Bill 1665
+TO AMEND THE LAW CONCERNING THE INSURANCE PREMIUM TAX; AND TO
+REPEAL THE CREDIT ALLOWED AGAINST THE INSURANCE PREMIUM TAX FOR
+ACCIDENT AND HEALTH COVERAGE BASED ON THE SALARY AND WAGES OF THE
+EMPLOYEES OF THE INSURER.
+______________________________________________________________________
+Amendment No. 2 to House Bill 1665
+Amend House Bill 1665 as engrossed H3/17/25 (version: 3/17/25 11:36:22 AM):
+Page 1, line 12, delete "COVERAGE" and substitute "COMPREHENSIVE HOSPITAL AND
+MEDICAL COVERAGE"
+AND
+Delete the subtitle in its entirety, and substitute the following:
+"TO REPEAL THE CREDIT ALLOWED AGAINST THE
+INSURANCE PREMIUM TAX FOR ACCIDENT AND
+HEALTH COMPREHENSIVE HOSPITAL AND MEDICAL
+COVERAGE BASED ON THE SALARY AND WAGES OF
+THE EMPLOYEES OF THE INSURER."
+AND
+Delete everything after the enacting clause, and substitute the following:
+"SECTION 1. Arkansas Code § 26-57-604(a)(1)(B), concerning the credit
+allowed against the premium tax based on the salary and wages of the
+employees of the insurer, is amended to add an additional subdivision to read
+as follows:
+*.JLL375*
+JLL375 - 04-01-2025 09:45:01 Page 1 of 3
+
+(iv) The credit shall not be applied as an offset
+against the premium tax on collections reported as individual or group
+comprehensive medical or hospital coverage.
+SECTION 2. Arkansas Code § 26-57-604(a)(2)(A) and (B), concerning the
+credit allowed against the premium tax based on the salary and wages of the
+employees of the insurer, are amended to read as follows:
+(2)(A) The offset shall not reduce the accident and health
+premium tax due by more than the following amounts:
+(i) For tax years beginning before January 1, 2021,
+eighty percent (80%);
+(ii) For the tax year beginning January 1, 2021,
+seventy percent (70%);
+(iii) For the tax year beginning January 1, 2022,
+sixty percent (60%); and
+(iv) For tax years beginning on and after January 1,
+2023, fifty percent (50%).
+(B) Beginning January 1, 2020, an An authorized accident
+or health insurer shall not receive a credit under this subsection that
+exceeds an annual total of eighteen million dollars ($18,000,000).
+SECTION 3. Arkansas Code § 26-57-604(a)(4), concerning the credit
+allowed against the premium tax based on the salary and wages of the
+employees of the insurer, is amended to read as follows:
+(4)(A)(i) Except as provided in subdivision (a)(4)(B) of this
+section, on or before March 1 of each year, any such authorized life or
+accident and health insurer, including health maintenance organizations,
+desiring to qualify under this provision shall furnish the appropriate data
+and request on forms prescribed by the commissioner.
+(ii) For purposes of calculating the taxes under §§
+23-63-102 — 23-63-104, an insurer qualifying for a credit under this section
+shall compute the tax due under §§ 23-63-102 — 23-63-104, if any, by using an
+Arkansas premium tax rate of two and one-half percent (2½%).
+(B)(i) Subdivision (a)(4)(A) of this section shall only
+apply for tax years beginning prior to January 1, 2000.
+JLL375 - 04-01-2025 09:45:01 Amendment No. 2 to House Bill 1665 Page 2 of 3
+
+(ii) By On or before March 1 of each year, an
+authorized life or accident and health insurer, including health maintenance
+organizations, desiring to qualify under this provision shall furnish the
+appropriate data and request on forms prescribed by the commissioner.
+(iii)(B) However, for purposes of calculating the
+taxes under §§ 23-63-102 — 23-63-104, an insurer qualifying for a credit
+under this section shall compute the tax due under §§ 23-63-102 — 23-63-104,
+if any, by using an Arkansas premium tax rate of two and one-half percent
+(2½%) without regard to the credit specified in this section."
+The Amendment was read ________________________________________________________________________________
+By: Representative Wardlaw
+JLL/JLL - 04-01-2025 09:45:01 _________________________
+JLL375 Chief Clerk
+JLL375 - 04-01-2025 09:45:01 Amendment No. 2 to House Bill 1665 Page 3 of 3
+
+[DELETED:  PA  "]
+[DELETED:  P   (S (   (   (   (   (  (S (   (  (]
+[DELETED:  P   (   ( _ C]

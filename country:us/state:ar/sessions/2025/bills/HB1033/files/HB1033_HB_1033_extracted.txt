@@ -1,0 +1,891 @@
+Title: Stricken language would be deleted from and underlined language would be added to present law.
+Official Title: Stricken language would be deleted from and underlined language would be added to present law.
+Number of Sections: 1
+Source: versions - HB 1033
+Media Type: application/pdf
+Strikethrough Detection: 11 sections found
+
+================================================================================
+
+Section 1:
+1 State of Arkansas As Engrossed: H1/16/25
+A Bill
+2 95th General Assembly
+3 Regular Session, 2025 HOUSE BILL 1033
+4
+5 Representatives McCullough, A. Collins, D. Garner, Springer
+6
+7
+For An Act To Be Entitled
+8
+9 AN ACT TO BE KNOWN AS THE "ARKANSAS RED FLAG LAW"; TO
+10 CREATE AN EXTREME RISK PROTECTION ORDER AND WARRANT;
+11 TO PROVIDE A RESTRICTION ON ACCESS TO A FIREARM FOR A
+12 PERSON DEEMED TO POSE A RISK OF IMMINENT PERSONAL
+13 INJURY TO HIMSELF OR HERSELF OR TO THE PUBLIC; AND
+14 FOR OTHER PURPOSES.
+15
+16
+Subtitle
+17
+18 TO CREATE THE "ARKANSAS RED FLAG LAW";
+19 AND TO CREATE AN EXTREME RISK PROTECTION
+20 ORDER AND WARRANT.
+21
+22 BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF ARKANSAS:
+23
+24 SECTION 1. Arkansas Code § 5-54-122 is amended to read as follows:
+25 5-54-122. Filing false report with law enforcement agency.
+26 (a) As used in this section, “report” means any communication, either
+27 written or oral, sworn or unsworn.
+28 (b) A person commits the offense of filing a false report if he or she
+29 files a report with any law enforcement agency or prosecuting attorney's
+30 office of:
+31 (1) any alleged Alleged criminal wrongdoing on the part of
+32 another person knowing that the report is false; or
+33 (2) Conduct by another person that the reporting person alleges
+34 should be investigated under the Arkansas Red Flag Law, § 12-15-401 et seq.,
+35 knowing that the report to the law enforcement agency or prosecuting
+36 attorney's office is false.
+*CEB028*
+01-16-2025 15:09:40 CEB028
+As Engrossed: H1/16/25 HB1033
+1 (c)(1) Filing a false report is a Class D felony if:
+2 (A) The alleged criminal wrongdoing is a capital offense,
+3 Class Y felony, Class A felony, or Class B felony;
+4 (B) The law enforcement agency or prosecuting attorney's
+5 office to whom the false report is made has expended in excess of five
+6 hundred dollars ($500) in order to investigate the false report, including
+7 the costs of labor;
+8 (C) Physical injury results to any person as a result of
+9 the false report;
+10 (D) The false report is made in an effort by the person
+11 filing the false report to conceal his or her own criminal activity;
+12 (E) The false report results in another person being
+13 arrested or having his or her firearms taken from him or her under the
+14 Arkansas Red Flag Law, § 12-15-401 et seq.; or
+15 (F) The false report alleges another person purposely
+16 selected the victim of a crime because the victim was a member of or was
+17 associated with a recognizable and identifiable group or class who share
+18 mental, physical, biological, cultural, political, or religious beliefs or
+19 characteristics, for the purpose of delayed release under § 5-4-405.
+20 (2) Otherwise, filing a false report is a Class A misdemeanor.
+21
+22 SECTION 2. Arkansas Code § 5-73-103 is amended to read as follows:
+23 5-73-103. Possession of firearms by certain persons.
+24 (a) Except as provided in subsection (d) of this section or unless
+25 authorized by and subject to such conditions as prescribed by the Governor,
+26 or his or her designee, or by the United States Bureau of Alcohol, Tobacco,
+27 Firearms, and Explosives, or other bureau or office designated by the United
+28 States Department of Justice, no a person shall not possess or own any a
+29 firearm who has been:
+30 (1) Convicted Has been convicted of a felony;
+31 (2) Adjudicated Has been adjudicated mentally ill; or
+32 (3) Committed Has been committed involuntarily to any mental
+33 institution; or
+34 (4) Is currently restricted from possessing a firearm under the
+35 Arkansas Red Flag Law, § 12-15-401 et seq.
+36 (b)(1) Except as provided in subdivisions (b)(2) and (3) of this
+2 01-16-2025 15:09:40 CEB028
+As Engrossed: H1/16/25 HB1033
+1 section, a determination by a jury or a court that a person committed a
+2 felony constitutes a conviction for purposes of subsection (a) of this
+3 section even though the court suspended imposition of sentence or placed the
+4 defendant on probation.
+5 (2) Subdivision (b)(1) of this section does not apply to a
+6 person whose case was dismissed and expunged or sealed under § 16-93-301 et
+7 seq. or § 16-98-303(g).
+8 (3) The determination by the jury or court that the person
+9 committed a felony does not constitute a conviction for purposes of
+10 subsection (a) of this section if the person is subsequently granted a pardon
+11 explicitly restoring the ability to possess a firearm.
+12 (c)(1) A person who violates subdivisions (a)(1)-(3) of this section
+13 commits a Class B felony if:
+14 (A) The person has a prior violent felony conviction;
+15 (B) The person's current possession of a firearm involves
+16 the commission of another crime; or
+17 (C) The person has been previously convicted under this
+18 section or a similar provision from another jurisdiction.
+19 (2) A person who violates subdivisions (a)(1)-(3) of this
+20 section commits a Class D felony if he or she has been previously convicted
+21 of a felony and his or her present conduct or the prior felony conviction
+22 does not fall within subdivision (c)(1) of this section.
+23 (3) Otherwise, the person commits a violation of this section is
+24 a Class A misdemeanor.
+25 (d) The Governor may restore without granting a pardon the right of a
+26 convicted felon or an adjudicated delinquent to own and possess a firearm
+27 upon the recommendation of the chief law enforcement officer in the
+28 jurisdiction in which the person resides, so long as the underlying felony or
+29 delinquency adjudication:
+30 (1) Did not involve the use of a weapon; and
+31 (2) Occurred more than eight (8) years ago.
+32 (e) As used in this section, “felony” means any state or federal
+33 felony, excluding a federal or state felony offense for which the person
+34 convicted has completed his or her sentence and pertaining to:
+35 (1) An antitrust violation;
+36 (2) An unfair trade practice;
+3 01-16-2025 15:09:40 CEB028
+As Engrossed: H1/16/25 HB1033
+1 (3) Restraint of trade; or
+2 (4) Another offense relating to the regulation of business
+3 practices.
+4
+5 SECTION 3. Arkansas Code Title 12, Chapter 15, is amended to add an
+6 additional subchapter to read as follows:
+7
+8 Subchapter 4 — Arkansas Red Flag Law
+9
+10 12-15-401. Title.
+11 This subchapter shall be known and may be cited as the "Arkansas Red
+12 Flag Law".
+13
+14 12-15-402. Legislative intent.
+15 (a) The intent of this subchapter is to provide for a temporary
+16 restriction of access to a firearm for a person who has demonstrated that he
+17 or she poses a risk of imminent personal injury to himself, herself, or to
+18 another person while providing the person with due process to contest the
+19 restriction if the person can show that he or she does not pose a risk of
+20 imminent personal injury to himself, herself, or to another person.
+21 (b) Further, the General Assembly intends to provide for the return of
+22 any firearm taken into custody to the person from whom the firearm was taken
+23 either after a definite period of time or after the person has shown that he
+24 or she no longer poses a risk of imminent personal injury to himself,
+25 herself, or to another person.
+26
+27 12-15-403. Sworn affidavit required.
+28 (a) Any two (2) certified law enforcement officers may swear under
+29 oath by affidavit to a district court judge or circuit court judge that
+30 probable cause exists to believe that:
+31 (1) A person poses a risk of imminent personal injury to
+32 himself, herself, or to another person; and
+33 (2) The person possesses one (1) or more firearms.
+34 (b) The certified law enforcement officers under subsection (a) of
+35 this section shall not swear under oath by affidavit unless the certified law
+36 enforcement officers have conducted an independent investigation and have
+4 01-16-2025 15:09:40 CEB028
+As Engrossed: H1/16/25 HB1033
+1 determined that probable cause exists as described in subsection (a) of this
+2 section and that there is no reasonable alternative available to prevent the
+3 person from causing imminent personal injury with a firearm to himself,
+4 herself, or to another person.
+5 (c) The independent investigation under this section may be initiated:
+6 (1) In response to an application for an emergency risk
+7 protection order and warrant under § 12-15-404; or
+8 (2) By one (1) or more law enforcement officers if there is a
+9 belief the investigation is warranted.
+10
+11 12-15-404. Filing application and supporting documents.
+12 (a) Any person who believes an emergency risk protection order and
+13 warrant is warranted under this subchapter may file an application under this
+14 section.
+15 (b)(1) An applicant for an emergency risk protection order and warrant
+16 issued under this subchapter shall file a copy of the application for the
+17 emergency risk protection order and warrant and all affidavits upon which the
+18 emergency risk protection order and warrant are based with the clerk of the
+19 district court or circuit court, as applicable.
+20 (2) If an application for an emergency risk protection order and
+21 warrant is filed before obtaining all affidavits upon which the emergency
+22 risk protection order and warrant are based:
+23 (A) The application shall be forwarded to the appropriate
+24 law enforcement officers as determined by the clerk of the district court or
+25 circuit court, as applicable; and
+26 (B) If an independent investigation occurs and results in
+27 the execution of affidavits under § 12-15-403, the affidavits shall be filed
+28 with the clerk of the district court or circuit clerk, as appropriate, and
+29 attached to the application for an emergency risk protection order and
+30 warrant.
+31 (c) Before the execution and return of an emergency risk protection
+32 order and warrant issued under this subchapter, the clerk of the district
+33 court or circuit court, as applicable, shall not disclose any information
+34 pertaining to the application for the emergency risk protection order and
+35 warrant or any affidavits upon which the emergency risk protection order and
+36 warrant are based.
+5 01-16-2025 15:09:40 CEB028
+As Engrossed: H1/16/25 HB1033
+1 (d) An emergency risk protection order and warrant issued under this
+2 subchapter shall be executed and returned with reasonable promptness
+3 consistent with due process of law and shall be accompanied by a written
+4 inventory of all firearms taken into custody.
+5
+6 12-15-405. Issuance of emergency risk protection order and warrant by
+7 judge — Grounds and findings.
+8 (a) A district court judge or circuit court judge may only issue an
+9 emergency risk protection order and warrant under this subchapter if the
+10 sworn affidavit under § 12-15-403 establishes the required grounds for
+11 issuing the emergency risk protection order and warrant.
+12 (b) In determining whether grounds for the emergency risk protection
+13 order and warrant exist or whether there is probable cause to believe the
+14 grounds exist, the district court judge or circuit court judge shall consider
+15 any recent:
+16 (1) Threat or act of violence by the person directed toward
+17 another person; and
+18 (2) Threat or act of violence by the person directed toward
+19 himself or herself.
+20 (c) When evaluating under this section whether the recent threat or
+21 act of violence constitutes probable cause to believe that the person poses a
+22 risk of imminent personal injury to himself, herself, or to another person,
+23 the district court judge or circuit court judge may consider other factors,
+24 including without limitation:
+25 (1) The reckless use, display, or brandishing of a firearm by
+26 the person;
+27 (2) A history of the use, attempted use, or threatened use of
+28 physical force by the person against another person; and
+29 (3) Prior involuntary confinement of the person in a mental
+30 health facility or other medical facility where the person received treatment
+31 for a mental health condition.
+32 (d)(1) If the district court judge or circuit court judge is satisfied
+33 that grounds for the emergency risk protection order and warrant under this
+34 subchapter exist or that there is probable cause to believe that the grounds
+35 exist, the district court judge or circuit court judge shall issue an
+36 emergency risk protection order and warrant naming or describing the person,
+6 01-16-2025 15:09:40 CEB028
+As Engrossed: H1/16/25 HB1033
+1 place, or thing to be searched, and what thing or things shall be seized or
+2 otherwise taken into custody.
+3 (2) If the search results in the discovery of a firearm
+4 possessed by the person who has been shown to pose a risk of imminent
+5 personal injury to himself, herself, or to another person, the law
+6 enforcement agency conducting the search shall take the firearm into custody.
+7
+8 12-15-406. Orders contained in emergency risk protection order and
+9 warrant.
+10 An emergency risk protection order and warrant issued under this
+11 subchapter shall:
+12 (1) Be directed to any certified law enforcement officer;
+13 (2) State the grounds or circumstances constituting probable
+14 cause for issuance of the emergency risk protection order and warrant;
+15 (3) Command the certified law enforcement officer to immediately
+16 search the person, place, or thing named in the emergency risk protection
+17 order and warrant for any firearm; and
+18 (4) Order the certified law enforcement officer to take any
+19 firearm located or discovered into the certified law enforcement officer's
+20 custody.
+21
+22 12-15-407. Copy of emergency risk protection order and warrant to be
+23 given to named person.
+24 A copy of an emergency risk protection order and warrant issued under
+25 this subchapter shall be given to the person named in the emergency risk
+26 protection order and warrant together with a notice informing the person that
+27 he or she has the right to a hearing under this subchapter and the right to
+28 be represented by an attorney at the hearing.
+29
+30 12-15-408. Hearing required.
+31 (a)(1)(A) No later than three (3) days after the execution of an
+32 emergency risk protection order and warrant issued under this subchapter, a
+33 court with jurisdiction shall hold a hearing to determine whether any firearm
+34 taken into custody should be returned to the person named in the emergency
+35 risk protection order and warrant or should continue to be held by the state.
+36 (B) The period of three (3) days under subdivision
+7 01-16-2025 15:09:40 CEB028
+As Engrossed: H1/16/25 HB1033
+1 (a)(1)(A) of this section does not include a Saturday, Sunday, or holiday.
+2 (2)(A) A hearing is not required under this section if the
+3 person from whom the firearm was taken into custody voluntarily forfeits
+4 possession and ownership of the firearm.
+5 (B)(i) A firearm voluntarily forfeited under this
+6 subsection shall be held for thirty (30) days pending a claim of ownership of
+7 the firearm by another person, during which time the person claiming
+8 ownership may file a petition in a court with jurisdiction to determine
+9 whether or not the person claiming ownership is the true owner of the
+10 firearm.
+11 (ii) In a hearing to determine the true ownership of
+12 a firearm under this subdivision (a)(2)(B), the prosecuting attorney shall
+13 represent the law enforcement agency that has custody of the firearm.
+14 (iii) There is no filing fee required to file a
+15 petition under this subdivision (a)(2)(B).
+16 (iv) The court in which a petition is filed under
+17 this subdivision (a)(2)(B) shall return the firearm to the petitioner if the
+18 petitioner can show he or she is the true owner of the firearm by a
+19 preponderance of the evidence.
+20 (C) If after thirty (30) days a petition claiming
+21 ownership of the firearm has not been filed in a court with jurisdiction or
+22 if after a hearing on a petition the court with jurisdiction has determined
+23 that the petitioner has not proven true ownership of the firearm, the law
+24 enforcement agency that took the firearm into custody shall within forty-
+25 eight (48) hours destroy the firearm.
+26 (b) At a hearing under this section, the state shall be represented by
+27 the prosecuting attorney and has the burden of proving all material facts by
+28 clear and convincing evidence.
+29 (c)(1)(A) If, after a hearing under this section, the court finds by
+30 clear and convincing evidence that the person from whom a firearm was taken
+31 into custody poses a risk of imminent personal injury to himself, herself, or
+32 to another person, the court may order that a firearm taken into custody
+33 under this subchapter continue to be held by the state for a period not to
+34 exceed one (1) year.
+35 (B) The person from whom the firearm was taken into
+36 custody may petition the court for the return of the firearm before the one-
+8 01-16-2025 15:09:40 CEB028
+As Engrossed: H1/16/25 HB1033
+1 year period of time has elapsed under § 12-15-410.
+2 (2) If the court does not find by clear and convincing evidence
+3 that the person from whom a firearm was taken into custody poses a risk of
+4 imminent personal injury to himself, herself, or to another person, the court
+5 shall order the firearm taken into custody to be returned to the person named
+6 in the emergency risk protection order and warrant.
+7 (d)(1) If the court finds by clear and convincing evidence that the
+8 person whose firearm has been taken into custody poses a risk of imminent
+9 personal injury to himself, herself, or to another person, the court shall
+10 give notice to the prosecuting attorney and local law enforcement agencies
+11 with jurisdiction that the person may be in need of mental health services or
+12 other medical treatment.
+13 (2)(A) Upon receiving notice under this subsection, the
+14 prosecuting attorney may institute commitment proceedings under § 20-47-201
+15 et seq. or § 20-64-801 et seq. if the prosecuting attorney has not done so
+16 already.
+17 (B) The findings of the court conducting a hearing under
+18 this section may form the required basis and factual predicate for any
+19 subsequent commitment proceeding under § 20-47-201 et seq. or § 20-64-801 et
+20 seq.
+21
+22 12-15-409. Transfer of firearm permitted.
+23 (a) As used in this section, "eligible person" means a person who:
+24 (1) Does not reside with the person whose firearm has been taken
+25 into custody under this subchapter;
+26 (2) Agrees that the firearm shall not be returned to the person
+27 whose firearm has been taken into custody under this subchapter;
+28 (3) Swears under oath that the person whose firearm has been
+29 taken into custody shall not have access to the firearm; and
+30 (4) May lawfully possess the firearm.
+31 (b) A person whose firearm has been taken into custody under this
+32 subchapter, or the person's legal representative, may transfer ownership of
+33 the firearm as provided by law to an eligible person.
+34 (c) Upon written notification to the law enforcement agency, state
+35 agency, court, or other entity in possession of the firearm taken into
+36 custody by the person or the person's legal representative and the eligible
+9 01-16-2025 15:09:40 CEB028
+As Engrossed: H1/16/25 HB1033
+1 person to whom ownership of the firearm was transferred, the law enforcement
+2 agency, state agency, court, or other entity holding the firearm taken into
+3 custody shall deliver within ten (10) days the firearm to the eligible person
+4 to whom ownership of the firearm was transferred.
+5 (d) An eligible person upon conviction is guilty of a Class A
+6 misdemeanor if he or she knowingly permits the person from whom the firearm
+7 was taken under this subchapter to possess or have access to the firearm
+8 after the transfer of ownership of the firearm within one (1) year of the
+9 transfer of the firearm.
+10
+11 12-15-410. Early return of firearm taken into custody.
+12 (a) A person who has had his or her firearm taken into custody under
+13 this subchapter may petition the court with jurisdiction for the early return
+14 of his or her firearm.
+15 (b) A person who has had his or her firearm taken into custody under
+16 this subchapter may not:
+17 (1) File a petition under this section more than two (2) times
+18 within any twelve-month period; or
+19 (2) File a petition under this section until at least four (4)
+20 months have passed since the court found that at that time the person posed a
+21 risk of imminent personal injury to himself, herself, or to another person
+22 and ordered the firearm taken into custody.
+23 (c)(1) There is no filing fee required for the first petition filed by
+24 a person under this section as to a specific emergency risk protection order
+25 and warrant taking the person's firearm into custody.
+26 (2) For a second petition filed under this section as to a
+27 specific emergency risk protection order and warrant taking the person's
+28 firearm into custody, the filing fee shall be as otherwise provided by law.
+29 (d)(1) A person may not file a petition under this section if at the
+30 time of filing he or she:
+31 (A) Is in custody or incarcerated for any reason or was
+32 arrested since an emergency risk protection order and warrant under this
+33 subchapter was issued against him or her for a felony offense or a
+34 misdemeanor offense involving the use of or threat of violence;
+35 (B) Is subject to a protective order under the Domestic
+36 Abuse Act of 1991, § 9-15-101 et seq.; or
+10 01-16-2025 15:09:40 CEB028
+As Engrossed: H1/16/25 HB1033
+1 (C) Has been involuntarily committed under § 20-64-801 et
+2 seq.
+3 (2) A pending petition filed under this section shall be
+4 immediately dismissed by the court without a hearing if, after the date the
+5 petition was filed, the person:
+6 (A) Was arrested for a felony offense or a misdemeanor
+7 offense involving the use of or threat of violence;
+8 (B) Is subject to a protective order under the Domestic
+9 Abuse Act of 1991, § 9-15-101 et seq.; or
+10 (C) Has been voluntarily or involuntarily committed under
+11 § 20-64-801 et seq. or admitted to a crisis intervention unit under the
+12 Behavioral Health Crisis Intervention Protocol Act of 2017, § 20-47-801 et
+13 seq.
+14 (e) The court shall return the firearm taken into custody to the
+15 person from whom the firearm was taken if the person can show by a
+16 preponderance of the evidence that the person no longer poses a risk of
+17 imminent personal injury to himself, herself, or to another person.
+18
+19 12-15-411. Third-party civil liability.
+20 (a) As used in this section, "public employee" means a public employee
+21 employed in a law enforcement, judicial, social work, mental health, or
+22 medical capacity who is trained to identify, diagnose, investigate, or to
+23 intervene in threats to the public.
+24 (b)(1) A person who is not a public employee may be civilly liable to
+25 a person against whom this subchapter is applied if the person who is not a
+26 public employee knowingly makes a false report to a law enforcement agency or
+27 other governmental body with the purpose of improperly depriving the person
+28 against whom this subchapter is applied of his or her lawfully possessed
+29 firearm, including without limitation submitting an application under § 12-
+30 15-404 with the purpose of improperly depriving a person of his or her
+31 lawfully possessed firearm.
+32 (2) Damages in a civil lawsuit under subdivision (b)(1) of this
+33 section are limited to attorney's fees, costs of litigation, and compensatory
+34 damages that result directly from the deprivation of the person's firearm.
+35
+36 /s/McCullough
+11 01-16-2025 15:09:40 CEB028
+[DELETED:  A       A C T P I F   T A O  B  S  5  ( w  ( f o   ( a   ( s k a]
+[DELETED:  H2 0  (    ( C    ( o h t    ( t    ( f    ( a A    ( s a m c   (   S  5  ( a o F S f    (    (    ( i   ( A  (]
+[DELETED:  H3 0 s f s d    ( p s    ( c s e  ( c     (     ( t     ( s    ( s o d    ( a  ( c u j d    (    (  ( f c   (   (]
+[DELETED:  H4 0   (   ( p   S a  S   1  T F   1  ( r o a r i  ( a e o h   1  ( o p   ( h   (  ( t e]
+[DELETED:  H5 0 d s p h  (   ( p   ( b   1  ( w s  ( i e e d   ( w r    ( l c    ( t w a w  ( o c p w w]
+[DELETED:  H6 0  ( s c i   1 j  ( e s i  ( o g a   ( a   ( h  ( a r t i   ( t   ( p   ( h f  ( t s e e]
+[DELETED:  H7 0 p o    ( p p e   1 w  A s   (   ( c   ( s o   ( f c    1 g  A t p h b   1  ( e c t r    (]
+[DELETED:  H8 0 (   ( p p    ( s t o w f     ( a r     ( p     ( t p p    ( o i t e e  ( t c  ( c i t u e    ( c]
+[DELETED:  H9 0 y   ( t i s i  ( p p g w o   ( p e a    ( t s s   1  (   ( i   ( w   ( t   (  ( s t  ( a c]
+[DELETED:  H1 0 p a c t  ( m w a t   1  ( t o  ( t   ( w   ( m r a  ( a a   ( s f  ( t    ( a s m    ( A]
+[DELETED:  H1 0    ( s   ( i p    ( o    ( A    ( § B s  ( p p i   1  ( e m i  ( a p o a f 1 l   ( s d  /]
+
+
+================================================================================
+
+Raw Text:
+Stricken language would be deleted from and underlined language would be added to present law.
+1 State of Arkansas As Engrossed: H1/16/25
+A Bill
+2 95th General Assembly
+3 Regular Session, 2025 HOUSE BILL 1033
+4
+5 Representatives McCullough, A. Collins, D. Garner, Springer
+6
+7
+For An Act To Be Entitled
+8
+9 AN ACT TO BE KNOWN AS THE "ARKANSAS RED FLAG LAW"; TO
+10 CREATE AN EXTREME RISK PROTECTION ORDER AND WARRANT;
+11 TO PROVIDE A RESTRICTION ON ACCESS TO A FIREARM FOR A
+12 PERSON DEEMED TO POSE A RISK OF IMMINENT PERSONAL
+13 INJURY TO HIMSELF OR HERSELF OR TO THE PUBLIC; AND
+14 FOR OTHER PURPOSES.
+15
+16
+Subtitle
+17
+18 TO CREATE THE "ARKANSAS RED FLAG LAW";
+19 AND TO CREATE AN EXTREME RISK PROTECTION
+20 ORDER AND WARRANT.
+21
+22 BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF ARKANSAS:
+23
+24 SECTION 1. Arkansas Code § 5-54-122 is amended to read as follows:
+25 5-54-122. Filing false report with law enforcement agency.
+26 (a) As used in this section, “report” means any communication, either
+27 written or oral, sworn or unsworn.
+28 (b) A person commits the offense of filing a false report if he or she
+29 files a report with any law enforcement agency or prosecuting attorney's
+30 office of:
+31 (1) any alleged Alleged criminal wrongdoing on the part of
+32 another person knowing that the report is false; or
+33 (2) Conduct by another person that the reporting person alleges
+34 should be investigated under the Arkansas Red Flag Law, § 12-15-401 et seq.,
+35 knowing that the report to the law enforcement agency or prosecuting
+36 attorney's office is false.
+*CEB028*
+01-16-2025 15:09:40 CEB028
+
+As Engrossed: H1/16/25 HB1033
+1 (c)(1) Filing a false report is a Class D felony if:
+2 (A) The alleged criminal wrongdoing is a capital offense,
+3 Class Y felony, Class A felony, or Class B felony;
+4 (B) The law enforcement agency or prosecuting attorney's
+5 office to whom the false report is made has expended in excess of five
+6 hundred dollars ($500) in order to investigate the false report, including
+7 the costs of labor;
+8 (C) Physical injury results to any person as a result of
+9 the false report;
+10 (D) The false report is made in an effort by the person
+11 filing the false report to conceal his or her own criminal activity;
+12 (E) The false report results in another person being
+13 arrested or having his or her firearms taken from him or her under the
+14 Arkansas Red Flag Law, § 12-15-401 et seq.; or
+15 (F) The false report alleges another person purposely
+16 selected the victim of a crime because the victim was a member of or was
+17 associated with a recognizable and identifiable group or class who share
+18 mental, physical, biological, cultural, political, or religious beliefs or
+19 characteristics, for the purpose of delayed release under § 5-4-405.
+20 (2) Otherwise, filing a false report is a Class A misdemeanor.
+21
+22 SECTION 2. Arkansas Code § 5-73-103 is amended to read as follows:
+23 5-73-103. Possession of firearms by certain persons.
+24 (a) Except as provided in subsection (d) of this section or unless
+25 authorized by and subject to such conditions as prescribed by the Governor,
+26 or his or her designee, or by the United States Bureau of Alcohol, Tobacco,
+27 Firearms, and Explosives, or other bureau or office designated by the United
+28 States Department of Justice, no a person shall not possess or own any a
+29 firearm who has been:
+30 (1) Convicted Has been convicted of a felony;
+31 (2) Adjudicated Has been adjudicated mentally ill; or
+32 (3) Committed Has been committed involuntarily to any mental
+33 institution; or
+34 (4) Is currently restricted from possessing a firearm under the
+35 Arkansas Red Flag Law, § 12-15-401 et seq.
+36 (b)(1) Except as provided in subdivisions (b)(2) and (3) of this
+2 01-16-2025 15:09:40 CEB028
+
+As Engrossed: H1/16/25 HB1033
+1 section, a determination by a jury or a court that a person committed a
+2 felony constitutes a conviction for purposes of subsection (a) of this
+3 section even though the court suspended imposition of sentence or placed the
+4 defendant on probation.
+5 (2) Subdivision (b)(1) of this section does not apply to a
+6 person whose case was dismissed and expunged or sealed under § 16-93-301 et
+7 seq. or § 16-98-303(g).
+8 (3) The determination by the jury or court that the person
+9 committed a felony does not constitute a conviction for purposes of
+10 subsection (a) of this section if the person is subsequently granted a pardon
+11 explicitly restoring the ability to possess a firearm.
+12 (c)(1) A person who violates subdivisions (a)(1)-(3) of this section
+13 commits a Class B felony if:
+14 (A) The person has a prior violent felony conviction;
+15 (B) The person's current possession of a firearm involves
+16 the commission of another crime; or
+17 (C) The person has been previously convicted under this
+18 section or a similar provision from another jurisdiction.
+19 (2) A person who violates subdivisions (a)(1)-(3) of this
+20 section commits a Class D felony if he or she has been previously convicted
+21 of a felony and his or her present conduct or the prior felony conviction
+22 does not fall within subdivision (c)(1) of this section.
+23 (3) Otherwise, the person commits a violation of this section is
+24 a Class A misdemeanor.
+25 (d) The Governor may restore without granting a pardon the right of a
+26 convicted felon or an adjudicated delinquent to own and possess a firearm
+27 upon the recommendation of the chief law enforcement officer in the
+28 jurisdiction in which the person resides, so long as the underlying felony or
+29 delinquency adjudication:
+30 (1) Did not involve the use of a weapon; and
+31 (2) Occurred more than eight (8) years ago.
+32 (e) As used in this section, “felony” means any state or federal
+33 felony, excluding a federal or state felony offense for which the person
+34 convicted has completed his or her sentence and pertaining to:
+35 (1) An antitrust violation;
+36 (2) An unfair trade practice;
+3 01-16-2025 15:09:40 CEB028
+
+As Engrossed: H1/16/25 HB1033
+1 (3) Restraint of trade; or
+2 (4) Another offense relating to the regulation of business
+3 practices.
+4
+5 SECTION 3. Arkansas Code Title 12, Chapter 15, is amended to add an
+6 additional subchapter to read as follows:
+7
+8 Subchapter 4 — Arkansas Red Flag Law
+9
+10 12-15-401. Title.
+11 This subchapter shall be known and may be cited as the "Arkansas Red
+12 Flag Law".
+13
+14 12-15-402. Legislative intent.
+15 (a) The intent of this subchapter is to provide for a temporary
+16 restriction of access to a firearm for a person who has demonstrated that he
+17 or she poses a risk of imminent personal injury to himself, herself, or to
+18 another person while providing the person with due process to contest the
+19 restriction if the person can show that he or she does not pose a risk of
+20 imminent personal injury to himself, herself, or to another person.
+21 (b) Further, the General Assembly intends to provide for the return of
+22 any firearm taken into custody to the person from whom the firearm was taken
+23 either after a definite period of time or after the person has shown that he
+24 or she no longer poses a risk of imminent personal injury to himself,
+25 herself, or to another person.
+26
+27 12-15-403. Sworn affidavit required.
+28 (a) Any two (2) certified law enforcement officers may swear under
+29 oath by affidavit to a district court judge or circuit court judge that
+30 probable cause exists to believe that:
+31 (1) A person poses a risk of imminent personal injury to
+32 himself, herself, or to another person; and
+33 (2) The person possesses one (1) or more firearms.
+34 (b) The certified law enforcement officers under subsection (a) of
+35 this section shall not swear under oath by affidavit unless the certified law
+36 enforcement officers have conducted an independent investigation and have
+4 01-16-2025 15:09:40 CEB028
+
+As Engrossed: H1/16/25 HB1033
+1 determined that probable cause exists as described in subsection (a) of this
+2 section and that there is no reasonable alternative available to prevent the
+3 person from causing imminent personal injury with a firearm to himself,
+4 herself, or to another person.
+5 (c) The independent investigation under this section may be initiated:
+6 (1) In response to an application for an emergency risk
+7 protection order and warrant under § 12-15-404; or
+8 (2) By one (1) or more law enforcement officers if there is a
+9 belief the investigation is warranted.
+10
+11 12-15-404. Filing application and supporting documents.
+12 (a) Any person who believes an emergency risk protection order and
+13 warrant is warranted under this subchapter may file an application under this
+14 section.
+15 (b)(1) An applicant for an emergency risk protection order and warrant
+16 issued under this subchapter shall file a copy of the application for the
+17 emergency risk protection order and warrant and all affidavits upon which the
+18 emergency risk protection order and warrant are based with the clerk of the
+19 district court or circuit court, as applicable.
+20 (2) If an application for an emergency risk protection order and
+21 warrant is filed before obtaining all affidavits upon which the emergency
+22 risk protection order and warrant are based:
+23 (A) The application shall be forwarded to the appropriate
+24 law enforcement officers as determined by the clerk of the district court or
+25 circuit court, as applicable; and
+26 (B) If an independent investigation occurs and results in
+27 the execution of affidavits under § 12-15-403, the affidavits shall be filed
+28 with the clerk of the district court or circuit clerk, as appropriate, and
+29 attached to the application for an emergency risk protection order and
+30 warrant.
+31 (c) Before the execution and return of an emergency risk protection
+32 order and warrant issued under this subchapter, the clerk of the district
+33 court or circuit court, as applicable, shall not disclose any information
+34 pertaining to the application for the emergency risk protection order and
+35 warrant or any affidavits upon which the emergency risk protection order and
+36 warrant are based.
+5 01-16-2025 15:09:40 CEB028
+
+As Engrossed: H1/16/25 HB1033
+1 (d) An emergency risk protection order and warrant issued under this
+2 subchapter shall be executed and returned with reasonable promptness
+3 consistent with due process of law and shall be accompanied by a written
+4 inventory of all firearms taken into custody.
+5
+6 12-15-405. Issuance of emergency risk protection order and warrant by
+7 judge — Grounds and findings.
+8 (a) A district court judge or circuit court judge may only issue an
+9 emergency risk protection order and warrant under this subchapter if the
+10 sworn affidavit under § 12-15-403 establishes the required grounds for
+11 issuing the emergency risk protection order and warrant.
+12 (b) In determining whether grounds for the emergency risk protection
+13 order and warrant exist or whether there is probable cause to believe the
+14 grounds exist, the district court judge or circuit court judge shall consider
+15 any recent:
+16 (1) Threat or act of violence by the person directed toward
+17 another person; and
+18 (2) Threat or act of violence by the person directed toward
+19 himself or herself.
+20 (c) When evaluating under this section whether the recent threat or
+21 act of violence constitutes probable cause to believe that the person poses a
+22 risk of imminent personal injury to himself, herself, or to another person,
+23 the district court judge or circuit court judge may consider other factors,
+24 including without limitation:
+25 (1) The reckless use, display, or brandishing of a firearm by
+26 the person;
+27 (2) A history of the use, attempted use, or threatened use of
+28 physical force by the person against another person; and
+29 (3) Prior involuntary confinement of the person in a mental
+30 health facility or other medical facility where the person received treatment
+31 for a mental health condition.
+32 (d)(1) If the district court judge or circuit court judge is satisfied
+33 that grounds for the emergency risk protection order and warrant under this
+34 subchapter exist or that there is probable cause to believe that the grounds
+35 exist, the district court judge or circuit court judge shall issue an
+36 emergency risk protection order and warrant naming or describing the person,
+6 01-16-2025 15:09:40 CEB028
+
+As Engrossed: H1/16/25 HB1033
+1 place, or thing to be searched, and what thing or things shall be seized or
+2 otherwise taken into custody.
+3 (2) If the search results in the discovery of a firearm
+4 possessed by the person who has been shown to pose a risk of imminent
+5 personal injury to himself, herself, or to another person, the law
+6 enforcement agency conducting the search shall take the firearm into custody.
+7
+8 12-15-406. Orders contained in emergency risk protection order and
+9 warrant.
+10 An emergency risk protection order and warrant issued under this
+11 subchapter shall:
+12 (1) Be directed to any certified law enforcement officer;
+13 (2) State the grounds or circumstances constituting probable
+14 cause for issuance of the emergency risk protection order and warrant;
+15 (3) Command the certified law enforcement officer to immediately
+16 search the person, place, or thing named in the emergency risk protection
+17 order and warrant for any firearm; and
+18 (4) Order the certified law enforcement officer to take any
+19 firearm located or discovered into the certified law enforcement officer's
+20 custody.
+21
+22 12-15-407. Copy of emergency risk protection order and warrant to be
+23 given to named person.
+24 A copy of an emergency risk protection order and warrant issued under
+25 this subchapter shall be given to the person named in the emergency risk
+26 protection order and warrant together with a notice informing the person that
+27 he or she has the right to a hearing under this subchapter and the right to
+28 be represented by an attorney at the hearing.
+29
+30 12-15-408. Hearing required.
+31 (a)(1)(A) No later than three (3) days after the execution of an
+32 emergency risk protection order and warrant issued under this subchapter, a
+33 court with jurisdiction shall hold a hearing to determine whether any firearm
+34 taken into custody should be returned to the person named in the emergency
+35 risk protection order and warrant or should continue to be held by the state.
+36 (B) The period of three (3) days under subdivision
+7 01-16-2025 15:09:40 CEB028
+
+As Engrossed: H1/16/25 HB1033
+1 (a)(1)(A) of this section does not include a Saturday, Sunday, or holiday.
+2 (2)(A) A hearing is not required under this section if the
+3 person from whom the firearm was taken into custody voluntarily forfeits
+4 possession and ownership of the firearm.
+5 (B)(i) A firearm voluntarily forfeited under this
+6 subsection shall be held for thirty (30) days pending a claim of ownership of
+7 the firearm by another person, during which time the person claiming
+8 ownership may file a petition in a court with jurisdiction to determine
+9 whether or not the person claiming ownership is the true owner of the
+10 firearm.
+11 (ii) In a hearing to determine the true ownership of
+12 a firearm under this subdivision (a)(2)(B), the prosecuting attorney shall
+13 represent the law enforcement agency that has custody of the firearm.
+14 (iii) There is no filing fee required to file a
+15 petition under this subdivision (a)(2)(B).
+16 (iv) The court in which a petition is filed under
+17 this subdivision (a)(2)(B) shall return the firearm to the petitioner if the
+18 petitioner can show he or she is the true owner of the firearm by a
+19 preponderance of the evidence.
+20 (C) If after thirty (30) days a petition claiming
+21 ownership of the firearm has not been filed in a court with jurisdiction or
+22 if after a hearing on a petition the court with jurisdiction has determined
+23 that the petitioner has not proven true ownership of the firearm, the law
+24 enforcement agency that took the firearm into custody shall within forty-
+25 eight (48) hours destroy the firearm.
+26 (b) At a hearing under this section, the state shall be represented by
+27 the prosecuting attorney and has the burden of proving all material facts by
+28 clear and convincing evidence.
+29 (c)(1)(A) If, after a hearing under this section, the court finds by
+30 clear and convincing evidence that the person from whom a firearm was taken
+31 into custody poses a risk of imminent personal injury to himself, herself, or
+32 to another person, the court may order that a firearm taken into custody
+33 under this subchapter continue to be held by the state for a period not to
+34 exceed one (1) year.
+35 (B) The person from whom the firearm was taken into
+36 custody may petition the court for the return of the firearm before the one-
+8 01-16-2025 15:09:40 CEB028
+
+As Engrossed: H1/16/25 HB1033
+1 year period of time has elapsed under § 12-15-410.
+2 (2) If the court does not find by clear and convincing evidence
+3 that the person from whom a firearm was taken into custody poses a risk of
+4 imminent personal injury to himself, herself, or to another person, the court
+5 shall order the firearm taken into custody to be returned to the person named
+6 in the emergency risk protection order and warrant.
+7 (d)(1) If the court finds by clear and convincing evidence that the
+8 person whose firearm has been taken into custody poses a risk of imminent
+9 personal injury to himself, herself, or to another person, the court shall
+10 give notice to the prosecuting attorney and local law enforcement agencies
+11 with jurisdiction that the person may be in need of mental health services or
+12 other medical treatment.
+13 (2)(A) Upon receiving notice under this subsection, the
+14 prosecuting attorney may institute commitment proceedings under § 20-47-201
+15 et seq. or § 20-64-801 et seq. if the prosecuting attorney has not done so
+16 already.
+17 (B) The findings of the court conducting a hearing under
+18 this section may form the required basis and factual predicate for any
+19 subsequent commitment proceeding under § 20-47-201 et seq. or § 20-64-801 et
+20 seq.
+21
+22 12-15-409. Transfer of firearm permitted.
+23 (a) As used in this section, "eligible person" means a person who:
+24 (1) Does not reside with the person whose firearm has been taken
+25 into custody under this subchapter;
+26 (2) Agrees that the firearm shall not be returned to the person
+27 whose firearm has been taken into custody under this subchapter;
+28 (3) Swears under oath that the person whose firearm has been
+29 taken into custody shall not have access to the firearm; and
+30 (4) May lawfully possess the firearm.
+31 (b) A person whose firearm has been taken into custody under this
+32 subchapter, or the person's legal representative, may transfer ownership of
+33 the firearm as provided by law to an eligible person.
+34 (c) Upon written notification to the law enforcement agency, state
+35 agency, court, or other entity in possession of the firearm taken into
+36 custody by the person or the person's legal representative and the eligible
+9 01-16-2025 15:09:40 CEB028
+
+As Engrossed: H1/16/25 HB1033
+1 person to whom ownership of the firearm was transferred, the law enforcement
+2 agency, state agency, court, or other entity holding the firearm taken into
+3 custody shall deliver within ten (10) days the firearm to the eligible person
+4 to whom ownership of the firearm was transferred.
+5 (d) An eligible person upon conviction is guilty of a Class A
+6 misdemeanor if he or she knowingly permits the person from whom the firearm
+7 was taken under this subchapter to possess or have access to the firearm
+8 after the transfer of ownership of the firearm within one (1) year of the
+9 transfer of the firearm.
+10
+11 12-15-410. Early return of firearm taken into custody.
+12 (a) A person who has had his or her firearm taken into custody under
+13 this subchapter may petition the court with jurisdiction for the early return
+14 of his or her firearm.
+15 (b) A person who has had his or her firearm taken into custody under
+16 this subchapter may not:
+17 (1) File a petition under this section more than two (2) times
+18 within any twelve-month period; or
+19 (2) File a petition under this section until at least four (4)
+20 months have passed since the court found that at that time the person posed a
+21 risk of imminent personal injury to himself, herself, or to another person
+22 and ordered the firearm taken into custody.
+23 (c)(1) There is no filing fee required for the first petition filed by
+24 a person under this section as to a specific emergency risk protection order
+25 and warrant taking the person's firearm into custody.
+26 (2) For a second petition filed under this section as to a
+27 specific emergency risk protection order and warrant taking the person's
+28 firearm into custody, the filing fee shall be as otherwise provided by law.
+29 (d)(1) A person may not file a petition under this section if at the
+30 time of filing he or she:
+31 (A) Is in custody or incarcerated for any reason or was
+32 arrested since an emergency risk protection order and warrant under this
+33 subchapter was issued against him or her for a felony offense or a
+34 misdemeanor offense involving the use of or threat of violence;
+35 (B) Is subject to a protective order under the Domestic
+36 Abuse Act of 1991, § 9-15-101 et seq.; or
+10 01-16-2025 15:09:40 CEB028
+
+As Engrossed: H1/16/25 HB1033
+1 (C) Has been involuntarily committed under § 20-64-801 et
+2 seq.
+3 (2) A pending petition filed under this section shall be
+4 immediately dismissed by the court without a hearing if, after the date the
+5 petition was filed, the person:
+6 (A) Was arrested for a felony offense or a misdemeanor
+7 offense involving the use of or threat of violence;
+8 (B) Is subject to a protective order under the Domestic
+9 Abuse Act of 1991, § 9-15-101 et seq.; or
+10 (C) Has been voluntarily or involuntarily committed under
+11 § 20-64-801 et seq. or admitted to a crisis intervention unit under the
+12 Behavioral Health Crisis Intervention Protocol Act of 2017, § 20-47-801 et
+13 seq.
+14 (e) The court shall return the firearm taken into custody to the
+15 person from whom the firearm was taken if the person can show by a
+16 preponderance of the evidence that the person no longer poses a risk of
+17 imminent personal injury to himself, herself, or to another person.
+18
+19 12-15-411. Third-party civil liability.
+20 (a) As used in this section, "public employee" means a public employee
+21 employed in a law enforcement, judicial, social work, mental health, or
+22 medical capacity who is trained to identify, diagnose, investigate, or to
+23 intervene in threats to the public.
+24 (b)(1) A person who is not a public employee may be civilly liable to
+25 a person against whom this subchapter is applied if the person who is not a
+26 public employee knowingly makes a false report to a law enforcement agency or
+27 other governmental body with the purpose of improperly depriving the person
+28 against whom this subchapter is applied of his or her lawfully possessed
+29 firearm, including without limitation submitting an application under § 12-
+30 15-404 with the purpose of improperly depriving a person of his or her
+31 lawfully possessed firearm.
+32 (2) Damages in a civil lawsuit under subdivision (b)(1) of this
+33 section are limited to attorney's fees, costs of litigation, and compensatory
+34 damages that result directly from the deprivation of the person's firearm.
+35
+36 /s/McCullough
+11 01-16-2025 15:09:40 CEB028
+
+[DELETED:  A       A C T P I F   T A O  B  S  5  ( w  ( f o   ( a   ( s k a]
+[DELETED:  H2 0  (    ( C    ( o h t    ( t    ( f    ( a A    ( s a m c   (   S  5  ( a o F S f    (    (    ( i   ( A  (]
+[DELETED:  H3 0 s f s d    ( p s    ( c s e  ( c     (     ( t     ( s    ( s o d    ( a  ( c u j d    (    (  ( f c   (   (]
+[DELETED:  H4 0   (   ( p   S a  S   1  T F   1  ( r o a r i  ( a e o h   1  ( o p   ( h   (  ( t e]
+[DELETED:  H5 0 d s p h  (   ( p   ( b   1  ( w s  ( i e e d   ( w r    ( l c    ( t w a w  ( o c p w w]
+[DELETED:  H6 0  ( s c i   1 j  ( e s i  ( o g a   ( a   ( h  ( a r t i   ( t   ( p   ( h f  ( t s e e]
+[DELETED:  H7 0 p o    ( p p e   1 w  A s   (   ( c   ( s o   ( f c    1 g  A t p h b   1  ( e c t r    (]
+[DELETED:  H8 0 (   ( p p    ( s t o w f     ( a r     ( p     ( t p p    ( o i t e e  ( t c  ( c i t u e    ( c]
+[DELETED:  H9 0 y   ( t i s i  ( p p g w o   ( p e a    ( t s s   1  (   ( i   ( w   ( t   (  ( s t  ( a c]
+[DELETED:  H1 0 p a c t  ( m w a t   1  ( t o  ( t   ( w   ( m r a  ( a a   ( s f  ( t    ( a s m    ( A]
+[DELETED:  H1 0    ( s   ( i p    ( o    ( A    ( § B s  ( p p i   1  ( e m i  ( a p o a f 1 l   ( s d  /]

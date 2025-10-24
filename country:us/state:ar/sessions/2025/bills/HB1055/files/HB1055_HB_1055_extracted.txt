@@ -1,0 +1,180 @@
+Title: Stricken language would be deleted from and underlined language would be added to present law.
+Official Title: Stricken language would be deleted from and underlined language would be added to present law.
+Number of Sections: 1
+Source: versions - HB 1055
+Media Type: application/pdf
+Strikethrough Detection: 2 sections found
+
+================================================================================
+
+Section 1:
+1 State of Arkansas As Engrossed: H1/30/25
+A Bill
+2 95th General Assembly
+3 Regular Session, 2025 HOUSE BILL 1055
+4
+5 By: Representatives J. Mayberry, Rye, Breaux, Springer
+6 By: Senators C. Penzo, F. Love
+7
+For An Act To Be Entitled
+8
+9 AN ACT TO ESTABLISH COVERAGE DIAGNOSIS AND TREATMENT
+10 TO SLOW THE PROGRESSION OF ALZHEIMER'S DISEASE OR
+11 OTHER DEMENTIA-RELATED DISEASE UNDER THE STATE AND
+12 PUBLIC SCHOOL LIFE AND HEALTH INSURANCE PROGRAM; AND
+13 FOR OTHER PURPOSES.
+14
+15
+Subtitle
+16
+17 TO ESTABLISH COVERAGE DIAGNOSIS AND
+18 TREATMENT TO SLOW THE PROGRESSION OF
+19 ALZHEIMER'S DISEASE OR OTHER DEMENTIA-
+20 RELATED DISEASE UNDER THE STATE AND
+21 PUBLIC SCHOOL LIFE AND HEALTH INSURANCE
+22 PROGRAM.
+23
+24 BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF ARKANSAS:
+25
+26 SECTION 1. Arkansas Code Title 21, Chapter 5, Subchapter 4, is amended
+27 to add an additional section to read as follows:
+28 21-5-425. Coverage for diagnosis and treatment of Alzheimer's disease
+29 or other dementia-related disease — Legislative findings and intent — Rules.
+30 (a) The General Assembly finds that:
+31 (1) Alzheimer's disease is the seventh leading cause of death in
+32 Arkansas according to the Centers for Disease Control and Prevention;
+33 (2) The cost of managing the complications of late-stage
+34 Alzheimer's disease, largely due to delayed diagnosis and access to
+35 treatment, outweighs the cost of expeditious and effective treatment;
+36 (3) The diagnosis and treatment of Alzheimer's disease or other
+*ANS058*
+01-30-2025 10:13:32 ANS058
+As Engrossed: H1/30/25 HB1055
+1 dementia-related disease should be a clinical decision made by a physician
+2 based on evidence-based guidelines; and
+3 (4) The United States Food and Drug Administration has granted
+4 approval for treatments of patients in the early stages of Alzheimer's
+5 disease.
+6 (b) It is the intent of the General Assembly to provide coverage for
+7 the diagnosis and treatment of Alzheimer's disease or other dementia-related
+8 disease.
+9 (c) Each state employee's and public school employee's health benefit
+10 plan under the State and Public School Life and Health Insurance Program that
+11 is offered, issued, or renewed on or after January 1, 2026, shall offer
+12 coverage for the diagnosis and treatment of Alzheimer's disease or other
+13 dementia-related disease as determined by a physician licensed to practice
+14 medicine in this state and according to the standards or guidance established
+15 by the United States Food and Drug Administration.
+16 (d) The coverage and treatment of Alzheimer's disease or other
+17 dementia-related disease offered under subsection (c) of this section shall:
+18 (1) Be a treatment or medication that has been approved by the
+19 United States Food and Drug Administration to treat or slow the progression
+20 of Alzheimer's disease or other dementia-related disease;
+21 (2) Include without limitation:
+22 (A) Any diagnostic testing that is necessary for a
+23 physician to determine the appropriate use of treatments and medications
+24 under subdivision (d)(1) of this section; and
+25 (B) All treatments or medications prescribed to slow the
+26 progression of Alzheimer's disease or other dementia-related disease; and
+27 (3) Not be subject to step therapy protocols.
+28 (e) The State Board of Finance may promulgate rules to implement this
+29 section.
+30
+31 /s/J. Mayberry
+32
+33
+34
+35
+36
+2 01-30-2025 10:13:32 ANS058
+[DELETED:  A     EBL1   A T O P F   T T A R P P  B   S t  2 o  (   ( A   ( A t   (]
+[DELETED:  H2 0 d b   ( a d  ( t d  ( p i c d m b  ( d   ( U o   (    ( p u    ( p   (  ( s  /     ]
+
+
+================================================================================
+
+Raw Text:
+Stricken language would be deleted from and underlined language would be added to present law.
+1 State of Arkansas As Engrossed: H1/30/25
+A Bill
+2 95th General Assembly
+3 Regular Session, 2025 HOUSE BILL 1055
+4
+5 By: Representatives J. Mayberry, Rye, Breaux, Springer
+6 By: Senators C. Penzo, F. Love
+7
+For An Act To Be Entitled
+8
+9 AN ACT TO ESTABLISH COVERAGE DIAGNOSIS AND TREATMENT
+10 TO SLOW THE PROGRESSION OF ALZHEIMER'S DISEASE OR
+11 OTHER DEMENTIA-RELATED DISEASE UNDER THE STATE AND
+12 PUBLIC SCHOOL LIFE AND HEALTH INSURANCE PROGRAM; AND
+13 FOR OTHER PURPOSES.
+14
+15
+Subtitle
+16
+17 TO ESTABLISH COVERAGE DIAGNOSIS AND
+18 TREATMENT TO SLOW THE PROGRESSION OF
+19 ALZHEIMER'S DISEASE OR OTHER DEMENTIA-
+20 RELATED DISEASE UNDER THE STATE AND
+21 PUBLIC SCHOOL LIFE AND HEALTH INSURANCE
+22 PROGRAM.
+23
+24 BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF ARKANSAS:
+25
+26 SECTION 1. Arkansas Code Title 21, Chapter 5, Subchapter 4, is amended
+27 to add an additional section to read as follows:
+28 21-5-425. Coverage for diagnosis and treatment of Alzheimer's disease
+29 or other dementia-related disease — Legislative findings and intent — Rules.
+30 (a) The General Assembly finds that:
+31 (1) Alzheimer's disease is the seventh leading cause of death in
+32 Arkansas according to the Centers for Disease Control and Prevention;
+33 (2) The cost of managing the complications of late-stage
+34 Alzheimer's disease, largely due to delayed diagnosis and access to
+35 treatment, outweighs the cost of expeditious and effective treatment;
+36 (3) The diagnosis and treatment of Alzheimer's disease or other
+*ANS058*
+01-30-2025 10:13:32 ANS058
+
+As Engrossed: H1/30/25 HB1055
+1 dementia-related disease should be a clinical decision made by a physician
+2 based on evidence-based guidelines; and
+3 (4) The United States Food and Drug Administration has granted
+4 approval for treatments of patients in the early stages of Alzheimer's
+5 disease.
+6 (b) It is the intent of the General Assembly to provide coverage for
+7 the diagnosis and treatment of Alzheimer's disease or other dementia-related
+8 disease.
+9 (c) Each state employee's and public school employee's health benefit
+10 plan under the State and Public School Life and Health Insurance Program that
+11 is offered, issued, or renewed on or after January 1, 2026, shall offer
+12 coverage for the diagnosis and treatment of Alzheimer's disease or other
+13 dementia-related disease as determined by a physician licensed to practice
+14 medicine in this state and according to the standards or guidance established
+15 by the United States Food and Drug Administration.
+16 (d) The coverage and treatment of Alzheimer's disease or other
+17 dementia-related disease offered under subsection (c) of this section shall:
+18 (1) Be a treatment or medication that has been approved by the
+19 United States Food and Drug Administration to treat or slow the progression
+20 of Alzheimer's disease or other dementia-related disease;
+21 (2) Include without limitation:
+22 (A) Any diagnostic testing that is necessary for a
+23 physician to determine the appropriate use of treatments and medications
+24 under subdivision (d)(1) of this section; and
+25 (B) All treatments or medications prescribed to slow the
+26 progression of Alzheimer's disease or other dementia-related disease; and
+27 (3) Not be subject to step therapy protocols.
+28 (e) The State Board of Finance may promulgate rules to implement this
+29 section.
+30
+31 /s/J. Mayberry
+32
+33
+34
+35
+36
+2 01-30-2025 10:13:32 ANS058
+
+[DELETED:  A     EBL1   A T O P F   T T A R P P  B   S t  2 o  (   ( A   ( A t   (]
+[DELETED:  H2 0 d b   ( a d  ( t d  ( p i c d m b  ( d   ( U o   (    ( p u    ( p   (  ( s  /     ]

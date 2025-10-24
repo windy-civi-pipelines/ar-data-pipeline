@@ -1,0 +1,575 @@
+Title: Stricken language would be deleted from and underlined language would be added to present law.
+Official Title: Stricken language would be deleted from and underlined language would be added to present law.
+Number of Sections: 1
+Source: versions - HB 1036
+Media Type: application/pdf
+Strikethrough Detection: 7 sections found
+
+================================================================================
+
+Section 1:
+1 State of Arkansas As Engrossed: H1/16/25
+A Bill
+2 95th General Assembly
+3 Regular Session, 2025 HOUSE BILL 1036
+4
+5 Representatives A. Collins, Ennett, D. Garner, Springer, Gonzales Worthen
+6
+7
+For An Act To Be Entitled
+8
+9 AN ACT TO AMEND THE LAW CONCERNING VOTER
+10 REGISTRATION; TO ALLOW VOTER REGISTRATION DURING
+11 EARLY VOTING AND ON ELECTION DAY; TO AMEND PROVISIONS
+12 OF ARKANSAS CONSTITUTION, AMENDMENT 51, UNDER THE
+13 AUTHORITY OF ARKANSAS CONSTITUTION, AMENDMENT 51, §
+14 19; AND FOR OTHER PURPOSES.
+15
+16
+Subtitle
+17
+18 TO AMEND THE LAW CONCERNING VOTER
+19 REGISTRATION; TO ALLOW VOTER
+20 REGISTRATION DURING EARLY VOTING AND ON
+21 ELECTION DAY; AND TO AMEND PROVISIONS OF
+22 ARKANSAS CONSTITUTION, AMENDMENT 51.
+23
+24 BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF ARKANSAS:
+25
+26 SECTION 1. Under the authority granted by Arkansas Constitution,
+27 Amendment 51, § 19, Arkansas Constitution, Amendment 51, § 6(a)(2)(G),
+28 concerning statements informing voter registration applicants, is amended to
+29 read as follows:
+30 (G) Inform the applicant that if the voter registration
+31 application is being collected by a third-party voter registration
+32 organization, the third-party voter registration organization may be unable
+33 to deliver the application to the permanent registrar in the county in which
+34 the applicant resides before the thirty-day pre-election voter registration
+35 deadline under Arkansas Constitution, Amendment 51, § 9(b)(1) to vote in the
+36 next election and that the applicant may elect to deliver the application in
+*SSS016*
+01-16-2025 16:17:50 SSS016
+As Engrossed: H1/16/25 HB1036
+1 person or by mail; and
+2
+3 SECTION 2. Under the authority granted by Arkansas Constitution,
+4 Amendment 51, § 19, Arkansas Constitution, Amendment 51, § 8(a), concerning
+5 the processing of voter registration applications, is amended to read as
+6 follows:
+7 (a)(1) The Office of Driver Services, State Revenue Offices state
+8 revenue offices, public assistance agencies, disabilities agencies, and other
+9 voter registration agencies shall transmit all completed voter registration
+10 applications to the Secretary of State in sufficient time to allow the
+11 Secretary of State to transmit the applications to the appropriate permanent
+12 registrar no later than ten (10) days after the date of acceptance by the
+13 assisting agency. When applications are accepted within five (5) days before
+14 the last day of for an election under Arkansas Constitution, Amendment 51, §
+15 9(b)(1), they must be transmitted no later than five (5) days after the date
+16 of acceptance at the assisting agency.
+17 (2) The Secretary of State shall transmit all mail voter
+18 registration applications to the appropriate permanent registrar no later
+19 than ten (10) days after the date of receipt. When applications are received
+20 within five (5) days before the last day of pre-election registration for an
+21 election under Arkansas Constitution, Amendment 51, § 9(b)(1), they must be
+22 transmitted no later than five (5) days after date of receipt. If forms are
+23 received by the wrong election office, they shall be forwarded to the
+24 appropriate permanent registrar not later than the fifth day after receipt.
+25
+26 SECTION 3. Under the authority granted by Arkansas Constitution,
+27 Amendment 51, § 19, Arkansas Constitution, Amendment 51, § 9(b), concerning
+28 the voter registration deadline, is amended to read as follows:
+29 (b)(1) Except as otherwise provided in subdivision (b)(2) of this
+30 section, Registration registration shall be in progress at all times except
+31 during the thirty-day period immediately prior to any election scheduled
+32 within the county, during which period registration of voters shall cease for
+33 that election, but registration during such period shall be effective for
+34 subsequent elections.
+35 (2) Registration shall be permitted:
+36 (A) During early voting for a person appearing in person
+2 01-16-2025 16:17:50 SSS016
+As Engrossed: H1/16/25 HB1036
+1 at an early voting location; and
+2 (B) On election day for a person appearing in person at a
+3 polling site or a vote center established in his or her county of residence.
+4
+5 SECTION 4. Under the authority granted by Arkansas Constitution,
+6 Amendment 51, § 19, Arkansas Constitution, Amendment 51, § 9(c)(2),
+7 concerning voter registration submitted to the permanent registrar, is
+8 amended to read as follows:
+9 (2) Any person who assists applicants with a voter registration
+10 application as part of a voter registration drive or who, in furtherance of a
+11 voter registration drive, gathers or possesses completed applications for
+12 submission to the permanent registrar or Secretary of State shall deliver all
+13 applications in his or her possession to the permanent registrar or Secretary
+14 of State within twenty-one (21) days of the date on the voter registration
+15 application and, in any event, no later than the deadline for pre-election
+16 voter registration for the next election under Arkansas Constitution,
+17 Amendment 51, § 9(b)(1).
+18
+19 SECTION 5. Under the authority granted by Arkansas Constitution,
+20 Amendment 51, § 19, Arkansas Constitution, Amendment 51, § 10(b)(2),
+21 concerning updating voter registration, is amended to read as follows:
+22 (2)(A) If the updated registration information is actually
+23 received in the office of the county clerk of the voter's new county not
+24 later than four (4) days before a scheduled election, the voter shall have
+25 the right to vote in the scheduled election in the precinct into which the
+26 voter just moved in the new county.
+27 (B) If the updated registration information is not
+28 actually received by the fourth day before a scheduled election, the voter
+29 shall not be eligible to vote in the scheduled election may update his or his
+30 voter registration in accordance with subsection (g) of this section.
+31
+32 SECTION 6. Under the authority granted by Arkansas Constitution,
+33 Amendment 51, § 19, Arkansas Constitution, Amendment 51, § 10(c), concerning
+34 the deadline to change legal residence on voter registration, is amended to
+35 read as follows:
+36 (c) If the change of legal residence is made pursuant to subsection
+3 01-16-2025 16:17:50 SSS016
+As Engrossed: H1/16/25 HB1036
+1 (a) or subdivision (d)(1) of this section following the deadline for pre-
+2 election voter registration during the thirty-day administrative cut-off
+3 period under Arkansas Constitution, Amendment 51, § 9(b)(1) immediately prior
+4 to any election scheduled within the county, the registered voter shall
+5 retain his or her right to vote in the scheduled election in the precinct to
+6 which he or she just moved.
+7
+8 SECTION 7. Under the authority granted by Arkansas Constitution,
+9 Amendment 51, § 19, Arkansas Constitution, Amendment 51, § 10, concerning
+10 transfer and change of status for voter registration, is amended to add an
+11 additional subsection to read as follows:
+12 (g) A person appearing in person on election day or during early
+13 voting at an open polling site, a vote center, or an early voting location
+14 established in his or her county of residence may update his or her voter
+15 registration on the same day as his or her appearance in accordance with § 7-
+16 5-113.
+17
+18 SECTION 8. Arkansas Code § 7-1-113(c)(3), concerning duties of an
+19 election official before a person is permitted to cast a vote at a vote
+20 center, is amended to read as follows:
+21 (3) If the voter's name or address is not the same as that in
+22 the county voter registration record files, request that the voter complete
+23 an updated voter registration application form in accordance with § 7-5-113;
+24 and
+25
+26 SECTION 9. Arkansas Code Title 7, Chapter 5, is amended to add an
+27 additional section to read as follows:
+28 7-5-113. Voter registration on election day or during early voting.
+29 (a) A person appearing in person on election day or during early
+30 voting at an open polling site, a vote center, or an early voting location
+31 established in his or her county of residence is eligible to register to vote
+32 or update registration on the same day as his or her appearance.
+33 (b) To register or update registration and vote under subsection (a)
+34 of this section:
+35 (1) The person shall:
+36 (A) Register in the manner set forth by Arkansas
+4 01-16-2025 16:17:50 SSS016
+As Engrossed: H1/16/25 HB1036
+1 Constitution, Amendment 51; or
+2 (B) Update his or her registration by completing an
+3 updated voter registration application;
+4 (2) The person shall sign a written eligibility affirmation
+5 under penalty of perjury in the presence of a poll worker that he or she is
+6 eligible to vote and has not already voted in the election in any county in
+7 the state;
+8 (3) The poll worker shall verify that the person has not already
+9 voted in the election in any county in the state; and
+10 (4) The poll worker shall update the voter registration records
+11 in a manner immediately evident to every open polling site, vote center, and
+12 early voting location in every county in the state to indicate that the
+13 person has voted in the election.
+14 (c)(1) If the poll worker is unable to complete the required duties in
+15 subdivisions (b)(3) or (b)(4) of this section, the voter may cast a
+16 provisional ballot in accordance with the procedures in § 7-5-308.
+17 (2) Unless enjoined by a court with jurisdiction, a provisional
+18 ballot under this subsection shall be counted if:
+19 (A) The voter returns to the county board of election
+20 commissioners or the county clerk by 12:00 noon on the Monday following the
+21 election and presents documentation that allows the county board of election
+22 commissioners or the county clerk to verify the requirements in subdivisions
+23 (b)(3) and (b)(4) of this section; and
+24 (B) The county board of election commissioners does not
+25 determine that the provisional ballot is invalid and should not be counted
+26 based on other grounds.
+27 (d) Poll workers shall maintain an additional list in the same format
+28 as the precinct voter registration list for all persons who register to vote
+29 or update voter registration under this section which shall be considered
+30 part of the precinct voter registration list.
+31
+32 SECTION 10. Arkansas Code § 7-5-201(a), concerning voter
+33 qualifications, is amended to read as follows:
+34 (a) To be qualified to vote, a person shall have registered at least
+35 thirty (30) calendar days immediately prior to the election and in the manner
+36 set forth by Arkansas Constitution, Amendment 51.
+5 01-16-2025 16:17:50 SSS016
+As Engrossed: H1/16/25 HB1036
+1
+2 SECTION 11. Arkansas Code § 7-5-305(a)(5) and (6), concerning poll
+3 worker duties before a person is permitted to vote, is amended to read as
+4 follows:
+5 (5)(A) If the voter's address is not the same as that on the
+6 precinct voter registration list, verify with the county clerk that the
+7 address is within the precinct.
+8 (B) If the address is within the precinct, request the
+9 voter to complete a voter registration application form for the purpose of
+10 updating county voter registration record files in accordance with § 7-5-113.
+11 (C) If the address is not within the precinct:
+12 (i) Verify with the county clerk's office the proper
+13 precinct; and
+14 (ii) Instruct the voter to go to the polling site
+15 serving that precinct in order for his or her vote to be counted;
+16 (6) If the voter's name is not the same as that on the precinct
+17 voter registration list, request the voter to complete a voter registration
+18 application form for purposes of updating county voter registration record
+19 files in accordance with § 7-5-113;
+20
+21 SECTION 12. Arkansas Code § 7-5-306(a), concerning procedure when a
+22 voter's name is not on the precinct voter registration list, is amended to
+23 read as follows:
+24 (a) If the a voter's name is not on the precinct voter registration
+25 list, the poll worker shall permit the voter to vote only under the following
+26 conditions voter shall not vote until the voter registers or updates his or
+27 her registration in accordance with § 7-5-113.:
+28 (1) The voter identifies himself or herself by stating his or
+29 her name and date of birth and is verified by the county clerk as a
+30 registered voter within the county and, if the county is divided into more
+31 than one (1) congressional district, within the same congressional district;
+32 (2) The voter gives and affirms his or her current residence and
+33 the poll worker verifies with the county clerk that the voter's residence is
+34 within the precinct;
+35 (3) The voter completes an updated voter registration
+36 application form; and
+6 01-16-2025 16:17:50 SSS016
+As Engrossed: H1/16/25 HB1036
+1 (4) The voter signs the precinct voter registration list.
+2
+3 /s/A. Collins
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+7 01-16-2025 16:17:50 SSS016
+[DELETED:  A       A R E O A 1   T R R E A  B   S A c r    ( a o t t d n]
+[DELETED:  H2 0 p   S A t f  ( r v a S r a t 9 o   ( r t w e t r a   S A t  ( s d w t s   (    (]
+[DELETED:  H3 0 a    ( p   S A c a  ( a v s a o a v A   S A c   ( r l t v    ( a s v   S A t r  (]
+[DELETED:  H4 0 ( e p t r w   S A t a  ( v e r 5   S e c   ( t a a   S a  7  ( v e o  ( o   (    (]
+[DELETED:  H5 0 C    ( u   ( u e t   ( v   ( i e p  ( s p   ( b    ( c e c (    ( d b  ( a o p     S q  ( t s]
+[DELETED:  H6 0   S w f   ( p a    ( v u    (     ( p     ( s   ( v a f   S v r  ( l c h   ( h r t   ( t w   ( a]
+[DELETED:  H7 0   (  /                                 ]
+
+
+================================================================================
+
+Raw Text:
+Stricken language would be deleted from and underlined language would be added to present law.
+1 State of Arkansas As Engrossed: H1/16/25
+A Bill
+2 95th General Assembly
+3 Regular Session, 2025 HOUSE BILL 1036
+4
+5 Representatives A. Collins, Ennett, D. Garner, Springer, Gonzales Worthen
+6
+7
+For An Act To Be Entitled
+8
+9 AN ACT TO AMEND THE LAW CONCERNING VOTER
+10 REGISTRATION; TO ALLOW VOTER REGISTRATION DURING
+11 EARLY VOTING AND ON ELECTION DAY; TO AMEND PROVISIONS
+12 OF ARKANSAS CONSTITUTION, AMENDMENT 51, UNDER THE
+13 AUTHORITY OF ARKANSAS CONSTITUTION, AMENDMENT 51, §
+14 19; AND FOR OTHER PURPOSES.
+15
+16
+Subtitle
+17
+18 TO AMEND THE LAW CONCERNING VOTER
+19 REGISTRATION; TO ALLOW VOTER
+20 REGISTRATION DURING EARLY VOTING AND ON
+21 ELECTION DAY; AND TO AMEND PROVISIONS OF
+22 ARKANSAS CONSTITUTION, AMENDMENT 51.
+23
+24 BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF ARKANSAS:
+25
+26 SECTION 1. Under the authority granted by Arkansas Constitution,
+27 Amendment 51, § 19, Arkansas Constitution, Amendment 51, § 6(a)(2)(G),
+28 concerning statements informing voter registration applicants, is amended to
+29 read as follows:
+30 (G) Inform the applicant that if the voter registration
+31 application is being collected by a third-party voter registration
+32 organization, the third-party voter registration organization may be unable
+33 to deliver the application to the permanent registrar in the county in which
+34 the applicant resides before the thirty-day pre-election voter registration
+35 deadline under Arkansas Constitution, Amendment 51, § 9(b)(1) to vote in the
+36 next election and that the applicant may elect to deliver the application in
+*SSS016*
+01-16-2025 16:17:50 SSS016
+
+As Engrossed: H1/16/25 HB1036
+1 person or by mail; and
+2
+3 SECTION 2. Under the authority granted by Arkansas Constitution,
+4 Amendment 51, § 19, Arkansas Constitution, Amendment 51, § 8(a), concerning
+5 the processing of voter registration applications, is amended to read as
+6 follows:
+7 (a)(1) The Office of Driver Services, State Revenue Offices state
+8 revenue offices, public assistance agencies, disabilities agencies, and other
+9 voter registration agencies shall transmit all completed voter registration
+10 applications to the Secretary of State in sufficient time to allow the
+11 Secretary of State to transmit the applications to the appropriate permanent
+12 registrar no later than ten (10) days after the date of acceptance by the
+13 assisting agency. When applications are accepted within five (5) days before
+14 the last day of for an election under Arkansas Constitution, Amendment 51, §
+15 9(b)(1), they must be transmitted no later than five (5) days after the date
+16 of acceptance at the assisting agency.
+17 (2) The Secretary of State shall transmit all mail voter
+18 registration applications to the appropriate permanent registrar no later
+19 than ten (10) days after the date of receipt. When applications are received
+20 within five (5) days before the last day of pre-election registration for an
+21 election under Arkansas Constitution, Amendment 51, § 9(b)(1), they must be
+22 transmitted no later than five (5) days after date of receipt. If forms are
+23 received by the wrong election office, they shall be forwarded to the
+24 appropriate permanent registrar not later than the fifth day after receipt.
+25
+26 SECTION 3. Under the authority granted by Arkansas Constitution,
+27 Amendment 51, § 19, Arkansas Constitution, Amendment 51, § 9(b), concerning
+28 the voter registration deadline, is amended to read as follows:
+29 (b)(1) Except as otherwise provided in subdivision (b)(2) of this
+30 section, Registration registration shall be in progress at all times except
+31 during the thirty-day period immediately prior to any election scheduled
+32 within the county, during which period registration of voters shall cease for
+33 that election, but registration during such period shall be effective for
+34 subsequent elections.
+35 (2) Registration shall be permitted:
+36 (A) During early voting for a person appearing in person
+2 01-16-2025 16:17:50 SSS016
+
+As Engrossed: H1/16/25 HB1036
+1 at an early voting location; and
+2 (B) On election day for a person appearing in person at a
+3 polling site or a vote center established in his or her county of residence.
+4
+5 SECTION 4. Under the authority granted by Arkansas Constitution,
+6 Amendment 51, § 19, Arkansas Constitution, Amendment 51, § 9(c)(2),
+7 concerning voter registration submitted to the permanent registrar, is
+8 amended to read as follows:
+9 (2) Any person who assists applicants with a voter registration
+10 application as part of a voter registration drive or who, in furtherance of a
+11 voter registration drive, gathers or possesses completed applications for
+12 submission to the permanent registrar or Secretary of State shall deliver all
+13 applications in his or her possession to the permanent registrar or Secretary
+14 of State within twenty-one (21) days of the date on the voter registration
+15 application and, in any event, no later than the deadline for pre-election
+16 voter registration for the next election under Arkansas Constitution,
+17 Amendment 51, § 9(b)(1).
+18
+19 SECTION 5. Under the authority granted by Arkansas Constitution,
+20 Amendment 51, § 19, Arkansas Constitution, Amendment 51, § 10(b)(2),
+21 concerning updating voter registration, is amended to read as follows:
+22 (2)(A) If the updated registration information is actually
+23 received in the office of the county clerk of the voter's new county not
+24 later than four (4) days before a scheduled election, the voter shall have
+25 the right to vote in the scheduled election in the precinct into which the
+26 voter just moved in the new county.
+27 (B) If the updated registration information is not
+28 actually received by the fourth day before a scheduled election, the voter
+29 shall not be eligible to vote in the scheduled election may update his or his
+30 voter registration in accordance with subsection (g) of this section.
+31
+32 SECTION 6. Under the authority granted by Arkansas Constitution,
+33 Amendment 51, § 19, Arkansas Constitution, Amendment 51, § 10(c), concerning
+34 the deadline to change legal residence on voter registration, is amended to
+35 read as follows:
+36 (c) If the change of legal residence is made pursuant to subsection
+3 01-16-2025 16:17:50 SSS016
+
+As Engrossed: H1/16/25 HB1036
+1 (a) or subdivision (d)(1) of this section following the deadline for pre-
+2 election voter registration during the thirty-day administrative cut-off
+3 period under Arkansas Constitution, Amendment 51, § 9(b)(1) immediately prior
+4 to any election scheduled within the county, the registered voter shall
+5 retain his or her right to vote in the scheduled election in the precinct to
+6 which he or she just moved.
+7
+8 SECTION 7. Under the authority granted by Arkansas Constitution,
+9 Amendment 51, § 19, Arkansas Constitution, Amendment 51, § 10, concerning
+10 transfer and change of status for voter registration, is amended to add an
+11 additional subsection to read as follows:
+12 (g) A person appearing in person on election day or during early
+13 voting at an open polling site, a vote center, or an early voting location
+14 established in his or her county of residence may update his or her voter
+15 registration on the same day as his or her appearance in accordance with § 7-
+16 5-113.
+17
+18 SECTION 8. Arkansas Code § 7-1-113(c)(3), concerning duties of an
+19 election official before a person is permitted to cast a vote at a vote
+20 center, is amended to read as follows:
+21 (3) If the voter's name or address is not the same as that in
+22 the county voter registration record files, request that the voter complete
+23 an updated voter registration application form in accordance with § 7-5-113;
+24 and
+25
+26 SECTION 9. Arkansas Code Title 7, Chapter 5, is amended to add an
+27 additional section to read as follows:
+28 7-5-113. Voter registration on election day or during early voting.
+29 (a) A person appearing in person on election day or during early
+30 voting at an open polling site, a vote center, or an early voting location
+31 established in his or her county of residence is eligible to register to vote
+32 or update registration on the same day as his or her appearance.
+33 (b) To register or update registration and vote under subsection (a)
+34 of this section:
+35 (1) The person shall:
+36 (A) Register in the manner set forth by Arkansas
+4 01-16-2025 16:17:50 SSS016
+
+As Engrossed: H1/16/25 HB1036
+1 Constitution, Amendment 51; or
+2 (B) Update his or her registration by completing an
+3 updated voter registration application;
+4 (2) The person shall sign a written eligibility affirmation
+5 under penalty of perjury in the presence of a poll worker that he or she is
+6 eligible to vote and has not already voted in the election in any county in
+7 the state;
+8 (3) The poll worker shall verify that the person has not already
+9 voted in the election in any county in the state; and
+10 (4) The poll worker shall update the voter registration records
+11 in a manner immediately evident to every open polling site, vote center, and
+12 early voting location in every county in the state to indicate that the
+13 person has voted in the election.
+14 (c)(1) If the poll worker is unable to complete the required duties in
+15 subdivisions (b)(3) or (b)(4) of this section, the voter may cast a
+16 provisional ballot in accordance with the procedures in § 7-5-308.
+17 (2) Unless enjoined by a court with jurisdiction, a provisional
+18 ballot under this subsection shall be counted if:
+19 (A) The voter returns to the county board of election
+20 commissioners or the county clerk by 12:00 noon on the Monday following the
+21 election and presents documentation that allows the county board of election
+22 commissioners or the county clerk to verify the requirements in subdivisions
+23 (b)(3) and (b)(4) of this section; and
+24 (B) The county board of election commissioners does not
+25 determine that the provisional ballot is invalid and should not be counted
+26 based on other grounds.
+27 (d) Poll workers shall maintain an additional list in the same format
+28 as the precinct voter registration list for all persons who register to vote
+29 or update voter registration under this section which shall be considered
+30 part of the precinct voter registration list.
+31
+32 SECTION 10. Arkansas Code § 7-5-201(a), concerning voter
+33 qualifications, is amended to read as follows:
+34 (a) To be qualified to vote, a person shall have registered at least
+35 thirty (30) calendar days immediately prior to the election and in the manner
+36 set forth by Arkansas Constitution, Amendment 51.
+5 01-16-2025 16:17:50 SSS016
+
+As Engrossed: H1/16/25 HB1036
+1
+2 SECTION 11. Arkansas Code § 7-5-305(a)(5) and (6), concerning poll
+3 worker duties before a person is permitted to vote, is amended to read as
+4 follows:
+5 (5)(A) If the voter's address is not the same as that on the
+6 precinct voter registration list, verify with the county clerk that the
+7 address is within the precinct.
+8 (B) If the address is within the precinct, request the
+9 voter to complete a voter registration application form for the purpose of
+10 updating county voter registration record files in accordance with § 7-5-113.
+11 (C) If the address is not within the precinct:
+12 (i) Verify with the county clerk's office the proper
+13 precinct; and
+14 (ii) Instruct the voter to go to the polling site
+15 serving that precinct in order for his or her vote to be counted;
+16 (6) If the voter's name is not the same as that on the precinct
+17 voter registration list, request the voter to complete a voter registration
+18 application form for purposes of updating county voter registration record
+19 files in accordance with § 7-5-113;
+20
+21 SECTION 12. Arkansas Code § 7-5-306(a), concerning procedure when a
+22 voter's name is not on the precinct voter registration list, is amended to
+23 read as follows:
+24 (a) If the a voter's name is not on the precinct voter registration
+25 list, the poll worker shall permit the voter to vote only under the following
+26 conditions voter shall not vote until the voter registers or updates his or
+27 her registration in accordance with § 7-5-113.:
+28 (1) The voter identifies himself or herself by stating his or
+29 her name and date of birth and is verified by the county clerk as a
+30 registered voter within the county and, if the county is divided into more
+31 than one (1) congressional district, within the same congressional district;
+32 (2) The voter gives and affirms his or her current residence and
+33 the poll worker verifies with the county clerk that the voter's residence is
+34 within the precinct;
+35 (3) The voter completes an updated voter registration
+36 application form; and
+6 01-16-2025 16:17:50 SSS016
+
+As Engrossed: H1/16/25 HB1036
+1 (4) The voter signs the precinct voter registration list.
+2
+3 /s/A. Collins
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+7 01-16-2025 16:17:50 SSS016
+
+[DELETED:  A       A R E O A 1   T R R E A  B   S A c r    ( a o t t d n]
+[DELETED:  H2 0 p   S A t f  ( r v a S r a t 9 o   ( r t w e t r a   S A t  ( s d w t s   (    (]
+[DELETED:  H3 0 a    ( p   S A c a  ( a v s a o a v A   S A c   ( r l t v    ( a s v   S A t r  (]
+[DELETED:  H4 0 ( e p t r w   S A t a  ( v e r 5   S e c   ( t a a   S a  7  ( v e o  ( o   (    (]
+[DELETED:  H5 0 C    ( u   ( u e t   ( v   ( i e p  ( s p   ( b    ( c e c (    ( d b  ( a o p     S q  ( t s]
+[DELETED:  H6 0   S w f   ( p a    ( v u    (     ( p     ( s   ( v a f   S v r  ( l c h   ( h r t   ( t w   ( a]
+[DELETED:  H7 0   (  /                                 ]

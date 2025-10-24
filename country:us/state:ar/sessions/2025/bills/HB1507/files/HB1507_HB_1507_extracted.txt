@@ -1,0 +1,101 @@
+Title: Stricken language would be deleted from and underlined language would be added to present law.
+Official Title: Stricken language would be deleted from and underlined language would be added to present law.
+Number of Sections: 1
+Source: versions - HB 1507
+Media Type: application/pdf
+Strikethrough Detection: 1 sections found
+
+================================================================================
+
+Section 1:
+1 State of Arkansas
+A Bill
+2 95th General Assembly
+3 Regular Session, 2025 HOUSE BILL 1507
+4
+5 By: Representative Ladyman
+6 By: Senator D. Sullivan
+7
+For An Act To Be Entitled
+8
+9 AN ACT TO AMEND THE LAW CONCERNING ENVIRONMENTAL,
+10 SOCIAL JUSTICE, OR GOVERNANCE SCORES; TO CLARIFY THE
+11 EXEMPTIONS FROM DIVESTMENT FOR CERTAIN INVESTMENTS;
+12 AND FOR OTHER PURPOSES.
+13
+14
+Subtitle
+15
+16 TO AMEND THE LAW CONCERNING
+17 ENVIRONMENTAL, SOCIAL JUSTICE, OR
+18 GOVERNANCE SCORES; AND TO CLARIFY THE
+19 EXEMPTIONS FROM DIVESTMENT FOR CERTAIN
+20 INVESTMENTS.
+21
+22 BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF ARKANSAS:
+23
+24 SECTION 1. Arkansas Code § 25-1-1007 is amended to read as follows:
+25 25-1-1007. Exemption from divestment for certain investments.
+26 If an investment is subject to divestment under this subchapter but is
+27 locked into a maturity date and an early divestment would result in a
+28 financial penalty and cause a negative financial impact to the state or a
+29 public entity, then the investment is exempt from divestiture under this
+30 subchapter in order to prevent financial harm to the state or the public
+31 entity and ensure that the fiduciary duty for the state or the public entity
+32 is met.
+33
+34
+35
+36
+*ANS254*
+02/17/2025 7:33:21 AM ANS254
+[DELETED:       A S E A  T E G E I  B   S  2  I l f p s e i]
+
+
+================================================================================
+
+Raw Text:
+Stricken language would be deleted from and underlined language would be added to present law.
+1 State of Arkansas
+A Bill
+2 95th General Assembly
+3 Regular Session, 2025 HOUSE BILL 1507
+4
+5 By: Representative Ladyman
+6 By: Senator D. Sullivan
+7
+For An Act To Be Entitled
+8
+9 AN ACT TO AMEND THE LAW CONCERNING ENVIRONMENTAL,
+10 SOCIAL JUSTICE, OR GOVERNANCE SCORES; TO CLARIFY THE
+11 EXEMPTIONS FROM DIVESTMENT FOR CERTAIN INVESTMENTS;
+12 AND FOR OTHER PURPOSES.
+13
+14
+Subtitle
+15
+16 TO AMEND THE LAW CONCERNING
+17 ENVIRONMENTAL, SOCIAL JUSTICE, OR
+18 GOVERNANCE SCORES; AND TO CLARIFY THE
+19 EXEMPTIONS FROM DIVESTMENT FOR CERTAIN
+20 INVESTMENTS.
+21
+22 BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF ARKANSAS:
+23
+24 SECTION 1. Arkansas Code § 25-1-1007 is amended to read as follows:
+25 25-1-1007. Exemption from divestment for certain investments.
+26 If an investment is subject to divestment under this subchapter but is
+27 locked into a maturity date and an early divestment would result in a
+28 financial penalty and cause a negative financial impact to the state or a
+29 public entity, then the investment is exempt from divestiture under this
+30 subchapter in order to prevent financial harm to the state or the public
+31 entity and ensure that the fiduciary duty for the state or the public entity
+32 is met.
+33
+34
+35
+36
+*ANS254*
+02/17/2025 7:33:21 AM ANS254
+
+[DELETED:       A S E A  T E G E I  B   S  2  I l f p s e i]

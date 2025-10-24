@@ -1,0 +1,98 @@
+Title: ______________________________________________________________________
+Official Title: ______________________________________________________________________
+Number of Sections: 1
+Source: versions - Amendment H4
+Media Type: application/pdf
+Strikethrough Detection: 2 sections found
+
+================================================================================
+
+Section 1:
+Hall of the House of Representatives
+95th General Assembly - Regular Session, 2025
+Amendment Form
+Subtitle of House Bill 1082
+TO CREATE THE ARKANSAS CHILDREN AND TEENS’ ONLINE PRIVACY
+PROTECTION ACT.
+______________________________________________________________________
+Amendment No. 4 to House Bill 1082
+Amend House Bill 1082 as engrossed H2/10/25 (version: 2/10/25 10:28:29 AM):
+Page 7, delete lines 6 through 8, and substitute the following:
+"online service, online application, or mobile application with actual
+knowledge or willful disregard:"
+AND
+Page 7, delete line 36, and substitute the following:
+"(b) An operator of a website, online service, online application, or
+mobile application directed to children or an operator of a website, online
+service, online application, or mobile application with actual knowledge or
+willful disregard that is collecting personal information from children or
+teens shall:"
+AND
+Page 8, delete lines 1 through 3
+AND
+Page 12, delete lines 23 through 30, and substitute the following:
+"Nothing in this subchapter requires an"
+*.LJH155*
+LJH155 - 02-18-2025 10:22:33 Page 1 of 2
+AND
+Page 12, delete line 32, and substitute the following:
+"(1) Affirmatively collect any personal information regarding
+the"
+AND
+P{age 12, delete line 35, and substitute the following:
+"(2) Implement an age-gating or age verification functionality."
+The Amendment was read ________________________________________________________________________________
+By: Representative Gramlich
+LJH/LJH - 02-18-2025 10:22:34 _________________________
+LJH155 Chief Clerk
+LJH155 - 02-18-2025 10:22:33 Amendment No. 4 to House Bill 1082 Page 2 of 2
+[DELETED:  PA  ""]
+[DELETED:  P " " _ C]
+
+
+================================================================================
+
+Raw Text:
+Hall of the House of Representatives
+95th General Assembly - Regular Session, 2025
+Amendment Form
+______________________________________________________________________
+Subtitle of House Bill 1082
+TO CREATE THE ARKANSAS CHILDREN AND TEENS’ ONLINE PRIVACY
+PROTECTION ACT.
+______________________________________________________________________
+Amendment No. 4 to House Bill 1082
+Amend House Bill 1082 as engrossed H2/10/25 (version: 2/10/25 10:28:29 AM):
+Page 7, delete lines 6 through 8, and substitute the following:
+"online service, online application, or mobile application with actual
+knowledge or willful disregard:"
+AND
+Page 7, delete line 36, and substitute the following:
+"(b) An operator of a website, online service, online application, or
+mobile application directed to children or an operator of a website, online
+service, online application, or mobile application with actual knowledge or
+willful disregard that is collecting personal information from children or
+teens shall:"
+AND
+Page 8, delete lines 1 through 3
+AND
+Page 12, delete lines 23 through 30, and substitute the following:
+"Nothing in this subchapter requires an"
+*.LJH155*
+LJH155 - 02-18-2025 10:22:33 Page 1 of 2
+
+AND
+Page 12, delete line 32, and substitute the following:
+"(1) Affirmatively collect any personal information regarding
+the"
+AND
+P{age 12, delete line 35, and substitute the following:
+"(2) Implement an age-gating or age verification functionality."
+The Amendment was read ________________________________________________________________________________
+By: Representative Gramlich
+LJH/LJH - 02-18-2025 10:22:34 _________________________
+LJH155 Chief Clerk
+LJH155 - 02-18-2025 10:22:33 Amendment No. 4 to House Bill 1082 Page 2 of 2
+
+[DELETED:  PA  ""]
+[DELETED:  P " " _ C]

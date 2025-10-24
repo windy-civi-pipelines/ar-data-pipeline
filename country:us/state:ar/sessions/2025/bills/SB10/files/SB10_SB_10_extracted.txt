@@ -1,0 +1,180 @@
+Title: Stricken language would be deleted from and underlined language would be added to present law.
+Official Title: Stricken language would be deleted from and underlined language would be added to present law.
+Number of Sections: 1
+Source: versions - SB 10
+Media Type: application/pdf
+Strikethrough Detection: 2 sections found
+
+================================================================================
+
+Section 1:
+1 State of Arkansas
+A Bill
+2 95th General Assembly
+3 Regular Session, 2025 SENATE BILL 10
+4
+5 By: Senator B. King
+6
+7
+For An Act To Be Entitled
+8
+9 AN ACT TO AMEND THE ARKANSAS DATA CENTERS ACT OF
+10 2023; TO AMEND THE LAW CONCERNING THE POWERS OF THE
+11 ARKANSAS NATURAL RESOURCES COMMISSION; TO MONITOR THE
+12 IMPACT OF BLOCKCHAIN NETWORKS AND DIGITAL ASSET
+13 MINING ON WATER USAGE; TO ALLOW FOR THE CLOSURE OF
+14 BLOCKCHAIN NETWORKS OR DIGITAL ASSET MINING
+15 OPERATIONS IF WATER USAGE IS EXCESSIVE; TO AMEND THE
+16 LAW CONCERNING THE AUTHORITY OF THE ARKANSAS PUBLIC
+17 SERVICE COMMISSION; TO MONITOR THE IMPACT OF
+18 BLOCKCHAIN NETWORKS AND DIGITAL ASSET MINING ON THE
+19 ELECTRIC GRID; TO ALLOW FOR THE HALT OF BLOCKCHAIN
+20 NETWORKS OR DIGITAL ASSET MINING OPERATIONS IF THE
+21 ELECTRIC GRID IS THREATENED; AND FOR OTHER PURPOSES.
+22
+23
+Subtitle
+24
+25 TO AMEND THE ARKANSAS DATA CENTERS ACT
+26 OF 2023; AND TO REGULATE THE IMPACT ON
+27 WATER USAGE AND THE ELECTRIC GRID BY
+28 BLOCKCHAIN NETWORKS AND DIGITAL ASSET
+29 MINING.
+30
+31 BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF ARKANSAS:
+32
+33 SECTION 1. Arkansas Code Title 14, Chapter 1, Subchapter 6, is amended
+34 to add additional sections to read as follows:
+35 14-1-607. Arkansas Natural Resources Commission to monitor impact of
+36 blockchain networks and digital asset mining on water usage — Rules.
+*ANS079*
+12/13/2024 2:09:25 PM ANS079
+SB10
+1 The Arkansas Natural Resources Commission:
+2 (1) Shall monitor the impact of blockchain networks and digital
+3 asset mining on water usage in this state;
+4 (2) May take action under § 15-22-204 against a blockchain
+5 network or a digital asset mining business if the impact of the blockchain
+6 network or digital asset mining business threatens the critical groundwater
+7 supplies of this state through an excessive use of water; and
+8 (3)(A) Shall promulgate rules to implement this section.
+9 (B) A proposed rule by the commission promulgated under
+10 this section shall be approved by the Legislative Council or Joint Budget
+11 Committee under § 10-3-309.
+12
+13 14-1-608. Arkansas Public Service Commission to monitor impact of
+14 blockchain networks and digital asset mining on electric grid — Rules.
+15 The Arkansas Public Service Commission:
+16 (1) Shall monitor the impact of blockchain networks and digital
+17 asset mining on the electric grid;
+18 (2) May direct a utility to halt service to a blockchain network
+19 or digital asset mining business if the impact of the blockchain network or
+20 digital asset mining business threatens the reliability of the electric grid;
+21 and
+22 (3)(A) Shall promulgate rules to implement this section.
+23 (B) A proposed rule by the commission promulgated under
+24 this section shall be approved by the Legislative Council or Joint Budget
+25 Committee under § 10-3-309.
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+2 12/13/2024 2:09:25 PM
+[DELETED:       A 2 A I M B O L S B E N E  T O W B M  B   S t  1 b]
+[DELETED: S2 1  T   ( a   ( n n s   (    ( t C   1 b  T   ( a   ( o d a   (    ( t C]
+
+
+================================================================================
+
+Raw Text:
+Stricken language would be deleted from and underlined language would be added to present law.
+1 State of Arkansas
+A Bill
+2 95th General Assembly
+3 Regular Session, 2025 SENATE BILL 10
+4
+5 By: Senator B. King
+6
+7
+For An Act To Be Entitled
+8
+9 AN ACT TO AMEND THE ARKANSAS DATA CENTERS ACT OF
+10 2023; TO AMEND THE LAW CONCERNING THE POWERS OF THE
+11 ARKANSAS NATURAL RESOURCES COMMISSION; TO MONITOR THE
+12 IMPACT OF BLOCKCHAIN NETWORKS AND DIGITAL ASSET
+13 MINING ON WATER USAGE; TO ALLOW FOR THE CLOSURE OF
+14 BLOCKCHAIN NETWORKS OR DIGITAL ASSET MINING
+15 OPERATIONS IF WATER USAGE IS EXCESSIVE; TO AMEND THE
+16 LAW CONCERNING THE AUTHORITY OF THE ARKANSAS PUBLIC
+17 SERVICE COMMISSION; TO MONITOR THE IMPACT OF
+18 BLOCKCHAIN NETWORKS AND DIGITAL ASSET MINING ON THE
+19 ELECTRIC GRID; TO ALLOW FOR THE HALT OF BLOCKCHAIN
+20 NETWORKS OR DIGITAL ASSET MINING OPERATIONS IF THE
+21 ELECTRIC GRID IS THREATENED; AND FOR OTHER PURPOSES.
+22
+23
+Subtitle
+24
+25 TO AMEND THE ARKANSAS DATA CENTERS ACT
+26 OF 2023; AND TO REGULATE THE IMPACT ON
+27 WATER USAGE AND THE ELECTRIC GRID BY
+28 BLOCKCHAIN NETWORKS AND DIGITAL ASSET
+29 MINING.
+30
+31 BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF ARKANSAS:
+32
+33 SECTION 1. Arkansas Code Title 14, Chapter 1, Subchapter 6, is amended
+34 to add additional sections to read as follows:
+35 14-1-607. Arkansas Natural Resources Commission to monitor impact of
+36 blockchain networks and digital asset mining on water usage — Rules.
+*ANS079*
+12/13/2024 2:09:25 PM ANS079
+
+SB10
+1 The Arkansas Natural Resources Commission:
+2 (1) Shall monitor the impact of blockchain networks and digital
+3 asset mining on water usage in this state;
+4 (2) May take action under § 15-22-204 against a blockchain
+5 network or a digital asset mining business if the impact of the blockchain
+6 network or digital asset mining business threatens the critical groundwater
+7 supplies of this state through an excessive use of water; and
+8 (3)(A) Shall promulgate rules to implement this section.
+9 (B) A proposed rule by the commission promulgated under
+10 this section shall be approved by the Legislative Council or Joint Budget
+11 Committee under § 10-3-309.
+12
+13 14-1-608. Arkansas Public Service Commission to monitor impact of
+14 blockchain networks and digital asset mining on electric grid — Rules.
+15 The Arkansas Public Service Commission:
+16 (1) Shall monitor the impact of blockchain networks and digital
+17 asset mining on the electric grid;
+18 (2) May direct a utility to halt service to a blockchain network
+19 or digital asset mining business if the impact of the blockchain network or
+20 digital asset mining business threatens the reliability of the electric grid;
+21 and
+22 (3)(A) Shall promulgate rules to implement this section.
+23 (B) A proposed rule by the commission promulgated under
+24 this section shall be approved by the Legislative Council or Joint Budget
+25 Committee under § 10-3-309.
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+2 12/13/2024 2:09:25 PM
+
+[DELETED:       A 2 A I M B O L S B E N E  T O W B M  B   S t  1 b]
+[DELETED: S2 1  T   ( a   ( n n s   (    ( t C   1 b  T   ( a   ( o d a   (    ( t C]

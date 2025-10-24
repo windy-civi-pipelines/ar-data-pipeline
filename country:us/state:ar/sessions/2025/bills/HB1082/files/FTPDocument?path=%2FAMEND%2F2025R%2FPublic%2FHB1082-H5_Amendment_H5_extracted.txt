@@ -1,0 +1,147 @@
+Title: ______________________________________________________________________
+Official Title: ______________________________________________________________________
+Number of Sections: 1
+Source: versions - Amendment H5
+Media Type: application/pdf
+Strikethrough Detection: 3 sections found
+
+================================================================================
+
+Section 1:
+Hall of the House of Representatives
+95th General Assembly - Regular Session, 2025
+Amendment Form
+Subtitle of House Bill 1082
+TO CREATE THE ARKANSAS CHILDREN AND TEENS’ ONLINE PRIVACY
+PROTECTION ACT.
+______________________________________________________________________
+Amendment No. 5 to House Bill 1082
+Amend House Bill 1082 as engrossed H2/19/25 (version: 2/19/25 10:53:46 AM):
+Page 4, line 24, delete the word "or"
+AND
+Page 4, delete line 28, and substitute the following:
+"exemptions under that act, as it existed on January 1, 2025;
+(iii) An agency, board, commission, institution, or
+other instrumentality of the State of Arkansas or its political subdivisions;
+or
+(iv) A public educational entity of the State of
+Arkansas, including without limitation a school district and an institution
+of higher learning;"
+AND
+Page 7, delete lines 12 through 14, and substitute the following:
+"advertising;"
+AND
+Page 7, line 21, delete "law;" and substitute "law; or"
+*.LJH165*
+LJH165 - 02-24-2025 12:48:03 Page 1 of 3
+AND
+Page 7, delete lines 22 through 25
+AND
+Page 7, line 26, delete "(E)" and substitute "(D)"
+AND
+Page 8, delete lines 16 through 23, and substitute the following:
+"(2) Obtain verifiable consent for the collection, use, or
+disclosure of personal information collected from a child or teen from a:
+(A) Parent or legal guardian of a child, except to the
+extent the processing is permitted under 15 U.S.C. § 6502 and its
+implementing regulations; or
+(B) A teen, except when the processing is for:
+(i) Providing or maintaining a specific product or
+service requested by the teen;
+(ii) Conducting the operator's internal business
+operations, including without limitation identifying and repairing technical
+errors that impair existing or intended functionality;
+(iii) Protecting against malicious, fraudulent, or
+illegal activity or detecting, responding to, or preventing security
+incidents or threats;
+(iv) Investigating, establishing, exercising,
+preparing for, or defending legal claims;
+(v) Complying with federal, state, or local laws,
+rules, or regulations;
+(vi) Complying with a civil, criminal, or regulatory
+inquiry, investigation, subpoena, or a summons by federal, state, local, or
+other governmental authorities; or
+(vii) Protecting the vital interests of a natural
+person;"
+LJH165 - 02-24-2025 12:48:03 Amendment No. 5 to House Bill 1082 Page 2 of 3
+The Amendment was read ________________________________________________________________________________
+By: Representative Gramlich
+LJH/LJH - 02-24-2025 12:48:03 _________________________
+LJH165 Chief Clerk
+LJH165 - 02-24-2025 12:48:03 Amendment No. 5 to House Bill 1082 Page 3 of 3
+[DELETED:  PA     (   (]
+[DELETED:  P "  (  (   (   (   (   (   (   (   (]
+[DELETED:  P _ C]
+
+
+================================================================================
+
+Raw Text:
+Hall of the House of Representatives
+95th General Assembly - Regular Session, 2025
+Amendment Form
+______________________________________________________________________
+Subtitle of House Bill 1082
+TO CREATE THE ARKANSAS CHILDREN AND TEENS’ ONLINE PRIVACY
+PROTECTION ACT.
+______________________________________________________________________
+Amendment No. 5 to House Bill 1082
+Amend House Bill 1082 as engrossed H2/19/25 (version: 2/19/25 10:53:46 AM):
+Page 4, line 24, delete the word "or"
+AND
+Page 4, delete line 28, and substitute the following:
+"exemptions under that act, as it existed on January 1, 2025;
+(iii) An agency, board, commission, institution, or
+other instrumentality of the State of Arkansas or its political subdivisions;
+or
+(iv) A public educational entity of the State of
+Arkansas, including without limitation a school district and an institution
+of higher learning;"
+AND
+Page 7, delete lines 12 through 14, and substitute the following:
+"advertising;"
+AND
+Page 7, line 21, delete "law;" and substitute "law; or"
+*.LJH165*
+LJH165 - 02-24-2025 12:48:03 Page 1 of 3
+
+AND
+Page 7, delete lines 22 through 25
+AND
+Page 7, line 26, delete "(E)" and substitute "(D)"
+AND
+Page 8, delete lines 16 through 23, and substitute the following:
+"(2) Obtain verifiable consent for the collection, use, or
+disclosure of personal information collected from a child or teen from a:
+(A) Parent or legal guardian of a child, except to the
+extent the processing is permitted under 15 U.S.C. § 6502 and its
+implementing regulations; or
+(B) A teen, except when the processing is for:
+(i) Providing or maintaining a specific product or
+service requested by the teen;
+(ii) Conducting the operator's internal business
+operations, including without limitation identifying and repairing technical
+errors that impair existing or intended functionality;
+(iii) Protecting against malicious, fraudulent, or
+illegal activity or detecting, responding to, or preventing security
+incidents or threats;
+(iv) Investigating, establishing, exercising,
+preparing for, or defending legal claims;
+(v) Complying with federal, state, or local laws,
+rules, or regulations;
+(vi) Complying with a civil, criminal, or regulatory
+inquiry, investigation, subpoena, or a summons by federal, state, local, or
+other governmental authorities; or
+(vii) Protecting the vital interests of a natural
+person;"
+LJH165 - 02-24-2025 12:48:03 Amendment No. 5 to House Bill 1082 Page 2 of 3
+
+The Amendment was read ________________________________________________________________________________
+By: Representative Gramlich
+LJH/LJH - 02-24-2025 12:48:03 _________________________
+LJH165 Chief Clerk
+LJH165 - 02-24-2025 12:48:03 Amendment No. 5 to House Bill 1082 Page 3 of 3
+
+[DELETED:  PA     (   (]
+[DELETED:  P "  (  (   (   (   (   (   (   (   (]
+[DELETED:  P _ C]

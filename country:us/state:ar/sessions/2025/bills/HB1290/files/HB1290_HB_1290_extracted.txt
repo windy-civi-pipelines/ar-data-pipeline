@@ -1,0 +1,338 @@
+Title: Stricken language would be deleted from and underlined language would be added to present law.
+Official Title: Stricken language would be deleted from and underlined language would be added to present law.
+Number of Sections: 1
+Source: versions - HB 1290
+Media Type: application/pdf
+Strikethrough Detection: 4 sections found
+
+================================================================================
+
+Section 1:
+1 State of ArkansasAs Engrossed: H2/6/25 H2/11/25 H2/20/25 H3/20/25 S4/7/25
+A Bill
+2 95th General Assembly
+3 Regular Session, 2025 HOUSE BILL 1290
+4
+5 By: Representatives L. Johnson, Vaught
+6 By: Senator J. Boyd
+7
+For An Act To Be Entitled
+8
+9 AN ACT TO MANDATE COVERAGE FOR MENTAL HEALTH WELLNESS
+10 EXAMINATIONS; TO ESTABLISH THE ARKANSAS SUPPORT OF
+11 MENTAL HEALTH WELLNESS EXAMINATIONS ACT; AND FOR
+12 OTHER PURPOSES.
+13
+14
+Subtitle
+15
+16 TO MANDATE COVERAGE FOR MENTAL HEALTH
+17 WELLNESS EXAMINATIONS; AND TO ESTABLISH
+18 THE ARKANSAS SUPPORT OF MENTAL HEALTH
+19 WELLNESS EXAMINATIONS ACT.
+20
+21 BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF ARKANSAS:
+22
+23 SECTION 1. DO NOT CODIFY. Title. This act shall be known and may be
+24 cited as the "Arkansas Support of Mental Health Wellness Examinations Act".
+25
+26 SECTION 2. Arkansas Code Title 23, Chapter 79, is amended to add an
+27 additional subchapter to read as follows:
+28
+29 Subchapter 29 — Coverage for Mental Health Wellness Examinations
+30
+31 23-79-2901. Purpose.
+32 The purpose of this subchapter is to require coverage under a health
+33 benefit plan for mental health wellness examinations in an effort to promote
+34 greater utilization of mental health wellness examinations and strengthen the
+35 mental health of Arkansans.
+36
+*ANS054*
+04-07-2025 11:19:25 ANS054
+As Engrossed: H2/6/25 H2/11/25 H2/20/25 H3/20/25 S4/7/25 HB1290
+1 23-79-2902. Definitions.
+2 As used in this subchapter:
+3 (1)(A) "Health benefit plan" means:
+4 (i) An individual, blanket, or group plan or a
+5 policy or contract for healthcare services offered, issued, renewed,
+6 delivered, or extended in this state by a healthcare insurer; and
+7 (ii) A health benefit program receiving state or
+8 federal appropriations from the State of Arkansas, including the Arkansas
+9 Medicaid Program and the Arkansas Health and Opportunity for Me Program
+10 established by the Arkansas Health and Opportunity for Me Act of 2021, § 23-
+11 61-1001 et seq., or any successor program.
+12 (B) "Health benefit plan" includes:
+13 (i) Indemnity and managed care plans; and
+14 (ii) Nonfederal governmental plans as defined in 29
+15 U.S.C. § 1002(32), as it existed on January 1, 2025.
+16 (C) "Health benefit plan" does not include:
+17 (i) A plan that provides only dental benefits or eye
+18 and vision care benefits;
+19 (ii) A disability income plan;
+20 (iii) A credit insurance plan;
+21 (iv) Insurance coverage issued as a supplement to
+22 liability insurance;
+23 (v) A medical payment under an automobile or
+24 homeowners insurance plan;
+25 (vi) A health benefit plan provided under Arkansas
+26 Constitution, Article 5, § 32, the Workers' Compensation Law, § 11-9-101 et
+27 seq., or the Public Employee Workers' Compensation Act, § 21-5-601 et seq.;
+28 (vii) A plan that provides only indemnity for
+29 hospital confinement;
+30 (viii) An accident-only plan;
+31 (ix) A specified disease plan; or
+32 (x) A long-term-care-only plan;
+33 (2)(A) "Healthcare insurer" means an entity subject to the
+34 insurance laws of this state or the jurisdiction of the Insurance
+35 Commissioner that contracts or offers to contract to provide health insurance
+36 coverage, including without limitation an insurance company, a hospital and
+2 04-07-2025 11:19:25 ANS054
+As Engrossed: H2/6/25 H2/11/25 H2/20/25 H3/20/25 S4/7/25 HB1290
+1 medical service corporation, a health maintenance organization, a self-
+2 insured governmental or church plan in this state, or the Arkansas Medicaid
+3 Program.
+4 (B) "Healthcare insurer" does not include an entity that
+5 provides only dental benefits or eye and vision care benefits;
+6 (3) "Mental health professional" means an individual licensed
+7 by the state to provide mental health services, limited to the following:
+8 (A) A physician or psychiatrist;
+9 (B) A medical officer of the United States Government;
+10 (C) A psychologist or clinical psychologist;
+11 (D) A nurse practitioner or clinical nurse specialist with
+12 a psychiatric, primary care, or mental health population focus licensed to
+13 engage in advanced practice nursing;
+14 (E) A licensed clinical social worker;
+15 (F) A licensed marriage and family therapist;
+16 (G) A licensed professional counselor; and
+17 (H) A physician assistant; and
+18 (4) "Mental health wellness examination" means an examination
+19 that includes without limitation:
+20 (A) A behavioral health screening;
+21 (B) Education and consultation on health, wellness, and
+22 behavioral changes;
+23 (C) Referrals to ongoing treatment, mental health
+24 services, and other supports as clinically appropriate;
+25 (D) Age-appropriate screenings or observations to
+26 understand an individual's mental health history, personal history, and
+27 mental cognitive state; and
+28 (E) If appropriate, relevant adult input through
+29 screenings, interviews, and questions.
+30
+31 23-79-2903. Coverage for mental health wellness examinations.
+32 (a) On and after January 1, 2026, a health benefit plan that is
+33 offered, issued, renewed, delivered, or extended in this state shall provide
+34 coverage for an annual standalone mental health wellness examination that is
+35 performed by a licensed mental health professional to the extent permitted by
+36 federal law.
+3 04-07-2025 11:19:25 ANS054
+As Engrossed: H2/6/25 H2/11/25 H2/20/25 H3/20/25 S4/7/25 HB1290
+1 (b) The coverage for mental health wellness examinations under
+2 subsection (a) of this section shall:
+3 (1) Be no less extensive than the coverage provided for
+4 preventive services or primary care benefits under a health benefit plan;
+5 (2) Comply with the Paul Wellstone and Pete Domenici Mental Health
+6 Parity and Addiction Equity Act of 2008, Pub. L. No. 110-343; and
+7 (3)(A) Except as provided in subdivisions (b)(3)(B) and (C) of
+8 this section, not be subject to an annual deductible, copayment, coinsurance
+9 limit, or any other cost-sharing requirements.
+10 (B) Cost-sharing may be required if the applicable health
+11 benefit plan is governed by the federal Internal Revenue Code and the health
+12 benefit plan would lose its tax-exempt status as a result of the prohibition
+13 on cost-sharing requirements for a mental health wellness examination.
+14 (C) Cost-sharing is required for a health benefit plan
+15 issued by a healthcare insurer to a state entity under § 21-5-401 et seq.
+16
+17 23-79-2904. Rules.
+18 (a) The Insurance Commissioner shall promulgate rules to implement
+19 this subchapter.
+20 (b) The Secretary of the Department of Human Services shall promulgate
+21 rules necessary to implement this subchapter that may apply to the Arkansas
+22 Medicaid Program or the Arkansas Health and Opportunity for Me Program, § 23-
+23 61-1001 et seq.
+24 (c) The State Board of Finance shall promulgate rules necessary to
+25 implement this subchapter that may apply to the State and Public School Life
+26 and Health Insurance Program.
+27
+28 SECTION 3. EFFECTIVE DATE. This act is effective on and after January
+29 1, 2026.
+30
+31 /s/L. Johnson
+32
+33
+34
+35
+36
+4 04-07-2025 11:19:25 ANS054
+[DELETED:  A   EBL1     A E M O   T W T W  B   S c   S a  S   2  T b g m ]
+[DELETED:  H2 0  2  A   (     ( p d     ( f M e 6    (     (     ( U    (     ( a     (     (     ( l     ( h     ( C s     ( h     (     (     (   ( i C c]
+[DELETED:  H3 0 m i P    ( p   ( b    (    (    (    ( a e    (    (    (    (   ( t    (    ( b    ( s  ( u m    ( s   2  ( o c p f]
+[DELETED:  H4 0  ( s   ( p  ( P   ( t l    ( b b o  ( i   2  ( t  ( r M 6  ( i a   S 1  /     ]
+
+
+================================================================================
+
+Raw Text:
+Stricken language would be deleted from and underlined language would be added to present law.
+1 State of ArkansasAs Engrossed: H2/6/25 H2/11/25 H2/20/25 H3/20/25 S4/7/25
+A Bill
+2 95th General Assembly
+3 Regular Session, 2025 HOUSE BILL 1290
+4
+5 By: Representatives L. Johnson, Vaught
+6 By: Senator J. Boyd
+7
+For An Act To Be Entitled
+8
+9 AN ACT TO MANDATE COVERAGE FOR MENTAL HEALTH WELLNESS
+10 EXAMINATIONS; TO ESTABLISH THE ARKANSAS SUPPORT OF
+11 MENTAL HEALTH WELLNESS EXAMINATIONS ACT; AND FOR
+12 OTHER PURPOSES.
+13
+14
+Subtitle
+15
+16 TO MANDATE COVERAGE FOR MENTAL HEALTH
+17 WELLNESS EXAMINATIONS; AND TO ESTABLISH
+18 THE ARKANSAS SUPPORT OF MENTAL HEALTH
+19 WELLNESS EXAMINATIONS ACT.
+20
+21 BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF ARKANSAS:
+22
+23 SECTION 1. DO NOT CODIFY. Title. This act shall be known and may be
+24 cited as the "Arkansas Support of Mental Health Wellness Examinations Act".
+25
+26 SECTION 2. Arkansas Code Title 23, Chapter 79, is amended to add an
+27 additional subchapter to read as follows:
+28
+29 Subchapter 29 — Coverage for Mental Health Wellness Examinations
+30
+31 23-79-2901. Purpose.
+32 The purpose of this subchapter is to require coverage under a health
+33 benefit plan for mental health wellness examinations in an effort to promote
+34 greater utilization of mental health wellness examinations and strengthen the
+35 mental health of Arkansans.
+36
+*ANS054*
+04-07-2025 11:19:25 ANS054
+
+As Engrossed: H2/6/25 H2/11/25 H2/20/25 H3/20/25 S4/7/25 HB1290
+1 23-79-2902. Definitions.
+2 As used in this subchapter:
+3 (1)(A) "Health benefit plan" means:
+4 (i) An individual, blanket, or group plan or a
+5 policy or contract for healthcare services offered, issued, renewed,
+6 delivered, or extended in this state by a healthcare insurer; and
+7 (ii) A health benefit program receiving state or
+8 federal appropriations from the State of Arkansas, including the Arkansas
+9 Medicaid Program and the Arkansas Health and Opportunity for Me Program
+10 established by the Arkansas Health and Opportunity for Me Act of 2021, § 23-
+11 61-1001 et seq., or any successor program.
+12 (B) "Health benefit plan" includes:
+13 (i) Indemnity and managed care plans; and
+14 (ii) Nonfederal governmental plans as defined in 29
+15 U.S.C. § 1002(32), as it existed on January 1, 2025.
+16 (C) "Health benefit plan" does not include:
+17 (i) A plan that provides only dental benefits or eye
+18 and vision care benefits;
+19 (ii) A disability income plan;
+20 (iii) A credit insurance plan;
+21 (iv) Insurance coverage issued as a supplement to
+22 liability insurance;
+23 (v) A medical payment under an automobile or
+24 homeowners insurance plan;
+25 (vi) A health benefit plan provided under Arkansas
+26 Constitution, Article 5, § 32, the Workers' Compensation Law, § 11-9-101 et
+27 seq., or the Public Employee Workers' Compensation Act, § 21-5-601 et seq.;
+28 (vii) A plan that provides only indemnity for
+29 hospital confinement;
+30 (viii) An accident-only plan;
+31 (ix) A specified disease plan; or
+32 (x) A long-term-care-only plan;
+33 (2)(A) "Healthcare insurer" means an entity subject to the
+34 insurance laws of this state or the jurisdiction of the Insurance
+35 Commissioner that contracts or offers to contract to provide health insurance
+36 coverage, including without limitation an insurance company, a hospital and
+2 04-07-2025 11:19:25 ANS054
+
+As Engrossed: H2/6/25 H2/11/25 H2/20/25 H3/20/25 S4/7/25 HB1290
+1 medical service corporation, a health maintenance organization, a self-
+2 insured governmental or church plan in this state, or the Arkansas Medicaid
+3 Program.
+4 (B) "Healthcare insurer" does not include an entity that
+5 provides only dental benefits or eye and vision care benefits;
+6 (3) "Mental health professional" means an individual licensed
+7 by the state to provide mental health services, limited to the following:
+8 (A) A physician or psychiatrist;
+9 (B) A medical officer of the United States Government;
+10 (C) A psychologist or clinical psychologist;
+11 (D) A nurse practitioner or clinical nurse specialist with
+12 a psychiatric, primary care, or mental health population focus licensed to
+13 engage in advanced practice nursing;
+14 (E) A licensed clinical social worker;
+15 (F) A licensed marriage and family therapist;
+16 (G) A licensed professional counselor; and
+17 (H) A physician assistant; and
+18 (4) "Mental health wellness examination" means an examination
+19 that includes without limitation:
+20 (A) A behavioral health screening;
+21 (B) Education and consultation on health, wellness, and
+22 behavioral changes;
+23 (C) Referrals to ongoing treatment, mental health
+24 services, and other supports as clinically appropriate;
+25 (D) Age-appropriate screenings or observations to
+26 understand an individual's mental health history, personal history, and
+27 mental cognitive state; and
+28 (E) If appropriate, relevant adult input through
+29 screenings, interviews, and questions.
+30
+31 23-79-2903. Coverage for mental health wellness examinations.
+32 (a) On and after January 1, 2026, a health benefit plan that is
+33 offered, issued, renewed, delivered, or extended in this state shall provide
+34 coverage for an annual standalone mental health wellness examination that is
+35 performed by a licensed mental health professional to the extent permitted by
+36 federal law.
+3 04-07-2025 11:19:25 ANS054
+
+As Engrossed: H2/6/25 H2/11/25 H2/20/25 H3/20/25 S4/7/25 HB1290
+1 (b) The coverage for mental health wellness examinations under
+2 subsection (a) of this section shall:
+3 (1) Be no less extensive than the coverage provided for
+4 preventive services or primary care benefits under a health benefit plan;
+5 (2) Comply with the Paul Wellstone and Pete Domenici Mental Health
+6 Parity and Addiction Equity Act of 2008, Pub. L. No. 110-343; and
+7 (3)(A) Except as provided in subdivisions (b)(3)(B) and (C) of
+8 this section, not be subject to an annual deductible, copayment, coinsurance
+9 limit, or any other cost-sharing requirements.
+10 (B) Cost-sharing may be required if the applicable health
+11 benefit plan is governed by the federal Internal Revenue Code and the health
+12 benefit plan would lose its tax-exempt status as a result of the prohibition
+13 on cost-sharing requirements for a mental health wellness examination.
+14 (C) Cost-sharing is required for a health benefit plan
+15 issued by a healthcare insurer to a state entity under § 21-5-401 et seq.
+16
+17 23-79-2904. Rules.
+18 (a) The Insurance Commissioner shall promulgate rules to implement
+19 this subchapter.
+20 (b) The Secretary of the Department of Human Services shall promulgate
+21 rules necessary to implement this subchapter that may apply to the Arkansas
+22 Medicaid Program or the Arkansas Health and Opportunity for Me Program, § 23-
+23 61-1001 et seq.
+24 (c) The State Board of Finance shall promulgate rules necessary to
+25 implement this subchapter that may apply to the State and Public School Life
+26 and Health Insurance Program.
+27
+28 SECTION 3. EFFECTIVE DATE. This act is effective on and after January
+29 1, 2026.
+30
+31 /s/L. Johnson
+32
+33
+34
+35
+36
+4 04-07-2025 11:19:25 ANS054
+
+[DELETED:  A   EBL1     A E M O   T W T W  B   S c   S a  S   2  T b g m ]
+[DELETED:  H2 0  2  A   (     ( p d     ( f M e 6    (     (     ( U    (     ( a     (     (     ( l     ( h     ( C s     ( h     (     (     (   ( i C c]
+[DELETED:  H3 0 m i P    ( p   ( b    (    (    (    ( a e    (    (    (    (   ( t    (    ( b    ( s  ( u m    ( s   2  ( o c p f]
+[DELETED:  H4 0  ( s   ( p  ( P   ( t l    ( b b o  ( i   2  ( t  ( r M 6  ( i a   S 1  /     ]

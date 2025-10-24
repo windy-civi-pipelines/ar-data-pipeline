@@ -1,0 +1,101 @@
+Title: Stricken language would be deleted from and underlined language would be added to present law.
+Official Title: Stricken language would be deleted from and underlined language would be added to present law.
+Number of Sections: 1
+Source: versions - SB 160
+Media Type: application/pdf
+Strikethrough Detection: 1 sections found
+
+================================================================================
+
+Section 1:
+1 State of Arkansas As Engrossed: S3/31/25
+A Bill
+2 95th General Assembly
+3 Regular Session, 2025 SENATE BILL 160
+4
+5 By: Senators J. Dotson, M. McKee
+6 By: Representative Warren
+7
+For An Act To Be Entitled
+8
+9 AN ACT TO AMEND THE LAW CONCERNING ADMINISTRATION OF
+10 THE ARKANSAS PUBLIC EMPLOYEES' RETIREMENT SYSTEM; AND
+11 FOR OTHER PURPOSES.
+12
+13
+Subtitle
+14
+15 TO AMEND THE LAW CONCERNING
+16 ADMINISTRATION OF THE ARKANSAS PUBLIC
+17 EMPLOYEES' RETIREMENT SYSTEM.
+18
+19 BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF ARKANSAS:
+20
+21 SECTION 1. Arkansas Code § 24-4-101(30), as amended by Acts 2025, No.
+22 311, § 2, concerning the definition of "participating public employer" as it
+23 applies to the Arkansas Public Employees' Retirement System, is amended to
+24 add an additional subdivision read as follows:
+25 (D) The Arkansas Development Finance Authority;
+26
+27 SECTION 2. Arkansas Code § 24-4-104(b), concerning the membership of
+28 the Board of Trustees of the Arkansas Public Employees' Retirement System, is
+29 amended to add additional subdivisions to read as follows:
+30 (5) The Secretary of the Department of Shared Administrative
+31 Services; and
+32 (6) The Bank Commissioner.
+33
+34 /s/J. Dotson
+35
+36
+*LJH095*
+03-31-2025 10:40:21 LJH095
+[DELETED:  A      A T F   T A E  B   S 3 a a    (   S t a   ( S   (  /  ]
+
+
+================================================================================
+
+Raw Text:
+Stricken language would be deleted from and underlined language would be added to present law.
+1 State of Arkansas As Engrossed: S3/31/25
+A Bill
+2 95th General Assembly
+3 Regular Session, 2025 SENATE BILL 160
+4
+5 By: Senators J. Dotson, M. McKee
+6 By: Representative Warren
+7
+For An Act To Be Entitled
+8
+9 AN ACT TO AMEND THE LAW CONCERNING ADMINISTRATION OF
+10 THE ARKANSAS PUBLIC EMPLOYEES' RETIREMENT SYSTEM; AND
+11 FOR OTHER PURPOSES.
+12
+13
+Subtitle
+14
+15 TO AMEND THE LAW CONCERNING
+16 ADMINISTRATION OF THE ARKANSAS PUBLIC
+17 EMPLOYEES' RETIREMENT SYSTEM.
+18
+19 BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF ARKANSAS:
+20
+21 SECTION 1. Arkansas Code § 24-4-101(30), as amended by Acts 2025, No.
+22 311, § 2, concerning the definition of "participating public employer" as it
+23 applies to the Arkansas Public Employees' Retirement System, is amended to
+24 add an additional subdivision read as follows:
+25 (D) The Arkansas Development Finance Authority;
+26
+27 SECTION 2. Arkansas Code § 24-4-104(b), concerning the membership of
+28 the Board of Trustees of the Arkansas Public Employees' Retirement System, is
+29 amended to add additional subdivisions to read as follows:
+30 (5) The Secretary of the Department of Shared Administrative
+31 Services; and
+32 (6) The Bank Commissioner.
+33
+34 /s/J. Dotson
+35
+36
+*LJH095*
+03-31-2025 10:40:21 LJH095
+
+[DELETED:  A      A T F   T A E  B   S 3 a a    (   S t a   ( S   (  /  ]

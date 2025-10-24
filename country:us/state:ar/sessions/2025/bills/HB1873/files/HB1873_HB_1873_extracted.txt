@@ -1,0 +1,101 @@
+Title: Stricken language would be deleted from and underlined language would be added to present law.
+Official Title: Stricken language would be deleted from and underlined language would be added to present law.
+Number of Sections: 1
+Source: versions - HB 1873
+Media Type: application/pdf
+Strikethrough Detection: 1 sections found
+
+================================================================================
+
+Section 1:
+1 State of Arkansas
+A Bill
+2 95th General Assembly
+3 Regular Session, 2025 HOUSE BILL 1873
+4
+5 By: Representative B. McKenzie
+6
+7
+For An Act To Be Entitled
+8
+9 AN ACT CONCERNING NOTIFICATION TO PERSONS ELECTED TO
+10 SERVE AS A MEMBER OF THE GENERAL ASSEMBLY OF THE
+11 YEARS OF SERVICE REMAINING BEFORE REACHING THE
+12 LIMITATION ON SERVICE UNDER THE ARKANSAS
+13 CONSTITUTION; AND FOR OTHER PURPOSES.
+14
+15
+Subtitle
+16
+17 CONCERNING NOTIFICATION TO PERSONS
+18 ELECTED TO SERVE AS A MEMBER OF THE
+19 GENERAL ASSEMBLY OF THE YEARS OF SERVICE
+20 REMAINING BEFORE REACHING THE LIMITATION
+21 ON SERVICE UNDER THE ARKANSAS
+22 CONSTITUTION.
+23
+24 BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF ARKANSAS:
+25
+26 SECTION 1. Arkansas Code Title 10, Chapter 2, Subchapter 1, is amended
+27 to add an additional section to read as follows:
+28 10-2-135. Notification of service time remaining for member of General
+29 Assembly.
+30 No later than thirty (30) days following the certification of a
+31 candidate as the winner of an election for the office of member of the
+32 General Assembly, the Secretary of State shall notify the candidate of how
+33 many years the member may serve in the General Assembly before reaching the
+34 limitation on service applicable to the candidate under Arkansas
+35 Constitution, Amendment 73, § 2.
+36
+*MBM078*
+03/20/2025 10:09:05 AM MBM078
+[DELETED:       A S Y L C  C E G R O C  B   S t  1 A  N c G m l C]
+
+
+================================================================================
+
+Raw Text:
+Stricken language would be deleted from and underlined language would be added to present law.
+1 State of Arkansas
+A Bill
+2 95th General Assembly
+3 Regular Session, 2025 HOUSE BILL 1873
+4
+5 By: Representative B. McKenzie
+6
+7
+For An Act To Be Entitled
+8
+9 AN ACT CONCERNING NOTIFICATION TO PERSONS ELECTED TO
+10 SERVE AS A MEMBER OF THE GENERAL ASSEMBLY OF THE
+11 YEARS OF SERVICE REMAINING BEFORE REACHING THE
+12 LIMITATION ON SERVICE UNDER THE ARKANSAS
+13 CONSTITUTION; AND FOR OTHER PURPOSES.
+14
+15
+Subtitle
+16
+17 CONCERNING NOTIFICATION TO PERSONS
+18 ELECTED TO SERVE AS A MEMBER OF THE
+19 GENERAL ASSEMBLY OF THE YEARS OF SERVICE
+20 REMAINING BEFORE REACHING THE LIMITATION
+21 ON SERVICE UNDER THE ARKANSAS
+22 CONSTITUTION.
+23
+24 BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF ARKANSAS:
+25
+26 SECTION 1. Arkansas Code Title 10, Chapter 2, Subchapter 1, is amended
+27 to add an additional section to read as follows:
+28 10-2-135. Notification of service time remaining for member of General
+29 Assembly.
+30 No later than thirty (30) days following the certification of a
+31 candidate as the winner of an election for the office of member of the
+32 General Assembly, the Secretary of State shall notify the candidate of how
+33 many years the member may serve in the General Assembly before reaching the
+34 limitation on service applicable to the candidate under Arkansas
+35 Constitution, Amendment 73, § 2.
+36
+*MBM078*
+03/20/2025 10:09:05 AM MBM078
+
+[DELETED:       A S Y L C  C E G R O C  B   S t  1 A  N c G m l C]

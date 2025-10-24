@@ -1,0 +1,49 @@
+Title: ______________________________________________________________________
+Official Title: ______________________________________________________________________
+Number of Sections: 1
+Source: versions - Amendment H1
+Media Type: application/pdf
+Strikethrough Detection: 1 sections found
+
+================================================================================
+
+Section 1:
+Hall of the House of Representatives
+95th General Assembly - Regular Session, 2025
+Amendment Form
+Subtitle of House Resolution 1001
+TO ADOPT THE RULES OF THE HOUSE OF REPRESENTATIVES OF THE NINETY-FIFTH
+GENERAL ASSEMBLY.
+______________________________________________________________________
+Amendment No. 1 to House Resolution 1001
+Amend House Resolution 1001 as originally introduced:
+Page 27, delete lines 17-22
+*.JET021*
+The Amendment was read ________________________________________________________________________________
+By: Representative Evans
+JET/JET - 01-14-2025 05:55:51 _________________________
+JET021 Chief Clerk
+[DELETED:  _ CA  ]
+
+
+================================================================================
+
+Raw Text:
+Hall of the House of Representatives
+95th General Assembly - Regular Session, 2025
+Amendment Form
+______________________________________________________________________
+Subtitle of House Resolution 1001
+TO ADOPT THE RULES OF THE HOUSE OF REPRESENTATIVES OF THE NINETY-FIFTH
+GENERAL ASSEMBLY.
+______________________________________________________________________
+Amendment No. 1 to House Resolution 1001
+Amend House Resolution 1001 as originally introduced:
+Page 27, delete lines 17-22
+*.JET021*
+The Amendment was read ________________________________________________________________________________
+By: Representative Evans
+JET/JET - 01-14-2025 05:55:51 _________________________
+JET021 Chief Clerk
+
+[DELETED:  _ CA  ]

@@ -1,0 +1,147 @@
+Title: ______________________________________________________________________
+Official Title: ______________________________________________________________________
+Number of Sections: 1
+Source: versions - Amendment H1
+Media Type: application/pdf
+Strikethrough Detection: 3 sections found
+
+================================================================================
+
+Section 1:
+Hall of the House of Representatives
+95th General Assembly - Regular Session, 2025
+Amendment Form
+Subtitle of House Bill 1003
+AN ACT FOR THE ARKANSAS HOUSE OF REPRESENTATIVES - STAFF
+APPROPRIATION FOR THE 2025-2026 FISCAL YEAR.
+______________________________________________________________________
+Amendment No. 1 to House Bill 1003
+Amend House Bill 1003 as originally introduced:
+Page 1, delete SECTION 1 in its entirety and replace with the following:
+" SECTION 1. REGULAR SALARIES - HOUSE STAFF. There is hereby established
+for the Arkansas House of Representatives for the 2025-2026 fiscal year, the
+following maximum number of regular employees.
+Maximum Annual
+Maximum Salary Rate
+Item No. of Fiscal Year
+No. Title Employees 2025-2026
+(1) CHIEF OF STAFF 1 GRADE EXE04
+(2) CHIEF COUNSEL/PARLIAMENTARIAN 1 GRADE EXE03
+(3) COORD LEGISLATIVE SERV 1 GRADE EXE01
+(4) CHIEF INFORMATION OFFICER 1 GRADE SPC08
+(5) CHIEF CLERK/FISCAL OFFICER 1 GRADE SPC08
+(6) DIRECTOR OF MEMBER SERVICES 1 GRADE SPC08
+(7) ADMIN SPECIALIST/TRAVEL COORDINATOR 1 GRADE SGS10
+(8) HOUSE PROPERTIES & FACILITIES MGR 1 GRADE SPC03
+(9) DIRECTOR OF OPS/EXEC ADMIN TO THE SPEAKER 1 GRADE SPC08
+(10) ADMINISTRATIVE SPECIALIST 1 GRADE SGS09
+(11) CHIEF SECURITY OFFICER/SERGEANT AT ARMS 1 GRADE LES05
+(12) ASST CHIEF CLERK/ASST FISCAL OFFICER 1 GRADE SPC02
+(13) COMMUNICATIONS SPECIALIST/VIDEOGRAPHER 1 GRADE IST07
+*.JAR065*
+JAR065 - 04-02-2025 11:56:17 Page 1 of 3
+(14) COMMUNICATIONS SPECIALIST/PHOTOGRAPHER 1 GRADE SPC01
+(15) ADMINISTRATIVE RECEPTIONIST 2 GRADE SGS06
+(16) ASST HOUSE PROPERTIES & FACILITIES MGR 1 GRADE SGS04
+(17) COMMUNICATIONS SPECIALIST/SOUND CLERK 1 GRADE SGS06
+MAX. NO. OF EMPLOYEES 18"
+AND
+Page 4, line 1, delete "GS11" and insert "SGS10"
+AND
+Page 4, line 2, delete "GS11" and insert "SGS11"
+AND
+Page 4, line 3, delete "GS09" and insert "SGS07"
+AND
+Page 4, line 4, delete "GS06" and insert "SGS06"
+AND
+Page 4, line 5, delete "GS05" and insert "SGS05"
+AND
+Page 4, line 36, delete "GS09" and insert "SGS07"
+AND
+Page 5, line 1, delete "GS06" and insert "SGS06"
+AND
+JAR065 - 04-02-2025 11:56:17 Amendment No. 1 to House Bill 1003 Page 2 of 3
+Page 5, line 2, delete "GS06" and insert "SGS05"
+AND
+Page 5, line 3, delete "GS05" and insert "SGS05".
+The Amendment was read ________________________________________________________________________________
+By: HOUSE MANAGEMENT
+JAR/JAR - 04-02-2025 11:56:18 _________________________
+JAR065 Chief Clerk
+JAR065 - 04-02-2025 11:56:17 Amendment No. 1 to House Bill 1003 Page 3 of 3
+[DELETED:  PA   S]
+[DELETED:  P]
+[DELETED:  P _ C]
+
+
+================================================================================
+
+Raw Text:
+Hall of the House of Representatives
+95th General Assembly - Regular Session, 2025
+Amendment Form
+______________________________________________________________________
+Subtitle of House Bill 1003
+AN ACT FOR THE ARKANSAS HOUSE OF REPRESENTATIVES - STAFF
+APPROPRIATION FOR THE 2025-2026 FISCAL YEAR.
+______________________________________________________________________
+Amendment No. 1 to House Bill 1003
+Amend House Bill 1003 as originally introduced:
+Page 1, delete SECTION 1 in its entirety and replace with the following:
+" SECTION 1. REGULAR SALARIES - HOUSE STAFF. There is hereby established
+for the Arkansas House of Representatives for the 2025-2026 fiscal year, the
+following maximum number of regular employees.
+Maximum Annual
+Maximum Salary Rate
+Item No. of Fiscal Year
+No. Title Employees 2025-2026
+(1) CHIEF OF STAFF 1 GRADE EXE04
+(2) CHIEF COUNSEL/PARLIAMENTARIAN 1 GRADE EXE03
+(3) COORD LEGISLATIVE SERV 1 GRADE EXE01
+(4) CHIEF INFORMATION OFFICER 1 GRADE SPC08
+(5) CHIEF CLERK/FISCAL OFFICER 1 GRADE SPC08
+(6) DIRECTOR OF MEMBER SERVICES 1 GRADE SPC08
+(7) ADMIN SPECIALIST/TRAVEL COORDINATOR 1 GRADE SGS10
+(8) HOUSE PROPERTIES & FACILITIES MGR 1 GRADE SPC03
+(9) DIRECTOR OF OPS/EXEC ADMIN TO THE SPEAKER 1 GRADE SPC08
+(10) ADMINISTRATIVE SPECIALIST 1 GRADE SGS09
+(11) CHIEF SECURITY OFFICER/SERGEANT AT ARMS 1 GRADE LES05
+(12) ASST CHIEF CLERK/ASST FISCAL OFFICER 1 GRADE SPC02
+(13) COMMUNICATIONS SPECIALIST/VIDEOGRAPHER 1 GRADE IST07
+*.JAR065*
+JAR065 - 04-02-2025 11:56:17 Page 1 of 3
+
+(14) COMMUNICATIONS SPECIALIST/PHOTOGRAPHER 1 GRADE SPC01
+(15) ADMINISTRATIVE RECEPTIONIST 2 GRADE SGS06
+(16) ASST HOUSE PROPERTIES & FACILITIES MGR 1 GRADE SGS04
+(17) COMMUNICATIONS SPECIALIST/SOUND CLERK 1 GRADE SGS06
+MAX. NO. OF EMPLOYEES 18"
+AND
+Page 4, line 1, delete "GS11" and insert "SGS10"
+AND
+Page 4, line 2, delete "GS11" and insert "SGS11"
+AND
+Page 4, line 3, delete "GS09" and insert "SGS07"
+AND
+Page 4, line 4, delete "GS06" and insert "SGS06"
+AND
+Page 4, line 5, delete "GS05" and insert "SGS05"
+AND
+Page 4, line 36, delete "GS09" and insert "SGS07"
+AND
+Page 5, line 1, delete "GS06" and insert "SGS06"
+AND
+JAR065 - 04-02-2025 11:56:17 Amendment No. 1 to House Bill 1003 Page 2 of 3
+
+Page 5, line 2, delete "GS06" and insert "SGS05"
+AND
+Page 5, line 3, delete "GS05" and insert "SGS05".
+The Amendment was read ________________________________________________________________________________
+By: HOUSE MANAGEMENT
+JAR/JAR - 04-02-2025 11:56:18 _________________________
+JAR065 Chief Clerk
+JAR065 - 04-02-2025 11:56:17 Amendment No. 1 to House Bill 1003 Page 3 of 3
+
+[DELETED:  PA   S]
+[DELETED:  P]
+[DELETED:  P _ C]

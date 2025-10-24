@@ -1,0 +1,884 @@
+Stricken language would be deleted from and underlined language would be added to present law.
+1 State of Arkansas As Engrossed: H3/4/25
+A Bill
+2 95th General Assembly
+3 Regular Session, 2025 HOUSE BILL 1533
+4
+5 By: Representative Gramlich
+6 By: Senator J. Boyd
+7
+For An Act To Be Entitled
+8
+9 AN ACT TO CREATE THE DECENTRALIZED UNINCORPORATED
+10 NONPROFIT ASSOCIATION ACT; AND FOR OTHER PURPOSES.
+11
+12
+Subtitle
+13
+14 TO CREATE THE DECENTRALIZED
+15 UNINCORPORATED NONPROFIT ASSOCIATION
+16 ACT.
+17
+18 BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF ARKANSAS:
+19
+20 SECTION 1. Arkansas Code Title 4, Chapter 28, is amended to add an
+21 additional subchapter to read as follows:
+22 Subchapter 7 — Decentralized Unincorporated Nonprofit Association Act
+23
+24 4-28-701. Title.
+25 This subchapter shall be known and may be cited as the “Decentralized
+26 Unincorporated Nonprofit Association Act”.
+27
+28 4-28-702. Definitions.
+29 As used in this subchapter:
+30 (1) “Administrator” means a member of a decentralized
+31 unincorporated nonprofit association authorized by vote of the membership to
+32 fulfill administrative or operational tasks;
+33 (2) “Decentralized unincorporated nonprofit association” means
+34 an unincorporated nonprofit association:
+35 (A) Consisting of at least one hundred (100) members
+36 joined by mutual consent under an agreement which may be in writing or
+*ANS273*
+03-04-2025 10:14:58 ANS273
+
+As Engrossed: H3/4/25 HB1533
+1 implied from conduct, for a common nonprofit purpose;
+2 (B) That has elected to be organized under this
+3 subchapter; and
+4 (C) That is not formed under any other statute that
+5 governs its organization and operation;
+6 (3)(A) “Digital asset” means a representation of economic,
+7 proprietary, or access rights stored in a computer readable format.
+8 (B) “Digital asset” does not include any underlying asset
+9 unless the asset itself is an electronic record;
+10 (4) “Distributed ledger technology” means a software protocol
+11 that:
+12 (A) Governs the rules, operations, and communications
+13 between intersection and connection points in a telecommunications network
+14 and its supporting infrastructure;
+15 (B) Includes the computer software, hardware, or
+16 collection of computer software and hardware, which use or enable distributed
+17 ledger technologies, including blockchain; and
+18 (C) Uses a distributed, shared, and replicated ledger,
+19 which may:
+20 (i) Be public or private;
+21 (ii) Be permissioned or permissionless; or
+22 (iii) Include the use of a digital asset as a medium
+23 of electronic exchange;
+24 (5) “Distribution” means the payment of a dividend or any part
+25 of the income or profit of a decentralized unincorporated nonprofit
+26 association to its members or administrators;
+27 (6) “Established practices” means the practices used by a
+28 decentralized unincorporated nonprofit association without material change
+29 during the most recent five (5) years of its existence, or if it has existed
+30 for less than five (5) years, during its entire existence;
+31 (7)(A) “Governing principles” means all agreements, including
+32 without limitation articles of association, consensus formation algorithms,
+33 or enacted governance proposals, whether in a record, implied from its
+34 established practices, or in any combination thereof, that govern the purpose
+35 or operation of a decentralized unincorporated nonprofit association and the
+36 rights and obligations of its members and administrators.
+2 03-04-2025 10:14:58 ANS273
+
+As Engrossed: H3/4/25 HB1533
+1 (B) “Governing principles” includes any amendment or
+2 restatement of the agreements constituting the governing principles of a
+3 decentralized unincorporated nonprofit association;
+4 (8) “Member” means a person that, under the governing principles
+5 of a decentralized unincorporated nonprofit association, may participate in
+6 the development of the policies and activities of the decentralized
+7 unincorporated nonprofit association or the selection of administrators;
+8 (9) “Membership interest” means a member’s voting right in a
+9 decentralized unincorporated nonprofit association as determined by the
+10 decentralized unincorporated nonprofit association’s governing principles;
+11 (10) “Person” means a natural person, a partnership, whether
+12 general or limited, a limited liability company, a trust, including without
+13 limitation a common-law trust, business trust, statutory trust, voting trust,
+14 or any other form of trust, an estate, an association, including without
+15 limitation any group, organization, cotenancy, plan, board, council or
+16 committee, a corporation, a government, including without limitation a
+17 country, state, county, or any other governmental subdivision, agency, or
+18 instrumentality, a custodian, a nominee, or any other individual or entity,
+19 or series thereof, in its own capacity or any representative capacity, in
+20 each case, whether domestic or foreign;
+21 (11) “Record” means information that is inscribed on a tangible
+22 medium or that is stored in an electronic or other medium and is retrievable
+23 in a perceivable form;
+24 (12) “Smart contract” means a computational process that
+25 executes on distributed ledger technology used to automate transactions,
+26 including without limitation:
+27 (A) Facilitating or instructing transfers of assets;
+28 (B) Creating and transmitting digital assets;
+29 (C) Synchronizing information;
+30 (D) Authenticating user rights and conveying access to
+31 software applications; or
+32 (E) Effectuating membership votes within an organization;
+33 and
+34 (13) “State” means a state of the United States, the District of
+35 Columbia, Puerto Rico, the United States Virgin Islands, or any territory or
+36 insular possession subject to the jurisdiction of the United States.
+3 03-04-2025 10:14:58 ANS273
+
+As Engrossed: H3/4/25 HB1533
+1
+2 4-28-703. Relation to other law.
+3 (a) Principles of law and equity supplement this subchapter unless
+4 displaced by a particular provision of the subchapter.
+5 (b) This subchapter does not repeal or modify a statute or rule for
+6 organizations that do not elect to become decentralized unincorporated
+7 nonprofit associations.
+8
+9 4-28-704. Governing law.
+10 (a) The law of this state governs any decentralized unincorporated
+11 nonprofit association that is formed in this state.
+12 (b) A decentralized unincorporated nonprofit association's governing
+13 principles shall identify the jurisdiction in which the association is
+14 formed.
+15
+16 4-28-705. Legal entity — Perpetual existence — Powers.
+17 A decentralized unincorporated nonprofit association:
+18 (1) Is a legal entity distinct from its members and
+19 administrators;
+20 (2) Has perpetual duration unless its governing principles
+21 otherwise specify; and
+22 (3)(A) May engage in profit-making activities.
+23 (B) Any profits under subdivision (3)(A) of this section
+24 shall be used in furtherance of, or set aside for, the decentralized
+25 unincorporated nonprofit association’s common nonprofit purpose.
+26
+27 4-28-706. Distributions prohibited — Compensation and other permitted
+28 payments.
+29 (a) Except as otherwise provided in subsection (b) of this section, a
+30 decentralized unincorporated nonprofit association shall not pay dividends or
+31 distribute any part of its income or profits to its members or
+32 administrators.
+33 (b) A decentralized unincorporated nonprofit association may:
+34 (1) Pay reasonable compensation or reimburse reasonable expenses
+35 to its members, administrators, and persons outside the organization for
+36 services rendered, including with respect to the administration and operation
+4 03-04-2025 10:14:58 ANS273
+
+As Engrossed: H3/4/25 HB1533
+1 of the decentralized unincorporated nonprofit association, which may include
+2 without limitation the provision of collateral for the self-insurance of the
+3 decentralized unincorporated nonprofit association, voting and participation;
+4 (2) Confer benefits on its members or administrators in
+5 conformity with its common nonprofit purpose or purposes;
+6 (3) Repurchase membership interests to the extent authorized by
+7 its governing principles; and
+8 (4) Make distributions of property to members upon winding up
+9 and termination to the extent permitted by § 4-28-728.
+10
+11 4-28-707. Ownership and transfer of property.
+12 (a) A decentralized unincorporated nonprofit association in its own
+13 name may acquire, hold, encumber, or transfer an estate or interest in real
+14 or personal property.
+15 (b) A decentralized unincorporated nonprofit association may be a
+16 beneficiary of a trust or contract, a legatee, or a devisee.
+17
+18 4-28-708. Statement of authority as to real property — Definition.
+19 (a) As used in this section, “statement of authority” means a
+20 statement authorizing a person to transfer an interest in real property held
+21 in the name of a decentralized unincorporated nonprofit association.
+22 (b) An interest in real property held in the name of a decentralized
+23 unincorporated nonprofit association may be transferred by a person
+24 authorized to do so in a statement of authority recorded by the decentralized
+25 unincorporated nonprofit association in the office in the county in which a
+26 transfer of the property would be recorded.
+27 (c) A statement of authority shall state:
+28 (1) The name of the decentralized unincorporated nonprofit
+29 association;
+30 (2) The address in this state, including the street address, if
+31 any, of the decentralized unincorporated nonprofit association or, if the
+32 decentralized unincorporated nonprofit association does not have an address
+33 in this state, its out-of-state address;
+34 (3) That the decentralized unincorporated nonprofit association
+35 is a decentralized unincorporated nonprofit association; and
+36 (4) The action, procedure or vote of the decentralized
+5 03-04-2025 10:14:58 ANS273
+
+As Engrossed: H3/4/25 HB1533
+1 unincorporated nonprofit association that authorizes the person to transfer
+2 the real property of the decentralized unincorporated nonprofit association
+3 and that authorizes the person to execute the statement of authority.
+4 (d) A statement of authority shall be executed in the same manner as
+5 an affidavit by a person who is not the person authorized to transfer the
+6 estate or interest.
+7 (e) A filing officer may collect a fee for recording a statement of
+8 authority in the amount authorized for recording a transfer of real property.
+9 (f) A record amending, revoking, or canceling a statement of authority
+10 or stating that the statement is unauthorized for recording an original
+11 statement may be filed.
+12 (g) Unless canceled earlier, a recorded statement of authority and its
+13 most recent amendment shall expire five (5) years after the date of the most
+14 recent recording.
+15 (h) If the record title to real property is in the name of a
+16 decentralized unincorporated nonprofit association and the statement of
+17 authority is recorded in the office of the county in which a transfer of real
+18 property would be recorded, the authority of the person named in a statement
+19 of authority under subdivision (c)(4) of this section is conclusive in favor
+20 of a person who gives value without notice that the person lacks authority.
+21
+22 4-28-709. Liability.
+23 (a)(1) A debt, obligation, or other liability of a decentralized
+24 unincorporated nonprofit association is solely the debt, obligation, or other
+25 liability of the decentralized unincorporated nonprofit association.
+26 (2) A member or administrator is not personally liable, directly
+27 or indirectly, by way of contribution or otherwise for a debt, obligation, or
+28 other liability of the decentralized unincorporated nonprofit association
+29 solely by reason of being or acting as a member or administrator.
+30 (3) Subdivisions (a)(1) and (a)(2) of this subsubsection apply
+31 regardless of the dissolution of the decentralized unincorporated nonprofit
+32 association.
+33 (b) A person’s status as a member or administrator does not prevent or
+34 restrict law other than this subchapter from imposing liability on the person
+35 or the decentralized unincorporated nonprofit association because of the
+36 person’s conduct.
+6 03-04-2025 10:14:58 ANS273
+
+As Engrossed: H3/4/25 HB1533
+1 (c) The failure of a decentralized unincorporated nonprofit
+2 association to observe formalities relating to the exercise of its powers or
+3 administration of its activities and affairs is not grounds for imposing
+4 liability on a member or administrator of the decentralized unincorporated
+5 nonprofit association for a debt, obligation, or other liability of the
+6 decentralized unincorporated nonprofit association.
+7
+8 4-28-710. Assertion and defense of claims.
+9 (a) A decentralized unincorporated nonprofit association, in its own
+10 name, may institute, defend, intervene, or participate in a judicial,
+11 administrative, or other governmental proceeding or in an arbitration,
+12 mediation, or any other form of alternative dispute resolution.
+13 (b)(1) A member or administrator may assert a claim the member or
+14 administrator has against the decentralized unincorporated nonprofit
+15 association.
+16 (2) A decentralized unincorporated nonprofit association may
+17 assert a claim it has against a member or administrator.
+18
+19 4-28-711. Effect of judgment or order.
+20 A judgment or order against a decentralized unincorporated nonprofit
+21 association is not by itself a judgment or order against a member or
+22 administrator.
+23
+24 4-28-712. Appointment of agent to receive service of process.
+25 (a) A decentralized unincorporated nonprofit association may file in
+26 the office of the Secretary of State a statement appointing an agent
+27 authorized to receive service of process.
+28 (b) A statement appointing an agent shall set forth:
+29 (1) The name of the decentralized unincorporated nonprofit
+30 association; and
+31 (2) The name of the person in this state authorized to receive
+32 service of process and the person’s address, including the street address, in
+33 this state.
+34 (c)(1) A statement appointing an agent shall be signed and
+35 acknowledged by a person authorized by the decentralized unincorporated
+36 nonprofit association.
+7 03-04-2025 10:14:58 ANS273
+
+As Engrossed: H3/4/25 HB1533
+1 (2) The statement required under subdivision (c)(1) of this
+2 section shall be signed and acknowledged by the person appointed agent, who
+3 thereby accepts the appointment.
+4 (3) The appointed agent may resign by filing a resignation in
+5 the office of the Secretary of State and giving notice to the decentralized
+6 unincorporated nonprofit association.
+7 (d) The Secretary of State may collect a fee for filing a statement
+8 appointing an agent to receive service of process, an amendment, or a
+9 resignation in the amount charged for filing similar documents.
+10 (e) An amendment to or cancellation of a statement appointing an agent
+11 to receive service of process shall meet the requirements for execution of an
+12 original statement.
+13 (f) An amendment shall be filed to update the office of the Secretary
+14 of State as to any change regarding an agent authorized to receive service of
+15 process within thirty (30) days of a change being made.
+16
+17 4-28-713. Service of process.
+18 In an action or proceeding against a decentralized unincorporated
+19 nonprofit association, a summons and complaint or other process shall be
+20 served on an agent authorized by appointment to receive service of process,
+21 any appointed administrator of the decentralized unincorporated nonprofit
+22 association, or in any other manner authorized by the law of this state.
+23
+24 4-28-714. Claim not abated by change of members or other persons.
+25 A claim for relief against a decentralized unincorporated nonprofit
+26 association does not abate because of a change in its members or persons
+27 authorized to administer the affairs of the decentralized unincorporated
+28 nonprofit association.
+29
+30 4-28-715. Venue.
+31 In addition to any other applicable state laws providing venue, venue
+32 of an action against a decentralized unincorporated nonprofit association may
+33 be brought in this state in the county in which the decentralized
+34 unincorporated nonprofit association has appointed an agent for services
+35 under § 4-28-712.
+36
+8 03-04-2025 10:14:58 ANS273
+
+As Engrossed: H3/4/25 HB1533
+1 4-28-716. Member has no agency power.
+2 A member of a decentralized unincorporated nonprofit association is not
+3 an agent of the decentralized unincorporated nonprofit association solely by
+4 reason of being a member.
+5
+6 4-28-717. Member approval.
+7 (a) Except as otherwise provided in the governing principles, a
+8 decentralized unincorporated nonprofit association shall have the approval of
+9 its members according to its governing principles to:
+10 (1) Suspend, dismiss, or expel a member;
+11 (2) Select or dismiss an administrator;
+12 (3) Adopt, amend, or repeal the governing principles;
+13 (4) Sell, lease, exchange, or otherwise dispose of all, or
+14 substantially all, of the decentralized unincorporated nonprofit
+15 association’s property, with or without the decentralized unincorporated
+16 nonprofit association’s goodwill, outside the ordinary course of its
+17 activities;
+18 (5) Dissolve under § 4-28-727, merge under § 4-28-729, or
+19 convert under § 4-28-730;
+20 (6) Undertake any other act outside the ordinary course of the
+21 decentralized unincorporated nonprofit association’s activities; or
+22 (7) Determine the policy and purposes of the decentralized
+23 unincorporated nonprofit association.
+24 (b) A decentralized unincorporated nonprofit association shall have
+25 the approval of the members according to its governing principles to do any
+26 other acts or exercise a right that the governing principles require to be
+27 approved by members.
+28 (c) Unless otherwise provided for in the governing principles,
+29 membership interest in a decentralized unincorporated nonprofit association
+30 shall be calculated in proportion to members' voting rights within the
+31 decentralized unincorporated nonprofit association.
+32
+33 4-28-718. Utilization of distributed ledger technology.
+34 (a) A decentralized unincorporated nonprofit association may provide
+35 for its governance, in whole or in part, through distributed ledger
+36 technology, including smart contracts.
+9 03-04-2025 10:14:58 ANS273
+
+As Engrossed: H3/4/25 HB1533
+1 (b) The governing principles for a decentralized unincorporated
+2 nonprofit association may:
+3 (1) Specify whether any distributed ledger technology utilized
+4 or enabled by the decentralized unincorporated nonprofit association shall be
+5 fully immutable or subject to change and whether any such ledger shall be
+6 fully or partially public or private, including the extent of members’ access
+7 to information; and
+8 (2) Adopt voting procedures, which may include smart contracts
+9 deployed to distributed ledger technology that provide for the following:
+10 (A) Proposals from administrators or members in the
+11 decentralized unincorporated nonprofit association for upgrades,
+12 modifications or additions to software systems or protocols;
+13 (B) Other proposed changes to the decentralized
+14 unincorporated nonprofit association’s governing principles; and
+15 (C) Any other matters of governance or activities within
+16 the purpose of the decentralized unincorporated nonprofit association.
+17
+18 4-28-719. Consensus formation algorithms and governance process.
+19 According to its governing principles, a decentralized unincorporated
+20 nonprofit association may:
+21 (1) Adopt any reasonable algorithm for establishing consensus
+22 for the validation of records, as well as for establishing requirements,
+23 processes, and procedures for conducting operations, or making organizational
+24 decisions with respect to the distributed ledger technology used by the
+25 decentralized unincorporated nonprofit association; and
+26 (2) According to any procedure specified under § 4-28-718,
+27 modify the consensus mechanism as well as the requirements, processes, and
+28 procedures, or substitute a new consensus mechanism, requirement, processes,
+29 or procedures that comply with the requirements of law and the governing
+30 principles of the decentralized unincorporated nonprofit association.
+31
+32 4-28-720. Duties to members.
+33 (a) A member does not have any fiduciary duty to a decentralized
+34 unincorporated nonprofit association or to any other member of the
+35 decentralized unincorporated nonprofit association solely by being a member.
+36 (b) A member shall discharge the duties and obligations under this
+10 03-04-2025 10:14:58 ANS273
+
+As Engrossed: H3/4/25 HB1533
+1 subchapter or under the governing principles and exercise any rights
+2 consistent with the contractual obligation of good faith and fair dealing.
+3
+4 4-28-721. Admission, suspension, dismissal, or expulsion of members.
+5 (a)(1) A person becomes a member according to the governing principles
+6 of the decentralized unincorporated nonprofit association.
+7 (2) If there are no applicable governing principles, a person
+8 shall:
+9 (A) Be considered a member upon such person’s purchase or
+10 assumption of a right of ownership of a membership interest or other property
+11 or instruments that confers upon a person a voting right within the
+12 decentralized unincorporated nonprofit association; and
+13 (B) Continue as a member until the earlier of the person’s
+14 resignation under § 4-28-722 or expulsion under subsection (b) of this
+15 section.
+16 (b)(1) A member may be suspended or expelled according to the
+17 governing principles of the decentralized unincorporated nonprofit
+18 association.
+19 (2) If there are no applicable governing principles, a person
+20 may be suspended or expelled from a decentralized unincorporated nonprofit
+21 association only by a vote of its members.
+22 (c) Unless the governing principles provide otherwise, the suspension
+23 or expulsion of a member does not relieve the member from any obligation
+24 incurred or commitment made by the member before suspension or expulsion.
+25
+26 4-28-722. Member’s resignation.
+27 (a)(1) A member may resign as a member of a decentralized
+28 unincorporated nonprofit association according to the governing principles.
+29 (2) In the absence of applicable governing principles, a member
+30 shall be deemed to have resigned as a member upon the disposal, voluntary or
+31 involuntary, of all membership interest or other property or instruments that
+32 confers upon the person a voting right within the decentralized
+33 unincorporated nonprofit association.
+34 (b) Unless a decentralized unincorporated nonprofit association’s
+35 governing principles provide otherwise, resignation of a member does not
+36 relieve the member from any unpaid capital contribution, dues, assessments,
+11 03-04-2025 10:14:58 ANS273
+
+As Engrossed: H3/4/25 HB1533
+1 fees, or other obligation incurred or commitment made by the member before
+2 resignation.
+3
+4 4-28-723. Membership interest transferable.
+5 Except as otherwise provided in the decentralized unincorporated
+6 nonprofit association’s governing principles, a member’s interest or any
+7 right thereunder is freely transferable to another person through conveyance
+8 of membership interest.
+9
+10 4-28-724. Selection of administrators — Rights and duties of
+11 administrators.
+12 (a) Except as otherwise provided in this subchapter or a decentralized
+13 unincorporated nonprofit association’s governing principles, the members may
+14 select the decentralized unincorporated nonprofit association’s
+15 administrators according to § 4-28-717.
+16 (b) If an administrator is not selected, then no member of the
+17 association is an administrator.
+18 (c) As there is no requirement that a decentralized unincorporated
+19 nonprofit association should have administrators, there are no default
+20 obligations, and the rights and duties of an administrator or administrators
+21 are a result of the specific authority authorized by the decentralized
+22 unincorporated nonprofit association through approval of its members
+23 according to § 4-28-717 and contractual agreement with its administrator or
+24 administrators.
+25 (d) An administrator has no authority to act on behalf of the
+26 decentralized unincorporated nonprofit association beyond the specific
+27 authorization granted in the selection process.
+28 (e) If in a record, the governing principles of a decentralized
+29 unincorporated nonprofit association may limit or eliminate the liability of
+30 an administrator to the decentralized unincorporated nonprofit association or
+31 its members for money damages for any action taken, or for failure to take
+32 any action, as an administrator except liability for:
+33 (1) The amount of financial benefit improperly received by an
+34 administrator;
+35 (2) An intentional infliction of harm on the decentralized
+36 unincorporated nonprofit association or its members;
+12 03-04-2025 10:14:58 ANS273
+
+As Engrossed: H3/4/25 HB1533
+1 (3) An intentional violation of criminal law;
+2 (4) A breach of the duty of loyalty should one exist, unless a
+3 full disclosure of all material facts, a specific act or transaction that
+4 would otherwise violate the duty of loyalty by an agent be authorized by
+5 approval of the disinterested members under § 4-28-717; or
+6 (5) Improper distributions.
+7
+8 4-28-725. Rights of members and administrators to information.
+9 (a) On reasonable notice, a member or administrator of a decentralized
+10 unincorporated nonprofit association is entitled to an electronic record of
+11 any record maintained by the decentralized unincorporated nonprofit
+12 association regarding its activities, financial condition, and other
+13 circumstances, to the extent the information exists and is material to the
+14 member’s or administrator’s rights and duties under the decentralized
+15 unincorporated nonprofit association’s governing principles of this
+16 subchapter, subject to subsection (b) of this section.
+17 (b) A decentralized unincorporated nonprofit association has no
+18 obligation to furnish any record maintained by the decentralized
+19 unincorporated nonprofit association for record requests which the member or
+20 administrator has access, including through records made available on
+21 distributed ledger technology.
+22 (c) A decentralized unincorporated nonprofit association may impose
+23 reasonable restrictions on access to and use of information to be furnished
+24 under this section, including designating the information confidential and
+25 imposing nondisclosure and safeguarding obligations on the recipient.
+26 (d) A former member or administrator may have access to information to
+27 which the member or administrator was entitled while a member or
+28 administrator if the information pertains to the period during which the
+29 person was a member or administrator, the former member or administrator
+30 seeks the information in good faith, and the former member or administrator
+31 satisfies the requirements of subsections (a)—(c) of this section.
+32 (e) A decentralized unincorporated nonprofit association has no
+33 obligation to collect and maintain member listings.
+34
+35 4-28-726. Reimbursement — Indemnification — Advancement of expenses —
+36 Insurance.
+13 03-04-2025 10:14:58 ANS273
+
+As Engrossed: H3/4/25 HB1533
+1 (a) Except as otherwise provided in a decentralized unincorporated
+2 nonprofit association’s governing principles, members or administrators may
+3 be reimbursed for authorized expenses reasonably incurred on behalf of the
+4 decentralized unincorporated nonprofit association.
+5 (b)(1) A decentralized unincorporated nonprofit association may
+6 indemnify a member or manager for any debt, obligation, or other liability
+7 incurred during the member or administrator’s activities on behalf of the
+8 decentralized unincorporated nonprofit association.
+9 (2) To be eligible for indemnification, an administrator shall
+10 have complied with the duties stated in § 4-28-724.
+11 (3) If in a record, a decentralized unincorporated nonprofit
+12 association’s governing principles may broaden or limit this right of
+13 indemnification.
+14 (c)(1) If a person is made or threatened to be made a party in a
+15 proceeding based on that person’s conduct of the affairs of a decentralized
+16 unincorporated nonprofit association, that person is entitled, upon written
+17 request to the decentralized unincorporated nonprofit association, and
+18 approval, in a record, of the disinterested members under § 4-28-717 of this
+19 subchapter, to receive payment of or reimbursement by the decentralized
+20 unincorporated nonprofit association of reasonable expenses, including
+21 attorney’s fees and disbursements, incurred by that person in advance of the
+22 final disposition of the proceeding.
+23 (2) To be entitled to the advance payments or reimbursements
+24 under subdivision (c)(1) of this section, the person making the request shall
+25 make a written affirmation that the person has a good faith belief that the
+26 criteria for indemnification in subsection (a) of this section have been
+27 satisfied and that the person will repay the amounts paid or reimbursed if it
+28 is determined that the criteria for reimbursement have not been satisfied.
+29 (d) A decentralized unincorporated nonprofit association may purchase
+30 and maintain insurance on behalf of a member or administrator for liability
+31 asserted against or incurred by the member or administrator in that capacity,
+32 whether or not the decentralized unincorporated nonprofit association would
+33 have the power to indemnify or advance expenses to the member or
+34 administrator against the same liability under this subchapter.
+35 (e) These rights of reimbursement, indemnification, and advancement of
+36 expense apply to former members or administrators for activities undertaken
+14 03-04-2025 10:14:58 ANS273
+
+As Engrossed: H3/4/25 HB1533
+1 on behalf of the decentralized unincorporated nonprofit association while
+2 they were members or administrators.
+3
+4 4-28-727. Dissolution — Continuation of existence.
+5 (a) A decentralized unincorporated nonprofit association may be
+6 dissolved by any of the following methods:
+7 (1) If the governing principles of the association provide a
+8 time or method for dissolution by that method;
+9 (2) If the governing principles of the association do not
+10 provide a method for dissolution, upon approval of the members according to §
+11 4-28-717;
+12 (3) If membership in the organization falls below one hundred
+13 (100) members; or
+14 (4) By court order.
+15 (b) After dissolution, a decentralized unincorporated nonprofit
+16 association shall continue in existence until its activities have been wound
+17 up and it is terminated under § 4-28-728.
+18
+19 4-28-728. Winding up and termination.
+20 (a) A dissolved decentralized unincorporated nonprofit association
+21 shall wind up its business and the decentralized unincorporated nonprofit
+22 association continues after dissolution only for the purpose of winding up.
+23 (b) In winding up a decentralized unincorporated nonprofit
+24 association, the members shall:
+25 (1) Discharge the decentralized unincorporated nonprofit
+26 association’s debts, obligations, and other liabilities;
+27 (2) Settle and close the decentralized unincorporated nonprofit
+28 association’s business; and
+29 (3) Marshal and distribute any remaining property:
+30 (i) As required by law other than this subchapter that
+31 requires assets of a decentralized unincorporated nonprofit association to be
+32 distributed to another entity or person with similar nonprofit purposes;
+33 (ii) According to the decentralized unincorporated
+34 nonprofit association’s governing principles and in the absence of applicable
+35 governing principles, to the current members of the association in proportion
+36 to their membership interests; or
+15 03-04-2025 10:14:58 ANS273
+
+As Engrossed: H3/4/25 HB1533
+1 (iii) If neither subdivisions (b)(3)(i) or (b)(3)(ii) of
+2 this section applies, then under the Unclaimed Property Act, § 18-28-201 et
+3 seq.
+4 (c) In winding up a decentralized unincorporated nonprofit
+5 association, the members may:
+6 (1) Appoint an administrator or administrators authorized to
+7 wind up the decentralized unincorporated nonprofit association according to §
+8 4-28-717;
+9 (2) Preserve the decentralized unincorporated nonprofit
+10 association operations and property as a going concern for a reasonable time;
+11 (3) Prosecute and defend actions and proceedings, whether civil,
+12 criminal, or administrative;
+13 (4) Transfer the decentralized unincorporated nonprofit
+14 association’s property;
+15 (5) Settle disputes by mediation or arbitration;
+16 (6) Receive reasonable compensation for services rendered in
+17 winding up the decentralized unincorporated nonprofit association; and
+18 (7) Perform other acts necessary or appropriate to the winding
+19 up.
+20 (d) If the members of decentralized unincorporated nonprofit
+21 association do not appoint an administrator or administrators to wind up the
+22 decentralized unincorporated nonprofit association, the members themselves
+23 shall each owe the decentralized unincorporated nonprofit association a duty
+24 of care in the conduct or winding up of the decentralized unincorporated
+25 nonprofit association operations to refrain from engaging in grossly
+26 negligent or reckless conduct, willful or intentional misconduct, or a
+27 knowing violation of the law.
+28
+29 4-28-729. Mergers — Definitions.
+30 (a) As used in this section:
+31 (1) "Constituent organization" means an organization that is
+32 merged with one or more other organizations and includes the surviving
+33 organization;
+34 (2) "Disappearing organization" means a constituent organization
+35 that is not the surviving organization;
+36 (3)(A) "Organization" means a decentralized unincorporated
+16 03-04-2025 10:14:58 ANS273
+
+As Engrossed: H3/4/25 HB1533
+1 nonprofit association, an unincorporated nonprofit association, a general
+2 partnership, including a limited liability partnership, a limited
+3 partnership, including a limited liability limited partnership, limited
+4 liability company, business, or statutory trust, a corporation, or any other
+5 legal or commercial entity having a statute governing its formation and
+6 operation.
+7 (B) "Organization" includes a domestic or foreign
+8 organization regardless of whether the organization is a for profit
+9 organization; and
+10 (4) "Surviving organization" means an organization into which
+11 one (1) or more other organizations are merged.
+12 (b) A decentralized unincorporated nonprofit association may merge
+13 with any organization that is authorized by law to effect a merger with a
+14 decentralized unincorporated nonprofit association.
+15 (c) A merger involving a decentralized unincorporated nonprofit
+16 association is subject to the following requirements:
+17 (1) Each of the constituent organizations complies with its
+18 governing law;
+19 (2)(A) Each party to the merger shall approve a plan of merger
+20 according to its governing principles.
+21 (B) The plan shall be in a record.
+22 (C) The plan shall include the following provisions:
+23 (i) The name and form of each organization that is a
+24 party to the merger;
+25 (ii) The name and form of the surviving organization
+26 and, if the surviving organization is to be created by the merger, a
+27 statement to that effect;
+28 (iii) The terms and conditions of the merger,
+29 including the manner and basis for converting the interests in each
+30 constituent organization into any combination of money, interests in the
+31 surviving organization, and other consideration;
+32 (iv) If the surviving organization is to be created
+33 by the merger, the surviving organization’s organizational documents that are
+34 proposed to be in a record; and
+35 (v) If the surviving organization is not to be
+36 created by the merger, any amendments to be made by the merger to the
+17 03-04-2025 10:14:58 ANS273
+
+As Engrossed: H3/4/25 HB1533
+1 surviving organization’s organizational documents that are, or are proposed
+2 to be, in a record;
+3 (3)(A) The plan of merger shall be approved by the members of
+4 each decentralized unincorporated nonprofit association that is a constituent
+5 organization in the merger.
+6 (B) If a member of a decentralized unincorporated
+7 nonprofit association that is a party to a merger has personal liability with
+8 respect to an obligation of a constituent or a surviving organization, the
+9 consent in a record of that member to the plan of merger shall also be
+10 obtained;
+11 (4) Subject to the contractual rights of third parties, after a
+12 plan of merger is approved and at any time before the merger is effective, a
+13 constituent organization may amend the plan or abandon the merger as provided
+14 in the plan, or except as otherwise prohibited in the plan, with the same
+15 consent as was required to approve the plan; and
+16 (5) Following approval of the plan, a merger under this section
+17 is effective:
+18 (A) If a constituent organization is required to give
+19 notice to or obtain the approval of a governmental agency or officer in order
+20 to be a party to a merger, the notice has been given and the approval has
+21 been obtained; and
+22 (B) If the surviving organization is a decentralized
+23 unincorporated nonprofit association, as specified in the plan of merger and
+24 upon compliance by any constituent organization that is not a decentralized
+25 unincorporated nonprofit association with any requirements of the
+26 organization's governing statute, including any required filings in the
+27 office of the Secretary of State; or
+28 (C) If the surviving organization is not a decentralized
+29 unincorporated nonprofit association, as provided by the statute governing
+30 the surviving organization.
+31 (d) When a merger becomes effective:
+32 (1) The surviving organization continues or comes into
+33 existence;
+34 (2) Each constituent organization that merges into the surviving
+35 organization ceases to exist as a separate entity;
+36 (3) All property owned by each constituent organization that
+18 03-04-2025 10:14:58 ANS273
+
+As Engrossed: H3/4/25 HB1533
+1 ceases to exist vests in the surviving organization;
+2 (4) All debts, obligations, or other liabilities of each
+3 constituent organization that ceases to exist continue as debts, obligations,
+4 or other liabilities of the surviving organization;
+5 (5) An action or proceeding pending by or against any
+6 constituent organization that ceases to exist may be continued as if the
+7 merger had not occurred;
+8 (6) Except as prohibited by other law, all of the rights,
+9 privileges, immunities, powers, and purposes of each constituent organization
+10 that ceases to exist vest in the surviving organization;
+11 (7) Except as otherwise provided in the plan of merger, the
+12 terms and conditions of the plan of merger take effect;
+13 (8) The merger does not affect the personal liability, if any,
+14 of a member, administrator, or manager of a constituent association for a
+15 debt, liability, or obligation of the association incurred before the merger
+16 is effective; and
+17 (9)(A) A surviving organization that is a foreign organization
+18 consents to the jurisdiction of the courts of this state to enforce any debt,
+19 obligation, or other liability owed by a constituent organization, if before
+20 the merger the constituent organization was subject to suit in this state on
+21 the debt, obligation, or other liability.
+22 (B) A surviving organization that is a foreign
+23 organization and not authorized to transact business in this state shall
+24 appoint the Secretary of State as its agent for service of process for the
+25 purposes of enforcing a debt, obligation, or other liability under
+26 subdivision (d)(9)(A) of this section.
+27 (e) Property held for a charitable purpose under the law of this state
+28 by a domestic or foreign organization immediately before a merger under this
+29 section becomes effective may not, as a result of the merger, be diverted
+30 from the objects for which it was donated, granted, or devised, unless, to
+31 the extent required under the law of this state concerning cy pres or other
+32 law dealing with nondiversion of charitable assets, the organization shall
+33 obtain an appropriate order of the Pulaski County Circuit Court specifying
+34 the disposition of the property.
+35 (f)(1) A bequest, devise, gift, grant, or promise contained in a will
+36 or other instrument of donation, subscription, or conveyance that is made to
+19 03-04-2025 10:14:58 ANS273
+
+As Engrossed: H3/4/25 HB1533
+1 a disappearing organization and that takes effect or remains payable after
+2 the merger inures to the benefit of the surviving organization.
+3 (2) A trust obligation that would govern property if transferred
+4 to the disappearing entity applies to property that is instead transferred to
+5 the surviving organization under this section.
+6
+7 4-28-730. Conversions — Definitions.
+8 (a) As used in this section:
+9 (1) "Conversion" means a transaction authorized by this section
+10 under which an entity of one (1) type is converted into an entity of another
+11 type;
+12 (2) "Converted entity" means the entity that results from a
+13 conversion; and
+14 (3) "Converting entity" means the entity that becomes the
+15 converted entity through a conversion.
+16 (b) A decentralized unincorporated nonprofit association may convert
+17 to any form of entity that is authorized by law to affect a conversion from a
+18 decentralized unincorporated nonprofit association.
+19 (c) A conversion involving a decentralized unincorporated nonprofit
+20 association is subject to the following requirements:
+21 (1) Each of the constituent converting organizations complies
+22 with its governing principles;
+23 (2)(A) The decentralized unincorporated organization, as a
+24 converting entity, shall approve a plan of conversion according to its
+25 governing principles.
+26 (B) The plan shall be in a record and include the
+27 following provisions:
+28 (i) The name of the converting decentralized
+29 unincorporated nonprofit association;
+30 (ii) The name, jurisdiction of formation, and type
+31 of entity of the converted entity;
+32 (iii) The manner of converting the interest in the
+33 converting decentralized unincorporated nonprofit association into interests,
+34 securities, obligations, money, other property, rights to acquire interests
+35 or securities, or any combination of the requirements under this section;
+36 (iv) If the converted entity requires a record that
+20 03-04-2025 10:14:58 ANS273
+
+As Engrossed: H3/4/25 HB1533
+1 is filed publicly to form, organize, incorporate, or otherwise create a
+2 converted entity, the converted entity’s organizational documents that are
+3 proposed to be in a record;
+4 (v) If the converted entity does not require a
+5 record that is filed publicly to form, organize, incorporate, or otherwise
+6 create a converted entity, a record of the converted entities' governing
+7 principles to the extent they exist;
+8 (vi) The other terms and conditions of the
+9 conversion; and
+10 (vii) Any other provision required by the law of
+11 this state or the governing principles of the converting decentralized
+12 unincorporated nonprofit association;
+13 (3)(A) The plan of conversion shall be approved by the members
+14 of the converting decentralized unincorporated according to its governing
+15 principles.
+16 (B) If a member of decentralized unincorporated nonprofit
+17 association that is a party to a conversion shall have personal liability
+18 with respect to an obligation of a converted entity or converting entity, the
+19 consent in a record of that member to the plan of conversion shall also be
+20 obtained;
+21 (4) Subject to the contractual rights of third parties, after a
+22 plan of conversion is approved and at any time before the conversion is
+23 effective, a converting entity may amend the plan or abandon the conversion
+24 as provided in the plan, or except as otherwise prohibited in the plan, with
+25 the same consent as was required to approve the plan; and
+26 (5) Following approval of the plan, a conversion under this
+27 section is effective:
+28 (A) If a converted entity is required to give notice to or
+29 obtain the approval of a governmental agency or officer in order to form an
+30 entity, the notice has been given and the approval has been obtained; and
+31 (B) If a converted entity is not required to give notice
+32 or obtain the approval of a governmental agency or officer in order to form
+33 an entity, as provided by the statute governing the converted entity.
+34 (d) A conversion becomes effective when the converted entity comes
+35 into existence.
+36 (e) When a conversion becomes effective:
+21 03-04-2025 10:14:58 ANS273
+
+As Engrossed: H3/4/25 HB1533
+1 (1) The converted entity is:
+2 (A) Organized under and subject to the laws of the
+3 converted entity; and
+4 (B) The same entity without interruption as the converting
+5 entity;
+6 (2) All property of the converting entity continues to be vested
+7 in the converted entity without transfer, reversion, or impairment;
+8 (3) All debts, obligations, and other liabilities of the
+9 converting entity continue as debts, obligations, and other liabilities of
+10 the converted entity; and
+11 (4) The name of the converted entity may be substituted for the
+12 name of the converting entity in any pending action or proceeding.
+13 (f) A conversion does not require the entity to wind up its affairs
+14 and does not constitute or cause the dissolution of the entity.
+15
+16 4-28-731. Uniformity of application and construction.
+17 In applying and construing this subchapter, consideration shall be
+18 given to the need to promote uniformity of the law with respect to its
+19 subject matter among states that enact it.
+20
+21 4-28-732. Effective date.
+22 This subchapter takes effect on January 1, 2026.
+23
+24 /s/Gramlich
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+22 03-04-2025 10:14:58 ANS273
+
+[DELETED:  A   EBL1     A N   T U A  B   S a S   4  T U   4  A   ( u f   ( a    ( j]
+[DELETED:  H2 0 i    ( s    ( g   ( p    ( u   ( t    ( b a    ( c l    ( w     (     (     ( o   ( o a   ( d d f   ( w o e o r]
+[DELETED:  H3 0    ( r d   ( o t u   ( d d   ( g l o l c c i o e   ( m i   ( e i    (    (    (    ( s    ( a   ( C i]
+[DELETED:  H4 0   4  ( d  ( o n   4  ( n  ( p f   4  A   ( a   ( o   (    ( s u   4 p  ( d d a  (   ( t s]
+[DELETED:  H5 0 o w d   ( c   ( i   ( a   4  ( n o  ( b   4  ( s i  ( u a u t  (   ( a   ( a d i   ( i   (]
+[DELETED:  H6 0 u t a  ( a e  ( a  ( o s  ( m r  ( d a p o o   4  ( u l   ( o o s   ( r a  ( r o p]
+[DELETED:  H7 0  ( a a l n d   4  ( n a m  ( a a   ( a   4  A a a   4  ( t a  (   ( a   ( s t  ( a n]
+[DELETED:  H8 0   ( s t   ( t u  ( a r  ( t o  ( o p   4  I n s a a   4  A a a n   4  I o b u u ]
+[DELETED:  H9 0  4  A a r   4  ( d i   (   (   (   ( s a n a   ( c   ( d   ( u  ( t o a  ( m s d   4  ( f t]
+[DELETED:  H1 0  ( n   ( o f f t   ( d    ( d m    ( u    ( t   4  A n   ( f p d d   ( m p o p    4  ( u d  (]
+[DELETED:  H1 0 s c   4  ( o   ( s    ( a o d    ( r s  ( g a   ( m a  ( o i   4  ( u   ( s i c u  ( g r]
+[DELETED:  H1 0 f r   4  E n r o   4 a  ( u s a  ( a  ( n o a u a a  ( d a  ( u a i a   ( a   ( u]
+[DELETED:  H1 0   (   ( f w a   (   4  ( u a a c m u s  ( o u a d  ( r u i  ( w a p s s  ( o   4 I]
+[DELETED:  H1 0  ( n b d  ( i i d   ( h   ( a i  ( p u r a s u a f   ( u m c s i  ( a a w h a  ( e]
+[DELETED:  H1 0 o t   4  ( d   ( t   ( p 4   ( (   (  ( a u   4  ( s a  ( a   ( a   ( a   (    ( r d    ( n g t]
+[DELETED:  H1 0    ( t s  ( a   ( w 4   ( a   ( c   ( a   (   ( w   ( u  ( a d s o n n k   4  (   ( m o   ( t   (]
+[DELETED:  H1 0 n p p l l o    ( o o   ( o  ( w d  ( a   ( g   ( a    (    (     ( p     ( a s     ( i c s     ( b p     ( c]
+[DELETED:  H1 0 s t   ( e o    ( n r c o   ( p c i c   ( i    ( n t b    ( u u u o o    ( u t  (   ( e   ( o   (]
+[DELETED:  H1 0 c   ( c o   ( c m   ( p t   ( t   ( o d i   ( c o t t    ( o a p s  ( b s f t l o t  ( o]
+[DELETED:  H2 0 a t   ( t t   4  (   ( u t   ( c   ( c  ( t d  ( a   ( w   ( c g    ( f     ( u     ( o     ( c s o     (]
+[DELETED:  H2 0 i c p     ( r c p     ( c     ( t u   ( o p    ( a w c o   ( p e a t   ( s    ( o e    ( o a  ( i  (]
+[DELETED:  H2 0   (    ( c    ( e   ( i   ( c t   ( n  ( a   4  I g s   4  T  /            ]
