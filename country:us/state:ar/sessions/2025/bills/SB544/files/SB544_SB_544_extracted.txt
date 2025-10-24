@@ -1,0 +1,417 @@
+Title: Stricken language would be deleted from and underlined language would be added to present law.
+Official Title: Stricken language would be deleted from and underlined language would be added to present law.
+Number of Sections: 1
+Source: versions - SB 544
+Media Type: application/pdf
+Strikethrough Detection: 5 sections found
+
+================================================================================
+
+Section 1:
+1 State of Arkansas
+A Bill
+2 95th General Assembly
+3 Regular Session, 2025 SENATE BILL 544
+4
+5 By: Senators M. Johnson, K. Hammer
+6 By: Representatives Gazaway, Lundstrum
+7
+For An Act To Be Entitled
+8
+9 AN ACT TO AMEND THE ARKANSAS PHARMACY BENEFITS
+10 MANAGER LICENSURE ACT; AND FOR OTHER PURPOSES.
+11
+12
+Subtitle
+13
+14 TO AMEND THE ARKANSAS PHARMACY BENEFITS
+15 MANAGER LICENSURE ACT.
+16
+17 BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF ARKANSAS:
+18
+19 SECTION 1. Arkansas Code § 23-92-503, concerning definitions used
+20 under the Arkansas Pharmacy Benefits Manager Licensure Act, is amended to add
+21 additional subdivisions to read as follows:
+22 (16)(A) "Opt-out contract" means an agreement or a contract in
+23 which a pharmacy must proactively notify the pharmacy benefits manager if the
+24 pharmacy wishes to opt-out of certain terms potentially leading to lower
+25 reimbursement rates or network exclusions if the pharmacy does not opt-out of
+26 the contract.
+27 (B) "Opt-out contract" includes a term that requires a
+28 pharmacy to take affirmative action to opt-out of certain terms or conditions
+29 of the contract;
+30 (17)(A) "Pharmacy benefits manager national contract to
+31 pharmacies" means a standardized agreement entered into by a pharmacy
+32 benefits manager and a network of pharmacies across the United States in
+33 which a pharmacy is, either directly or indirectly, passed through a pharmacy
+34 services administrative organization messenger model to agree to certain
+35 pricing terms and conditions for a patient if that pharmacy is managed or
+36 represented by a pharmacy benefits manager network.
+*ANS419*
+03/20/2025 3:05:26 PM ANS419
+SB544
+1 (B) "Pharmacy benefits manager national contract to
+2 pharmacies" includes a nationwide network of pharmacies that have entered
+3 into a contract for national reimbursement rates, terms, and conditions that
+4 are not Arkansas-specific with a pharmacy benefits manager to provide
+5 pharmacist services, including without limitation dispensing medications to a
+6 patient within the pharmacy benefits manager network;
+7 (18)(A) "Place on probation" means an enforcement action against
+8 a pharmacy benefits manager for lack of compliance with the requirements of
+9 the Arkansas Pharmacy Benefits Manager Licensure Act, § 23-92-501 et seq.
+10 (B) "Place on probation" includes penalties of probation
+11 and may include:
+12 (i) Prohibiting on advertising or bidding on new
+13 business or requests for proposals;
+14 (ii) Requiring notification of probation to a
+15 current contracted plan or program that is directly or indirectly funded by a
+16 state appropriation to furnish, cover the cost of, or otherwise provide for
+17 pharmacist services to an individual who resides in or is employed in this
+18 state; or
+19 (iii) Other penalties established by rule of the
+20 Insurance Commissioner;
+21 (19) "Underpayment violation" means:
+22 (A) A violation of § 23-92-506(b);
+23 (B) A violation of § 17-92-507; or
+24 (C) A fair and reasonable compensation payment violation
+25 as defined under § 23-92-506(a) and by rule of the commissioner; and
+26 (20) "Unique combination for pharmacy claims" means a pharmacy
+27 claims bank identification number, pharmacy claims group number, pharmacy
+28 claims processor control number, or any combination of a pharmacy claims bank
+29 identification number, pharmacy claims group number, and pharmacy claims
+30 processor control number that is used by a pharmacy benefits manager to
+31 process a pharmacy claim.
+32
+33 SECTION 2. Arkansas Code § 23-92-506, concerning prohibited practices
+34 of a pharmacy benefits manager, is amended to add additional subsections to
+35 read as follows:
+36 (f) Upon request, a pharmacy benefits manager, including pharmacy
+2 03/20/2025 3:05:26 PM ANS419
+SB544
+1 benefits managers contracting for Medicare pharmacy and pharmacist benefits,
+2 shall provide a pharmacy services administrative organization, pharmacy, or
+3 pharmacist with each pharmacy claims bank identification number, pharmacy
+4 claims group number, pharmacy claims processor control number, and each
+5 unique combination for pharmacy claims for each pharmacy network established
+6 or administered by a pharmacy benefits manager to enable the pharmacy
+7 services administrative organization, pharmacy, or pharmacist to make an
+8 informed healthcare contracting decision to support negotiating a new
+9 contract or to exit or renew an existing contract.
+10 (g) For a new contract, an opt-out contract, a contract amendment, or
+11 a renewal of an existing network, a pharmacy benefits manager, including
+12 pharmacy benefits managers contracting for Medicare pharmacy and pharmacist
+13 benefits, shall clearly list for the pharmacy services administrative
+14 organization, a pharmacy, or pharmacist each pharmacy claims bank
+15 identification number, pharmacy claims group number, pharmacy claims
+16 processor control number, and each unique combination for pharmacy claims for
+17 each pharmacy network established or administered by a pharmacy benefits
+18 manager to enable the pharmacy services administrative organization,
+19 pharmacy, or pharmacist to make an informed healthcare contracting decision.
+20 (h)(1) An opt-out contract shall include at least sixty-days notice to
+21 the pharmacy services administrative organization, pharmacy, or pharmacist.
+22 (2) The notice required under subdivision (h)(1) of this section
+23 shall be sent by both email and fax.
+24 (3) The opt-out option in an opt-out contract shall offer the
+25 pharmacy services administrative organization, pharmacy, or pharmacist the
+26 ability to notify the pharmacy benefits manager of the decision to opt-out or
+27 remain in the network.
+28 (4) If a pharmacy benefits manager has not received a reply from
+29 the pharmacy services administrative organization, pharmacy, or pharmacist
+30 within thirty (30) days of the first notice that the opt-out notice was
+31 received, the pharmacy benefits manager shall send a notice to the pharmacy
+32 services administrative organization, pharmacy, or pharmacist a notification
+33 by certified mail of the opt-out contract.
+34 (i)(1) A pharmacy benefits manager shall not offer "take it or leave
+35 it" terms and conditions in a contract that would violate requirements of
+36 state law.
+3 03/20/2025 3:05:26 PM ANS419
+SB544
+1 (2) A pharmacy benefits manager shall actively respond,
+2 communicate, and adjust to the concerns of a pharmacy services administrative
+3 organization, pharmacy, or pharmacist that proposed or existing contract and
+4 provider manual terms do not follow state law.
+5 (j) A pharmacy benefits manager shall not utilize a pharmacy benefits
+6 manager national contract to pharmacies that does not include a separate
+7 Arkansas-based amendment or Arkansas-specific contract that clearly complies
+8 with this subchapter and other state laws.
+9
+10 SECTION 3. Arkansas Code § 23-92-508(c), concerning the penalties
+11 under the Arkansas Pharmacy Benefits Manager Licensure Act, is amended to
+12 read as follows:
+13 (c) After notice and opportunity for hearing, the commissioner may:
+14 (1) Impose a penalty of up to five thousand dollars ($5,000) per
+15 violation against a pharmacy benefits manager if the commissioner finds that
+16 the pharmacy benefits manager has not:
+17 (A) Followed the process established for determining
+18 pricing or costs under the Maximum Allowable Cost List under § 17-92-507; or
+19 (B) Used the national average drug acquisition cost under
+20 § 23-92-506(b); or
+21 (C) Complied with the requirements of this subchapter;
+22 (2) Revoke, place on probation, or suspend the license of a
+23 pharmacy benefits manager or revoke, place on probation, or suspend the use
+24 of a specific network used by a pharmacy benefits manager and identified by a
+25 registered unique combination for pharmacy claims if the commissioner finds
+26 that the pharmacy benefits manager:
+27 (A) Has committed a pattern of violations of this
+28 subchapter;
+29 (B) Has not followed the process established for
+30 determining pricing and costs under the Maximum Allowable Cost List under §
+31 17-92-507; or
+32 (C) Has not used the national average drug acquisition
+33 cost under § 23-92-506(b); or
+34 (D) Has violated this subchapter; and
+35 (3) For a pattern of more than two (2) violations of this
+36 subchapter, revoke, or prohibit a pharmacy benefits manager for up to three
+4 03/20/2025 3:05:26 PM ANS419
+SB544
+1 (3) years from bidding on new business opportunities with a plan or program
+2 that is directly or indirectly funded by a state appropriation to furnish,
+3 cover the cost of, or otherwise provide for pharmacist services to an
+4 individual who resides in or is employed in this state.
+5
+6 SECTION 4. Arkansas Code § 23-92-508, concerning enforcement of the
+7 Arkansas Pharmacy Benefits Manager Licensure Act, is amended to add an
+8 additional subsection to read as follows:
+9 (d)(1) The commissioner shall require a pharmacy benefits manager that
+10 has an underpayment violation to:
+11 (A) Pay twelve percent (12%) interest per month as a
+12 penalty to the impacted pharmacy or pharmacist for pharmacist services on an
+13 underpayment violation that is calculated on the number of days after the
+14 claim was adjudicated until resolution of the underpayment violation; and
+15 (B) Pay the entire amount of the amount of the
+16 underpayment violation plus the required interest under subdivision (d)(1) of
+17 this section to the impacted pharmacy or pharmacist for pharmacist services
+18 on an underpayment violation.
+19 (2) A pharmacy or pharmacist shall not be required to collect an
+20 amount of an underpayment violation or interest from a patient in the form of
+21 copay or out-of-pocket expense to the patient.
+22
+23 SECTION 5. Arkansas Code § 23-92-509(b)(1), concerning the rules for
+24 the Arkansas Pharmacy Benefits Manager Licensure Act, is amended to read as
+25 follows:
+26 (b)(1) Rules adopted under this subchapter shall set penalties or
+27 fines, including without limitation monetary fines, probation, suspension of
+28 licensure or unique combination for pharmacy claims, and revocation of
+29 licensure or unique combination for pharmacy claims for violations of this
+30 subchapter and rules adopted under this subchapter.
+31
+32
+33
+34
+35
+36
+5 03/20/2025 3:05:26 PM ANS419
+[DELETED:       A M  T M  B   S u a   ( w p r t    ( p o   ( p b w s p r]
+[DELETED: S2 0    ( p i a p p   ( a t    ( a     ( b     ( c s p s     ( I   (    (    (    ( a   ( c c i p p   S o r  (]
+[DELETED: S3 0 b s p c u o s i c  ( a p b o i p e m p  ( t   ( s   ( p a r   ( t w r s b  ( i s]
+[DELETED: S4 0   ( c o p  ( m A w   S u r  (   ( v t    ( p    ( §    (   ( p o r t    ( s    ( d 1    ( c    (   ( s]
+[DELETED: S5 0 ( t c i   S A a  ( h    ( p u c    ( u t o   ( a c   S t f  ( f l l s      ]
+
+
+================================================================================
+
+Raw Text:
+Stricken language would be deleted from and underlined language would be added to present law.
+1 State of Arkansas
+A Bill
+2 95th General Assembly
+3 Regular Session, 2025 SENATE BILL 544
+4
+5 By: Senators M. Johnson, K. Hammer
+6 By: Representatives Gazaway, Lundstrum
+7
+For An Act To Be Entitled
+8
+9 AN ACT TO AMEND THE ARKANSAS PHARMACY BENEFITS
+10 MANAGER LICENSURE ACT; AND FOR OTHER PURPOSES.
+11
+12
+Subtitle
+13
+14 TO AMEND THE ARKANSAS PHARMACY BENEFITS
+15 MANAGER LICENSURE ACT.
+16
+17 BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF ARKANSAS:
+18
+19 SECTION 1. Arkansas Code § 23-92-503, concerning definitions used
+20 under the Arkansas Pharmacy Benefits Manager Licensure Act, is amended to add
+21 additional subdivisions to read as follows:
+22 (16)(A) "Opt-out contract" means an agreement or a contract in
+23 which a pharmacy must proactively notify the pharmacy benefits manager if the
+24 pharmacy wishes to opt-out of certain terms potentially leading to lower
+25 reimbursement rates or network exclusions if the pharmacy does not opt-out of
+26 the contract.
+27 (B) "Opt-out contract" includes a term that requires a
+28 pharmacy to take affirmative action to opt-out of certain terms or conditions
+29 of the contract;
+30 (17)(A) "Pharmacy benefits manager national contract to
+31 pharmacies" means a standardized agreement entered into by a pharmacy
+32 benefits manager and a network of pharmacies across the United States in
+33 which a pharmacy is, either directly or indirectly, passed through a pharmacy
+34 services administrative organization messenger model to agree to certain
+35 pricing terms and conditions for a patient if that pharmacy is managed or
+36 represented by a pharmacy benefits manager network.
+*ANS419*
+03/20/2025 3:05:26 PM ANS419
+
+SB544
+1 (B) "Pharmacy benefits manager national contract to
+2 pharmacies" includes a nationwide network of pharmacies that have entered
+3 into a contract for national reimbursement rates, terms, and conditions that
+4 are not Arkansas-specific with a pharmacy benefits manager to provide
+5 pharmacist services, including without limitation dispensing medications to a
+6 patient within the pharmacy benefits manager network;
+7 (18)(A) "Place on probation" means an enforcement action against
+8 a pharmacy benefits manager for lack of compliance with the requirements of
+9 the Arkansas Pharmacy Benefits Manager Licensure Act, § 23-92-501 et seq.
+10 (B) "Place on probation" includes penalties of probation
+11 and may include:
+12 (i) Prohibiting on advertising or bidding on new
+13 business or requests for proposals;
+14 (ii) Requiring notification of probation to a
+15 current contracted plan or program that is directly or indirectly funded by a
+16 state appropriation to furnish, cover the cost of, or otherwise provide for
+17 pharmacist services to an individual who resides in or is employed in this
+18 state; or
+19 (iii) Other penalties established by rule of the
+20 Insurance Commissioner;
+21 (19) "Underpayment violation" means:
+22 (A) A violation of § 23-92-506(b);
+23 (B) A violation of § 17-92-507; or
+24 (C) A fair and reasonable compensation payment violation
+25 as defined under § 23-92-506(a) and by rule of the commissioner; and
+26 (20) "Unique combination for pharmacy claims" means a pharmacy
+27 claims bank identification number, pharmacy claims group number, pharmacy
+28 claims processor control number, or any combination of a pharmacy claims bank
+29 identification number, pharmacy claims group number, and pharmacy claims
+30 processor control number that is used by a pharmacy benefits manager to
+31 process a pharmacy claim.
+32
+33 SECTION 2. Arkansas Code § 23-92-506, concerning prohibited practices
+34 of a pharmacy benefits manager, is amended to add additional subsections to
+35 read as follows:
+36 (f) Upon request, a pharmacy benefits manager, including pharmacy
+2 03/20/2025 3:05:26 PM ANS419
+
+SB544
+1 benefits managers contracting for Medicare pharmacy and pharmacist benefits,
+2 shall provide a pharmacy services administrative organization, pharmacy, or
+3 pharmacist with each pharmacy claims bank identification number, pharmacy
+4 claims group number, pharmacy claims processor control number, and each
+5 unique combination for pharmacy claims for each pharmacy network established
+6 or administered by a pharmacy benefits manager to enable the pharmacy
+7 services administrative organization, pharmacy, or pharmacist to make an
+8 informed healthcare contracting decision to support negotiating a new
+9 contract or to exit or renew an existing contract.
+10 (g) For a new contract, an opt-out contract, a contract amendment, or
+11 a renewal of an existing network, a pharmacy benefits manager, including
+12 pharmacy benefits managers contracting for Medicare pharmacy and pharmacist
+13 benefits, shall clearly list for the pharmacy services administrative
+14 organization, a pharmacy, or pharmacist each pharmacy claims bank
+15 identification number, pharmacy claims group number, pharmacy claims
+16 processor control number, and each unique combination for pharmacy claims for
+17 each pharmacy network established or administered by a pharmacy benefits
+18 manager to enable the pharmacy services administrative organization,
+19 pharmacy, or pharmacist to make an informed healthcare contracting decision.
+20 (h)(1) An opt-out contract shall include at least sixty-days notice to
+21 the pharmacy services administrative organization, pharmacy, or pharmacist.
+22 (2) The notice required under subdivision (h)(1) of this section
+23 shall be sent by both email and fax.
+24 (3) The opt-out option in an opt-out contract shall offer the
+25 pharmacy services administrative organization, pharmacy, or pharmacist the
+26 ability to notify the pharmacy benefits manager of the decision to opt-out or
+27 remain in the network.
+28 (4) If a pharmacy benefits manager has not received a reply from
+29 the pharmacy services administrative organization, pharmacy, or pharmacist
+30 within thirty (30) days of the first notice that the opt-out notice was
+31 received, the pharmacy benefits manager shall send a notice to the pharmacy
+32 services administrative organization, pharmacy, or pharmacist a notification
+33 by certified mail of the opt-out contract.
+34 (i)(1) A pharmacy benefits manager shall not offer "take it or leave
+35 it" terms and conditions in a contract that would violate requirements of
+36 state law.
+3 03/20/2025 3:05:26 PM ANS419
+
+SB544
+1 (2) A pharmacy benefits manager shall actively respond,
+2 communicate, and adjust to the concerns of a pharmacy services administrative
+3 organization, pharmacy, or pharmacist that proposed or existing contract and
+4 provider manual terms do not follow state law.
+5 (j) A pharmacy benefits manager shall not utilize a pharmacy benefits
+6 manager national contract to pharmacies that does not include a separate
+7 Arkansas-based amendment or Arkansas-specific contract that clearly complies
+8 with this subchapter and other state laws.
+9
+10 SECTION 3. Arkansas Code § 23-92-508(c), concerning the penalties
+11 under the Arkansas Pharmacy Benefits Manager Licensure Act, is amended to
+12 read as follows:
+13 (c) After notice and opportunity for hearing, the commissioner may:
+14 (1) Impose a penalty of up to five thousand dollars ($5,000) per
+15 violation against a pharmacy benefits manager if the commissioner finds that
+16 the pharmacy benefits manager has not:
+17 (A) Followed the process established for determining
+18 pricing or costs under the Maximum Allowable Cost List under § 17-92-507; or
+19 (B) Used the national average drug acquisition cost under
+20 § 23-92-506(b); or
+21 (C) Complied with the requirements of this subchapter;
+22 (2) Revoke, place on probation, or suspend the license of a
+23 pharmacy benefits manager or revoke, place on probation, or suspend the use
+24 of a specific network used by a pharmacy benefits manager and identified by a
+25 registered unique combination for pharmacy claims if the commissioner finds
+26 that the pharmacy benefits manager:
+27 (A) Has committed a pattern of violations of this
+28 subchapter;
+29 (B) Has not followed the process established for
+30 determining pricing and costs under the Maximum Allowable Cost List under §
+31 17-92-507; or
+32 (C) Has not used the national average drug acquisition
+33 cost under § 23-92-506(b); or
+34 (D) Has violated this subchapter; and
+35 (3) For a pattern of more than two (2) violations of this
+36 subchapter, revoke, or prohibit a pharmacy benefits manager for up to three
+4 03/20/2025 3:05:26 PM ANS419
+
+SB544
+1 (3) years from bidding on new business opportunities with a plan or program
+2 that is directly or indirectly funded by a state appropriation to furnish,
+3 cover the cost of, or otherwise provide for pharmacist services to an
+4 individual who resides in or is employed in this state.
+5
+6 SECTION 4. Arkansas Code § 23-92-508, concerning enforcement of the
+7 Arkansas Pharmacy Benefits Manager Licensure Act, is amended to add an
+8 additional subsection to read as follows:
+9 (d)(1) The commissioner shall require a pharmacy benefits manager that
+10 has an underpayment violation to:
+11 (A) Pay twelve percent (12%) interest per month as a
+12 penalty to the impacted pharmacy or pharmacist for pharmacist services on an
+13 underpayment violation that is calculated on the number of days after the
+14 claim was adjudicated until resolution of the underpayment violation; and
+15 (B) Pay the entire amount of the amount of the
+16 underpayment violation plus the required interest under subdivision (d)(1) of
+17 this section to the impacted pharmacy or pharmacist for pharmacist services
+18 on an underpayment violation.
+19 (2) A pharmacy or pharmacist shall not be required to collect an
+20 amount of an underpayment violation or interest from a patient in the form of
+21 copay or out-of-pocket expense to the patient.
+22
+23 SECTION 5. Arkansas Code § 23-92-509(b)(1), concerning the rules for
+24 the Arkansas Pharmacy Benefits Manager Licensure Act, is amended to read as
+25 follows:
+26 (b)(1) Rules adopted under this subchapter shall set penalties or
+27 fines, including without limitation monetary fines, probation, suspension of
+28 licensure or unique combination for pharmacy claims, and revocation of
+29 licensure or unique combination for pharmacy claims for violations of this
+30 subchapter and rules adopted under this subchapter.
+31
+32
+33
+34
+35
+36
+5 03/20/2025 3:05:26 PM ANS419
+
+[DELETED:       A M  T M  B   S u a   ( w p r t    ( p o   ( p b w s p r]
+[DELETED: S2 0    ( p i a p p   ( a t    ( a     ( b     ( c s p s     ( I   (    (    (    ( a   ( c c i p p   S o r  (]
+[DELETED: S3 0 b s p c u o s i c  ( a p b o i p e m p  ( t   ( s   ( p a r   ( t w r s b  ( i s]
+[DELETED: S4 0   ( c o p  ( m A w   S u r  (   ( v t    ( p    ( §    (   ( p o r t    ( s    ( d 1    ( c    (   ( s]
+[DELETED: S5 0 ( t c i   S A a  ( h    ( p u c    ( u t o   ( a c   S t f  ( f l l s      ]

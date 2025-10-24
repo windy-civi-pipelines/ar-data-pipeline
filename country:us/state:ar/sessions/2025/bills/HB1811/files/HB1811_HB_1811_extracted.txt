@@ -1,0 +1,180 @@
+Title: Stricken language would be deleted from and underlined language would be added to present law.
+Official Title: Stricken language would be deleted from and underlined language would be added to present law.
+Number of Sections: 1
+Source: versions - HB 1811
+Media Type: application/pdf
+Strikethrough Detection: 2 sections found
+
+================================================================================
+
+Section 1:
+1 State of Arkansas
+A Bill
+2 95th General Assembly
+3 Regular Session, 2025 HOUSE BILL 1811
+4
+5 By: Representative Steimel
+6 By: Senator B. Johnson
+7
+For An Act To Be Entitled
+8
+9 AN ACT TO AMEND PROPERTY AND CASUALTY LAW; TO REQUIRE
+10 REASONABLE PROOF OF PAYMENT OF A DEDUCTIBLE TO RECOUP
+11 RECOVERABLE DEPRECIATION UNDER PROPERTY AND CASUALTY
+12 LAW; AND FOR OTHER PURPOSES.
+13
+14
+Subtitle
+15
+16 TO AMEND PROPERTY AND CASUALTY LAW; AND
+17 TO REQUIRE REASONABLE PROOF OF PAYMENT
+18 OF A DEDUCTIBLE TO RECOUP RECOVERABLE
+19 DEPRECIATION UNDER PROPERTY AND CASUALTY
+20 LAW.
+21
+22 BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF ARKANSAS:
+23
+24 SECTION 1. Arkansas Code Title 23, Chapter 88, Subchapter 1, is
+25 amended to add an additional section to read as follows:
+26 23-88-107. Reasonable proof of payment for deductible — Recoverable
+27 depreciation — Definitions.
+28 (a) As used in this section:
+29 (1) "Fraudulent insurance act" means the same as defined in §
+30 23-66-501;
+31 (2) "Person" means an individual, corporation, association,
+32 partnership, limited liability company, or other legal entity;
+33 (3) "Property insurance policy" means an insurance policy issued
+34 by a property and casualty insurer that provides first-party coverage for
+35 loss or damage to real property; and
+36 (4)(A) "Reasonable proof of payment" means evidence of payment.
+*ANS343*
+03/17/2025 12:16:41 PM ANS343
+HB1811
+1 (B) "Reasonable proof of payment" includes:
+2 (i) A canceled check;
+3 (ii) A money order receipt;
+4 (iii) A credit card statement;
+5 (iv) A copy of an executed installment plan
+6 contract; or
+7 (v) Another financing arrangement that requires full
+8 payment of a deductible over time.
+9 (b)(1) A person insured under a property insurance policy shall pay
+10 any deductible applicable to a first-party claim made under the property
+11 insurance policy.
+12 (2) A person that fails to pay a deductible applicable to a
+13 first-party claim under subdivision (b)(1) of this section is committing a
+14 fraudulent insurance act.
+15 (c) A person that waives a deductible, provides a rebate in lieu of a
+16 deductible, or otherwise does not require a deductible to be paid under a
+17 property insurance policy is committing a fraudulent insurance act.
+18 (d) A property and casualty insurer that issues a property insurance
+19 policy with replacement cost coverage may refuse to pay a claim for withheld
+20 recoverable depreciation or a replacement cost holdback under the property
+21 insurance policy until the insurer receives reasonable proof of payment by
+22 the policyholder of any deductible applicable to the claim filed under the
+23 property insurance policy.
+24 (e) A person that violates this section is subject to the Trade
+25 Practices Act, § 23-66-201 et seq.
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+2 03/17/2025 12:16:41 PM ANS343
+[DELETED:       A R R L  T T O D L  B   S a  2 d  (   ( 2   ( p   ( b l   (]
+[DELETED: H2 0    (     (     (     (     ( c     ( p  ( a i   ( f f  ( d p  ( p r i t p  ( P           ]
+
+
+================================================================================
+
+Raw Text:
+Stricken language would be deleted from and underlined language would be added to present law.
+1 State of Arkansas
+A Bill
+2 95th General Assembly
+3 Regular Session, 2025 HOUSE BILL 1811
+4
+5 By: Representative Steimel
+6 By: Senator B. Johnson
+7
+For An Act To Be Entitled
+8
+9 AN ACT TO AMEND PROPERTY AND CASUALTY LAW; TO REQUIRE
+10 REASONABLE PROOF OF PAYMENT OF A DEDUCTIBLE TO RECOUP
+11 RECOVERABLE DEPRECIATION UNDER PROPERTY AND CASUALTY
+12 LAW; AND FOR OTHER PURPOSES.
+13
+14
+Subtitle
+15
+16 TO AMEND PROPERTY AND CASUALTY LAW; AND
+17 TO REQUIRE REASONABLE PROOF OF PAYMENT
+18 OF A DEDUCTIBLE TO RECOUP RECOVERABLE
+19 DEPRECIATION UNDER PROPERTY AND CASUALTY
+20 LAW.
+21
+22 BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF ARKANSAS:
+23
+24 SECTION 1. Arkansas Code Title 23, Chapter 88, Subchapter 1, is
+25 amended to add an additional section to read as follows:
+26 23-88-107. Reasonable proof of payment for deductible — Recoverable
+27 depreciation — Definitions.
+28 (a) As used in this section:
+29 (1) "Fraudulent insurance act" means the same as defined in §
+30 23-66-501;
+31 (2) "Person" means an individual, corporation, association,
+32 partnership, limited liability company, or other legal entity;
+33 (3) "Property insurance policy" means an insurance policy issued
+34 by a property and casualty insurer that provides first-party coverage for
+35 loss or damage to real property; and
+36 (4)(A) "Reasonable proof of payment" means evidence of payment.
+*ANS343*
+03/17/2025 12:16:41 PM ANS343
+
+HB1811
+1 (B) "Reasonable proof of payment" includes:
+2 (i) A canceled check;
+3 (ii) A money order receipt;
+4 (iii) A credit card statement;
+5 (iv) A copy of an executed installment plan
+6 contract; or
+7 (v) Another financing arrangement that requires full
+8 payment of a deductible over time.
+9 (b)(1) A person insured under a property insurance policy shall pay
+10 any deductible applicable to a first-party claim made under the property
+11 insurance policy.
+12 (2) A person that fails to pay a deductible applicable to a
+13 first-party claim under subdivision (b)(1) of this section is committing a
+14 fraudulent insurance act.
+15 (c) A person that waives a deductible, provides a rebate in lieu of a
+16 deductible, or otherwise does not require a deductible to be paid under a
+17 property insurance policy is committing a fraudulent insurance act.
+18 (d) A property and casualty insurer that issues a property insurance
+19 policy with replacement cost coverage may refuse to pay a claim for withheld
+20 recoverable depreciation or a replacement cost holdback under the property
+21 insurance policy until the insurer receives reasonable proof of payment by
+22 the policyholder of any deductible applicable to the claim filed under the
+23 property insurance policy.
+24 (e) A person that violates this section is subject to the Trade
+25 Practices Act, § 23-66-201 et seq.
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+2 03/17/2025 12:16:41 PM ANS343
+
+[DELETED:       A R R L  T T O D L  B   S a  2 d  (   ( 2   ( p   ( b l   (]
+[DELETED: H2 0    (     (     (     (     ( c     ( p  ( a i   ( f f  ( d p  ( p r i t p  ( P           ]

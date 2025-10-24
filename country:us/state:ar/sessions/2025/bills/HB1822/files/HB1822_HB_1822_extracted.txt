@@ -1,0 +1,101 @@
+Title: Stricken language would be deleted from and underlined language would be added to present law.
+Official Title: Stricken language would be deleted from and underlined language would be added to present law.
+Number of Sections: 1
+Source: versions - HB 1822
+Media Type: application/pdf
+Strikethrough Detection: 1 sections found
+
+================================================================================
+
+Section 1:
+1 State of Arkansas
+A Bill
+2 95th General Assembly
+3 Regular Session, 2025 HOUSE BILL 1822
+4
+5 By: Representative Underwood
+6
+7
+For An Act To Be Entitled
+8
+9 AN ACT TO CREATE THE OVERTIME BUT NOT OVERTAXED ACT;
+10 TO EXEMPT COMPENSATION FOR OVERTIME FROM THE INCOME
+11 TAX; AND FOR OTHER PURPOSES.
+12
+13
+Subtitle
+14
+15 THE OVERTIME BUT NOT OVERTAXED ACT.
+16
+17 BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF ARKANSAS:
+18
+19 SECTION 1. DO NOT CODIFY. Title.
+20 This act shall be known and may be cited as the "Overtime but not
+21 Overtaxed Act".
+22
+23 SECTION 2. Arkansas Code Title 26, Chapter 51, Subchapter 3, is
+24 amended to add an additional section to read as follows:
+25 26-51-317. Overtime.
+26 (a) As used in this section, "overtime" means time worked in a
+27 workweek that:
+28 (1) Exceeds forty (40) hours for the workweek; and
+29 (2) Is required to be compensated under the Fair Labor Standards
+30 Act of 1938, 29 U.S.C. § 201 et seq., as it existed on January 1, 2025.
+31 (b) Compensation for overtime is exempt from the income tax levied
+32 under this chapter.
+33
+34 SECTION 3. EFFECTIVE DATE. Section 1 of this act is effective for tax
+35 years beginning on or after January 1, 2026.
+36
+*JLL327*
+03/18/2025 9:14:44 AM JLL327
+[DELETED:       A T T  T  B   S  T O   S a  2  ( w   (   ( A  ( u   S y ]
+
+
+================================================================================
+
+Raw Text:
+Stricken language would be deleted from and underlined language would be added to present law.
+1 State of Arkansas
+A Bill
+2 95th General Assembly
+3 Regular Session, 2025 HOUSE BILL 1822
+4
+5 By: Representative Underwood
+6
+7
+For An Act To Be Entitled
+8
+9 AN ACT TO CREATE THE OVERTIME BUT NOT OVERTAXED ACT;
+10 TO EXEMPT COMPENSATION FOR OVERTIME FROM THE INCOME
+11 TAX; AND FOR OTHER PURPOSES.
+12
+13
+Subtitle
+14
+15 THE OVERTIME BUT NOT OVERTAXED ACT.
+16
+17 BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF ARKANSAS:
+18
+19 SECTION 1. DO NOT CODIFY. Title.
+20 This act shall be known and may be cited as the "Overtime but not
+21 Overtaxed Act".
+22
+23 SECTION 2. Arkansas Code Title 26, Chapter 51, Subchapter 3, is
+24 amended to add an additional section to read as follows:
+25 26-51-317. Overtime.
+26 (a) As used in this section, "overtime" means time worked in a
+27 workweek that:
+28 (1) Exceeds forty (40) hours for the workweek; and
+29 (2) Is required to be compensated under the Fair Labor Standards
+30 Act of 1938, 29 U.S.C. § 201 et seq., as it existed on January 1, 2025.
+31 (b) Compensation for overtime is exempt from the income tax levied
+32 under this chapter.
+33
+34 SECTION 3. EFFECTIVE DATE. Section 1 of this act is effective for tax
+35 years beginning on or after January 1, 2026.
+36
+*JLL327*
+03/18/2025 9:14:44 AM JLL327
+
+[DELETED:       A T T  T  B   S  T O   S a  2  ( w   (   ( A  ( u   S y ]

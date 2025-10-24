@@ -1,0 +1,101 @@
+Title: Stricken language would be deleted from and underlined language would be added to present law.
+Official Title: Stricken language would be deleted from and underlined language would be added to present law.
+Number of Sections: 1
+Source: versions - SB 576
+Media Type: application/pdf
+Strikethrough Detection: 1 sections found
+
+================================================================================
+
+Section 1:
+1 State of Arkansas
+A Bill
+2 95th General Assembly
+3 Regular Session, 2025 SENATE BILL 576
+4
+5 By: Senator B. Davis
+6 By: Representative Pilkington
+7
+For An Act To Be Entitled
+8
+9 AN ACT TO AMEND THE COVERAGE OF CONTINUOUS GLUCOSE
+10 MONITORS WITHIN THE ARKANSAS MEDICAID PROGRAM; AND
+11 FOR OTHER PURPOSES.
+12
+13
+Subtitle
+14
+15 TO AMEND THE COVERAGE OF CONTINUOUS
+16 GLUCOSE MONITORS WITHIN THE ARKANSAS
+17 MEDICAID PROGRAM.
+18
+19 BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF ARKANSAS:
+20
+21 SECTION 1. Arkansas Code § 20-77-148(b)(1), concerning the
+22 requirements for coverage of a continuous glucose monitor, is amended to read
+23 as follows:
+24 (1) Either:
+25 (A) A presence of type 1 diabetes or any other type of
+26 diabetes with:
+27 (i) The use of insulin more than two (2) times daily
+28 in accordance with Medicare policy; or
+29 (ii) Evidence of Level 2 or Level 3 hypoglycemia; or
+30 (B) Diagnosis of glycogen storage disease type 1a; and
+31
+32
+33
+34
+35
+36
+*JMB499*
+03/31/2025 9:16:51 AM JMB499
+[DELETED:          A M F   T G M  B   S r a   (    ( d     ( i     (    (      ]
+
+
+================================================================================
+
+Raw Text:
+Stricken language would be deleted from and underlined language would be added to present law.
+1 State of Arkansas
+A Bill
+2 95th General Assembly
+3 Regular Session, 2025 SENATE BILL 576
+4
+5 By: Senator B. Davis
+6 By: Representative Pilkington
+7
+For An Act To Be Entitled
+8
+9 AN ACT TO AMEND THE COVERAGE OF CONTINUOUS GLUCOSE
+10 MONITORS WITHIN THE ARKANSAS MEDICAID PROGRAM; AND
+11 FOR OTHER PURPOSES.
+12
+13
+Subtitle
+14
+15 TO AMEND THE COVERAGE OF CONTINUOUS
+16 GLUCOSE MONITORS WITHIN THE ARKANSAS
+17 MEDICAID PROGRAM.
+18
+19 BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF ARKANSAS:
+20
+21 SECTION 1. Arkansas Code § 20-77-148(b)(1), concerning the
+22 requirements for coverage of a continuous glucose monitor, is amended to read
+23 as follows:
+24 (1) Either:
+25 (A) A presence of type 1 diabetes or any other type of
+26 diabetes with:
+27 (i) The use of insulin more than two (2) times daily
+28 in accordance with Medicare policy; or
+29 (ii) Evidence of Level 2 or Level 3 hypoglycemia; or
+30 (B) Diagnosis of glycogen storage disease type 1a; and
+31
+32
+33
+34
+35
+36
+*JMB499*
+03/31/2025 9:16:51 AM JMB499
+
+[DELETED:          A M F   T G M  B   S r a   (    ( d     ( i     (    (      ]

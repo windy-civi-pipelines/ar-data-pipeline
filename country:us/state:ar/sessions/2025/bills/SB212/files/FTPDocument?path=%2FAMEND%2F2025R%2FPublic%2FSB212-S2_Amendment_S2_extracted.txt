@@ -1,0 +1,65 @@
+Title: ______________________________________________________________________
+Official Title: ______________________________________________________________________
+Number of Sections: 1
+Source: versions - Amendment S2
+Media Type: application/pdf
+Strikethrough Detection: 1 sections found
+
+================================================================================
+
+Section 1:
+ARKANSAS SENATE
+95th General Assembly - Regular Session, 2025
+Amendment Form
+Subtitle of Senate Bill 212
+TO CREATE THE DOCUMENT VALIDITY DIVISION; AND TO DECLARE AN
+EMERGENCY.
+______________________________________________________________________
+Amendment No. 2 to Senate Bill 212
+Amend Senate Bill 212 as engrossed S2/20/25 (version: 2/20/25 09:28:49 AM):
+Page 2, delete lines 15 through 25, and substitute the following:
+"(c) If an individual fails to comply with a subpoena request issued
+by the Secretary of State or a document validity investigator under
+subsection (b) of this section, the Secretary of State may request an order
+from a court of appropriate jurisdiction to enforce the subpoena."
+AND
+Page 2, delete lines 30 through 33, and substitute the following:
+"subchapter to the Attorney General's office for further investigation and
+action."
+*.SSS210*
+The Amendment was read the first time, rules suspended and read the second time and _______________________
+By: Senator K. Hammer
+SSS/SSS - 02-25-2025 12:24:17 _________________________
+SSS210 Secretary
+[DELETED:  _ SA  "]
+
+
+================================================================================
+
+Raw Text:
+ARKANSAS SENATE
+95th General Assembly - Regular Session, 2025
+Amendment Form
+______________________________________________________________________
+Subtitle of Senate Bill 212
+TO CREATE THE DOCUMENT VALIDITY DIVISION; AND TO DECLARE AN
+EMERGENCY.
+______________________________________________________________________
+Amendment No. 2 to Senate Bill 212
+Amend Senate Bill 212 as engrossed S2/20/25 (version: 2/20/25 09:28:49 AM):
+Page 2, delete lines 15 through 25, and substitute the following:
+"(c) If an individual fails to comply with a subpoena request issued
+by the Secretary of State or a document validity investigator under
+subsection (b) of this section, the Secretary of State may request an order
+from a court of appropriate jurisdiction to enforce the subpoena."
+AND
+Page 2, delete lines 30 through 33, and substitute the following:
+"subchapter to the Attorney General's office for further investigation and
+action."
+*.SSS210*
+The Amendment was read the first time, rules suspended and read the second time and _______________________
+By: Senator K. Hammer
+SSS/SSS - 02-25-2025 12:24:17 _________________________
+SSS210 Secretary
+
+[DELETED:  _ SA  "]

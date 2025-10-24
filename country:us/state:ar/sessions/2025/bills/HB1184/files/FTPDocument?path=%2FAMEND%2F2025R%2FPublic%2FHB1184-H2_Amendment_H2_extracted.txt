@@ -1,0 +1,55 @@
+Title: ______________________________________________________________________
+Official Title: ______________________________________________________________________
+Number of Sections: 1
+Source: versions - Amendment H2
+Media Type: application/pdf
+Strikethrough Detection: 1 sections found
+
+================================================================================
+
+Section 1:
+Hall of the House of Representatives
+95th General Assembly - Regular Session, 2025
+Amendment Form
+Subtitle of House Bill 1184
+TO AMEND THE FAIR MORTGAGE LENDING ACT; AND TO PROTECT A CONSUMER'S
+PRIVACY IN CERTAIN MORTGAGE APPLICATIONS.
+______________________________________________________________________
+Amendment No. 2 to House Bill 1184
+Amend House Bill 1184 as engrossed H2/4/25 (version: 2/4/25 10:42:03 AM):
+Page 2, delete lines 31 and 32, and substitute the following:
+"(D) Knowingly using information from a mortgage trigger
+lead in violation of this subdivision (18) or the Fair Credit Reporting Act,
+15 U.S.C. § 1681 et seq., as it existed on January 1, 2025."
+*.ANS229*
+The Amendment was read ________________________________________________________________________________
+By: Representative L. Johnson
+ANS/ANS - 02-07-2025 09:39:43 _________________________
+ANS229 Chief Clerk
+[DELETED:  _ CA    "]
+
+
+================================================================================
+
+Raw Text:
+Hall of the House of Representatives
+95th General Assembly - Regular Session, 2025
+Amendment Form
+______________________________________________________________________
+Subtitle of House Bill 1184
+TO AMEND THE FAIR MORTGAGE LENDING ACT; AND TO PROTECT A CONSUMER'S
+PRIVACY IN CERTAIN MORTGAGE APPLICATIONS.
+______________________________________________________________________
+Amendment No. 2 to House Bill 1184
+Amend House Bill 1184 as engrossed H2/4/25 (version: 2/4/25 10:42:03 AM):
+Page 2, delete lines 31 and 32, and substitute the following:
+"(D) Knowingly using information from a mortgage trigger
+lead in violation of this subdivision (18) or the Fair Credit Reporting Act,
+15 U.S.C. § 1681 et seq., as it existed on January 1, 2025."
+*.ANS229*
+The Amendment was read ________________________________________________________________________________
+By: Representative L. Johnson
+ANS/ANS - 02-07-2025 09:39:43 _________________________
+ANS229 Chief Clerk
+
+[DELETED:  _ CA    "]

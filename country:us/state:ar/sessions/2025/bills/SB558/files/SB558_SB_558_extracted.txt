@@ -1,0 +1,180 @@
+Title: Stricken language would be deleted from and underlined language would be added to present law.
+Official Title: Stricken language would be deleted from and underlined language would be added to present law.
+Number of Sections: 1
+Source: versions - SB 558
+Media Type: application/pdf
+Strikethrough Detection: 2 sections found
+
+================================================================================
+
+Section 1:
+1 State of Arkansas
+A Bill
+2 95th General Assembly
+3 Regular Session, 2025 SENATE BILL 558
+4
+5 By: Senator Crowell
+6 By: Representative Hollowell
+7
+For An Act To Be Entitled
+8
+9 AN ACT TO AMEND THE LAW CONCERNING INCOME TAX
+10 RETURNS; TO REQUIRE THE ELECTRONIC FILING OF CERTAIN
+11 CORPORATE INCOME TAX RETURNS; AND FOR OTHER PURPOSES.
+12
+13
+Subtitle
+14
+15 TO REQUIRE THE ELECTRONIC FILING OF
+16 CERTAIN CORPORATE INCOME TAX RETURNS.
+17
+18 BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF ARKANSAS:
+19
+20 SECTION 1. Arkansas Code § 26-51-804, concerning corporation income
+21 tax returns, is amended to add an additional subsection to read as follows:
+22 (f)(1) A taxpayer filing a return under this section that would be
+23 required to file the taxpayer's return electronically with the Internal
+24 Revenue Service under 26 C.F.R. § 301.6011-5, as it existed on February 23,
+25 2023, shall file the return required under this section electronically.
+26 (2) A taxpayer filing a return under this section that is a
+27 member of an affiliated group in a federal consolidated return in which the
+28 federal parent corporation would be required to file electronically with the
+29 Internal Revenue Service under 26 C.F.R. § 301.6011-5, as it existed on
+30 February 23, 2023, shall file the taxpayer's state return electronically
+31 under this section.
+32 (3) The Secretary of the Department of Finance and
+33 Administration may waive the electronic filing requirement under subdivision
+34 (f)(1) or subdivision (f)(2) of this section for a taxpayer only if the
+35 secretary determines that filing the return electronically would cause an
+36 undue hardship on the taxpayer.
+*JLL092*
+03/21/2025 4:34:11 PM JLL092
+SB558
+1
+2 SECTION 2. Arkansas Code § 26-51-805, concerning consolidated
+3 corporate income tax returns, is amended to add an additional subsection to
+4 read as follows:
+5 (h)(1) A taxpayer filing a return under this section that would be
+6 required to file the taxpayer's return electronically with the Internal
+7 Revenue Service under 26 C.F.R. § 301.6011-5, as it existed on February 23,
+8 2023, shall file the return required under this section electronically.
+9 (2) A taxpayer filing a return under this section that is a
+10 member of an affiliated group in a federal consolidated return in which the
+11 federal parent corporation would be required to file electronically with the
+12 Internal Revenue Service under 26 C.F.R. § 301.6011-5, as it existed on
+13 February 23, 2023, shall file the taxpayer's state return electronically
+14 under this section whether or not the federal parent corporation is an
+15 eligible member of the affiliated group included in the state consolidated
+16 return.
+17 (3) The secretary may waive the electronic filing requirement
+18 under subdivision (h)(1) or subdivision (h)(2) of this section for a taxpayer
+19 only if the secretary determines that filing the return electronically would
+20 cause an undue hardship on the taxpayer.
+21
+22 SECTION 3. EFFECTIVE DATE. Sections 1 and 2 of this act are effective
+23 for tax years beginning on or after January 1, 2025.
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+2 03/21/2025 4:34:11 PM JLL092
+[DELETED:       A R C  T C  B   S t  ( r R 2   ( m f I F u   ( A ( s u]
+[DELETED: S2 0   S c r  ( r R 2   ( m f I F u e r   ( u o c   S f             ]
+
+
+================================================================================
+
+Raw Text:
+Stricken language would be deleted from and underlined language would be added to present law.
+1 State of Arkansas
+A Bill
+2 95th General Assembly
+3 Regular Session, 2025 SENATE BILL 558
+4
+5 By: Senator Crowell
+6 By: Representative Hollowell
+7
+For An Act To Be Entitled
+8
+9 AN ACT TO AMEND THE LAW CONCERNING INCOME TAX
+10 RETURNS; TO REQUIRE THE ELECTRONIC FILING OF CERTAIN
+11 CORPORATE INCOME TAX RETURNS; AND FOR OTHER PURPOSES.
+12
+13
+Subtitle
+14
+15 TO REQUIRE THE ELECTRONIC FILING OF
+16 CERTAIN CORPORATE INCOME TAX RETURNS.
+17
+18 BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF ARKANSAS:
+19
+20 SECTION 1. Arkansas Code § 26-51-804, concerning corporation income
+21 tax returns, is amended to add an additional subsection to read as follows:
+22 (f)(1) A taxpayer filing a return under this section that would be
+23 required to file the taxpayer's return electronically with the Internal
+24 Revenue Service under 26 C.F.R. § 301.6011-5, as it existed on February 23,
+25 2023, shall file the return required under this section electronically.
+26 (2) A taxpayer filing a return under this section that is a
+27 member of an affiliated group in a federal consolidated return in which the
+28 federal parent corporation would be required to file electronically with the
+29 Internal Revenue Service under 26 C.F.R. § 301.6011-5, as it existed on
+30 February 23, 2023, shall file the taxpayer's state return electronically
+31 under this section.
+32 (3) The Secretary of the Department of Finance and
+33 Administration may waive the electronic filing requirement under subdivision
+34 (f)(1) or subdivision (f)(2) of this section for a taxpayer only if the
+35 secretary determines that filing the return electronically would cause an
+36 undue hardship on the taxpayer.
+*JLL092*
+03/21/2025 4:34:11 PM JLL092
+
+SB558
+1
+2 SECTION 2. Arkansas Code § 26-51-805, concerning consolidated
+3 corporate income tax returns, is amended to add an additional subsection to
+4 read as follows:
+5 (h)(1) A taxpayer filing a return under this section that would be
+6 required to file the taxpayer's return electronically with the Internal
+7 Revenue Service under 26 C.F.R. § 301.6011-5, as it existed on February 23,
+8 2023, shall file the return required under this section electronically.
+9 (2) A taxpayer filing a return under this section that is a
+10 member of an affiliated group in a federal consolidated return in which the
+11 federal parent corporation would be required to file electronically with the
+12 Internal Revenue Service under 26 C.F.R. § 301.6011-5, as it existed on
+13 February 23, 2023, shall file the taxpayer's state return electronically
+14 under this section whether or not the federal parent corporation is an
+15 eligible member of the affiliated group included in the state consolidated
+16 return.
+17 (3) The secretary may waive the electronic filing requirement
+18 under subdivision (h)(1) or subdivision (h)(2) of this section for a taxpayer
+19 only if the secretary determines that filing the return electronically would
+20 cause an undue hardship on the taxpayer.
+21
+22 SECTION 3. EFFECTIVE DATE. Sections 1 and 2 of this act are effective
+23 for tax years beginning on or after January 1, 2025.
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+2 03/21/2025 4:34:11 PM JLL092
+
+[DELETED:       A R C  T C  B   S t  ( r R 2   ( m f I F u   ( A ( s u]
+[DELETED: S2 0   S c r  ( r R 2   ( m f I F u e r   ( u o c   S f             ]

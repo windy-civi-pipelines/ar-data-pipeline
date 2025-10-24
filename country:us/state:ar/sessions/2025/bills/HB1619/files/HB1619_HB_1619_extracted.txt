@@ -1,0 +1,180 @@
+Title: Stricken language would be deleted from and underlined language would be added to present law.
+Official Title: Stricken language would be deleted from and underlined language would be added to present law.
+Number of Sections: 1
+Source: versions - HB 1619
+Media Type: application/pdf
+Strikethrough Detection: 2 sections found
+
+================================================================================
+
+Section 1:
+1 State of Arkansas
+A Bill
+2 95th General Assembly
+3 Regular Session, 2025 HOUSE BILL 1619
+4
+5 By: Representative Gramlich
+6 By: Senator Irvin
+7
+For An Act To Be Entitled
+8
+9 AN ACT TO SET ADMINISTRATION FEES UNDER THE ARKANSAS
+10 MEDICAID PROGRAM FOR IMMUNIZATIONS AND MONOCLONAL
+11 ANTIBODIES FOR RESPIRATORY SYNCYTIAL VIRUS DISEASE;
+12 TO PROVIDE CIVIL IMMUNITY FOR ADMINISTRATION OF
+13 IMMUNIZATIONS AND MONOCLONAL ANTIBODIES FOR
+14 RESPIRATORY SYNCYTICAL VIRUS DISEASE; AND FOR OTHER
+15 PURPOSES.
+16
+17
+Subtitle
+18
+19 TO SET ADMINISTRATION FEES UNDER THE
+20 ARKANSAS MEDICAID PROGRAM FOR
+21 IMMUNIZATIONS AND MONOCLONAL ANTIBODIES
+22 FOR RESPIRATORY SYNCYTIAL VIRUS DISEASE;
+23 AND TO PROVIDE CIVIL IMMUNITY.
+24
+25 BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF ARKANSAS:
+26
+27 SECTION 1. Arkansas Code Title 20, Chapter 77, Subchapter 4, is
+28 amended to add an additional section to read as follows:
+29 20-77-408. Administrative fees for immunizations and monoclonal
+30 antibodies for respiratory syncytial virus disease — Definition.
+31 (a) As used in this section, "respiratory syncytial virus disease"
+32 means a respiratory infection of the nose, throat, and lungs caused by the
+33 respiratory syncytial virus.
+34 (b) The Arkansas Medicaid Program shall reimburse an administration
+35 fee that is equal to one hundred percent (100%) of the maximum administration
+36 fee of the Vaccines for Children Program for this state for administration of
+*JMB177*
+02/27/2025 11:04:58 AM JMB177
+HB1619
+1 an immunization or monoclonal antibody used for long-lasting protection from
+2 respiratory syncytial virus disease in infants and toddlers, regardless of
+3 the category in which the beneficiary receiving the immunization or
+4 monoclonal antibody is enrolled, including without limitation the Medicaid
+5 Provider-Led Organized Care Act, § 20-77-2701 et seq.
+6 (c) This section does not require a hospital licensed under § 20-9-213
+7 to provide any new or additional service related to administering the
+8 immunization or monoclonal antibody used for long-lasting protection from
+9 respiratory syncytial virus disease in infants and toddlers.
+10 (d) The Department of Human Services shall apply for any federal
+11 waiver, Medicaid state plan amendment, or other authority necessary to
+12 implement this section.
+13
+14 SECTION 2. Arkansas Code Title 16, Chapter 114, Subchapter 2, is
+15 amended to add an additional section to read as follows:
+16 16-114-214. Immunity related to administration of immunization or
+17 monoclonal antibody used for long-lasting protection from respiratory
+18 syncytial virus disease — Definition.
+19 (a) As used in this section, "respiratory syncytial virus disease"
+20 means a respiratory infection of the nose, throat, and lungs caused by the
+21 respiratory syncytial virus.
+22 (b)(1) A person or entity that prescribes, dispenses, administers, or
+23 is otherwise involved in the administration of an immunization or monoclonal
+24 antibody used for long-lasting protection from respiratory syncytial virus
+25 disease in infants and toddlers to an eligible patient is immune from civil
+26 liability.
+27 (2) A person or entity is not immune from civil liability for
+28 actions taken during the administration of an immunization or monoclonal
+29 antibody that:
+30 (A) Are grossly negligent, reckless, or willful; or
+31 (B) Are not taken in good faith and with reasonable care.
+32
+33
+34
+35
+36
+2 02/27/2025 11:04:58 AM JMB177
+[DELETED:          A M A T I R P   T A I F A  B   S a  2 a  ( m r  ( f f]
+[DELETED: H2 0 a r t m P  ( t i r  ( w i   S a  1 m s  ( m r  ( i a d l   ( a a    (    (     ]
+
+
+================================================================================
+
+Raw Text:
+Stricken language would be deleted from and underlined language would be added to present law.
+1 State of Arkansas
+A Bill
+2 95th General Assembly
+3 Regular Session, 2025 HOUSE BILL 1619
+4
+5 By: Representative Gramlich
+6 By: Senator Irvin
+7
+For An Act To Be Entitled
+8
+9 AN ACT TO SET ADMINISTRATION FEES UNDER THE ARKANSAS
+10 MEDICAID PROGRAM FOR IMMUNIZATIONS AND MONOCLONAL
+11 ANTIBODIES FOR RESPIRATORY SYNCYTIAL VIRUS DISEASE;
+12 TO PROVIDE CIVIL IMMUNITY FOR ADMINISTRATION OF
+13 IMMUNIZATIONS AND MONOCLONAL ANTIBODIES FOR
+14 RESPIRATORY SYNCYTICAL VIRUS DISEASE; AND FOR OTHER
+15 PURPOSES.
+16
+17
+Subtitle
+18
+19 TO SET ADMINISTRATION FEES UNDER THE
+20 ARKANSAS MEDICAID PROGRAM FOR
+21 IMMUNIZATIONS AND MONOCLONAL ANTIBODIES
+22 FOR RESPIRATORY SYNCYTIAL VIRUS DISEASE;
+23 AND TO PROVIDE CIVIL IMMUNITY.
+24
+25 BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF ARKANSAS:
+26
+27 SECTION 1. Arkansas Code Title 20, Chapter 77, Subchapter 4, is
+28 amended to add an additional section to read as follows:
+29 20-77-408. Administrative fees for immunizations and monoclonal
+30 antibodies for respiratory syncytial virus disease — Definition.
+31 (a) As used in this section, "respiratory syncytial virus disease"
+32 means a respiratory infection of the nose, throat, and lungs caused by the
+33 respiratory syncytial virus.
+34 (b) The Arkansas Medicaid Program shall reimburse an administration
+35 fee that is equal to one hundred percent (100%) of the maximum administration
+36 fee of the Vaccines for Children Program for this state for administration of
+*JMB177*
+02/27/2025 11:04:58 AM JMB177
+
+HB1619
+1 an immunization or monoclonal antibody used for long-lasting protection from
+2 respiratory syncytial virus disease in infants and toddlers, regardless of
+3 the category in which the beneficiary receiving the immunization or
+4 monoclonal antibody is enrolled, including without limitation the Medicaid
+5 Provider-Led Organized Care Act, § 20-77-2701 et seq.
+6 (c) This section does not require a hospital licensed under § 20-9-213
+7 to provide any new or additional service related to administering the
+8 immunization or monoclonal antibody used for long-lasting protection from
+9 respiratory syncytial virus disease in infants and toddlers.
+10 (d) The Department of Human Services shall apply for any federal
+11 waiver, Medicaid state plan amendment, or other authority necessary to
+12 implement this section.
+13
+14 SECTION 2. Arkansas Code Title 16, Chapter 114, Subchapter 2, is
+15 amended to add an additional section to read as follows:
+16 16-114-214. Immunity related to administration of immunization or
+17 monoclonal antibody used for long-lasting protection from respiratory
+18 syncytial virus disease — Definition.
+19 (a) As used in this section, "respiratory syncytial virus disease"
+20 means a respiratory infection of the nose, throat, and lungs caused by the
+21 respiratory syncytial virus.
+22 (b)(1) A person or entity that prescribes, dispenses, administers, or
+23 is otherwise involved in the administration of an immunization or monoclonal
+24 antibody used for long-lasting protection from respiratory syncytial virus
+25 disease in infants and toddlers to an eligible patient is immune from civil
+26 liability.
+27 (2) A person or entity is not immune from civil liability for
+28 actions taken during the administration of an immunization or monoclonal
+29 antibody that:
+30 (A) Are grossly negligent, reckless, or willful; or
+31 (B) Are not taken in good faith and with reasonable care.
+32
+33
+34
+35
+36
+2 02/27/2025 11:04:58 AM JMB177
+
+[DELETED:          A M A T I R P   T A I F A  B   S a  2 a  ( m r  ( f f]
+[DELETED: H2 0 a r t m P  ( t i r  ( w i   S a  1 m s  ( m r  ( i a d l   ( a a    (    (     ]

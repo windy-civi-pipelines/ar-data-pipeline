@@ -1,0 +1,575 @@
+Title: Stricken language would be deleted from and underlined language would be added to present law.
+Official Title: Stricken language would be deleted from and underlined language would be added to present law.
+Number of Sections: 1
+Source: versions - HB 1127
+Media Type: application/pdf
+Strikethrough Detection: 7 sections found
+
+================================================================================
+
+Section 1:
+1 State of Arkansas
+A Bill
+2 95th General Assembly
+3 Regular Session, 2025 HOUSE BILL 1127
+4
+5 By: Joint Budget Committee
+6
+7
+For An Act To Be Entitled
+8
+9 AN ACT TO MAKE AN APPROPRIATION FOR PERSONAL SERVICES
+10 AND OPERATING EXPENSES FOR THE DEPARTMENT OF
+11 EDUCATION - ARKANSAS STATE LIBRARY FOR THE FISCAL
+12 YEAR ENDING JUNE 30, 2026; AND FOR OTHER PURPOSES.
+13
+14
+Subtitle
+15
+16 AN ACT FOR THE DEPARTMENT OF EDUCATION -
+17 ARKANSAS STATE LIBRARY APPROPRIATION FOR
+18 THE 2025-2026 FISCAL YEAR.
+19
+20
+21 BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF ARKANSAS:
+22
+23 SECTION 1. REGULAR SALARIES. There is hereby established for the
+24 Department of Education - Arkansas State Library for the 2025-2026 fiscal
+25 year, the following maximum number of regular employees.
+26
+27 Maximum Annual
+28 Maximum Salary Rate
+29 Item Class No. of Fiscal Year
+30 No. Code Title Employees 2025-2026
+31 (1) U031U STATE LIBRARY DIRECTOR 1 GRADE SE01
+32 (2) N161N STATE LIBRARY DEPUTY DIRECTOR 1 GRADE GS12
+33 (3) E012C STATE LIBRARY DIVISION MANAGER 1 GRADE GS10
+34 (4) E021C STATE LIBRARY MANAGER 8 GRADE GS09
+35 (5) E030C LIBRARY COORDINATOR 5 GRADE GS08
+36 (6) E041C SENIOR LIBRARIAN 7 GRADE GS07
+*KMW007*
+01/14/2025 4:03:19 PM KMW007
+HB1127
+1 (7) A074C FISCAL SUPPORT SUPERVISOR 1 GRADE GS06
+2 (8) E052C LIBRARIAN 3 GRADE GS06
+3 (9) P027C PUBLIC INFORMATION SPECIALIST 1 GRADE GS06
+4 (10) V014C BUYER 1 GRADE GS05
+5 (11) C056C ADMINISTRATIVE SPECIALIST III 2 GRADE GS04
+6 (12) A098C FISCAL SUPPORT SPECIALIST 2 GRADE GS04
+7 (13) C073C ADMINISTRATIVE SPECIALIST II 1 GRADE GS03
+8 (14) C069C LIBRARY TECHNICIAN 4 GRADE GS03
+9 (15) C085C LIBRARY SUPPORT ASSISTANT 3 GRADE GS02
+10 (16) C089C LIBRARY TECHNICAL ASSISTANT 2 GRADE GS01
+11 MAX. NO. OF EMPLOYEES 43
+12
+13 SECTION 2. EXTRA HELP - STATE OPERATIONS. There is hereby authorized,
+14 for the Department of Education - Arkansas State Library - State Operations
+15 for the 2025-2026 fiscal year, the following maximum number of part-time or
+16 temporary employees, to be known as "Extra Help", payable from funds
+17 appropriated herein for such purposes: seven (7) temporary or part-time
+18 employees, when needed, at rates of pay not to exceed those provided in the
+19 Uniform Classification and Compensation Act, or its successor, or this act
+20 for the appropriate classification.
+21
+22 SECTION 3. APPROPRIATION - STATE OPERATIONS. There is hereby
+23 appropriated, to the Department of Education, to be payable from the State
+24 Library Fund Account, for personal services and operating expenses of the
+25 Department of Education - Arkansas State Library - State Operations for the
+26 fiscal year ending June 30, 2026, the following:
+27
+28 ITEM FISCAL YEAR
+29 NO. 2025-2026
+30 (01) REGULAR SALARIES $1,677,479
+31 (02) EXTRA HELP 10,000
+32 (03) PERSONAL SERVICES MATCHING 631,344
+33 (04) MAINT. & GEN. OPERATION
+34 (A) OPER. EXPENSE 1,125,091
+35 (B) CONF. & TRAVEL 10,000
+36 (C) PROF. FEES 0
+2 01/14/2025 4:03:19 PM KMW007
+HB1127
+1 (D) CAP. OUTLAY 0
+2 (E) DATA PROC. 0
+3 (05) BOOKS & SUBSCRIPTIONS 230,000
+4 TOTAL AMOUNT APPROPRIATED $3,683,914
+5
+6 SECTION 4. EXTRA HELP - FEDERAL OPERATIONS. There is hereby
+7 authorized, for the Department of Education - Arkansas State Library -
+8 Federal Operations for the 2025-2026 fiscal year, the following maximum
+9 number of part-time or temporary employees, to be known as "Extra Help",
+10 payable from funds appropriated herein for such purposes: five (5) temporary
+11 or part-time employees, when needed, at rates of pay not to exceed those
+12 provided in the Uniform Classification and Compensation Act, or its
+13 successor, or this act for the appropriate classification.
+14
+15 SECTION 5. APPROPRIATION - FEDERAL OPERATIONS. There is hereby
+16 appropriated, to the Department of Education, to be payable from the federal
+17 funds as designated by the Chief Fiscal Officer of the State, for personal
+18 services and operating expenses of the Department of Education - Arkansas
+19 State Library - Federal Operations for the fiscal year ending June 30, 2026,
+20 the following:
+21
+22 ITEM FISCAL YEAR
+23 NO. 2025-2026
+24 (01) REGULAR SALARIES $458,899
+25 (02) EXTRA HELP 22,000
+26 (03) PERSONAL SERVICES MATCHING 194,756
+27 (04) MAINT. & GEN. OPERATION
+28 (A) OPER. EXPENSE 2,347,700
+29 (B) CONF. & TRAVEL 145,000
+30 (C) PROF. FEES 0
+31 (D) CAP. OUTLAY 10,000
+32 (E) DATA PROC. 0
+33 TOTAL AMOUNT APPROPRIATED $3,178,355
+34
+35 SECTION 6. APPROPRIATION - AID TO PUBLIC LIBRARIES. There is hereby
+36 appropriated, to the Department of Education, to be payable from the State
+3 01/14/2025 4:03:19 PM KMW007
+HB1127
+1 Library Public School Fund Account, to provide aid to public libraries by the
+2 Department of Education - Arkansas State Library - Aid to Public Libraries
+3 for the fiscal year ending June 30, 2026, the following:
+4
+5 ITEM FISCAL YEAR
+6 NO. 2025-2026
+7 (01) AID TO PUBLIC LIBRARIES $6,500,000
+8
+9 SECTION 7. APPROPRIATION - GRANTS ADMINISTRATION - CASH. There is
+10 hereby appropriated, to the Department of Education, to be payable from the
+11 cash fund deposited in the State Treasury as determined by the Chief Fiscal
+12 Officer of the State, for operating expenses of the Department of Education -
+13 Arkansas State Library - Grants Administration - Cash for the fiscal year
+14 ending June 30, 2026, the following:
+15
+16 ITEM FISCAL YEAR
+17 NO. 2025-2026
+18 (01) MAINT. & GEN. OPERATION
+19 (A) OPER. EXPENSE $20,000
+20 (B) CONF. & TRAVEL 20,000
+21 (C) PROF. FEES 0
+22 (D) CAP. OUTLAY 0
+23 (E) DATA PROC. 0
+24 TOTAL AMOUNT APPROPRIATED $40,000
+25
+26 SECTION 8. APPROPRIATION - STATE LIBRARY REVOLVING. There is hereby
+27 appropriated, to the Department of Education, to be payable from the State
+28 Library Revolving Fund, for operating expenses of the Department of Education
+29 - Arkansas State Library - State Library Revolving for the fiscal year ending
+30 June 30, 2026, the following:
+31
+32 ITEM FISCAL YEAR
+33 NO. 2025-2026
+34 (01) MAINT. & GEN. OPERATION
+35 (A) OPER. EXPENSE $500
+36 (B) CONF. & TRAVEL 0
+4 01/14/2025 4:03:19 PM KMW007
+HB1127
+1 (C) PROF. FEES 0
+2 (D) CAP. OUTLAY 0
+3 (E) DATA PROC. 0
+4 TOTAL AMOUNT APPROPRIATED $500
+5
+6 SECTION 9. SPECIAL LANGUAGE. NOT TO BE INCORPORATED INTO THE ARKANSAS
+7 CODE NOR PUBLISHED SEPARATELY AS SPECIAL, LOCAL AND TEMPORARY LAW.
+8 CARRY FORWARD. At the close of the fiscal year ending June 30, 2024 2025,
+9 any unexpended balance of monies provided from the State Library Fund Account
+10 for Books and Subscriptions, as provided in the State Operations
+11 Appropriation of this Act, shall be transferred forward and made available
+12 for the same purpose for the fiscal year ending June 30, 2025 2026.
+13 Any carry forward of unexpended balance of funding as authorized herein,
+14 may be carried forward under the following conditions:
+15 (1) Prior to June 30, 2025 2026 the Agency shall by written statement
+16 set forth its reason(s) for the need to carry forward said funding to the
+17 Department of Finance and Administration Office of Budget;
+18 (2) The Department of Finance and Administration Office of Budget shall
+19 report to the Arkansas Legislative Council all amounts carried forward by the
+20 September Arkansas Legislative Council or Joint Budget Committee meeting
+21 which report shall include the name of the Agency, Board, Commission or
+22 Institution and the amount of the funding carried forward, the program name
+23 or line item, the funding source of that appropriation and a copy of the
+24 written request set forth in (1) above;
+25 (3) Each Agency, Board, Commission or Institution shall provide a
+26 written report to the Arkansas Legislative Council or Joint Budget Committee
+27 containing all information set forth in item (2) above, along with a written
+28 statement as to the current status of the project, contract, purpose etc. for
+29 which the carry forward was originally requested no later than thirty (30)
+30 days prior to the time the Agency, Board, Commission or Institution presents
+31 its budget request to the Arkansas Legislative Council/Joint Budget
+32 Committee; and
+33 (4) Thereupon, the Department of Finance and Administration shall
+34 include all information obtained in item (3) above in the budget manuals
+35 and/or a statement of non-compliance by the Agency, Board, Commission or
+36 Institution.
+5 01/14/2025 4:03:19 PM KMW007
+HB1127
+1 The provisions of this section shall be in effect only from July 1, 2024
+2 2025 through June 30, 2025 2026.
+3
+4 SECTION 10. SPECIAL LANGUAGE. NOT TO BE INCORPORATED INTO THE ARKANSAS
+5 CODE NOR PUBLISHED SEPARATELY AS SPECIAL, LOCAL AND TEMPORARY LAW. STATE
+6 FUNDING FOR LIBRARIES PROVISIONS.
+7 (i) The Department of Education – Arkansas State Library provides
+8 grants and aid to Libraries across the state. The Arkansas State Library
+9 has developed the Standards for State Aid to public libraries which creates
+10 standards public libraries must meet to be eligible for state aid.
+11 (ii) The Standards for State Aid to Public Libraries contains the
+12 requirement that a public library shall maintain a one-mill county or city
+13 property tax, and the requirement that the library have a qualified
+14 librarian.
+15 (iii) Less populated areas in the State may not have the ability to
+16 pass and maintain a one-mill county or city property tax.
+17 (iv) Due to the importance that the public library represents to rural
+18 communities, the Arkansas State Library shall review and modify the
+19 requirements that prevent rural public libraries from receiving state grant
+20 and aid that is authorized by the General Assembly, as set out in subsection
+21 (v).
+22 (v) Therefore, the Arkansas State Library shall promulgate rules that
+23 allow a public library to adequately demonstrate a source of revenue in lieu
+24 of the requirement to maintain a one-mill county or city property tax.
+25 (vi) One month prior to the distribution of state aid to public
+26 libraries for the 2025 2026 Fiscal Year, the Arkansas State Library shall
+27 report to the Arkansas Legislative Council or Joint Budget Committee, if
+28 meeting in legislative session, the revised Standards for State Aid to Public
+29 Libraries which shall address in writing the actions taken to address the
+30 issues as set out in this section. The report shall include all criteria,
+31 including but not limited to how a local public library may become certified
+32 to receive funding from the Arkansas State Library.
+33 (vii) The provisions of this section shall be in effect only from July
+34 1, 2024 2025 through June 30, 2025 2026.
+35
+36 SECTION 11. COMPLIANCE WITH OTHER LAWS. Disbursement of funds
+6 01/14/2025 4:03:19 PM KMW007
+HB1127
+1 authorized by this act shall be limited to the appropriation for such agency
+2 and funds made available by law for the support of such appropriations; and
+3 the restrictions of the State Procurement Law, the General Accounting and
+4 Budgetary Procedures Law, the Revenue Stabilization Law, the Regular Salary
+5 Procedures and Restrictions Act, or their successors, and other fiscal
+6 control laws of this State, where applicable, and regulations promulgated by
+7 the Department of Finance and Administration, as authorized by law, shall be
+8 strictly complied with in disbursement of said funds.
+9
+10 SECTION 12. LEGISLATIVE INTENT. It is the intent of the General
+11 Assembly that any funds disbursed under the authority of the appropriations
+12 contained in this act shall be in compliance with the stated reasons for
+13 which this act was adopted, as evidenced by the Agency Requests, Executive
+14 Recommendations and Legislative Recommendations contained in the budget
+15 manuals prepared by the Department of Finance and Administration, letters, or
+16 summarized oral testimony in the official minutes of the Arkansas Legislative
+17 Council or Joint Budget Committee which relate to its passage and adoption.
+18
+19 SECTION 13. EMERGENCY CLAUSE. It is found and determined by the
+20 General Assembly, that the Constitution of the State of Arkansas prohibits
+21 the appropriation of funds for more than a one (1) year period; that the
+22 effectiveness of this Act on July 1, 2025 is essential to the operation of
+23 the agency for which the appropriations in this Act are provided, and that in
+24 the event of an extension of the legislative session, the delay in the
+25 effective date of this Act beyond July 1, 2025 could work irreparable harm
+26 upon the proper administration and provision of essential governmental
+27 programs. Therefore, an emergency is hereby declared to exist and this Act
+28 being necessary for the immediate preservation of the public peace, health
+29 and safety shall be in full force and effect from and after July 1, 2025.
+30
+31
+32
+33
+34
+35
+36
+7 01/14/2025 4:03:19 PM KMW007
+[DELETED:       A A E Y  A A T    B   S D y                     ]
+[DELETED: H2 0                         S f f t a e U f   S a L D f  I   ( ( ( (      ]
+[DELETED: H3 0     (     S a F n p o p s   S a f s S t  I   ( ( ( (               S a]
+[DELETED: H4 0 L D f  I   (   S h c O A e  I   (                a L - J  I   (    ]
+[DELETED: H5 0           S C C a f A f   m   s D   r S w I o w   w c s w d i C   i a I]
+[DELETED: H6 0   2   S C F  ( g h s  ( r p l  ( p  ( c r a (  ( a o  ( l r m L i i t  ( 1   S]
+[DELETED: H7 0 a a t B P c t s   S A c w R m s C   S G t e t t e u p b a       ]
+
+
+================================================================================
+
+Raw Text:
+Stricken language would be deleted from and underlined language would be added to present law.
+1 State of Arkansas
+A Bill
+2 95th General Assembly
+3 Regular Session, 2025 HOUSE BILL 1127
+4
+5 By: Joint Budget Committee
+6
+7
+For An Act To Be Entitled
+8
+9 AN ACT TO MAKE AN APPROPRIATION FOR PERSONAL SERVICES
+10 AND OPERATING EXPENSES FOR THE DEPARTMENT OF
+11 EDUCATION - ARKANSAS STATE LIBRARY FOR THE FISCAL
+12 YEAR ENDING JUNE 30, 2026; AND FOR OTHER PURPOSES.
+13
+14
+Subtitle
+15
+16 AN ACT FOR THE DEPARTMENT OF EDUCATION -
+17 ARKANSAS STATE LIBRARY APPROPRIATION FOR
+18 THE 2025-2026 FISCAL YEAR.
+19
+20
+21 BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF ARKANSAS:
+22
+23 SECTION 1. REGULAR SALARIES. There is hereby established for the
+24 Department of Education - Arkansas State Library for the 2025-2026 fiscal
+25 year, the following maximum number of regular employees.
+26
+27 Maximum Annual
+28 Maximum Salary Rate
+29 Item Class No. of Fiscal Year
+30 No. Code Title Employees 2025-2026
+31 (1) U031U STATE LIBRARY DIRECTOR 1 GRADE SE01
+32 (2) N161N STATE LIBRARY DEPUTY DIRECTOR 1 GRADE GS12
+33 (3) E012C STATE LIBRARY DIVISION MANAGER 1 GRADE GS10
+34 (4) E021C STATE LIBRARY MANAGER 8 GRADE GS09
+35 (5) E030C LIBRARY COORDINATOR 5 GRADE GS08
+36 (6) E041C SENIOR LIBRARIAN 7 GRADE GS07
+*KMW007*
+01/14/2025 4:03:19 PM KMW007
+
+HB1127
+1 (7) A074C FISCAL SUPPORT SUPERVISOR 1 GRADE GS06
+2 (8) E052C LIBRARIAN 3 GRADE GS06
+3 (9) P027C PUBLIC INFORMATION SPECIALIST 1 GRADE GS06
+4 (10) V014C BUYER 1 GRADE GS05
+5 (11) C056C ADMINISTRATIVE SPECIALIST III 2 GRADE GS04
+6 (12) A098C FISCAL SUPPORT SPECIALIST 2 GRADE GS04
+7 (13) C073C ADMINISTRATIVE SPECIALIST II 1 GRADE GS03
+8 (14) C069C LIBRARY TECHNICIAN 4 GRADE GS03
+9 (15) C085C LIBRARY SUPPORT ASSISTANT 3 GRADE GS02
+10 (16) C089C LIBRARY TECHNICAL ASSISTANT 2 GRADE GS01
+11 MAX. NO. OF EMPLOYEES 43
+12
+13 SECTION 2. EXTRA HELP - STATE OPERATIONS. There is hereby authorized,
+14 for the Department of Education - Arkansas State Library - State Operations
+15 for the 2025-2026 fiscal year, the following maximum number of part-time or
+16 temporary employees, to be known as "Extra Help", payable from funds
+17 appropriated herein for such purposes: seven (7) temporary or part-time
+18 employees, when needed, at rates of pay not to exceed those provided in the
+19 Uniform Classification and Compensation Act, or its successor, or this act
+20 for the appropriate classification.
+21
+22 SECTION 3. APPROPRIATION - STATE OPERATIONS. There is hereby
+23 appropriated, to the Department of Education, to be payable from the State
+24 Library Fund Account, for personal services and operating expenses of the
+25 Department of Education - Arkansas State Library - State Operations for the
+26 fiscal year ending June 30, 2026, the following:
+27
+28 ITEM FISCAL YEAR
+29 NO. 2025-2026
+30 (01) REGULAR SALARIES $1,677,479
+31 (02) EXTRA HELP 10,000
+32 (03) PERSONAL SERVICES MATCHING 631,344
+33 (04) MAINT. & GEN. OPERATION
+34 (A) OPER. EXPENSE 1,125,091
+35 (B) CONF. & TRAVEL 10,000
+36 (C) PROF. FEES 0
+2 01/14/2025 4:03:19 PM KMW007
+
+HB1127
+1 (D) CAP. OUTLAY 0
+2 (E) DATA PROC. 0
+3 (05) BOOKS & SUBSCRIPTIONS 230,000
+4 TOTAL AMOUNT APPROPRIATED $3,683,914
+5
+6 SECTION 4. EXTRA HELP - FEDERAL OPERATIONS. There is hereby
+7 authorized, for the Department of Education - Arkansas State Library -
+8 Federal Operations for the 2025-2026 fiscal year, the following maximum
+9 number of part-time or temporary employees, to be known as "Extra Help",
+10 payable from funds appropriated herein for such purposes: five (5) temporary
+11 or part-time employees, when needed, at rates of pay not to exceed those
+12 provided in the Uniform Classification and Compensation Act, or its
+13 successor, or this act for the appropriate classification.
+14
+15 SECTION 5. APPROPRIATION - FEDERAL OPERATIONS. There is hereby
+16 appropriated, to the Department of Education, to be payable from the federal
+17 funds as designated by the Chief Fiscal Officer of the State, for personal
+18 services and operating expenses of the Department of Education - Arkansas
+19 State Library - Federal Operations for the fiscal year ending June 30, 2026,
+20 the following:
+21
+22 ITEM FISCAL YEAR
+23 NO. 2025-2026
+24 (01) REGULAR SALARIES $458,899
+25 (02) EXTRA HELP 22,000
+26 (03) PERSONAL SERVICES MATCHING 194,756
+27 (04) MAINT. & GEN. OPERATION
+28 (A) OPER. EXPENSE 2,347,700
+29 (B) CONF. & TRAVEL 145,000
+30 (C) PROF. FEES 0
+31 (D) CAP. OUTLAY 10,000
+32 (E) DATA PROC. 0
+33 TOTAL AMOUNT APPROPRIATED $3,178,355
+34
+35 SECTION 6. APPROPRIATION - AID TO PUBLIC LIBRARIES. There is hereby
+36 appropriated, to the Department of Education, to be payable from the State
+3 01/14/2025 4:03:19 PM KMW007
+
+HB1127
+1 Library Public School Fund Account, to provide aid to public libraries by the
+2 Department of Education - Arkansas State Library - Aid to Public Libraries
+3 for the fiscal year ending June 30, 2026, the following:
+4
+5 ITEM FISCAL YEAR
+6 NO. 2025-2026
+7 (01) AID TO PUBLIC LIBRARIES $6,500,000
+8
+9 SECTION 7. APPROPRIATION - GRANTS ADMINISTRATION - CASH. There is
+10 hereby appropriated, to the Department of Education, to be payable from the
+11 cash fund deposited in the State Treasury as determined by the Chief Fiscal
+12 Officer of the State, for operating expenses of the Department of Education -
+13 Arkansas State Library - Grants Administration - Cash for the fiscal year
+14 ending June 30, 2026, the following:
+15
+16 ITEM FISCAL YEAR
+17 NO. 2025-2026
+18 (01) MAINT. & GEN. OPERATION
+19 (A) OPER. EXPENSE $20,000
+20 (B) CONF. & TRAVEL 20,000
+21 (C) PROF. FEES 0
+22 (D) CAP. OUTLAY 0
+23 (E) DATA PROC. 0
+24 TOTAL AMOUNT APPROPRIATED $40,000
+25
+26 SECTION 8. APPROPRIATION - STATE LIBRARY REVOLVING. There is hereby
+27 appropriated, to the Department of Education, to be payable from the State
+28 Library Revolving Fund, for operating expenses of the Department of Education
+29 - Arkansas State Library - State Library Revolving for the fiscal year ending
+30 June 30, 2026, the following:
+31
+32 ITEM FISCAL YEAR
+33 NO. 2025-2026
+34 (01) MAINT. & GEN. OPERATION
+35 (A) OPER. EXPENSE $500
+36 (B) CONF. & TRAVEL 0
+4 01/14/2025 4:03:19 PM KMW007
+
+HB1127
+1 (C) PROF. FEES 0
+2 (D) CAP. OUTLAY 0
+3 (E) DATA PROC. 0
+4 TOTAL AMOUNT APPROPRIATED $500
+5
+6 SECTION 9. SPECIAL LANGUAGE. NOT TO BE INCORPORATED INTO THE ARKANSAS
+7 CODE NOR PUBLISHED SEPARATELY AS SPECIAL, LOCAL AND TEMPORARY LAW.
+8 CARRY FORWARD. At the close of the fiscal year ending June 30, 2024 2025,
+9 any unexpended balance of monies provided from the State Library Fund Account
+10 for Books and Subscriptions, as provided in the State Operations
+11 Appropriation of this Act, shall be transferred forward and made available
+12 for the same purpose for the fiscal year ending June 30, 2025 2026.
+13 Any carry forward of unexpended balance of funding as authorized herein,
+14 may be carried forward under the following conditions:
+15 (1) Prior to June 30, 2025 2026 the Agency shall by written statement
+16 set forth its reason(s) for the need to carry forward said funding to the
+17 Department of Finance and Administration Office of Budget;
+18 (2) The Department of Finance and Administration Office of Budget shall
+19 report to the Arkansas Legislative Council all amounts carried forward by the
+20 September Arkansas Legislative Council or Joint Budget Committee meeting
+21 which report shall include the name of the Agency, Board, Commission or
+22 Institution and the amount of the funding carried forward, the program name
+23 or line item, the funding source of that appropriation and a copy of the
+24 written request set forth in (1) above;
+25 (3) Each Agency, Board, Commission or Institution shall provide a
+26 written report to the Arkansas Legislative Council or Joint Budget Committee
+27 containing all information set forth in item (2) above, along with a written
+28 statement as to the current status of the project, contract, purpose etc. for
+29 which the carry forward was originally requested no later than thirty (30)
+30 days prior to the time the Agency, Board, Commission or Institution presents
+31 its budget request to the Arkansas Legislative Council/Joint Budget
+32 Committee; and
+33 (4) Thereupon, the Department of Finance and Administration shall
+34 include all information obtained in item (3) above in the budget manuals
+35 and/or a statement of non-compliance by the Agency, Board, Commission or
+36 Institution.
+5 01/14/2025 4:03:19 PM KMW007
+
+HB1127
+1 The provisions of this section shall be in effect only from July 1, 2024
+2 2025 through June 30, 2025 2026.
+3
+4 SECTION 10. SPECIAL LANGUAGE. NOT TO BE INCORPORATED INTO THE ARKANSAS
+5 CODE NOR PUBLISHED SEPARATELY AS SPECIAL, LOCAL AND TEMPORARY LAW. STATE
+6 FUNDING FOR LIBRARIES PROVISIONS.
+7 (i) The Department of Education – Arkansas State Library provides
+8 grants and aid to Libraries across the state. The Arkansas State Library
+9 has developed the Standards for State Aid to public libraries which creates
+10 standards public libraries must meet to be eligible for state aid.
+11 (ii) The Standards for State Aid to Public Libraries contains the
+12 requirement that a public library shall maintain a one-mill county or city
+13 property tax, and the requirement that the library have a qualified
+14 librarian.
+15 (iii) Less populated areas in the State may not have the ability to
+16 pass and maintain a one-mill county or city property tax.
+17 (iv) Due to the importance that the public library represents to rural
+18 communities, the Arkansas State Library shall review and modify the
+19 requirements that prevent rural public libraries from receiving state grant
+20 and aid that is authorized by the General Assembly, as set out in subsection
+21 (v).
+22 (v) Therefore, the Arkansas State Library shall promulgate rules that
+23 allow a public library to adequately demonstrate a source of revenue in lieu
+24 of the requirement to maintain a one-mill county or city property tax.
+25 (vi) One month prior to the distribution of state aid to public
+26 libraries for the 2025 2026 Fiscal Year, the Arkansas State Library shall
+27 report to the Arkansas Legislative Council or Joint Budget Committee, if
+28 meeting in legislative session, the revised Standards for State Aid to Public
+29 Libraries which shall address in writing the actions taken to address the
+30 issues as set out in this section. The report shall include all criteria,
+31 including but not limited to how a local public library may become certified
+32 to receive funding from the Arkansas State Library.
+33 (vii) The provisions of this section shall be in effect only from July
+34 1, 2024 2025 through June 30, 2025 2026.
+35
+36 SECTION 11. COMPLIANCE WITH OTHER LAWS. Disbursement of funds
+6 01/14/2025 4:03:19 PM KMW007
+
+HB1127
+1 authorized by this act shall be limited to the appropriation for such agency
+2 and funds made available by law for the support of such appropriations; and
+3 the restrictions of the State Procurement Law, the General Accounting and
+4 Budgetary Procedures Law, the Revenue Stabilization Law, the Regular Salary
+5 Procedures and Restrictions Act, or their successors, and other fiscal
+6 control laws of this State, where applicable, and regulations promulgated by
+7 the Department of Finance and Administration, as authorized by law, shall be
+8 strictly complied with in disbursement of said funds.
+9
+10 SECTION 12. LEGISLATIVE INTENT. It is the intent of the General
+11 Assembly that any funds disbursed under the authority of the appropriations
+12 contained in this act shall be in compliance with the stated reasons for
+13 which this act was adopted, as evidenced by the Agency Requests, Executive
+14 Recommendations and Legislative Recommendations contained in the budget
+15 manuals prepared by the Department of Finance and Administration, letters, or
+16 summarized oral testimony in the official minutes of the Arkansas Legislative
+17 Council or Joint Budget Committee which relate to its passage and adoption.
+18
+19 SECTION 13. EMERGENCY CLAUSE. It is found and determined by the
+20 General Assembly, that the Constitution of the State of Arkansas prohibits
+21 the appropriation of funds for more than a one (1) year period; that the
+22 effectiveness of this Act on July 1, 2025 is essential to the operation of
+23 the agency for which the appropriations in this Act are provided, and that in
+24 the event of an extension of the legislative session, the delay in the
+25 effective date of this Act beyond July 1, 2025 could work irreparable harm
+26 upon the proper administration and provision of essential governmental
+27 programs. Therefore, an emergency is hereby declared to exist and this Act
+28 being necessary for the immediate preservation of the public peace, health
+29 and safety shall be in full force and effect from and after July 1, 2025.
+30
+31
+32
+33
+34
+35
+36
+7 01/14/2025 4:03:19 PM KMW007
+
+[DELETED:       A A E Y  A A T    B   S D y                     ]
+[DELETED: H2 0                         S f f t a e U f   S a L D f  I   ( ( ( (      ]
+[DELETED: H3 0     (     S a F n p o p s   S a f s S t  I   ( ( ( (               S a]
+[DELETED: H4 0 L D f  I   (   S h c O A e  I   (                a L - J  I   (    ]
+[DELETED: H5 0           S C C a f A f   m   s D   r S w I o w   w c s w d i C   i a I]
+[DELETED: H6 0   2   S C F  ( g h s  ( r p l  ( p  ( c r a (  ( a o  ( l r m L i i t  ( 1   S]
+[DELETED: H7 0 a a t B P c t s   S A c w R m s C   S G t e t t e u p b a       ]

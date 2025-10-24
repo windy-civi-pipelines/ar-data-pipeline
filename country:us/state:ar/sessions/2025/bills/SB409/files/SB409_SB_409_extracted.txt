@@ -1,0 +1,259 @@
+Title: Stricken language would be deleted from and underlined language would be added to present law.
+Official Title: Stricken language would be deleted from and underlined language would be added to present law.
+Number of Sections: 1
+Source: versions - SB 409
+Media Type: application/pdf
+Strikethrough Detection: 3 sections found
+
+================================================================================
+
+Section 1:
+1 State of Arkansas
+A Bill
+2 95th General Assembly
+3 Regular Session, 2025 SENATE BILL 409
+4
+5 By: Senators B. Johnson, Hill
+6 By: Representatives Torres, Achor, Andrews, Barker, Beaty Jr., Beck, Bentley, S. Berry, Breaux, Brooks,
+7 K. Brown, M. Brown, N. Burkes, R. Burkes, Joey Carr, John Carr, Cavenaugh, Childress, C. Cooper,
+8 Cozart, Crawford, Eaton, Evans, Furman, Gazaway, Gramlich, Hall, Hawk, Hollowell, L. Johnson, Long,
+9 Lundstrum, Lynch, Maddox, McAlindon, McClure, M. McElroy, McGrew, B. McKenzie, McNair,
+10 Milligan, J. Moore, Nazarenko, Painter, Pearce, Perry, Pilkington, Puryear, Ray, R. Scott Richardson,
+11 Richmond, Rose, Rye, Schulz, M. Shepherd, Steimel, Tosh, Underwood, Unger, Vaught, Walker, Wing,
+12 Wooten
+13
+For An Act To Be Entitled
+14
+15 AN ACT TO PROHIBIT DISCRIMINATION OF AGRICULTURAL
+16 PRODUCERS BY FINANCIAL SERVICES PROVIDERS; TO AMEND
+17 THE LAW CONCERNING ENVIRONMENTAL, SOCIAL JUSTICE, OR
+18 GOVERNANCE SCORES OR METRICS; TO ESTABLISH THE FARMER
+19 PROTECTION ACT; AND FOR OTHER PURPOSES.
+20
+21
+Subtitle
+22
+23 TO PROHIBIT DISCRIMINATION OF
+24 AGRICULTURAL PRODUCERS BY FINANCIAL
+25 SERVICES PROVIDERS; AND TO ESTABLISH THE
+26 FARMER PROTECTION ACT.
+27
+28 BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF ARKANSAS:
+29
+30 SECTION 1. Arkansas Code § 25-1-1001(4), concerning the definition of
+31 "discriminate" used for environmental, social justice, or governance scores
+32 or metrics, is amended to read as follows:
+33 (4)(A) "Discriminate" means a company's:
+34 (i) Refusal to engage in the trade of any goods or
+35 services with an entity based solely on its status as an energy, fossil fuel,
+36 firearms, or ammunition industry entity, or agricultural producer; or
+*ANS346*
+03/07/2025 3:34:02 PM ANS346
+SB409
+1 (ii) Termination of an existing business
+2 relationship with an entity based solely on the entity's status as an energy,
+3 fossil fuel, firearms, or ammunition industry entity, or agricultural
+4 producer.
+5 (B) "Discriminate" does not include actions by an
+6 investment adviser according to the investment-related guidelines, policies,
+7 or preferences of its the investment adviser's clients;
+8
+9 SECTION 2. Arkansas Code § 25-1-1001, concerning definitions used for
+10 environmental, social justice, or governance scores or metrics, is amended to
+11 add an additional subdivision to read as follows:
+12 (14)(A) "Agricultural producer" means a natural person or
+13 company engaged in the production of goods derived from plants or animals.
+14 (B) "Agricultural producer" includes without limitation:
+15 (i) The growing of crops;
+16 (ii) Animal husbandry; and
+17 (iii) The production of livestock or dairy products.
+18
+19 SECTION 3. Arkansas Code § 25-1-1002 is amended to read as follows:
+20 25-1-1002. List of financial services providers.
+21 (a) The Treasurer of State shall maintain a list of financial services
+22 providers as determined by the ESG Oversight Committee under § 25-1-1006 on
+23 the Treasurer of State's website.
+24 (b) The Treasurer of State shall post the list of financial services
+25 providers that discriminate against energy companies, or firearms entities,
+26 or agricultural producers or otherwise refuse to deal based on environmental,
+27 social justice, and other governance-related factors on the Treasurer of
+28 State's website.
+29 (c)(1) Forty-five (45) days before including a financial services
+30 provider on a list under § 25-1-1006, the ESG Oversight Committee shall send
+31 a written notice to the financial services provider.
+32 (2) The written notice under subdivision (c)(1) of this section
+33 shall include the following information:
+34 (A) A determination by the ESG Oversight Committee under §
+35 25-1-1006 that the financial services provider has discriminated against
+36 energy companies, or firearms entities, or agricultural producers or
+2 03/07/2025 3:34:02 PM ANS346
+SB409
+1 otherwise refused to deal based on environmental, social justice, and other
+2 governance-related factors;
+3 (B) Identification of the evidence of discrimination
+4 relied on by the ESG Oversight Committee, in making the determination;
+5 (C) Placement of the financial services provider on a list
+6 in forty-five (45) days unless, within thirty (30) days following the receipt
+7 of the written notice, the financial services provider demonstrates that it
+8 is not discriminating against energy companies, or firearms entities, or
+9 agricultural producers or otherwise refusing to deal based on environmental,
+10 social justice, and other governance-related factors; and
+11 (D) Publication of the list will be on the Treasurer of
+12 State's website.
+13 (d)(1) If the ESG Oversight Committee provides written notice to a
+14 financial services provider under subdivision (c)(1) of this section based on
+15 information from an energy, fossil fuel, firearms, or ammunition company, or
+16 agricultural producer, then the energy, fossil fuel, firearms, or ammunition
+17 company, or agricultural producer shall be required to consent to the
+18 disclosure of any financial information held by the financial services
+19 provider of the energy, fossil fuel, firearms, or ammunition company, or
+20 agricultural producer to the ESG Oversight Committee, whether or not the
+21 information is confidential or proprietary, to allow the financial services
+22 provider to demonstrate that the financial services provider is not
+23 discriminating against energy, fossil fuel, firearms, or ammunition
+24 companies, or agricultural producers or otherwise refusing to deal with
+25 energy, fossil fuel, firearms, or ammunition companies, or agricultural
+26 producers based on environmental, social justice, and other governance-
+27 related factors.
+28 (2) If the energy, fossil fuel, firearms, or ammunition company,
+29 or agricultural producer refuses to consent to the disclosure of financial
+30 information under subdivision (d)(1) of this section, then the:
+31 (A) ESG Oversight Committee shall withdraw the written
+32 notice to the financial services provider under subdivision (c)(1) of this
+33 section; and
+34 (B) Financial services provider shall not be on the list
+35 under subsection (a) of this section.
+36
+3 03/07/2025 3:34:02 PM ANS346
+[DELETED:       A P T G P  T A S F  B   S " o   (     ( s f]
+[DELETED: S2 0     ( r f p    ( i o   S e a   ( c    (     (     (     (   S  2  ( p t  ( p o s S  ( p a   ( s    ( 2 e]
+[DELETED: S3 0 o g    ( r    ( i o i a s    ( S  ( f i a c d p a i p d c e p r   ( o i    ( n s    ( u ]
+
+
+================================================================================
+
+Raw Text:
+Stricken language would be deleted from and underlined language would be added to present law.
+1 State of Arkansas
+A Bill
+2 95th General Assembly
+3 Regular Session, 2025 SENATE BILL 409
+4
+5 By: Senators B. Johnson, Hill
+6 By: Representatives Torres, Achor, Andrews, Barker, Beaty Jr., Beck, Bentley, S. Berry, Breaux, Brooks,
+7 K. Brown, M. Brown, N. Burkes, R. Burkes, Joey Carr, John Carr, Cavenaugh, Childress, C. Cooper,
+8 Cozart, Crawford, Eaton, Evans, Furman, Gazaway, Gramlich, Hall, Hawk, Hollowell, L. Johnson, Long,
+9 Lundstrum, Lynch, Maddox, McAlindon, McClure, M. McElroy, McGrew, B. McKenzie, McNair,
+10 Milligan, J. Moore, Nazarenko, Painter, Pearce, Perry, Pilkington, Puryear, Ray, R. Scott Richardson,
+11 Richmond, Rose, Rye, Schulz, M. Shepherd, Steimel, Tosh, Underwood, Unger, Vaught, Walker, Wing,
+12 Wooten
+13
+For An Act To Be Entitled
+14
+15 AN ACT TO PROHIBIT DISCRIMINATION OF AGRICULTURAL
+16 PRODUCERS BY FINANCIAL SERVICES PROVIDERS; TO AMEND
+17 THE LAW CONCERNING ENVIRONMENTAL, SOCIAL JUSTICE, OR
+18 GOVERNANCE SCORES OR METRICS; TO ESTABLISH THE FARMER
+19 PROTECTION ACT; AND FOR OTHER PURPOSES.
+20
+21
+Subtitle
+22
+23 TO PROHIBIT DISCRIMINATION OF
+24 AGRICULTURAL PRODUCERS BY FINANCIAL
+25 SERVICES PROVIDERS; AND TO ESTABLISH THE
+26 FARMER PROTECTION ACT.
+27
+28 BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF ARKANSAS:
+29
+30 SECTION 1. Arkansas Code § 25-1-1001(4), concerning the definition of
+31 "discriminate" used for environmental, social justice, or governance scores
+32 or metrics, is amended to read as follows:
+33 (4)(A) "Discriminate" means a company's:
+34 (i) Refusal to engage in the trade of any goods or
+35 services with an entity based solely on its status as an energy, fossil fuel,
+36 firearms, or ammunition industry entity, or agricultural producer; or
+*ANS346*
+03/07/2025 3:34:02 PM ANS346
+
+SB409
+1 (ii) Termination of an existing business
+2 relationship with an entity based solely on the entity's status as an energy,
+3 fossil fuel, firearms, or ammunition industry entity, or agricultural
+4 producer.
+5 (B) "Discriminate" does not include actions by an
+6 investment adviser according to the investment-related guidelines, policies,
+7 or preferences of its the investment adviser's clients;
+8
+9 SECTION 2. Arkansas Code § 25-1-1001, concerning definitions used for
+10 environmental, social justice, or governance scores or metrics, is amended to
+11 add an additional subdivision to read as follows:
+12 (14)(A) "Agricultural producer" means a natural person or
+13 company engaged in the production of goods derived from plants or animals.
+14 (B) "Agricultural producer" includes without limitation:
+15 (i) The growing of crops;
+16 (ii) Animal husbandry; and
+17 (iii) The production of livestock or dairy products.
+18
+19 SECTION 3. Arkansas Code § 25-1-1002 is amended to read as follows:
+20 25-1-1002. List of financial services providers.
+21 (a) The Treasurer of State shall maintain a list of financial services
+22 providers as determined by the ESG Oversight Committee under § 25-1-1006 on
+23 the Treasurer of State's website.
+24 (b) The Treasurer of State shall post the list of financial services
+25 providers that discriminate against energy companies, or firearms entities,
+26 or agricultural producers or otherwise refuse to deal based on environmental,
+27 social justice, and other governance-related factors on the Treasurer of
+28 State's website.
+29 (c)(1) Forty-five (45) days before including a financial services
+30 provider on a list under § 25-1-1006, the ESG Oversight Committee shall send
+31 a written notice to the financial services provider.
+32 (2) The written notice under subdivision (c)(1) of this section
+33 shall include the following information:
+34 (A) A determination by the ESG Oversight Committee under §
+35 25-1-1006 that the financial services provider has discriminated against
+36 energy companies, or firearms entities, or agricultural producers or
+2 03/07/2025 3:34:02 PM ANS346
+
+SB409
+1 otherwise refused to deal based on environmental, social justice, and other
+2 governance-related factors;
+3 (B) Identification of the evidence of discrimination
+4 relied on by the ESG Oversight Committee, in making the determination;
+5 (C) Placement of the financial services provider on a list
+6 in forty-five (45) days unless, within thirty (30) days following the receipt
+7 of the written notice, the financial services provider demonstrates that it
+8 is not discriminating against energy companies, or firearms entities, or
+9 agricultural producers or otherwise refusing to deal based on environmental,
+10 social justice, and other governance-related factors; and
+11 (D) Publication of the list will be on the Treasurer of
+12 State's website.
+13 (d)(1) If the ESG Oversight Committee provides written notice to a
+14 financial services provider under subdivision (c)(1) of this section based on
+15 information from an energy, fossil fuel, firearms, or ammunition company, or
+16 agricultural producer, then the energy, fossil fuel, firearms, or ammunition
+17 company, or agricultural producer shall be required to consent to the
+18 disclosure of any financial information held by the financial services
+19 provider of the energy, fossil fuel, firearms, or ammunition company, or
+20 agricultural producer to the ESG Oversight Committee, whether or not the
+21 information is confidential or proprietary, to allow the financial services
+22 provider to demonstrate that the financial services provider is not
+23 discriminating against energy, fossil fuel, firearms, or ammunition
+24 companies, or agricultural producers or otherwise refusing to deal with
+25 energy, fossil fuel, firearms, or ammunition companies, or agricultural
+26 producers based on environmental, social justice, and other governance-
+27 related factors.
+28 (2) If the energy, fossil fuel, firearms, or ammunition company,
+29 or agricultural producer refuses to consent to the disclosure of financial
+30 information under subdivision (d)(1) of this section, then the:
+31 (A) ESG Oversight Committee shall withdraw the written
+32 notice to the financial services provider under subdivision (c)(1) of this
+33 section; and
+34 (B) Financial services provider shall not be on the list
+35 under subsection (a) of this section.
+36
+3 03/07/2025 3:34:02 PM ANS346
+
+[DELETED:       A P T G P  T A S F  B   S " o   (     ( s f]
+[DELETED: S2 0     ( r f p    ( i o   S e a   ( c    (     (     (     (   S  2  ( p t  ( p o s S  ( p a   ( s    ( 2 e]
+[DELETED: S3 0 o g    ( r    ( i o i a s    ( S  ( f i a c d p a i p d c e p r   ( o i    ( n s    ( u ]

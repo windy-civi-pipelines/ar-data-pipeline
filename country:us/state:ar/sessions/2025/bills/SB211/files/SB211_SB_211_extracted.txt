@@ -1,0 +1,259 @@
+Title: Stricken language would be deleted from and underlined language would be added to present law.
+Official Title: Stricken language would be deleted from and underlined language would be added to present law.
+Number of Sections: 1
+Source: versions - SB 211
+Media Type: application/pdf
+Strikethrough Detection: 3 sections found
+
+================================================================================
+
+Section 1:
+1 State of Arkansas As Engrossed: H2/19/25
+A Bill
+2 95th General Assembly
+3 Regular Session, 2025 SENATE BILL 211
+4
+5 By: Senator K. Hammer
+6 By: Representative Underwood
+7
+For An Act To Be Entitled
+8
+9 AN ACT TO AMEND THE LAW CONCERNING INITIATIVE
+10 PETITIONS AND REFERENDUM PETITIONS; TO REQUIRE A
+11 CANVASSER TO SUBMIT AN AFFIDAVIT BEFORE SIGNATURES
+12 CAN BE COUNTED; TO DECLARE AN EMERGENCY; AND FOR
+13 OTHER PURPOSES.
+14
+15
+Subtitle
+16
+17 TO AMEND THE LAW CONCERNING INITIATIVE
+18 PETITIONS AND REFERENDUM PETITIONS; TO
+19 REQUIRE A CANVASSER TO SUBMIT AN
+20 AFFIDAVIT BEFORE SIGNATURES CAN BE
+21 COUNTED; AND TO DECLARE AN EMERGENCY.
+22
+23 BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF ARKANSAS:
+24
+25 SECTION 1. Arkansas Code § 7-9-111, concerning the determination of
+26 the sufficiency of a petition for initiatives, referenda, and constitutional
+27 amendments, is amended to add additional subsections to read as follows:
+28 (j)(1) Except as provided under subdivision (j)(4) of this section, a
+29 canvasser shall file a true affidavit with the Secretary of State certifying
+30 that the canvasser has complied with the Arkansas Constitution and all
+31 Arkansas law regarding canvassing, perjury, forgery, and fraudulent practices
+32 in the procurement of petition signatures during the current election cycle.
+33 (2) The Secretary of State shall not count the signatures
+34 submitted by the canvasser until a true affidavit is submitted under
+35 subdivision (j)(1) of this section.
+36 (3) A true affidavit submitted under subdivision (j)(1) of this
+*SSS127*
+02-19-2025 10:45:53 SSS127
+As Engrossed: H2/19/25 SB211
+1 section shall have no bearing to establish the genuineness or falsity of the
+2 signatures obtained by the canvasser.
+3 (4)(A) The inability of a canvasser to submit an affidavit due
+4 to death or medical disability shall not disqualify the signatures gathered
+5 by the canvasser.
+6 (B) Subdivision (j)(4)(A) of this section does not excuse
+7 a canvasser from filing the affidavit required under § 7-9-109.
+8 (k) A canvasser who has filed a true affidavit under subsection (j) of
+9 this section shall not collect additional signatures unless the Secretary of
+10 State determines that the sponsor of the initiative petition or referendum
+11 petition is eligible for an amendment to the initiative petition or
+12 referendum petition under Arkansas Constitution, Art. 5, § 1.
+13
+14 SECTION 2. Arkansas Code § 7-9-126(c), concerning signatures that will
+15 not be counted for any reason that appear on the petition, is amended to add
+16 an additional subdivision to read as follows:
+17 (8) Signatures submitted by a canvasser who has not filed a true
+18 affidavit with the Secretary of State as required under § 7-9-111 certifying
+19 that the canvasser has complied with the Arkansas Constitution and all
+20 Arkansas laws regarding canvassing, perjury, forgery, and fraudulent
+21 practices in the procurement of petition signatures during the current
+22 election cycle.
+23
+24 SECTION 3. DO NOT CODIFY. SEVERABILITY. The provisions of this act
+25 are declared to be severable and the invalidity of any provision of this act
+26 shall not affect other provisions of the act which can be given effect
+27 without the invalid provision.
+28
+29 SECTION 4. EMERGENCY CLAUSE. It is found and determined by the
+30 General Assembly of the State of Arkansas that the process for citizens to
+31 propose initiated acts and amendments to the Arkansas Constitution is
+32 critical to a well-functioning democracy in this state; that it is of the
+33 utmost importance that the integrity of the initiative process be
+34 strengthened through this act so that petitioners and voters maintain a high
+35 degree of confidence in the soundness of their right to legislate as citizens
+36 of Arkansas; and that this act is immediately necessary because any delay in
+2 02-19-2025 10:45:53 SSS127
+As Engrossed: H2/19/25 SB211
+1 the implementation of this act would disrupt the initiative process for the
+2 2026 general election, which would have a detrimental effect on the public
+3 peace, health, and safety of Arkansas. Therefore, an emergency is declared to
+4 exist, and this act being immediately necessary for the preservation of the
+5 public peace, health, and safety shall become effective on:
+6 (1) The date of its approval by the Governor;
+7 (2) If the bill is neither approved nor vetoed by the Governor,
+8 the expiration of the period of time during which the Governor may veto the
+9 bill; or
+10 (3) If the bill is vetoed by the Governor and the veto is
+11 overridden, the date the last house overrides the veto.
+12
+13 /s/K. Hammer
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+3 02-19-2025 10:45:53 SSS127
+[DELETED:  A       A P C C O   T P R A C  B   S t a  ( c t A i   ( s s   (]
+[DELETED:  S2 0 s s   ( t b    ( a  ( t S p r   S n a   ( a t A p e   S a s w   S G p c u s d o]
+[DELETED:  S3 0 t 2 p e p   (   ( t b   ( o  /                       ]
+
+
+================================================================================
+
+Raw Text:
+Stricken language would be deleted from and underlined language would be added to present law.
+1 State of Arkansas As Engrossed: H2/19/25
+A Bill
+2 95th General Assembly
+3 Regular Session, 2025 SENATE BILL 211
+4
+5 By: Senator K. Hammer
+6 By: Representative Underwood
+7
+For An Act To Be Entitled
+8
+9 AN ACT TO AMEND THE LAW CONCERNING INITIATIVE
+10 PETITIONS AND REFERENDUM PETITIONS; TO REQUIRE A
+11 CANVASSER TO SUBMIT AN AFFIDAVIT BEFORE SIGNATURES
+12 CAN BE COUNTED; TO DECLARE AN EMERGENCY; AND FOR
+13 OTHER PURPOSES.
+14
+15
+Subtitle
+16
+17 TO AMEND THE LAW CONCERNING INITIATIVE
+18 PETITIONS AND REFERENDUM PETITIONS; TO
+19 REQUIRE A CANVASSER TO SUBMIT AN
+20 AFFIDAVIT BEFORE SIGNATURES CAN BE
+21 COUNTED; AND TO DECLARE AN EMERGENCY.
+22
+23 BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF ARKANSAS:
+24
+25 SECTION 1. Arkansas Code § 7-9-111, concerning the determination of
+26 the sufficiency of a petition for initiatives, referenda, and constitutional
+27 amendments, is amended to add additional subsections to read as follows:
+28 (j)(1) Except as provided under subdivision (j)(4) of this section, a
+29 canvasser shall file a true affidavit with the Secretary of State certifying
+30 that the canvasser has complied with the Arkansas Constitution and all
+31 Arkansas law regarding canvassing, perjury, forgery, and fraudulent practices
+32 in the procurement of petition signatures during the current election cycle.
+33 (2) The Secretary of State shall not count the signatures
+34 submitted by the canvasser until a true affidavit is submitted under
+35 subdivision (j)(1) of this section.
+36 (3) A true affidavit submitted under subdivision (j)(1) of this
+*SSS127*
+02-19-2025 10:45:53 SSS127
+
+As Engrossed: H2/19/25 SB211
+1 section shall have no bearing to establish the genuineness or falsity of the
+2 signatures obtained by the canvasser.
+3 (4)(A) The inability of a canvasser to submit an affidavit due
+4 to death or medical disability shall not disqualify the signatures gathered
+5 by the canvasser.
+6 (B) Subdivision (j)(4)(A) of this section does not excuse
+7 a canvasser from filing the affidavit required under § 7-9-109.
+8 (k) A canvasser who has filed a true affidavit under subsection (j) of
+9 this section shall not collect additional signatures unless the Secretary of
+10 State determines that the sponsor of the initiative petition or referendum
+11 petition is eligible for an amendment to the initiative petition or
+12 referendum petition under Arkansas Constitution, Art. 5, § 1.
+13
+14 SECTION 2. Arkansas Code § 7-9-126(c), concerning signatures that will
+15 not be counted for any reason that appear on the petition, is amended to add
+16 an additional subdivision to read as follows:
+17 (8) Signatures submitted by a canvasser who has not filed a true
+18 affidavit with the Secretary of State as required under § 7-9-111 certifying
+19 that the canvasser has complied with the Arkansas Constitution and all
+20 Arkansas laws regarding canvassing, perjury, forgery, and fraudulent
+21 practices in the procurement of petition signatures during the current
+22 election cycle.
+23
+24 SECTION 3. DO NOT CODIFY. SEVERABILITY. The provisions of this act
+25 are declared to be severable and the invalidity of any provision of this act
+26 shall not affect other provisions of the act which can be given effect
+27 without the invalid provision.
+28
+29 SECTION 4. EMERGENCY CLAUSE. It is found and determined by the
+30 General Assembly of the State of Arkansas that the process for citizens to
+31 propose initiated acts and amendments to the Arkansas Constitution is
+32 critical to a well-functioning democracy in this state; that it is of the
+33 utmost importance that the integrity of the initiative process be
+34 strengthened through this act so that petitioners and voters maintain a high
+35 degree of confidence in the soundness of their right to legislate as citizens
+36 of Arkansas; and that this act is immediately necessary because any delay in
+2 02-19-2025 10:45:53 SSS127
+
+As Engrossed: H2/19/25 SB211
+1 the implementation of this act would disrupt the initiative process for the
+2 2026 general election, which would have a detrimental effect on the public
+3 peace, health, and safety of Arkansas. Therefore, an emergency is declared to
+4 exist, and this act being immediately necessary for the preservation of the
+5 public peace, health, and safety shall become effective on:
+6 (1) The date of its approval by the Governor;
+7 (2) If the bill is neither approved nor vetoed by the Governor,
+8 the expiration of the period of time during which the Governor may veto the
+9 bill; or
+10 (3) If the bill is vetoed by the Governor and the veto is
+11 overridden, the date the last house overrides the veto.
+12
+13 /s/K. Hammer
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+3 02-19-2025 10:45:53 SSS127
+
+[DELETED:  A       A P C C O   T P R A C  B   S t a  ( c t A i   ( s s   (]
+[DELETED:  S2 0 s s   ( t b    ( a  ( t S p r   S n a   ( a t A p e   S a s w   S G p c u s d o]
+[DELETED:  S3 0 t 2 p e p   (   ( t b   ( o  /                       ]

@@ -1,0 +1,338 @@
+Title: Stricken language would be deleted from and underlined language would be added to present law.
+Official Title: Stricken language would be deleted from and underlined language would be added to present law.
+Number of Sections: 1
+Source: versions - SB 293
+Media Type: application/pdf
+Strikethrough Detection: 4 sections found
+
+================================================================================
+
+Section 1:
+1 State of Arkansas As Engrossed: S3/5/25 H3/13/25
+A Bill
+2 95th General Assembly
+3 Regular Session, 2025 SENATE BILL 293
+4
+5 By: Senator K. Hammer
+6 By: Representative A. Brown
+7
+For An Act To Be Entitled
+8
+9 AN ACT TO AMEND THE LAW CONCERNING THE REQUIRED
+10 POSTINGS AT A POLLING SITE; TO AMEND THE LIST
+11 CONCERNING REQUIRED POSTING OF NOTICES, INFORMATION,
+12 AND MATERIAL AT A POLLING SITE ON ELECTION DAY; AND
+13 FOR OTHER PURPOSES.
+14
+15
+Subtitle
+16
+17 TO AMEND THE LAW CONCERNING THE REQUIRED
+18 POSTINGS AT A POLLING SITE; AND TO AMEND
+19 THE LIST CONCERNING REQUIRED POSTING OF
+20 NOTICES, INFORMATION, AND MATERIAL AT A
+21 POLLING SITE ON ELECTION DAY.
+22
+23 BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF ARKANSAS:
+24
+25 SECTION 1. Arkansas Code § 7-5-202(c)(1), concerning public notice of
+26 elections, is amended to read as follows:
+27 (c)(1) On the day of any election, the following shall be posted at
+28 each polling site and remain posted continuously therein until the polls
+29 close:
+30 (A) The public notice of election required in subsection
+31 (a) of this section;
+32 (B)(i) At least two (2) sample ballots, marked with the
+33 word “SAMPLE”, of each ballot style that will be used at the polling site.
+34 (ii) If the polling site has more than fifteen (15)
+35 ballot styles and has posted a sample ballot for each ballot style via an
+36 internet website before the beginning of early voting, the polling site may
+*SSS136*
+03-13-2025 10:06:31 SSS136
+As Engrossed: S3/5/25 H3/13/25 SB293
+1 provide the following in lieu of the sample ballots under subdivision
+2 (c)(1)(B)(i) of this section:
+3 (a) At least two (2) bound volumes that
+4 include each sample ballot, marked with the word “SAMPLE”; or
+5 (b) At least one (1) bound volume that
+6 includes each sample ballot, marked with the word “SAMPLE”, and at least one
+7 (1) electronic device that allows voters to access a sample ballot for each
+8 ballot style;
+9 (C)(i) Two (2) copies of the full text of all measures on
+10 the ballot.
+11 (ii) Copies posted under subdivision (c)(1)(C)(i) of
+12 this section shall include a copy of the concise abstract prepared and
+13 distributed under § 7-9-114;
+14 (D) At least two (2) copies of instructions on how to
+15 vote, including how to cast a provisional ballot and instructions for fail-
+16 safe voting;
+17 (E) General information on voting rights under applicable
+18 federal and state laws, including information on the right of an individual
+19 to cast a provisional ballot and instructions on how to contact the
+20 appropriate officials if these rights are alleged to have been violated;
+21 (F)(i) General information on federal and state laws
+22 regarding prohibitions on acts of fraud and misrepresentation; and
+23 (ii) Information about the availability of the
+24 Attorney General's election law violation hotline Election Integrity Unit,
+25 including without limitation the hotline telephone number of the Attorney
+26 General's election law violation hotline established under § 7-4-305;
+27 (G)(i) Double-sided signs containing the words “VOTE
+28 HERE”.
+29 (ii) Each sign shall be at least two feet by two feet
+30 (2′ x 2′) in size and shall contain an arrow pointing to the polling site.
+31 (iii) A sign shall be posted near each main driveway
+32 entrance to the polling site on each public street bordering the polling site
+33 so as to be visible to all traffic approaching the polling site.
+34 (iv) The sign shall be as close as possible to the
+35 public street without obstructing traffic; and
+36 (H)(i) One (1) printout from each voting machine,
+2 03-13-2025 10:06:31 SSS136
+As Engrossed: S3/5/25 H3/13/25 SB293
+1 terminal, or ballot tabulator showing that the candidate and question
+2 counters register zero (0).
+3 (ii) A poll worker shall produce one (1) printout
+4 from each machine showing whether the candidate and question counters
+5 register zero (0) and all poll workers present shall sign the printout.
+6 (iii) A poll worker shall post the printout upon the
+7 wall of the polling room where it shall remain throughout the election day;
+8 (I) A copy of the poll watcher rights and
+9 responsibilities;
+10 (J) A notice stating that if any voter needs assistance,
+11 the voter may ask a poll worker;
+12 (K) A notice on electioneering, to be posted inside the
+13 polling site; and
+14 (L)(i) During preferential primary election and
+15 nonjudicial elections, the following additional postings:
+16 (a) A posting containing an example of the
+17 primary ballot's selections; and
+18 (b) A notice that:
+19 (1) States "CROSSOVER VOTING IS A
+20 CRIME";
+21 (2) Explains crossover voting; and
+22 (3) States the penalties for a violation
+23 of crossover voting laws under § 7-1-103(a)(18)(B) and § 7-1-104(a)(10).
+24
+25 (ii) The State Board of Election Commissioners shall
+26 provide a standard form for a sign under subdivision (c)(1)(L)(i)(b) of this
+27 section.
+28
+29 SECTION 2. Arkansas Code § 7-5-312(n), concerning poll watchers,
+30 candidates, or designees and rights and challenges of a voter's ballot, is
+31 amended to read as follows:
+32 (n) Poll watcher rights and responsibilities shall be posted in plain
+33 view at each polling site, absentee ballot processing site, and counting
+34 site.
+35
+36 SECTION 3. Arkansas Code § 7-5-518(c), concerning voting machines
+3 03-13-2025 10:06:31 SSS136
+As Engrossed: S3/5/25 H3/13/25 SB293
+1 being inactivated until the polls open, is amended to read as follows:
+2 (c)(1) The poll workers shall produce one (1) printout from each
+3 machine showing whether the candidate and question counters register zero
+4 (000) and shall sign and post the printout upon the wall of the polling room,
+5 where it shall remain throughout the election day.
+6 (2) After the close of voting on election day, the certified
+7 printout, signed by the poll workers, shall be:
+8 (A)(1) Returned to the county board of election
+9 commissioners; and
+10 (B)(2) Filed with the election returns.
+11
+12 SECTION 4. Arkansas Code § 7-5-611(d)(2) and (3), concerning
+13 preparation of electronic vote tabulating devices and disposition of voting
+14 material, is amended to read as follows:
+15 (2) The poll workers shall sign and post the printout upon the
+16 wall of the polling room where it shall remain throughout the election day.
+17 (3) The certified printout shall be filed with the election
+18 returns.
+19
+20 SECTION 5. Arkansas Code § 7-9-114(b), concerning the abstract of a
+21 proposed measure, is amended to read as follows:
+22 (b) Not less than eighteen (18) days before the election, the
+23 Secretary of State shall transmit a certified copy of the abstract to the
+24 county boards of election commissioners, who shall cause copies to be printed
+25 and posted conspicuously at all polling places in the county for the
+26 information of the voters.
+27
+28 /s/K. Hammer
+29
+30
+31
+32
+33
+34
+35
+36
+4 03-13-2025 10:06:31 SSS136
+[DELETED:  A       A P C A F   T P T N P  B   S e  ( e c    ( (    ( w     ( b i]
+[DELETED:  S2 0 p (      ( i      ( i ( b    ( t     ( t d    ( v s    ( f t a    ( r     ( A i G    ( H     ( (2 2)     ( e s     ( p    (]
+[DELETED:  S3 0 t c     ( f r     ( w    ( r    ( t    ( p    ( n      ( p      (       ( C       (       ( o      ( p s   S c a  ( v s   S]
+[DELETED:  S4 0 b  ( m ( w   ( p    ( c    (   S p m   ( w   ( r   S p  ( S c a i  /        ]
+
+
+================================================================================
+
+Raw Text:
+Stricken language would be deleted from and underlined language would be added to present law.
+1 State of Arkansas As Engrossed: S3/5/25 H3/13/25
+A Bill
+2 95th General Assembly
+3 Regular Session, 2025 SENATE BILL 293
+4
+5 By: Senator K. Hammer
+6 By: Representative A. Brown
+7
+For An Act To Be Entitled
+8
+9 AN ACT TO AMEND THE LAW CONCERNING THE REQUIRED
+10 POSTINGS AT A POLLING SITE; TO AMEND THE LIST
+11 CONCERNING REQUIRED POSTING OF NOTICES, INFORMATION,
+12 AND MATERIAL AT A POLLING SITE ON ELECTION DAY; AND
+13 FOR OTHER PURPOSES.
+14
+15
+Subtitle
+16
+17 TO AMEND THE LAW CONCERNING THE REQUIRED
+18 POSTINGS AT A POLLING SITE; AND TO AMEND
+19 THE LIST CONCERNING REQUIRED POSTING OF
+20 NOTICES, INFORMATION, AND MATERIAL AT A
+21 POLLING SITE ON ELECTION DAY.
+22
+23 BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF ARKANSAS:
+24
+25 SECTION 1. Arkansas Code § 7-5-202(c)(1), concerning public notice of
+26 elections, is amended to read as follows:
+27 (c)(1) On the day of any election, the following shall be posted at
+28 each polling site and remain posted continuously therein until the polls
+29 close:
+30 (A) The public notice of election required in subsection
+31 (a) of this section;
+32 (B)(i) At least two (2) sample ballots, marked with the
+33 word “SAMPLE”, of each ballot style that will be used at the polling site.
+34 (ii) If the polling site has more than fifteen (15)
+35 ballot styles and has posted a sample ballot for each ballot style via an
+36 internet website before the beginning of early voting, the polling site may
+*SSS136*
+03-13-2025 10:06:31 SSS136
+
+As Engrossed: S3/5/25 H3/13/25 SB293
+1 provide the following in lieu of the sample ballots under subdivision
+2 (c)(1)(B)(i) of this section:
+3 (a) At least two (2) bound volumes that
+4 include each sample ballot, marked with the word “SAMPLE”; or
+5 (b) At least one (1) bound volume that
+6 includes each sample ballot, marked with the word “SAMPLE”, and at least one
+7 (1) electronic device that allows voters to access a sample ballot for each
+8 ballot style;
+9 (C)(i) Two (2) copies of the full text of all measures on
+10 the ballot.
+11 (ii) Copies posted under subdivision (c)(1)(C)(i) of
+12 this section shall include a copy of the concise abstract prepared and
+13 distributed under § 7-9-114;
+14 (D) At least two (2) copies of instructions on how to
+15 vote, including how to cast a provisional ballot and instructions for fail-
+16 safe voting;
+17 (E) General information on voting rights under applicable
+18 federal and state laws, including information on the right of an individual
+19 to cast a provisional ballot and instructions on how to contact the
+20 appropriate officials if these rights are alleged to have been violated;
+21 (F)(i) General information on federal and state laws
+22 regarding prohibitions on acts of fraud and misrepresentation; and
+23 (ii) Information about the availability of the
+24 Attorney General's election law violation hotline Election Integrity Unit,
+25 including without limitation the hotline telephone number of the Attorney
+26 General's election law violation hotline established under § 7-4-305;
+27 (G)(i) Double-sided signs containing the words “VOTE
+28 HERE”.
+29 (ii) Each sign shall be at least two feet by two feet
+30 (2′ x 2′) in size and shall contain an arrow pointing to the polling site.
+31 (iii) A sign shall be posted near each main driveway
+32 entrance to the polling site on each public street bordering the polling site
+33 so as to be visible to all traffic approaching the polling site.
+34 (iv) The sign shall be as close as possible to the
+35 public street without obstructing traffic; and
+36 (H)(i) One (1) printout from each voting machine,
+2 03-13-2025 10:06:31 SSS136
+
+As Engrossed: S3/5/25 H3/13/25 SB293
+1 terminal, or ballot tabulator showing that the candidate and question
+2 counters register zero (0).
+3 (ii) A poll worker shall produce one (1) printout
+4 from each machine showing whether the candidate and question counters
+5 register zero (0) and all poll workers present shall sign the printout.
+6 (iii) A poll worker shall post the printout upon the
+7 wall of the polling room where it shall remain throughout the election day;
+8 (I) A copy of the poll watcher rights and
+9 responsibilities;
+10 (J) A notice stating that if any voter needs assistance,
+11 the voter may ask a poll worker;
+12 (K) A notice on electioneering, to be posted inside the
+13 polling site; and
+14 (L)(i) During preferential primary election and
+15 nonjudicial elections, the following additional postings:
+16 (a) A posting containing an example of the
+17 primary ballot's selections; and
+18 (b) A notice that:
+19 (1) States "CROSSOVER VOTING IS A
+20 CRIME";
+21 (2) Explains crossover voting; and
+22 (3) States the penalties for a violation
+23 of crossover voting laws under § 7-1-103(a)(18)(B) and § 7-1-104(a)(10).
+24
+25 (ii) The State Board of Election Commissioners shall
+26 provide a standard form for a sign under subdivision (c)(1)(L)(i)(b) of this
+27 section.
+28
+29 SECTION 2. Arkansas Code § 7-5-312(n), concerning poll watchers,
+30 candidates, or designees and rights and challenges of a voter's ballot, is
+31 amended to read as follows:
+32 (n) Poll watcher rights and responsibilities shall be posted in plain
+33 view at each polling site, absentee ballot processing site, and counting
+34 site.
+35
+36 SECTION 3. Arkansas Code § 7-5-518(c), concerning voting machines
+3 03-13-2025 10:06:31 SSS136
+
+As Engrossed: S3/5/25 H3/13/25 SB293
+1 being inactivated until the polls open, is amended to read as follows:
+2 (c)(1) The poll workers shall produce one (1) printout from each
+3 machine showing whether the candidate and question counters register zero
+4 (000) and shall sign and post the printout upon the wall of the polling room,
+5 where it shall remain throughout the election day.
+6 (2) After the close of voting on election day, the certified
+7 printout, signed by the poll workers, shall be:
+8 (A)(1) Returned to the county board of election
+9 commissioners; and
+10 (B)(2) Filed with the election returns.
+11
+12 SECTION 4. Arkansas Code § 7-5-611(d)(2) and (3), concerning
+13 preparation of electronic vote tabulating devices and disposition of voting
+14 material, is amended to read as follows:
+15 (2) The poll workers shall sign and post the printout upon the
+16 wall of the polling room where it shall remain throughout the election day.
+17 (3) The certified printout shall be filed with the election
+18 returns.
+19
+20 SECTION 5. Arkansas Code § 7-9-114(b), concerning the abstract of a
+21 proposed measure, is amended to read as follows:
+22 (b) Not less than eighteen (18) days before the election, the
+23 Secretary of State shall transmit a certified copy of the abstract to the
+24 county boards of election commissioners, who shall cause copies to be printed
+25 and posted conspicuously at all polling places in the county for the
+26 information of the voters.
+27
+28 /s/K. Hammer
+29
+30
+31
+32
+33
+34
+35
+36
+4 03-13-2025 10:06:31 SSS136
+
+[DELETED:  A       A P C A F   T P T N P  B   S e  ( e c    ( (    ( w     ( b i]
+[DELETED:  S2 0 p (      ( i      ( i ( b    ( t     ( t d    ( v s    ( f t a    ( r     ( A i G    ( H     ( (2 2)     ( e s     ( p    (]
+[DELETED:  S3 0 t c     ( f r     ( w    ( r    ( t    ( p    ( n      ( p      (       ( C       (       ( o      ( p s   S c a  ( v s   S]
+[DELETED:  S4 0 b  ( m ( w   ( p    ( c    (   S p m   ( w   ( r   S p  ( S c a i  /        ]

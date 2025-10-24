@@ -1,0 +1,1049 @@
+Title: Stricken language would be deleted from and underlined language would be added to present law.
+Official Title: Stricken language would be deleted from and underlined language would be added to present law.
+Number of Sections: 1
+Source: versions - SB 237
+Media Type: application/pdf
+Strikethrough Detection: 13 sections found
+
+================================================================================
+
+Section 1:
+1 State of Arkansas
+A Bill
+2 95th General Assembly
+3 Regular Session, 2025 SENATE BILL 237
+4
+5 By: Senator J. Boyd
+6 By: Representative Steimel
+7
+For An Act To Be Entitled
+8
+9 AN ACT TO AMEND THE LAW CONCERNING THE LICENSING AND
+10 REGULATION OF CAPTIVE INSURERS; AND FOR OTHER
+11 PURPOSES.
+12
+13
+Subtitle
+14
+15 TO AMEND THE LAW CONCERNING THE
+16 LICENSING AND REGULATION OF CAPTIVE
+17 INSURERS.
+18
+19 BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF ARKANSAS:
+20
+21 SECTION 1. Arkansas Code § 23-63-1601(3), concerning the definition of
+22 "association" used in the licensing and regulation of captive insurers, is
+23 amended to read as follows:
+24 (3) "Association" means a legal association of individuals,
+25 corporations, partnerships, or associations that has been in continuous
+26 existence for at least one (1) year:
+27 (A) The member organizations of which collectively, or
+28 which does itself:
+29 (i) Own, control, or hold with power to vote all of
+30 the outstanding voting securities of an association captive insurance company
+31 incorporated as a stock insurer; or
+32 (ii) Have complete voting control over an
+33 association captive insurance company incorporated as a mutual insurer; or
+34 (B) The member organizations of which collectively
+35 constitute all of the subscribers of an association captive insurance company
+36 formed as a reciprocal insurer;
+*ANS130*
+02/14/2025 7:48:10 AM ANS130
+SB237
+1
+2 SECTION 2. Arkansas Code § 23-63-1601(9), concerning the definition of
+3 "Commissioner" used in the licensing and regulation of captive insurers, is
+4 repealed.
+5 (9) "Commissioner" means the Insurance Commissioner;
+6
+7 SECTION 3. Arkansas Code § 23-63-1601(11), concerning the definition
+8 of "Department" used in the licensing and regulation of captive insurers, is
+9 repealed.
+10 (11) "Department" means the State Insurance Department;
+11
+12 SECTION 4. Arkansas Code § 23-63-1602, concerning the application for
+13 a license as a captive insurer, is amended to add an additional subsection to
+14 read as follows:
+15 (f)(1) Notwithstanding any other provision of this subchapter, the
+16 commissioner may issue a provisional license to a captive insurance company
+17 applying for a license under this subchapter if the commissioner finds that
+18 issuing a provisional license is in the public's best interest.
+19 (2) As a condition to the issuance of a provisional license
+20 under subdivision (f)(1) of this section:
+21 (A) The applicant shall have:
+22 (i) Filed a complete application containing all
+23 information required by this section; and
+24 (ii) Paid all fees required for a license; and
+25 (B) The commissioner shall have made a preliminary finding
+26 that the expertise, experience, and character of the person who will control
+27 and manage the applicant are acceptable.
+28 (3) The commissioner may by order:
+29 (A) Limit the authority of a provisional license in any
+30 way deemed necessary to protect insureds and the public; or
+31 (B) Revoke a provisional license if the interests of
+32 insureds or the public are endangered.
+33 (4) If an applicant fails to complete the regular licensure
+34 application process under this section, the provisional license shall
+35 automatically terminate.
+36
+2 02/14/2025 7:48:10 AM ANS130
+SB237
+1 SECTION 5. Arkansas Code § 23-63-1604(a)(1), concerning the capital
+2 requirements of a captive insurance company, is amended to read as follows:
+3 (a)(1) The Insurance Commissioner shall not issue a license to a
+4 producer reinsurance captive insurance company, pure captive insurance
+5 company, sponsored captive insurance company, association captive insurance
+6 company incorporated as a stock insurer, or industrial insured captive
+7 insurance company incorporated as a stock insurer unless the company
+8 possesses and maintains unimpaired paid-in capital of:
+9 (A) In the case of a producer reinsurance captive
+10 insurance company, not less than three hundred thousand dollars ($300,000);
+11 (B) In the case of a pure captive insurance company, not
+12 less than one hundred thousand dollars ($100,000);
+13 (C) In the case of an association captive insurance
+14 company incorporated as a stock insurer, not less than four hundred thousand
+15 dollars ($400,000) two hundred fifty thousand dollars ($250,000);
+16 (D) In the case of an industrial insured captive insurance
+17 company incorporated as a stock insurer, not less than two hundred thousand
+18 dollars ($200,000) two hundred fifty thousand dollars ($250,000);
+19 (E) In the case of a sponsored captive insurance company,
+20 not less than two hundred fifty thousand dollars ($250,000) one hundred
+21 thousand dollars ($100,000); or
+22 (F) In the case of a special purpose captive insurance
+23 company, an amount determined by the commissioner after giving due
+24 consideration to the company's business plan, feasibility study, and pro
+25 formas, including the nature of the risks to be insured, but in no event less
+26 than three hundred thousand dollars ($300,000) one hundred twenty-five
+27 thousand dollars ($125,000).
+28
+29 SECTION 6. Arkansas Code § 23-63-1604(d), concerning dividends and
+30 distributions by a captive insurance company, is amended to read as follows:
+31 (d)(1) A captive insurance company may not shall not pay a dividend
+32 out of, or other distribution with respect to, capital or surplus, in excess
+33 of the limitations set forth in § 23-63-515, without the prior approval of
+34 the commissioner.
+35 (2) Approval of an ongoing plan for the payment of dividends or
+36 other distributions must shall be conditioned upon the retention, at the time
+3 02/14/2025 7:48:10 AM ANS130
+SB237
+1 of each payment, of capital or surplus in excess of amounts specified by or
+2 determined in accordance with according to formulas approved by the
+3 commissioner.
+4 (3) This subsection shall not does not apply to producer
+5 reinsurance captive insurance companies.
+6 (4)(A) A pure captive insurance company is not required to
+7 obtain prior approval by the commissioner for payment of an ordinary
+8 dividend.
+9 (B) A pure captive insurance company shall obtain the
+10 prior approval by the commissioner for an extraordinary dividend or
+11 distribution as defined in § 23-63-515.
+12
+13 SECTION 7. Arkansas Code § 23-63-1605(a)(1), concerning surplus
+14 requirements for a captive insurance company, is amended to read as follows:
+15 (a)(1) The Insurance Commissioner shall not issue a license to a
+16 captive insurance company unless the company possesses and maintains
+17 unimpaired surplus of:
+18 (A) In the case of a producer reinsurance captive
+19 insurance company, not less than three hundred thousand dollars ($300,000);
+20 (B) In the case of a pure captive insurance company, not
+21 less than one hundred fifty thousand dollars ($150,000) one hundred thousand
+22 dollars ($100,000);
+23 (C) In the case of an association captive insurance
+24 company incorporated as a stock insurer, not less than three hundred fifty
+25 thousand dollars ($350,000) two hundred fifty thousand dollars ($250,000);
+26 (D) In the case of an industrial insured captive insurance
+27 company incorporated as a stock insurer, not less than three hundred thousand
+28 dollars ($300,000) two hundred fifty thousand dollars ($250,000);
+29 (E) In the case of an association captive insurance
+30 company incorporated as a mutual insurer, not less than seven hundred fifty
+31 thousand dollars ($750,000) five hundred thousand dollars ($500,000);
+32 (F) In the case of an industrial insured captive insurance
+33 company incorporated as a mutual insurer, not less than five hundred thousand
+34 dollars ($500,000);
+35 (G) In the case of a sponsored captive insurance company,
+36 not less than two hundred fifty thousand dollars ($250,000) one hundred
+4 02/14/2025 7:48:10 AM ANS130
+SB237
+1 thousand dollars ($100,000); and
+2 (H) In the case of a special purpose captive insurance
+3 company, an amount determined by the commissioner after giving due
+4 consideration to the company's business plan, feasibility study, and pro
+5 formas, including the nature of the risks to be insured, but in no event less
+6 than three hundred thousand dollars ($300,000) one hundred twenty-five
+7 thousand dollars ($125,000).
+8
+9 SECTION 8. Arkansas Code § 23-63-1606 is amended to read as follows:
+10 23-63-1606. Organization.
+11 (a) A captive insurance company may be formed and operated in any form
+12 of business organization authorized under Arkansas law and approved by the
+13 Insurance Commissioner.
+14 (b) The alien captive insurance company may register to do business in
+15 this state after the commissioner's certificate has been issued.
+16 (c) The capital stock of a captive insurance company incorporated as a
+17 stock insurer must shall be issued at not less than par value.
+18 (d) At least one (1) of the members of the board of directors of a
+19 captive insurance company formed as a corporation in this state shall be a
+20 resident of the United States or a United States territory.
+21 (e) At least one (1) of the members of the subscribers' advisory
+22 committee of a captive insurance company formed as a reciprocal insurer shall
+23 be a resident of the United States or a United States territory.
+24 (f)(1) A captive insurance company formed under this subchapter has
+25 the privileges of and is subject to the business organization law of this
+26 state and is subject to this subchapter.
+27 (2) If a conflict occurs between business organization law and
+28 this subchapter, the latter controls.
+29 (3)(A) The Arkansas Insurance Code concerning mergers,
+30 consolidations, and mutualizations, and redomestications applies in
+31 determining the procedures to be followed by a captive insurance company in
+32 carrying out any of those transactions.
+33 (B) The commissioner may, upon request of an insurer that
+34 is a party to a merger authorized under subdivision (f)(3)(A) of this
+35 section, waive certain applicable requirements to the merger transaction.
+36 (C) A conversion may be accomplished under a reasonable
+5 02/14/2025 7:48:10 AM ANS130
+SB237
+1 plan and procedure as may be approved by the commissioner and according to
+2 rules that the commissioner may promulgate.
+3 (D) The commissioner may waive or modify the requirements
+4 for public notice and hearing.
+5 (E) If a notice of public hearing is required but no one
+6 requests a hearing, the commissioner may cancel the hearing.
+7 (F) An alien insurer may be a party to a merger authorized
+8 under subdivision (f)(3)(A) of this section if the requirements for a merger
+9 between a captive insurance company and a foreign insurer under this chapter
+10 apply to the merger transaction.
+11 (g)(1)(A) Notwithstanding any other method authorized by law, a
+12 foreign or alien insurer may become a domestic captive insurance company by
+13 complying with the requirements of this subchapter relative to the
+14 organization and licensing of a domestic captive insurance company of the
+15 same type with the approval of the commissioner.
+16 (B) A foreign or alien insurer redomesticating to this
+17 state under this section may be organized under any corporate form permitted
+18 by this chapter.
+19 (2)(A) A foreign or alien insurer that is domiciled in a foreign
+20 or alien jurisdiction may redomesticate under this section if as a result of
+21 the actions taken by the foreign or alien insurer under this section to
+22 redomesticate to this state, the foreign or alien insurer shall no longer be
+23 a domestic legal entity of the foreign or alien jurisdiction.
+24 (B) A foreign or alien insurer that applies to
+25 redomesticate under this section shall provide evidence to the commissioner
+26 that the applicable regulatory authority of the foreign or alien jurisdiction
+27 of its domicile has no objection to the redomestication.
+28 (3)(A) The foreign or alien insurer applying to redomesticate
+29 under this section shall:
+30 (i) File with the Secretary of State its articles of
+31 association, charter, or other organizational document, together with
+32 appropriate amendments thereto adopted according to the laws of this state;
+33 (ii) Bring the articles of association, charter, or
+34 other organizational document into compliance with the laws of this state;
+35 and
+36 (iii) Obtain an approval letter issued by the
+6 02/14/2025 7:48:10 AM ANS130
+SB237
+1 commissioner.
+2 (B) The foreign or alien insurer may file with the
+3 Secretary of State an election deferring the effective date of the
+4 redomestication.
+5 (C) Upon filing and paying any required fees, the
+6 Secretary of State shall issue an acknowledgement letter to the applicant.
+7 (4) The foreign or alien insurer shall file a copy of the
+8 Secretary of State's acknowledgement letter with the commissioner, who shall
+9 then issue a license under § 23-63-1602.
+10 (5) Upon the completion of a redomestication under this section,
+11 the captive insurance company shall be:
+12 (A) Considered domiciled in this state;
+13 (B) Subject to this subchapter; and
+14 (C) Deemed to have a formation date corresponding to its
+15 original formation date in the foreign or alien domicile.
+16 (6) For the purposes of an examination under § 23-63-1608, an
+17 examination conducted by the foreign or alien domicile that is substantially
+18 similar to an examination conducted in this state if the company had been
+19 domiciled in this state shall be recognized for the purposes of establishing
+20 the period of time when the next examination is due.
+21 (7) A foreign or alien insurer redomesticating under this
+22 section:
+23 (A) Shall:
+24 (i) Be liable only for taxes due under § 23-63-1614
+25 on premiums paid to the captive insurance company after redomestication; and
+26 (ii)(a) Report all premium taxes due under § 23-63-
+27 1614 but may elect to forego the payment of premium taxes, in either its
+28 first or its second year of operations, but not both, after redomesticating
+29 into this state.
+30 (b) A foreign or alien insurer making an
+31 election under subdivision (g)(7)(A)(ii)(a) of this section that surrenders
+32 its license or redomesticates to another jurisdiction within five (5) years
+33 of redomestication into this state shall immediately pay a tax in an amount
+34 equal to the premium tax under § 23-63-1614 plus ten percent (10%) per annum
+35 from the date the premium tax under § 23-63-1614 would have been due; and
+36 (B) After July 1 of any year shall be subject to only one-
+7 02/14/2025 7:48:10 AM ANS130
+SB237
+1 half (½) of the minimum premium tax specified under § 23-63-1614 in its first
+2 year.
+3 (8) This section shall not:
+4 (A) Be the exclusive means of redomesticating a captive
+5 insurance company to this state; and
+6 (B) Restrict the ability of an insurance company to
+7 undergo a merger, consolidation, transfer of assets and liabilities, or
+8 utilize any other means permitted by law to effect the transfer of operations
+9 of a foreign or alien insurance company to this state.
+10 (h)(1)(A) A captive insurance company formed as a reciprocal insurer
+11 under this subchapter is subject to § 23-70-101 et seq. and this subchapter.
+12 (B) If a conflict occurs between § 23-70-101 et seq. and
+13 this subchapter, the latter controls.
+14 (C) To the extent a reciprocal insurer is made subject to
+15 the Arkansas Insurance Code under § 23-70-101 et seq., the Arkansas Insurance
+16 Code is not applicable to a reciprocal insurer formed under this subchapter
+17 unless expressly made applicable to a captive insurance company by this
+18 subchapter.
+19 (2) In addition to subdivision (g)(1) subdivision (h)(1) of this
+20 section, a captive insurance company organized as a reciprocal insurer that
+21 is an industrial insured group is subject to § 23-70-101 et seq. and
+22 applicable provisions of the Arkansas Insurance Code.
+23 (h)(i) The articles of incorporation or bylaws of a captive insurance
+24 company may authorize a quorum of a board of directors to consist of no fewer
+25 than one-third (⅓) of the fixed or prescribed number of directors under § 4-
+26 27-824(b).
+27 (i)(j) The subscribers' agreement or other organizing document of a
+28 captive insurance company formed as a reciprocal insurer may authorize a
+29 quorum of a subscribers' advisory committee to consist of no fewer than one-
+30 third (⅓) of the number of its members.
+31
+32 SECTION 9. Arkansas Code § 23-63-1607(b)(2), concerning reporting
+33 requirements of a captive insurance company, is amended to add an additional
+34 subdivision to read as follows:
+35 (C) The commissioner may waive the requirement of an audit
+36 or actuarial opinion for a pure captive insurance company if the parent of
+8 02/14/2025 7:48:10 AM ANS130
+SB237
+1 the pure captive insurance company has:
+2 (i) A consolidated audit;
+3 (ii) A guaranty for liabilities of the pure captive
+4 insurance company;
+5 (iii) A minimum net equity of one hundred million
+6 dollars ($100,000,000); and
+7 (iv) A financial strength rating of "BBB" or better
+8 from a rating agency acceptable to the commissioner.
+9
+10 SECTION 10. Arkansas Code § 23-63-1608(a), concerning the examination
+11 of a captive insurance company, is amended to add an additional subdivision
+12 to read as follows:
+13 (3) Notwithstanding subdivision (a)(1) of this section, a pure
+14 captive insurance company shall be subject to examination:
+15 (A) At least one (1) time every seven (7) years; or
+16 (B) Whenever the commissioner determines it to be prudent.
+17
+18 SECTION 11. Arkansas Code § 23-63-1614 is amended to read as follows:
+19 23-63-1614. Premium tax — Definition.
+20 (a) Except as provided in this section, a captive insurance company
+21 shall pay to the Insurance Commissioner by March 1 of each year, a tax at the
+22 rate of:
+23 (1) Two hundred fifty thousandths of one percent (0.250%) on the
+24 first twenty million dollars ($20,000,000);
+25 (2) One hundred fifty thousandths of one percent (0.150%) on the
+26 next twenty million dollars ($20,000,000); and
+27 (3) Fifty thousandths of one percent (0.050%) on each dollar
+28 thereafter, on the direct premiums collected or contracted for on policies or
+29 contracts of insurance written by the captive insurance company during the
+30 year ending December 31 next preceding, after deducting from the direct
+31 premiums subject to the tax the amounts paid to policyholders as return
+32 premiums, which shall include dividends on unabsorbed premiums or premium
+33 deposits returned or credited to policyholders.
+34 (b)(1) Except as provided in this section, a captive insurance company
+35 shall pay to the commissioner by March 1 of each year, a tax at the rate of:
+36 (A) Two hundred twenty-five thousandths of one percent
+9 02/14/2025 7:48:10 AM ANS130
+SB237
+1 (0.225%) on the first twenty million dollars ($20,000,000) of assumed
+2 reinsurance premium;
+3 (B) One hundred fifty thousandths of one percent (0.150%)
+4 on the next twenty million dollars ($20,000,000);
+5 (C) Fifty thousandths of one percent (0.050%) on the next
+6 twenty million dollars ($20,000,000); and
+7 (D) Twenty-five thousandths of one percent (0.025%) of
+8 each dollar thereafter.
+9 (2) No reinsurance tax applies A reinsurance tax does not apply
+10 to premiums for risks or portions of risks that are subject to taxation on a
+11 direct basis under subsection (a) of this section.
+12 (3) A premium tax is not payable in connection with the receipt
+13 of assets in exchange for the assumption of loss reserves and other
+14 liabilities of another insurer under common ownership and control, if the
+15 transaction is part of a plan to discontinue the operations of the other
+16 insurer and if the intent of the parties to the transaction is to renew or
+17 maintain business with the captive insurance company.
+18 (c) If the aggregate taxes to be paid by a captive insurance company
+19 calculated under subsections (a) and (b) of this section amount to less than
+20 five thousand dollars ($5,000) in any year, the captive insurance company
+21 shall pay a tax of five thousand dollars ($5,000) for that year.
+22 (d) The total tax paid by a captive insurance company shall not exceed
+23 one hundred thousand dollars ($100,000) in any year.
+24 (e)(1)(A) A captive insurance company may apply for a credit for the
+25 noncommissioned salaries and wages of its Arkansas employees that are paid in
+26 connection with its captive insurance company operations.
+27 (B) The credit under subdivision (e)(1)(A) of this section
+28 may be applied as an offset against the premium taxes imposed by this
+29 section.
+30 (2)(A) An employee shall be employed for six (6) months for the
+31 salary or wages to be eligible to qualify for the premium tax credit under
+32 subdivision (e)(1)(A) of this section.
+33 (B) The employee shall:
+34 (i) Have a primary residence in this state; and
+35 (ii) Pay income taxes in this state.
+36 (3) The offset under subdivision (e)(1)(B) of this section shall
+10 02/14/2025 7:48:10 AM ANS130
+SB237
+1 not reduce the premium tax due by more than fifty percent (50%).
+2 (f) A captive insurance company failing to make returns or to pay all
+3 taxes required by this section is subject to relevant sanctions under the
+4 Arkansas Insurance Code.
+5 (f)(g) Two (2) or more captive insurance companies under common
+6 ownership and control must shall be taxed as though they were a single
+7 captive insurance company.
+8 (g)(h) As used in this section, “common ownership and control” means:
+9 (1) In the case of stock corporations, the direct or indirect
+10 ownership of eighty percent (80%) or more of the outstanding voting stock of
+11 two (2) or more corporations by the same shareholder or shareholders; and
+12 (2) In the case of mutual corporations, the direct or indirect
+13 ownership of eighty percent (80%) or more of the surplus and the voting power
+14 of two (2) or more corporations by the same member or members.
+15 (h)(i) In the case of a branch captive insurance company, the tax
+16 under this section applies only to the branch business of the company.
+17 (i)(1)(j)(1) The tax under this section constitutes all taxes
+18 collectible under the laws of this state from a captive insurance company.
+19 (2) No other tax may be levied or collected from a captive
+20 insurance company by this state or a county, city, or municipality of this
+21 state, except ad valorem taxes on real and personal property used in the
+22 production of income.
+23 (j)(k) This section shall not apply to any producer reinsurance
+24 captive insurance company that invests and continuously maintains not less
+25 than fifty percent (50%) of its assets in certificates of deposit of any bank
+26 organized under the laws of the United States with a banking facility in the
+27 State of Arkansas or any federally insured bank or savings institution
+28 organized under the laws of the State of Arkansas, or in bonds, notes,
+29 warrants, or other securities, not in default, that are direct obligations
+30 of:
+31 (1) This state;
+32 (2) Any county, incorporated city or town, or duly organized
+33 school district or other taxing district of this state:
+34 (A) If no default on the part of the obligor in payment of
+35 principal or interest on any of its obligations has occurred within five (5)
+36 years prior to the date of the proposed investment; or
+11 02/14/2025 7:48:10 AM ANS130
+SB237
+1 (B) If the obligations were issued less than five (5)
+2 years prior to the date of investment, no default in payment of principal or
+3 interest has occurred on the obligations to be purchased or on any other
+4 public obligation of the obligor within five (5) years of the investment; or
+5 (3) Any local improvement district in this state to finance
+6 local improvements authorized by law, if the principal and interest of the
+7 obligations are payable from assessments on real property within the local
+8 improvement district, and:
+9 (A) No default on the part of the obligor in payment of
+10 principal or interest on any of its obligations has occurred within five (5)
+11 years prior to the date of the proposed investment; or
+12 (B) If the obligations were issued less than five (5)
+13 years prior to the date of investment, no default in payment of principal or
+14 interest has occurred on the obligations to be purchased or on any other
+15 public obligation of the obligor within five (5) years of the investment.
+16
+17 SECTION 12. Arkansas Code § 23-63-1624(c)(3), concerning the license
+18 renewal fee of a dormant captive insurance company, is amended to read as
+19 follows:
+20 (3) Pay a license renewal fee as provided in the rules
+21 promulgated by the commissioner under Section 18 of Rule and Regulation 73 of
+22 the State Insurance Department.
+23
+24 SECTION 13. Arkansas Code Title 23, Chapter 63, Subchapter 16, is
+25 amended to add an additional section to read as follows:
+26 23-63-1625. Violations.
+27 (a) The Insurance Commissioner, after notice and a hearing, shall
+28 suspend or revoke a certificate of authority of a captive insurance company
+29 if the commissioner finds that the captive insurance company:
+30 (1)(A) Is in an unsound condition or is in such condition, or is
+31 using methods and practices in the conduct of its business, as to allow
+32 further transactions of insurance in Arkansas hazardous or injurious to the
+33 policyholders of the captive insurance company or to the public.
+34 (B) For purposes of this section, the commissioner may
+35 consider the present, past, and future trends in the financial condition of
+36 the captive insurance company that may affect the solvency of the captive
+12 02/14/2025 7:48:10 AM ANS130
+SB237
+1 insurance company;
+2 (2) Refuses to be examined or to produce the accounts, records,
+3 or files of the captive insurance company for examination or if any of the
+4 officers of the captive insurance company have refused to give information
+5 with respect to the affairs of the captive insurance company when required by
+6 the commissioner;
+7 (3) Fails to pay any final judgment rendered against the captive
+8 insurance company within thirty (30) days of entry of the judgment; or
+9 (4) Knowingly, or with reckless disregard, violated or failed to
+10 comply with the Arkansas Insurance Code or with any lawful rule or order of
+11 the commissioner.
+12 (b) If the commissioner finds that one (1) or more grounds exist for
+13 the suspension or revocation of a certificate of authority of a captive
+14 insurance company, the commissioner may:
+15 (1) In lieu of suspension, impose upon the holder of the
+16 certificate of authority an administrative penalty in the amount of five
+17 thousand dollars ($5,000); or
+18 (2) In lieu of revocation, impose upon the holder of the
+19 certificate of authority an administrative penalty in the amount of ten
+20 thousand dollars ($10,000).
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+13 02/14/2025 7:48:10 AM ANS130
+[DELETED:       A R P  T L I  B   S " a   ( c e    ( w     ( t i     ( a    ( c f]
+[DELETED: S2 0   S " r   (   S o r   (   S a r  ( c a i   ( u    (     ( i     (    ( t a   (    ( w    ( i   ( a a ]
+[DELETED: S3 0  S r  ( p c c i p    ( i    ( l    ( c d    ( c d    ( n t    ( c c f t t   S d  ( o o t   ( o]
+[DELETED: S4 0 o d c   ( r   ( o d    ( p d   S r  ( c u    ( i    ( l d    ( c t    ( c d    ( c t    ( c d    ( n]
+[DELETED: S5 0 t    ( c c f t t   S  2  ( o I  ( t  ( s  ( c r  ( c b  ( t s   ( t   ( c d c    ( i s    (]
+[DELETED: S6 0 p r    ( f    ( r    ( u b a  ( f c o s    ( s b   ( o t r a    ( r t o   ( u     ( a a     ( o a     (]
+[DELETED: S7 0 c    ( S r    ( S   ( S t   ( t    (    (    ( o   ( e s d t   ( s    (     ( o     ( 1 f i      ( e i o e f    (]
+[DELETED: S8 0 h y   (    ( i    ( u u o  ( u    ( t    ( t C u s   ( s i a  ( c t() 2  ( c q t()   S r s    ( o]
+[DELETED: S9 0 t     (     ( i     ( d     ( f   S o t   ( c    (    (   S  2  ( s r   ( f   ( n   ( t c y p p d  ( s    (]
+[DELETED: S1 0 ( r    ( o    ( t    ( e   ( t d   ( o l t i m  ( c f s  ( o  ( n c    ( m s   ( s s    (     (     (   (]
+[DELETED: S1 0 n  ( t A  ( o c  (   ( o t   ( o o  ( u  ( c   ( i s p  ( c t o S o w o   (   ( s    ( p y]
+[DELETED: S1 0    ( y i p   ( l o i    ( p y    ( y i p   S r f   ( p t   S a  2  ( s i   ( u f p    ( c t]
+[DELETED: S1 0 i   ( o o w t   ( i   ( c t  ( t i   ( c t   ( c t]
+
+
+================================================================================
+
+Raw Text:
+Stricken language would be deleted from and underlined language would be added to present law.
+1 State of Arkansas
+A Bill
+2 95th General Assembly
+3 Regular Session, 2025 SENATE BILL 237
+4
+5 By: Senator J. Boyd
+6 By: Representative Steimel
+7
+For An Act To Be Entitled
+8
+9 AN ACT TO AMEND THE LAW CONCERNING THE LICENSING AND
+10 REGULATION OF CAPTIVE INSURERS; AND FOR OTHER
+11 PURPOSES.
+12
+13
+Subtitle
+14
+15 TO AMEND THE LAW CONCERNING THE
+16 LICENSING AND REGULATION OF CAPTIVE
+17 INSURERS.
+18
+19 BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF ARKANSAS:
+20
+21 SECTION 1. Arkansas Code § 23-63-1601(3), concerning the definition of
+22 "association" used in the licensing and regulation of captive insurers, is
+23 amended to read as follows:
+24 (3) "Association" means a legal association of individuals,
+25 corporations, partnerships, or associations that has been in continuous
+26 existence for at least one (1) year:
+27 (A) The member organizations of which collectively, or
+28 which does itself:
+29 (i) Own, control, or hold with power to vote all of
+30 the outstanding voting securities of an association captive insurance company
+31 incorporated as a stock insurer; or
+32 (ii) Have complete voting control over an
+33 association captive insurance company incorporated as a mutual insurer; or
+34 (B) The member organizations of which collectively
+35 constitute all of the subscribers of an association captive insurance company
+36 formed as a reciprocal insurer;
+*ANS130*
+02/14/2025 7:48:10 AM ANS130
+
+SB237
+1
+2 SECTION 2. Arkansas Code § 23-63-1601(9), concerning the definition of
+3 "Commissioner" used in the licensing and regulation of captive insurers, is
+4 repealed.
+5 (9) "Commissioner" means the Insurance Commissioner;
+6
+7 SECTION 3. Arkansas Code § 23-63-1601(11), concerning the definition
+8 of "Department" used in the licensing and regulation of captive insurers, is
+9 repealed.
+10 (11) "Department" means the State Insurance Department;
+11
+12 SECTION 4. Arkansas Code § 23-63-1602, concerning the application for
+13 a license as a captive insurer, is amended to add an additional subsection to
+14 read as follows:
+15 (f)(1) Notwithstanding any other provision of this subchapter, the
+16 commissioner may issue a provisional license to a captive insurance company
+17 applying for a license under this subchapter if the commissioner finds that
+18 issuing a provisional license is in the public's best interest.
+19 (2) As a condition to the issuance of a provisional license
+20 under subdivision (f)(1) of this section:
+21 (A) The applicant shall have:
+22 (i) Filed a complete application containing all
+23 information required by this section; and
+24 (ii) Paid all fees required for a license; and
+25 (B) The commissioner shall have made a preliminary finding
+26 that the expertise, experience, and character of the person who will control
+27 and manage the applicant are acceptable.
+28 (3) The commissioner may by order:
+29 (A) Limit the authority of a provisional license in any
+30 way deemed necessary to protect insureds and the public; or
+31 (B) Revoke a provisional license if the interests of
+32 insureds or the public are endangered.
+33 (4) If an applicant fails to complete the regular licensure
+34 application process under this section, the provisional license shall
+35 automatically terminate.
+36
+2 02/14/2025 7:48:10 AM ANS130
+
+SB237
+1 SECTION 5. Arkansas Code § 23-63-1604(a)(1), concerning the capital
+2 requirements of a captive insurance company, is amended to read as follows:
+3 (a)(1) The Insurance Commissioner shall not issue a license to a
+4 producer reinsurance captive insurance company, pure captive insurance
+5 company, sponsored captive insurance company, association captive insurance
+6 company incorporated as a stock insurer, or industrial insured captive
+7 insurance company incorporated as a stock insurer unless the company
+8 possesses and maintains unimpaired paid-in capital of:
+9 (A) In the case of a producer reinsurance captive
+10 insurance company, not less than three hundred thousand dollars ($300,000);
+11 (B) In the case of a pure captive insurance company, not
+12 less than one hundred thousand dollars ($100,000);
+13 (C) In the case of an association captive insurance
+14 company incorporated as a stock insurer, not less than four hundred thousand
+15 dollars ($400,000) two hundred fifty thousand dollars ($250,000);
+16 (D) In the case of an industrial insured captive insurance
+17 company incorporated as a stock insurer, not less than two hundred thousand
+18 dollars ($200,000) two hundred fifty thousand dollars ($250,000);
+19 (E) In the case of a sponsored captive insurance company,
+20 not less than two hundred fifty thousand dollars ($250,000) one hundred
+21 thousand dollars ($100,000); or
+22 (F) In the case of a special purpose captive insurance
+23 company, an amount determined by the commissioner after giving due
+24 consideration to the company's business plan, feasibility study, and pro
+25 formas, including the nature of the risks to be insured, but in no event less
+26 than three hundred thousand dollars ($300,000) one hundred twenty-five
+27 thousand dollars ($125,000).
+28
+29 SECTION 6. Arkansas Code § 23-63-1604(d), concerning dividends and
+30 distributions by a captive insurance company, is amended to read as follows:
+31 (d)(1) A captive insurance company may not shall not pay a dividend
+32 out of, or other distribution with respect to, capital or surplus, in excess
+33 of the limitations set forth in § 23-63-515, without the prior approval of
+34 the commissioner.
+35 (2) Approval of an ongoing plan for the payment of dividends or
+36 other distributions must shall be conditioned upon the retention, at the time
+3 02/14/2025 7:48:10 AM ANS130
+
+SB237
+1 of each payment, of capital or surplus in excess of amounts specified by or
+2 determined in accordance with according to formulas approved by the
+3 commissioner.
+4 (3) This subsection shall not does not apply to producer
+5 reinsurance captive insurance companies.
+6 (4)(A) A pure captive insurance company is not required to
+7 obtain prior approval by the commissioner for payment of an ordinary
+8 dividend.
+9 (B) A pure captive insurance company shall obtain the
+10 prior approval by the commissioner for an extraordinary dividend or
+11 distribution as defined in § 23-63-515.
+12
+13 SECTION 7. Arkansas Code § 23-63-1605(a)(1), concerning surplus
+14 requirements for a captive insurance company, is amended to read as follows:
+15 (a)(1) The Insurance Commissioner shall not issue a license to a
+16 captive insurance company unless the company possesses and maintains
+17 unimpaired surplus of:
+18 (A) In the case of a producer reinsurance captive
+19 insurance company, not less than three hundred thousand dollars ($300,000);
+20 (B) In the case of a pure captive insurance company, not
+21 less than one hundred fifty thousand dollars ($150,000) one hundred thousand
+22 dollars ($100,000);
+23 (C) In the case of an association captive insurance
+24 company incorporated as a stock insurer, not less than three hundred fifty
+25 thousand dollars ($350,000) two hundred fifty thousand dollars ($250,000);
+26 (D) In the case of an industrial insured captive insurance
+27 company incorporated as a stock insurer, not less than three hundred thousand
+28 dollars ($300,000) two hundred fifty thousand dollars ($250,000);
+29 (E) In the case of an association captive insurance
+30 company incorporated as a mutual insurer, not less than seven hundred fifty
+31 thousand dollars ($750,000) five hundred thousand dollars ($500,000);
+32 (F) In the case of an industrial insured captive insurance
+33 company incorporated as a mutual insurer, not less than five hundred thousand
+34 dollars ($500,000);
+35 (G) In the case of a sponsored captive insurance company,
+36 not less than two hundred fifty thousand dollars ($250,000) one hundred
+4 02/14/2025 7:48:10 AM ANS130
+
+SB237
+1 thousand dollars ($100,000); and
+2 (H) In the case of a special purpose captive insurance
+3 company, an amount determined by the commissioner after giving due
+4 consideration to the company's business plan, feasibility study, and pro
+5 formas, including the nature of the risks to be insured, but in no event less
+6 than three hundred thousand dollars ($300,000) one hundred twenty-five
+7 thousand dollars ($125,000).
+8
+9 SECTION 8. Arkansas Code § 23-63-1606 is amended to read as follows:
+10 23-63-1606. Organization.
+11 (a) A captive insurance company may be formed and operated in any form
+12 of business organization authorized under Arkansas law and approved by the
+13 Insurance Commissioner.
+14 (b) The alien captive insurance company may register to do business in
+15 this state after the commissioner's certificate has been issued.
+16 (c) The capital stock of a captive insurance company incorporated as a
+17 stock insurer must shall be issued at not less than par value.
+18 (d) At least one (1) of the members of the board of directors of a
+19 captive insurance company formed as a corporation in this state shall be a
+20 resident of the United States or a United States territory.
+21 (e) At least one (1) of the members of the subscribers' advisory
+22 committee of a captive insurance company formed as a reciprocal insurer shall
+23 be a resident of the United States or a United States territory.
+24 (f)(1) A captive insurance company formed under this subchapter has
+25 the privileges of and is subject to the business organization law of this
+26 state and is subject to this subchapter.
+27 (2) If a conflict occurs between business organization law and
+28 this subchapter, the latter controls.
+29 (3)(A) The Arkansas Insurance Code concerning mergers,
+30 consolidations, and mutualizations, and redomestications applies in
+31 determining the procedures to be followed by a captive insurance company in
+32 carrying out any of those transactions.
+33 (B) The commissioner may, upon request of an insurer that
+34 is a party to a merger authorized under subdivision (f)(3)(A) of this
+35 section, waive certain applicable requirements to the merger transaction.
+36 (C) A conversion may be accomplished under a reasonable
+5 02/14/2025 7:48:10 AM ANS130
+
+SB237
+1 plan and procedure as may be approved by the commissioner and according to
+2 rules that the commissioner may promulgate.
+3 (D) The commissioner may waive or modify the requirements
+4 for public notice and hearing.
+5 (E) If a notice of public hearing is required but no one
+6 requests a hearing, the commissioner may cancel the hearing.
+7 (F) An alien insurer may be a party to a merger authorized
+8 under subdivision (f)(3)(A) of this section if the requirements for a merger
+9 between a captive insurance company and a foreign insurer under this chapter
+10 apply to the merger transaction.
+11 (g)(1)(A) Notwithstanding any other method authorized by law, a
+12 foreign or alien insurer may become a domestic captive insurance company by
+13 complying with the requirements of this subchapter relative to the
+14 organization and licensing of a domestic captive insurance company of the
+15 same type with the approval of the commissioner.
+16 (B) A foreign or alien insurer redomesticating to this
+17 state under this section may be organized under any corporate form permitted
+18 by this chapter.
+19 (2)(A) A foreign or alien insurer that is domiciled in a foreign
+20 or alien jurisdiction may redomesticate under this section if as a result of
+21 the actions taken by the foreign or alien insurer under this section to
+22 redomesticate to this state, the foreign or alien insurer shall no longer be
+23 a domestic legal entity of the foreign or alien jurisdiction.
+24 (B) A foreign or alien insurer that applies to
+25 redomesticate under this section shall provide evidence to the commissioner
+26 that the applicable regulatory authority of the foreign or alien jurisdiction
+27 of its domicile has no objection to the redomestication.
+28 (3)(A) The foreign or alien insurer applying to redomesticate
+29 under this section shall:
+30 (i) File with the Secretary of State its articles of
+31 association, charter, or other organizational document, together with
+32 appropriate amendments thereto adopted according to the laws of this state;
+33 (ii) Bring the articles of association, charter, or
+34 other organizational document into compliance with the laws of this state;
+35 and
+36 (iii) Obtain an approval letter issued by the
+6 02/14/2025 7:48:10 AM ANS130
+
+SB237
+1 commissioner.
+2 (B) The foreign or alien insurer may file with the
+3 Secretary of State an election deferring the effective date of the
+4 redomestication.
+5 (C) Upon filing and paying any required fees, the
+6 Secretary of State shall issue an acknowledgement letter to the applicant.
+7 (4) The foreign or alien insurer shall file a copy of the
+8 Secretary of State's acknowledgement letter with the commissioner, who shall
+9 then issue a license under § 23-63-1602.
+10 (5) Upon the completion of a redomestication under this section,
+11 the captive insurance company shall be:
+12 (A) Considered domiciled in this state;
+13 (B) Subject to this subchapter; and
+14 (C) Deemed to have a formation date corresponding to its
+15 original formation date in the foreign or alien domicile.
+16 (6) For the purposes of an examination under § 23-63-1608, an
+17 examination conducted by the foreign or alien domicile that is substantially
+18 similar to an examination conducted in this state if the company had been
+19 domiciled in this state shall be recognized for the purposes of establishing
+20 the period of time when the next examination is due.
+21 (7) A foreign or alien insurer redomesticating under this
+22 section:
+23 (A) Shall:
+24 (i) Be liable only for taxes due under § 23-63-1614
+25 on premiums paid to the captive insurance company after redomestication; and
+26 (ii)(a) Report all premium taxes due under § 23-63-
+27 1614 but may elect to forego the payment of premium taxes, in either its
+28 first or its second year of operations, but not both, after redomesticating
+29 into this state.
+30 (b) A foreign or alien insurer making an
+31 election under subdivision (g)(7)(A)(ii)(a) of this section that surrenders
+32 its license or redomesticates to another jurisdiction within five (5) years
+33 of redomestication into this state shall immediately pay a tax in an amount
+34 equal to the premium tax under § 23-63-1614 plus ten percent (10%) per annum
+35 from the date the premium tax under § 23-63-1614 would have been due; and
+36 (B) After July 1 of any year shall be subject to only one-
+7 02/14/2025 7:48:10 AM ANS130
+
+SB237
+1 half (½) of the minimum premium tax specified under § 23-63-1614 in its first
+2 year.
+3 (8) This section shall not:
+4 (A) Be the exclusive means of redomesticating a captive
+5 insurance company to this state; and
+6 (B) Restrict the ability of an insurance company to
+7 undergo a merger, consolidation, transfer of assets and liabilities, or
+8 utilize any other means permitted by law to effect the transfer of operations
+9 of a foreign or alien insurance company to this state.
+10 (h)(1)(A) A captive insurance company formed as a reciprocal insurer
+11 under this subchapter is subject to § 23-70-101 et seq. and this subchapter.
+12 (B) If a conflict occurs between § 23-70-101 et seq. and
+13 this subchapter, the latter controls.
+14 (C) To the extent a reciprocal insurer is made subject to
+15 the Arkansas Insurance Code under § 23-70-101 et seq., the Arkansas Insurance
+16 Code is not applicable to a reciprocal insurer formed under this subchapter
+17 unless expressly made applicable to a captive insurance company by this
+18 subchapter.
+19 (2) In addition to subdivision (g)(1) subdivision (h)(1) of this
+20 section, a captive insurance company organized as a reciprocal insurer that
+21 is an industrial insured group is subject to § 23-70-101 et seq. and
+22 applicable provisions of the Arkansas Insurance Code.
+23 (h)(i) The articles of incorporation or bylaws of a captive insurance
+24 company may authorize a quorum of a board of directors to consist of no fewer
+25 than one-third (⅓) of the fixed or prescribed number of directors under § 4-
+26 27-824(b).
+27 (i)(j) The subscribers' agreement or other organizing document of a
+28 captive insurance company formed as a reciprocal insurer may authorize a
+29 quorum of a subscribers' advisory committee to consist of no fewer than one-
+30 third (⅓) of the number of its members.
+31
+32 SECTION 9. Arkansas Code § 23-63-1607(b)(2), concerning reporting
+33 requirements of a captive insurance company, is amended to add an additional
+34 subdivision to read as follows:
+35 (C) The commissioner may waive the requirement of an audit
+36 or actuarial opinion for a pure captive insurance company if the parent of
+8 02/14/2025 7:48:10 AM ANS130
+
+SB237
+1 the pure captive insurance company has:
+2 (i) A consolidated audit;
+3 (ii) A guaranty for liabilities of the pure captive
+4 insurance company;
+5 (iii) A minimum net equity of one hundred million
+6 dollars ($100,000,000); and
+7 (iv) A financial strength rating of "BBB" or better
+8 from a rating agency acceptable to the commissioner.
+9
+10 SECTION 10. Arkansas Code § 23-63-1608(a), concerning the examination
+11 of a captive insurance company, is amended to add an additional subdivision
+12 to read as follows:
+13 (3) Notwithstanding subdivision (a)(1) of this section, a pure
+14 captive insurance company shall be subject to examination:
+15 (A) At least one (1) time every seven (7) years; or
+16 (B) Whenever the commissioner determines it to be prudent.
+17
+18 SECTION 11. Arkansas Code § 23-63-1614 is amended to read as follows:
+19 23-63-1614. Premium tax — Definition.
+20 (a) Except as provided in this section, a captive insurance company
+21 shall pay to the Insurance Commissioner by March 1 of each year, a tax at the
+22 rate of:
+23 (1) Two hundred fifty thousandths of one percent (0.250%) on the
+24 first twenty million dollars ($20,000,000);
+25 (2) One hundred fifty thousandths of one percent (0.150%) on the
+26 next twenty million dollars ($20,000,000); and
+27 (3) Fifty thousandths of one percent (0.050%) on each dollar
+28 thereafter, on the direct premiums collected or contracted for on policies or
+29 contracts of insurance written by the captive insurance company during the
+30 year ending December 31 next preceding, after deducting from the direct
+31 premiums subject to the tax the amounts paid to policyholders as return
+32 premiums, which shall include dividends on unabsorbed premiums or premium
+33 deposits returned or credited to policyholders.
+34 (b)(1) Except as provided in this section, a captive insurance company
+35 shall pay to the commissioner by March 1 of each year, a tax at the rate of:
+36 (A) Two hundred twenty-five thousandths of one percent
+9 02/14/2025 7:48:10 AM ANS130
+
+SB237
+1 (0.225%) on the first twenty million dollars ($20,000,000) of assumed
+2 reinsurance premium;
+3 (B) One hundred fifty thousandths of one percent (0.150%)
+4 on the next twenty million dollars ($20,000,000);
+5 (C) Fifty thousandths of one percent (0.050%) on the next
+6 twenty million dollars ($20,000,000); and
+7 (D) Twenty-five thousandths of one percent (0.025%) of
+8 each dollar thereafter.
+9 (2) No reinsurance tax applies A reinsurance tax does not apply
+10 to premiums for risks or portions of risks that are subject to taxation on a
+11 direct basis under subsection (a) of this section.
+12 (3) A premium tax is not payable in connection with the receipt
+13 of assets in exchange for the assumption of loss reserves and other
+14 liabilities of another insurer under common ownership and control, if the
+15 transaction is part of a plan to discontinue the operations of the other
+16 insurer and if the intent of the parties to the transaction is to renew or
+17 maintain business with the captive insurance company.
+18 (c) If the aggregate taxes to be paid by a captive insurance company
+19 calculated under subsections (a) and (b) of this section amount to less than
+20 five thousand dollars ($5,000) in any year, the captive insurance company
+21 shall pay a tax of five thousand dollars ($5,000) for that year.
+22 (d) The total tax paid by a captive insurance company shall not exceed
+23 one hundred thousand dollars ($100,000) in any year.
+24 (e)(1)(A) A captive insurance company may apply for a credit for the
+25 noncommissioned salaries and wages of its Arkansas employees that are paid in
+26 connection with its captive insurance company operations.
+27 (B) The credit under subdivision (e)(1)(A) of this section
+28 may be applied as an offset against the premium taxes imposed by this
+29 section.
+30 (2)(A) An employee shall be employed for six (6) months for the
+31 salary or wages to be eligible to qualify for the premium tax credit under
+32 subdivision (e)(1)(A) of this section.
+33 (B) The employee shall:
+34 (i) Have a primary residence in this state; and
+35 (ii) Pay income taxes in this state.
+36 (3) The offset under subdivision (e)(1)(B) of this section shall
+10 02/14/2025 7:48:10 AM ANS130
+
+SB237
+1 not reduce the premium tax due by more than fifty percent (50%).
+2 (f) A captive insurance company failing to make returns or to pay all
+3 taxes required by this section is subject to relevant sanctions under the
+4 Arkansas Insurance Code.
+5 (f)(g) Two (2) or more captive insurance companies under common
+6 ownership and control must shall be taxed as though they were a single
+7 captive insurance company.
+8 (g)(h) As used in this section, “common ownership and control” means:
+9 (1) In the case of stock corporations, the direct or indirect
+10 ownership of eighty percent (80%) or more of the outstanding voting stock of
+11 two (2) or more corporations by the same shareholder or shareholders; and
+12 (2) In the case of mutual corporations, the direct or indirect
+13 ownership of eighty percent (80%) or more of the surplus and the voting power
+14 of two (2) or more corporations by the same member or members.
+15 (h)(i) In the case of a branch captive insurance company, the tax
+16 under this section applies only to the branch business of the company.
+17 (i)(1)(j)(1) The tax under this section constitutes all taxes
+18 collectible under the laws of this state from a captive insurance company.
+19 (2) No other tax may be levied or collected from a captive
+20 insurance company by this state or a county, city, or municipality of this
+21 state, except ad valorem taxes on real and personal property used in the
+22 production of income.
+23 (j)(k) This section shall not apply to any producer reinsurance
+24 captive insurance company that invests and continuously maintains not less
+25 than fifty percent (50%) of its assets in certificates of deposit of any bank
+26 organized under the laws of the United States with a banking facility in the
+27 State of Arkansas or any federally insured bank or savings institution
+28 organized under the laws of the State of Arkansas, or in bonds, notes,
+29 warrants, or other securities, not in default, that are direct obligations
+30 of:
+31 (1) This state;
+32 (2) Any county, incorporated city or town, or duly organized
+33 school district or other taxing district of this state:
+34 (A) If no default on the part of the obligor in payment of
+35 principal or interest on any of its obligations has occurred within five (5)
+36 years prior to the date of the proposed investment; or
+11 02/14/2025 7:48:10 AM ANS130
+
+SB237
+1 (B) If the obligations were issued less than five (5)
+2 years prior to the date of investment, no default in payment of principal or
+3 interest has occurred on the obligations to be purchased or on any other
+4 public obligation of the obligor within five (5) years of the investment; or
+5 (3) Any local improvement district in this state to finance
+6 local improvements authorized by law, if the principal and interest of the
+7 obligations are payable from assessments on real property within the local
+8 improvement district, and:
+9 (A) No default on the part of the obligor in payment of
+10 principal or interest on any of its obligations has occurred within five (5)
+11 years prior to the date of the proposed investment; or
+12 (B) If the obligations were issued less than five (5)
+13 years prior to the date of investment, no default in payment of principal or
+14 interest has occurred on the obligations to be purchased or on any other
+15 public obligation of the obligor within five (5) years of the investment.
+16
+17 SECTION 12. Arkansas Code § 23-63-1624(c)(3), concerning the license
+18 renewal fee of a dormant captive insurance company, is amended to read as
+19 follows:
+20 (3) Pay a license renewal fee as provided in the rules
+21 promulgated by the commissioner under Section 18 of Rule and Regulation 73 of
+22 the State Insurance Department.
+23
+24 SECTION 13. Arkansas Code Title 23, Chapter 63, Subchapter 16, is
+25 amended to add an additional section to read as follows:
+26 23-63-1625. Violations.
+27 (a) The Insurance Commissioner, after notice and a hearing, shall
+28 suspend or revoke a certificate of authority of a captive insurance company
+29 if the commissioner finds that the captive insurance company:
+30 (1)(A) Is in an unsound condition or is in such condition, or is
+31 using methods and practices in the conduct of its business, as to allow
+32 further transactions of insurance in Arkansas hazardous or injurious to the
+33 policyholders of the captive insurance company or to the public.
+34 (B) For purposes of this section, the commissioner may
+35 consider the present, past, and future trends in the financial condition of
+36 the captive insurance company that may affect the solvency of the captive
+12 02/14/2025 7:48:10 AM ANS130
+
+SB237
+1 insurance company;
+2 (2) Refuses to be examined or to produce the accounts, records,
+3 or files of the captive insurance company for examination or if any of the
+4 officers of the captive insurance company have refused to give information
+5 with respect to the affairs of the captive insurance company when required by
+6 the commissioner;
+7 (3) Fails to pay any final judgment rendered against the captive
+8 insurance company within thirty (30) days of entry of the judgment; or
+9 (4) Knowingly, or with reckless disregard, violated or failed to
+10 comply with the Arkansas Insurance Code or with any lawful rule or order of
+11 the commissioner.
+12 (b) If the commissioner finds that one (1) or more grounds exist for
+13 the suspension or revocation of a certificate of authority of a captive
+14 insurance company, the commissioner may:
+15 (1) In lieu of suspension, impose upon the holder of the
+16 certificate of authority an administrative penalty in the amount of five
+17 thousand dollars ($5,000); or
+18 (2) In lieu of revocation, impose upon the holder of the
+19 certificate of authority an administrative penalty in the amount of ten
+20 thousand dollars ($10,000).
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+13 02/14/2025 7:48:10 AM ANS130
+
+[DELETED:       A R P  T L I  B   S " a   ( c e    ( w     ( t i     ( a    ( c f]
+[DELETED: S2 0   S " r   (   S o r   (   S a r  ( c a i   ( u    (     ( i     (    ( t a   (    ( w    ( i   ( a a ]
+[DELETED: S3 0  S r  ( p c c i p    ( i    ( l    ( c d    ( c d    ( n t    ( c c f t t   S d  ( o o t   ( o]
+[DELETED: S4 0 o d c   ( r   ( o d    ( p d   S r  ( c u    ( i    ( l d    ( c t    ( c d    ( c t    ( c d    ( n]
+[DELETED: S5 0 t    ( c c f t t   S  2  ( o I  ( t  ( s  ( c r  ( c b  ( t s   ( t   ( c d c    ( i s    (]
+[DELETED: S6 0 p r    ( f    ( r    ( u b a  ( f c o s    ( s b   ( o t r a    ( r t o   ( u     ( a a     ( o a     (]
+[DELETED: S7 0 c    ( S r    ( S   ( S t   ( t    (    (    ( o   ( e s d t   ( s    (     ( o     ( 1 f i      ( e i o e f    (]
+[DELETED: S8 0 h y   (    ( i    ( u u o  ( u    ( t    ( t C u s   ( s i a  ( c t() 2  ( c q t()   S r s    ( o]
+[DELETED: S9 0 t     (     ( i     ( d     ( f   S o t   ( c    (    (   S  2  ( s r   ( f   ( n   ( t c y p p d  ( s    (]
+[DELETED: S1 0 ( r    ( o    ( t    ( e   ( t d   ( o l t i m  ( c f s  ( o  ( n c    ( m s   ( s s    (     (     (   (]
+[DELETED: S1 0 n  ( t A  ( o c  (   ( o t   ( o o  ( u  ( c   ( i s p  ( c t o S o w o   (   ( s    ( p y]
+[DELETED: S1 0    ( y i p   ( l o i    ( p y    ( y i p   S r f   ( p t   S a  2  ( s i   ( u f p    ( c t]
+[DELETED: S1 0 i   ( o o w t   ( i   ( c t  ( t i   ( c t   ( c t]

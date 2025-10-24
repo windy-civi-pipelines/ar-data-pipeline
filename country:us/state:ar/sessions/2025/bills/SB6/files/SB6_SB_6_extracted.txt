@@ -1,0 +1,180 @@
+Title: Stricken language would be deleted from and underlined language would be added to present law.
+Official Title: Stricken language would be deleted from and underlined language would be added to present law.
+Number of Sections: 1
+Source: versions - SB 6
+Media Type: application/pdf
+Strikethrough Detection: 2 sections found
+
+================================================================================
+
+Section 1:
+1 State of Arkansas As Engrossed: S1/16/25 S3/6/25
+A Bill
+2 95th General Assembly
+3 Regular Session, 2025 SENATE BILL 6
+4
+5 By: Senator B. King
+6
+7
+For An Act To Be Entitled
+8
+9 AN ACT TO CREATE THE CRIMINAL OFFENSE OF VACCINE
+10 HARM; AND FOR OTHER PURPOSES.
+11
+12
+Subtitle
+13
+14 TO CREATE THE CRIMINAL OFFENSE OF
+15 VACCINE HARM.
+16
+17 BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF ARKANSAS:
+18
+19 SECTION 1. Arkansas Code Title 5, Chapter 63, Subchapter 2, is amended
+20 to add an additional section to read as follows:
+21 5-63-206. Vaccine harm.
+22 (a) As used in this section:
+23 (1) “Executive officer” means a president, chair of an executive
+24 committee, chief financial officer, or other individual with managerial
+25 authority who performs similar functions to a president, chair of an
+26 executive committee, or chief financial officer;
+27 (2)(A) "Pharmaceutical company" means a business that is
+28 registered with the United States Food and Drug Administration to
+29 commercially research, develop, market, manufacture, and distribute
+30 prescription drugs.
+31 (B) "Pharmaceutical company" does not include a licensed,
+32 registered, or otherwise permitted healthcare provider or healthcare
+33 facility, such as a pharmacy, hospital, or pharmacist; and
+34 (3) "Vaccination" means the introduction of a vaccine into the
+35 body.
+36 (b) A person commits vaccine harm if:
+*JMB107*
+03-06-2025 09:50:44 JMB107
+As Engrossed: S1/16/25 S3/6/25 SB6
+1 (1) The person is an executive officer for a pharmaceutical
+2 company and is eighteen (18) years of age or older;
+3 (2) The person introduces a vaccine produced by the
+4 pharmaceutical company into the market;
+5 (3) The person knowingly hides, conceals, omits, or otherwise
+6 withholds evidence, documentation, or information that the vaccine has
+7 dangerous effects;
+8 (4) Another person receives the vaccine in this state through a
+9 vaccination containing the vaccine; and
+10 (5) The vaccination causes the death of or serious physical
+11 injury to the other person.
+12 (c) Vaccine harm is an unclassified felony with a sentence of
+13 imprisonment of not less than one (1) year and not more than life.
+14
+15 SECTION 2. Arkansas Code Title 19, Chapter 5, Subchapter 12, is
+16 amended to add an additional section to read as follows:
+17 19-5-1287. Vaccine Harm Offense Fund.
+18 (a) There is created on the books of the Treasurer of State, the
+19 Auditor of State, and the Chief Fiscal Officer of the State a miscellaneous
+20 fund to be known as the “Vaccine Harm Offense Fund”.
+21 (b) The fund shall consist of:
+22 (1) Federal funds received through a grant;
+23 (2) Appropriations from the General Assembly; and
+24 (3) Other revenues and funds authorized by law.
+25 (c) The fund shall be used to provide funding and support for the
+26 prosecution of the offense of vaccine harm under § 5-63-206.
+27
+28 SECTION 3. DO NOT CODIFY. Expiration date.
+29 (a) This act expires on December 31, 2026.
+30 (b) On or after December 31, 2026, the Bureau of Legislative Research
+31 or the Arkansas Code Revision Commission may remove from the Arkansas Code
+32 the sections created in Sections 1 and 2 of this act.
+33 (c) Any funds in the Vaccine Harm Offense Fund on December 31, 2026,
+34 shall be transferred to the General Revenue Fund Account.
+35
+36 /s/B. King
+2 03-06-2025 09:50:44 JMB107
+[DELETED:  A       A H   T V  B   S t  5  (   ( c a e   ( r c p    ( r f   ( b  (]
+[DELETED:  S2 0   ( c   ( p   ( w d   ( v   ( i  ( i   S a  1  ( A f  (   (   (   (  ( p   S  (  ( o t  ( s  /]
+
+
+================================================================================
+
+Raw Text:
+Stricken language would be deleted from and underlined language would be added to present law.
+1 State of Arkansas As Engrossed: S1/16/25 S3/6/25
+A Bill
+2 95th General Assembly
+3 Regular Session, 2025 SENATE BILL 6
+4
+5 By: Senator B. King
+6
+7
+For An Act To Be Entitled
+8
+9 AN ACT TO CREATE THE CRIMINAL OFFENSE OF VACCINE
+10 HARM; AND FOR OTHER PURPOSES.
+11
+12
+Subtitle
+13
+14 TO CREATE THE CRIMINAL OFFENSE OF
+15 VACCINE HARM.
+16
+17 BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF ARKANSAS:
+18
+19 SECTION 1. Arkansas Code Title 5, Chapter 63, Subchapter 2, is amended
+20 to add an additional section to read as follows:
+21 5-63-206. Vaccine harm.
+22 (a) As used in this section:
+23 (1) “Executive officer” means a president, chair of an executive
+24 committee, chief financial officer, or other individual with managerial
+25 authority who performs similar functions to a president, chair of an
+26 executive committee, or chief financial officer;
+27 (2)(A) "Pharmaceutical company" means a business that is
+28 registered with the United States Food and Drug Administration to
+29 commercially research, develop, market, manufacture, and distribute
+30 prescription drugs.
+31 (B) "Pharmaceutical company" does not include a licensed,
+32 registered, or otherwise permitted healthcare provider or healthcare
+33 facility, such as a pharmacy, hospital, or pharmacist; and
+34 (3) "Vaccination" means the introduction of a vaccine into the
+35 body.
+36 (b) A person commits vaccine harm if:
+*JMB107*
+03-06-2025 09:50:44 JMB107
+
+As Engrossed: S1/16/25 S3/6/25 SB6
+1 (1) The person is an executive officer for a pharmaceutical
+2 company and is eighteen (18) years of age or older;
+3 (2) The person introduces a vaccine produced by the
+4 pharmaceutical company into the market;
+5 (3) The person knowingly hides, conceals, omits, or otherwise
+6 withholds evidence, documentation, or information that the vaccine has
+7 dangerous effects;
+8 (4) Another person receives the vaccine in this state through a
+9 vaccination containing the vaccine; and
+10 (5) The vaccination causes the death of or serious physical
+11 injury to the other person.
+12 (c) Vaccine harm is an unclassified felony with a sentence of
+13 imprisonment of not less than one (1) year and not more than life.
+14
+15 SECTION 2. Arkansas Code Title 19, Chapter 5, Subchapter 12, is
+16 amended to add an additional section to read as follows:
+17 19-5-1287. Vaccine Harm Offense Fund.
+18 (a) There is created on the books of the Treasurer of State, the
+19 Auditor of State, and the Chief Fiscal Officer of the State a miscellaneous
+20 fund to be known as the “Vaccine Harm Offense Fund”.
+21 (b) The fund shall consist of:
+22 (1) Federal funds received through a grant;
+23 (2) Appropriations from the General Assembly; and
+24 (3) Other revenues and funds authorized by law.
+25 (c) The fund shall be used to provide funding and support for the
+26 prosecution of the offense of vaccine harm under § 5-63-206.
+27
+28 SECTION 3. DO NOT CODIFY. Expiration date.
+29 (a) This act expires on December 31, 2026.
+30 (b) On or after December 31, 2026, the Bureau of Legislative Research
+31 or the Arkansas Code Revision Commission may remove from the Arkansas Code
+32 the sections created in Sections 1 and 2 of this act.
+33 (c) Any funds in the Vaccine Harm Offense Fund on December 31, 2026,
+34 shall be transferred to the General Revenue Fund Account.
+35
+36 /s/B. King
+2 03-06-2025 09:50:44 JMB107
+
+[DELETED:  A       A H   T V  B   S t  5  (   ( c a e   ( r c p    ( r f   ( b  (]
+[DELETED:  S2 0   ( c   ( p   ( w d   ( v   ( i  ( i   S a  1  ( A f  (   (   (   (  ( p   S  (  ( o t  ( s  /]

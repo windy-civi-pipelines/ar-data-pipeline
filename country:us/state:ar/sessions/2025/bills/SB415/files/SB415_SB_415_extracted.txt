@@ -1,0 +1,259 @@
+Title: Stricken language would be deleted from and underlined language would be added to present law.
+Official Title: Stricken language would be deleted from and underlined language would be added to present law.
+Number of Sections: 1
+Source: versions - SB 415
+Media Type: application/pdf
+Strikethrough Detection: 3 sections found
+
+================================================================================
+
+Section 1:
+1 State of Arkansas
+A Bill
+2 95th General Assembly
+3 Regular Session, 2025 SENATE BILL 415
+4
+5 By: Senator Crowell
+6 By: Representative Childress
+7
+For An Act To Be Entitled
+8
+9 AN ACT TO AMEND THE LAW CONCERNING BUSINESS
+10 PRACTICES; TO AUTHORIZE THE DIVISION OF ENVIRONMENTAL
+11 QUALITY TO MAINTAIN A DELINQUENT LIST OF BUSINESSES
+12 FAILING TO PAY A WHOLESALER OF PETROLEUM PRODUCTS FOR
+13 THE PETROLEUM PRODUCTS; AND FOR OTHER PURPOSES.
+14
+15
+Subtitle
+16
+17 TO AUTHORIZE THE DIVISION OF
+18 ENVIRONMENTAL QUALITY TO MAINTAIN A
+19 DELINQUENT LIST OF BUSINESSES FAILING TO
+20 PAY A WHOLESALER OF PETROLEUM PRODUCTS
+21 FOR THE PETROLEUM PRODUCTS.
+22
+23 BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF ARKANSAS:
+24
+25 SECTION 1. Arkansas Code Title 4, Chapter 75, Subchapter 1, is amended
+26 to add an additional section to read as follows:
+27 4-75-104. Delinquencies on sales of petroleum products by wholesalers.
+28 (a)(1) A wholesaler of petroleum products may report a delinquent
+29 payment due to the wholesaler by a business for the sale of petroleum
+30 products to the Division of Environmental Quality in writing, including
+31 without limitation by email or fax, within two (2) business days after a
+32 delinquent payment is due.
+33 (2) The report by a wholesaler under subdivision (a)(1) of this
+34 section shall set forth the:
+35 (A) Name of the delinquent business;
+36 (B) Business address of the delinquent business;
+*CRH195*
+03/10/2025 2:09:49 PM CRH195
+SB415
+1 (C) Date of the sale and delivery of the petroleum product
+2 with the past due payment;
+3 (D) Amount due for the petroleum product or other
+4 delinquent amounts owed to the wholesaler by the delinquent business; and
+5 (E) Name and business address of the wholesaler.
+6 (b)(1) After receiving a report of a delinquencies under subsection
+7 (a) of this section, the division shall "red-tag" the delinquent business
+8 until a notice of removal from the delinquent list has been given by the
+9 division.
+10 (2) The division shall maintain a list of all delinquencies
+11 reported to the division.
+12 (3) Petroleum products shall not be delivered to a delinquent
+13 business on the list under subdivision (b)(2) of this section until the "red
+14 tag" has been removed by the division.
+15 (c)(1) A delinquent business that is on the list under subdivision
+16 (b)(2) of this section shall pay the delinquent fees to the wholesaler by
+17 cash, electronic transfer of funds, United States postal money order, postal
+18 note, express money order, cashier's check, certified check, or bank
+19 exchange.
+20 (2)(A) A wholesaler that receives a full payment under
+21 subdivision (c)(1) of this section shall report receipt of the full payment
+22 to the division no later than the next business day following receipt of the
+23 payment.
+24 (B) The division shall remove the "red tag" on the
+25 delinquent business upon receipt of notification of the full payment under
+26 subdivision (c)(2)(A) of this section.
+27 (d)(1)(A) If a delinquent business contends that the delinquent
+28 business was placed on the delinquent list because of a dispute involving the
+29 quality or quantity of the petroleum product or another factor involved in
+30 the sale of or purchase of the petroleum product, the delinquent business may
+31 file a statement in writing to the division setting forth in detail the
+32 reason why a delinquency should not exist.
+33 (B) If a delinquent business files a written statement
+34 under subdivision (d)(1)(A) of this section, the delinquent business shall
+35 provide a copy of the written statement to the wholesaler.
+36 (2)(A) A wholesaler also may file a statement in writing to the
+2 03/10/2025 2:09:49 PM CRH195
+SB415
+1 division regarding the delinquency in subdivision (d)(1) of this section.
+2 (B) If a wholesaler files a statement under subdivision
+3 (d)(2)(A) of this section, the statement shall be filed within three (3)
+4 business days of the wholesaler receiving the written statement of the
+5 delinquent business under subdivision (d)(1)(B) of this section.
+6 (3) The division shall review the written statements filed with
+7 the division under subdivisions (d)(1) and (2) of this section and determine
+8 whether the "red-tag" on the delinquent business should be removed.
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+3 03/10/2025 2:09:49 PM CRH195
+[DELETED:       A P Q F T  T E D P F  B   S t  4  ( p p w d   ( s    (    (]
+[DELETED: S2 0    ( w    ( d    (  ( ( u d   ( r   ( b t  ( ( c n e   ( s t p    ( d s  ( b q t f r    ( u p   (]
+[DELETED: S3 0 d    ( ( b d   ( t w                            ]
+
+
+================================================================================
+
+Raw Text:
+Stricken language would be deleted from and underlined language would be added to present law.
+1 State of Arkansas
+A Bill
+2 95th General Assembly
+3 Regular Session, 2025 SENATE BILL 415
+4
+5 By: Senator Crowell
+6 By: Representative Childress
+7
+For An Act To Be Entitled
+8
+9 AN ACT TO AMEND THE LAW CONCERNING BUSINESS
+10 PRACTICES; TO AUTHORIZE THE DIVISION OF ENVIRONMENTAL
+11 QUALITY TO MAINTAIN A DELINQUENT LIST OF BUSINESSES
+12 FAILING TO PAY A WHOLESALER OF PETROLEUM PRODUCTS FOR
+13 THE PETROLEUM PRODUCTS; AND FOR OTHER PURPOSES.
+14
+15
+Subtitle
+16
+17 TO AUTHORIZE THE DIVISION OF
+18 ENVIRONMENTAL QUALITY TO MAINTAIN A
+19 DELINQUENT LIST OF BUSINESSES FAILING TO
+20 PAY A WHOLESALER OF PETROLEUM PRODUCTS
+21 FOR THE PETROLEUM PRODUCTS.
+22
+23 BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF ARKANSAS:
+24
+25 SECTION 1. Arkansas Code Title 4, Chapter 75, Subchapter 1, is amended
+26 to add an additional section to read as follows:
+27 4-75-104. Delinquencies on sales of petroleum products by wholesalers.
+28 (a)(1) A wholesaler of petroleum products may report a delinquent
+29 payment due to the wholesaler by a business for the sale of petroleum
+30 products to the Division of Environmental Quality in writing, including
+31 without limitation by email or fax, within two (2) business days after a
+32 delinquent payment is due.
+33 (2) The report by a wholesaler under subdivision (a)(1) of this
+34 section shall set forth the:
+35 (A) Name of the delinquent business;
+36 (B) Business address of the delinquent business;
+*CRH195*
+03/10/2025 2:09:49 PM CRH195
+
+SB415
+1 (C) Date of the sale and delivery of the petroleum product
+2 with the past due payment;
+3 (D) Amount due for the petroleum product or other
+4 delinquent amounts owed to the wholesaler by the delinquent business; and
+5 (E) Name and business address of the wholesaler.
+6 (b)(1) After receiving a report of a delinquencies under subsection
+7 (a) of this section, the division shall "red-tag" the delinquent business
+8 until a notice of removal from the delinquent list has been given by the
+9 division.
+10 (2) The division shall maintain a list of all delinquencies
+11 reported to the division.
+12 (3) Petroleum products shall not be delivered to a delinquent
+13 business on the list under subdivision (b)(2) of this section until the "red
+14 tag" has been removed by the division.
+15 (c)(1) A delinquent business that is on the list under subdivision
+16 (b)(2) of this section shall pay the delinquent fees to the wholesaler by
+17 cash, electronic transfer of funds, United States postal money order, postal
+18 note, express money order, cashier's check, certified check, or bank
+19 exchange.
+20 (2)(A) A wholesaler that receives a full payment under
+21 subdivision (c)(1) of this section shall report receipt of the full payment
+22 to the division no later than the next business day following receipt of the
+23 payment.
+24 (B) The division shall remove the "red tag" on the
+25 delinquent business upon receipt of notification of the full payment under
+26 subdivision (c)(2)(A) of this section.
+27 (d)(1)(A) If a delinquent business contends that the delinquent
+28 business was placed on the delinquent list because of a dispute involving the
+29 quality or quantity of the petroleum product or another factor involved in
+30 the sale of or purchase of the petroleum product, the delinquent business may
+31 file a statement in writing to the division setting forth in detail the
+32 reason why a delinquency should not exist.
+33 (B) If a delinquent business files a written statement
+34 under subdivision (d)(1)(A) of this section, the delinquent business shall
+35 provide a copy of the written statement to the wholesaler.
+36 (2)(A) A wholesaler also may file a statement in writing to the
+2 03/10/2025 2:09:49 PM CRH195
+
+SB415
+1 division regarding the delinquency in subdivision (d)(1) of this section.
+2 (B) If a wholesaler files a statement under subdivision
+3 (d)(2)(A) of this section, the statement shall be filed within three (3)
+4 business days of the wholesaler receiving the written statement of the
+5 delinquent business under subdivision (d)(1)(B) of this section.
+6 (3) The division shall review the written statements filed with
+7 the division under subdivisions (d)(1) and (2) of this section and determine
+8 whether the "red-tag" on the delinquent business should be removed.
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+3 03/10/2025 2:09:49 PM CRH195
+
+[DELETED:       A P Q F T  T E D P F  B   S t  4  ( p p w d   ( s    (    (]
+[DELETED: S2 0    ( w    ( d    (  ( ( u d   ( r   ( b t  ( ( c n e   ( s t p    ( d s  ( b q t f r    ( u p   (]
+[DELETED: S3 0 d    ( ( b d   ( t w                            ]

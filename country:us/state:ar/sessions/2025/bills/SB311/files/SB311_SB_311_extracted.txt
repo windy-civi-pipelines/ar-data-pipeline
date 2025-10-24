@@ -1,0 +1,496 @@
+Title: Stricken language would be deleted from and underlined language would be added to present law.
+Official Title: Stricken language would be deleted from and underlined language would be added to present law.
+Number of Sections: 1
+Source: versions - SB 311
+Media Type: application/pdf
+Strikethrough Detection: 6 sections found
+
+================================================================================
+
+Section 1:
+1 State of Arkansas As Engrossed: S4/7/25
+A Bill
+2 95th General Assembly
+3 Regular Session, 2025 SENATE BILL 311
+4
+5 By: Senator C. Penzo
+6 By: Representative McAlindon
+7
+For An Act To Be Entitled
+8
+9 AN ACT TO CREATE THE END ORGAN AND GENOMIC
+10 HARVESTING ACT; TO PROHIBIT COVERAGE OF CERTAIN HUMAN
+11 ORGAN TRANSPLANT OR POST-TRANSPLANT CARE; TO PROHIBIT
+12 CERTAIN GENETIC SEQUENCERS AND GENETIC ANALYSIS
+13 TECHNOLOGIES; AND FOR OTHER PURPOSES.
+14
+15
+Subtitle
+16
+17 TO CREATE THE END ORGAN AND GENOMIC
+18 HARVESTING ACT; TO PROHIBIT COVERAGE OF
+19 CERTAIN HUMAN ORGAN TRANSPLANT OR POST-
+20 TRANSPLANT CARE; AND TO PROHIBIT CERTAIN
+21 GENETIC SEQUENCERS AND GENETIC ANALYSIS
+22 TECHNOLOGIES.
+23
+24 BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF ARKANSAS:
+25
+26 SECTION 1. DO NOT CODIFY. Title.
+27 This act shall be known and may be cited as the "End Organ and Genomic
+28 Harvesting Act".
+29
+30 SECTION 2. Arkansas Code Title 20, Chapter 9, Subchapter 1, is amended
+31 to add an additional section to read as follows:
+32 20-9-106. Prohibition on certain genetic sequencers and genetic
+33 analysis technologies — Definitions.
+34 (a) As used in this section:
+35 (1) "Foreign adversary" means the same as the definition of
+36 prohibited foreign party under § 18-11-802;
+*JMB128*
+04-07-2025 15:05:47 JMB128
+As Engrossed: S4/7/25 SB311
+1 (2) "Genetic sequencer" means a device or platform used to
+2 conduct genetic analysis, resequencing, isolation, or other genetic research;
+3 (3) "Human genome" means deoxyribonucleic acid (DNA) or
+4 ribonucleic acid (RNA) found in human cells;
+5 (4) "Medical facility" means a facility for the delivery of
+6 healthcare services that:
+7 (A) Either:
+8 (i) Receives state moneys, including interagency
+9 pass-through appropriations from the United States Government; or
+10 (ii) Is licensed, registered, or permitted in this
+11 state to provide healthcare services; and
+12 (B) Conducts research or testing on, with, or relating to
+13 genetic analysis or the human genome;
+14 (5) "Operational and research software" means computer programs
+15 used for the operation, control, analysis, or other necessary functions of
+16 genetic analysis or genetic sequencers; and
+17 (6) "Research facility" means a facility that:
+18 (A) Receives state moneys, including interagency pass-
+19 through appropriations from the United States Government; and
+20 (B) Conducts research on, with, or relating to genetic
+21 analysis or the human genome.
+22 (b) Beginning on October 1, 2025, a medical facility or research
+23 facility in this state shall not put into service within this state any new
+24 or additional genetic sequencers or operational and research software used
+25 for genetic analysis produced by a foreign adversary, a state-owned
+26 enterprise of a foreign adversary, a company domiciled within a foreign
+27 adversary, or a company-owned or company-controlled subsidiary of a company
+28 domiciled within a foreign adversary for the purpose of conducting genetic
+29 analysis.
+30 (c) A medical facility or research facility in this state shall report
+31 in writing to the Secretary of the Department of Health on all instances of
+32 ongoing usage of genetic sequencers and operational and research software
+33 used for genetic sequencers produced by a foreign adversary, a state-owned
+34 enterprise of a foreign adversary, a company domiciled within a foreign
+35 adversary, or a company-owned or company-controlled subsidiary of a company
+36 domiciled within a foreign adversary on January 1 of each year until the
+2 04-07-2025 15:05:47 JMB128
+As Engrossed: S4/7/25 SB311
+1 equipment is no longer in use.
+2 (d)(1) A medical facility, research facility, or other company or
+3 entity shall store all genetic sequencing data outside of foreign adversary
+4 countries.
+5 (2) Remote access to data storage, other than open data, from
+6 foreign adversary countries is prohibited.
+7 (3) If a medical facility, research facility, or other company
+8 or entity stores genetic sequencing data, including through contracts with a
+9 third-party data storage company, the medical facility, research facility, or
+10 other company or entity shall ensure the security of genetic sequencing data
+11 using reasonable encryption methods, restrictions on access, and other
+12 cybersecurity best practices.
+13 (e) On or before December 31 of each year, a medical facility or
+14 research facility shall certify in writing to the Attorney General and the
+15 Department of Health that the medical facility or research facility is
+16 complying with this section.
+17 (f)(1) A person or entity determined to be in violation of this
+18 section or found guilty of a violation of this section shall be subject to a
+19 fine of ten thousand dollars ($10,000) per violation.
+20 (2) Each unique instance of an individual’s genome having
+21 undergone genetic sequencing or analysis using prohibited genetic sequencers
+22 or prohibited operational and research software shall be considered a
+23 separate violation.
+24 (g)(1) Any person may notify the Attorney General of a violation or
+25 potential violation of this section.
+26 (2) If the person notifying the Attorney General is an employee
+27 of the entity accused of a violation, the person shall be afforded all
+28 protections of a whistleblower under the Arkansas Whistle-Blower Act, § 21-1-
+29 601 et seq.
+30 (3) If the person notifying the Attorney General is a patient or
+31 research subject of an entity found guilty of a violation of this section and
+32 the person's genetic information was used in violation of this section, the
+33 entity shall also be found to have violated the Deceptive Trade Practices
+34 Act, § 4-88-101 et seq.
+35 (4) The Attorney General may investigate allegations of
+36 violations of this section.
+3 04-07-2025 15:05:47 JMB128
+As Engrossed: S4/7/25 SB311
+1
+2 SECTION 3. Arkansas Code Title 23, Chapter 79, Subchapter 1, is
+3 amended to add an additional section to read as follows:
+4 23-79-169. Insurance coverage of certain human organ transplant or
+5 post-transplant care prohibited — Definitions.
+6 (a) As used in this section:
+7 (1) "Forced organ harvesting" means the removal of one (1) or
+8 more organs from a living person, or from a person killed for the purpose of
+9 removal of one (1) or more organs, by means of coercion, abduction,
+10 deception, fraud, or abuse of power over a position of vulnerability;
+11 (2)(A) "Health benefit plan" means:
+12 (i) An individual, blanket, or group plan, policy,
+13 or contract for healthcare services issued, renewed, or extended in this
+14 state by a healthcare insurer, health maintenance organization, hospital
+15 medical service corporation, or self-insured governmental or church plan in
+16 this state; and
+17 (ii) Any health benefit program receiving state or
+18 federal appropriations from the State of Arkansas, including the Arkansas
+19 Medicaid Program and the Arkansas Health and Opportunity for Me Program
+20 established by the Arkansas Health and Opportunity for Me Act of 2021, § 23-
+21 61-1001 et seq.
+22 (B) "Health benefit plan" includes without limitation
+23 indemnity and managed care plans.
+24 (C) "Health benefit plan" does not include:
+25 (i) A plan that provides only dental benefits or eye
+26 and vision care benefits;
+27 (ii) A disability income plan;
+28 (iii) A credit insurance plan;
+29 (iv) Insurance coverage issued as a supplement to
+30 liability insurance;
+31 (v) Medical payments under an automobile or
+32 homeowners insurance plan;
+33 (vi) A health benefit plan provided under Arkansas
+34 Constitution, Article 5, § 32, the Workers' Compensation Law, § 11-9-101 et
+35 seq., or the Public Employee Workers' Compensation Act, § 21-5-601 et seq.;
+36 (vii) A plan that provides only indemnity for
+4 04-07-2025 15:05:47 JMB128
+As Engrossed: S4/7/25 SB311
+1 hospital confinement;
+2 (viii) An accident-only plan;
+3 (ix) A specified disease plan; or
+4 (x) Plans providing health benefits to state and
+5 public school employees under § 21-5-401 et seq.; and
+6 (3)(A) "Healthcare insurer" means any insurance company,
+7 hospital and medical service corporation, or health maintenance organization
+8 that issues or delivers health benefit plans in this state and is subject to
+9 any of the following laws:
+10 (i) The insurance laws of this state;
+11 (ii) Section 23-75-101 et seq., pertaining to
+12 hospital and medical service corporations; or
+13 (iii) Section 23-76-101 et seq., pertaining to
+14 health maintenance organizations.
+15 (B) "Healthcare insurer" does not include an entity that
+16 provides only dental benefits or eye and vision care benefits.
+17 (b) Regardless of a claim filed by a medical facility or provider, a
+18 health benefit plan that is offered, issued, or renewed in this state shall
+19 not provide coverage for a human organ transplant or post-transplant care if:
+20 (1) The transplant operation is performed in the People's
+21 Republic of China or another country known to have participated in forced
+22 organ harvesting, as designated by rule by the Insurance Commissioner; or
+23 (2) The human organ to be transplanted is procured by sale or
+24 donation originating in the People's Republic of China or another country
+25 known to have participated in forced organ harvesting, as designated by rule
+26 by the commissioner.
+27 (c)(1) The commissioner may designate by rule any additional country
+28 as having participated in forced organ harvesting if the government of that
+29 country funds, sponsors, or otherwise facilitates forced organ harvesting.
+30 (2) If under subdivision (c)(1) of this section the commissioner
+31 designates an additional country as having participated in forced organ
+32 harvesting, the commissioner shall provide written notice to healthcare
+33 insurers.
+34 (d) A healthcare insurer may seek reimbursement or setoff from a
+35 medical facility or provider if a claim is submitted and paid in violation of
+36 this section.
+5 04-07-2025 15:05:47 JMB128
+As Engrossed: S4/7/25 SB311
+1 (e) Notwithstanding any other provision of this section, care that is
+2 provided to save the life of an individual after the individual receives a
+3 prohibited organ transplant shall be covered.
+4 (f) The commissioner shall develop and promulgate rules for the
+5 implementation and administration of this section.
+6
+7 SECTION 4. DO NOT CODIFY. SEVERABILITY CLAUSE. If any provision of
+8 this act or the application of this act to any person or circumstance is held
+9 invalid, the invalidity shall not affect other provisions or applications of
+10 this act which can be given effect without the invalid provision or
+11 application, and to this end, the provisions of this act are declared
+12 severable.
+13
+14 /s/C. Penzo
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+6 04-07-2025 15:05:47 JMB128
+[DELETED:  A      A H O C T   T H C T G T  B   S  T H   S t  2 a  (   ( p]
+[DELETED:  S2 0   ( c   ( r   ( h    (     ( p     ( s    ( g   ( u g   (    ( t    ( a  ( f o f e a d a  ( i o u e a d]
+[DELETED:  S3 0 e  ( e c ( f   ( o t o u c  ( r D c  ( s f   ( u o s  ( p   ( o p 6   ( r t e A   ( v]
+[DELETED:  S4 0   S a  2 p  (   ( m r d   (     ( o s m t     ( f M e 6    ( i    (     ( a     (     (     ( l     ( h     ( C s     (]
+[DELETED:  S5 0 h     (     (     ( p   ( h t a     (     ( h     ( h    ( p  ( h n   ( R o   ( d k b  ( a c   ( d h i  ( m t]
+[DELETED:  S6 0  ( p p ( i   S t i t a s  /                      ]
+
+
+================================================================================
+
+Raw Text:
+Stricken language would be deleted from and underlined language would be added to present law.
+1 State of Arkansas As Engrossed: S4/7/25
+A Bill
+2 95th General Assembly
+3 Regular Session, 2025 SENATE BILL 311
+4
+5 By: Senator C. Penzo
+6 By: Representative McAlindon
+7
+For An Act To Be Entitled
+8
+9 AN ACT TO CREATE THE END ORGAN AND GENOMIC
+10 HARVESTING ACT; TO PROHIBIT COVERAGE OF CERTAIN HUMAN
+11 ORGAN TRANSPLANT OR POST-TRANSPLANT CARE; TO PROHIBIT
+12 CERTAIN GENETIC SEQUENCERS AND GENETIC ANALYSIS
+13 TECHNOLOGIES; AND FOR OTHER PURPOSES.
+14
+15
+Subtitle
+16
+17 TO CREATE THE END ORGAN AND GENOMIC
+18 HARVESTING ACT; TO PROHIBIT COVERAGE OF
+19 CERTAIN HUMAN ORGAN TRANSPLANT OR POST-
+20 TRANSPLANT CARE; AND TO PROHIBIT CERTAIN
+21 GENETIC SEQUENCERS AND GENETIC ANALYSIS
+22 TECHNOLOGIES.
+23
+24 BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF ARKANSAS:
+25
+26 SECTION 1. DO NOT CODIFY. Title.
+27 This act shall be known and may be cited as the "End Organ and Genomic
+28 Harvesting Act".
+29
+30 SECTION 2. Arkansas Code Title 20, Chapter 9, Subchapter 1, is amended
+31 to add an additional section to read as follows:
+32 20-9-106. Prohibition on certain genetic sequencers and genetic
+33 analysis technologies — Definitions.
+34 (a) As used in this section:
+35 (1) "Foreign adversary" means the same as the definition of
+36 prohibited foreign party under § 18-11-802;
+*JMB128*
+04-07-2025 15:05:47 JMB128
+
+As Engrossed: S4/7/25 SB311
+1 (2) "Genetic sequencer" means a device or platform used to
+2 conduct genetic analysis, resequencing, isolation, or other genetic research;
+3 (3) "Human genome" means deoxyribonucleic acid (DNA) or
+4 ribonucleic acid (RNA) found in human cells;
+5 (4) "Medical facility" means a facility for the delivery of
+6 healthcare services that:
+7 (A) Either:
+8 (i) Receives state moneys, including interagency
+9 pass-through appropriations from the United States Government; or
+10 (ii) Is licensed, registered, or permitted in this
+11 state to provide healthcare services; and
+12 (B) Conducts research or testing on, with, or relating to
+13 genetic analysis or the human genome;
+14 (5) "Operational and research software" means computer programs
+15 used for the operation, control, analysis, or other necessary functions of
+16 genetic analysis or genetic sequencers; and
+17 (6) "Research facility" means a facility that:
+18 (A) Receives state moneys, including interagency pass-
+19 through appropriations from the United States Government; and
+20 (B) Conducts research on, with, or relating to genetic
+21 analysis or the human genome.
+22 (b) Beginning on October 1, 2025, a medical facility or research
+23 facility in this state shall not put into service within this state any new
+24 or additional genetic sequencers or operational and research software used
+25 for genetic analysis produced by a foreign adversary, a state-owned
+26 enterprise of a foreign adversary, a company domiciled within a foreign
+27 adversary, or a company-owned or company-controlled subsidiary of a company
+28 domiciled within a foreign adversary for the purpose of conducting genetic
+29 analysis.
+30 (c) A medical facility or research facility in this state shall report
+31 in writing to the Secretary of the Department of Health on all instances of
+32 ongoing usage of genetic sequencers and operational and research software
+33 used for genetic sequencers produced by a foreign adversary, a state-owned
+34 enterprise of a foreign adversary, a company domiciled within a foreign
+35 adversary, or a company-owned or company-controlled subsidiary of a company
+36 domiciled within a foreign adversary on January 1 of each year until the
+2 04-07-2025 15:05:47 JMB128
+
+As Engrossed: S4/7/25 SB311
+1 equipment is no longer in use.
+2 (d)(1) A medical facility, research facility, or other company or
+3 entity shall store all genetic sequencing data outside of foreign adversary
+4 countries.
+5 (2) Remote access to data storage, other than open data, from
+6 foreign adversary countries is prohibited.
+7 (3) If a medical facility, research facility, or other company
+8 or entity stores genetic sequencing data, including through contracts with a
+9 third-party data storage company, the medical facility, research facility, or
+10 other company or entity shall ensure the security of genetic sequencing data
+11 using reasonable encryption methods, restrictions on access, and other
+12 cybersecurity best practices.
+13 (e) On or before December 31 of each year, a medical facility or
+14 research facility shall certify in writing to the Attorney General and the
+15 Department of Health that the medical facility or research facility is
+16 complying with this section.
+17 (f)(1) A person or entity determined to be in violation of this
+18 section or found guilty of a violation of this section shall be subject to a
+19 fine of ten thousand dollars ($10,000) per violation.
+20 (2) Each unique instance of an individual’s genome having
+21 undergone genetic sequencing or analysis using prohibited genetic sequencers
+22 or prohibited operational and research software shall be considered a
+23 separate violation.
+24 (g)(1) Any person may notify the Attorney General of a violation or
+25 potential violation of this section.
+26 (2) If the person notifying the Attorney General is an employee
+27 of the entity accused of a violation, the person shall be afforded all
+28 protections of a whistleblower under the Arkansas Whistle-Blower Act, § 21-1-
+29 601 et seq.
+30 (3) If the person notifying the Attorney General is a patient or
+31 research subject of an entity found guilty of a violation of this section and
+32 the person's genetic information was used in violation of this section, the
+33 entity shall also be found to have violated the Deceptive Trade Practices
+34 Act, § 4-88-101 et seq.
+35 (4) The Attorney General may investigate allegations of
+36 violations of this section.
+3 04-07-2025 15:05:47 JMB128
+
+As Engrossed: S4/7/25 SB311
+1
+2 SECTION 3. Arkansas Code Title 23, Chapter 79, Subchapter 1, is
+3 amended to add an additional section to read as follows:
+4 23-79-169. Insurance coverage of certain human organ transplant or
+5 post-transplant care prohibited — Definitions.
+6 (a) As used in this section:
+7 (1) "Forced organ harvesting" means the removal of one (1) or
+8 more organs from a living person, or from a person killed for the purpose of
+9 removal of one (1) or more organs, by means of coercion, abduction,
+10 deception, fraud, or abuse of power over a position of vulnerability;
+11 (2)(A) "Health benefit plan" means:
+12 (i) An individual, blanket, or group plan, policy,
+13 or contract for healthcare services issued, renewed, or extended in this
+14 state by a healthcare insurer, health maintenance organization, hospital
+15 medical service corporation, or self-insured governmental or church plan in
+16 this state; and
+17 (ii) Any health benefit program receiving state or
+18 federal appropriations from the State of Arkansas, including the Arkansas
+19 Medicaid Program and the Arkansas Health and Opportunity for Me Program
+20 established by the Arkansas Health and Opportunity for Me Act of 2021, § 23-
+21 61-1001 et seq.
+22 (B) "Health benefit plan" includes without limitation
+23 indemnity and managed care plans.
+24 (C) "Health benefit plan" does not include:
+25 (i) A plan that provides only dental benefits or eye
+26 and vision care benefits;
+27 (ii) A disability income plan;
+28 (iii) A credit insurance plan;
+29 (iv) Insurance coverage issued as a supplement to
+30 liability insurance;
+31 (v) Medical payments under an automobile or
+32 homeowners insurance plan;
+33 (vi) A health benefit plan provided under Arkansas
+34 Constitution, Article 5, § 32, the Workers' Compensation Law, § 11-9-101 et
+35 seq., or the Public Employee Workers' Compensation Act, § 21-5-601 et seq.;
+36 (vii) A plan that provides only indemnity for
+4 04-07-2025 15:05:47 JMB128
+
+As Engrossed: S4/7/25 SB311
+1 hospital confinement;
+2 (viii) An accident-only plan;
+3 (ix) A specified disease plan; or
+4 (x) Plans providing health benefits to state and
+5 public school employees under § 21-5-401 et seq.; and
+6 (3)(A) "Healthcare insurer" means any insurance company,
+7 hospital and medical service corporation, or health maintenance organization
+8 that issues or delivers health benefit plans in this state and is subject to
+9 any of the following laws:
+10 (i) The insurance laws of this state;
+11 (ii) Section 23-75-101 et seq., pertaining to
+12 hospital and medical service corporations; or
+13 (iii) Section 23-76-101 et seq., pertaining to
+14 health maintenance organizations.
+15 (B) "Healthcare insurer" does not include an entity that
+16 provides only dental benefits or eye and vision care benefits.
+17 (b) Regardless of a claim filed by a medical facility or provider, a
+18 health benefit plan that is offered, issued, or renewed in this state shall
+19 not provide coverage for a human organ transplant or post-transplant care if:
+20 (1) The transplant operation is performed in the People's
+21 Republic of China or another country known to have participated in forced
+22 organ harvesting, as designated by rule by the Insurance Commissioner; or
+23 (2) The human organ to be transplanted is procured by sale or
+24 donation originating in the People's Republic of China or another country
+25 known to have participated in forced organ harvesting, as designated by rule
+26 by the commissioner.
+27 (c)(1) The commissioner may designate by rule any additional country
+28 as having participated in forced organ harvesting if the government of that
+29 country funds, sponsors, or otherwise facilitates forced organ harvesting.
+30 (2) If under subdivision (c)(1) of this section the commissioner
+31 designates an additional country as having participated in forced organ
+32 harvesting, the commissioner shall provide written notice to healthcare
+33 insurers.
+34 (d) A healthcare insurer may seek reimbursement or setoff from a
+35 medical facility or provider if a claim is submitted and paid in violation of
+36 this section.
+5 04-07-2025 15:05:47 JMB128
+
+As Engrossed: S4/7/25 SB311
+1 (e) Notwithstanding any other provision of this section, care that is
+2 provided to save the life of an individual after the individual receives a
+3 prohibited organ transplant shall be covered.
+4 (f) The commissioner shall develop and promulgate rules for the
+5 implementation and administration of this section.
+6
+7 SECTION 4. DO NOT CODIFY. SEVERABILITY CLAUSE. If any provision of
+8 this act or the application of this act to any person or circumstance is held
+9 invalid, the invalidity shall not affect other provisions or applications of
+10 this act which can be given effect without the invalid provision or
+11 application, and to this end, the provisions of this act are declared
+12 severable.
+13
+14 /s/C. Penzo
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+6 04-07-2025 15:05:47 JMB128
+
+[DELETED:  A      A H O C T   T H C T G T  B   S  T H   S t  2 a  (   ( p]
+[DELETED:  S2 0   ( c   ( r   ( h    (     ( p     ( s    ( g   ( u g   (    ( t    ( a  ( f o f e a d a  ( i o u e a d]
+[DELETED:  S3 0 e  ( e c ( f   ( o t o u c  ( r D c  ( s f   ( u o s  ( p   ( o p 6   ( r t e A   ( v]
+[DELETED:  S4 0   S a  2 p  (   ( m r d   (     ( o s m t     ( f M e 6    ( i    (     ( a     (     (     ( l     ( h     ( C s     (]
+[DELETED:  S5 0 h     (     (     ( p   ( h t a     (     ( h     ( h    ( p  ( h n   ( R o   ( d k b  ( a c   ( d h i  ( m t]
+[DELETED:  S6 0  ( p p ( i   S t i t a s  /                      ]

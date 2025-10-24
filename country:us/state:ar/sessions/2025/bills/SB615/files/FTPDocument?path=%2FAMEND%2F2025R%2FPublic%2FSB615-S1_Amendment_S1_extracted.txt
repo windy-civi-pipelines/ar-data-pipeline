@@ -1,0 +1,61 @@
+Title: ______________________________________________________________________
+Official Title: ______________________________________________________________________
+Number of Sections: 1
+Source: versions - Amendment S1
+Media Type: application/pdf
+Strikethrough Detection: 1 sections found
+
+================================================================================
+
+Section 1:
+ARKANSAS SENATE
+95th General Assembly - Regular Session, 2025
+Amendment Form
+Subtitle of Senate Bill 615
+TO AMEND THE LAW CONCERNING ENERGY; TO REGULATE NONEXPORT
+FACILITIES; AND TO PROHIBIT DISCRIMINATION AGAINST NONEXPORT FACILITIES.
+______________________________________________________________________
+Amendment No. 1 to Senate Bill 615
+Amend Senate Bill 615 as originally introduced:
+Page 2, line 4, delete "December 31, 2025" and substitute "March 1, 2026"
+AND
+Page 2, line 16, delete "and"
+AND
+Page 2, delete line 17, and substitute the following:
+"(c) Minimum power protection; and
+(d) Any necessary limit on capacity size; and"
+*.ANS493*
+The Amendment was read the first time, rules suspended and read the second time and _______________________
+By: Senator C. Penzo
+ANS/ANS - 04-03-2025 10:57:45 _________________________
+ANS493 Secretary
+[DELETED:  _ SA      "    (]
+
+
+================================================================================
+
+Raw Text:
+ARKANSAS SENATE
+95th General Assembly - Regular Session, 2025
+Amendment Form
+______________________________________________________________________
+Subtitle of Senate Bill 615
+TO AMEND THE LAW CONCERNING ENERGY; TO REGULATE NONEXPORT
+FACILITIES; AND TO PROHIBIT DISCRIMINATION AGAINST NONEXPORT FACILITIES.
+______________________________________________________________________
+Amendment No. 1 to Senate Bill 615
+Amend Senate Bill 615 as originally introduced:
+Page 2, line 4, delete "December 31, 2025" and substitute "March 1, 2026"
+AND
+Page 2, line 16, delete "and"
+AND
+Page 2, delete line 17, and substitute the following:
+"(c) Minimum power protection; and
+(d) Any necessary limit on capacity size; and"
+*.ANS493*
+The Amendment was read the first time, rules suspended and read the second time and _______________________
+By: Senator C. Penzo
+ANS/ANS - 04-03-2025 10:57:45 _________________________
+ANS493 Secretary
+
+[DELETED:  _ SA      "    (]

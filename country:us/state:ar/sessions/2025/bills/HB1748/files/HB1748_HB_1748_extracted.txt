@@ -1,0 +1,417 @@
+Title: Stricken language would be deleted from and underlined language would be added to present law.
+Official Title: Stricken language would be deleted from and underlined language would be added to present law.
+Number of Sections: 1
+Source: versions - HB 1748
+Media Type: application/pdf
+Strikethrough Detection: 5 sections found
+
+================================================================================
+
+Section 1:
+1 State of Arkansas
+A Bill
+2 95th General Assembly
+3 Regular Session, 2025 HOUSE BILL 1748
+4
+5 By: Representative M. Brown
+6 By: Senator Dees
+7
+For An Act To Be Entitled
+8
+9 AN ACT TO ADOPT THE UNIFORM ELECTRONIC LEGAL
+10 MATERIALS ACT; AND FOR OTHER PURPOSES.
+11
+12
+Subtitle
+13
+14 TO ADOPT THE UNIFORM ELECTRONIC LEGAL
+15 MATERIALS ACT.
+16
+17 BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF ARKANSAS:
+18
+19 SECTION 1. Arkansas Code Title 25, is amended to add an additional
+20 chapter to read as follows:
+21
+22 CHAPTER 44
+23 UNIFORM ELECTRONIC LEGAL MATERIALS ACT
+24
+25 25-44-101. Short title.
+26 This act may be cited as the "Uniform Electronic Legal Materials Act".
+27
+28 25-44-102. Definitions.
+29 In this act:
+30 (1) "Electronic" means relating to technology having electrical,
+31 digital, magnetic, wireless, optical, electromagnetic, or similar
+32 capabilities;
+33 (2) "Legal material" means, whether or not in effect:
+34 (A) The Arkansas Constitution;
+35 (B) The Arkansas Code;
+36 (C) A state agency rule that has or had the effect of law;
+*LGL152*
+03/11/2025 2:14:51 PM LGL152
+HB1748
+1 (D) A reported decision of the Supreme Court, the Court of
+2 Appeals, a circuit court, and a district court; or
+3 (E) A state judicial rule;
+4 (3) "Official publisher" means:
+5 (A) The Arkansas Code Revision Commission for the Arkansas
+6 Code;
+7 (B) The Secretary of State for:
+8 (i) The Arkansas Constitution; or
+9 (ii) A state agency rule that has the effect of law;
+10 and
+11 (C) The Arkansas judiciary for:
+12 (i) A reported decision of the Supreme Court, the
+13 Court of Appeals, a circuit court, or a district court; or
+14 (ii) A state judicial rule;
+15 (4) "Publish" means to display, present, or release to the
+16 public, or cause to be displayed, presented, or released to the public, by
+17 the official publisher;
+18 (5) "Record" means information that is inscribed on a tangible
+19 medium that is stored in an electronic or other medium and is retrievable in
+20 perceivable form; and
+21 (6) "State" means a state of the United States, the District of
+22 Columbia, Puerto Rico, the United States Virgin Islands, or any territory or
+23 insular possession subject to the jurisdiction of the United States.
+24
+25 25-44-103. Applicability.
+26 This act applies to all legal material in an electronic record that is:
+27 (1) Designated as official under § 25-44-104; and
+28 (2) First published electronically on or after the effective
+29 date of this act.
+30
+31 25-44-104. Legal material in an official electronic record.
+32 (a) If an official publisher publishes legal material only in an
+33 electronic record, the publisher shall:
+34 (1) Designate the electronic record as official; and
+35 (2) Comply with §§ 25-44-105 — 25-44-107.
+36 (b) An official publisher that publishes legal material in an
+2 03/11/2025 2:14:51 PM LGL152
+HB1748
+1 electronic record and also publishes the material in a record other than an
+2 electronic record may designate the electronic record as official if the
+3 publisher complies with §§ 25-44-105 — 25-44-107.
+4
+5 25-44-105. Authentication of an official electronic record.
+6 (a) An official publisher of legal material in an electronic record
+7 designated as official under § 25-44-104 shall authenticate the record.
+8 (b) To authenticate an electronic record, the publisher shall provide
+9 a method for a user to determine that the record received by the user from
+10 the publisher is unaltered from the official record published by the
+11 publisher.
+12
+13 25-44-106. Effect of authentication.
+14 (a) Legal material in an electronic record that is authenticated under
+15 § 25-44-105 is presumed to be an accurate copy of the legal material.
+16 (b) If another state has adopted a law substantially similar to this
+17 act, legal material in an electronic record that is designated as official
+18 and authenticated by the official publisher in that state is presumed to be
+19 an accurate copy of the legal material.
+20 (c) A party contesting the authentication of legal material in an
+21 electronic record authenticated under § 25-44-105 has the burden of proving
+22 by a preponderance of the evidence that the record is not authentic.
+23
+24 25-44-107. Preservation and security of legal material in official
+25 electronic record.
+26 (a) An official publisher of legal material in an electronic record
+27 that is or was designated as official under § 25-44-104 shall provide for the
+28 preservation and security of the record in an electronic form or a form that
+29 is not electronic.
+30 (b) If legal material is preserved under subsection (a) in an
+31 electronic record, the official publisher shall:
+32 (1) Ensure the integrity of the record;
+33 (2) Provide for backup and disaster recovery of the record; and
+34 (3) Ensure the continued usability of the record.
+35
+36 25-44-108. Public access to legal material in official electronic
+3 03/11/2025 2:14:51 PM LGL152
+HB1748
+1 record.
+2 An official publisher of legal material in an electronic record that is
+3 required to be preserved under § 25-44-107 shall ensure that the material is
+4 reasonably available for use by the public on a permanent basis.
+5
+6 25-44-109. Standards.
+7 In implementing this act, an official publisher of legal material in an
+8 electronic record shall consider:
+9 (1) Standards and practices of other jurisdictions;
+10 (2) The most recent standards regarding authentication of,
+11 preservation and security of, and public access to, legal material in an
+12 electronic record and other electronic records, as promulgated by national
+13 standard-setting bodies;
+14 (3) The needs of users of legal material in an electronic
+15 record;
+16 (4) The views of governmental officials and entities and other
+17 interested persons; and
+18 (5) To the extent practicable, methods and technologies for the
+19 authentication of, preservation and security of, and public access to, legal
+20 material that are compatible with the methods and technologies used by other
+21 official publishers in this state and in other states that have adopted a law
+22 substantially similar to this act.
+23
+24 25-44-110. Uniformity of application and construction.
+25 In applying and construing this uniform act, consideration shall be
+26 given to the need to promote uniformity of the law with respect to its
+27 subject matter among states that enact it.
+28
+29 25-44-111. Relation to Electronic Signatures in the Global and
+30 National Commerce Act.
+31 This act modifies, limits, and supersedes the Electronic Signatures in
+32 Global and National Commerce Act, 15 U.S.C. § 7001 et seq., as it existed on
+33 January 1, 2025, but does not:
+34 (1) Modify, limit, or supersede Section 101(c) of that act, 15 U.S.C.
+35 § 7001(c), as it existed on January 1, 2025; or
+36 (2) Authorize electronic delivery of any of the notices described in
+4 03/11/2025 2:14:51 PM LGL152
+HB1748
+1 Section 103(b) of that act, 15 U.S.C. § 7003(b), as it existed on January 1,
+2 2025.
+3
+4 25-44-112. Effective date.
+5 This act is effective on and after January 1, 2026.
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+5 03/11/2025 2:14:51 PM LGL152
+[DELETED:       A M  T M  B   S c  C U   2  T   2  I   ( d c   (    (    (    (]
+[DELETED: H2 0    ( A    (   (    ( C    (     (     ( a    (     ( C     (   ( p t   ( m p   ( C i   2  T   (   ( d   2  ( e   (   (  (]
+[DELETED: H3 0 e e p   2  ( d  ( a t p   2  ( §  ( a a a  ( e b   2 e  ( t p i  ( e   (   (   (   2]
+[DELETED: H4 0 r  A r r   2  I e   (   ( p e s   ( r   ( i   ( a m o s   2  I g s   2 N  T G J  ( §  (]
+[DELETED: H5 0 S 2   2  T                               ]
+
+
+================================================================================
+
+Raw Text:
+Stricken language would be deleted from and underlined language would be added to present law.
+1 State of Arkansas
+A Bill
+2 95th General Assembly
+3 Regular Session, 2025 HOUSE BILL 1748
+4
+5 By: Representative M. Brown
+6 By: Senator Dees
+7
+For An Act To Be Entitled
+8
+9 AN ACT TO ADOPT THE UNIFORM ELECTRONIC LEGAL
+10 MATERIALS ACT; AND FOR OTHER PURPOSES.
+11
+12
+Subtitle
+13
+14 TO ADOPT THE UNIFORM ELECTRONIC LEGAL
+15 MATERIALS ACT.
+16
+17 BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF ARKANSAS:
+18
+19 SECTION 1. Arkansas Code Title 25, is amended to add an additional
+20 chapter to read as follows:
+21
+22 CHAPTER 44
+23 UNIFORM ELECTRONIC LEGAL MATERIALS ACT
+24
+25 25-44-101. Short title.
+26 This act may be cited as the "Uniform Electronic Legal Materials Act".
+27
+28 25-44-102. Definitions.
+29 In this act:
+30 (1) "Electronic" means relating to technology having electrical,
+31 digital, magnetic, wireless, optical, electromagnetic, or similar
+32 capabilities;
+33 (2) "Legal material" means, whether or not in effect:
+34 (A) The Arkansas Constitution;
+35 (B) The Arkansas Code;
+36 (C) A state agency rule that has or had the effect of law;
+*LGL152*
+03/11/2025 2:14:51 PM LGL152
+
+HB1748
+1 (D) A reported decision of the Supreme Court, the Court of
+2 Appeals, a circuit court, and a district court; or
+3 (E) A state judicial rule;
+4 (3) "Official publisher" means:
+5 (A) The Arkansas Code Revision Commission for the Arkansas
+6 Code;
+7 (B) The Secretary of State for:
+8 (i) The Arkansas Constitution; or
+9 (ii) A state agency rule that has the effect of law;
+10 and
+11 (C) The Arkansas judiciary for:
+12 (i) A reported decision of the Supreme Court, the
+13 Court of Appeals, a circuit court, or a district court; or
+14 (ii) A state judicial rule;
+15 (4) "Publish" means to display, present, or release to the
+16 public, or cause to be displayed, presented, or released to the public, by
+17 the official publisher;
+18 (5) "Record" means information that is inscribed on a tangible
+19 medium that is stored in an electronic or other medium and is retrievable in
+20 perceivable form; and
+21 (6) "State" means a state of the United States, the District of
+22 Columbia, Puerto Rico, the United States Virgin Islands, or any territory or
+23 insular possession subject to the jurisdiction of the United States.
+24
+25 25-44-103. Applicability.
+26 This act applies to all legal material in an electronic record that is:
+27 (1) Designated as official under § 25-44-104; and
+28 (2) First published electronically on or after the effective
+29 date of this act.
+30
+31 25-44-104. Legal material in an official electronic record.
+32 (a) If an official publisher publishes legal material only in an
+33 electronic record, the publisher shall:
+34 (1) Designate the electronic record as official; and
+35 (2) Comply with §§ 25-44-105 — 25-44-107.
+36 (b) An official publisher that publishes legal material in an
+2 03/11/2025 2:14:51 PM LGL152
+
+HB1748
+1 electronic record and also publishes the material in a record other than an
+2 electronic record may designate the electronic record as official if the
+3 publisher complies with §§ 25-44-105 — 25-44-107.
+4
+5 25-44-105. Authentication of an official electronic record.
+6 (a) An official publisher of legal material in an electronic record
+7 designated as official under § 25-44-104 shall authenticate the record.
+8 (b) To authenticate an electronic record, the publisher shall provide
+9 a method for a user to determine that the record received by the user from
+10 the publisher is unaltered from the official record published by the
+11 publisher.
+12
+13 25-44-106. Effect of authentication.
+14 (a) Legal material in an electronic record that is authenticated under
+15 § 25-44-105 is presumed to be an accurate copy of the legal material.
+16 (b) If another state has adopted a law substantially similar to this
+17 act, legal material in an electronic record that is designated as official
+18 and authenticated by the official publisher in that state is presumed to be
+19 an accurate copy of the legal material.
+20 (c) A party contesting the authentication of legal material in an
+21 electronic record authenticated under § 25-44-105 has the burden of proving
+22 by a preponderance of the evidence that the record is not authentic.
+23
+24 25-44-107. Preservation and security of legal material in official
+25 electronic record.
+26 (a) An official publisher of legal material in an electronic record
+27 that is or was designated as official under § 25-44-104 shall provide for the
+28 preservation and security of the record in an electronic form or a form that
+29 is not electronic.
+30 (b) If legal material is preserved under subsection (a) in an
+31 electronic record, the official publisher shall:
+32 (1) Ensure the integrity of the record;
+33 (2) Provide for backup and disaster recovery of the record; and
+34 (3) Ensure the continued usability of the record.
+35
+36 25-44-108. Public access to legal material in official electronic
+3 03/11/2025 2:14:51 PM LGL152
+
+HB1748
+1 record.
+2 An official publisher of legal material in an electronic record that is
+3 required to be preserved under § 25-44-107 shall ensure that the material is
+4 reasonably available for use by the public on a permanent basis.
+5
+6 25-44-109. Standards.
+7 In implementing this act, an official publisher of legal material in an
+8 electronic record shall consider:
+9 (1) Standards and practices of other jurisdictions;
+10 (2) The most recent standards regarding authentication of,
+11 preservation and security of, and public access to, legal material in an
+12 electronic record and other electronic records, as promulgated by national
+13 standard-setting bodies;
+14 (3) The needs of users of legal material in an electronic
+15 record;
+16 (4) The views of governmental officials and entities and other
+17 interested persons; and
+18 (5) To the extent practicable, methods and technologies for the
+19 authentication of, preservation and security of, and public access to, legal
+20 material that are compatible with the methods and technologies used by other
+21 official publishers in this state and in other states that have adopted a law
+22 substantially similar to this act.
+23
+24 25-44-110. Uniformity of application and construction.
+25 In applying and construing this uniform act, consideration shall be
+26 given to the need to promote uniformity of the law with respect to its
+27 subject matter among states that enact it.
+28
+29 25-44-111. Relation to Electronic Signatures in the Global and
+30 National Commerce Act.
+31 This act modifies, limits, and supersedes the Electronic Signatures in
+32 Global and National Commerce Act, 15 U.S.C. § 7001 et seq., as it existed on
+33 January 1, 2025, but does not:
+34 (1) Modify, limit, or supersede Section 101(c) of that act, 15 U.S.C.
+35 § 7001(c), as it existed on January 1, 2025; or
+36 (2) Authorize electronic delivery of any of the notices described in
+4 03/11/2025 2:14:51 PM LGL152
+
+HB1748
+1 Section 103(b) of that act, 15 U.S.C. § 7003(b), as it existed on January 1,
+2 2025.
+3
+4 25-44-112. Effective date.
+5 This act is effective on and after January 1, 2026.
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+5 03/11/2025 2:14:51 PM LGL152
+
+[DELETED:       A M  T M  B   S c  C U   2  T   2  I   ( d c   (    (    (    (]
+[DELETED: H2 0    ( A    (   (    ( C    (     (     ( a    (     ( C     (   ( p t   ( m p   ( C i   2  T   (   ( d   2  ( e   (   (  (]
+[DELETED: H3 0 e e p   2  ( d  ( a t p   2  ( §  ( a a a  ( e b   2 e  ( t p i  ( e   (   (   (   2]
+[DELETED: H4 0 r  A r r   2  I e   (   ( p e s   ( r   ( i   ( a m o s   2  I g s   2 N  T G J  ( §  (]
+[DELETED: H5 0 S 2   2  T                               ]

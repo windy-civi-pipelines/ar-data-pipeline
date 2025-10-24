@@ -1,0 +1,733 @@
+Title: Stricken language would be deleted from and underlined language would be added to present law.
+Official Title: Stricken language would be deleted from and underlined language would be added to present law.
+Number of Sections: 1
+Source: versions - SB 109
+Media Type: application/pdf
+Strikethrough Detection: 9 sections found
+
+================================================================================
+
+Section 1:
+1 State of Arkansas
+A Bill
+2 95th General Assembly
+3 Regular Session, 2025 SENATE BILL 109
+4
+5 By: Joint Budget Committee
+6
+7
+For An Act To Be Entitled
+8
+9 AN ACT TO MAKE AN APPROPRIATION FOR PERSONAL SERVICES
+10 AND OPERATING EXPENSES FOR THE SOUTH ARKANSAS COLLEGE
+11 FOR THE FISCAL YEAR ENDING JUNE 30, 2026; AND FOR
+12 OTHER PURPOSES.
+13
+14
+Subtitle
+15
+16 AN ACT FOR THE SOUTH ARKANSAS COLLEGE
+17 APPROPRIATION FOR THE 2025-2026 FISCAL
+18 YEAR.
+19
+20
+21 BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF ARKANSAS:
+22
+23 SECTION 1. REGULAR SALARIES - OPERATIONS. There is hereby established
+24 for the South Arkansas College for the 2025-2026 fiscal year, the following
+25 maximum number of regular employees.
+26
+27 Maximum Annual
+28 Maximum Salary Rate
+29 Item No. of Fiscal Year
+30 No. Title Employees 2025-2026
+31 TWELVE MONTH EDUCATIONAL AND GENERAL
+32 ADMINISTRATIVE POSITIONS
+33 (1) President, SAC 1 $208,138
+34 (2) IT Pool 3
+35 Network Engineer $200,973
+36 Information Systems Manager $128,994
+*HAR006*
+01/27/2025 10:21:17 AM HAR006
+SB109
+1 Computer Network Coordinator $128,780
+2 Technical Support Staff $123,019
+3 Coordinator, Academic Computing $121,571
+4 Coord., Administrative Computing $121,570
+5 Coordinator of Information Technology $119,967
+6 Website Developer/Programmer $119,967
+7 System Programmer/Web Developer $118,592
+8 Computer Systems Mgr. $108,987
+9 Database Administrator $106,607
+10 Systems Administrator $105,547
+11 Information Systems Security Specialist $103,579
+12 Institution Information Technology Coord. $101,489
+13 Assistant Database Administrator $97,665
+14 Computer Support Manager $97,585
+15 Information Systems Coordinator $97,585
+16 Senior Software Support Specialist $97,585
+17 Systems Specialist $97,585
+18 Information Technology Manager $96,408
+19 Network Support Specialist $93,831
+20 Senior Software Support Analyst $93,831
+21 Tech Support/Systems Admin. $92,374
+22 Tech Support/Applications Support $92,374
+23 Information Systems Business Manager $90,223
+24 Security Analyst $90,223
+25 Systems Analyst $90,223
+26 Information Technology Specialist $88,339
+27 Computer Support Coordinator $86,753
+28 Software Support Analyst $86,753
+29 Systems Applications Supervisor $86,753
+30 Computer Operations Coordinator $83,416
+31 Systems Coordination Analyst $83,416
+32 PC Support Specialist $81,860
+33 Computer Support Specialist $80,208
+34 Database Analyst $80,208
+35 Digital Broadcast Specialist $77,123
+36 Network Support Analyst $77,123
+2 01/27/2025 10:21:17 AM HAR006
+SB109
+1 Website Developer $77,123
+2 Information Systems Analyst $74,157
+3 Information Systems Security Analyst $74,157
+4 Computer Support Analyst $74,157
+5 Software Support Specialist $71,305
+6 Telecommunications Supervisor $71,305
+7 Media Specialist $69,975
+8 Computer Support Technician $68,562
+9 Help Desk Specialist $68,562
+10 Computer Operator $65,925
+11 Network Analyst $65,925
+12 Telecommunications Specialist $65,925
+13 Multimedia Specialist $62,208
+14 Information Technology Assistant $58,608
+15 Computer Lab Technician $56,353
+16 Multimedia Technician $51,130
+17 Audiovisual Laboratory Assistant $47,272
+18 (3) Vice-President for Academic Affairs 1 $167,057
+19 (4) Vice-President for Admin. Services 1 $167,057
+20 (5) Chief Information Officer 1 $156,658
+21 (6) Vice-President for Student Services 1 $156,657
+22 (7) Dir. of Occup. & Technical Educ. 1 $147,950
+23 (8) Director of Human Resources / Service 1 $132,733
+24 (9) Director of Institutional Research 1 $132,733
+25 (10) Dir. of Workforce Development 1 $129,825
+26 (11) Counselor 2 $127,508
+27 (12) Dir. of Public Relations/Marketing 1 $122,249
+28 (13) Registrar 1 $122,249
+29 (14) Director of Student Aid 1 $122,005
+30 (15) Dean of Students 2 $121,485
+31 (16) Project/Program Administrator 4
+32 Project/Program Director $120,919
+33 Project/Program Manager $101,256
+34 Project/Program Specialist $91,408
+35 (17) Director, Admin. Computer Services 1 $119,967
+36 (18) Director of Computer Services 1 $119,967
+3 01/27/2025 10:21:17 AM HAR006
+SB109
+1 (19) Director, Distance Learning 1 $119,881
+2 (20) Controller 1 $117,181
+3 (21) Director of Development 1 $113,455
+4 (22) Director of Physical Plant 1 $113,103
+5 (23) Dir., Systems Prog./Database Service 1 $111,761
+6 (24) Dean Student Affairs-Enrollment Svcs. 1 $111,453
+7 (25) Administrator of Grants and Contracts 1 $105,721
+8 (26) Assistant to the President 1 $104,457
+9 (27) Director of Public Safety 1 $101,255
+10 (28) Workforce Specialist 2 $93,056
+11 (29) Distance Learning Specialist 1 $92,908
+12 (30) Fiscal Support Pool 6
+13 Fiscal Support Manager $92,082
+14 Fiscal Support Supervisor $75,685
+15 Accountant II $72,774
+16 Accountant I $69,975
+17 Fiscal Support Analyst $67,284
+18 Fiscal Support Specialist $59,815
+19 Accounting Technician $55,302
+20 Fiscal Support Technician $51,130
+21 (31) Public Safety Pool 5
+22 HE Public Safety Commander III $90,223
+23 Director Public Safety I $88,541
+24 HE Public Safety Commander II $86,753
+25 HE Public Safety Commander I $83,416
+26 HE Public Safety Supervisor $74,157
+27 Public Safety Officer $71,305
+28 Public Safety Officer II $65,925
+29 Security Officer Supervisor $62,208
+30 Public Safety/Security Officer $56,353
+31 HE Public Safety Dispatcher $47,272
+32 Parking Control Supv. $47,272
+33 Security Officer $47,272
+34 Parking Control Officer $45,455
+35 Watchman $38,855
+36 (32) Accounting Coordinator 1 $85,136
+4 01/27/2025 10:21:17 AM HAR006
+SB109
+1 (33) Payroll Services Coordinator 1 $78,713
+2 (34) Academic Advisor 5 $77,183
+3 (35) Assistant Director 1 $77,183
+4 (36) Director 1 $77,183
+5 (37) Skilled Trades Pool 10
+6 Skilled Trades Foreman $74,157
+7 Skilled Trades Supervisor $71,305
+8 Skilled Tradesman $68,562
+9 Skilled Trades Helper $52,101
+10 Apprentice Tradesman $46,319
+11 (38) Administrative Support Pool 12
+12 Administrative Assistant $67,284
+13 Administrative Analyst $67,284
+14 Administrative Support Supervisor $62,208
+15 Administrative Specialist III $59,815
+16 Administration Support Specialist $59,815
+17 Administrative Specialist II $53,175
+18 Administrative Support Specialist $53,175
+19 Administrative Specialist I $47,272
+20 Extra Help Assistant $38,855
+21 (39) Assistant Registrar 1 $67,284
+22 (40) Financial Aid Analyst 2 $67,284
+23 (41) Library Support Pool 3
+24 Library Supervisor $67,284
+25 Library Specialist $57,515
+26 Library Technician $53,175
+27 Library Support Assistant $49,164
+28 (42) Payroll Services Specialist 1 $67,284
+29 (43) Financial Aid Specialist 1 $62,208
+30 (44) Student Recruitment Specialist 3 $62,208
+31 (45) Admissions Analyst 1 $53,175
+32 (46) Institutional Services Shift Supv. 1 $49,164
+33 (47) Institutional Services Supervisor 1 $43,706
+34 (48) Institutional Services Assistant 10 $42,025
+35 TWELVE MONTH EDUCATIONAL AND GENERAL
+36 ACADEMIC POSITIONS
+5 01/27/2025 10:21:17 AM HAR006
+SB109
+1 (49) Division Chairperson 4 $146,201
+2 (50) Librarian 1 $132,733
+3 (51) Director of Allied Health 3 $128,588
+4 (52) Director of Adult Education 1 $127,510
+5 (53) Instructor-Nursing & Allied Health 20 $120,305
+6 NINE MONTH EDUCATIONAL AND GENERAL
+7 ACADEMIC POSITIONS
+8 (54) Faculty 64 $111,362
+9 (55) Part-Time Faculty 80 $56,046
+10 TWELVE MONTH AUXILIARY ENTERPRISES
+11 POSITIONS
+12 (56) Conference Center Director 1 $122,249
+13 (57) Athletic Director 1 $120,919
+14 (58) Project/Program Administrator 6
+15 Project/Program Director $120,919
+16 Project/Program Manager $101,256
+17 Project Program Specialist $91,408
+18 (59) Campus Store Manager 1 $104,892
+19 (60) Events Planner 1 $104,892
+20 (61) Athletic Administration & Support Pool 6
+21 Coach $104,891
+22 Asst. Coach $56,046
+23 Athletic Trainer $41,956
+24 (62) Fiscal Support Pool 2
+25 Fiscal Support Manager $92,082
+26 Fiscal Support Supervisor $75,685
+27 Accountant II $72,774
+28 Accountant I $69,975
+29 Fiscal Support Analyst $67,284
+30 Fiscal Support Specialist $59,815
+31 Accounting Technician $55,302
+32 Fiscal Support Technician $51,130
+33 (63) Skilled Trades Pool 2
+34 Skilled Trades Foreman $74,157
+35 Skilled Trades Supervisor $71,305
+36 Skilled Tradesman $68,562
+6 01/27/2025 10:21:17 AM HAR006
+SB109
+1 Skilled Trades Helper $52,101
+2 Apprentice Tradesman $46,319
+3 (64) Food Service Pool 5
+4 Food Preparation Manager $64,696
+5 Food Preparation Supervisor $57,515
+6 Food Preparation Coordinator $51,130
+7 Food Preparation Specialist $43,706
+8 Food Preparation Technician $40,409
+9 (65) Residential Life Coordinator 1 $57,868
+10 MAX. NO. OF EMPLOYEES 302
+11
+12 SECTION 2. EXTRA HELP - OPERATIONS. There is hereby authorized, for
+13 the South Arkansas College for the 2025-2026 fiscal year, the following
+14 maximum number of part-time or temporary employees, to be known as "Extra
+15 Help", payable from funds appropriated herein for such purposes: one hundred
+16 seventy-five (175) temporary or part-time employees, when needed, at rates of
+17 pay not to exceed those provided in the Uniform Classification and
+18 Compensation Act, or its successor, or this act for the appropriate
+19 classification.
+20
+21 SECTION 3. APPROPRIATION - STATE OPERATIONS. There is hereby
+22 appropriated, to the South Arkansas College, to be payable from the South
+23 Arkansas College Fund, for personal services and operating expenses of the
+24 South Arkansas College for the fiscal year ending June 30, 2026, the
+25 following:
+26
+27 ITEM FISCAL YEAR
+28 NO. 2025-2026
+29 (01) REGULAR SALARIES $4,296,797
+30 (02) EXTRA HELP 210,542
+31 (03) PERSONAL SERVICES MATCHING 1,316,878
+32 (04) MAINT. & GEN. OPERATION
+33 (A) OPER. EXPENSE 1,427,424
+34 (B) CONF. & TRAVEL 0
+35 (C) PROF. FEES 0
+36 (D) CAP. OUTLAY 0
+7 01/27/2025 10:21:17 AM HAR006
+SB109
+1 (E) DATA PROC. 0
+2 (05) CONTINGENCY 362,582
+3 TOTAL AMOUNT APPROPRIATED $7,614,223
+4
+5 SECTION 4. APPROPRIATION - CASH FUNDS. There is hereby appropriated,
+6 to the South Arkansas College, to be payable from cash funds as defined by
+7 Arkansas Code 19-4-801, for personal services and operating expenses of the
+8 South Arkansas College for the fiscal year ending June 30, 2026, the
+9 following:
+10
+11 ITEM FISCAL YEAR
+12 NO. 2025-2026
+13 (01) REGULAR SALARIES $5,652,378
+14 (02) EXTRA HELP 365,715
+15 (03) OVERTIME 50,000
+16 (04) PERSONAL SERVICES MATCHING 1,571,035
+17 (05) MAINT. & GEN. OPERATION
+18 (A) OPER. EXPENSE 4,286,825
+19 (B) CONF. & TRAVEL 217,389
+20 (C) PROF. FEES 100,000
+21 (D) CAP. OUTLAY 314,893
+22 (E) DATA PROC. 0
+23 (06) CAPITAL IMPROVEMENTS 8,483,593
+24 (07) DEBT SERVICE 800,000
+25 (08) FUND TRANSFERS, REFUNDS AND
+26 INVESTMENTS 126,929
+27 (09) PROMOTIONAL ITEMS 63,465
+28 TOTAL AMOUNT APPROPRIATED $22,032,222
+29
+30 SECTION 5. COMPLIANCE WITH OTHER LAWS. Disbursement of funds
+31 authorized by this act shall be limited to the appropriation for such agency
+32 and funds made available by law for the support of such appropriations; and
+33 the restrictions of the State Procurement Law, the General Accounting and
+34 Budgetary Procedures Law, the Revenue Stabilization Law, the Regular Salary
+35 Procedures and Restrictions Act, the Higher Education Expenditure Restriction
+36 Act, or their successors, and other fiscal control laws of this State, where
+8 01/27/2025 10:21:17 AM HAR006
+SB109
+1 applicable, and regulations promulgated by the Department of Finance and
+2 Administration, as authorized by law, shall be strictly complied with in
+3 disbursement of said funds.
+4
+5 SECTION 6. LEGISLATIVE INTENT. It is the intent of the General
+6 Assembly that any funds disbursed under the authority of the appropriations
+7 contained in this act shall be in compliance with the stated reasons for
+8 which this act was adopted, as evidenced by the Agency Requests, Executive
+9 Recommendations and Legislative Recommendations contained in the budget
+10 manuals prepared by the Department of Finance and Administration, letters, or
+11 summarized oral testimony in the official minutes of the Arkansas Legislative
+12 Council or Joint Budget Committee which relate to its passage and adoption.
+13
+14 SECTION 7. EMERGENCY CLAUSE. It is found and determined by the General
+15 Assembly, that the Constitution of the State of Arkansas prohibits the
+16 appropriation of funds for more than a one (1) year period; that the
+17 effectiveness of this Act on July 1, 2025 is essential to the operation of
+18 the agency for which the appropriations in this Act are provided, and that in
+19 the event of an extension of the legislative session, the delay in the
+20 effective date of this Act beyond July 1, 2025 could work irreparable harm
+21 upon the proper administration and provision of essential governmental
+22 programs. Therefore, an emergency is hereby declared to exist and this Act
+23 being necessary for the immediate preservation of the public peace, health
+24 and safety shall be in full force and effect from and after July 1, 2025.
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+9 01/27/2025 10:21:17 AM HAR006
+[DELETED:       A A F O  A A Y    B   S f m                     ]
+[DELETED: S2 0                                                                        ]
+[DELETED: S3 0                                                                        ]
+[DELETED: S4 0                                                                        ]
+[DELETED: S5 0                                                                        ]
+[DELETED: S6 0                                                                        ]
+[DELETED: S7 0                       S t m H s p C c   S a A S f  I   ( ( ( (        ]
+[DELETED: S8 0   (     S t A S f  I   ( ( ( ( (           ( ( (   (     S a a t B P A]
+[DELETED: S9 0 a A d   S A c w R m s C   S A a e t t e u p b a            ]
+
+
+================================================================================
+
+Raw Text:
+Stricken language would be deleted from and underlined language would be added to present law.
+1 State of Arkansas
+A Bill
+2 95th General Assembly
+3 Regular Session, 2025 SENATE BILL 109
+4
+5 By: Joint Budget Committee
+6
+7
+For An Act To Be Entitled
+8
+9 AN ACT TO MAKE AN APPROPRIATION FOR PERSONAL SERVICES
+10 AND OPERATING EXPENSES FOR THE SOUTH ARKANSAS COLLEGE
+11 FOR THE FISCAL YEAR ENDING JUNE 30, 2026; AND FOR
+12 OTHER PURPOSES.
+13
+14
+Subtitle
+15
+16 AN ACT FOR THE SOUTH ARKANSAS COLLEGE
+17 APPROPRIATION FOR THE 2025-2026 FISCAL
+18 YEAR.
+19
+20
+21 BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF ARKANSAS:
+22
+23 SECTION 1. REGULAR SALARIES - OPERATIONS. There is hereby established
+24 for the South Arkansas College for the 2025-2026 fiscal year, the following
+25 maximum number of regular employees.
+26
+27 Maximum Annual
+28 Maximum Salary Rate
+29 Item No. of Fiscal Year
+30 No. Title Employees 2025-2026
+31 TWELVE MONTH EDUCATIONAL AND GENERAL
+32 ADMINISTRATIVE POSITIONS
+33 (1) President, SAC 1 $208,138
+34 (2) IT Pool 3
+35 Network Engineer $200,973
+36 Information Systems Manager $128,994
+*HAR006*
+01/27/2025 10:21:17 AM HAR006
+
+SB109
+1 Computer Network Coordinator $128,780
+2 Technical Support Staff $123,019
+3 Coordinator, Academic Computing $121,571
+4 Coord., Administrative Computing $121,570
+5 Coordinator of Information Technology $119,967
+6 Website Developer/Programmer $119,967
+7 System Programmer/Web Developer $118,592
+8 Computer Systems Mgr. $108,987
+9 Database Administrator $106,607
+10 Systems Administrator $105,547
+11 Information Systems Security Specialist $103,579
+12 Institution Information Technology Coord. $101,489
+13 Assistant Database Administrator $97,665
+14 Computer Support Manager $97,585
+15 Information Systems Coordinator $97,585
+16 Senior Software Support Specialist $97,585
+17 Systems Specialist $97,585
+18 Information Technology Manager $96,408
+19 Network Support Specialist $93,831
+20 Senior Software Support Analyst $93,831
+21 Tech Support/Systems Admin. $92,374
+22 Tech Support/Applications Support $92,374
+23 Information Systems Business Manager $90,223
+24 Security Analyst $90,223
+25 Systems Analyst $90,223
+26 Information Technology Specialist $88,339
+27 Computer Support Coordinator $86,753
+28 Software Support Analyst $86,753
+29 Systems Applications Supervisor $86,753
+30 Computer Operations Coordinator $83,416
+31 Systems Coordination Analyst $83,416
+32 PC Support Specialist $81,860
+33 Computer Support Specialist $80,208
+34 Database Analyst $80,208
+35 Digital Broadcast Specialist $77,123
+36 Network Support Analyst $77,123
+2 01/27/2025 10:21:17 AM HAR006
+
+SB109
+1 Website Developer $77,123
+2 Information Systems Analyst $74,157
+3 Information Systems Security Analyst $74,157
+4 Computer Support Analyst $74,157
+5 Software Support Specialist $71,305
+6 Telecommunications Supervisor $71,305
+7 Media Specialist $69,975
+8 Computer Support Technician $68,562
+9 Help Desk Specialist $68,562
+10 Computer Operator $65,925
+11 Network Analyst $65,925
+12 Telecommunications Specialist $65,925
+13 Multimedia Specialist $62,208
+14 Information Technology Assistant $58,608
+15 Computer Lab Technician $56,353
+16 Multimedia Technician $51,130
+17 Audiovisual Laboratory Assistant $47,272
+18 (3) Vice-President for Academic Affairs 1 $167,057
+19 (4) Vice-President for Admin. Services 1 $167,057
+20 (5) Chief Information Officer 1 $156,658
+21 (6) Vice-President for Student Services 1 $156,657
+22 (7) Dir. of Occup. & Technical Educ. 1 $147,950
+23 (8) Director of Human Resources / Service 1 $132,733
+24 (9) Director of Institutional Research 1 $132,733
+25 (10) Dir. of Workforce Development 1 $129,825
+26 (11) Counselor 2 $127,508
+27 (12) Dir. of Public Relations/Marketing 1 $122,249
+28 (13) Registrar 1 $122,249
+29 (14) Director of Student Aid 1 $122,005
+30 (15) Dean of Students 2 $121,485
+31 (16) Project/Program Administrator 4
+32 Project/Program Director $120,919
+33 Project/Program Manager $101,256
+34 Project/Program Specialist $91,408
+35 (17) Director, Admin. Computer Services 1 $119,967
+36 (18) Director of Computer Services 1 $119,967
+3 01/27/2025 10:21:17 AM HAR006
+
+SB109
+1 (19) Director, Distance Learning 1 $119,881
+2 (20) Controller 1 $117,181
+3 (21) Director of Development 1 $113,455
+4 (22) Director of Physical Plant 1 $113,103
+5 (23) Dir., Systems Prog./Database Service 1 $111,761
+6 (24) Dean Student Affairs-Enrollment Svcs. 1 $111,453
+7 (25) Administrator of Grants and Contracts 1 $105,721
+8 (26) Assistant to the President 1 $104,457
+9 (27) Director of Public Safety 1 $101,255
+10 (28) Workforce Specialist 2 $93,056
+11 (29) Distance Learning Specialist 1 $92,908
+12 (30) Fiscal Support Pool 6
+13 Fiscal Support Manager $92,082
+14 Fiscal Support Supervisor $75,685
+15 Accountant II $72,774
+16 Accountant I $69,975
+17 Fiscal Support Analyst $67,284
+18 Fiscal Support Specialist $59,815
+19 Accounting Technician $55,302
+20 Fiscal Support Technician $51,130
+21 (31) Public Safety Pool 5
+22 HE Public Safety Commander III $90,223
+23 Director Public Safety I $88,541
+24 HE Public Safety Commander II $86,753
+25 HE Public Safety Commander I $83,416
+26 HE Public Safety Supervisor $74,157
+27 Public Safety Officer $71,305
+28 Public Safety Officer II $65,925
+29 Security Officer Supervisor $62,208
+30 Public Safety/Security Officer $56,353
+31 HE Public Safety Dispatcher $47,272
+32 Parking Control Supv. $47,272
+33 Security Officer $47,272
+34 Parking Control Officer $45,455
+35 Watchman $38,855
+36 (32) Accounting Coordinator 1 $85,136
+4 01/27/2025 10:21:17 AM HAR006
+
+SB109
+1 (33) Payroll Services Coordinator 1 $78,713
+2 (34) Academic Advisor 5 $77,183
+3 (35) Assistant Director 1 $77,183
+4 (36) Director 1 $77,183
+5 (37) Skilled Trades Pool 10
+6 Skilled Trades Foreman $74,157
+7 Skilled Trades Supervisor $71,305
+8 Skilled Tradesman $68,562
+9 Skilled Trades Helper $52,101
+10 Apprentice Tradesman $46,319
+11 (38) Administrative Support Pool 12
+12 Administrative Assistant $67,284
+13 Administrative Analyst $67,284
+14 Administrative Support Supervisor $62,208
+15 Administrative Specialist III $59,815
+16 Administration Support Specialist $59,815
+17 Administrative Specialist II $53,175
+18 Administrative Support Specialist $53,175
+19 Administrative Specialist I $47,272
+20 Extra Help Assistant $38,855
+21 (39) Assistant Registrar 1 $67,284
+22 (40) Financial Aid Analyst 2 $67,284
+23 (41) Library Support Pool 3
+24 Library Supervisor $67,284
+25 Library Specialist $57,515
+26 Library Technician $53,175
+27 Library Support Assistant $49,164
+28 (42) Payroll Services Specialist 1 $67,284
+29 (43) Financial Aid Specialist 1 $62,208
+30 (44) Student Recruitment Specialist 3 $62,208
+31 (45) Admissions Analyst 1 $53,175
+32 (46) Institutional Services Shift Supv. 1 $49,164
+33 (47) Institutional Services Supervisor 1 $43,706
+34 (48) Institutional Services Assistant 10 $42,025
+35 TWELVE MONTH EDUCATIONAL AND GENERAL
+36 ACADEMIC POSITIONS
+5 01/27/2025 10:21:17 AM HAR006
+
+SB109
+1 (49) Division Chairperson 4 $146,201
+2 (50) Librarian 1 $132,733
+3 (51) Director of Allied Health 3 $128,588
+4 (52) Director of Adult Education 1 $127,510
+5 (53) Instructor-Nursing & Allied Health 20 $120,305
+6 NINE MONTH EDUCATIONAL AND GENERAL
+7 ACADEMIC POSITIONS
+8 (54) Faculty 64 $111,362
+9 (55) Part-Time Faculty 80 $56,046
+10 TWELVE MONTH AUXILIARY ENTERPRISES
+11 POSITIONS
+12 (56) Conference Center Director 1 $122,249
+13 (57) Athletic Director 1 $120,919
+14 (58) Project/Program Administrator 6
+15 Project/Program Director $120,919
+16 Project/Program Manager $101,256
+17 Project Program Specialist $91,408
+18 (59) Campus Store Manager 1 $104,892
+19 (60) Events Planner 1 $104,892
+20 (61) Athletic Administration & Support Pool 6
+21 Coach $104,891
+22 Asst. Coach $56,046
+23 Athletic Trainer $41,956
+24 (62) Fiscal Support Pool 2
+25 Fiscal Support Manager $92,082
+26 Fiscal Support Supervisor $75,685
+27 Accountant II $72,774
+28 Accountant I $69,975
+29 Fiscal Support Analyst $67,284
+30 Fiscal Support Specialist $59,815
+31 Accounting Technician $55,302
+32 Fiscal Support Technician $51,130
+33 (63) Skilled Trades Pool 2
+34 Skilled Trades Foreman $74,157
+35 Skilled Trades Supervisor $71,305
+36 Skilled Tradesman $68,562
+6 01/27/2025 10:21:17 AM HAR006
+
+SB109
+1 Skilled Trades Helper $52,101
+2 Apprentice Tradesman $46,319
+3 (64) Food Service Pool 5
+4 Food Preparation Manager $64,696
+5 Food Preparation Supervisor $57,515
+6 Food Preparation Coordinator $51,130
+7 Food Preparation Specialist $43,706
+8 Food Preparation Technician $40,409
+9 (65) Residential Life Coordinator 1 $57,868
+10 MAX. NO. OF EMPLOYEES 302
+11
+12 SECTION 2. EXTRA HELP - OPERATIONS. There is hereby authorized, for
+13 the South Arkansas College for the 2025-2026 fiscal year, the following
+14 maximum number of part-time or temporary employees, to be known as "Extra
+15 Help", payable from funds appropriated herein for such purposes: one hundred
+16 seventy-five (175) temporary or part-time employees, when needed, at rates of
+17 pay not to exceed those provided in the Uniform Classification and
+18 Compensation Act, or its successor, or this act for the appropriate
+19 classification.
+20
+21 SECTION 3. APPROPRIATION - STATE OPERATIONS. There is hereby
+22 appropriated, to the South Arkansas College, to be payable from the South
+23 Arkansas College Fund, for personal services and operating expenses of the
+24 South Arkansas College for the fiscal year ending June 30, 2026, the
+25 following:
+26
+27 ITEM FISCAL YEAR
+28 NO. 2025-2026
+29 (01) REGULAR SALARIES $4,296,797
+30 (02) EXTRA HELP 210,542
+31 (03) PERSONAL SERVICES MATCHING 1,316,878
+32 (04) MAINT. & GEN. OPERATION
+33 (A) OPER. EXPENSE 1,427,424
+34 (B) CONF. & TRAVEL 0
+35 (C) PROF. FEES 0
+36 (D) CAP. OUTLAY 0
+7 01/27/2025 10:21:17 AM HAR006
+
+SB109
+1 (E) DATA PROC. 0
+2 (05) CONTINGENCY 362,582
+3 TOTAL AMOUNT APPROPRIATED $7,614,223
+4
+5 SECTION 4. APPROPRIATION - CASH FUNDS. There is hereby appropriated,
+6 to the South Arkansas College, to be payable from cash funds as defined by
+7 Arkansas Code 19-4-801, for personal services and operating expenses of the
+8 South Arkansas College for the fiscal year ending June 30, 2026, the
+9 following:
+10
+11 ITEM FISCAL YEAR
+12 NO. 2025-2026
+13 (01) REGULAR SALARIES $5,652,378
+14 (02) EXTRA HELP 365,715
+15 (03) OVERTIME 50,000
+16 (04) PERSONAL SERVICES MATCHING 1,571,035
+17 (05) MAINT. & GEN. OPERATION
+18 (A) OPER. EXPENSE 4,286,825
+19 (B) CONF. & TRAVEL 217,389
+20 (C) PROF. FEES 100,000
+21 (D) CAP. OUTLAY 314,893
+22 (E) DATA PROC. 0
+23 (06) CAPITAL IMPROVEMENTS 8,483,593
+24 (07) DEBT SERVICE 800,000
+25 (08) FUND TRANSFERS, REFUNDS AND
+26 INVESTMENTS 126,929
+27 (09) PROMOTIONAL ITEMS 63,465
+28 TOTAL AMOUNT APPROPRIATED $22,032,222
+29
+30 SECTION 5. COMPLIANCE WITH OTHER LAWS. Disbursement of funds
+31 authorized by this act shall be limited to the appropriation for such agency
+32 and funds made available by law for the support of such appropriations; and
+33 the restrictions of the State Procurement Law, the General Accounting and
+34 Budgetary Procedures Law, the Revenue Stabilization Law, the Regular Salary
+35 Procedures and Restrictions Act, the Higher Education Expenditure Restriction
+36 Act, or their successors, and other fiscal control laws of this State, where
+8 01/27/2025 10:21:17 AM HAR006
+
+SB109
+1 applicable, and regulations promulgated by the Department of Finance and
+2 Administration, as authorized by law, shall be strictly complied with in
+3 disbursement of said funds.
+4
+5 SECTION 6. LEGISLATIVE INTENT. It is the intent of the General
+6 Assembly that any funds disbursed under the authority of the appropriations
+7 contained in this act shall be in compliance with the stated reasons for
+8 which this act was adopted, as evidenced by the Agency Requests, Executive
+9 Recommendations and Legislative Recommendations contained in the budget
+10 manuals prepared by the Department of Finance and Administration, letters, or
+11 summarized oral testimony in the official minutes of the Arkansas Legislative
+12 Council or Joint Budget Committee which relate to its passage and adoption.
+13
+14 SECTION 7. EMERGENCY CLAUSE. It is found and determined by the General
+15 Assembly, that the Constitution of the State of Arkansas prohibits the
+16 appropriation of funds for more than a one (1) year period; that the
+17 effectiveness of this Act on July 1, 2025 is essential to the operation of
+18 the agency for which the appropriations in this Act are provided, and that in
+19 the event of an extension of the legislative session, the delay in the
+20 effective date of this Act beyond July 1, 2025 could work irreparable harm
+21 upon the proper administration and provision of essential governmental
+22 programs. Therefore, an emergency is hereby declared to exist and this Act
+23 being necessary for the immediate preservation of the public peace, health
+24 and safety shall be in full force and effect from and after July 1, 2025.
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+9 01/27/2025 10:21:17 AM HAR006
+
+[DELETED:       A A F O  A A Y    B   S f m                     ]
+[DELETED: S2 0                                                                        ]
+[DELETED: S3 0                                                                        ]
+[DELETED: S4 0                                                                        ]
+[DELETED: S5 0                                                                        ]
+[DELETED: S6 0                                                                        ]
+[DELETED: S7 0                       S t m H s p C c   S a A S f  I   ( ( ( (        ]
+[DELETED: S8 0   (     S t A S f  I   ( ( ( ( (           ( ( (   (     S a a t B P A]
+[DELETED: S9 0 a A d   S A c w R m s C   S A a e t t e u p b a            ]

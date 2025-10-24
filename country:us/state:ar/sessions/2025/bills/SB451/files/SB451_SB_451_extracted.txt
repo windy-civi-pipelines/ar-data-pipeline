@@ -1,0 +1,575 @@
+Title: Stricken language would be deleted from and underlined language would be added to present law.
+Official Title: Stricken language would be deleted from and underlined language would be added to present law.
+Number of Sections: 1
+Source: versions - SB 451
+Media Type: application/pdf
+Strikethrough Detection: 7 sections found
+
+================================================================================
+
+Section 1:
+1 State of Arkansas As Engrossed: S4/3/25
+A Bill
+2 95th General Assembly
+3 Regular Session, 2025 SENATE BILL 451
+4
+5 By: Senator Hester
+6 By: Representatives R. Scott Richardson, D. Garner, Lundstrum
+7
+For An Act To Be Entitled
+8
+9 AN ACT CONCERNING STUDENT MENTAL HEALTH; TO REQUIRE
+10 THE DEPARTMENT OF HUMAN SERVICES AND THE DEPARTMENT
+11 OF EDUCATION TO ESTABLISH REGIONAL BEHAVIORAL HEALTH
+12 PROGRAMS; TO AMEND THE LAW CONCERNING THE EDUCATION
+13 OF STUDENTS PLACED IN JUVENILE DETENTION FACILITIES;
+14 TO DECLARE AN EMERGENCY; AND FOR OTHER PURPOSES.
+15
+16
+Subtitle
+17
+18 TO REQUIRE THE DEPARTMENT OF HUMAN
+19 SERVICES AND THE DEPARTMENT OF EDUCATION
+20 TO ESTABLISH REGIONAL BEHAVIORAL HEALTH
+21 PROGRAMS; TO AMEND THE LAW CONCERNING
+22 THE EDUCATION OF CERTAIN STUDENTS; AND
+23 TO DECLARE AN EMERGENCY.
+24
+25 BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF ARKANSAS:
+26
+27 SECTION 1. Arkansas Code Title 6, Chapter 18, Subchapter 1, is amended
+28 to add an additional section to read as follows:
+29 6-18-116. Behavioral health programs.
+30 (a) No later than January 1, 2026, the Department of Human Services,
+31 as the Medicaid agency, in consultation with the Department of Education
+32 shall establish regional behavioral health programs to assist public school
+33 districts and open-enrollment public charter schools with locating the
+34 appropriate services for a student who demonstrates a behavior that is
+35 substantially likely to cause injury to the student, other students, or
+36 staff.
+*TNL309*
+04-03-2025 15:13:22 TNL309
+As Engrossed: S4/3/25 SB451
+1 (b) A behavioral health program shall:
+2 (1) Respond to a request from a public school district or an
+3 open-enrollment public charter school within forty-eight (48) hours of
+4 notification of the request; and
+5 (2) Work with a referring public school district or open-
+6 enrollment public charter school and the family of a student referred under
+7 this section to develop a behavioral health management plan for a student who
+8 demonstrates behavior that is substantially likely to cause injury to the
+9 student, other students, or staff.
+10 (c) A behavioral health management plan developed under subdivision
+11 (c)(2) of this section shall include without limitation:
+12 (1) The appropriate services for a student referred under this
+13 section and his or her family; and
+14 (2) A plan for transitioning a student referred under this
+15 section back to his or her public school district or open-enrollment public
+16 charter school when the student is no longer demonstrating a behavior that is
+17 substantially likely to cause injury to the student, other students, or
+18 staff.
+19 (d) By January 1, 2026, the Department of Human Services shall:
+20 (1) Develop behavior health programs to adequately meet the
+21 needs of Arkansas students; and
+22 (2)(A) Collaborate with the Department of Education to identify
+23 regional alternative learning environments to repurpose the locations to be
+24 utilized for a behavior health program.
+25 (B) If an alternative learning environment is not
+26 available in a region, the Department of Human Services and Department of
+27 Education shall identify a location within the region to be utilized for a
+28 behavior health program.
+29 (e) The Department of Human Services and the Department of Education
+30 shall develop appropriate funding sources for students referred to a behavior
+31 health program under this section and who do not have the ability to pay for
+32 care.
+33 (f) A behavior health program shall:
+34 (1) Provide the necessary treatment for a student who
+35 demonstrates a behavior that is substantially likely to cause injury to the
+36 student, other students, or staff; and
+2 04-03-2025 15:13:22 TNL309
+As Engrossed: S4/3/25 SB451
+1 (2) A program does not establish exclusionary policies for
+2 admittance or removal that directly relate to the:
+3 (A) Level of services needed by a student referred under
+4 this section;
+5 (B) Level of danger posed by a student referred under this
+6 section;
+7 (C) Level of intellectual functioning of a student
+8 referred under this section; or
+9 (D) Disability status of a student referred under this
+10 section.
+11 (g) The Department of Education shall provide funding for the
+12 education of students in approved residential or inpatient facilities in
+13 accordance with § 6-20-107.
+14
+15 SECTION 2. Arkansas Code § 6-18-202(a)(2), concerning the definition
+16 of "reside" as it pertains to age and residency requirements for attending
+17 public schools, is amended to read as follows:
+18 (2)(A) “Reside” means to be physically present and to maintain a
+19 permanent place of abode for an average of no less than four (4) calendar
+20 days and nights per week for a primary purpose other than school attendance.
+21 (B) "Reside" does not include an out-of-state student
+22 placed in a residential facility in Arkansas;
+23
+24 SECTION 3. Arkansas Code § 6-20-104 is amended to read as follows:
+25 6-20-104. Reimbursement for educational services provided in juvenile
+26 detention facilities — Definition.
+27 (a)(1) As used in this section, “juvenile detention facility” means
+28 any facility operated by a political subdivision of the state for the
+29 temporary care of juveniles alleged to be delinquent, or adjudicated
+30 delinquent, who require secure custody in a physically restricting facility.
+31 (2) Under § 9-27-330(a)(11), such a juvenile detention facility
+32 must shall provide educational and other rehabilitative services to
+33 adjudicated delinquents who may be ordered by the court to remain in the
+34 juvenile detention facility for an indeterminate period not to exceed ninety
+35 (90) days.
+36 (b)(1) Upon disposition by the juvenile court that an adjudicated
+3 04-03-2025 15:13:22 TNL309
+As Engrossed: S4/3/25 SB451
+1 juvenile shall stay in a juvenile detention facility for any period of time,
+2 the facility shall notify the juvenile's resident school district of his or
+3 her whereabouts and within five (5) days after the juvenile is released shall
+4 certify the detention dates to the district.
+5 (2) The school district where the facility is located and the
+6 juvenile detention facility shall jointly be responsible for providing
+7 educational services to students placed in the juvenile detention facility
+8 and shall complete an application for funding to be based on the approved
+9 student capacity of the facility and shall submit the application to the
+10 Division of Elementary and Secondary Education.
+11 (3) If the amount of state funds due cannot be agreed upon by
+12 the juvenile detention facility and the school district where the facility is
+13 located, an appeal shall be made to the division. All decisions rendered
+14 shall be final.
+15 (3)(A) A juvenile detention facility may partner with a public
+16 school district, an open-enrollment public charter school, or a private
+17 educational provider to provide educational services.
+18 (B) An agreement for educational services under
+19 subdivision (b)(3)(A) of this section shall be outlined in a memorandum of
+20 understanding and included in the application for funding submitted under
+21 subdivision (b)(2) of this section.
+22 (4) The division shall monitor educational services provided
+23 under this section.
+24 (c) The division shall issue rules for the effective implementation of
+25 this section, including:
+26 (1) The classification of Classifying juvenile detention centers
+27 facilities as approved residential treatment facilities;
+28 (2) The designation of the Designating juvenile detention
+29 facility and the district where the juvenile detention facility is located
+30 facilities as responsible for educating the student students consistent with
+31 federal and state laws for any period of time the student is students are
+32 being held in the juvenile detention facility; and
+33 (3) The designation of Designating the resident district of a
+34 student who is being held in a juvenile detention facility as responsible for
+35 the timely transfer of a the student's educational records to the district
+36 where the juvenile detention facility is located upon notification by the
+4 04-03-2025 15:13:22 TNL309
+As Engrossed: S4/3/25 SB451
+1 court of the student's placement in a the juvenile detention facility.
+2 (d) The funds appropriated to the division for juvenile detention
+3 facilities shall be allocated in accordance with rules promulgated by the
+4 State Board of Education.
+5
+6 SECTION 4. Arkansas Code § 6-20-107 is amended to read as follows:
+7 6-20-107. Educational cost reimbursement prohibition — Definition.
+8 (a) As used in this section, “juvenile” means a person who is eighteen
+9 (18) years of age or younger.
+10 (b)(1)(a)(1) The Division of Elementary and Secondary Education, a
+11 public school district, or an open-enrollment public charter school shall not
+12 be liable for any educational costs or other related costs associated with
+13 the placement of a juvenile in an out-of-state residential or inpatient
+14 facility for any care and treatment, including psychiatric treatment, unless:
+15 (A) At the time of placement, the juvenile's physician
+16 determines that the out-of-state placement is medically necessary and is the
+17 most appropriate placement available;
+18 (B) The division authorizes public payment for educational
+19 costs based on a determination that the educational program and facilities
+20 are appropriate for the juvenile and the division has approved the facility's
+21 educational program;
+22 (C)(i) Each educational program authorization precedes the
+23 placement.
+24 (ii) If the educational program is not authorized
+25 before placement, the division, public school districts, or open-enrollment
+26 public charter schools shall not be responsible for educational or other
+27 related costs, nor shall they the division be subject to any order to pay for
+28 educational or other related costs; and
+29 (D) The out-of-state residential or inpatient facility is
+30 located within a state that borders Arkansas.
+31 (2) Payment under this subsection shall be:
+32 (A) Limited to twenty (20) students at any one (1) time
+33 during a calendar year unless:
+34 (i) The juvenile under subdivision (b)(1) (a)(1) of
+35 this section qualifies as disabled a child with a disability under the
+36 Individuals with Disabilities Education Act, 20 U.S.C. § 1400 et seq.; and
+5 04-03-2025 15:13:22 TNL309
+As Engrossed: S4/3/25 SB451
+1 (ii) Payment is required under the Individuals with
+2 Disabilities Education Act, 20 U.S.C. § 1400 et seq.; and
+3 (B) Subject to the availability of division funding.
+4 (c)(b) The division, a public school district, or an open-enrollment
+5 public charter school shall not be liable for any educational costs or other
+6 related costs associated with the placement of a juvenile in an in-state
+7 residential or inpatient facility for any care and treatment, including
+8 psychiatric treatment, unless:
+9 (1) The division authorizes public payment for educational costs
+10 based on a determination that the educational program and facilities are
+11 appropriate for the juvenile and the division has approved the facility's
+12 educational program; and
+13 (2)(A) Each educational program authorization precedes the
+14 placement.
+15 (B) If the educational program is not authorized before
+16 the placement, the division, public school districts, or open-enrollment
+17 public charter schools shall not be responsible for education or other
+18 related costs, nor shall they the division be subject to any order to pay for
+19 educational or other related costs.
+20 (d)(c) The liability of the division, a public school district, or an
+21 open-enrollment public charter school for the educational costs or other
+22 related costs described in subsections (a) and (b) and (c) of this section
+23 shall be limited to the lesser of:
+24 (1) The reimbursement rate established by the division for a
+25 juvenile placed in a residential or inpatient facility; or
+26 (2) The normal and customary educational cost reimbursement rate
+27 of the state in which a juvenile is placed in an out-of-state residential or
+28 inpatient facility as determined by the division.
+29 (e)(d) This section shall not apply to a juvenile placed in an
+30 Arkansas juvenile detention facility as defined in § 6-20-104.
+31 (f)(e) Nothing in this section shall be construed to require payment
+32 by the division, a public school district, or an open-enrollment public
+33 charter school for educational costs and other related costs associated with
+34 the placement of a juvenile in an out-of-state residential or inpatient
+35 facility for any care or treatment, including psychiatric treatment, before
+36 April 7, 2005.
+6 04-03-2025 15:13:22 TNL309
+As Engrossed: S4/3/25 SB451
+1 (g)(f) The funds appropriated to the division for residential or
+2 inpatient facilities shall be:
+3 (1) Be allocated in accordance with rules promulgated by the
+4 State Board of Education; and
+5 (2) Not be used for the provision of education or other related
+6 costs for out-of-state students placed in Arkansas residential facilities.
+7
+8 SECTION 5. EMERGENCY CLAUSE. It is found and determined by the
+9 General Assembly of the State of Arkansas that the Safe Schools Initiative
+10 Act requires public schools to establish behavioral threat assessment teams
+11 to address public school safety and security; that behavioral threat
+12 assessment teams established by public schools shall follow best practices
+13 for team composition and process; that student mental health poses an ongoing
+14 crisis and can pose immediate threats in public schools; that public schools
+15 are consistently identifying certain students as imminent threats, but day
+16 treatment and mental health placements and services are unavailable for
+17 students who need these placements and services; and that this act is
+18 immediately necessary to ensure that the Department of Human Services and the
+19 Department of Education establish regional behavioral health programs in
+20 order to address immediate public school safety and security needs.
+21 Therefore, an emergency is declared to exist, and this act being immediately
+22 necessary for the preservation of the public peace, health, and safety shall
+23 become effective on:
+24 (1) The date of its approval by the Governor;
+25 (2) If the bill is neither approved nor vetoed by the Governor,
+26 the expiration of the period of time during which the Governor may veto the
+27 bill; or
+28 (3) If the bill is vetoed by the Governor and the veto is
+29 overridden, the date the last house overrides the veto.
+30
+31 /s/Hester
+32
+33
+34
+35
+36
+7 04-03-2025 15:13:22 TNL309
+[DELETED:  A   EBL4     A T O P O T   T S T P T T  B   S t  6  ( a s d a s s]
+[DELETED:  S2 0  (   ( o n   ( e t d s  ( (   ( s   ( s c s s  (   ( n   ( r u    ( a E b  ( s h c  ( ( d s]
+[DELETED:  S3 0   ( a    ( t    ( s    ( r    ( s  ( e a   S o p   ( p d    ( p   S  6 d  ( a t d   ( m a j (  (]
+[DELETED:  S4 0 j t h c   ( j e a s D   ( t l s   ( s e    ( s u s   ( u  ( t   ( f   ( f f f b   ( s t w]
+[DELETED:  S5 0 c  ( f S   S  6  ( (  ( p b t f    ( d m    ( c a e    ( p     ( b p r e    ( l   (    ( d     ( t I]
+[DELETED:  S6 0     ( D    (  ( p r r p   ( b a e   ( p    ( t p r e  ( o r s   ( j   ( o i  ( A  ( b c t f A]
+[DELETED:  S7 0  ( i   ( S   ( c   S G A t a f c a t s i D o T n b   (   ( t b   ( o  /     ]
+
+
+================================================================================
+
+Raw Text:
+Stricken language would be deleted from and underlined language would be added to present law.
+1 State of Arkansas As Engrossed: S4/3/25
+A Bill
+2 95th General Assembly
+3 Regular Session, 2025 SENATE BILL 451
+4
+5 By: Senator Hester
+6 By: Representatives R. Scott Richardson, D. Garner, Lundstrum
+7
+For An Act To Be Entitled
+8
+9 AN ACT CONCERNING STUDENT MENTAL HEALTH; TO REQUIRE
+10 THE DEPARTMENT OF HUMAN SERVICES AND THE DEPARTMENT
+11 OF EDUCATION TO ESTABLISH REGIONAL BEHAVIORAL HEALTH
+12 PROGRAMS; TO AMEND THE LAW CONCERNING THE EDUCATION
+13 OF STUDENTS PLACED IN JUVENILE DETENTION FACILITIES;
+14 TO DECLARE AN EMERGENCY; AND FOR OTHER PURPOSES.
+15
+16
+Subtitle
+17
+18 TO REQUIRE THE DEPARTMENT OF HUMAN
+19 SERVICES AND THE DEPARTMENT OF EDUCATION
+20 TO ESTABLISH REGIONAL BEHAVIORAL HEALTH
+21 PROGRAMS; TO AMEND THE LAW CONCERNING
+22 THE EDUCATION OF CERTAIN STUDENTS; AND
+23 TO DECLARE AN EMERGENCY.
+24
+25 BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF ARKANSAS:
+26
+27 SECTION 1. Arkansas Code Title 6, Chapter 18, Subchapter 1, is amended
+28 to add an additional section to read as follows:
+29 6-18-116. Behavioral health programs.
+30 (a) No later than January 1, 2026, the Department of Human Services,
+31 as the Medicaid agency, in consultation with the Department of Education
+32 shall establish regional behavioral health programs to assist public school
+33 districts and open-enrollment public charter schools with locating the
+34 appropriate services for a student who demonstrates a behavior that is
+35 substantially likely to cause injury to the student, other students, or
+36 staff.
+*TNL309*
+04-03-2025 15:13:22 TNL309
+
+As Engrossed: S4/3/25 SB451
+1 (b) A behavioral health program shall:
+2 (1) Respond to a request from a public school district or an
+3 open-enrollment public charter school within forty-eight (48) hours of
+4 notification of the request; and
+5 (2) Work with a referring public school district or open-
+6 enrollment public charter school and the family of a student referred under
+7 this section to develop a behavioral health management plan for a student who
+8 demonstrates behavior that is substantially likely to cause injury to the
+9 student, other students, or staff.
+10 (c) A behavioral health management plan developed under subdivision
+11 (c)(2) of this section shall include without limitation:
+12 (1) The appropriate services for a student referred under this
+13 section and his or her family; and
+14 (2) A plan for transitioning a student referred under this
+15 section back to his or her public school district or open-enrollment public
+16 charter school when the student is no longer demonstrating a behavior that is
+17 substantially likely to cause injury to the student, other students, or
+18 staff.
+19 (d) By January 1, 2026, the Department of Human Services shall:
+20 (1) Develop behavior health programs to adequately meet the
+21 needs of Arkansas students; and
+22 (2)(A) Collaborate with the Department of Education to identify
+23 regional alternative learning environments to repurpose the locations to be
+24 utilized for a behavior health program.
+25 (B) If an alternative learning environment is not
+26 available in a region, the Department of Human Services and Department of
+27 Education shall identify a location within the region to be utilized for a
+28 behavior health program.
+29 (e) The Department of Human Services and the Department of Education
+30 shall develop appropriate funding sources for students referred to a behavior
+31 health program under this section and who do not have the ability to pay for
+32 care.
+33 (f) A behavior health program shall:
+34 (1) Provide the necessary treatment for a student who
+35 demonstrates a behavior that is substantially likely to cause injury to the
+36 student, other students, or staff; and
+2 04-03-2025 15:13:22 TNL309
+
+As Engrossed: S4/3/25 SB451
+1 (2) A program does not establish exclusionary policies for
+2 admittance or removal that directly relate to the:
+3 (A) Level of services needed by a student referred under
+4 this section;
+5 (B) Level of danger posed by a student referred under this
+6 section;
+7 (C) Level of intellectual functioning of a student
+8 referred under this section; or
+9 (D) Disability status of a student referred under this
+10 section.
+11 (g) The Department of Education shall provide funding for the
+12 education of students in approved residential or inpatient facilities in
+13 accordance with § 6-20-107.
+14
+15 SECTION 2. Arkansas Code § 6-18-202(a)(2), concerning the definition
+16 of "reside" as it pertains to age and residency requirements for attending
+17 public schools, is amended to read as follows:
+18 (2)(A) “Reside” means to be physically present and to maintain a
+19 permanent place of abode for an average of no less than four (4) calendar
+20 days and nights per week for a primary purpose other than school attendance.
+21 (B) "Reside" does not include an out-of-state student
+22 placed in a residential facility in Arkansas;
+23
+24 SECTION 3. Arkansas Code § 6-20-104 is amended to read as follows:
+25 6-20-104. Reimbursement for educational services provided in juvenile
+26 detention facilities — Definition.
+27 (a)(1) As used in this section, “juvenile detention facility” means
+28 any facility operated by a political subdivision of the state for the
+29 temporary care of juveniles alleged to be delinquent, or adjudicated
+30 delinquent, who require secure custody in a physically restricting facility.
+31 (2) Under § 9-27-330(a)(11), such a juvenile detention facility
+32 must shall provide educational and other rehabilitative services to
+33 adjudicated delinquents who may be ordered by the court to remain in the
+34 juvenile detention facility for an indeterminate period not to exceed ninety
+35 (90) days.
+36 (b)(1) Upon disposition by the juvenile court that an adjudicated
+3 04-03-2025 15:13:22 TNL309
+
+As Engrossed: S4/3/25 SB451
+1 juvenile shall stay in a juvenile detention facility for any period of time,
+2 the facility shall notify the juvenile's resident school district of his or
+3 her whereabouts and within five (5) days after the juvenile is released shall
+4 certify the detention dates to the district.
+5 (2) The school district where the facility is located and the
+6 juvenile detention facility shall jointly be responsible for providing
+7 educational services to students placed in the juvenile detention facility
+8 and shall complete an application for funding to be based on the approved
+9 student capacity of the facility and shall submit the application to the
+10 Division of Elementary and Secondary Education.
+11 (3) If the amount of state funds due cannot be agreed upon by
+12 the juvenile detention facility and the school district where the facility is
+13 located, an appeal shall be made to the division. All decisions rendered
+14 shall be final.
+15 (3)(A) A juvenile detention facility may partner with a public
+16 school district, an open-enrollment public charter school, or a private
+17 educational provider to provide educational services.
+18 (B) An agreement for educational services under
+19 subdivision (b)(3)(A) of this section shall be outlined in a memorandum of
+20 understanding and included in the application for funding submitted under
+21 subdivision (b)(2) of this section.
+22 (4) The division shall monitor educational services provided
+23 under this section.
+24 (c) The division shall issue rules for the effective implementation of
+25 this section, including:
+26 (1) The classification of Classifying juvenile detention centers
+27 facilities as approved residential treatment facilities;
+28 (2) The designation of the Designating juvenile detention
+29 facility and the district where the juvenile detention facility is located
+30 facilities as responsible for educating the student students consistent with
+31 federal and state laws for any period of time the student is students are
+32 being held in the juvenile detention facility; and
+33 (3) The designation of Designating the resident district of a
+34 student who is being held in a juvenile detention facility as responsible for
+35 the timely transfer of a the student's educational records to the district
+36 where the juvenile detention facility is located upon notification by the
+4 04-03-2025 15:13:22 TNL309
+
+As Engrossed: S4/3/25 SB451
+1 court of the student's placement in a the juvenile detention facility.
+2 (d) The funds appropriated to the division for juvenile detention
+3 facilities shall be allocated in accordance with rules promulgated by the
+4 State Board of Education.
+5
+6 SECTION 4. Arkansas Code § 6-20-107 is amended to read as follows:
+7 6-20-107. Educational cost reimbursement prohibition — Definition.
+8 (a) As used in this section, “juvenile” means a person who is eighteen
+9 (18) years of age or younger.
+10 (b)(1)(a)(1) The Division of Elementary and Secondary Education, a
+11 public school district, or an open-enrollment public charter school shall not
+12 be liable for any educational costs or other related costs associated with
+13 the placement of a juvenile in an out-of-state residential or inpatient
+14 facility for any care and treatment, including psychiatric treatment, unless:
+15 (A) At the time of placement, the juvenile's physician
+16 determines that the out-of-state placement is medically necessary and is the
+17 most appropriate placement available;
+18 (B) The division authorizes public payment for educational
+19 costs based on a determination that the educational program and facilities
+20 are appropriate for the juvenile and the division has approved the facility's
+21 educational program;
+22 (C)(i) Each educational program authorization precedes the
+23 placement.
+24 (ii) If the educational program is not authorized
+25 before placement, the division, public school districts, or open-enrollment
+26 public charter schools shall not be responsible for educational or other
+27 related costs, nor shall they the division be subject to any order to pay for
+28 educational or other related costs; and
+29 (D) The out-of-state residential or inpatient facility is
+30 located within a state that borders Arkansas.
+31 (2) Payment under this subsection shall be:
+32 (A) Limited to twenty (20) students at any one (1) time
+33 during a calendar year unless:
+34 (i) The juvenile under subdivision (b)(1) (a)(1) of
+35 this section qualifies as disabled a child with a disability under the
+36 Individuals with Disabilities Education Act, 20 U.S.C. § 1400 et seq.; and
+5 04-03-2025 15:13:22 TNL309
+
+As Engrossed: S4/3/25 SB451
+1 (ii) Payment is required under the Individuals with
+2 Disabilities Education Act, 20 U.S.C. § 1400 et seq.; and
+3 (B) Subject to the availability of division funding.
+4 (c)(b) The division, a public school district, or an open-enrollment
+5 public charter school shall not be liable for any educational costs or other
+6 related costs associated with the placement of a juvenile in an in-state
+7 residential or inpatient facility for any care and treatment, including
+8 psychiatric treatment, unless:
+9 (1) The division authorizes public payment for educational costs
+10 based on a determination that the educational program and facilities are
+11 appropriate for the juvenile and the division has approved the facility's
+12 educational program; and
+13 (2)(A) Each educational program authorization precedes the
+14 placement.
+15 (B) If the educational program is not authorized before
+16 the placement, the division, public school districts, or open-enrollment
+17 public charter schools shall not be responsible for education or other
+18 related costs, nor shall they the division be subject to any order to pay for
+19 educational or other related costs.
+20 (d)(c) The liability of the division, a public school district, or an
+21 open-enrollment public charter school for the educational costs or other
+22 related costs described in subsections (a) and (b) and (c) of this section
+23 shall be limited to the lesser of:
+24 (1) The reimbursement rate established by the division for a
+25 juvenile placed in a residential or inpatient facility; or
+26 (2) The normal and customary educational cost reimbursement rate
+27 of the state in which a juvenile is placed in an out-of-state residential or
+28 inpatient facility as determined by the division.
+29 (e)(d) This section shall not apply to a juvenile placed in an
+30 Arkansas juvenile detention facility as defined in § 6-20-104.
+31 (f)(e) Nothing in this section shall be construed to require payment
+32 by the division, a public school district, or an open-enrollment public
+33 charter school for educational costs and other related costs associated with
+34 the placement of a juvenile in an out-of-state residential or inpatient
+35 facility for any care or treatment, including psychiatric treatment, before
+36 April 7, 2005.
+6 04-03-2025 15:13:22 TNL309
+
+As Engrossed: S4/3/25 SB451
+1 (g)(f) The funds appropriated to the division for residential or
+2 inpatient facilities shall be:
+3 (1) Be allocated in accordance with rules promulgated by the
+4 State Board of Education; and
+5 (2) Not be used for the provision of education or other related
+6 costs for out-of-state students placed in Arkansas residential facilities.
+7
+8 SECTION 5. EMERGENCY CLAUSE. It is found and determined by the
+9 General Assembly of the State of Arkansas that the Safe Schools Initiative
+10 Act requires public schools to establish behavioral threat assessment teams
+11 to address public school safety and security; that behavioral threat
+12 assessment teams established by public schools shall follow best practices
+13 for team composition and process; that student mental health poses an ongoing
+14 crisis and can pose immediate threats in public schools; that public schools
+15 are consistently identifying certain students as imminent threats, but day
+16 treatment and mental health placements and services are unavailable for
+17 students who need these placements and services; and that this act is
+18 immediately necessary to ensure that the Department of Human Services and the
+19 Department of Education establish regional behavioral health programs in
+20 order to address immediate public school safety and security needs.
+21 Therefore, an emergency is declared to exist, and this act being immediately
+22 necessary for the preservation of the public peace, health, and safety shall
+23 become effective on:
+24 (1) The date of its approval by the Governor;
+25 (2) If the bill is neither approved nor vetoed by the Governor,
+26 the expiration of the period of time during which the Governor may veto the
+27 bill; or
+28 (3) If the bill is vetoed by the Governor and the veto is
+29 overridden, the date the last house overrides the veto.
+30
+31 /s/Hester
+32
+33
+34
+35
+36
+7 04-03-2025 15:13:22 TNL309
+
+[DELETED:  A   EBL4     A T O P O T   T S T P T T  B   S t  6  ( a s d a s s]
+[DELETED:  S2 0  (   ( o n   ( e t d s  ( (   ( s   ( s c s s  (   ( n   ( r u    ( a E b  ( s h c  ( ( d s]
+[DELETED:  S3 0   ( a    ( t    ( s    ( r    ( s  ( e a   S o p   ( p d    ( p   S  6 d  ( a t d   ( m a j (  (]
+[DELETED:  S4 0 j t h c   ( j e a s D   ( t l s   ( s e    ( s u s   ( u  ( t   ( f   ( f f f b   ( s t w]
+[DELETED:  S5 0 c  ( f S   S  6  ( (  ( p b t f    ( d m    ( c a e    ( p     ( b p r e    ( l   (    ( d     ( t I]
+[DELETED:  S6 0     ( D    (  ( p r r p   ( b a e   ( p    ( t p r e  ( o r s   ( j   ( o i  ( A  ( b c t f A]
+[DELETED:  S7 0  ( i   ( S   ( c   S G A t a f c a t s i D o T n b   (   ( t b   ( o  /     ]

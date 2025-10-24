@@ -1,0 +1,417 @@
+Title: Stricken language would be deleted from and underlined language would be added to present law.
+Official Title: Stricken language would be deleted from and underlined language would be added to present law.
+Number of Sections: 1
+Source: versions - SB 461
+Media Type: application/pdf
+Strikethrough Detection: 5 sections found
+
+================================================================================
+
+Section 1:
+1 State of Arkansas
+A Bill
+2 95th General Assembly
+3 Regular Session, 2025 SENATE BILL 461
+4
+5 By: Senator J. Scott
+6
+7
+For An Act To Be Entitled
+8
+9 AN ACT TO COLLECT DATA REGARDING THE USE OF SOLITARY
+10 CONFINEMENT IN ARKANSAS PRISONS AND JAILS; AND FOR
+11 OTHER PURPOSES.
+12
+13
+Subtitle
+14
+15 TO COLLECT DATA REGARDING THE USE OF
+16 SOLITARY CONFINEMENT IN ARKANSAS PRISONS
+17 AND JAILS.
+18
+19 BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF ARKANSAS:
+20
+21 SECTION 1. Arkansas Code Title 12, Chapter 25, is amended to read as
+22 follows:
+23 Chapter 25
+24 Public Hearing Prior to Location of Community-Based Residential Facilities
+25 General Provisions
+26
+27 SECTION 2. Arkansas Code Title 12, Chapter 25, is amended to add an
+28 additional section to read as follows:
+29 12-25-102. Punitive segregation report — Definitions.
+30 (a) As used in this chapter:
+31 (1) “Segregation” means any type of detention, whether voluntary
+32 or involuntary, that involves:
+33 (A) The removal of a person from the general inmate
+34 population;
+35 (B) A restriction of access to a program or service
+36 provided by the correctional facility;
+*CEB157*
+03/13/2025 8:34:49 PM CEB157
+SB461
+1 (C) A restriction or prohibition of interaction with other
+2 incarcerated people;
+3 (D) A loss of out-of-cell time or other condition of
+4 confinement; or
+5 (E) Involves being placed in a locked room or cell for
+6 seventeen (17) hours or more in a twenty-four (24) hour period;
+7 (2) "Serious mental illness" means one of the following
+8 disorders as classified in the American Psychiatric Association's
+9 Diagnostic and Statistical Manual of Mental Disorders as it existed on
+10 January 1, 2025:
+11 (A) A disorder categorized under the schizophrenia
+12 spectrum and other psychotic disorders;
+13 (B) Bipolar disorder;
+14 (C) Major depressive disorder;
+15 (D) Delusional disorder;
+16 (E) Post-traumatic stress disorder; and
+17 (F) Traumatic brain injury; and
+18 (3) "Suicide" means the act of taking one's own life voluntarily
+19 and intentionally.
+20 (b) The Department of Corrections, the Division of Youth Services, and
+21 all local and regional detention facilities shall submit a quarterly report
+22 to the Legislative Council that includes:
+23 (1) The number of persons disciplined with, held in, or
+24 transferred to segregation during the prior quarter, including the following
+25 information concerning those persons:
+26 (A) Racial composition;
+27 (B) Gender;
+28 (C) The number of persons:
+29 (i) That are in protective custody;
+30 (ii) Who are twenty-one (21) years of age or
+31 younger;
+32 (iii) Who are fifty-five (55) years of age or older;
+33 (iv) With a serious mental illness;
+34 (v) That are pregnant or were pregnant within the
+35 previous twelve (12) weeks;
+36 (vi) With a disability, broken down by type of
+2 03/13/2025 8:34:49 PM CEB157
+SB461
+1 disability; and
+2 (vii) With a medical condition, categorized by type
+3 of condition;
+4 (D) The number of:
+5 (i) Suicides;
+6 (ii) Attempted suicides by persons housed in
+7 segregation;
+8 (iii) Incidents of self-harm by persons housed in
+9 segregation; and
+10 (iv) Persons who died while in segregation, broken
+11 down by cause of death;
+12 (E) The number of persons in segregation currently who
+13 have already been in segregation for:
+14 (i) Less than one (1) day but not more than fifteen
+15 (15) days;
+16 (ii) At least (16) days, but not more than thirty
+17 (30) days;
+18 (iii) At least thirty-one (31) days, but not more
+19 than ninety (90) days;
+20 (iv) At least ninety-one (91) days, but not more
+21 than one hundred eighty (180) days;
+22 (v) At least one hundred eighty-one (181) days, but
+23 not more than one (1) year;
+24 (vi) At least one (1) year and one (1) day, but not
+25 more than three (3) years;
+26 (vii) At least three (3) years and (1) day, but not
+27 more than six (6) years; and
+28 (viii) Six (6) years and one (1) day or more; and
+29 (F) The number of persons who are or have been sentenced
+30 to or otherwise scheduled to be in segregation for a total of:
+31 (i) Less than one (1) day but not more than fifteen
+32 (15) days;
+33 (ii) At least (16) days, but not more than thirty
+34 (30) days;
+35 (iii) At least thirty-one (31) days, but not more
+36 than ninety (90) days;
+3 03/13/2025 8:34:49 PM CEB157
+SB461
+1 (iv) At least ninety-one (91) days, but not more
+2 than one hundred eighty (180) days;
+3 (v) At least one hundred eighty-one (181) days, but
+4 not more than one (1) year;
+5 (vi) At least one (1) year and one (1) day, but not
+6 more than three (3) years;
+7 (vii) At least three (3) years and (1) day, but not
+8 more than six (6) years; and
+9 (viii) Six (6) years and one (1) day or more;
+10 (2) The number of times segregation has been used as a sanction,
+11 punishment, or disciplinary action during the prior quarter, including
+12 extensions of segregation;
+13 (3) The total number of sanctions, punishments, or disciplinary
+14 actions taken other than segregation during the prior quarter, including
+15 without limitation:
+16 (A) Loss of any privilege;
+17 (B) Loss of or reduction in classification;
+18 (C) Loss of or demotion in a job or position at the
+19 division; and
+20 (D) Restitution;
+21 (4) The number of persons disciplined with, held in, or
+22 transferred to segregation during the prior quarter due to:
+23 (A) One (1) or more disciplinary infraction;
+24 (B) Administrative reasons;
+25 (C) Protective custody; or
+26 (D) Other reasons to be listed in the report by type; and
+27 (5) Of the persons disciplined with, held in, or transferred to
+28 segregation during the prior quarter due to one (1) or more disciplinary
+29 infraction as described in subdivision (b)(4)(A) of this section, the type of
+30 disciplinary infraction, including without limitation:
+31 (A) Violence to self;
+32 (B) Violence to another;
+33 (C) Possession of drug-related contraband;
+34 (D) Masturbation or indecent exposure;
+35 (E) Sex with another person;
+36 (F) Failure to obey an order of a staff member;
+4 03/13/2025 8:34:49 PM CEB157
+SB461
+1 (G) Refusing a direct verbal order;
+2 (H) Threating another verbally or in writing;
+3 (I) Insolence to a staff member;
+4 (J) Battery or use of force on an inmate;
+5 (K) Creating unnecessary noise;
+6 (L) Out of place of assignment;
+7 (M) Refusal to submit to testing;
+8 (N) Possession or use of controlled substances, alcohol,
+9 or chemicals;
+10 (O) Unauthorized use of state property;
+11 (P) Failure to keep himself or herself or his or her
+12 quarters within regulation;
+13 (Q) Possession, introduction, or use of a cell phone;
+14 (R) Possession or introduction of fireworks;
+15 (S) Unexcused absence from a work or learning assignment;
+16 (T) Banding together or demonstration;
+17 (U) Provoking or agitating a fight;
+18 (V) Possession or introduction of unauthorized clothing;
+19 (W) Lying to a staff member;
+20 (X) Destruction of property;
+21 (Y) Battery or use of force on staff;
+22 (Z) Throwing or ejecting of bodily fluids or excrement;
+23 (AA) Purchase of unauthorized articles; or
+24 (BB) Other disciplinary infractions not listed under this
+25 subdivision (b)(5), broken down by type of disciplinary infraction.
+26
+27 SECTION 3. DO NOT CODIFY. Temporary Language.
+28 The initial report required under § 12-25-102 shall be completed by
+29 October 1, 2025.
+30
+31
+32
+33
+34
+35
+36
+5 03/13/2025 8:34:49 PM CEB157
+[DELETED:       A C O  T S A  B   S f C P G   S a  1  (   ( o    ( p    ( p]
+[DELETED: S2 0    ( i    ( c    ( s   ( d D J    ( s    (    (    (    (    (   ( a  ( a t   ( t i    (    (    (     (     ( y     (     (     ( p     (]
+[DELETED: S3 0 d     ( o    (     (     ( s     ( s     ( d    ( h     ( (     ( (     ( t     ( t     ( n     ( m     ( m     (    ( t     ( (     ( (     ( t]
+[DELETED: S4 0     ( t     ( n     ( m     ( m     (   ( p e   ( a w    (    (    ( d    (   ( t    (    (    (    (   ( s i d    (    (    (    (    (    (]
+[DELETED: S5 0    (    (    (    (    (    (    (    ( o    (    ( q    (    (    (    (    (    (    (    (    (    (    (    ( s   S  T O       ]
+
+
+================================================================================
+
+Raw Text:
+Stricken language would be deleted from and underlined language would be added to present law.
+1 State of Arkansas
+A Bill
+2 95th General Assembly
+3 Regular Session, 2025 SENATE BILL 461
+4
+5 By: Senator J. Scott
+6
+7
+For An Act To Be Entitled
+8
+9 AN ACT TO COLLECT DATA REGARDING THE USE OF SOLITARY
+10 CONFINEMENT IN ARKANSAS PRISONS AND JAILS; AND FOR
+11 OTHER PURPOSES.
+12
+13
+Subtitle
+14
+15 TO COLLECT DATA REGARDING THE USE OF
+16 SOLITARY CONFINEMENT IN ARKANSAS PRISONS
+17 AND JAILS.
+18
+19 BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF ARKANSAS:
+20
+21 SECTION 1. Arkansas Code Title 12, Chapter 25, is amended to read as
+22 follows:
+23 Chapter 25
+24 Public Hearing Prior to Location of Community-Based Residential Facilities
+25 General Provisions
+26
+27 SECTION 2. Arkansas Code Title 12, Chapter 25, is amended to add an
+28 additional section to read as follows:
+29 12-25-102. Punitive segregation report — Definitions.
+30 (a) As used in this chapter:
+31 (1) “Segregation” means any type of detention, whether voluntary
+32 or involuntary, that involves:
+33 (A) The removal of a person from the general inmate
+34 population;
+35 (B) A restriction of access to a program or service
+36 provided by the correctional facility;
+*CEB157*
+03/13/2025 8:34:49 PM CEB157
+
+SB461
+1 (C) A restriction or prohibition of interaction with other
+2 incarcerated people;
+3 (D) A loss of out-of-cell time or other condition of
+4 confinement; or
+5 (E) Involves being placed in a locked room or cell for
+6 seventeen (17) hours or more in a twenty-four (24) hour period;
+7 (2) "Serious mental illness" means one of the following
+8 disorders as classified in the American Psychiatric Association's
+9 Diagnostic and Statistical Manual of Mental Disorders as it existed on
+10 January 1, 2025:
+11 (A) A disorder categorized under the schizophrenia
+12 spectrum and other psychotic disorders;
+13 (B) Bipolar disorder;
+14 (C) Major depressive disorder;
+15 (D) Delusional disorder;
+16 (E) Post-traumatic stress disorder; and
+17 (F) Traumatic brain injury; and
+18 (3) "Suicide" means the act of taking one's own life voluntarily
+19 and intentionally.
+20 (b) The Department of Corrections, the Division of Youth Services, and
+21 all local and regional detention facilities shall submit a quarterly report
+22 to the Legislative Council that includes:
+23 (1) The number of persons disciplined with, held in, or
+24 transferred to segregation during the prior quarter, including the following
+25 information concerning those persons:
+26 (A) Racial composition;
+27 (B) Gender;
+28 (C) The number of persons:
+29 (i) That are in protective custody;
+30 (ii) Who are twenty-one (21) years of age or
+31 younger;
+32 (iii) Who are fifty-five (55) years of age or older;
+33 (iv) With a serious mental illness;
+34 (v) That are pregnant or were pregnant within the
+35 previous twelve (12) weeks;
+36 (vi) With a disability, broken down by type of
+2 03/13/2025 8:34:49 PM CEB157
+
+SB461
+1 disability; and
+2 (vii) With a medical condition, categorized by type
+3 of condition;
+4 (D) The number of:
+5 (i) Suicides;
+6 (ii) Attempted suicides by persons housed in
+7 segregation;
+8 (iii) Incidents of self-harm by persons housed in
+9 segregation; and
+10 (iv) Persons who died while in segregation, broken
+11 down by cause of death;
+12 (E) The number of persons in segregation currently who
+13 have already been in segregation for:
+14 (i) Less than one (1) day but not more than fifteen
+15 (15) days;
+16 (ii) At least (16) days, but not more than thirty
+17 (30) days;
+18 (iii) At least thirty-one (31) days, but not more
+19 than ninety (90) days;
+20 (iv) At least ninety-one (91) days, but not more
+21 than one hundred eighty (180) days;
+22 (v) At least one hundred eighty-one (181) days, but
+23 not more than one (1) year;
+24 (vi) At least one (1) year and one (1) day, but not
+25 more than three (3) years;
+26 (vii) At least three (3) years and (1) day, but not
+27 more than six (6) years; and
+28 (viii) Six (6) years and one (1) day or more; and
+29 (F) The number of persons who are or have been sentenced
+30 to or otherwise scheduled to be in segregation for a total of:
+31 (i) Less than one (1) day but not more than fifteen
+32 (15) days;
+33 (ii) At least (16) days, but not more than thirty
+34 (30) days;
+35 (iii) At least thirty-one (31) days, but not more
+36 than ninety (90) days;
+3 03/13/2025 8:34:49 PM CEB157
+
+SB461
+1 (iv) At least ninety-one (91) days, but not more
+2 than one hundred eighty (180) days;
+3 (v) At least one hundred eighty-one (181) days, but
+4 not more than one (1) year;
+5 (vi) At least one (1) year and one (1) day, but not
+6 more than three (3) years;
+7 (vii) At least three (3) years and (1) day, but not
+8 more than six (6) years; and
+9 (viii) Six (6) years and one (1) day or more;
+10 (2) The number of times segregation has been used as a sanction,
+11 punishment, or disciplinary action during the prior quarter, including
+12 extensions of segregation;
+13 (3) The total number of sanctions, punishments, or disciplinary
+14 actions taken other than segregation during the prior quarter, including
+15 without limitation:
+16 (A) Loss of any privilege;
+17 (B) Loss of or reduction in classification;
+18 (C) Loss of or demotion in a job or position at the
+19 division; and
+20 (D) Restitution;
+21 (4) The number of persons disciplined with, held in, or
+22 transferred to segregation during the prior quarter due to:
+23 (A) One (1) or more disciplinary infraction;
+24 (B) Administrative reasons;
+25 (C) Protective custody; or
+26 (D) Other reasons to be listed in the report by type; and
+27 (5) Of the persons disciplined with, held in, or transferred to
+28 segregation during the prior quarter due to one (1) or more disciplinary
+29 infraction as described in subdivision (b)(4)(A) of this section, the type of
+30 disciplinary infraction, including without limitation:
+31 (A) Violence to self;
+32 (B) Violence to another;
+33 (C) Possession of drug-related contraband;
+34 (D) Masturbation or indecent exposure;
+35 (E) Sex with another person;
+36 (F) Failure to obey an order of a staff member;
+4 03/13/2025 8:34:49 PM CEB157
+
+SB461
+1 (G) Refusing a direct verbal order;
+2 (H) Threating another verbally or in writing;
+3 (I) Insolence to a staff member;
+4 (J) Battery or use of force on an inmate;
+5 (K) Creating unnecessary noise;
+6 (L) Out of place of assignment;
+7 (M) Refusal to submit to testing;
+8 (N) Possession or use of controlled substances, alcohol,
+9 or chemicals;
+10 (O) Unauthorized use of state property;
+11 (P) Failure to keep himself or herself or his or her
+12 quarters within regulation;
+13 (Q) Possession, introduction, or use of a cell phone;
+14 (R) Possession or introduction of fireworks;
+15 (S) Unexcused absence from a work or learning assignment;
+16 (T) Banding together or demonstration;
+17 (U) Provoking or agitating a fight;
+18 (V) Possession or introduction of unauthorized clothing;
+19 (W) Lying to a staff member;
+20 (X) Destruction of property;
+21 (Y) Battery or use of force on staff;
+22 (Z) Throwing or ejecting of bodily fluids or excrement;
+23 (AA) Purchase of unauthorized articles; or
+24 (BB) Other disciplinary infractions not listed under this
+25 subdivision (b)(5), broken down by type of disciplinary infraction.
+26
+27 SECTION 3. DO NOT CODIFY. Temporary Language.
+28 The initial report required under § 12-25-102 shall be completed by
+29 October 1, 2025.
+30
+31
+32
+33
+34
+35
+36
+5 03/13/2025 8:34:49 PM CEB157
+
+[DELETED:       A C O  T S A  B   S f C P G   S a  1  (   ( o    ( p    ( p]
+[DELETED: S2 0    ( i    ( c    ( s   ( d D J    ( s    (    (    (    (    (   ( a  ( a t   ( t i    (    (    (     (     ( y     (     (     ( p     (]
+[DELETED: S3 0 d     ( o    (     (     ( s     ( s     ( d    ( h     ( (     ( (     ( t     ( t     ( n     ( m     ( m     (    ( t     ( (     ( (     ( t]
+[DELETED: S4 0     ( t     ( n     ( m     ( m     (   ( p e   ( a w    (    (    ( d    (   ( t    (    (    (    (   ( s i d    (    (    (    (    (    (]
+[DELETED: S5 0    (    (    (    (    (    (    (    ( o    (    ( q    (    (    (    (    (    (    (    (    (    (    (    ( s   S  T O       ]

@@ -1,0 +1,180 @@
+Title: Stricken language would be deleted from and underlined language would be added to present law.
+Official Title: Stricken language would be deleted from and underlined language would be added to present law.
+Number of Sections: 1
+Source: versions - HB 1915
+Media Type: application/pdf
+Strikethrough Detection: 2 sections found
+
+================================================================================
+
+Section 1:
+1 State of Arkansas
+A Bill
+2 95th General Assembly
+3 Regular Session, 2025 HOUSE BILL 1915
+4
+5 By: Representative Eubanks
+6 By: Senator J. Dismang
+7
+For An Act To Be Entitled
+8
+9 AN ACT TO AMEND THE LAW REGARDING THE SUPPLEMENTAL
+10 NUTRITION ASSISTANCE PROGRAM; TO DIRECT THE
+11 DEPARTMENT OF HUMAN SERVICES TO REQUEST A BROAD-BASED
+12 CATEGORICAL ELIGIBILITY WAIVER; TO AMEND THE ASSET
+13 LIMITS FOR THE SUPPLEMENTAL NUTRITION ASSISTANCE
+14 PROGRAM; TO ALLOW FOR AN AUTOMATIC ADJUSTMENT TO THE
+15 ASSET LIMIT BASED UPON INFLATION; AND FOR OTHER
+16 PURPOSES.
+17
+18
+Subtitle
+19
+20 TO DIRECT THE DEPARTMENT OF HUMAN
+21 SERVICES TO REQUEST A BROAD-BASED
+22 CATEGORICAL ELIGIBILITY WAIVER FOR THE
+23 SUPPLEMENTAL NUTRITION ASSISTANCE
+24 PROGRAM; AND TO AMEND THE ASSET LIMITS
+25 UNDER THE PROGRAM.
+26
+27 BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF ARKANSAS:
+28
+29 SECTION 1. Arkansas Code § 20-76-115 is amended to read as follows:
+30 20-76-115. Resource limits for Supplemental Nutrition Assistance
+31 Program — Resource limit Broad-based categorical eligibility waiver.
+32 (a) Unless required by federal law, the Department of Human Services
+33 shall not:
+34 (1) Apply gross income standards for food assistance higher than
+35 the standards specified in 7 U.S.C. § 2014(c); or
+36 (2) Grant categorical eligibility that exempts households from
+*CRH305*
+03/31/2025 10:27:28 AM CRH305
+HB1915
+1 the gross income standard under subdivision (a)(1) of this section for any
+2 noncash, in-kind, or other benefit unless under a broad-based categorical
+3 eligibility waiver is obtained under subsection (b) of this section.
+4 (b)(1)(A) The Department of Human Services shall request a broad-based
+5 categorical eligibility waiver from the United States Department of
+6 Agriculture to exempt Supplemental Nutrition Assistance Program applicants
+7 and enrollees from the federal resource limit, subject to the asset limits
+8 under subdivision (b)(2) of this section.
+9 (B) The Department of Human Services may request a broad-
+10 based categorical eligibility waiver from the United States Department of
+11 Agriculture if a waiver is necessary to implement the asset limits under
+12 subdivision (b)(2) of this section.
+13 (2)(c)(1) Upon the Department of Human Services obtaining the
+14 broad-based categorical eligibility waiver requested under subdivision (b)(1)
+15 of this section:,
+16 (A) The the asset limit under the Supplemental Nutrition
+17 Assistance Program shall be equal to the federal resource limit; six thousand
+18 dollars ($6,000).
+19 (2) The asset limit under subdivision (c)(1) of this section
+20 shall be automatically adjusted for inflation on a biennial basis.
+21 (B)(i) If an enrolled household is determined by the
+22 Department of Human Services to have accumulated countable assets greater
+23 than the federal resource limit, the Department of Human Services shall grant
+24 a temporary increase of the asset limit for that household to an amount set
+25 by the Department of Human Services by rule for a period of up to one (1)
+26 year.
+27 (ii) The Department of Human Services shall set the
+28 temporary asset limit at five thousand five hundred dollars ($5,500) and may
+29 seek waiver approval from the United States Department of Agriculture to
+30 modify that amount to correspond with future changes in the federal resource
+31 limit; and
+32 (C) An enrolled household may receive a temporary increase
+33 of the asset limit no more than one (1) time every five (5) years.
+34
+35
+36
+2 03/31/2025 10:27:28 AM CRH305
+[DELETED:       A N D C L P A P  T S C S P U  B   S  2 P  ( s   ( t   (]
+[DELETED: H2 0 t n e  ( c A a u    ( b A s   ( b o    ( A d   ( s    ( D t a b y     ( t s m l    ( o]
+
+
+================================================================================
+
+Raw Text:
+Stricken language would be deleted from and underlined language would be added to present law.
+1 State of Arkansas
+A Bill
+2 95th General Assembly
+3 Regular Session, 2025 HOUSE BILL 1915
+4
+5 By: Representative Eubanks
+6 By: Senator J. Dismang
+7
+For An Act To Be Entitled
+8
+9 AN ACT TO AMEND THE LAW REGARDING THE SUPPLEMENTAL
+10 NUTRITION ASSISTANCE PROGRAM; TO DIRECT THE
+11 DEPARTMENT OF HUMAN SERVICES TO REQUEST A BROAD-BASED
+12 CATEGORICAL ELIGIBILITY WAIVER; TO AMEND THE ASSET
+13 LIMITS FOR THE SUPPLEMENTAL NUTRITION ASSISTANCE
+14 PROGRAM; TO ALLOW FOR AN AUTOMATIC ADJUSTMENT TO THE
+15 ASSET LIMIT BASED UPON INFLATION; AND FOR OTHER
+16 PURPOSES.
+17
+18
+Subtitle
+19
+20 TO DIRECT THE DEPARTMENT OF HUMAN
+21 SERVICES TO REQUEST A BROAD-BASED
+22 CATEGORICAL ELIGIBILITY WAIVER FOR THE
+23 SUPPLEMENTAL NUTRITION ASSISTANCE
+24 PROGRAM; AND TO AMEND THE ASSET LIMITS
+25 UNDER THE PROGRAM.
+26
+27 BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF ARKANSAS:
+28
+29 SECTION 1. Arkansas Code § 20-76-115 is amended to read as follows:
+30 20-76-115. Resource limits for Supplemental Nutrition Assistance
+31 Program — Resource limit Broad-based categorical eligibility waiver.
+32 (a) Unless required by federal law, the Department of Human Services
+33 shall not:
+34 (1) Apply gross income standards for food assistance higher than
+35 the standards specified in 7 U.S.C. § 2014(c); or
+36 (2) Grant categorical eligibility that exempts households from
+*CRH305*
+03/31/2025 10:27:28 AM CRH305
+
+HB1915
+1 the gross income standard under subdivision (a)(1) of this section for any
+2 noncash, in-kind, or other benefit unless under a broad-based categorical
+3 eligibility waiver is obtained under subsection (b) of this section.
+4 (b)(1)(A) The Department of Human Services shall request a broad-based
+5 categorical eligibility waiver from the United States Department of
+6 Agriculture to exempt Supplemental Nutrition Assistance Program applicants
+7 and enrollees from the federal resource limit, subject to the asset limits
+8 under subdivision (b)(2) of this section.
+9 (B) The Department of Human Services may request a broad-
+10 based categorical eligibility waiver from the United States Department of
+11 Agriculture if a waiver is necessary to implement the asset limits under
+12 subdivision (b)(2) of this section.
+13 (2)(c)(1) Upon the Department of Human Services obtaining the
+14 broad-based categorical eligibility waiver requested under subdivision (b)(1)
+15 of this section:,
+16 (A) The the asset limit under the Supplemental Nutrition
+17 Assistance Program shall be equal to the federal resource limit; six thousand
+18 dollars ($6,000).
+19 (2) The asset limit under subdivision (c)(1) of this section
+20 shall be automatically adjusted for inflation on a biennial basis.
+21 (B)(i) If an enrolled household is determined by the
+22 Department of Human Services to have accumulated countable assets greater
+23 than the federal resource limit, the Department of Human Services shall grant
+24 a temporary increase of the asset limit for that household to an amount set
+25 by the Department of Human Services by rule for a period of up to one (1)
+26 year.
+27 (ii) The Department of Human Services shall set the
+28 temporary asset limit at five thousand five hundred dollars ($5,500) and may
+29 seek waiver approval from the United States Department of Agriculture to
+30 modify that amount to correspond with future changes in the federal resource
+31 limit; and
+32 (C) An enrolled household may receive a temporary increase
+33 of the asset limit no more than one (1) time every five (5) years.
+34
+35
+36
+2 03/31/2025 10:27:28 AM CRH305
+
+[DELETED:       A N D C L P A P  T S C S P U  B   S  2 P  ( s   ( t   (]
+[DELETED: H2 0 t n e  ( c A a u    ( b A s   ( b o    ( A d   ( s    ( D t a b y     ( t s m l    ( o]

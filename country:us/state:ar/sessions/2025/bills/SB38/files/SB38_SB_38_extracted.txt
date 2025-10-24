@@ -1,0 +1,2155 @@
+Title: Stricken language would be deleted from and underlined language would be added to present law.
+Official Title: Stricken language would be deleted from and underlined language would be added to present law.
+Number of Sections: 1
+Source: versions - SB 38
+Media Type: application/pdf
+Strikethrough Detection: 27 sections found
+
+================================================================================
+
+Section 1:
+1 State of Arkansas As Engrossed: S3/10/25
+A Bill
+2 95th General Assembly
+3 Regular Session, 2025 SENATE BILL 38
+4
+5 By: Joint Budget Committee
+6
+7
+For An Act To Be Entitled
+8
+9 AN ACT TO MAKE AN APPROPRIATION FOR PERSONAL SERVICES
+10 AND OPERATING EXPENSES FOR THE DEPARTMENT OF HEALTH -
+11 LICENSING AND REGULATION BOARDS FOR THE FISCAL YEAR
+12 ENDING JUNE 30, 2026; AND FOR OTHER PURPOSES.
+13
+14
+Subtitle
+15
+16 AN ACT FOR THE DEPARTMENT OF HEALTH -
+17 LICENSING AND REGULATION BOARDS
+18 APPROPRIATION FOR THE 2025-2026 FISCAL
+19 YEAR.
+20
+21
+22 BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF ARKANSAS:
+23
+24 SECTION 1. APPROPRIATION - OPERATIONS - ARKANSAS STATE BOARD OF
+25 ACUPUNCTURE AND RELATED TECHNIQUES. There is hereby appropriated, to the
+26 Department of Health, to be payable from the cash fund deposited in the State
+27 Treasury as determined by the Chief Fiscal Officer of the State, for
+28 operating expenses of the Department of Health - Arkansas State Board of
+29 Acupuncture and Related Techniques for the fiscal year ending June 30, 2026,
+30 the following:
+31
+32 ITEM FISCAL YEAR
+33 NO. 2025-2026
+34 (01) MAINT. & GEN. OPERATION
+35 (A) OPER. EXPENSE $2,999
+36 (B) CONF. & TRAVEL 0
+*MAH017*
+03-10-2025 15:55:41 MAH017
+As Engrossed: S3/10/25 SB38
+1 (C) PROF. FEES 8,001
+2 (D) CAP. OUTLAY 0
+3 (E) DATA PROC. 0
+4 TOTAL AMOUNT APPROPRIATED $11,000
+5
+6 SECTION 2. APPROPRIATION - OPERATIONS - STATE BOARD OF EXAMINERS OF
+7 ALCOHOLISM AND DRUG ABUSE COUNSELORS. There is hereby appropriated, to the
+8 Department of Health, to be payable from the cash fund deposited in the State
+9 Treasury as determined by the Chief Fiscal Officer of the State, for personal
+10 services and operating expenses of the Department of Health - State Board of
+11 Examiners of Alcoholism and Drug Abuse Counselors for the fiscal year ending
+12 June 30, 2026, the following:
+13
+14 ITEM FISCAL YEAR
+15 NO. 2025-2026
+16 (01) REGULAR SALARIES $7,400
+17 (02) PERSONAL SERVICES MATCHING 566
+18 (03) MAINT. & GEN. OPERATION
+19 (A) OPER. EXPENSE 10,000
+20 (B) CONF. & TRAVEL 0
+21 (C) PROF. FEES 14,000
+22 (D) CAP. OUTLAY 0
+23 (E) DATA PROC. 0
+24 TOTAL AMOUNT APPROPRIATED $31,966
+25
+26 SECTION 3. APPROPRIATION - OPERATIONS - ARKANSAS STATE BOARD OF
+27 ATHLETIC TRAINING. There is hereby appropriated, to the Department of
+28 Health, to be payable from the cash fund deposited in the State Treasury as
+29 determined by the Chief Fiscal Officer of the State, for personal services
+30 and operating expenses of the Department of Health - Arkansas State Board of
+31 Athletic Training for the fiscal year ending June 30, 2026, the following:
+32
+33 ITEM FISCAL YEAR
+34 NO. 2025-2026
+35 (01) REGULAR SALARIES $480
+36 (02) PERSONAL SERVICES MATCHING 37
+2 03-10-2025 15:55:41 MAH017
+As Engrossed: S3/10/25 SB38
+1 (03) MAINT. & GEN. OPERATION
+2 (A) OPER. EXPENSE 20,000
+3 (B) CONF. & TRAVEL 0
+4 (C) PROF. FEES 0
+5 (D) CAP. OUTLAY 0
+6 (E) DATA PROC. 0
+7 TOTAL AMOUNT APPROPRIATED $20,517
+8
+9 SECTION 4. REGULAR SALARIES - OPERATIONS - ARKANSAS STATE BOARD OF
+10 CHIROPRACTIC EXAMINERS. There is hereby established for the Department of
+11 Health - Arkansas State Board of Chiropractic Examiners for the 2025-2026
+12 fiscal year, the following maximum number of regular employees.
+13
+14 Maximum Annual
+15 Maximum Salary Rate
+16 Item Class No. of Fiscal Year
+17 No. Code Title Employees 2025-2026
+18 (1) L091C ADH PUBLIC HEALTH SECTION CHIEF I 1 GRADE GS08
+19 (2) C037C ADMINISTRATIVE ANALYST 1 GRADE GS06
+20 MAX. NO. OF EMPLOYEES 2
+21
+22 SECTION 5. APPROPRIATION - OPERATIONS - ARKANSAS STATE BOARD OF
+23 CHIROPRACTIC EXAMINERS. There is hereby appropriated, to the Department of
+24 Health, to be payable from the cash fund deposited in the State Treasury as
+25 determined by the Chief Fiscal Officer of the State, for personal services
+26 and operating expenses of the Department of Health - Arkansas State Board of
+27 Chiropractic Examiners for the fiscal year ending June 30, 2026, the
+28 following:
+29
+30 ITEM FISCAL YEAR
+31 NO. 2025-2026
+32 (01) REGULAR SALARIES $91,815
+33 (02) PERSONAL SERVICES MATCHING 35,643
+34 (03) MAINT. & GEN. OPERATION
+35 (A) OPER. EXPENSE 60,000
+36 (B) CONF. & TRAVEL 2,500
+3 03-10-2025 15:55:41 MAH017
+As Engrossed: S3/10/25 SB38
+1 (C) PROF. FEES 12,672
+2 (D) CAP. OUTLAY 0
+3 (E) DATA PROC. 0
+4 TOTAL AMOUNT APPROPRIATED $202,630
+5
+6 SECTION 6. REGULAR SALARIES - OPERATIONS - ARKANSAS BOARD OF EXAMINERS
+7 IN COUNSELING. There is hereby established for the Department of Health -
+8 Arkansas Board of Examiners in Counseling for the 2025-2026 fiscal year, the
+9 following maximum number of regular employees.
+10
+11 Maximum Annual
+12 Maximum Salary Rate
+13 Item Class No. of Fiscal Year
+14 No. Code Title Employees 2025-2026
+15 (1) N176N ADH EXEC DIR COUNSELING BD 1 GRADE GS11
+16 (2) C056C ADMINISTRATIVE SPECIALIST III 2 GRADE GS04
+17 (3) A098C FISCAL SUPPORT SPECIALIST 1 GRADE GS04
+18 MAX. NO. OF EMPLOYEES 4
+19
+20 SECTION 7. EXTRA HELP - ARKANSAS BOARD OF EXAMINERS IN COUNSLING.
+21 There is hereby authorized, for the Department of Health - Arkansas Board of
+22 Examiners in Counseling for the 2025-2026 fiscal year, the following maximum
+23 number of part-time or temporary employees, to be known as "Extra Help",
+24 payable from funds appropriated herein for such purposes: two (2) temporary
+25 or part-time employees, when needed, at rates of pay not to exceed those
+26 provided in the Uniform Classification and Compensation Act, or its
+27 successor, or this act for the appropriate classification.
+28
+29 SECTION 8. APPROPRIATION - OPERATIONS - ARKANSAS BOARD OF EXAMINERS IN
+30 COUNSELING. There is hereby appropriated, to the Department of Health, to be
+31 payable from the cash fund deposited in the State Treasury as determined by
+32 the Chief Fiscal Officer of the State, for personal services and operating
+33 expenses of the Department of Health - Arkansas Board of Examiners in
+34 Counseling for the fiscal year ending June 30, 2026, the following:
+35
+36 ITEM FISCAL YEAR
+4 03-10-2025 15:55:41 MAH017
+As Engrossed: S3/10/25 SB38
+1 NO. 2025-2026
+2 (01) REGULAR SALARIES $225,143
+3 (02) EXTRA HELP 4,000
+4 (03) PERSONAL SERVICES MATCHING 84,472
+5 (04) OVERTIME 12,000
+6 (05) MAINT. & GEN. OPERATION
+7 (A) OPER. EXPENSE 113,800
+8 (B) CONF. & TRAVEL 4,000
+9 (C) PROF. FEES 11,000
+10 (D) CAP. OUTLAY 0
+11 (E) DATA PROC. 0
+12 TOTAL AMOUNT APPROPRIATED $454,415
+13
+14 SECTION 9. REGULAR SALARIES - OPERATIONS - ARKANSAS STATE BOARD OF
+15 DENTAL EXAMINERS. There is hereby established for the Department of Health -
+16 Arkansas State Board of Dental Examiners for the 2025-2026 fiscal year, the
+17 following maximum number of regular employees.
+18
+19 Maximum Annual
+20 Maximum Salary Rate
+21 Item Class No. of Fiscal Year
+22 No. Code Title Employees 2025-2026
+23 (1) X027C ADH DENTAL EXAMINERS BD EXEC DIR 1 GRADE GS10
+24 (2) C037C ADMINISTRATIVE ANALYST 1 GRADE GS06
+25 MAX. NO. OF EMPLOYEES 2
+26
+27 SECTION 10. APPROPRIATION - OPERATIONS - ARKANSAS STATE BOARD OF DENTAL
+28 EXAMINERS. There is hereby appropriated, to the Department of Health, to be
+29 payable from the cash fund deposited in the State Treasury as determined by
+30 the Chief Fiscal Officer of the State, for personal services and operating
+31 expenses of the Department of Health - Arkansas State Board of Dental
+32 Examiners for the fiscal year ending June 30, 2026, the following:
+33
+34 ITEM FISCAL YEAR
+35 NO. 2025-2026
+36 (01) REGULAR SALARIES $155,097
+5 03-10-2025 15:55:41 MAH017
+As Engrossed: S3/10/25 SB38
+1 (02) PERSONAL SERVICES MATCHING 48,708
+2 (03) MAINT. & GEN. OPERATION
+3 (A) OPER. EXPENSE 119,637
+4 (B) CONF. & TRAVEL 7,166
+5 (C) PROF. FEES 42,126
+6 (D) CAP. OUTLAY 0
+7 (E) DATA PROC. 0
+8 TOTAL AMOUNT APPROPRIATED $372,734
+9
+10 SECTION 11. REGULAR SALARIES - OPERATIONS - ARKANSAS DIETETICS
+11 LICENSING BOARD. There is hereby established for the Department of Health -
+12 Arkansas Dietetics Licensing Board for the 2025-2026 fiscal year, the
+13 following maximum number of regular employees.
+14
+15 Maximum Annual
+16 Maximum Salary Rate
+17 Item Class No. of Fiscal Year
+18 No. Code Title Employees 2025-2026
+19 (1) L091C ADH PUBLIC HEALTH SECTION CHIEF I 1 GRADE GS08
+20 MAX. NO. OF EMPLOYEES 1
+21
+22 SECTION 12. APPROPRIATION - OPERATIONS - ARKANSAS DIETETICS LICENSING
+23 BOARD. There is hereby appropriated, to the Department of Health, to be
+24 payable from the cash fund deposited in the State Treasury as determined by
+25 the Chief Fiscal Officer of the State, for personal services and operating
+26 expenses of the Department of Health - Arkansas Dietetics Licensing Board for
+27 the fiscal year ending June 30, 2026, the following:
+28
+29 ITEM FISCAL YEAR
+30 NO. 2025-2026
+31 (01) REGULAR SALARIES $47,260
+32 (02) PERSONAL SERVICES MATCHING 18,775
+33 (03) MAINT. & GEN. OPERATION
+34 (A) OPER. EXPENSE 5,000
+35 (B) CONF. & TRAVEL 0
+36 (C) PROF. FEES 0
+6 03-10-2025 15:55:41 MAH017
+As Engrossed: S3/10/25 SB38
+1 (D) CAP. OUTLAY 0
+2 (E) DATA PROC. 0
+3 TOTAL AMOUNT APPROPRIATED $71,035
+4
+5 SECTION 13. REGULAR SALARIES - OPERATIONS - ARKANSAS BOARD OF
+6 DISPENSING OPTICIANS. There is hereby established for the Department of
+7 Health - Arkansas Board of Dispensing Opticians for the 2025-2026 fiscal
+8 year, the following maximum number of regular employees.
+9
+10 Maximum Annual
+11 Maximum Salary Rate
+12 Item Class No. of Fiscal Year
+13 No. Code Title Employees 2025-2026
+14 (1) L091C ADH PUBLIC HEALTH SECTION CHIEF I 1 GRADE GS08
+15 MAX. NO. OF EMPLOYEES 1
+16
+17 SECTION 14. EXTRA HELP - ARKANSAS BOARD OF DISPENSING OPTICIANS. There
+18 is hereby authorized, for the Department of Health - Arkansas Board of
+19 Dispensing Opticians for the 2025-2026 fiscal year, the following maximum
+20 number of part-time or temporary employees, to be known as "Extra Help",
+21 payable from funds appropriated herein for such purposes: one (1) temporary
+22 or part-time employees, when needed, at rates of pay not to exceed those
+23 provided in the Uniform Classification and Compensation Act, or its
+24 successor, or this act for the appropriate classification.
+25
+26 SECTION 15. APPROPRIATION - OPERATIONS - ARKANSAS BOARD OF DISPENSING
+27 OPTICIANS. There is hereby appropriated, to the Department of Health, to be
+28 payable from the Board of Dispensing Opticians' Fund, for personal services
+29 and operating expenses of the Department of Health - Arkansas Board of
+30 Dispensing Opticians for the fiscal year ending June 30, 2026, the following:
+31
+32 ITEM FISCAL YEAR
+33 NO. 2025-2026
+34 (01) REGULAR SALARIES $49,750
+35 (02) EXTRA HELP 1,200
+36 (03) PERSONAL SERVICES MATCHING 18,943
+7 03-10-2025 15:55:41 MAH017
+As Engrossed: S3/10/25 SB38
+1 (04) MAINT. & GEN. OPERATION
+2 (A) OPER. EXPENSE 23,900
+3 (B) CONF. & TRAVEL 0
+4 (C) PROF. FEES 0
+5 (D) CAP. OUTLAY 0
+6 (E) DATA PROC. 0
+7 (05) REFUNDS/REIMBURSEMENTS 200
+8 TOTAL AMOUNT APPROPRIATED $93,993
+9
+10 SECTION 16. EXTRA HELP - ARKANSAS BOARD OF HEARING INSTRUMENT
+11 DISPENSERS. There is hereby authorized, for the Department of Health -
+12 Arkansas Board of Hearing Instrument Dispensers for the 2025-2026 fiscal
+13 year, the following maximum number of part-time or temporary employees, to be
+14 known as "Extra Help", payable from funds appropriated herein for such
+15 purposes: two (2) temporary or part-time employees, when needed, at rates of
+16 pay not to exceed those provided in the Uniform Classification and
+17 Compensation Act, or its successor, or this act for the appropriate
+18 classification.
+19
+20 SECTION 17. APPROPRIATION - OPERATIONS - ARKANSAS BOARD OF HEARING
+21 INSTRUMENT DISPENSERS. There is hereby appropriated, to the Department of
+22 Health, to be payable from the cash fund deposited in the State Treasury as
+23 determined by the Chief Fiscal Officer of the State, for personal services
+24 and operating expenses of the Department of Health - Arkansas Board of
+25 Hearing Instrument Dispensers for the fiscal year ending June 30, 2026, the
+26 following:
+27
+28 ITEM FISCAL YEAR
+29 NO. 2025-2026
+30 (01) EXTRA HELP $30,200
+31 (02) PERSONAL SERVICES MATCHING 2,328
+32 (03) MAINT. & GEN. OPERATION
+33 (A) OPER. EXPENSE 17,800
+34 (B) CONF. & TRAVEL 0
+35 (C) PROF. FEES 350
+36 (D) CAP. OUTLAY 0
+8 03-10-2025 15:55:41 MAH017
+As Engrossed: S3/10/25 SB38
+1 (E) DATA PROC. 0
+2 TOTAL AMOUNT APPROPRIATED $50,678
+3
+4 SECTION 18. REGULAR SALARIES - OPERATIONS - ARKANSAS STATE MEDICAL
+5 BOARD. There is hereby established for the Department of Health - Arkansas
+6 State Medical Board for the 2025-2026 fiscal year, the following maximum
+7 number of regular employees.
+8
+9 Maximum Annual
+10 Maximum Salary Rate
+11 Item Class No. of Fiscal Year
+12 No. Code Title Employees 2025-2026
+13 (1) U134U ADH EXEC DIR AR STATE MEDICAL BD 1 GRADE SE01
+14 (2) D030C INFORMATION SYSTEMS COORDINATOR 1 GRADE IT07
+15 (3) D065C NETWORK SUPPORT ANALYST 1 GRADE IT04
+16 (4) D064C WEBSITE DEVELOPER 2 GRADE IT04
+17 (5) G076C ADMINISTRATIVE SERVICES MANAGER 1 GRADE GS10
+18 (6) R019C BUDGET MANAGER 1 GRADE GS09
+19 (7) X030C REGULATORY BOARD CHIEF INVESTIGATOR 1 GRADE GS08
+20 (8) C037C ADMINISTRATIVE ANALYST 4 GRADE GS06
+21 (9) E046C TRAINING INSTRUCTOR 1 GRADE GS06
+22 (10) G187C CREDENTIALING COORDINATION SUPERVISOR 2 GRADE GS05
+23 (11) C056C ADMINISTRATIVE SPECIALIST III 1 GRADE GS04
+24 (12) A098C FISCAL SUPPORT SPECIALIST 2 GRADE GS04
+25 (13) C045C LICENSING COORDINATOR 16 GRADE GS04
+26 MAX. NO. OF EMPLOYEES 34
+27
+28 SECTION 19. EXTRA HELP - ARKANSAS STATE MEDICAL BOARD. There is hereby
+29 authorized, for the Department of Health - Arkansas State Medical Board for
+30 the 2025-2026 fiscal year, the following maximum number of part-time or
+31 temporary employees, to be known as "Extra Help", payable from funds
+32 appropriated herein for such purposes: two (2) temporary or part-time
+33 employees, when needed, at rates of pay not to exceed those provided in the
+34 Uniform Classification and Compensation Act, or its successor, or this act
+35 for the appropriate classification.
+36
+9 03-10-2025 15:55:41 MAH017
+As Engrossed: S3/10/25 SB38
+1 SECTION 20. APPROPRIATION - OPERATIONS - ARKANSAS STATE MEDICAL BOARD.
+2 There is hereby appropriated, to the Department of Health, to be payable from
+3 the cash fund deposited in the State Treasury as determined by the Chief
+4 Fiscal Officer of the State, for personal services and operating expenses of
+5 the Department of Health - Arkansas State Medical Board for the fiscal year
+6 ending June 30, 2026, the following:
+7
+8 ITEM FISCAL YEAR
+9 NO. 2025-2026
+10 (01) REGULAR SALARIES $1,493,519
+11 (02) EXTRA HELP 24,500
+12 (03) PERSONAL SERVICES MATCHING 584,328
+13 (04) MAINT. & GEN. OPERATION
+14 (A) OPER. EXPENSE 1,379,645
+15 (B) CONF. & TRAVEL 19,000
+16 (C) PROF. FEES 21,000
+17 (D) CAP. OUTLAY 0
+18 (E) DATA PROC. 0
+19 (05) REFUNDS/REIMBURSEMENTS 7,500
+20 TOTAL AMOUNT APPROPRIATED $3,529,492
+21
+22 SECTION 21. REGULAR SALARIES - OPERATIONS - ARKANSAS STATE BOARD OF
+23 NURSING. There is hereby established for the Department of Health - Arkansas
+24 State Board of Nursing for the 2025-2026 fiscal year, the following maximum
+25 number of regular employees.
+26
+27 Maximum Annual
+28 Maximum Salary Rate
+29 Item Class No. of Fiscal Year
+30 No. Code Title Employees 2025-2026
+31 (1) U096U ADH ASBN EXECUTIVE DIRECTOR 1 GRADE SE01
+32 (2) L018N NURSE PRACTITIONER 1 GRADE MP04
+33 (3) L009C NURSE MANAGER 3 GRADE MP03
+34 (4) L026C ADH NURSING PROGRAM COORD 2 GRADE MP02
+35 (5) D030C INFORMATION SYSTEMS COORDINATOR 1 GRADE IT07
+36 (6) D084C COMPUTER OPERATOR 1 GRADE IT02
+10 03-10-2025 15:55:41 MAH017
+As Engrossed: S3/10/25 SB38
+1 (7) G013N ADH ASBN GENERAL COUNSEL 1 GRADE GS12
+2 (8) G047C ATTORNEY SPECIALIST 1 GRADE GS11
+3 (9) G076C ADMINISTRATIVE SERVICES MANAGER 1 GRADE GS10
+4 (10) X030C REGULATORY BOARD CHIEF INVESTIGATOR 1 GRADE GS08
+5 (11) C010C EXECUTIVE ASSISTANT TO THE DIRECTOR 1 GRADE GS07
+6 (12) P013C PUBLIC INFORMATION COORDINATOR 1 GRADE GS07
+7 (13) C037C ADMINISTRATIVE ANALYST 1 GRADE GS06
+8 (14) C056C ADMINISTRATIVE SPECIALIST III 1 GRADE GS04
+9 (15) A098C FISCAL SUPPORT SPECIALIST 1 GRADE GS04
+10 (16) C046C LEGAL SUPPORT SPECIALIST 4 GRADE GS04
+11 (17) C045C LICENSING COORDINATOR 6 GRADE GS04
+12 (18) C073C ADMINISTRATIVE SPECIALIST II 2 GRADE GS03
+13 MAX. NO. OF EMPLOYEES 30
+14
+15 SECTION 22. EXTRA HELP - OPERATIONS - ARKANSAS STATE BOARD OF NURSING.
+16 There is hereby authorized, for the Department of Health - Arkansas State
+17 Board of Nursing for the 2025-2026 fiscal year, the following maximum number
+18 of part-time or temporary employees, to be known as "Extra Help", payable
+19 from funds appropriated herein for such purposes: one (1) temporary or part-
+20 time employees, when needed, at rates of pay not to exceed those provided in
+21 the Uniform Classification and Compensation Act, or its successor, or this
+22 act for the appropriate classification.
+23
+24 SECTION 23. APPROPRIATION - OPERATIONS - ARKANSAS STATE BOARD OF
+25 NURSING. There is hereby appropriated, to the Department of Health, to be
+26 payable from the State Board of Nursing Fund, for personal services and
+27 operating expenses of the Department of Health - Arkansas State Board of
+28 Nursing for the fiscal year ending June 30, 2026, the following:
+29
+30 ITEM FISCAL YEAR
+31 NO. 2025-2026
+32 (01) REGULAR SALARIES $1,982,888
+33 (02) EXTRA HELP 5,000
+34 (03) PERSONAL SERVICES MATCHING 689,775
+35 (04) MAINT. & GEN. OPERATION
+36 (A) OPER. EXPENSE 1,040,914
+11 03-10-2025 15:55:41 MAH017
+As Engrossed: S3/10/25 SB38
+1 (B) CONF. & TRAVEL 43,448
+2 (C) PROF. FEES 2,000
+3 (D) CAP. OUTLAY 0
+4 (E) DATA PROC. 0
+5 (05) REFUNDS/REIMBURSEMENTS 1,000
+6 TOTAL AMOUNT APPROPRIATED $3,765,025
+7
+8 SECTION 24. APPROPRIATION - ARKANSAS STATE BOARD OF NURSING - SCHOLAR
+9 LOANS. There is hereby appropriated, to the Department of Health - Arkansas
+10 State Board of Nursing, to be payable from the cash fund deposited in the
+11 State Treasury as determined by the Chief Fiscal Officer of the State, for
+12 the Nursing Student Loan Program to make student loans for the fiscal year
+13 ending June 30, 2026, the following:
+14
+15 ITEM FISCAL YEAR
+16 NO. 2025-2026
+17 (01) NURSING STUDENT LOAN PROGRAM $100,000
+18
+19 SECTION 25. APPROPRIATION - ARKANSAS STATE BOARD OF NURSING - NURSING
+20 EDUCATION WORKSHOPS. There is hereby appropriated, to the Department of
+21 Health, to be payable from the cash fund deposited in the State Treasury as
+22 determined by the Chief Fiscal Officer of the State, for operating expenses
+23 of the Department of Health - Arkansas State Board of Nursing - Nursing
+24 Education Workshops for the fiscal year ending June 30, 2026, the following:
+25
+26 ITEM FISCAL YEAR
+27 NO. 2025-2026
+28 (01) MAINT. & GEN. OPERATION
+29 (A) OPER. EXPENSE $14,325
+30 (B) CONF. & TRAVEL 0
+31 (C) PROF. FEES 2,000
+32 (D) CAP. OUTLAY 0
+33 (E) DATA PROC. 0
+34 TOTAL AMOUNT APPROPRIATED $16,325
+35
+36 SECTION 26. APPROPRIATION - ARKANSAS STATE BOARD OF NURSING - ARKANSAS
+12 03-10-2025 15:55:41 MAH017
+As Engrossed: S3/10/25 SB38
+1 CENTER FOR NURSING GRANT. There is hereby appropriated, to the Department of
+2 Health - Arkansas State Board of Nursing, to be payable from the State Board
+3 of Nursing Fund, for a grant for personal services and operating expenses for
+4 the Arkansas Center for Nursing for the fiscal year ending June 30, 2026, the
+5 following:
+6
+7 ITEM FISCAL YEAR
+8 NO. 2025-2026
+9 (01) ARKANSAS CENTER FOR NURSING GRANT $173,000
+10
+11 SECTION 27. REGULAR SALARIES - OPERATIONS - STATE BOARD OF OPTOMETRY.
+12 There is hereby established for the Department of Health - State Board of
+13 Optometry for the 2025-2026 fiscal year, the following maximum number of
+14 regular employees.
+15
+16 Maximum Annual
+17 Maximum Salary Rate
+18 Item Class No. of Fiscal Year
+19 No. Code Title Employees 2025-2026
+20 (1) L091C ADH PUBLIC HEALTH SECTION CHIEF I 1 GRADE GS08
+21 (2) A098C FISCAL SUPPORT SPECIALIST 1 GRADE GS04
+22 MAX. NO. OF EMPLOYEES 2
+23
+24 SECTION 28. APPROPRIATION - OPERATIONS - STATE BOARD OF OPTOMETRY.
+25 There is hereby appropriated, to the Department of Health, to be payable from
+26 the cash fund deposited in the State Treasury as determined by the Chief
+27 Fiscal Officer of the State, for personal services and operating expenses of
+28 the Department of Health - State Board of Optometry for the fiscal year
+29 ending June 30, 2026, the following:
+30
+31 ITEM FISCAL YEAR
+32 NO. 2025-2026
+33 (01) REGULAR SALARIES $110,887
+34 (02) PERSONAL SERVICES MATCHING 40,545
+35 (03) MAINT. & GEN. OPERATION
+36 (A) OPER. EXPENSE 32,000
+13 03-10-2025 15:55:41 MAH017
+As Engrossed: S3/10/25 SB38
+1 (B) CONF. & TRAVEL 0
+2 (C) PROF. FEES 35,000
+3 (D) CAP. OUTLAY 0
+4 (E) DATA PROC. 0
+5 TOTAL AMOUNT APPROPRIATED $218,432
+6
+7 SECTION 29. REGULAR SALARIES - OPERATIONS - ARKANSAS STATE BOARD OF
+8 PHARMACY. There is hereby established for the Department of Health -
+9 Arkansas State Board of Pharmacy for the 2025-2026 fiscal year, the following
+10 maximum number of regular employees.
+11
+12 Maximum Annual
+13 Maximum Salary Rate
+14 Item Class No. of Fiscal Year
+15 No. Code Title Employees 2025-2026
+16 (1) N001N ADH DIRECTOR OF PHARMACY BOARD 1 GRADE MP08
+17 (2) L015N ADH ASST PHARMACY DIRECTOR 1 GRADE MP07
+18 (3) L107C ADH ASBP PHARMACIST INSPECTOR 3 GRADE MP06
+19 (4) G041N ADH ASPB GENERAL COUNSEL 1 GRADE GS13
+20 (5) A023C ADH PHARMACY BOARD CHIEF FISCAL OFFICER 1 GRADE GS10
+21 (6) C037C ADMINISTRATIVE ANALYST 2 GRADE GS06
+22 (7) D087C DATABASE COORD/BUSINESS LIC. ANALYST 1 GRADE GS05
+23 MAX. NO. OF EMPLOYEES 10
+24
+25 SECTION 30. EXTRA HELP - ARKANSAS STATE BOARD OF PHARMACY. There is
+26 hereby authorized, for the Department of Health for the 2025-2026 fiscal
+27 year, the following maximum number of part-time or temporary employees, to be
+28 known as "Extra Help", payable from funds appropriated herein for such
+29 purposes: four (4) temporary or part-time employees, when needed, at rates of
+30 pay not to exceed those provided in the Uniform Classification and
+31 Compensation Act, or its successor, or this act for the appropriate
+32 classification.
+33
+34 SECTION 31. APPROPRIATION - OPERATIONS - ARKANSAS STATE BOARD OF
+35 PHARMACY. There is hereby appropriated, to the Department of Health -
+36 Arkansas State Board of Pharmacy, to be payable from the cash fund deposited
+14 03-10-2025 15:55:41 MAH017
+As Engrossed: S3/10/25 SB38
+1 in the State Treasury as determined by the Chief Fiscal Officer of the State,
+2 for personal services and operating expenses of the Department of Health -
+3 Arkansas State Board of Pharmacy for the fiscal year ending June 30, 2026,
+4 the following:
+5
+6 ITEM FISCAL YEAR
+7 NO. 2025-2026
+8 (01) REGULAR SALARIES $1,259,530
+9 (02) EXTRA HELP 30,000
+10 (03) PERSONAL SERVICES MATCHING 362,617
+11 (04) MAINT. & GEN. OPERATION
+12 (A) OPER. EXPENSE 586,985
+13 (B) CONF. & TRAVEL 29,120
+14 (C) PROF. FEES 0
+15 (D) CAP. OUTLAY 0
+16 (E) DATA PROC. 0
+17 (05) REFUNDS/REIMBURSEMENTS 3,000
+18 (06) IMPAIRED PHARMACIST PROGRAM 50,000
+19 TOTAL AMOUNT APPROPRIATED $2,321,252
+20
+21 SECTION 32. APPROPRIATION ARKANSAS STATE BOARD OF PHARMACY - PHARMACY
+22 STUDENT LOANS AND SCHOLARSHIPS. There is hereby appropriated, to the
+23 Department of Health, to be payable from the cash fund deposited in the State
+24 Treasury as determined by the Chief Fiscal Officer of the State, for grants
+25 to colleges of pharmacy in Arkansas for pharmacy student loans and
+26 scholarships of the Department of Health - Arkansas State Board of Pharmacy
+27 for the fiscal year ending June 30, 2026, the following:
+28
+29 ITEM FISCAL YEAR
+30 NO. 2025-2026
+31 (1) PHARMACY STUDENT LOAN/SCHOLARSHIPS $400,000
+32
+33 SECTION 33. REGULAR SALARIES - OPERATIONS - ARKANSAS STATE BOARD OF
+34 PHYSICAL THERAPY. There is hereby established for the Department of Health -
+35 Arkansas State Board of Physical Therapy for the 2025-2026 fiscal year, the
+36 following maximum number of regular employees.
+15 03-10-2025 15:55:41 MAH017
+As Engrossed: S3/10/25 SB38
+1
+2 Maximum Annual
+3 Maximum Salary Rate
+4 Item Class No. of Fiscal Year
+5 No. Code Title Employees 2025-2026
+6 (1) X050C ADH PHYSICAL THERAPY BD EXEC DIR 1 GRADE GS08
+7 (2) C056C ADMINISTRATIVE SPECIALIST III 1 GRADE GS04
+8 MAX. NO. OF EMPLOYEES 2
+9
+10 SECTION 34. APPROPRIATION - OPERATIONS - ARKANSAS STATE BOARD OF
+11 PHYSICAL THERAPY. There is hereby appropriated, to the Department of Health,
+12 to be payable from the cash fund deposited in the State Treasury as
+13 determined by the Chief Fiscal Officer of the State, for personal services
+14 and operating expenses of the Department of Health - Arkansas State Board of
+15 Physical Therapy for the fiscal year ending June 30, 2026, the following:
+16
+17 ITEM FISCAL YEAR
+18 NO. 2025-2026
+19 (01) REGULAR SALARIES $118,146
+20 (02) PERSONAL SERVICES MATCHING 42,672
+21 (03) MAINT. & GEN. OPERATION
+22 (A) OPER. EXPENSE 89,833
+23 (B) CONF. & TRAVEL 0
+24 (C) PROF. FEES 8,490
+25 (D) CAP. OUTLAY 0
+26 (E) DATA PROC. 0
+27 TOTAL AMOUNT APPROPRIATED $259,141
+28
+29 SECTION 35. APPROPRIATION - ARKANSAS STATE BOARD OF PHYSICAL THERAPY -
+30 SCHOLARSHIP PROGRAM. There is hereby appropriated, to the Department of
+31 Health, to be payable from the cash fund deposited in the State Treasury as
+32 determined by the Chief Fiscal Officer of the State, for a scholarship
+33 program of the Department of Health - Arkansas State Board of Physical
+34 Therapy for the fiscal year ending June 30, 2026, the following:
+35
+36 ITEM FISCAL YEAR
+16 03-10-2025 15:55:41 MAH017
+As Engrossed: S3/10/25 SB38
+1 NO. 2025-2026
+2 (01) SCHOLARSHIP PROGRAM $200,000
+3
+4 SECTION 36. APPROPRIATION - OPERATIONS - ARKANSAS BOARD OF PODIATRIC
+5 MEDICINE. There is hereby appropriated, to the Department of Health, to be
+6 payable from the cash fund deposited in the State Treasury as determined by
+7 the Chief Fiscal Officer of the State, for personal services and operating
+8 expenses of the Department of Health - Arkansas Board of Podiatric Medicine
+9 for the fiscal year ending June 30, 2026, the following:
+10
+11 ITEM FISCAL YEAR
+12 NO. 2025-2026
+13 (01) REGULAR SALARIES $1,800
+14 (02) PERSONAL SERVICES MATCHING 138
+15 (03) MAINT. & GEN. OPERATION
+16 (A) OPER. EXPENSE 4,052
+17 (B) CONF. & TRAVEL 0
+18 (C) PROF. FEES 250
+19 (D) CAP. OUTLAY 0
+20 (E) DATA PROC. 0
+21 TOTAL AMOUNT APPROPRIATED $6,240
+22
+23 SECTION 37. REGULAR SALARIES - OPERATIONS - ARKANSAS PSYCHOLOGY BOARD.
+24 There is hereby established for the Department of Health - Arkansas
+25 Psychology Board for the 2025-2026 fiscal year, the following maximum number
+26 of regular employees.
+27
+28 Maximum Annual
+29 Maximum Salary Rate
+30 Item Class No. of Fiscal Year
+31 No. Code Title Employees 2025-2026
+32 (1) L091C ADH PUBLIC HEALTH SECTION CHIEF I 1 GRADE GS08
+33 (2) C056C ADMINISTRATIVE SPECIALIST III 1 GRADE GS04
+34 MAX. NO. OF EMPLOYEES 2
+35
+36 SECTION 38. APPROPRIATION - OPERATIONS - ARKANSAS PSYCHOLOGY BOARD.
+17 03-10-2025 15:55:41 MAH017
+As Engrossed: S3/10/25 SB38
+1 There is hereby appropriated, to the Department of Health, to be payable from
+2 the cash fund deposited in the State Treasury as determined by the Chief
+3 Fiscal Officer of the State, for personal services and operating expenses of
+4 the Department of Health - Arkansas Psychology Board for the fiscal year
+5 ending June 30, 2026, the following:
+6
+7 ITEM FISCAL YEAR
+8 NO. 2025-2026
+9 (01) REGULAR SALARIES $92,890
+10 (02) PERSONAL SERVICES MATCHING 37,177
+11 (03) MAINT. & GEN. OPERATION
+12 (A) OPER. EXPENSE 61,540
+13 (B) CONF. & TRAVEL 3,000
+14 (C) PROF. FEES 24,727
+15 (D) CAP. OUTLAY 0
+16 (E) DATA PROC. 0
+17 TOTAL AMOUNT APPROPRIATED $219,334
+18
+19 SECTION 39. APPROPRIATION - ARKANSAS PSYCHOLOGY BOARD - SCHOLARSHIP
+20 PROGRAM. There is hereby appropriated, to the Department of Health -
+21 Arkansas Psychology Board, to be payable from the cash fund deposited in the
+22 State Treasury as determined by the Chief Fiscal Officer of the State, for
+23 scholarships for psychology students pursing training as psychological and
+24 neurological technicians for the fiscal year ending June 30, 2026, the
+25 following:
+26
+27 ITEM FISCAL YEAR
+28 NO. 2025-2026
+29 (01) PSYCHOLOGY STUDENT SCHOLARSHIPS $150,000
+30
+31 SECTION 40. REGULAR SALARIES - ARKANSAS SOCIAL WORK LICENSING BOARD.
+32 There is hereby established for the Department of Health - Arkansas Social
+33 Work Licensing Board for the 2025-2026 fiscal year, the following maximum
+34 number of regular employees.
+35
+36 Maximum Annual
+18 03-10-2025 15:55:41 MAH017
+As Engrossed: S3/10/25 SB38
+1 Maximum Salary Rate
+2 Item Class No. of Fiscal Year
+3 No. Code Title Employees 2025-2026
+4 (1) X135C ADH SOCIAL WORK LICENSING BD EXEC DI 1 GRADE GS08
+5 (2) C056C ADMINISTRATIVE SPECIALIST III 1 GRADE GS04
+6 MAX. NO. OF EMPLOYEES 2
+7
+8 SECTION 41. EXTRA HELP - ARKANSAS SOCIAL WORK LICENSING BOARD. There
+9 is hereby authorized, for the Department of Health - Arkansas Social Work
+10 Licensing Board for the 2025-2026 fiscal year, the following maximum number
+11 of part-time or temporary employees, to be known as "Extra Help", payable
+12 from funds appropriated herein for such purposes: one (1) temporary or part-
+13 time employees, when needed, at rates of pay not to exceed those provided in
+14 the Uniform Classification and Compensation Act, or its successor, or this
+15 act for the appropriate classification.
+16
+17 SECTION 42. APPROPRIATION - OPERATIONS - ARKANSAS SOCIAL WORK LICENSING
+18 BOARD. There is hereby appropriated, to the Department of Health, to be
+19 payable from the Social Work Licensing Fund, for personal services and
+20 operating expenses of the Department of Health - Arkansas Social Work
+21 Licensing Board for the fiscal year ending June 30, 2026, the following:
+22
+23 ITEM FISCAL YEAR
+24 NO. 2025-2026
+25 (01) REGULAR SALARIES $116,308
+26 (02) EXTRA HELP 6,000
+27 (03) PERSONAL SERVICES MATCHING 41,609
+28 (04) MAINT. & GEN. OPERATION
+29 (A) OPER. EXPENSE 42,000
+30 (B) CONF. & TRAVEL 6,000
+31 (C) PROF. FEES 7,000
+32 (D) CAP. OUTLAY 0
+33 (E) DATA PROC. 0
+34 (05) REFUNDS/REIMBURSEMENTS 500
+35 TOTAL AMOUNT APPROPRIATED $219,417
+36
+19 03-10-2025 15:55:41 MAH017
+As Engrossed: S3/10/25 SB38
+1 SECTION 43. REGULAR SALARIES - BOARD OF EXAMINERS IN SPEECH-LANGUAGE
+2 PATHOLOGY AND AUDIOLOGY. There is hereby established for the Department of
+3 Health - Board of Examiners in Speech-Language Pathology and Audiology for
+4 the 2025-2026 fiscal year, the following maximum number of regular employees.
+5
+6 Maximum Annual
+7 Maximum Salary Rate
+8 Item Class No. of Fiscal Year
+9 No. Code Title Employees 2025-2026
+10 (1) L059C ADH ABSLPA DIRECTOR 1 GRADE GS08
+11 (2) C072C ADMINISTRATIVE SUPPORT SPECIALIST 1 GRADE GS04
+12 MAX. NO. OF EMPLOYEES 2
+13
+14 SECTION 44. EXTRA HELP - BOARD OF EXAMINERS IN SPEECH-LANGUAGE
+15 PATHOLOGY AND AUDIOLOGY. There is hereby authorized, for the Department of
+16 Health - Board of Examiners in Speech-Language Pathology and Audiology for
+17 the 2025-2026 fiscal year, the following maximum number of part-time or
+18 temporary employees, to be known as "Extra Help", payable from funds
+19 appropriated herein for such purposes: one (1) temporary or part-time
+20 employees, when needed, at rates of pay not to exceed those provided in the
+21 Uniform Classification and Compensation Act, or its successor, or this act
+22 for the appropriate classification.
+23
+24 SECTION 45. APPROPRIATION - OPERATIONS - BOARD OF EXAMINERS IN SPEECH-
+25 LANGUAGE PATHOLOGY AND AUDIOLOGY. There is hereby appropriated, to the
+26 Department of Health, to be payable from the cash fund deposited in the State
+27 Treasury as determined by the Chief Fiscal Officer of the State, for personal
+28 services and operating expenses of the Department of Health - Board of
+29 Examiners in Speech-Language Pathology and Audiology for the fiscal year
+30 ending June 30, 2026, the following:
+31
+32 ITEM FISCAL YEAR
+33 NO. 2025-2026
+34 (01) REGULAR SALARIES $98,930
+35 (02) EXTRA HELP 12,000
+36 (03) PERSONAL SERVICES MATCHING 39,482
+20 03-10-2025 15:55:41 MAH017
+As Engrossed: S3/10/25 SB38
+1 (04) MAINT. & GEN. OPERATION
+2 (A) OPER. EXPENSE 50,516
+3 (B) CONF. & TRAVEL 3,250
+4 (C) PROF. FEES 12,800
+5 (D) CAP. OUTLAY 0
+6 (E) DATA PROC. 0
+7 TOTAL AMOUNT APPROPRIATED $216,978
+8
+9 SECTION 46. REGULAR SALARIES - ARKANSAS SPINAL CORD COMMISSION. There
+10 is hereby established for the Department of Health - Arkansas Spinal Cord
+11 Commission for the 2025-2026 fiscal year, the following maximum number of
+12 regular employees.
+13
+14 Maximum Annual
+15 Maximum Salary Rate
+16 Item Class No. of Fiscal Year
+17 No. Code Title Employees 2025-2026
+18 (1) D057C INFORMATION TECHNOLOGY MANAGER 1 GRADE IT05
+19 (2) U006U ADH EXECUTIVE DIRECTOR SPINAL CORD C 1 GRADE GS12
+20 (3) M013C ADH SPINAL CORD COMN CLIENT SVS ADMI 1 GRADE GS09
+21 (4) A050C AGENCY FISCAL MANAGER 1 GRADE GS09
+22 (5) L098C CERTIFIED VOCATIONAL REHAB COUNSELOR 7 GRADE GS08
+23 (6) M026C LICENSED SOCIAL WORKER 1 GRADE GS07
+24 (7) L051C REHABILITATION COUNSELOR 9 GRADE GS06
+25 (8) C056C ADMINISTRATIVE SPECIALIST III 1 GRADE GS04
+26 (9) C073C ADMINISTRATIVE SPECIALIST II 3 GRADE GS03
+27 MAX. NO. OF EMPLOYEES 25
+28
+29 SECTION 47. APPROPRIATION - ARKANSAS SPINAL CORD COMMISSION - STATE
+30 OPERATIONS. There is hereby appropriated, to the Department of Health, to be
+31 payable from the Miscellaneous Agencies Fund Account, for personal services
+32 and operating expenses of the Department of Health - Arkansas Spinal Cord
+33 Commission for the fiscal year ending June 30, 2026, the following:
+34
+35 ITEM FISCAL YEAR
+36 NO. 2025-2026
+21 03-10-2025 15:55:41 MAH017
+As Engrossed: S3/10/25 SB38
+1 (01) REGULAR SALARIES $1,235,581
+2 (02) PERSONAL SERVICES MATCHING 488,362
+3 (03) MAINT. & GEN. OPERATION
+4 (A) OPER. EXPENSE 219,888
+5 (B) CONF. & TRAVEL 15,620
+6 (C) PROF. FEES 19,065
+7 (D) CAP. OUTLAY 0
+8 (E) DATA PROC. 0
+9 (04) LONG TERM ATTENDANT CARE 261,610
+10 (05) SPINAL TREATMENT PROGRAM 772,000
+11 TOTAL AMOUNT APPROPRIATED $3,012,126
+12
+13 SECTION 48. APPROPRIATION - FEDERAL OPERATIONS - ARKANSAS SPINAL CORD
+14 COMMISSION. There is hereby appropriated, to the Department of Health, to be
+15 payable from the federal funds as designated by the Chief Fiscal Officer of
+16 the State, for operating expenses of the Department of Health - Arkansas
+17 Spinal Cord Commission for the fiscal year ending June 30, 2026, the
+18 following:
+19
+20 ITEM FISCAL YEAR
+21 NO. 2025-2026
+22 (01) MAINT. & GEN. OPERATION
+23 (A) OPER. EXPENSE $20,000
+24 (B) CONF. & TRAVEL 3,000
+25 (C) PROF. FEES 5,000
+26 (D) CAP. OUTLAY 0
+27 (E) DATA PROC. 0
+28 TOTAL AMOUNT APPROPRIATED $28,000
+29
+30 SECTION 49. APPROPRIATION - CASH - ARKANSAS SPINAL CORD COMMISSION.
+31 There is hereby appropriated, to the Department of Health, to be payable from
+32 the cash fund deposited in the State Treasury as determined by the Chief
+33 Fiscal Officer of the State, for operating expenses of the Department of
+34 Health - Arkansas Spinal Cord Commission for the fiscal year ending June 30,
+35 2026, the following:
+36
+22 03-10-2025 15:55:41 MAH017
+As Engrossed: S3/10/25 SB38
+1 ITEM FISCAL YEAR
+2 NO. 2025-2026
+3 (01) MAINT. & GEN. OPERATION
+4 (A) OPER. EXPENSE $40,000
+5 (B) CONF. & TRAVEL 0
+6 (C) PROF. FEES 10,000
+7 (D) CAP. OUTLAY 0
+8 (E) DATA PROC. 0
+9 TOTAL AMOUNT APPROPRIATED $50,000
+10
+11 SECTION 50. SPECIAL LANGUAGE. NOT TO BE INCORPORATED INTO THE ARKANSAS
+12 CODE NOR PUBLISHED SEPARATELY AS SPECIAL, LOCAL AND TEMPORARY LAW. ARKANSAS
+13 STATE BOARD OF CHIROPRACTIC EXAMINERS - INVESTIGATIVE SERVICES FOR CONSUMER
+14 COMPLAINTS. Ten thousand dollars ($10,000) of the available appropriation in
+15 the Professional Fees Line item of this act shall be made available to the
+16 board for the purpose of contracting an independent or private investigator
+17 for investigative services regarding complaints submitted by consumers.
+18 (a)(1) The Arkansas State Board of Chiropractic Examiners shall contract
+19 with an outside investigator as needed to perform investigations and conduct
+20 inspections of alleged wrongdoing.
+21 (2) An outside investigator contracted under subdivision (a)(1) of
+22 this section shall have expertise or background in the subject matter in
+23 which he or she is being contracted to investigate.
+24 (b) The duties of an investigator hired under this section shall
+25 include without limitation investigation and inspection of all complaints, as
+26 determined by the board, to determine whether a person has:
+27 (1) Practiced his or her profession in such a way as to endanger the general
+28 health and welfare of the public; or
+29 (2) Otherwise violated this chapter or rules of the board.
+30 (c)(1) The board shall file a report annually on or before December 1
+31 with the Senate Committee on State Agencies and Governmental Affairs and the
+32 House Committee on State Agencies and Governmental Affairs for the
+33 committees' review.
+34 (2) The report shall include:
+35 (A) The number of complaints that have been filed;
+36 (B) A list of who has been investigated and the purported
+23 03-10-2025 15:55:41 MAH017
+As Engrossed: S3/10/25 SB38
+1 violation; and
+2 (C) A summary of the findings of each investigation.
+3 The provisions of this section shall be in effect only from July 1,
+4 2024 2025 through June 30, 2025 2026.
+5
+6 SECTION 51. SPECIAL LANGUAGE. NOT TO BE INCORPORATED INTO THE ARKANSAS
+7 CODE NOR PUBLISHED SEPARATELY AS SPECIAL, LOCAL AND TEMPORARY LAW. ARKANSAS
+8 STATE BOARD OF DENTAL EXAMINERS - EDUCATIONAL PROGRAMS. The Arkansas State
+9 Board of Dental Examiners is hereby authorized to expend from monies
+10 authorized herein, $15 from each licensed dentist licensed by the State Board
+11 of Dental Examiners each year to be paid by the Arkansas State Board of
+12 Dental Examiners to 501(c)(3) Arkansas foundations that have healthcare
+13 professionals on their board and provide for identification, treatment and
+14 monitoring of healthcare professionals who suffer from alcohol or drug abuse
+15 problems, in order to promote the public health and safety and to insure the
+16 continued availability of skilled and highly trained dental professionals for
+17 the benefit of the public.
+18 The provisions of this section shall be in effect only from July 1, 2024
+19 2025 through June 30, 2025 2026.
+20
+21 SECTION 52. SPECIAL LANGUAGE. NOT TO BE INCORPORATED INTO THE ARKANSAS
+22 CODE NOR PUBLISHED SEPARATELY AS SPECIAL, LOCAL AND TEMPORARY LAW. ARKANSAS
+23 STATE MEDICAL BOARD - EDUCATIONAL PROGRAMS. The State Medical Board is hereby
+24 authorized to expend from monies authorized herein, $30 from each licensed
+25 physician licensed by the State Medical Board each year to be paid by the
+26 State Medical Board to 501(c)(3) Arkansas foundations that have healthcare
+27 professionals on their board and provide for identification, treatment and
+28 monitoring of healthcare professionals who suffer from alcohol or drug abuse
+29 problems, in order to promote the public health and safety and to insure the
+30 continued availability of skilled and highly trained medical professionals
+31 for the benefit of the public.
+32 The provisions of this section shall be in effect only from July 1, 2024
+33 2025 through June 30, 2025 2026.
+34
+35 SECTION 53. SPECIAL LANGUAGE. NOT TO BE INCORPORATED INTO THE ARKANSAS
+36 CODE NOR PUBLISHED SEPARATELY AS SPECIAL, LOCAL AND TEMPORARY LAW. ARKANSAS
+24 03-10-2025 15:55:41 MAH017
+As Engrossed: S3/10/25 SB38
+1 STATE BOARD OF NURSING - FUNDING TRANSFER. The Arkansas State Board of
+2 Nursing may request a fund transfer in an amount not to exceed one hundred
+3 thousand dollars ($100,000) each fiscal year from the State Board of Nursing
+4 Fund to the cash in State Treasury fund as determined by the Chief Fiscal
+5 Officer of the State to provide funds for the Student Loan Program
+6 appropriation provided herein. Upon approval of the Chief Fiscal Officer of
+7 the State, the amount requested shall be transferred on his or her books and
+8 those of the State Treasurer and the Auditor of State.
+9 The provisions of this section shall be in effect only from July 30,
+10 2024 2025 through June 30, 2025 2026.
+11
+12 SECTION 54. SPECIAL LANGUAGE. NOT TO BE INCORPORATED INTO THE ARKANSAS
+13 CODE NOR PUBLISHED SEPARATELY AS SPECIAL, LOCAL AND TEMPORARY LAW. ARKANSAS
+14 BOARD OF PODIATRIC MEDICINE - EDUCATIONAL PROGRAMS. The Arkansas Board of
+15 Podiatric Medicine is hereby authorized to expend from monies authorized
+16 herein, $10 from each licensed podiatrist licensed by the Arkansas Board of
+17 Podiatric Medicine each year to be paid by the Arkansas Board of Podiatric
+18 Medicine to 501(c)(3) Arkansas foundations that have healthcare professionals
+19 on their board and provide for identification, treatment and monitoring of
+20 healthcare professionals who suffer from alcohol or drug abuse problems, in
+21 order to promote the public health and safety and to insure the continued
+22 availability of skilled and highly trained podiatric professionals for the
+23 benefit of the public.
+24 The provisions of this section shall be in effect only from July 1, 2024
+25 2025 through June 30, 2025 2026.
+26
+27 SECTION 55. SPECIAL LANGUAGE. NOT TO BE INCORPORATED INTO THE ARKANSAS
+28 CODE NOR PUBLISHED SEPARATELY AS SPECIAL, LOCAL AND TEMPORARY LAW.
+29 ARKANSAS SPINAL CORD COMMISSION - LINE ITEM TRANSFER. Any savings made in the
+30 State Appropriation may, after receiving advice and approval of the
+31 Department of Finance and Administration, be transferred to the Spinal
+32 Treatment Program.
+33 The provisions of this section shall be in effect only from July 1, 2024
+34 2025 through June 30, 2025 2026.
+35
+36 SECTION 56. SPECIAL LANGUAGE. NOT TO BE INCORPORATED INTO THE ARKANSAS
+25 03-10-2025 15:55:41 MAH017
+As Engrossed: S3/10/25 SB38
+1 CODE NOR PUBLISHED SEPARATELY AS SPECIAL, LOCAL AND TEMPORARY LAW. TRANSFER
+2 OF FUNDS. Immediately upon the effective date of this act, the Arkansas
+3 State Medical Board shall transfer annually the sum of five hundred thousand
+4 dollars ($500,000), or so much as is available, from the unobligated and
+5 unallocated monies remaining in the Arkansas State Medical Board's cash
+6 funds, to the Department of Education - Division of Higher Education's
+7 Graduate Medical Education Fund to be used exclusively for the Graduate
+8 Medical Education Residency Expansion Board appropriation.
+9
+10 SECTION 57. COMPLIANCE WITH OTHER LAWS. Disbursement of funds
+11 authorized by this act shall be limited to the appropriation for such agency
+12 and funds made available by law for the support of such appropriations; and
+13 the restrictions of the State Procurement Law, the General Accounting and
+14 Budgetary Procedures Law, the Revenue Stabilization Law, the Regular Salary
+15 Procedures and Restrictions Act, or their successors, and other fiscal
+16 control laws of this State, where applicable, and regulations promulgated by
+17 the Department of Finance and Administration, as authorized by law, shall be
+18 strictly complied with in disbursement of said funds.
+19
+20 SECTION 58. LEGISLATIVE INTENT. It is the intent of the General
+21 Assembly that any funds disbursed under the authority of the appropriations
+22 contained in this act shall be in compliance with the stated reasons for
+23 which this act was adopted, as evidenced by the Agency Requests, Executive
+24 Recommendations and Legislative Recommendations contained in the budget
+25 manuals prepared by the Department of Finance and Administration, letters, or
+26 summarized oral testimony in the official minutes of the Arkansas Legislative
+27 Council or Joint Budget Committee which relate to its passage and adoption.
+28
+29 SECTION 59. EMERGENCY CLAUSE. It is found and determined by the
+30 General Assembly, that the Constitution of the State of Arkansas prohibits
+31 the appropriation of funds for more than a one (1) year period; that the
+32 effectiveness of this Act on July 1, 2025 is essential to the operation of
+33 the agency for which the appropriations in this Act are provided, and that in
+34 the event of an extension of the legislative session, the delay in the
+35 effective date of this Act beyond July 1, 2025 could work irreparable harm
+36 upon the proper administration and provision of essential governmental
+26 03-10-2025 15:55:41 MAH017
+As Engrossed: S3/10/25 SB38
+1 programs. Therefore, an emergency is hereby declared to exist and this Act
+2 being necessary for the immediate preservation of the public peace, health
+3 and safety shall be in full force and effect from and after July 1, 2025.
+4
+5 /s/Joint Budget Committee
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+27 03-10-2025 15:55:41 MAH017
+[DELETED:  A      A A L E   A L A Y    B   S A D T o A t  I   (    ]
+[DELETED:  S2 0           S A D T s E J  I   ( ( (               S A H d a A  I   ( (]
+[DELETED:  S3 0 (               S C H f                  S C H d a C f  I   ( ( (    ]
+[DELETED:  S4 0           S I A f                    S T E n p o p s   S C p t e C  I]
+[DELETED:  S5 0   ( ( ( ( (               S D A f                  S E p t e E  I   (]
+[DELETED:  S6 0 ( (               S L A f                S B p t e t  I   ( ( (      ]
+[DELETED:  S7 0         S D H y                S i D n p o p s   S O p a D  I   ( ( (]
+[DELETED:  S8 0 (           (     S D A y k p p C c   S I H d a H f  I   ( ( (        ]
+[DELETED:  S9 0       S B S n                                        S a t t a e U f ]
+[DELETED:  S1 0  S T t F t e  I   ( ( ( (           (     S N S n                     ]
+[DELETED:  S1 0                             S T B o f t t a   S N p o N  I   ( ( ( (  ]
+[DELETED:  S1 0         (     S L S S t e  I   (   S E H d o E  I   (               S]
+[DELETED:  S1 0 C H o t f  I   (   S T O r                  S T t F t e  I   ( ( (  ]
+[DELETED:  S1 0             S P A m                            S h y k p p C c   S P A]
+[DELETED:  S1 0 i f A t  I   ( ( ( (           ( (     S S D T t s f  I   (   S P A f]
+[DELETED:  S1 0                  S P t d a P  I   ( ( (               S S H d p T  I]
+[DELETED:  S1 0   (   S M p t e f  I   ( ( (               S T P o                  S]
+[DELETED:  S1 0 T t F t e  I   ( ( (               S P A S s n f  I   (   S T W n   ]
+[DELETED:  S1 0               S i L o f t t a   S B p o L  I   ( ( ( (           (   ]
+[DELETED:  S2 0  S P H t                  S P H t t a e U f   S L D T s E e  I   ( ( (]
+[DELETED:  S2 0 (               S i C r                                S O p a C  I  ]
+[DELETED:  S2 0 ( ( (           ( (     S C p t S f  I   (               S T t F H 2 ]
+[DELETED:  S2 0 I   (               S C S C t b f ( w i  ( t w  ( i d ( h  (  ( w H c      (   (]
+[DELETED:  S2 0 v   (  T 2   S C S B a o D p m p c t   2   S C S a p S p m p c f   2   S C]
+[DELETED:  S2 0 S N t F O a t t  T 2   S C B P h P M o h o a b   2   S C A S D T   2   S]
+[DELETED:  S2 0 C O S d u f G M   S a a t B P c t s   S A c w R m s C   S G t e t t e u]
+[DELETED:  S2 0 p b a  /                               ]
+
+
+================================================================================
+
+Raw Text:
+Stricken language would be deleted from and underlined language would be added to present law.
+1 State of Arkansas As Engrossed: S3/10/25
+A Bill
+2 95th General Assembly
+3 Regular Session, 2025 SENATE BILL 38
+4
+5 By: Joint Budget Committee
+6
+7
+For An Act To Be Entitled
+8
+9 AN ACT TO MAKE AN APPROPRIATION FOR PERSONAL SERVICES
+10 AND OPERATING EXPENSES FOR THE DEPARTMENT OF HEALTH -
+11 LICENSING AND REGULATION BOARDS FOR THE FISCAL YEAR
+12 ENDING JUNE 30, 2026; AND FOR OTHER PURPOSES.
+13
+14
+Subtitle
+15
+16 AN ACT FOR THE DEPARTMENT OF HEALTH -
+17 LICENSING AND REGULATION BOARDS
+18 APPROPRIATION FOR THE 2025-2026 FISCAL
+19 YEAR.
+20
+21
+22 BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF ARKANSAS:
+23
+24 SECTION 1. APPROPRIATION - OPERATIONS - ARKANSAS STATE BOARD OF
+25 ACUPUNCTURE AND RELATED TECHNIQUES. There is hereby appropriated, to the
+26 Department of Health, to be payable from the cash fund deposited in the State
+27 Treasury as determined by the Chief Fiscal Officer of the State, for
+28 operating expenses of the Department of Health - Arkansas State Board of
+29 Acupuncture and Related Techniques for the fiscal year ending June 30, 2026,
+30 the following:
+31
+32 ITEM FISCAL YEAR
+33 NO. 2025-2026
+34 (01) MAINT. & GEN. OPERATION
+35 (A) OPER. EXPENSE $2,999
+36 (B) CONF. & TRAVEL 0
+*MAH017*
+03-10-2025 15:55:41 MAH017
+
+As Engrossed: S3/10/25 SB38
+1 (C) PROF. FEES 8,001
+2 (D) CAP. OUTLAY 0
+3 (E) DATA PROC. 0
+4 TOTAL AMOUNT APPROPRIATED $11,000
+5
+6 SECTION 2. APPROPRIATION - OPERATIONS - STATE BOARD OF EXAMINERS OF
+7 ALCOHOLISM AND DRUG ABUSE COUNSELORS. There is hereby appropriated, to the
+8 Department of Health, to be payable from the cash fund deposited in the State
+9 Treasury as determined by the Chief Fiscal Officer of the State, for personal
+10 services and operating expenses of the Department of Health - State Board of
+11 Examiners of Alcoholism and Drug Abuse Counselors for the fiscal year ending
+12 June 30, 2026, the following:
+13
+14 ITEM FISCAL YEAR
+15 NO. 2025-2026
+16 (01) REGULAR SALARIES $7,400
+17 (02) PERSONAL SERVICES MATCHING 566
+18 (03) MAINT. & GEN. OPERATION
+19 (A) OPER. EXPENSE 10,000
+20 (B) CONF. & TRAVEL 0
+21 (C) PROF. FEES 14,000
+22 (D) CAP. OUTLAY 0
+23 (E) DATA PROC. 0
+24 TOTAL AMOUNT APPROPRIATED $31,966
+25
+26 SECTION 3. APPROPRIATION - OPERATIONS - ARKANSAS STATE BOARD OF
+27 ATHLETIC TRAINING. There is hereby appropriated, to the Department of
+28 Health, to be payable from the cash fund deposited in the State Treasury as
+29 determined by the Chief Fiscal Officer of the State, for personal services
+30 and operating expenses of the Department of Health - Arkansas State Board of
+31 Athletic Training for the fiscal year ending June 30, 2026, the following:
+32
+33 ITEM FISCAL YEAR
+34 NO. 2025-2026
+35 (01) REGULAR SALARIES $480
+36 (02) PERSONAL SERVICES MATCHING 37
+2 03-10-2025 15:55:41 MAH017
+
+As Engrossed: S3/10/25 SB38
+1 (03) MAINT. & GEN. OPERATION
+2 (A) OPER. EXPENSE 20,000
+3 (B) CONF. & TRAVEL 0
+4 (C) PROF. FEES 0
+5 (D) CAP. OUTLAY 0
+6 (E) DATA PROC. 0
+7 TOTAL AMOUNT APPROPRIATED $20,517
+8
+9 SECTION 4. REGULAR SALARIES - OPERATIONS - ARKANSAS STATE BOARD OF
+10 CHIROPRACTIC EXAMINERS. There is hereby established for the Department of
+11 Health - Arkansas State Board of Chiropractic Examiners for the 2025-2026
+12 fiscal year, the following maximum number of regular employees.
+13
+14 Maximum Annual
+15 Maximum Salary Rate
+16 Item Class No. of Fiscal Year
+17 No. Code Title Employees 2025-2026
+18 (1) L091C ADH PUBLIC HEALTH SECTION CHIEF I 1 GRADE GS08
+19 (2) C037C ADMINISTRATIVE ANALYST 1 GRADE GS06
+20 MAX. NO. OF EMPLOYEES 2
+21
+22 SECTION 5. APPROPRIATION - OPERATIONS - ARKANSAS STATE BOARD OF
+23 CHIROPRACTIC EXAMINERS. There is hereby appropriated, to the Department of
+24 Health, to be payable from the cash fund deposited in the State Treasury as
+25 determined by the Chief Fiscal Officer of the State, for personal services
+26 and operating expenses of the Department of Health - Arkansas State Board of
+27 Chiropractic Examiners for the fiscal year ending June 30, 2026, the
+28 following:
+29
+30 ITEM FISCAL YEAR
+31 NO. 2025-2026
+32 (01) REGULAR SALARIES $91,815
+33 (02) PERSONAL SERVICES MATCHING 35,643
+34 (03) MAINT. & GEN. OPERATION
+35 (A) OPER. EXPENSE 60,000
+36 (B) CONF. & TRAVEL 2,500
+3 03-10-2025 15:55:41 MAH017
+
+As Engrossed: S3/10/25 SB38
+1 (C) PROF. FEES 12,672
+2 (D) CAP. OUTLAY 0
+3 (E) DATA PROC. 0
+4 TOTAL AMOUNT APPROPRIATED $202,630
+5
+6 SECTION 6. REGULAR SALARIES - OPERATIONS - ARKANSAS BOARD OF EXAMINERS
+7 IN COUNSELING. There is hereby established for the Department of Health -
+8 Arkansas Board of Examiners in Counseling for the 2025-2026 fiscal year, the
+9 following maximum number of regular employees.
+10
+11 Maximum Annual
+12 Maximum Salary Rate
+13 Item Class No. of Fiscal Year
+14 No. Code Title Employees 2025-2026
+15 (1) N176N ADH EXEC DIR COUNSELING BD 1 GRADE GS11
+16 (2) C056C ADMINISTRATIVE SPECIALIST III 2 GRADE GS04
+17 (3) A098C FISCAL SUPPORT SPECIALIST 1 GRADE GS04
+18 MAX. NO. OF EMPLOYEES 4
+19
+20 SECTION 7. EXTRA HELP - ARKANSAS BOARD OF EXAMINERS IN COUNSLING.
+21 There is hereby authorized, for the Department of Health - Arkansas Board of
+22 Examiners in Counseling for the 2025-2026 fiscal year, the following maximum
+23 number of part-time or temporary employees, to be known as "Extra Help",
+24 payable from funds appropriated herein for such purposes: two (2) temporary
+25 or part-time employees, when needed, at rates of pay not to exceed those
+26 provided in the Uniform Classification and Compensation Act, or its
+27 successor, or this act for the appropriate classification.
+28
+29 SECTION 8. APPROPRIATION - OPERATIONS - ARKANSAS BOARD OF EXAMINERS IN
+30 COUNSELING. There is hereby appropriated, to the Department of Health, to be
+31 payable from the cash fund deposited in the State Treasury as determined by
+32 the Chief Fiscal Officer of the State, for personal services and operating
+33 expenses of the Department of Health - Arkansas Board of Examiners in
+34 Counseling for the fiscal year ending June 30, 2026, the following:
+35
+36 ITEM FISCAL YEAR
+4 03-10-2025 15:55:41 MAH017
+
+As Engrossed: S3/10/25 SB38
+1 NO. 2025-2026
+2 (01) REGULAR SALARIES $225,143
+3 (02) EXTRA HELP 4,000
+4 (03) PERSONAL SERVICES MATCHING 84,472
+5 (04) OVERTIME 12,000
+6 (05) MAINT. & GEN. OPERATION
+7 (A) OPER. EXPENSE 113,800
+8 (B) CONF. & TRAVEL 4,000
+9 (C) PROF. FEES 11,000
+10 (D) CAP. OUTLAY 0
+11 (E) DATA PROC. 0
+12 TOTAL AMOUNT APPROPRIATED $454,415
+13
+14 SECTION 9. REGULAR SALARIES - OPERATIONS - ARKANSAS STATE BOARD OF
+15 DENTAL EXAMINERS. There is hereby established for the Department of Health -
+16 Arkansas State Board of Dental Examiners for the 2025-2026 fiscal year, the
+17 following maximum number of regular employees.
+18
+19 Maximum Annual
+20 Maximum Salary Rate
+21 Item Class No. of Fiscal Year
+22 No. Code Title Employees 2025-2026
+23 (1) X027C ADH DENTAL EXAMINERS BD EXEC DIR 1 GRADE GS10
+24 (2) C037C ADMINISTRATIVE ANALYST 1 GRADE GS06
+25 MAX. NO. OF EMPLOYEES 2
+26
+27 SECTION 10. APPROPRIATION - OPERATIONS - ARKANSAS STATE BOARD OF DENTAL
+28 EXAMINERS. There is hereby appropriated, to the Department of Health, to be
+29 payable from the cash fund deposited in the State Treasury as determined by
+30 the Chief Fiscal Officer of the State, for personal services and operating
+31 expenses of the Department of Health - Arkansas State Board of Dental
+32 Examiners for the fiscal year ending June 30, 2026, the following:
+33
+34 ITEM FISCAL YEAR
+35 NO. 2025-2026
+36 (01) REGULAR SALARIES $155,097
+5 03-10-2025 15:55:41 MAH017
+
+As Engrossed: S3/10/25 SB38
+1 (02) PERSONAL SERVICES MATCHING 48,708
+2 (03) MAINT. & GEN. OPERATION
+3 (A) OPER. EXPENSE 119,637
+4 (B) CONF. & TRAVEL 7,166
+5 (C) PROF. FEES 42,126
+6 (D) CAP. OUTLAY 0
+7 (E) DATA PROC. 0
+8 TOTAL AMOUNT APPROPRIATED $372,734
+9
+10 SECTION 11. REGULAR SALARIES - OPERATIONS - ARKANSAS DIETETICS
+11 LICENSING BOARD. There is hereby established for the Department of Health -
+12 Arkansas Dietetics Licensing Board for the 2025-2026 fiscal year, the
+13 following maximum number of regular employees.
+14
+15 Maximum Annual
+16 Maximum Salary Rate
+17 Item Class No. of Fiscal Year
+18 No. Code Title Employees 2025-2026
+19 (1) L091C ADH PUBLIC HEALTH SECTION CHIEF I 1 GRADE GS08
+20 MAX. NO. OF EMPLOYEES 1
+21
+22 SECTION 12. APPROPRIATION - OPERATIONS - ARKANSAS DIETETICS LICENSING
+23 BOARD. There is hereby appropriated, to the Department of Health, to be
+24 payable from the cash fund deposited in the State Treasury as determined by
+25 the Chief Fiscal Officer of the State, for personal services and operating
+26 expenses of the Department of Health - Arkansas Dietetics Licensing Board for
+27 the fiscal year ending June 30, 2026, the following:
+28
+29 ITEM FISCAL YEAR
+30 NO. 2025-2026
+31 (01) REGULAR SALARIES $47,260
+32 (02) PERSONAL SERVICES MATCHING 18,775
+33 (03) MAINT. & GEN. OPERATION
+34 (A) OPER. EXPENSE 5,000
+35 (B) CONF. & TRAVEL 0
+36 (C) PROF. FEES 0
+6 03-10-2025 15:55:41 MAH017
+
+As Engrossed: S3/10/25 SB38
+1 (D) CAP. OUTLAY 0
+2 (E) DATA PROC. 0
+3 TOTAL AMOUNT APPROPRIATED $71,035
+4
+5 SECTION 13. REGULAR SALARIES - OPERATIONS - ARKANSAS BOARD OF
+6 DISPENSING OPTICIANS. There is hereby established for the Department of
+7 Health - Arkansas Board of Dispensing Opticians for the 2025-2026 fiscal
+8 year, the following maximum number of regular employees.
+9
+10 Maximum Annual
+11 Maximum Salary Rate
+12 Item Class No. of Fiscal Year
+13 No. Code Title Employees 2025-2026
+14 (1) L091C ADH PUBLIC HEALTH SECTION CHIEF I 1 GRADE GS08
+15 MAX. NO. OF EMPLOYEES 1
+16
+17 SECTION 14. EXTRA HELP - ARKANSAS BOARD OF DISPENSING OPTICIANS. There
+18 is hereby authorized, for the Department of Health - Arkansas Board of
+19 Dispensing Opticians for the 2025-2026 fiscal year, the following maximum
+20 number of part-time or temporary employees, to be known as "Extra Help",
+21 payable from funds appropriated herein for such purposes: one (1) temporary
+22 or part-time employees, when needed, at rates of pay not to exceed those
+23 provided in the Uniform Classification and Compensation Act, or its
+24 successor, or this act for the appropriate classification.
+25
+26 SECTION 15. APPROPRIATION - OPERATIONS - ARKANSAS BOARD OF DISPENSING
+27 OPTICIANS. There is hereby appropriated, to the Department of Health, to be
+28 payable from the Board of Dispensing Opticians' Fund, for personal services
+29 and operating expenses of the Department of Health - Arkansas Board of
+30 Dispensing Opticians for the fiscal year ending June 30, 2026, the following:
+31
+32 ITEM FISCAL YEAR
+33 NO. 2025-2026
+34 (01) REGULAR SALARIES $49,750
+35 (02) EXTRA HELP 1,200
+36 (03) PERSONAL SERVICES MATCHING 18,943
+7 03-10-2025 15:55:41 MAH017
+
+As Engrossed: S3/10/25 SB38
+1 (04) MAINT. & GEN. OPERATION
+2 (A) OPER. EXPENSE 23,900
+3 (B) CONF. & TRAVEL 0
+4 (C) PROF. FEES 0
+5 (D) CAP. OUTLAY 0
+6 (E) DATA PROC. 0
+7 (05) REFUNDS/REIMBURSEMENTS 200
+8 TOTAL AMOUNT APPROPRIATED $93,993
+9
+10 SECTION 16. EXTRA HELP - ARKANSAS BOARD OF HEARING INSTRUMENT
+11 DISPENSERS. There is hereby authorized, for the Department of Health -
+12 Arkansas Board of Hearing Instrument Dispensers for the 2025-2026 fiscal
+13 year, the following maximum number of part-time or temporary employees, to be
+14 known as "Extra Help", payable from funds appropriated herein for such
+15 purposes: two (2) temporary or part-time employees, when needed, at rates of
+16 pay not to exceed those provided in the Uniform Classification and
+17 Compensation Act, or its successor, or this act for the appropriate
+18 classification.
+19
+20 SECTION 17. APPROPRIATION - OPERATIONS - ARKANSAS BOARD OF HEARING
+21 INSTRUMENT DISPENSERS. There is hereby appropriated, to the Department of
+22 Health, to be payable from the cash fund deposited in the State Treasury as
+23 determined by the Chief Fiscal Officer of the State, for personal services
+24 and operating expenses of the Department of Health - Arkansas Board of
+25 Hearing Instrument Dispensers for the fiscal year ending June 30, 2026, the
+26 following:
+27
+28 ITEM FISCAL YEAR
+29 NO. 2025-2026
+30 (01) EXTRA HELP $30,200
+31 (02) PERSONAL SERVICES MATCHING 2,328
+32 (03) MAINT. & GEN. OPERATION
+33 (A) OPER. EXPENSE 17,800
+34 (B) CONF. & TRAVEL 0
+35 (C) PROF. FEES 350
+36 (D) CAP. OUTLAY 0
+8 03-10-2025 15:55:41 MAH017
+
+As Engrossed: S3/10/25 SB38
+1 (E) DATA PROC. 0
+2 TOTAL AMOUNT APPROPRIATED $50,678
+3
+4 SECTION 18. REGULAR SALARIES - OPERATIONS - ARKANSAS STATE MEDICAL
+5 BOARD. There is hereby established for the Department of Health - Arkansas
+6 State Medical Board for the 2025-2026 fiscal year, the following maximum
+7 number of regular employees.
+8
+9 Maximum Annual
+10 Maximum Salary Rate
+11 Item Class No. of Fiscal Year
+12 No. Code Title Employees 2025-2026
+13 (1) U134U ADH EXEC DIR AR STATE MEDICAL BD 1 GRADE SE01
+14 (2) D030C INFORMATION SYSTEMS COORDINATOR 1 GRADE IT07
+15 (3) D065C NETWORK SUPPORT ANALYST 1 GRADE IT04
+16 (4) D064C WEBSITE DEVELOPER 2 GRADE IT04
+17 (5) G076C ADMINISTRATIVE SERVICES MANAGER 1 GRADE GS10
+18 (6) R019C BUDGET MANAGER 1 GRADE GS09
+19 (7) X030C REGULATORY BOARD CHIEF INVESTIGATOR 1 GRADE GS08
+20 (8) C037C ADMINISTRATIVE ANALYST 4 GRADE GS06
+21 (9) E046C TRAINING INSTRUCTOR 1 GRADE GS06
+22 (10) G187C CREDENTIALING COORDINATION SUPERVISOR 2 GRADE GS05
+23 (11) C056C ADMINISTRATIVE SPECIALIST III 1 GRADE GS04
+24 (12) A098C FISCAL SUPPORT SPECIALIST 2 GRADE GS04
+25 (13) C045C LICENSING COORDINATOR 16 GRADE GS04
+26 MAX. NO. OF EMPLOYEES 34
+27
+28 SECTION 19. EXTRA HELP - ARKANSAS STATE MEDICAL BOARD. There is hereby
+29 authorized, for the Department of Health - Arkansas State Medical Board for
+30 the 2025-2026 fiscal year, the following maximum number of part-time or
+31 temporary employees, to be known as "Extra Help", payable from funds
+32 appropriated herein for such purposes: two (2) temporary or part-time
+33 employees, when needed, at rates of pay not to exceed those provided in the
+34 Uniform Classification and Compensation Act, or its successor, or this act
+35 for the appropriate classification.
+36
+9 03-10-2025 15:55:41 MAH017
+
+As Engrossed: S3/10/25 SB38
+1 SECTION 20. APPROPRIATION - OPERATIONS - ARKANSAS STATE MEDICAL BOARD.
+2 There is hereby appropriated, to the Department of Health, to be payable from
+3 the cash fund deposited in the State Treasury as determined by the Chief
+4 Fiscal Officer of the State, for personal services and operating expenses of
+5 the Department of Health - Arkansas State Medical Board for the fiscal year
+6 ending June 30, 2026, the following:
+7
+8 ITEM FISCAL YEAR
+9 NO. 2025-2026
+10 (01) REGULAR SALARIES $1,493,519
+11 (02) EXTRA HELP 24,500
+12 (03) PERSONAL SERVICES MATCHING 584,328
+13 (04) MAINT. & GEN. OPERATION
+14 (A) OPER. EXPENSE 1,379,645
+15 (B) CONF. & TRAVEL 19,000
+16 (C) PROF. FEES 21,000
+17 (D) CAP. OUTLAY 0
+18 (E) DATA PROC. 0
+19 (05) REFUNDS/REIMBURSEMENTS 7,500
+20 TOTAL AMOUNT APPROPRIATED $3,529,492
+21
+22 SECTION 21. REGULAR SALARIES - OPERATIONS - ARKANSAS STATE BOARD OF
+23 NURSING. There is hereby established for the Department of Health - Arkansas
+24 State Board of Nursing for the 2025-2026 fiscal year, the following maximum
+25 number of regular employees.
+26
+27 Maximum Annual
+28 Maximum Salary Rate
+29 Item Class No. of Fiscal Year
+30 No. Code Title Employees 2025-2026
+31 (1) U096U ADH ASBN EXECUTIVE DIRECTOR 1 GRADE SE01
+32 (2) L018N NURSE PRACTITIONER 1 GRADE MP04
+33 (3) L009C NURSE MANAGER 3 GRADE MP03
+34 (4) L026C ADH NURSING PROGRAM COORD 2 GRADE MP02
+35 (5) D030C INFORMATION SYSTEMS COORDINATOR 1 GRADE IT07
+36 (6) D084C COMPUTER OPERATOR 1 GRADE IT02
+10 03-10-2025 15:55:41 MAH017
+
+As Engrossed: S3/10/25 SB38
+1 (7) G013N ADH ASBN GENERAL COUNSEL 1 GRADE GS12
+2 (8) G047C ATTORNEY SPECIALIST 1 GRADE GS11
+3 (9) G076C ADMINISTRATIVE SERVICES MANAGER 1 GRADE GS10
+4 (10) X030C REGULATORY BOARD CHIEF INVESTIGATOR 1 GRADE GS08
+5 (11) C010C EXECUTIVE ASSISTANT TO THE DIRECTOR 1 GRADE GS07
+6 (12) P013C PUBLIC INFORMATION COORDINATOR 1 GRADE GS07
+7 (13) C037C ADMINISTRATIVE ANALYST 1 GRADE GS06
+8 (14) C056C ADMINISTRATIVE SPECIALIST III 1 GRADE GS04
+9 (15) A098C FISCAL SUPPORT SPECIALIST 1 GRADE GS04
+10 (16) C046C LEGAL SUPPORT SPECIALIST 4 GRADE GS04
+11 (17) C045C LICENSING COORDINATOR 6 GRADE GS04
+12 (18) C073C ADMINISTRATIVE SPECIALIST II 2 GRADE GS03
+13 MAX. NO. OF EMPLOYEES 30
+14
+15 SECTION 22. EXTRA HELP - OPERATIONS - ARKANSAS STATE BOARD OF NURSING.
+16 There is hereby authorized, for the Department of Health - Arkansas State
+17 Board of Nursing for the 2025-2026 fiscal year, the following maximum number
+18 of part-time or temporary employees, to be known as "Extra Help", payable
+19 from funds appropriated herein for such purposes: one (1) temporary or part-
+20 time employees, when needed, at rates of pay not to exceed those provided in
+21 the Uniform Classification and Compensation Act, or its successor, or this
+22 act for the appropriate classification.
+23
+24 SECTION 23. APPROPRIATION - OPERATIONS - ARKANSAS STATE BOARD OF
+25 NURSING. There is hereby appropriated, to the Department of Health, to be
+26 payable from the State Board of Nursing Fund, for personal services and
+27 operating expenses of the Department of Health - Arkansas State Board of
+28 Nursing for the fiscal year ending June 30, 2026, the following:
+29
+30 ITEM FISCAL YEAR
+31 NO. 2025-2026
+32 (01) REGULAR SALARIES $1,982,888
+33 (02) EXTRA HELP 5,000
+34 (03) PERSONAL SERVICES MATCHING 689,775
+35 (04) MAINT. & GEN. OPERATION
+36 (A) OPER. EXPENSE 1,040,914
+11 03-10-2025 15:55:41 MAH017
+
+As Engrossed: S3/10/25 SB38
+1 (B) CONF. & TRAVEL 43,448
+2 (C) PROF. FEES 2,000
+3 (D) CAP. OUTLAY 0
+4 (E) DATA PROC. 0
+5 (05) REFUNDS/REIMBURSEMENTS 1,000
+6 TOTAL AMOUNT APPROPRIATED $3,765,025
+7
+8 SECTION 24. APPROPRIATION - ARKANSAS STATE BOARD OF NURSING - SCHOLAR
+9 LOANS. There is hereby appropriated, to the Department of Health - Arkansas
+10 State Board of Nursing, to be payable from the cash fund deposited in the
+11 State Treasury as determined by the Chief Fiscal Officer of the State, for
+12 the Nursing Student Loan Program to make student loans for the fiscal year
+13 ending June 30, 2026, the following:
+14
+15 ITEM FISCAL YEAR
+16 NO. 2025-2026
+17 (01) NURSING STUDENT LOAN PROGRAM $100,000
+18
+19 SECTION 25. APPROPRIATION - ARKANSAS STATE BOARD OF NURSING - NURSING
+20 EDUCATION WORKSHOPS. There is hereby appropriated, to the Department of
+21 Health, to be payable from the cash fund deposited in the State Treasury as
+22 determined by the Chief Fiscal Officer of the State, for operating expenses
+23 of the Department of Health - Arkansas State Board of Nursing - Nursing
+24 Education Workshops for the fiscal year ending June 30, 2026, the following:
+25
+26 ITEM FISCAL YEAR
+27 NO. 2025-2026
+28 (01) MAINT. & GEN. OPERATION
+29 (A) OPER. EXPENSE $14,325
+30 (B) CONF. & TRAVEL 0
+31 (C) PROF. FEES 2,000
+32 (D) CAP. OUTLAY 0
+33 (E) DATA PROC. 0
+34 TOTAL AMOUNT APPROPRIATED $16,325
+35
+36 SECTION 26. APPROPRIATION - ARKANSAS STATE BOARD OF NURSING - ARKANSAS
+12 03-10-2025 15:55:41 MAH017
+
+As Engrossed: S3/10/25 SB38
+1 CENTER FOR NURSING GRANT. There is hereby appropriated, to the Department of
+2 Health - Arkansas State Board of Nursing, to be payable from the State Board
+3 of Nursing Fund, for a grant for personal services and operating expenses for
+4 the Arkansas Center for Nursing for the fiscal year ending June 30, 2026, the
+5 following:
+6
+7 ITEM FISCAL YEAR
+8 NO. 2025-2026
+9 (01) ARKANSAS CENTER FOR NURSING GRANT $173,000
+10
+11 SECTION 27. REGULAR SALARIES - OPERATIONS - STATE BOARD OF OPTOMETRY.
+12 There is hereby established for the Department of Health - State Board of
+13 Optometry for the 2025-2026 fiscal year, the following maximum number of
+14 regular employees.
+15
+16 Maximum Annual
+17 Maximum Salary Rate
+18 Item Class No. of Fiscal Year
+19 No. Code Title Employees 2025-2026
+20 (1) L091C ADH PUBLIC HEALTH SECTION CHIEF I 1 GRADE GS08
+21 (2) A098C FISCAL SUPPORT SPECIALIST 1 GRADE GS04
+22 MAX. NO. OF EMPLOYEES 2
+23
+24 SECTION 28. APPROPRIATION - OPERATIONS - STATE BOARD OF OPTOMETRY.
+25 There is hereby appropriated, to the Department of Health, to be payable from
+26 the cash fund deposited in the State Treasury as determined by the Chief
+27 Fiscal Officer of the State, for personal services and operating expenses of
+28 the Department of Health - State Board of Optometry for the fiscal year
+29 ending June 30, 2026, the following:
+30
+31 ITEM FISCAL YEAR
+32 NO. 2025-2026
+33 (01) REGULAR SALARIES $110,887
+34 (02) PERSONAL SERVICES MATCHING 40,545
+35 (03) MAINT. & GEN. OPERATION
+36 (A) OPER. EXPENSE 32,000
+13 03-10-2025 15:55:41 MAH017
+
+As Engrossed: S3/10/25 SB38
+1 (B) CONF. & TRAVEL 0
+2 (C) PROF. FEES 35,000
+3 (D) CAP. OUTLAY 0
+4 (E) DATA PROC. 0
+5 TOTAL AMOUNT APPROPRIATED $218,432
+6
+7 SECTION 29. REGULAR SALARIES - OPERATIONS - ARKANSAS STATE BOARD OF
+8 PHARMACY. There is hereby established for the Department of Health -
+9 Arkansas State Board of Pharmacy for the 2025-2026 fiscal year, the following
+10 maximum number of regular employees.
+11
+12 Maximum Annual
+13 Maximum Salary Rate
+14 Item Class No. of Fiscal Year
+15 No. Code Title Employees 2025-2026
+16 (1) N001N ADH DIRECTOR OF PHARMACY BOARD 1 GRADE MP08
+17 (2) L015N ADH ASST PHARMACY DIRECTOR 1 GRADE MP07
+18 (3) L107C ADH ASBP PHARMACIST INSPECTOR 3 GRADE MP06
+19 (4) G041N ADH ASPB GENERAL COUNSEL 1 GRADE GS13
+20 (5) A023C ADH PHARMACY BOARD CHIEF FISCAL OFFICER 1 GRADE GS10
+21 (6) C037C ADMINISTRATIVE ANALYST 2 GRADE GS06
+22 (7) D087C DATABASE COORD/BUSINESS LIC. ANALYST 1 GRADE GS05
+23 MAX. NO. OF EMPLOYEES 10
+24
+25 SECTION 30. EXTRA HELP - ARKANSAS STATE BOARD OF PHARMACY. There is
+26 hereby authorized, for the Department of Health for the 2025-2026 fiscal
+27 year, the following maximum number of part-time or temporary employees, to be
+28 known as "Extra Help", payable from funds appropriated herein for such
+29 purposes: four (4) temporary or part-time employees, when needed, at rates of
+30 pay not to exceed those provided in the Uniform Classification and
+31 Compensation Act, or its successor, or this act for the appropriate
+32 classification.
+33
+34 SECTION 31. APPROPRIATION - OPERATIONS - ARKANSAS STATE BOARD OF
+35 PHARMACY. There is hereby appropriated, to the Department of Health -
+36 Arkansas State Board of Pharmacy, to be payable from the cash fund deposited
+14 03-10-2025 15:55:41 MAH017
+
+As Engrossed: S3/10/25 SB38
+1 in the State Treasury as determined by the Chief Fiscal Officer of the State,
+2 for personal services and operating expenses of the Department of Health -
+3 Arkansas State Board of Pharmacy for the fiscal year ending June 30, 2026,
+4 the following:
+5
+6 ITEM FISCAL YEAR
+7 NO. 2025-2026
+8 (01) REGULAR SALARIES $1,259,530
+9 (02) EXTRA HELP 30,000
+10 (03) PERSONAL SERVICES MATCHING 362,617
+11 (04) MAINT. & GEN. OPERATION
+12 (A) OPER. EXPENSE 586,985
+13 (B) CONF. & TRAVEL 29,120
+14 (C) PROF. FEES 0
+15 (D) CAP. OUTLAY 0
+16 (E) DATA PROC. 0
+17 (05) REFUNDS/REIMBURSEMENTS 3,000
+18 (06) IMPAIRED PHARMACIST PROGRAM 50,000
+19 TOTAL AMOUNT APPROPRIATED $2,321,252
+20
+21 SECTION 32. APPROPRIATION ARKANSAS STATE BOARD OF PHARMACY - PHARMACY
+22 STUDENT LOANS AND SCHOLARSHIPS. There is hereby appropriated, to the
+23 Department of Health, to be payable from the cash fund deposited in the State
+24 Treasury as determined by the Chief Fiscal Officer of the State, for grants
+25 to colleges of pharmacy in Arkansas for pharmacy student loans and
+26 scholarships of the Department of Health - Arkansas State Board of Pharmacy
+27 for the fiscal year ending June 30, 2026, the following:
+28
+29 ITEM FISCAL YEAR
+30 NO. 2025-2026
+31 (1) PHARMACY STUDENT LOAN/SCHOLARSHIPS $400,000
+32
+33 SECTION 33. REGULAR SALARIES - OPERATIONS - ARKANSAS STATE BOARD OF
+34 PHYSICAL THERAPY. There is hereby established for the Department of Health -
+35 Arkansas State Board of Physical Therapy for the 2025-2026 fiscal year, the
+36 following maximum number of regular employees.
+15 03-10-2025 15:55:41 MAH017
+
+As Engrossed: S3/10/25 SB38
+1
+2 Maximum Annual
+3 Maximum Salary Rate
+4 Item Class No. of Fiscal Year
+5 No. Code Title Employees 2025-2026
+6 (1) X050C ADH PHYSICAL THERAPY BD EXEC DIR 1 GRADE GS08
+7 (2) C056C ADMINISTRATIVE SPECIALIST III 1 GRADE GS04
+8 MAX. NO. OF EMPLOYEES 2
+9
+10 SECTION 34. APPROPRIATION - OPERATIONS - ARKANSAS STATE BOARD OF
+11 PHYSICAL THERAPY. There is hereby appropriated, to the Department of Health,
+12 to be payable from the cash fund deposited in the State Treasury as
+13 determined by the Chief Fiscal Officer of the State, for personal services
+14 and operating expenses of the Department of Health - Arkansas State Board of
+15 Physical Therapy for the fiscal year ending June 30, 2026, the following:
+16
+17 ITEM FISCAL YEAR
+18 NO. 2025-2026
+19 (01) REGULAR SALARIES $118,146
+20 (02) PERSONAL SERVICES MATCHING 42,672
+21 (03) MAINT. & GEN. OPERATION
+22 (A) OPER. EXPENSE 89,833
+23 (B) CONF. & TRAVEL 0
+24 (C) PROF. FEES 8,490
+25 (D) CAP. OUTLAY 0
+26 (E) DATA PROC. 0
+27 TOTAL AMOUNT APPROPRIATED $259,141
+28
+29 SECTION 35. APPROPRIATION - ARKANSAS STATE BOARD OF PHYSICAL THERAPY -
+30 SCHOLARSHIP PROGRAM. There is hereby appropriated, to the Department of
+31 Health, to be payable from the cash fund deposited in the State Treasury as
+32 determined by the Chief Fiscal Officer of the State, for a scholarship
+33 program of the Department of Health - Arkansas State Board of Physical
+34 Therapy for the fiscal year ending June 30, 2026, the following:
+35
+36 ITEM FISCAL YEAR
+16 03-10-2025 15:55:41 MAH017
+
+As Engrossed: S3/10/25 SB38
+1 NO. 2025-2026
+2 (01) SCHOLARSHIP PROGRAM $200,000
+3
+4 SECTION 36. APPROPRIATION - OPERATIONS - ARKANSAS BOARD OF PODIATRIC
+5 MEDICINE. There is hereby appropriated, to the Department of Health, to be
+6 payable from the cash fund deposited in the State Treasury as determined by
+7 the Chief Fiscal Officer of the State, for personal services and operating
+8 expenses of the Department of Health - Arkansas Board of Podiatric Medicine
+9 for the fiscal year ending June 30, 2026, the following:
+10
+11 ITEM FISCAL YEAR
+12 NO. 2025-2026
+13 (01) REGULAR SALARIES $1,800
+14 (02) PERSONAL SERVICES MATCHING 138
+15 (03) MAINT. & GEN. OPERATION
+16 (A) OPER. EXPENSE 4,052
+17 (B) CONF. & TRAVEL 0
+18 (C) PROF. FEES 250
+19 (D) CAP. OUTLAY 0
+20 (E) DATA PROC. 0
+21 TOTAL AMOUNT APPROPRIATED $6,240
+22
+23 SECTION 37. REGULAR SALARIES - OPERATIONS - ARKANSAS PSYCHOLOGY BOARD.
+24 There is hereby established for the Department of Health - Arkansas
+25 Psychology Board for the 2025-2026 fiscal year, the following maximum number
+26 of regular employees.
+27
+28 Maximum Annual
+29 Maximum Salary Rate
+30 Item Class No. of Fiscal Year
+31 No. Code Title Employees 2025-2026
+32 (1) L091C ADH PUBLIC HEALTH SECTION CHIEF I 1 GRADE GS08
+33 (2) C056C ADMINISTRATIVE SPECIALIST III 1 GRADE GS04
+34 MAX. NO. OF EMPLOYEES 2
+35
+36 SECTION 38. APPROPRIATION - OPERATIONS - ARKANSAS PSYCHOLOGY BOARD.
+17 03-10-2025 15:55:41 MAH017
+
+As Engrossed: S3/10/25 SB38
+1 There is hereby appropriated, to the Department of Health, to be payable from
+2 the cash fund deposited in the State Treasury as determined by the Chief
+3 Fiscal Officer of the State, for personal services and operating expenses of
+4 the Department of Health - Arkansas Psychology Board for the fiscal year
+5 ending June 30, 2026, the following:
+6
+7 ITEM FISCAL YEAR
+8 NO. 2025-2026
+9 (01) REGULAR SALARIES $92,890
+10 (02) PERSONAL SERVICES MATCHING 37,177
+11 (03) MAINT. & GEN. OPERATION
+12 (A) OPER. EXPENSE 61,540
+13 (B) CONF. & TRAVEL 3,000
+14 (C) PROF. FEES 24,727
+15 (D) CAP. OUTLAY 0
+16 (E) DATA PROC. 0
+17 TOTAL AMOUNT APPROPRIATED $219,334
+18
+19 SECTION 39. APPROPRIATION - ARKANSAS PSYCHOLOGY BOARD - SCHOLARSHIP
+20 PROGRAM. There is hereby appropriated, to the Department of Health -
+21 Arkansas Psychology Board, to be payable from the cash fund deposited in the
+22 State Treasury as determined by the Chief Fiscal Officer of the State, for
+23 scholarships for psychology students pursing training as psychological and
+24 neurological technicians for the fiscal year ending June 30, 2026, the
+25 following:
+26
+27 ITEM FISCAL YEAR
+28 NO. 2025-2026
+29 (01) PSYCHOLOGY STUDENT SCHOLARSHIPS $150,000
+30
+31 SECTION 40. REGULAR SALARIES - ARKANSAS SOCIAL WORK LICENSING BOARD.
+32 There is hereby established for the Department of Health - Arkansas Social
+33 Work Licensing Board for the 2025-2026 fiscal year, the following maximum
+34 number of regular employees.
+35
+36 Maximum Annual
+18 03-10-2025 15:55:41 MAH017
+
+As Engrossed: S3/10/25 SB38
+1 Maximum Salary Rate
+2 Item Class No. of Fiscal Year
+3 No. Code Title Employees 2025-2026
+4 (1) X135C ADH SOCIAL WORK LICENSING BD EXEC DI 1 GRADE GS08
+5 (2) C056C ADMINISTRATIVE SPECIALIST III 1 GRADE GS04
+6 MAX. NO. OF EMPLOYEES 2
+7
+8 SECTION 41. EXTRA HELP - ARKANSAS SOCIAL WORK LICENSING BOARD. There
+9 is hereby authorized, for the Department of Health - Arkansas Social Work
+10 Licensing Board for the 2025-2026 fiscal year, the following maximum number
+11 of part-time or temporary employees, to be known as "Extra Help", payable
+12 from funds appropriated herein for such purposes: one (1) temporary or part-
+13 time employees, when needed, at rates of pay not to exceed those provided in
+14 the Uniform Classification and Compensation Act, or its successor, or this
+15 act for the appropriate classification.
+16
+17 SECTION 42. APPROPRIATION - OPERATIONS - ARKANSAS SOCIAL WORK LICENSING
+18 BOARD. There is hereby appropriated, to the Department of Health, to be
+19 payable from the Social Work Licensing Fund, for personal services and
+20 operating expenses of the Department of Health - Arkansas Social Work
+21 Licensing Board for the fiscal year ending June 30, 2026, the following:
+22
+23 ITEM FISCAL YEAR
+24 NO. 2025-2026
+25 (01) REGULAR SALARIES $116,308
+26 (02) EXTRA HELP 6,000
+27 (03) PERSONAL SERVICES MATCHING 41,609
+28 (04) MAINT. & GEN. OPERATION
+29 (A) OPER. EXPENSE 42,000
+30 (B) CONF. & TRAVEL 6,000
+31 (C) PROF. FEES 7,000
+32 (D) CAP. OUTLAY 0
+33 (E) DATA PROC. 0
+34 (05) REFUNDS/REIMBURSEMENTS 500
+35 TOTAL AMOUNT APPROPRIATED $219,417
+36
+19 03-10-2025 15:55:41 MAH017
+
+As Engrossed: S3/10/25 SB38
+1 SECTION 43. REGULAR SALARIES - BOARD OF EXAMINERS IN SPEECH-LANGUAGE
+2 PATHOLOGY AND AUDIOLOGY. There is hereby established for the Department of
+3 Health - Board of Examiners in Speech-Language Pathology and Audiology for
+4 the 2025-2026 fiscal year, the following maximum number of regular employees.
+5
+6 Maximum Annual
+7 Maximum Salary Rate
+8 Item Class No. of Fiscal Year
+9 No. Code Title Employees 2025-2026
+10 (1) L059C ADH ABSLPA DIRECTOR 1 GRADE GS08
+11 (2) C072C ADMINISTRATIVE SUPPORT SPECIALIST 1 GRADE GS04
+12 MAX. NO. OF EMPLOYEES 2
+13
+14 SECTION 44. EXTRA HELP - BOARD OF EXAMINERS IN SPEECH-LANGUAGE
+15 PATHOLOGY AND AUDIOLOGY. There is hereby authorized, for the Department of
+16 Health - Board of Examiners in Speech-Language Pathology and Audiology for
+17 the 2025-2026 fiscal year, the following maximum number of part-time or
+18 temporary employees, to be known as "Extra Help", payable from funds
+19 appropriated herein for such purposes: one (1) temporary or part-time
+20 employees, when needed, at rates of pay not to exceed those provided in the
+21 Uniform Classification and Compensation Act, or its successor, or this act
+22 for the appropriate classification.
+23
+24 SECTION 45. APPROPRIATION - OPERATIONS - BOARD OF EXAMINERS IN SPEECH-
+25 LANGUAGE PATHOLOGY AND AUDIOLOGY. There is hereby appropriated, to the
+26 Department of Health, to be payable from the cash fund deposited in the State
+27 Treasury as determined by the Chief Fiscal Officer of the State, for personal
+28 services and operating expenses of the Department of Health - Board of
+29 Examiners in Speech-Language Pathology and Audiology for the fiscal year
+30 ending June 30, 2026, the following:
+31
+32 ITEM FISCAL YEAR
+33 NO. 2025-2026
+34 (01) REGULAR SALARIES $98,930
+35 (02) EXTRA HELP 12,000
+36 (03) PERSONAL SERVICES MATCHING 39,482
+20 03-10-2025 15:55:41 MAH017
+
+As Engrossed: S3/10/25 SB38
+1 (04) MAINT. & GEN. OPERATION
+2 (A) OPER. EXPENSE 50,516
+3 (B) CONF. & TRAVEL 3,250
+4 (C) PROF. FEES 12,800
+5 (D) CAP. OUTLAY 0
+6 (E) DATA PROC. 0
+7 TOTAL AMOUNT APPROPRIATED $216,978
+8
+9 SECTION 46. REGULAR SALARIES - ARKANSAS SPINAL CORD COMMISSION. There
+10 is hereby established for the Department of Health - Arkansas Spinal Cord
+11 Commission for the 2025-2026 fiscal year, the following maximum number of
+12 regular employees.
+13
+14 Maximum Annual
+15 Maximum Salary Rate
+16 Item Class No. of Fiscal Year
+17 No. Code Title Employees 2025-2026
+18 (1) D057C INFORMATION TECHNOLOGY MANAGER 1 GRADE IT05
+19 (2) U006U ADH EXECUTIVE DIRECTOR SPINAL CORD C 1 GRADE GS12
+20 (3) M013C ADH SPINAL CORD COMN CLIENT SVS ADMI 1 GRADE GS09
+21 (4) A050C AGENCY FISCAL MANAGER 1 GRADE GS09
+22 (5) L098C CERTIFIED VOCATIONAL REHAB COUNSELOR 7 GRADE GS08
+23 (6) M026C LICENSED SOCIAL WORKER 1 GRADE GS07
+24 (7) L051C REHABILITATION COUNSELOR 9 GRADE GS06
+25 (8) C056C ADMINISTRATIVE SPECIALIST III 1 GRADE GS04
+26 (9) C073C ADMINISTRATIVE SPECIALIST II 3 GRADE GS03
+27 MAX. NO. OF EMPLOYEES 25
+28
+29 SECTION 47. APPROPRIATION - ARKANSAS SPINAL CORD COMMISSION - STATE
+30 OPERATIONS. There is hereby appropriated, to the Department of Health, to be
+31 payable from the Miscellaneous Agencies Fund Account, for personal services
+32 and operating expenses of the Department of Health - Arkansas Spinal Cord
+33 Commission for the fiscal year ending June 30, 2026, the following:
+34
+35 ITEM FISCAL YEAR
+36 NO. 2025-2026
+21 03-10-2025 15:55:41 MAH017
+
+As Engrossed: S3/10/25 SB38
+1 (01) REGULAR SALARIES $1,235,581
+2 (02) PERSONAL SERVICES MATCHING 488,362
+3 (03) MAINT. & GEN. OPERATION
+4 (A) OPER. EXPENSE 219,888
+5 (B) CONF. & TRAVEL 15,620
+6 (C) PROF. FEES 19,065
+7 (D) CAP. OUTLAY 0
+8 (E) DATA PROC. 0
+9 (04) LONG TERM ATTENDANT CARE 261,610
+10 (05) SPINAL TREATMENT PROGRAM 772,000
+11 TOTAL AMOUNT APPROPRIATED $3,012,126
+12
+13 SECTION 48. APPROPRIATION - FEDERAL OPERATIONS - ARKANSAS SPINAL CORD
+14 COMMISSION. There is hereby appropriated, to the Department of Health, to be
+15 payable from the federal funds as designated by the Chief Fiscal Officer of
+16 the State, for operating expenses of the Department of Health - Arkansas
+17 Spinal Cord Commission for the fiscal year ending June 30, 2026, the
+18 following:
+19
+20 ITEM FISCAL YEAR
+21 NO. 2025-2026
+22 (01) MAINT. & GEN. OPERATION
+23 (A) OPER. EXPENSE $20,000
+24 (B) CONF. & TRAVEL 3,000
+25 (C) PROF. FEES 5,000
+26 (D) CAP. OUTLAY 0
+27 (E) DATA PROC. 0
+28 TOTAL AMOUNT APPROPRIATED $28,000
+29
+30 SECTION 49. APPROPRIATION - CASH - ARKANSAS SPINAL CORD COMMISSION.
+31 There is hereby appropriated, to the Department of Health, to be payable from
+32 the cash fund deposited in the State Treasury as determined by the Chief
+33 Fiscal Officer of the State, for operating expenses of the Department of
+34 Health - Arkansas Spinal Cord Commission for the fiscal year ending June 30,
+35 2026, the following:
+36
+22 03-10-2025 15:55:41 MAH017
+
+As Engrossed: S3/10/25 SB38
+1 ITEM FISCAL YEAR
+2 NO. 2025-2026
+3 (01) MAINT. & GEN. OPERATION
+4 (A) OPER. EXPENSE $40,000
+5 (B) CONF. & TRAVEL 0
+6 (C) PROF. FEES 10,000
+7 (D) CAP. OUTLAY 0
+8 (E) DATA PROC. 0
+9 TOTAL AMOUNT APPROPRIATED $50,000
+10
+11 SECTION 50. SPECIAL LANGUAGE. NOT TO BE INCORPORATED INTO THE ARKANSAS
+12 CODE NOR PUBLISHED SEPARATELY AS SPECIAL, LOCAL AND TEMPORARY LAW. ARKANSAS
+13 STATE BOARD OF CHIROPRACTIC EXAMINERS - INVESTIGATIVE SERVICES FOR CONSUMER
+14 COMPLAINTS. Ten thousand dollars ($10,000) of the available appropriation in
+15 the Professional Fees Line item of this act shall be made available to the
+16 board for the purpose of contracting an independent or private investigator
+17 for investigative services regarding complaints submitted by consumers.
+18 (a)(1) The Arkansas State Board of Chiropractic Examiners shall contract
+19 with an outside investigator as needed to perform investigations and conduct
+20 inspections of alleged wrongdoing.
+21 (2) An outside investigator contracted under subdivision (a)(1) of
+22 this section shall have expertise or background in the subject matter in
+23 which he or she is being contracted to investigate.
+24 (b) The duties of an investigator hired under this section shall
+25 include without limitation investigation and inspection of all complaints, as
+26 determined by the board, to determine whether a person has:
+27 (1) Practiced his or her profession in such a way as to endanger the general
+28 health and welfare of the public; or
+29 (2) Otherwise violated this chapter or rules of the board.
+30 (c)(1) The board shall file a report annually on or before December 1
+31 with the Senate Committee on State Agencies and Governmental Affairs and the
+32 House Committee on State Agencies and Governmental Affairs for the
+33 committees' review.
+34 (2) The report shall include:
+35 (A) The number of complaints that have been filed;
+36 (B) A list of who has been investigated and the purported
+23 03-10-2025 15:55:41 MAH017
+
+As Engrossed: S3/10/25 SB38
+1 violation; and
+2 (C) A summary of the findings of each investigation.
+3 The provisions of this section shall be in effect only from July 1,
+4 2024 2025 through June 30, 2025 2026.
+5
+6 SECTION 51. SPECIAL LANGUAGE. NOT TO BE INCORPORATED INTO THE ARKANSAS
+7 CODE NOR PUBLISHED SEPARATELY AS SPECIAL, LOCAL AND TEMPORARY LAW. ARKANSAS
+8 STATE BOARD OF DENTAL EXAMINERS - EDUCATIONAL PROGRAMS. The Arkansas State
+9 Board of Dental Examiners is hereby authorized to expend from monies
+10 authorized herein, $15 from each licensed dentist licensed by the State Board
+11 of Dental Examiners each year to be paid by the Arkansas State Board of
+12 Dental Examiners to 501(c)(3) Arkansas foundations that have healthcare
+13 professionals on their board and provide for identification, treatment and
+14 monitoring of healthcare professionals who suffer from alcohol or drug abuse
+15 problems, in order to promote the public health and safety and to insure the
+16 continued availability of skilled and highly trained dental professionals for
+17 the benefit of the public.
+18 The provisions of this section shall be in effect only from July 1, 2024
+19 2025 through June 30, 2025 2026.
+20
+21 SECTION 52. SPECIAL LANGUAGE. NOT TO BE INCORPORATED INTO THE ARKANSAS
+22 CODE NOR PUBLISHED SEPARATELY AS SPECIAL, LOCAL AND TEMPORARY LAW. ARKANSAS
+23 STATE MEDICAL BOARD - EDUCATIONAL PROGRAMS. The State Medical Board is hereby
+24 authorized to expend from monies authorized herein, $30 from each licensed
+25 physician licensed by the State Medical Board each year to be paid by the
+26 State Medical Board to 501(c)(3) Arkansas foundations that have healthcare
+27 professionals on their board and provide for identification, treatment and
+28 monitoring of healthcare professionals who suffer from alcohol or drug abuse
+29 problems, in order to promote the public health and safety and to insure the
+30 continued availability of skilled and highly trained medical professionals
+31 for the benefit of the public.
+32 The provisions of this section shall be in effect only from July 1, 2024
+33 2025 through June 30, 2025 2026.
+34
+35 SECTION 53. SPECIAL LANGUAGE. NOT TO BE INCORPORATED INTO THE ARKANSAS
+36 CODE NOR PUBLISHED SEPARATELY AS SPECIAL, LOCAL AND TEMPORARY LAW. ARKANSAS
+24 03-10-2025 15:55:41 MAH017
+
+As Engrossed: S3/10/25 SB38
+1 STATE BOARD OF NURSING - FUNDING TRANSFER. The Arkansas State Board of
+2 Nursing may request a fund transfer in an amount not to exceed one hundred
+3 thousand dollars ($100,000) each fiscal year from the State Board of Nursing
+4 Fund to the cash in State Treasury fund as determined by the Chief Fiscal
+5 Officer of the State to provide funds for the Student Loan Program
+6 appropriation provided herein. Upon approval of the Chief Fiscal Officer of
+7 the State, the amount requested shall be transferred on his or her books and
+8 those of the State Treasurer and the Auditor of State.
+9 The provisions of this section shall be in effect only from July 30,
+10 2024 2025 through June 30, 2025 2026.
+11
+12 SECTION 54. SPECIAL LANGUAGE. NOT TO BE INCORPORATED INTO THE ARKANSAS
+13 CODE NOR PUBLISHED SEPARATELY AS SPECIAL, LOCAL AND TEMPORARY LAW. ARKANSAS
+14 BOARD OF PODIATRIC MEDICINE - EDUCATIONAL PROGRAMS. The Arkansas Board of
+15 Podiatric Medicine is hereby authorized to expend from monies authorized
+16 herein, $10 from each licensed podiatrist licensed by the Arkansas Board of
+17 Podiatric Medicine each year to be paid by the Arkansas Board of Podiatric
+18 Medicine to 501(c)(3) Arkansas foundations that have healthcare professionals
+19 on their board and provide for identification, treatment and monitoring of
+20 healthcare professionals who suffer from alcohol or drug abuse problems, in
+21 order to promote the public health and safety and to insure the continued
+22 availability of skilled and highly trained podiatric professionals for the
+23 benefit of the public.
+24 The provisions of this section shall be in effect only from July 1, 2024
+25 2025 through June 30, 2025 2026.
+26
+27 SECTION 55. SPECIAL LANGUAGE. NOT TO BE INCORPORATED INTO THE ARKANSAS
+28 CODE NOR PUBLISHED SEPARATELY AS SPECIAL, LOCAL AND TEMPORARY LAW.
+29 ARKANSAS SPINAL CORD COMMISSION - LINE ITEM TRANSFER. Any savings made in the
+30 State Appropriation may, after receiving advice and approval of the
+31 Department of Finance and Administration, be transferred to the Spinal
+32 Treatment Program.
+33 The provisions of this section shall be in effect only from July 1, 2024
+34 2025 through June 30, 2025 2026.
+35
+36 SECTION 56. SPECIAL LANGUAGE. NOT TO BE INCORPORATED INTO THE ARKANSAS
+25 03-10-2025 15:55:41 MAH017
+
+As Engrossed: S3/10/25 SB38
+1 CODE NOR PUBLISHED SEPARATELY AS SPECIAL, LOCAL AND TEMPORARY LAW. TRANSFER
+2 OF FUNDS. Immediately upon the effective date of this act, the Arkansas
+3 State Medical Board shall transfer annually the sum of five hundred thousand
+4 dollars ($500,000), or so much as is available, from the unobligated and
+5 unallocated monies remaining in the Arkansas State Medical Board's cash
+6 funds, to the Department of Education - Division of Higher Education's
+7 Graduate Medical Education Fund to be used exclusively for the Graduate
+8 Medical Education Residency Expansion Board appropriation.
+9
+10 SECTION 57. COMPLIANCE WITH OTHER LAWS. Disbursement of funds
+11 authorized by this act shall be limited to the appropriation for such agency
+12 and funds made available by law for the support of such appropriations; and
+13 the restrictions of the State Procurement Law, the General Accounting and
+14 Budgetary Procedures Law, the Revenue Stabilization Law, the Regular Salary
+15 Procedures and Restrictions Act, or their successors, and other fiscal
+16 control laws of this State, where applicable, and regulations promulgated by
+17 the Department of Finance and Administration, as authorized by law, shall be
+18 strictly complied with in disbursement of said funds.
+19
+20 SECTION 58. LEGISLATIVE INTENT. It is the intent of the General
+21 Assembly that any funds disbursed under the authority of the appropriations
+22 contained in this act shall be in compliance with the stated reasons for
+23 which this act was adopted, as evidenced by the Agency Requests, Executive
+24 Recommendations and Legislative Recommendations contained in the budget
+25 manuals prepared by the Department of Finance and Administration, letters, or
+26 summarized oral testimony in the official minutes of the Arkansas Legislative
+27 Council or Joint Budget Committee which relate to its passage and adoption.
+28
+29 SECTION 59. EMERGENCY CLAUSE. It is found and determined by the
+30 General Assembly, that the Constitution of the State of Arkansas prohibits
+31 the appropriation of funds for more than a one (1) year period; that the
+32 effectiveness of this Act on July 1, 2025 is essential to the operation of
+33 the agency for which the appropriations in this Act are provided, and that in
+34 the event of an extension of the legislative session, the delay in the
+35 effective date of this Act beyond July 1, 2025 could work irreparable harm
+36 upon the proper administration and provision of essential governmental
+26 03-10-2025 15:55:41 MAH017
+
+As Engrossed: S3/10/25 SB38
+1 programs. Therefore, an emergency is hereby declared to exist and this Act
+2 being necessary for the immediate preservation of the public peace, health
+3 and safety shall be in full force and effect from and after July 1, 2025.
+4
+5 /s/Joint Budget Committee
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+27 03-10-2025 15:55:41 MAH017
+
+[DELETED:  A      A A L E   A L A Y    B   S A D T o A t  I   (    ]
+[DELETED:  S2 0           S A D T s E J  I   ( ( (               S A H d a A  I   ( (]
+[DELETED:  S3 0 (               S C H f                  S C H d a C f  I   ( ( (    ]
+[DELETED:  S4 0           S I A f                    S T E n p o p s   S C p t e C  I]
+[DELETED:  S5 0   ( ( ( ( (               S D A f                  S E p t e E  I   (]
+[DELETED:  S6 0 ( (               S L A f                S B p t e t  I   ( ( (      ]
+[DELETED:  S7 0         S D H y                S i D n p o p s   S O p a D  I   ( ( (]
+[DELETED:  S8 0 (           (     S D A y k p p C c   S I H d a H f  I   ( ( (        ]
+[DELETED:  S9 0       S B S n                                        S a t t a e U f ]
+[DELETED:  S1 0  S T t F t e  I   ( ( ( (           (     S N S n                     ]
+[DELETED:  S1 0                             S T B o f t t a   S N p o N  I   ( ( ( (  ]
+[DELETED:  S1 0         (     S L S S t e  I   (   S E H d o E  I   (               S]
+[DELETED:  S1 0 C H o t f  I   (   S T O r                  S T t F t e  I   ( ( (  ]
+[DELETED:  S1 0             S P A m                            S h y k p p C c   S P A]
+[DELETED:  S1 0 i f A t  I   ( ( ( (           ( (     S S D T t s f  I   (   S P A f]
+[DELETED:  S1 0                  S P t d a P  I   ( ( (               S S H d p T  I]
+[DELETED:  S1 0   (   S M p t e f  I   ( ( (               S T P o                  S]
+[DELETED:  S1 0 T t F t e  I   ( ( (               S P A S s n f  I   (   S T W n   ]
+[DELETED:  S1 0               S i L o f t t a   S B p o L  I   ( ( ( (           (   ]
+[DELETED:  S2 0  S P H t                  S P H t t a e U f   S L D T s E e  I   ( ( (]
+[DELETED:  S2 0 (               S i C r                                S O p a C  I  ]
+[DELETED:  S2 0 ( ( (           ( (     S C p t S f  I   (               S T t F H 2 ]
+[DELETED:  S2 0 I   (               S C S C t b f ( w i  ( t w  ( i d ( h  (  ( w H c      (   (]
+[DELETED:  S2 0 v   (  T 2   S C S B a o D p m p c t   2   S C S a p S p m p c f   2   S C]
+[DELETED:  S2 0 S N t F O a t t  T 2   S C B P h P M o h o a b   2   S C A S D T   2   S]
+[DELETED:  S2 0 C O S d u f G M   S a a t B P c t s   S A c w R m s C   S G t e t t e u]
+[DELETED:  S2 0 p b a  /                               ]

@@ -1,0 +1,67 @@
+Title: ______________________________________________________________________
+Official Title: ______________________________________________________________________
+Number of Sections: 1
+Source: versions - Amendment S1
+Media Type: application/pdf
+Strikethrough Detection: 1 sections found
+
+================================================================================
+
+Section 1:
+ARKANSAS SENATE
+95th General Assembly - Regular Session, 2025
+Amendment Form
+JBC 03/06/25 (2)(c)
+Subtitle of Senate Bill 39
+AN ACT FOR THE DEPARTMENT OF COMMERCE - DIVISION OF WORKFORCE
+SERVICES APPROPRIATION FOR THE 2025-2026 FISCAL YEAR.
+______________________________________________________________________
+Amendment No. 1 to Senate Bill 39
+Amend Senate Bill 39 as originally introduced:
+Page 2, delete line 32 in its entirety and substitute
+"(37) A044C AUDIT COORDINATOR 1 GRADE GS10"
+and
+Page 3, delete line 10 in its entirety and substitute
+"(51) A066C INTERNAL AUDITOR 4 GRADE GS08"
+and
+Page 3, line 14, delete "5" and substitute "2"
+and
+Page 4, line 22, delete "627" and substitute "619".
+*.MAH031*
+The Amendment was read the first time, rules suspended and read the second time and _______________________
+By: JOINT BUDGET COMMITTEE
+MAH/MAH - 03-06-2025 11:05:52 _________________________
+MAH031 Secretary
+[DELETED:  _ SA    1 G   4 G]
+
+
+================================================================================
+
+Raw Text:
+ARKANSAS SENATE
+95th General Assembly - Regular Session, 2025
+Amendment Form
+JBC 03/06/25 (2)(c)
+______________________________________________________________________
+Subtitle of Senate Bill 39
+AN ACT FOR THE DEPARTMENT OF COMMERCE - DIVISION OF WORKFORCE
+SERVICES APPROPRIATION FOR THE 2025-2026 FISCAL YEAR.
+______________________________________________________________________
+Amendment No. 1 to Senate Bill 39
+Amend Senate Bill 39 as originally introduced:
+Page 2, delete line 32 in its entirety and substitute
+"(37) A044C AUDIT COORDINATOR 1 GRADE GS10"
+and
+Page 3, delete line 10 in its entirety and substitute
+"(51) A066C INTERNAL AUDITOR 4 GRADE GS08"
+and
+Page 3, line 14, delete "5" and substitute "2"
+and
+Page 4, line 22, delete "627" and substitute "619".
+*.MAH031*
+The Amendment was read the first time, rules suspended and read the second time and _______________________
+By: JOINT BUDGET COMMITTEE
+MAH/MAH - 03-06-2025 11:05:52 _________________________
+MAH031 Secretary
+
+[DELETED:  _ SA    1 G   4 G]

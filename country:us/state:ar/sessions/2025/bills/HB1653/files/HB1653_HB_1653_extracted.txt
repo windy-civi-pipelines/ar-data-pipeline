@@ -1,0 +1,1523 @@
+Title: Stricken language would be deleted from and underlined language would be added to present law.
+Official Title: Stricken language would be deleted from and underlined language would be added to present law.
+Number of Sections: 1
+Source: versions - HB 1653
+Media Type: application/pdf
+Strikethrough Detection: 19 sections found
+
+================================================================================
+
+Section 1:
+1 State of Arkansas As Engrossed: H3/5/25 H3/31/25
+A Bill
+2 95th General Assembly
+3 Regular Session, 2025 HOUSE BILL 1653
+4
+5 By: Representatives Cavenaugh, Wooldridge
+6 By: Senator Irvin
+7
+For An Act To Be Entitled
+8
+9 AN ACT TO MOVE LICENSING AND REGULATION OF
+10 PSYCHIATRIC RESIDENTIAL TREATMENT FACILITIES FROM THE
+11 CHILD WELFARE AGENCY REVIEW BOARD TO THE DEPARTMENT
+12 OF HUMAN SERVICES; TO SET STANDARDS FOR THE LICENSING
+13 AND REGULATION OF PSYCHIATRIC RESIDENTIAL TREATMENT
+14 FACILITIES; TO DECLARE AN EMERGENCY; AND FOR OTHER
+15 PURPOSES.
+16
+17
+Subtitle
+18
+19 TO SET STANDARDS FOR LICENSING AND
+20 REGULATION OF PSYCHIATRIC RESIDENTIAL
+21 TREATMENT FACILITIES; AND TO DECLARE AN
+22 EMERGENCY.
+23
+24 BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF ARKANSAS:
+25
+26 SECTION 1. Arkansas Code § 20-8-107(c) and (d), concerning the
+27 expansion of facilities or services permitted by Health Services Permit
+28 Agency, are amended to read as follows:
+29 (c) In no event shall the requirements of this subchapter apply to any
+30 facility licensed or approved as of March 1, 2003, by the Child Welfare
+31 Agency Review Board pursuant to the Child Welfare Agency Licensing Act, § 9-
+32 28-401 et seq., and as specifically exempted by § 9-28-407(a)(3).
+33 (d) Beginning July 1, 2005, the Health Services Permit Agency may not
+34 accept applications or requests for permits of approval to add new beds or to
+35 expand existing bed capacity of residential care facilities.
+36 (d)(1) The Health Services Permit Agency shall recognize an exception
+*JMB064*
+03-31-2025 13:35:19 JMB064
+As Engrossed: H3/5/25 H3/31/25 HB1653
+1 to the moratorium regarding bed capacity and beds in a psychiatric
+2 residential treatment facility.
+3 (2) The Health Services Permit Agency shall add to the permitted
+4 bed capacity for psychiatric residential treatment facilities:
+5 (A) Beds that are not currently permitted by the Health
+6 Services Permit Agency but are licensed by the Child Welfare Agency Review
+7 Board for the purpose of operating as a psychiatric residential treatment
+8 facility before the effective date of this subsection; and
+9 (B) Beds that are fully constructed and could be used for
+10 the purpose of operating a psychiatric residential treatment facility as of
+11 January 1, 2025.
+12 (3) The total amount of additional beds authorized under this
+13 subsection shall not exceed nine hundred (900) beds for the purpose of
+14 operating as a psychiatric residential treatment facility.
+15 (4) The Health Services Permit Agency shall require prior
+16 approval under § 20-8-109 for any new construction of a psychiatric
+17 residential treatment facility and for any renovation project that exceeds
+18 two hundred fifty thousand dollars ($250,000) for an existing psychiatric
+19 residential treatment facility.
+20 (5) Any increase or decrease in the total number of authorized
+21 beds under this section shall be reviewed and approved by the Legislative
+22 Council before receiving a permit from the Health Services Permit Agency or a
+23 license from the Office of Long-Term Care.
+24 (6) For the purposes of this section, beds used for both in-
+25 state and out-of-state clients shall be counted in capacity for the purpose
+26 of obtaining a permit from the Health Services Permit Agency.
+27
+28 SECTION 2. Arkansas Code § 20-10-101(1), concerning the definition of
+29 "administrative remedy" relating to long-term care facilities and services,
+30 is amended to read as follows:
+31 (1) “Administrative remedy” means temporary management, denial
+32 of payment for all new admissions, transfer of residents, termination or
+33 suspension of license, termination of provider agreement, directed plan of
+34 correction, directed in-service training, and remedies established by
+35 Arkansas law, including remedies provided in § 20-10-1408 [repealed];
+36
+2 03-31-2025 13:35:19 JMB064
+As Engrossed: H3/5/25 H3/31/25 HB1653
+1 SECTION 3. Arkansas Code § 20-10-101(9)(A), concerning the definition
+2 of "long-term care facility" relating to long-term care facilities and
+3 services, is amended to read as follows:
+4 (9)(A) “Long-term care facility” means a nursing home,
+5 residential care facility, assisted living facility, psychiatric residential
+6 treatment facility, post-acute head injury retraining and residential care
+7 facility, or any other facility which provides long-term medical or personal
+8 care.
+9
+10 SECTION 4. Arkansas Code § 20-10-101, concerning definitions relating
+11 to long-term care facilities and services, is amended to add an additional
+12 subdivision to read as follows:
+13 (16)(A) "Psychiatric residential treatment facility" means a
+14 standalone, nonhospital facility with a provider agreement with the Arkansas
+15 Medicaid Program to provide inpatient services benefits to individuals who
+16 are under twenty-one (21) years of age and that:
+17 (i) Is accredited by The Joint Commission or any
+18 other accrediting organization with comparable standards recognized by this
+19 state;
+20 (ii) Attests to meeting the conditions of
+21 participation found at 42 C.F.R. Part 483, Subpart G, as existing on January
+22 1, 2025; and
+23 (iii) Attests that all of the residents in the
+24 facility meet the certification of need for services requirements as
+25 identified under 42 C.F.R. Part 441, Subpart D, as existing on January 1,
+26 2025.
+27 (B)(i) A survey and certification review of a psychiatric
+28 residential treatment facility by the department shall apply to all residents
+29 being served by the entity regardless of residency or payment source.
+30 (ii) All residents of a psychiatric residential
+31 treatment facility shall require intensive inpatient services for psychiatric
+32 conditions under the direction of a physician and the services provided shall
+33 be reasonably expected to improve the resident’s condition or prevent further
+34 regression until the services are no longer needed.
+35
+36 SECTION 5. Arkansas Code § 20-10-110(a)(2), concerning the definition
+3 03-31-2025 13:35:19 JMB064
+As Engrossed: H3/5/25 H3/31/25 HB1653
+1 of "long-term care facility" relating to the protection of residents'
+2 personal funds, is amended to read as follows:
+3 (2) “Long-term care facility” means a nursing home, residential
+4 care facility, post-acute head injury retraining and residential care
+5 facility, assisted living facility, psychiatric residential treatment
+6 facility, or any other facility that provides long-term medical or personal
+7 care;
+8
+9 SECTION 6. Arkansas Code § 20-10-402 is amended to read as follows:
+10 20-10-402. License required.
+11 (a) It shall be unlawful for any person to act or serve in the
+12 capacity of nursing home long-term care facility administrator in this state
+13 unless the person has been licensed to do so as authorized in this
+14 subchapter.
+15 (b) A person who serves as an administrator of a long-term care
+16 facility conducted exclusively for persons who rely upon treatment by
+17 spiritual means through prayer in accordance with the creed or tenets of a
+18 church or religious denomination shall be exempt from subsection (a) of this
+19 section and § 20-10-101(1)-(6), § 20-10-203(b), § 20-10-212, §§ 20-10-301 —
+20 20-10-303 [repealed], § 20-10-403, § 20-10-405(b) § 20-10-405(a)(2), § 20-10-
+21 406, and § 20-10-407.
+22
+23 SECTION 7. Arkansas Code § 20-10-404(a), concerning the application
+24 and fees for licensure as a long-term care facility administrator, is amended
+25 to read as follows:
+26 (a) Any person desiring to be licensed as a nursing home long-term
+27 care facility administrator shall make application to the Office of Long-Term
+28 Care on forms prescribed by the office and shall furnish such information
+29 with the application as shall be required by the office.
+30
+31 SECTION 8. Arkansas Code § 20-10-405 is amended to read as follows:
+32 20-10-405. Renewal.
+33 (a)(1) Every active nursing home administrator's license shall be
+34 renewed on or before July 1 of each year by paying a fee of one hundred
+35 dollars ($100) to the Office of Long-Term Care and by furnishing written
+36 documentation that the licensee has attended and accumulated a specific
+4 03-31-2025 13:35:19 JMB064
+As Engrossed: H3/5/25 H3/31/25 HB1653
+1 number of continuing education clock hours as established by the office.
+2 (b)(2) The fee for those nursing home administrators not actively
+3 employed by a nursing home facility as an administrator shall be fifty
+4 dollars ($50.00), payable on or before July 1 of each year.
+5 (c)(3) If the annual licensure fee in full along with the renewal
+6 application and satisfactory documentation of compliance with continuing
+7 education requirements is not postmarked or received by the office on or
+8 before July 1, the licensee shall be ineligible to perform the duties of
+9 nursing home administrator, and the license shall be deemed suspended
+10 effective July 2.
+11 (d)(4) No request for renewal postmarked or received by the office
+12 after July 1 shall be considered unless, in addition to other requirements
+13 imposed by law or rule, the licensee tenders a late charge in the amount of
+14 fifty dollars ($50.00).
+15 (e)(5) Any nursing home administrator license not renewed on or before
+16 September 1 shall expire effective September 2.
+17 (b) An administrator for a long-term care facility other than a
+18 nursing home shall be required to renew his or her license as follows:
+19 (1) Every active administrator license shall be renewed on or
+20 before January 1 of each year by submitting a renewal application to the
+21 Department of Human Services and by furnishing written documentation that the
+22 licensee has attended and accumulated a specific number of continuing
+23 education clock hours as established by the department;
+24 (2) If the renewal application and satisfactory documentation of
+25 compliance with continuing education requirements is not postmarked or
+26 received by the department on or before January 1, the licensee shall be
+27 ineligible to perform the duties of long-term care facility administrator,
+28 and the license shall be deemed suspended effective January 2;
+29 (3) A request for renewal postmarked or received by the
+30 department after January 1 shall not be considered unless the licensee
+31 complies with all of the requirements imposed by law or rule; and
+32 (4) Any long-term care facility administrator license not
+33 renewed on or before March 1 shall expire effective March 2.
+34
+35 SECTION 9. Arkansas Code § 20-10-407(a), concerning the denial,
+36 revocation, or suspension of a long-term care facility administrator's
+5 03-31-2025 13:35:19 JMB064
+As Engrossed: H3/5/25 H3/31/25 HB1653
+1 license, is amended to read as follows:
+2 (a) The Department of Human Services may refuse to issue or renew a
+3 long-term care facility administrator's license or may revoke or suspend the
+4 license of a long-term care facility administrator if the department finds
+5 that the applicant or licensee does not qualify for licensure or has violated
+6 § 20-10-101(1)-(6), § 20-10-203(b), § 20-10-212, §§ 20-10-402 and 20-10-403,
+7 § 20-10-405(b) § 20-10-405(a)(2), § 20-10-406, and this section or rules of
+8 the department relating to the proper administration and management of a
+9 long-term care facility.
+10
+11 SECTION 10. Arkansas Code Title 20, Chapter 46, Subchapter 4 is
+12 amended to read as follows:
+13 Subchapter 4 — Psychiatric Residential Treatment Facilities
+14
+15 20-46-401 - 20-46-404. [Repealed.]
+16
+17 20-46-401. Admission of children to psychiatric residential treatment
+18 facilities.
+19 (a) A psychiatric residential treatment facility licensed under this
+20 subchapter and holding a permit from the Health Services Permit Agency or the
+21 Health Services Permit Commission shall not admit a child for psychiatric
+22 residential treatment unless the child is:
+23 (1) An Arkansas resident;
+24 (2) A child of a parent who is an Arkansas resident;
+25 (3) A child placed by or on behalf of another state’s child
+26 welfare agency;
+27 (4) A child for whom the facility is being paid by another
+28 state's Medicaid program;
+29 (5) A child of an active-duty member or veteran of the uniformed
+30 services as defined in § 6-4-302; or
+31 (6) A nonresident child victim of human trafficking when the
+32 regulated facility maintains responsibility for the return of the child to an
+33 out-of-state custodian.
+34 (b) The Department of Human Services may promulgate rules to enforce
+35 this section.
+36
+6 03-31-2025 13:35:19 JMB064
+As Engrossed: H3/5/25 H3/31/25 HB1653
+1
+2 20-46-402. Licensure — Unlawful acts.
+3 (a)(1) It is unlawful for any person, partnership, group, corporation,
+4 association, or other entity or identifiable group of entities having a
+5 coordinated ownership with controlling interest to operate or assist in the
+6 operation of a psychiatric residential treatment facility that has not been
+7 licensed by the Office of Long-Term Care under this subchapter.
+8 (2) Before obtaining a license under this subchapter, a
+9 psychiatric residential treatment facility shall obtain a permit from the
+10 Health Services Permit Agency or Health Services Permit Commission to operate
+11 in Arkansas.
+12 (3) The bed capacity allowed by the permit issued by the Health
+13 Services Permit Agency or Health Services Permit Commission includes both in-
+14 state and out-of-state clients.
+15 (4) Any expansion of bed capacity by an existing licensee shall
+16 require a license from the office and a permit from the Health Services
+17 Permit Agency.
+18 (5)(A) A license issued by the office under this subchapter is
+19 effective unless revoked, suspended, or terminated by the office.
+20 (B) In addition to any other basis provided by law or
+21 rule, the Department of Human Services shall terminate the license of a
+22 psychiatric residential treatment facility licensee that has not been in
+23 operation for a consecutive twelve-month period.
+24 (C) The department may revoke, suspend, or terminate a
+25 license upon any basis provided by law or rule, including without limitation
+26 the failure to be in operation or in substantial compliance for a consecutive
+27 six-month period.
+28 (b) It is unlawful for any person to falsify an application for
+29 licensure, to knowingly circumvent the authority of this subchapter, to
+30 knowingly violate the orders issued by the department, or to advertise for
+31 inpatient psychiatric residential treatment when not licensed under this
+32 subchapter to provide those services.
+33 (c) Any violation of this section shall constitute a Class D felony.
+34
+35 20-46-403. Licensure posting and display.
+36 If the Department of Human Services issues a license to operate a
+7 03-31-2025 13:35:19 JMB064
+As Engrossed: H3/5/25 H3/31/25 HB1653
+1 psychiatric residential treatment facility, the license shall be posted and
+2 displayed in a conspicuous place in the facility and must state at a minimum:
+3 (1) The full legal name of the person, partnership, group,
+4 corporation, organization, association, or other entity or identifiable group
+5 of entities having a coordinated ownership with controlling interest holding
+6 the license, including the business name, if different;
+7 (2) The address of the psychiatric residential treatment
+8 facility;
+9 (3) The effective date and expiration date of the license, if
+10 applicable;
+11 (4) The type of psychiatric residential treatment facility the
+12 licensee is authorized to operate;
+13 (5) The ages and maximum number of children that may receive
+14 services from the psychiatric residential treatment facility;
+15 (6) The status of the license, whether regular, provisional, or
+16 probationary; and
+17 (7) Any special conditions or limitations of the license.
+18
+19 20-46-404. Services provided by psychiatric residential treatment
+20 facilities.
+21 (a) A psychiatric residential treatment facility licensed under this
+22 subchapter shall:
+23 (1)(A) Provide a range of comprehensive services to treat the
+24 psychiatric condition of residents on an inpatient basis under the direction
+25 of a physician.
+26 (B) The psychiatric residential treatment facility shall
+27 certify that:
+28 (i) Ambulatory care services available in the
+29 community do not meet the treatment needs of the resident;
+30 (ii) Proper treatment of the resident's psychiatric
+31 condition requires services on an inpatient basis under the direction of a
+32 physician; and
+33 (iii) The services can reasonably be expected to
+34 improve the resident’s condition or prevent further regression so that the
+35 services will no longer be needed.
+36 (C) The certification required in subdivision (a)(1)(B) of
+8 03-31-2025 13:35:19 JMB064
+As Engrossed: H3/5/25 H3/31/25 HB1653
+1 this section shall be made by an independent team that:
+2 (i) Includes a physician;
+3 (ii) Has competence in diagnosis and treatment of
+4 mental illness, preferably in child psychiatry; and
+5 (iii) Has knowledge of the resident's situation; and
+6 (2) Provide services to a resident according to an individual
+7 plan of care that:
+8 (A) Is based on a diagnostic evaluation that includes
+9 examination of the medical, psychological, social, behavioral, and
+10 developmental aspects of the resident's situation and reflects the need for
+11 inpatient psychiatric care;
+12 (B) Is developed by a team of professionals in
+13 consultation with the resident, parents, legal guardians, or other
+14 individuals in whose care the resident will be released after discharge;
+15 (C) Describes clear and concise treatment objectives;
+16 (D) Ensures continuity of care with the resident’s family,
+17 school and educational requirements, and community upon discharge;
+18 (E) Determines that services being provided are or were
+19 required on an inpatient basis; and
+20 (F) Recommends changes in the plan of care as indicated by
+21 the resident's overall adjustment as an inpatient.
+22 (b) The Department of Human Services shall promulgate rules to
+23 implement this subchapter, which shall include components that ensure quality
+24 of care, health and safety of residents and facility staff, and compliance
+25 with all educational requirements.
+26
+27
+28 SECTION 11. Arkansas Code § 9-28-402(8), concerning the definition of
+29 "child welfare agency" within the Child Welfare Agency Licensing Act, is
+30 amended to read as follows:
+31 (8) “Child welfare agency” means any person, corporation,
+32 partnership, voluntary association, or other entity or identifiable group of
+33 entities having a coordinated ownership of controlling interest, whether
+34 established for profit or otherwise, that is not excluded under this
+35 subchapter and engages in any of the following activities:
+36 (A) Receives a total number of six (6) or more unrelated
+9 03-31-2025 13:35:19 JMB064
+As Engrossed: H3/5/25 H3/31/25 HB1653
+1 minors for care on a twenty-four-hour basis for the purpose of ensuring the
+2 minors receive care, training, education, custody, or supervision, whether or
+3 not there are six (6) or more children cared for at any single physical
+4 location;
+5 (B) Places any unrelated minor for care on a twenty-four-
+6 hour basis with persons other than themselves;
+7 (C) Plans for or assists in the placements described in
+8 subdivision (8)(B) of this section; or
+9 (D) Receives, places, plans, or assists in the placement
+10 of a child victim of human trafficking in a home or any type of shelter or
+11 facility;
+12
+13 SECTION 12. Arkansas Code § 9-28-402(12), concerning the definition of
+14 "exempt child welfare agency" within the Child Welfare Agency Licensing Act,
+15 is amended to read as follows:
+16 (12) “Exempt child welfare agency” means any person,
+17 corporation, partnership, voluntary association or other entity, whether
+18 established for profit or otherwise, that otherwise fits the definition of a
+19 child welfare agency but that is specifically exempt from the requirement of
+20 obtaining a license under this subchapter. Those agencies specifically exempt
+21 from the license requirement are:
+22 (A) A facility or program owned or operated by an agency
+23 of the United States Government;
+24 (B)(i) Any agency of the State of Arkansas that is
+25 statutorily authorized to administer or supervise child welfare activities.
+26 (ii) In order to maintain exempt status, the state
+27 child welfare agency shall state every two (2) years in written form signed
+28 by the persons in charge that their agency is in substantial compliance with
+29 published state agency child welfare standards.
+30 (iii) Visits to review and advise exempt state
+31 agencies shall be made as deemed necessary by the Child Welfare Agency Review
+32 Board to verify and maintain substantial compliance with the standards;
+33 (C) A facility or program owned or operated by or under
+34 contract with the Division of Correction;
+35 (D) A hospital providing acute care licensed pursuant to §
+36 20-9-201 et seq.;
+10 03-31-2025 13:35:19 JMB064
+As Engrossed: H3/5/25 H3/31/25 HB1653
+1 (E)(D) Any facility governed by the Department of Human
+2 Services State Institutional System Board or its successor;
+3 (F) Human development centers regulated by the Board of
+4 Developmental Disabilities Services pursuant to the Location Act for
+5 Community Homes for Individuals with Intellectual and Developmental
+6 Disabilities, § 20-48-601 et seq.;
+7 (G) Any facility licensed as a family home pursuant to the
+8 Location Act for Community Homes for Individuals with Intellectual and
+9 Developmental Disabilities, § 20-48-601 et seq.;
+10 (H)(E) Any boarding school as defined in this section;
+11 (I)(F) Any temporary camp as defined in this section;
+12 (J)(G) Any state-operated facility to house juvenile
+13 delinquents or any serious offender program facility operated by a state
+14 designee to house juvenile delinquents. Those facilities shall be subject to
+15 program requirements modeled on nationally recognized correctional facility
+16 standards that shall be developed, administered, and monitored by the
+17 Division of Youth Services; and
+18 (K)(H) Any child welfare agency operated solely by a
+19 religious organization that elects to be exempt from licensing and that
+20 complies within the conditions of the exemption for church-operated agencies
+21 as set forth in this subchapter;
+22 (L) The Division of Developmental Disabilities Services;
+23 and
+24 (M) Any intellectual or other developmental disabilities
+25 services waiver provider licensed under § 20-48-208 or the Location Act for
+26 Community Homes for Individuals with Intellectual and Developmental
+27 Disabilities, § 20-48-601 et seq.;
+28
+29 SECTION 13. Arkansas Code § 9-28-402(18) is repealed.
+30 (18) “Psychiatric residential treatment facility” means a
+31 residential childcare facility in a nonhospital setting that provides a
+32 structured, systematic, therapeutic program of treatment under the
+33 supervision of a psychiatrist, for children who are emotionally disturbed and
+34 in need of daily nursing services, psychiatrist's supervision, and
+35 residential care but who are not in an acute phase of illness requiring the
+36 services of an inpatient psychiatric hospital;
+11 03-31-2025 13:35:19 JMB064
+As Engrossed: H3/5/25 H3/31/25 HB1653
+1
+2 SECTION 14. Arkansas Code § 9-28-402(22), concerning the definition of
+3 "residential childcare facility" within the Child Welfare Agency Licensing
+4 Act, is amended to read as follows:
+5 (22)(A) “Residential childcare facility” means any child welfare
+6 agency that is not an excluded child welfare agency under this subchapter and
+7 provides care, training, education, custody, or supervision on a twenty-four-
+8 hour basis for six (6) or more unrelated children, excluding foster homes
+9 that have six (6) or more children who are all related to each other but who
+10 are not related to the foster parents.
+11 (B) A "residential childcare facility" does not include a
+12 facility that provides inpatient psychiatric treatment, which shall not be
+13 licensed as a residential childcare facility;
+14
+15 SECTION 15. Arkansas Code § 9-28-402, concerning the definitions
+16 within the Child Welfare Agency Licensing Act, is amended to add an
+17 additional subdivision to read as follows:
+18 (32) "Excluded child welfare agency" means any person,
+19 corporation, partnership, voluntary association, or other entity, whether
+20 established for-profit or otherwise, that meets the definition of a child
+21 welfare agency or an exempt child welfare agency but is licensed or certified
+22 by the Department of Human Services or the Department of Health and is
+23 enrolled in the Arkansas Medicaid Program.
+24
+25 SECTION 16. Arkansas Code § 9-28-403(a), concerning the creation and
+26 authority of the Child Welfare Agency Review Board, is amended to read as
+27 follows:
+28 (a)(1) There is created the Child Welfare Agency Review Board to serve
+29 as the administrative body to carry out the provisions of this subchapter.
+30 (2) The board shall have the authority to promulgate rules to
+31 enforce the provisions of this subchapter.
+32 (3) An excluded child welfare agency is not subject to the
+33 provisions of this subchapter.
+34
+35 SECTION 17. Arkansas Code § 9-28-404(a)(5), concerning the membership
+36 of the Child Welfare Agency Review Board, is repealed.
+12 03-31-2025 13:35:19 JMB064
+As Engrossed: H3/5/25 H3/31/25 HB1653
+1 (5) One (1) representative from a licensed psychiatric
+2 residential treatment facility;
+3
+4 SECTION 18. Arkansas Code § 9-28-407(a)(3) and (4), concerning
+5 licenses required and issued by the Child Welfare Agency Review Board, are
+6 repealed.
+7 (3) Any child welfare agency capacity licensed by the board as
+8 of March 1, 2003, whether held by the original licensee or by a successor in
+9 interest to the original licensee, is exempted from:
+10 (A) Obtaining any license or permit from the Office of
+11 Long-Term Care; and
+12 (B)(i) Obtaining any permit from the Health Services
+13 Permit Agency or the Health Services Permit Commission to operate at the
+14 capacity licensed by the board as of March 1, 2003, except as required under
+15 subdivision (a)(3)(B)(ii) of this section.
+16 (ii)(a) If a licensee is operating at less than or
+17 at the capacity licensed by the board as of March 1, 2021, the licensee shall
+18 obtain a permit from the Health Services Permit Agency or the Health Services
+19 Permit Commission for any increase in capacity.
+20 (b) For the purposes of subdivision
+21 (a)(3)(B)(ii)(a) of this section, both in-state and out-of-state clients
+22 shall be counted in capacity for the purpose of obtaining a license from the
+23 board and a permit from the Health Services Permit Agency or the Health
+24 Services Permit Commission.
+25 (4) Any new license or expansion of capacity by an
+26 existing licensee of the board shall require a license and permit from the
+27 Office of Long-Term Care or the Health Services Permit Agency.
+28
+29 SECTION 19. Arkansas Code § 9-28-407(a)(5), concerning licenses
+30 required and issued by the Child Welfare Agency Review Board, is amended to
+31 read as follows:
+32 (5)(A) A license issued by the board under this subchapter is
+33 effective unless revoked, suspended, or terminated by the board.
+34 (B) In addition to any other basis provided by law or
+35 rule, the board shall terminate the license of a psychiatric residential
+36 treatment facility licensee that has not been in operation for a consecutive
+13 03-31-2025 13:35:19 JMB064
+As Engrossed: H3/5/25 H3/31/25 HB1653
+1 twelve-month period.
+2 (C) The Department of Human Services may recommend to the
+3 board the revocation, suspension, or termination of a license for any basis
+4 provided by law or rule, including without limitation the failure to be in
+5 operation or in substantial compliance for a consecutive six-month period.
+6
+7 SECTION 20. Arkansas Code § 9-28-407(f)(3)(F), concerning licenses
+8 required and issued by the Child Welfare Agency Review Board, is amended to
+9 read as follows:
+10 (F) The provisions of subsection (a) of this section,
+11 including those provisions regarding obtaining licenses or permits from the
+12 Office of Long-Term Care and regarding obtaining any permits from the Health
+13 Services Permit Agency or the Health Services Permit Commission, shall apply
+14 in their entirety to the new owner of the child welfare agency
+15
+16 SECTION 21. Arkansas Code § 9-28-416 is repealed.
+17 9-28-416. Admission of children to psychiatric residential treatment
+18 facilities.
+19 (a) A psychiatric residential treatment facility licensed under this
+20 subchapter and holding a permit from the Health Services Permit Agency or the
+21 Health Services Permit Commission shall not admit a child for psychiatric
+22 residential treatment unless the child is:
+23 (1) An Arkansas resident;
+24 (2) A child of a parent who is an Arkansas resident;
+25 (3) A child placed by or on behalf of another state's child
+26 welfare agency;
+27 (4) A child for whom the facility is being paid by another
+28 state's Medicaid program;
+29 (5) A child of an active-duty member or veteran of the uniformed
+30 services as defined in § 6-4-302; or
+31 (6) A nonresident child victim of human trafficking when the
+32 regulated facility maintains responsibility for the return of the child to
+33 the out-of-state custodian.
+34 (b) The Department of Human Services may promulgate rules to enforce
+35 this section.
+36
+14 03-31-2025 13:35:19 JMB064
+As Engrossed: H3/5/25 H3/31/25 HB1653
+1 SECTION 22. Arkansas Code Title 9, Chapter 28, Subchapter 13, is
+2 repealed.
+3 Subchapter 13 — Psychiatric Residential Treatment Facilities and Other
+4 Regulated Facilities
+5
+6 9-28-1301. Definitions.
+7 As used in this subchapter:
+8 (1) “Psychiatric residential treatment facility” means the same
+9 as defined in § 9-28-402; and
+10 (2) “Regulated facility” means:
+11 (A) A psychiatric residential treatment facility licensed
+12 under the Child Welfare Agency Licensing Act, § 9-28-401 et seq.; and
+13 (B) A psychiatric hospital licensed under § 20-9-201 et
+14 seq., that admits a child for the purpose of providing behavioral health
+15 treatment, regardless of whether the child is placed in an acute, subacute,
+16 or otherwise unlicensed bed.
+17
+18 9-28-1302. Quality of care — Quality assurance reviews.
+19 (a) The Department of Human Services shall promulgate rules setting
+20 minimum standards and metrics governing the quality of care provided by a
+21 regulated facility to a child.
+22 (b) Quality of care standards shall include that a regulated facility
+23 shall provide:
+24 (1) Trauma-informed programming and clinical services and, when
+25 applicable, evidence-based treatments;
+26 (2) Services that will be short-term, target treatment episodes
+27 to reduce the likelihood of re-entry into residential treatment settings;
+28 (3) Services that are family-driven and youth-guided;
+29 (4) Mental health services and clinical services provided by
+30 clinical staff as appropriate for the child's needs;
+31 (5) Educational services in compliance with state and federal
+32 law and rules of the Department of Education;
+33 (6) Coordination of all needs including medical, dental, and
+34 other needs; and
+35 (7) Clinical discharge planning throughout the child's stay that
+36 includes the custodian and child involvement.
+15 03-31-2025 13:35:19 JMB064
+As Engrossed: H3/5/25 H3/31/25 HB1653
+1 (c)(1) The Department of Human Services and its designees may inspect
+2 and investigate the quality of care for behavioral health provided to any
+3 child admitted to a regulated facility, whether or not the child is an
+4 Arkansas resident.
+5 (2) The Department of Human Services or any other public agency
+6 having authority or responsibility with respect to child maltreatment,
+7 including without limitation the Medicaid Fraud Control Unit of the Attorney
+8 General's office, may investigate any alleged or suspected child maltreatment
+9 in any regulated facility.
+10 (d) The Department of Human Services shall conduct quality assurance
+11 reviews for each regulated facility, consisting of the following:
+12 (1) A review of treatment structure including without
+13 limitation:
+14 (A) Observation of paraprofessional and direct-care staff
+15 interaction with patients;
+16 (B) Review of daily activity structure outside of school
+17 and treatment;
+18 (C) Review of paraprofessional and direct-care staff
+19 training and personnel records;
+20 (D) Review of staff-to-client ratios; and
+21 (E) Completion of client interviews;
+22 (2) An analysis of referral data, statistics, and psychotropic
+23 medication prescriptions;
+24 (3) An on-site visit of a regulated facility's operation, to be
+25 conducted at least once per year; and
+26 (4) Technical assistance and ongoing quality assurance and
+27 collaboration as needed.
+28 (e) This subchapter does not require any additional licensure or
+29 certification for a regulated facility.
+30
+31 9-28-1303. Department enforcement authority.
+32 (a) The Department of Human Services may initiate an adverse action
+33 against a regulated facility that:
+34 (1) Fails to comply with the provisions of this subchapter or
+35 any rule of the department relating to quality of care;
+36 (2) Furnishes or makes any statement or report to the department
+16 03-31-2025 13:35:19 JMB064
+As Engrossed: H3/5/25 H3/31/25 HB1653
+1 that is false or misleading;
+2 (3) Refuses or fails to submit required reports or to make
+3 available to the department any records required by the department in making
+4 an investigation of the agency for quality of care purposes;
+5 (4) Refuses or fails to submit to an investigation or to
+6 reasonable inspection by the department;
+7 (5) Retaliates against an employee who in good faith reports a
+8 suspected violation of the provisions of this subchapter or the rules
+9 promulgated under this subchapter;
+10 (6) Fails to engage in a course of professional conduct in
+11 dealing with clients being served by the regulated facility, as defined by
+12 rules promulgated under this subchapter; or
+13 (7) Demonstrates gross negligence in carrying out the duties at
+14 the regulated facility.
+15 (b) The department may impose an adverse action as follows:
+16 (1) Issue letters of reprimand or caution;
+17 (2) Require a corrective action plan; and
+18 (3)(A) Impose civil penalties of up to two thousand five hundred
+19 dollars ($2,500) per violation, with each day of noncompliance and each
+20 client injured as a result of noncompliance constituting a separate
+21 violation.
+22 (B) If any person upon whom the department has levied a
+23 civil penalty fails to pay the civil penalty within sixty (60) days of the
+24 decision of the department to impose the penalty, the amount of the fine
+25 shall be considered to be a debt owed to the State of Arkansas and may be
+26 collected by civil action.
+27 (C) Civil penalties collected under this section may be
+28 expended only for the purpose of providing technical assistance and training
+29 to regulated facilities.
+30 (c)(1) For a regulated facility licensed under the Child Welfare
+31 Agency Licensing Act, § 9-28-401 et seq., the department may petition the
+32 Child Welfare Agency Review Board to deny, suspend, or revoke the regulated
+33 facility's license on the basis of any adverse action imposed by the
+34 department under this section.
+35 (2) For a regulated facility licensed under § 20-9-201 et seq.,
+36 the department may petition the State Board of Health to deny, suspend, or
+17 03-31-2025 13:35:19 JMB064
+As Engrossed: H3/5/25 H3/31/25 HB1653
+1 revoke the regulated facility's license on the basis of any adverse action
+2 imposed by the department under this section.
+3 (d) The department shall notify the regulated facility of the adverse
+4 action of the department in writing and set forth the facts forming the basis
+5 for the adverse action.
+6 (e)(1) Adverse action hearings shall comply with the Arkansas
+7 Administrative Procedure Act, § 25-15-201 et seq.
+8 (2) Within ten (10) business days after rendering a decision,
+9 the department shall forward to the regulated facility written findings of
+10 fact and conclusions of law articulating the decision of the department.
+11
+12 9-28-1304. Rules.
+13 The Department of Human Services shall promulgate rules to implement
+14 this subchapter.
+15
+16 SECTION 23. DO NOT CODIFY. TEMPORARY LANGUAGE. Rules.
+17 (a) Beds within a psychiatric residential treatment facility, whether
+18 licensed on the effective date of this act or otherwise, shall not be
+19 approved and licensed under the new regulatory structure established in this
+20 act until:
+21 (1) The Office of Long-Term Care promulgates a certification
+22 manual; and
+23 (2) The Arkansas Medicaid Program promulgates a provider manual
+24 for psychiatric residential treatment facility services.
+25 (b) Providers of psychiatric residential treatment facility services
+26 in this state shall have one (1) year from the effective date of this act to
+27 develop, implement, and operate services that establish the appropriate
+28 continuum of care for families as defined by the Department of Human
+29 Services.
+30
+31 SECTION 24. EMERGENCY CLAUSE. It is found and determined by the
+32 General Assembly of the State of Arkansas that beds in psychiatric
+33 residential treatment facilities have been permitted but are not currently
+34 licensed; that these beds in psychiatric residential treatment facilities
+35 that are not licensed cannot be used for children in need of healthcare
+36 services despite the demand for the beds; that this act would authorize
+18 03-31-2025 13:35:19 JMB064
+As Engrossed: H3/5/25 H3/31/25 HB1653
+1 licensing of the beds in psychiatric residential treatment facilities and
+2 therefore allow the use of these beds in psychiatric residential treatment
+3 facilities for children in need; and that this act is immediately necessary
+4 to provide healthcare services to children in need across this state who are
+5 currently not able to be admitted into a psychiatric residential treatment
+6 facility. Therefore, an emergency is declared to exist, and this act being
+7 immediately necessary for the preservation of the public peace, health, and
+8 safety shall become effective on:
+9 (1) The date of its approval by the Governor;
+10 (2) If the bill is neither approved nor vetoed by the Governor,
+11 the expiration of the period of time during which the Governor may veto the
+12 bill; or
+13 (3) If the bill is vetoed by the Governor and the veto is
+14 overridden, the date the last house overrides the veto.
+15
+16 /s/Cavenaugh
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+19 03-31-2025 13:35:19 JMB064
+[DELETED:  A       A P C O A F P   T R T E  B   S e A  ( f A 2  ( a e  (]
+[DELETED:  H2 0 t r   ( b    ( S B f    ( t J   ( s o   ( a r t r   ( b C l   ( s o   S " i   ( o s c A ]
+[DELETED:  H3 0  S o s   ( r t f c   S t s   ( s M a     ( o s     ( p 1     ( f i 2    ( r b     ( t c b r   S]
+[DELETED:  H4 0 o p   ( c f f c  S  2  ( c u s  ( f s c s 2 4   S a t  ( c C w   S  2  ( r d d]
+[DELETED:  H5 0 n  ( e d  ( a e b n e  ( a i f  ( S  ( n   ( b D l e   ( c r i a   ( d c   ( r   S r]
+[DELETED:  H6 0 l  ( l l t § § t l   S a S   2   2 f  ( s H r   (   (   ( w   ( s   ( s   ( r o  ( t    ]
+[DELETED:  H7 0   2  ( a c o l   ( p H i   ( S s   ( r P   ( e    ( r p o    ( l t s  ( l k i s  (      2  I]
+[DELETED:  H8 0 p d   ( c o t   ( f   ( a   ( l   ( s   ( p   (   2 f  ( s   ( p o    ( c     ( c     ( c p     ( i s    (]
+[DELETED:  H9 0 t     (     ( m     (   ( p    ( e d i    ( c i    (    ( s    ( r    ( t  ( i o w    S " a   ( p e e s    (]
+[DELETED:  H1 0 m m n l    ( h    ( s    ( o f   S " i   ( c e c o f    ( o    ( s     ( c b p     ( a B    ( c    ( 2]
+[DELETED:  H1 0    ( S    ( D C D    ( L D    (    (    ( d d p s D    ( r c a    ( a    ( s C D   S   ( r s s i r s]
+[DELETED:  H1 0   S " A   ( a p h t a    ( f l   S w a   ( c e w b e   S a f  ( a   ( e   ( p   S o]
+[DELETED:  H1 0   ( r   S l r   ( o i    ( L    ( P c s     ( a o P      ( ( s b S    ( e O   S r r   ( e    ( r t]
+[DELETED:  H1 0 t    ( b p o   S r r    ( i O S i   S  9 f  ( s H r   (   (   ( w   ( s   ( s   ( r t  ( t ]
+[DELETED:  H1 0  S r S R   9  A   ( a   (    ( u    ( s t o   9  ( m r  ( s   ( a   ( t   (   ( c   ( l   ( o   ( i]
+[DELETED:  H1 0  ( a c A   ( h i G i  ( r   ( l    ( i    ( a    ( t    (    (   ( m   ( c   ( c  ( c   9  ( a   ( a   (]
+[DELETED:  H1 0 t   ( a a   ( r   ( s p   ( d r   ( t  (   (   (   ( d c v    ( c d s c    ( e t  ( A C f d   ( t]
+[DELETED:  H1 0 r i  ( a f  ( A   ( t f   9  T t   S  ( l a a   ( m   ( f  ( i d c S   S G r l t s]
+[DELETED:  H1 0 l t f t c f i s   (   ( t b   ( o  /                    ]
+
+
+================================================================================
+
+Raw Text:
+Stricken language would be deleted from and underlined language would be added to present law.
+1 State of Arkansas As Engrossed: H3/5/25 H3/31/25
+A Bill
+2 95th General Assembly
+3 Regular Session, 2025 HOUSE BILL 1653
+4
+5 By: Representatives Cavenaugh, Wooldridge
+6 By: Senator Irvin
+7
+For An Act To Be Entitled
+8
+9 AN ACT TO MOVE LICENSING AND REGULATION OF
+10 PSYCHIATRIC RESIDENTIAL TREATMENT FACILITIES FROM THE
+11 CHILD WELFARE AGENCY REVIEW BOARD TO THE DEPARTMENT
+12 OF HUMAN SERVICES; TO SET STANDARDS FOR THE LICENSING
+13 AND REGULATION OF PSYCHIATRIC RESIDENTIAL TREATMENT
+14 FACILITIES; TO DECLARE AN EMERGENCY; AND FOR OTHER
+15 PURPOSES.
+16
+17
+Subtitle
+18
+19 TO SET STANDARDS FOR LICENSING AND
+20 REGULATION OF PSYCHIATRIC RESIDENTIAL
+21 TREATMENT FACILITIES; AND TO DECLARE AN
+22 EMERGENCY.
+23
+24 BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF ARKANSAS:
+25
+26 SECTION 1. Arkansas Code § 20-8-107(c) and (d), concerning the
+27 expansion of facilities or services permitted by Health Services Permit
+28 Agency, are amended to read as follows:
+29 (c) In no event shall the requirements of this subchapter apply to any
+30 facility licensed or approved as of March 1, 2003, by the Child Welfare
+31 Agency Review Board pursuant to the Child Welfare Agency Licensing Act, § 9-
+32 28-401 et seq., and as specifically exempted by § 9-28-407(a)(3).
+33 (d) Beginning July 1, 2005, the Health Services Permit Agency may not
+34 accept applications or requests for permits of approval to add new beds or to
+35 expand existing bed capacity of residential care facilities.
+36 (d)(1) The Health Services Permit Agency shall recognize an exception
+*JMB064*
+03-31-2025 13:35:19 JMB064
+
+As Engrossed: H3/5/25 H3/31/25 HB1653
+1 to the moratorium regarding bed capacity and beds in a psychiatric
+2 residential treatment facility.
+3 (2) The Health Services Permit Agency shall add to the permitted
+4 bed capacity for psychiatric residential treatment facilities:
+5 (A) Beds that are not currently permitted by the Health
+6 Services Permit Agency but are licensed by the Child Welfare Agency Review
+7 Board for the purpose of operating as a psychiatric residential treatment
+8 facility before the effective date of this subsection; and
+9 (B) Beds that are fully constructed and could be used for
+10 the purpose of operating a psychiatric residential treatment facility as of
+11 January 1, 2025.
+12 (3) The total amount of additional beds authorized under this
+13 subsection shall not exceed nine hundred (900) beds for the purpose of
+14 operating as a psychiatric residential treatment facility.
+15 (4) The Health Services Permit Agency shall require prior
+16 approval under § 20-8-109 for any new construction of a psychiatric
+17 residential treatment facility and for any renovation project that exceeds
+18 two hundred fifty thousand dollars ($250,000) for an existing psychiatric
+19 residential treatment facility.
+20 (5) Any increase or decrease in the total number of authorized
+21 beds under this section shall be reviewed and approved by the Legislative
+22 Council before receiving a permit from the Health Services Permit Agency or a
+23 license from the Office of Long-Term Care.
+24 (6) For the purposes of this section, beds used for both in-
+25 state and out-of-state clients shall be counted in capacity for the purpose
+26 of obtaining a permit from the Health Services Permit Agency.
+27
+28 SECTION 2. Arkansas Code § 20-10-101(1), concerning the definition of
+29 "administrative remedy" relating to long-term care facilities and services,
+30 is amended to read as follows:
+31 (1) “Administrative remedy” means temporary management, denial
+32 of payment for all new admissions, transfer of residents, termination or
+33 suspension of license, termination of provider agreement, directed plan of
+34 correction, directed in-service training, and remedies established by
+35 Arkansas law, including remedies provided in § 20-10-1408 [repealed];
+36
+2 03-31-2025 13:35:19 JMB064
+
+As Engrossed: H3/5/25 H3/31/25 HB1653
+1 SECTION 3. Arkansas Code § 20-10-101(9)(A), concerning the definition
+2 of "long-term care facility" relating to long-term care facilities and
+3 services, is amended to read as follows:
+4 (9)(A) “Long-term care facility” means a nursing home,
+5 residential care facility, assisted living facility, psychiatric residential
+6 treatment facility, post-acute head injury retraining and residential care
+7 facility, or any other facility which provides long-term medical or personal
+8 care.
+9
+10 SECTION 4. Arkansas Code § 20-10-101, concerning definitions relating
+11 to long-term care facilities and services, is amended to add an additional
+12 subdivision to read as follows:
+13 (16)(A) "Psychiatric residential treatment facility" means a
+14 standalone, nonhospital facility with a provider agreement with the Arkansas
+15 Medicaid Program to provide inpatient services benefits to individuals who
+16 are under twenty-one (21) years of age and that:
+17 (i) Is accredited by The Joint Commission or any
+18 other accrediting organization with comparable standards recognized by this
+19 state;
+20 (ii) Attests to meeting the conditions of
+21 participation found at 42 C.F.R. Part 483, Subpart G, as existing on January
+22 1, 2025; and
+23 (iii) Attests that all of the residents in the
+24 facility meet the certification of need for services requirements as
+25 identified under 42 C.F.R. Part 441, Subpart D, as existing on January 1,
+26 2025.
+27 (B)(i) A survey and certification review of a psychiatric
+28 residential treatment facility by the department shall apply to all residents
+29 being served by the entity regardless of residency or payment source.
+30 (ii) All residents of a psychiatric residential
+31 treatment facility shall require intensive inpatient services for psychiatric
+32 conditions under the direction of a physician and the services provided shall
+33 be reasonably expected to improve the resident’s condition or prevent further
+34 regression until the services are no longer needed.
+35
+36 SECTION 5. Arkansas Code § 20-10-110(a)(2), concerning the definition
+3 03-31-2025 13:35:19 JMB064
+
+As Engrossed: H3/5/25 H3/31/25 HB1653
+1 of "long-term care facility" relating to the protection of residents'
+2 personal funds, is amended to read as follows:
+3 (2) “Long-term care facility” means a nursing home, residential
+4 care facility, post-acute head injury retraining and residential care
+5 facility, assisted living facility, psychiatric residential treatment
+6 facility, or any other facility that provides long-term medical or personal
+7 care;
+8
+9 SECTION 6. Arkansas Code § 20-10-402 is amended to read as follows:
+10 20-10-402. License required.
+11 (a) It shall be unlawful for any person to act or serve in the
+12 capacity of nursing home long-term care facility administrator in this state
+13 unless the person has been licensed to do so as authorized in this
+14 subchapter.
+15 (b) A person who serves as an administrator of a long-term care
+16 facility conducted exclusively for persons who rely upon treatment by
+17 spiritual means through prayer in accordance with the creed or tenets of a
+18 church or religious denomination shall be exempt from subsection (a) of this
+19 section and § 20-10-101(1)-(6), § 20-10-203(b), § 20-10-212, §§ 20-10-301 —
+20 20-10-303 [repealed], § 20-10-403, § 20-10-405(b) § 20-10-405(a)(2), § 20-10-
+21 406, and § 20-10-407.
+22
+23 SECTION 7. Arkansas Code § 20-10-404(a), concerning the application
+24 and fees for licensure as a long-term care facility administrator, is amended
+25 to read as follows:
+26 (a) Any person desiring to be licensed as a nursing home long-term
+27 care facility administrator shall make application to the Office of Long-Term
+28 Care on forms prescribed by the office and shall furnish such information
+29 with the application as shall be required by the office.
+30
+31 SECTION 8. Arkansas Code § 20-10-405 is amended to read as follows:
+32 20-10-405. Renewal.
+33 (a)(1) Every active nursing home administrator's license shall be
+34 renewed on or before July 1 of each year by paying a fee of one hundred
+35 dollars ($100) to the Office of Long-Term Care and by furnishing written
+36 documentation that the licensee has attended and accumulated a specific
+4 03-31-2025 13:35:19 JMB064
+
+As Engrossed: H3/5/25 H3/31/25 HB1653
+1 number of continuing education clock hours as established by the office.
+2 (b)(2) The fee for those nursing home administrators not actively
+3 employed by a nursing home facility as an administrator shall be fifty
+4 dollars ($50.00), payable on or before July 1 of each year.
+5 (c)(3) If the annual licensure fee in full along with the renewal
+6 application and satisfactory documentation of compliance with continuing
+7 education requirements is not postmarked or received by the office on or
+8 before July 1, the licensee shall be ineligible to perform the duties of
+9 nursing home administrator, and the license shall be deemed suspended
+10 effective July 2.
+11 (d)(4) No request for renewal postmarked or received by the office
+12 after July 1 shall be considered unless, in addition to other requirements
+13 imposed by law or rule, the licensee tenders a late charge in the amount of
+14 fifty dollars ($50.00).
+15 (e)(5) Any nursing home administrator license not renewed on or before
+16 September 1 shall expire effective September 2.
+17 (b) An administrator for a long-term care facility other than a
+18 nursing home shall be required to renew his or her license as follows:
+19 (1) Every active administrator license shall be renewed on or
+20 before January 1 of each year by submitting a renewal application to the
+21 Department of Human Services and by furnishing written documentation that the
+22 licensee has attended and accumulated a specific number of continuing
+23 education clock hours as established by the department;
+24 (2) If the renewal application and satisfactory documentation of
+25 compliance with continuing education requirements is not postmarked or
+26 received by the department on or before January 1, the licensee shall be
+27 ineligible to perform the duties of long-term care facility administrator,
+28 and the license shall be deemed suspended effective January 2;
+29 (3) A request for renewal postmarked or received by the
+30 department after January 1 shall not be considered unless the licensee
+31 complies with all of the requirements imposed by law or rule; and
+32 (4) Any long-term care facility administrator license not
+33 renewed on or before March 1 shall expire effective March 2.
+34
+35 SECTION 9. Arkansas Code § 20-10-407(a), concerning the denial,
+36 revocation, or suspension of a long-term care facility administrator's
+5 03-31-2025 13:35:19 JMB064
+
+As Engrossed: H3/5/25 H3/31/25 HB1653
+1 license, is amended to read as follows:
+2 (a) The Department of Human Services may refuse to issue or renew a
+3 long-term care facility administrator's license or may revoke or suspend the
+4 license of a long-term care facility administrator if the department finds
+5 that the applicant or licensee does not qualify for licensure or has violated
+6 § 20-10-101(1)-(6), § 20-10-203(b), § 20-10-212, §§ 20-10-402 and 20-10-403,
+7 § 20-10-405(b) § 20-10-405(a)(2), § 20-10-406, and this section or rules of
+8 the department relating to the proper administration and management of a
+9 long-term care facility.
+10
+11 SECTION 10. Arkansas Code Title 20, Chapter 46, Subchapter 4 is
+12 amended to read as follows:
+13 Subchapter 4 — Psychiatric Residential Treatment Facilities
+14
+15 20-46-401 - 20-46-404. [Repealed.]
+16
+17 20-46-401. Admission of children to psychiatric residential treatment
+18 facilities.
+19 (a) A psychiatric residential treatment facility licensed under this
+20 subchapter and holding a permit from the Health Services Permit Agency or the
+21 Health Services Permit Commission shall not admit a child for psychiatric
+22 residential treatment unless the child is:
+23 (1) An Arkansas resident;
+24 (2) A child of a parent who is an Arkansas resident;
+25 (3) A child placed by or on behalf of another state’s child
+26 welfare agency;
+27 (4) A child for whom the facility is being paid by another
+28 state's Medicaid program;
+29 (5) A child of an active-duty member or veteran of the uniformed
+30 services as defined in § 6-4-302; or
+31 (6) A nonresident child victim of human trafficking when the
+32 regulated facility maintains responsibility for the return of the child to an
+33 out-of-state custodian.
+34 (b) The Department of Human Services may promulgate rules to enforce
+35 this section.
+36
+6 03-31-2025 13:35:19 JMB064
+
+As Engrossed: H3/5/25 H3/31/25 HB1653
+1
+2 20-46-402. Licensure — Unlawful acts.
+3 (a)(1) It is unlawful for any person, partnership, group, corporation,
+4 association, or other entity or identifiable group of entities having a
+5 coordinated ownership with controlling interest to operate or assist in the
+6 operation of a psychiatric residential treatment facility that has not been
+7 licensed by the Office of Long-Term Care under this subchapter.
+8 (2) Before obtaining a license under this subchapter, a
+9 psychiatric residential treatment facility shall obtain a permit from the
+10 Health Services Permit Agency or Health Services Permit Commission to operate
+11 in Arkansas.
+12 (3) The bed capacity allowed by the permit issued by the Health
+13 Services Permit Agency or Health Services Permit Commission includes both in-
+14 state and out-of-state clients.
+15 (4) Any expansion of bed capacity by an existing licensee shall
+16 require a license from the office and a permit from the Health Services
+17 Permit Agency.
+18 (5)(A) A license issued by the office under this subchapter is
+19 effective unless revoked, suspended, or terminated by the office.
+20 (B) In addition to any other basis provided by law or
+21 rule, the Department of Human Services shall terminate the license of a
+22 psychiatric residential treatment facility licensee that has not been in
+23 operation for a consecutive twelve-month period.
+24 (C) The department may revoke, suspend, or terminate a
+25 license upon any basis provided by law or rule, including without limitation
+26 the failure to be in operation or in substantial compliance for a consecutive
+27 six-month period.
+28 (b) It is unlawful for any person to falsify an application for
+29 licensure, to knowingly circumvent the authority of this subchapter, to
+30 knowingly violate the orders issued by the department, or to advertise for
+31 inpatient psychiatric residential treatment when not licensed under this
+32 subchapter to provide those services.
+33 (c) Any violation of this section shall constitute a Class D felony.
+34
+35 20-46-403. Licensure posting and display.
+36 If the Department of Human Services issues a license to operate a
+7 03-31-2025 13:35:19 JMB064
+
+As Engrossed: H3/5/25 H3/31/25 HB1653
+1 psychiatric residential treatment facility, the license shall be posted and
+2 displayed in a conspicuous place in the facility and must state at a minimum:
+3 (1) The full legal name of the person, partnership, group,
+4 corporation, organization, association, or other entity or identifiable group
+5 of entities having a coordinated ownership with controlling interest holding
+6 the license, including the business name, if different;
+7 (2) The address of the psychiatric residential treatment
+8 facility;
+9 (3) The effective date and expiration date of the license, if
+10 applicable;
+11 (4) The type of psychiatric residential treatment facility the
+12 licensee is authorized to operate;
+13 (5) The ages and maximum number of children that may receive
+14 services from the psychiatric residential treatment facility;
+15 (6) The status of the license, whether regular, provisional, or
+16 probationary; and
+17 (7) Any special conditions or limitations of the license.
+18
+19 20-46-404. Services provided by psychiatric residential treatment
+20 facilities.
+21 (a) A psychiatric residential treatment facility licensed under this
+22 subchapter shall:
+23 (1)(A) Provide a range of comprehensive services to treat the
+24 psychiatric condition of residents on an inpatient basis under the direction
+25 of a physician.
+26 (B) The psychiatric residential treatment facility shall
+27 certify that:
+28 (i) Ambulatory care services available in the
+29 community do not meet the treatment needs of the resident;
+30 (ii) Proper treatment of the resident's psychiatric
+31 condition requires services on an inpatient basis under the direction of a
+32 physician; and
+33 (iii) The services can reasonably be expected to
+34 improve the resident’s condition or prevent further regression so that the
+35 services will no longer be needed.
+36 (C) The certification required in subdivision (a)(1)(B) of
+8 03-31-2025 13:35:19 JMB064
+
+As Engrossed: H3/5/25 H3/31/25 HB1653
+1 this section shall be made by an independent team that:
+2 (i) Includes a physician;
+3 (ii) Has competence in diagnosis and treatment of
+4 mental illness, preferably in child psychiatry; and
+5 (iii) Has knowledge of the resident's situation; and
+6 (2) Provide services to a resident according to an individual
+7 plan of care that:
+8 (A) Is based on a diagnostic evaluation that includes
+9 examination of the medical, psychological, social, behavioral, and
+10 developmental aspects of the resident's situation and reflects the need for
+11 inpatient psychiatric care;
+12 (B) Is developed by a team of professionals in
+13 consultation with the resident, parents, legal guardians, or other
+14 individuals in whose care the resident will be released after discharge;
+15 (C) Describes clear and concise treatment objectives;
+16 (D) Ensures continuity of care with the resident’s family,
+17 school and educational requirements, and community upon discharge;
+18 (E) Determines that services being provided are or were
+19 required on an inpatient basis; and
+20 (F) Recommends changes in the plan of care as indicated by
+21 the resident's overall adjustment as an inpatient.
+22 (b) The Department of Human Services shall promulgate rules to
+23 implement this subchapter, which shall include components that ensure quality
+24 of care, health and safety of residents and facility staff, and compliance
+25 with all educational requirements.
+26
+27
+28 SECTION 11. Arkansas Code § 9-28-402(8), concerning the definition of
+29 "child welfare agency" within the Child Welfare Agency Licensing Act, is
+30 amended to read as follows:
+31 (8) “Child welfare agency” means any person, corporation,
+32 partnership, voluntary association, or other entity or identifiable group of
+33 entities having a coordinated ownership of controlling interest, whether
+34 established for profit or otherwise, that is not excluded under this
+35 subchapter and engages in any of the following activities:
+36 (A) Receives a total number of six (6) or more unrelated
+9 03-31-2025 13:35:19 JMB064
+
+As Engrossed: H3/5/25 H3/31/25 HB1653
+1 minors for care on a twenty-four-hour basis for the purpose of ensuring the
+2 minors receive care, training, education, custody, or supervision, whether or
+3 not there are six (6) or more children cared for at any single physical
+4 location;
+5 (B) Places any unrelated minor for care on a twenty-four-
+6 hour basis with persons other than themselves;
+7 (C) Plans for or assists in the placements described in
+8 subdivision (8)(B) of this section; or
+9 (D) Receives, places, plans, or assists in the placement
+10 of a child victim of human trafficking in a home or any type of shelter or
+11 facility;
+12
+13 SECTION 12. Arkansas Code § 9-28-402(12), concerning the definition of
+14 "exempt child welfare agency" within the Child Welfare Agency Licensing Act,
+15 is amended to read as follows:
+16 (12) “Exempt child welfare agency” means any person,
+17 corporation, partnership, voluntary association or other entity, whether
+18 established for profit or otherwise, that otherwise fits the definition of a
+19 child welfare agency but that is specifically exempt from the requirement of
+20 obtaining a license under this subchapter. Those agencies specifically exempt
+21 from the license requirement are:
+22 (A) A facility or program owned or operated by an agency
+23 of the United States Government;
+24 (B)(i) Any agency of the State of Arkansas that is
+25 statutorily authorized to administer or supervise child welfare activities.
+26 (ii) In order to maintain exempt status, the state
+27 child welfare agency shall state every two (2) years in written form signed
+28 by the persons in charge that their agency is in substantial compliance with
+29 published state agency child welfare standards.
+30 (iii) Visits to review and advise exempt state
+31 agencies shall be made as deemed necessary by the Child Welfare Agency Review
+32 Board to verify and maintain substantial compliance with the standards;
+33 (C) A facility or program owned or operated by or under
+34 contract with the Division of Correction;
+35 (D) A hospital providing acute care licensed pursuant to §
+36 20-9-201 et seq.;
+10 03-31-2025 13:35:19 JMB064
+
+As Engrossed: H3/5/25 H3/31/25 HB1653
+1 (E)(D) Any facility governed by the Department of Human
+2 Services State Institutional System Board or its successor;
+3 (F) Human development centers regulated by the Board of
+4 Developmental Disabilities Services pursuant to the Location Act for
+5 Community Homes for Individuals with Intellectual and Developmental
+6 Disabilities, § 20-48-601 et seq.;
+7 (G) Any facility licensed as a family home pursuant to the
+8 Location Act for Community Homes for Individuals with Intellectual and
+9 Developmental Disabilities, § 20-48-601 et seq.;
+10 (H)(E) Any boarding school as defined in this section;
+11 (I)(F) Any temporary camp as defined in this section;
+12 (J)(G) Any state-operated facility to house juvenile
+13 delinquents or any serious offender program facility operated by a state
+14 designee to house juvenile delinquents. Those facilities shall be subject to
+15 program requirements modeled on nationally recognized correctional facility
+16 standards that shall be developed, administered, and monitored by the
+17 Division of Youth Services; and
+18 (K)(H) Any child welfare agency operated solely by a
+19 religious organization that elects to be exempt from licensing and that
+20 complies within the conditions of the exemption for church-operated agencies
+21 as set forth in this subchapter;
+22 (L) The Division of Developmental Disabilities Services;
+23 and
+24 (M) Any intellectual or other developmental disabilities
+25 services waiver provider licensed under § 20-48-208 or the Location Act for
+26 Community Homes for Individuals with Intellectual and Developmental
+27 Disabilities, § 20-48-601 et seq.;
+28
+29 SECTION 13. Arkansas Code § 9-28-402(18) is repealed.
+30 (18) “Psychiatric residential treatment facility” means a
+31 residential childcare facility in a nonhospital setting that provides a
+32 structured, systematic, therapeutic program of treatment under the
+33 supervision of a psychiatrist, for children who are emotionally disturbed and
+34 in need of daily nursing services, psychiatrist's supervision, and
+35 residential care but who are not in an acute phase of illness requiring the
+36 services of an inpatient psychiatric hospital;
+11 03-31-2025 13:35:19 JMB064
+
+As Engrossed: H3/5/25 H3/31/25 HB1653
+1
+2 SECTION 14. Arkansas Code § 9-28-402(22), concerning the definition of
+3 "residential childcare facility" within the Child Welfare Agency Licensing
+4 Act, is amended to read as follows:
+5 (22)(A) “Residential childcare facility” means any child welfare
+6 agency that is not an excluded child welfare agency under this subchapter and
+7 provides care, training, education, custody, or supervision on a twenty-four-
+8 hour basis for six (6) or more unrelated children, excluding foster homes
+9 that have six (6) or more children who are all related to each other but who
+10 are not related to the foster parents.
+11 (B) A "residential childcare facility" does not include a
+12 facility that provides inpatient psychiatric treatment, which shall not be
+13 licensed as a residential childcare facility;
+14
+15 SECTION 15. Arkansas Code § 9-28-402, concerning the definitions
+16 within the Child Welfare Agency Licensing Act, is amended to add an
+17 additional subdivision to read as follows:
+18 (32) "Excluded child welfare agency" means any person,
+19 corporation, partnership, voluntary association, or other entity, whether
+20 established for-profit or otherwise, that meets the definition of a child
+21 welfare agency or an exempt child welfare agency but is licensed or certified
+22 by the Department of Human Services or the Department of Health and is
+23 enrolled in the Arkansas Medicaid Program.
+24
+25 SECTION 16. Arkansas Code § 9-28-403(a), concerning the creation and
+26 authority of the Child Welfare Agency Review Board, is amended to read as
+27 follows:
+28 (a)(1) There is created the Child Welfare Agency Review Board to serve
+29 as the administrative body to carry out the provisions of this subchapter.
+30 (2) The board shall have the authority to promulgate rules to
+31 enforce the provisions of this subchapter.
+32 (3) An excluded child welfare agency is not subject to the
+33 provisions of this subchapter.
+34
+35 SECTION 17. Arkansas Code § 9-28-404(a)(5), concerning the membership
+36 of the Child Welfare Agency Review Board, is repealed.
+12 03-31-2025 13:35:19 JMB064
+
+As Engrossed: H3/5/25 H3/31/25 HB1653
+1 (5) One (1) representative from a licensed psychiatric
+2 residential treatment facility;
+3
+4 SECTION 18. Arkansas Code § 9-28-407(a)(3) and (4), concerning
+5 licenses required and issued by the Child Welfare Agency Review Board, are
+6 repealed.
+7 (3) Any child welfare agency capacity licensed by the board as
+8 of March 1, 2003, whether held by the original licensee or by a successor in
+9 interest to the original licensee, is exempted from:
+10 (A) Obtaining any license or permit from the Office of
+11 Long-Term Care; and
+12 (B)(i) Obtaining any permit from the Health Services
+13 Permit Agency or the Health Services Permit Commission to operate at the
+14 capacity licensed by the board as of March 1, 2003, except as required under
+15 subdivision (a)(3)(B)(ii) of this section.
+16 (ii)(a) If a licensee is operating at less than or
+17 at the capacity licensed by the board as of March 1, 2021, the licensee shall
+18 obtain a permit from the Health Services Permit Agency or the Health Services
+19 Permit Commission for any increase in capacity.
+20 (b) For the purposes of subdivision
+21 (a)(3)(B)(ii)(a) of this section, both in-state and out-of-state clients
+22 shall be counted in capacity for the purpose of obtaining a license from the
+23 board and a permit from the Health Services Permit Agency or the Health
+24 Services Permit Commission.
+25 (4) Any new license or expansion of capacity by an
+26 existing licensee of the board shall require a license and permit from the
+27 Office of Long-Term Care or the Health Services Permit Agency.
+28
+29 SECTION 19. Arkansas Code § 9-28-407(a)(5), concerning licenses
+30 required and issued by the Child Welfare Agency Review Board, is amended to
+31 read as follows:
+32 (5)(A) A license issued by the board under this subchapter is
+33 effective unless revoked, suspended, or terminated by the board.
+34 (B) In addition to any other basis provided by law or
+35 rule, the board shall terminate the license of a psychiatric residential
+36 treatment facility licensee that has not been in operation for a consecutive
+13 03-31-2025 13:35:19 JMB064
+
+As Engrossed: H3/5/25 H3/31/25 HB1653
+1 twelve-month period.
+2 (C) The Department of Human Services may recommend to the
+3 board the revocation, suspension, or termination of a license for any basis
+4 provided by law or rule, including without limitation the failure to be in
+5 operation or in substantial compliance for a consecutive six-month period.
+6
+7 SECTION 20. Arkansas Code § 9-28-407(f)(3)(F), concerning licenses
+8 required and issued by the Child Welfare Agency Review Board, is amended to
+9 read as follows:
+10 (F) The provisions of subsection (a) of this section,
+11 including those provisions regarding obtaining licenses or permits from the
+12 Office of Long-Term Care and regarding obtaining any permits from the Health
+13 Services Permit Agency or the Health Services Permit Commission, shall apply
+14 in their entirety to the new owner of the child welfare agency
+15
+16 SECTION 21. Arkansas Code § 9-28-416 is repealed.
+17 9-28-416. Admission of children to psychiatric residential treatment
+18 facilities.
+19 (a) A psychiatric residential treatment facility licensed under this
+20 subchapter and holding a permit from the Health Services Permit Agency or the
+21 Health Services Permit Commission shall not admit a child for psychiatric
+22 residential treatment unless the child is:
+23 (1) An Arkansas resident;
+24 (2) A child of a parent who is an Arkansas resident;
+25 (3) A child placed by or on behalf of another state's child
+26 welfare agency;
+27 (4) A child for whom the facility is being paid by another
+28 state's Medicaid program;
+29 (5) A child of an active-duty member or veteran of the uniformed
+30 services as defined in § 6-4-302; or
+31 (6) A nonresident child victim of human trafficking when the
+32 regulated facility maintains responsibility for the return of the child to
+33 the out-of-state custodian.
+34 (b) The Department of Human Services may promulgate rules to enforce
+35 this section.
+36
+14 03-31-2025 13:35:19 JMB064
+
+As Engrossed: H3/5/25 H3/31/25 HB1653
+1 SECTION 22. Arkansas Code Title 9, Chapter 28, Subchapter 13, is
+2 repealed.
+3 Subchapter 13 — Psychiatric Residential Treatment Facilities and Other
+4 Regulated Facilities
+5
+6 9-28-1301. Definitions.
+7 As used in this subchapter:
+8 (1) “Psychiatric residential treatment facility” means the same
+9 as defined in § 9-28-402; and
+10 (2) “Regulated facility” means:
+11 (A) A psychiatric residential treatment facility licensed
+12 under the Child Welfare Agency Licensing Act, § 9-28-401 et seq.; and
+13 (B) A psychiatric hospital licensed under § 20-9-201 et
+14 seq., that admits a child for the purpose of providing behavioral health
+15 treatment, regardless of whether the child is placed in an acute, subacute,
+16 or otherwise unlicensed bed.
+17
+18 9-28-1302. Quality of care — Quality assurance reviews.
+19 (a) The Department of Human Services shall promulgate rules setting
+20 minimum standards and metrics governing the quality of care provided by a
+21 regulated facility to a child.
+22 (b) Quality of care standards shall include that a regulated facility
+23 shall provide:
+24 (1) Trauma-informed programming and clinical services and, when
+25 applicable, evidence-based treatments;
+26 (2) Services that will be short-term, target treatment episodes
+27 to reduce the likelihood of re-entry into residential treatment settings;
+28 (3) Services that are family-driven and youth-guided;
+29 (4) Mental health services and clinical services provided by
+30 clinical staff as appropriate for the child's needs;
+31 (5) Educational services in compliance with state and federal
+32 law and rules of the Department of Education;
+33 (6) Coordination of all needs including medical, dental, and
+34 other needs; and
+35 (7) Clinical discharge planning throughout the child's stay that
+36 includes the custodian and child involvement.
+15 03-31-2025 13:35:19 JMB064
+
+As Engrossed: H3/5/25 H3/31/25 HB1653
+1 (c)(1) The Department of Human Services and its designees may inspect
+2 and investigate the quality of care for behavioral health provided to any
+3 child admitted to a regulated facility, whether or not the child is an
+4 Arkansas resident.
+5 (2) The Department of Human Services or any other public agency
+6 having authority or responsibility with respect to child maltreatment,
+7 including without limitation the Medicaid Fraud Control Unit of the Attorney
+8 General's office, may investigate any alleged or suspected child maltreatment
+9 in any regulated facility.
+10 (d) The Department of Human Services shall conduct quality assurance
+11 reviews for each regulated facility, consisting of the following:
+12 (1) A review of treatment structure including without
+13 limitation:
+14 (A) Observation of paraprofessional and direct-care staff
+15 interaction with patients;
+16 (B) Review of daily activity structure outside of school
+17 and treatment;
+18 (C) Review of paraprofessional and direct-care staff
+19 training and personnel records;
+20 (D) Review of staff-to-client ratios; and
+21 (E) Completion of client interviews;
+22 (2) An analysis of referral data, statistics, and psychotropic
+23 medication prescriptions;
+24 (3) An on-site visit of a regulated facility's operation, to be
+25 conducted at least once per year; and
+26 (4) Technical assistance and ongoing quality assurance and
+27 collaboration as needed.
+28 (e) This subchapter does not require any additional licensure or
+29 certification for a regulated facility.
+30
+31 9-28-1303. Department enforcement authority.
+32 (a) The Department of Human Services may initiate an adverse action
+33 against a regulated facility that:
+34 (1) Fails to comply with the provisions of this subchapter or
+35 any rule of the department relating to quality of care;
+36 (2) Furnishes or makes any statement or report to the department
+16 03-31-2025 13:35:19 JMB064
+
+As Engrossed: H3/5/25 H3/31/25 HB1653
+1 that is false or misleading;
+2 (3) Refuses or fails to submit required reports or to make
+3 available to the department any records required by the department in making
+4 an investigation of the agency for quality of care purposes;
+5 (4) Refuses or fails to submit to an investigation or to
+6 reasonable inspection by the department;
+7 (5) Retaliates against an employee who in good faith reports a
+8 suspected violation of the provisions of this subchapter or the rules
+9 promulgated under this subchapter;
+10 (6) Fails to engage in a course of professional conduct in
+11 dealing with clients being served by the regulated facility, as defined by
+12 rules promulgated under this subchapter; or
+13 (7) Demonstrates gross negligence in carrying out the duties at
+14 the regulated facility.
+15 (b) The department may impose an adverse action as follows:
+16 (1) Issue letters of reprimand or caution;
+17 (2) Require a corrective action plan; and
+18 (3)(A) Impose civil penalties of up to two thousand five hundred
+19 dollars ($2,500) per violation, with each day of noncompliance and each
+20 client injured as a result of noncompliance constituting a separate
+21 violation.
+22 (B) If any person upon whom the department has levied a
+23 civil penalty fails to pay the civil penalty within sixty (60) days of the
+24 decision of the department to impose the penalty, the amount of the fine
+25 shall be considered to be a debt owed to the State of Arkansas and may be
+26 collected by civil action.
+27 (C) Civil penalties collected under this section may be
+28 expended only for the purpose of providing technical assistance and training
+29 to regulated facilities.
+30 (c)(1) For a regulated facility licensed under the Child Welfare
+31 Agency Licensing Act, § 9-28-401 et seq., the department may petition the
+32 Child Welfare Agency Review Board to deny, suspend, or revoke the regulated
+33 facility's license on the basis of any adverse action imposed by the
+34 department under this section.
+35 (2) For a regulated facility licensed under § 20-9-201 et seq.,
+36 the department may petition the State Board of Health to deny, suspend, or
+17 03-31-2025 13:35:19 JMB064
+
+As Engrossed: H3/5/25 H3/31/25 HB1653
+1 revoke the regulated facility's license on the basis of any adverse action
+2 imposed by the department under this section.
+3 (d) The department shall notify the regulated facility of the adverse
+4 action of the department in writing and set forth the facts forming the basis
+5 for the adverse action.
+6 (e)(1) Adverse action hearings shall comply with the Arkansas
+7 Administrative Procedure Act, § 25-15-201 et seq.
+8 (2) Within ten (10) business days after rendering a decision,
+9 the department shall forward to the regulated facility written findings of
+10 fact and conclusions of law articulating the decision of the department.
+11
+12 9-28-1304. Rules.
+13 The Department of Human Services shall promulgate rules to implement
+14 this subchapter.
+15
+16 SECTION 23. DO NOT CODIFY. TEMPORARY LANGUAGE. Rules.
+17 (a) Beds within a psychiatric residential treatment facility, whether
+18 licensed on the effective date of this act or otherwise, shall not be
+19 approved and licensed under the new regulatory structure established in this
+20 act until:
+21 (1) The Office of Long-Term Care promulgates a certification
+22 manual; and
+23 (2) The Arkansas Medicaid Program promulgates a provider manual
+24 for psychiatric residential treatment facility services.
+25 (b) Providers of psychiatric residential treatment facility services
+26 in this state shall have one (1) year from the effective date of this act to
+27 develop, implement, and operate services that establish the appropriate
+28 continuum of care for families as defined by the Department of Human
+29 Services.
+30
+31 SECTION 24. EMERGENCY CLAUSE. It is found and determined by the
+32 General Assembly of the State of Arkansas that beds in psychiatric
+33 residential treatment facilities have been permitted but are not currently
+34 licensed; that these beds in psychiatric residential treatment facilities
+35 that are not licensed cannot be used for children in need of healthcare
+36 services despite the demand for the beds; that this act would authorize
+18 03-31-2025 13:35:19 JMB064
+
+As Engrossed: H3/5/25 H3/31/25 HB1653
+1 licensing of the beds in psychiatric residential treatment facilities and
+2 therefore allow the use of these beds in psychiatric residential treatment
+3 facilities for children in need; and that this act is immediately necessary
+4 to provide healthcare services to children in need across this state who are
+5 currently not able to be admitted into a psychiatric residential treatment
+6 facility. Therefore, an emergency is declared to exist, and this act being
+7 immediately necessary for the preservation of the public peace, health, and
+8 safety shall become effective on:
+9 (1) The date of its approval by the Governor;
+10 (2) If the bill is neither approved nor vetoed by the Governor,
+11 the expiration of the period of time during which the Governor may veto the
+12 bill; or
+13 (3) If the bill is vetoed by the Governor and the veto is
+14 overridden, the date the last house overrides the veto.
+15
+16 /s/Cavenaugh
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+19 03-31-2025 13:35:19 JMB064
+
+[DELETED:  A       A P C O A F P   T R T E  B   S e A  ( f A 2  ( a e  (]
+[DELETED:  H2 0 t r   ( b    ( S B f    ( t J   ( s o   ( a r t r   ( b C l   ( s o   S " i   ( o s c A ]
+[DELETED:  H3 0  S o s   ( r t f c   S t s   ( s M a     ( o s     ( p 1     ( f i 2    ( r b     ( t c b r   S]
+[DELETED:  H4 0 o p   ( c f f c  S  2  ( c u s  ( f s c s 2 4   S a t  ( c C w   S  2  ( r d d]
+[DELETED:  H5 0 n  ( e d  ( a e b n e  ( a i f  ( S  ( n   ( b D l e   ( c r i a   ( d c   ( r   S r]
+[DELETED:  H6 0 l  ( l l t § § t l   S a S   2   2 f  ( s H r   (   (   ( w   ( s   ( s   ( r o  ( t    ]
+[DELETED:  H7 0   2  ( a c o l   ( p H i   ( S s   ( r P   ( e    ( r p o    ( l t s  ( l k i s  (      2  I]
+[DELETED:  H8 0 p d   ( c o t   ( f   ( a   ( l   ( s   ( p   (   2 f  ( s   ( p o    ( c     ( c     ( c p     ( i s    (]
+[DELETED:  H9 0 t     (     ( m     (   ( p    ( e d i    ( c i    (    ( s    ( r    ( t  ( i o w    S " a   ( p e e s    (]
+[DELETED:  H1 0 m m n l    ( h    ( s    ( o f   S " i   ( c e c o f    ( o    ( s     ( c b p     ( a B    ( c    ( 2]
+[DELETED:  H1 0    ( S    ( D C D    ( L D    (    (    ( d d p s D    ( r c a    ( a    ( s C D   S   ( r s s i r s]
+[DELETED:  H1 0   S " A   ( a p h t a    ( f l   S w a   ( c e w b e   S a f  ( a   ( e   ( p   S o]
+[DELETED:  H1 0   ( r   S l r   ( o i    ( L    ( P c s     ( a o P      ( ( s b S    ( e O   S r r   ( e    ( r t]
+[DELETED:  H1 0 t    ( b p o   S r r    ( i O S i   S  9 f  ( s H r   (   (   ( w   ( s   ( s   ( r t  ( t ]
+[DELETED:  H1 0  S r S R   9  A   ( a   (    ( u    ( s t o   9  ( m r  ( s   ( a   ( t   (   ( c   ( l   ( o   ( i]
+[DELETED:  H1 0  ( a c A   ( h i G i  ( r   ( l    ( i    ( a    ( t    (    (   ( m   ( c   ( c  ( c   9  ( a   ( a   (]
+[DELETED:  H1 0 t   ( a a   ( r   ( s p   ( d r   ( t  (   (   (   ( d c v    ( c d s c    ( e t  ( A C f d   ( t]
+[DELETED:  H1 0 r i  ( a f  ( A   ( t f   9  T t   S  ( l a a   ( m   ( f  ( i d c S   S G r l t s]
+[DELETED:  H1 0 l t f t c f i s   (   ( t b   ( o  /                    ]

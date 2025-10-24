@@ -1,0 +1,259 @@
+Title: Stricken language would be deleted from and underlined language would be added to present law.
+Official Title: Stricken language would be deleted from and underlined language would be added to present law.
+Number of Sections: 1
+Source: versions - HB 1652
+Media Type: application/pdf
+Strikethrough Detection: 3 sections found
+
+================================================================================
+
+Section 1:
+1 State of Arkansas As Engrossed: H3/6/25
+A Bill
+2 95th General Assembly
+3 Regular Session, 2025 HOUSE BILL 1652
+4
+5 By: Representatives Tosh, Hollowell, Lundstrum
+6 By: Senators J. Boyd, Hill, Irvin, C. Penzo
+7
+For An Act To Be Entitled
+8
+9 AN ACT TO AMEND THE LAW CONCERNING SELF-SERVICE
+10 STORAGE FACILITIES; TO ALLOW THE ENFORCEMENT OF AN
+11 UNSIGNED SELF-SERVICE STORAGE FACILITY RENTAL
+12 AGREEMENT; TO CREATE A PROCEDURE TO PROVIDE NOTICE OF
+13 THE TERMINATION OF A SELF-SERVICE STORAGE FACILITY
+14 RENTAL AGREEMENT; AND FOR OTHER PURPOSES.
+15
+16
+Subtitle
+17
+18 T0 AMEND THE LAW CONCERNING SELF-SERVICE
+19 STORAGE FACILITIES; TO ENFORCE AN
+20 UNSIGNED SELF-SERVICE FACILITY STORAGE
+21 RENTAL AGREEMENT; AND TO CREATE A
+22 TERMINATION PROCEDURE FOR A SELF-SERVICE
+23 FACILITY STORAGE RENTAL AGREEMENT.
+24
+25 BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF ARKANSAS:
+26
+27 SECTION 1. Arkansas Code § 18-16-401(4), concerning definitions
+28 related to self-service storage facilities, is amended to read as follows:
+29 (4) “Last known address” means the address or electronic mail
+30 address provided by the occupant in:
+31 (A) The rental agreement; or
+32 (B) A written or electronic application to rent a leased
+33 space at a self-service storage facility if a signed rental agreement does
+34 not exist; or
+35 (C) A subsequent written or electronic notice of a change
+36 of address;
+*ZRC050*
+03-06-2025 13:46:53 ZRC050
+As Engrossed: H3/6/25 HB1652
+1
+2 SECTION 2. Arkansas Code § 18-16-401(10), concerning definitions
+3 related to self-service storage facilities, is amended to read as follows:
+4 (10) “Rental agreement” means a written or electronic agreement
+5 that establishes or modifies the terms, conditions, or rules concerning the
+6 use and occupancy of a self-service storage facility; and
+7
+8 SECTION 3. Arkansas Code § 18-16-404 is amended to read as follows:
+9 18-16-404. Notice of lien.
+10 A rental agreement shall contain a statement in bold type advising the
+11 occupant:
+12 (1) Of the existence of the lien; and
+13 (2) That personal property stored in the leased space may be
+14 sold or removed to satisfy the lien if the occupant is in default; and
+15 (3) That the occupant is required to disclose any lienholders
+16 with an interest in the personal property that is or will be stored in the
+17 leased space.
+18
+19 SECTION 4. Arkansas Code § 18-16-407(b)(3)(A), concerning the steps
+20 the operator of a self-service storage facility must take before conducting a
+21 sale and removal procedure for personal property stored in the self-service
+22 storage facility, is amended to read as follows:
+23 (3)(A) Contact the circuit clerk in the county where the
+24 personal property is stored or use a commercially reasonable method to
+25 determine the name and address of any holder of liens or security interests
+26 in the personal property being sold or removed.
+27
+28 SECTION 5. Arkansas Code Title 18, Chapter 16, Subchapter 4, is
+29 amended to add additional sections to read as follows:
+30 18-16-414. Delivery of rental agreement — Enforceability.
+31 (a) A rental agreement may be delivered and signed electronically or
+32 in writing.
+33 (b) If a person or entity does not sign a rental agreement for a
+34 leased space that the operator has delivered to the last known address of the
+35 person or entity by hand delivery, first class mail, or electronic mail,
+36 continued use of the leased space by the person or entity for at least thirty
+2 03-06-2025 13:46:53 ZRC050
+As Engrossed: H3/6/25 HB1652
+1 (30) days from the date of the notice provided under this subchapter
+2 constitutes acceptance of the rental agreement by the person or entity and
+3 has the same effect as if the person or entity signed the rental agreement.
+4
+5 18-16-415. Termination or nonrenewal of rental agreement — Notice.
+6 (a)(1) Except as provided under subdivision (a)(2)(A) of this section,
+7 an occupant shall not access or use a self-service storage facility upon
+8 written or electronic notice of the termination or nonrenewal of the
+9 occupant's rental agreement.
+10 (2) A notice of the termination or nonrenewal of the occupant's
+11 rental agreement under this section shall:
+12 (A) Provide the occupant with at least fourteen (14) days
+13 after delivery of the notice to remove his or her personal property from the
+14 self-service storage facility; and
+15 (B) Be delivered to the last known address of the occupant
+16 by:
+17 (i) Hand delivery;
+18 (ii) First class mail with certificate of mailing;
+19 or
+20 (iii) Electronic mail.
+21 (b)(1) During the period provided under subdivision (a)(2)(A) of this
+22 section, the operator may place reasonable restrictions on the use of the
+23 leased space and the self-service storage facility by the occupant.
+24 (2) Reasonable restrictions under subdivision (b)(1) of this
+25 section include without limitation limiting access to the leased space and
+26 the self-service storage facility by the occupant except the access required
+27 for the occupant to remove personal property during the office hours of the
+28 operator.
+29 (c) Upon the expiration of the period provided under subdivision
+30 (a)(2)(A) of this section, the operator may dispose of any personal property
+31 that:
+32 (1) Belongs to an occupant who received a notice of termination
+33 or nonrenewal under subsection (a) of this section; and
+34 (2) Remains at the self-service storage facility.
+35
+36 /s/Tosh
+3 03-06-2025 13:46:53 ZRC050
+[DELETED:  A   EBL1     A S U A T R   T S U R T F  B   S r   a    (    ( s n    ( o]
+[DELETED:  H2 0   S r   ( t u   S  1  A o   (   ( s   ( w l   S t s s   ( p d i   S a  1  ( i  ( l p c]
+[DELETED:  H3 0 ( c h   1  ( a w o   ( r    ( a s    ( b     (     ( o     (  ( s l   ( s t f o  ( ( t   ( o   (  /]
+
+
+================================================================================
+
+Raw Text:
+Stricken language would be deleted from and underlined language would be added to present law.
+1 State of Arkansas As Engrossed: H3/6/25
+A Bill
+2 95th General Assembly
+3 Regular Session, 2025 HOUSE BILL 1652
+4
+5 By: Representatives Tosh, Hollowell, Lundstrum
+6 By: Senators J. Boyd, Hill, Irvin, C. Penzo
+7
+For An Act To Be Entitled
+8
+9 AN ACT TO AMEND THE LAW CONCERNING SELF-SERVICE
+10 STORAGE FACILITIES; TO ALLOW THE ENFORCEMENT OF AN
+11 UNSIGNED SELF-SERVICE STORAGE FACILITY RENTAL
+12 AGREEMENT; TO CREATE A PROCEDURE TO PROVIDE NOTICE OF
+13 THE TERMINATION OF A SELF-SERVICE STORAGE FACILITY
+14 RENTAL AGREEMENT; AND FOR OTHER PURPOSES.
+15
+16
+Subtitle
+17
+18 T0 AMEND THE LAW CONCERNING SELF-SERVICE
+19 STORAGE FACILITIES; TO ENFORCE AN
+20 UNSIGNED SELF-SERVICE FACILITY STORAGE
+21 RENTAL AGREEMENT; AND TO CREATE A
+22 TERMINATION PROCEDURE FOR A SELF-SERVICE
+23 FACILITY STORAGE RENTAL AGREEMENT.
+24
+25 BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF ARKANSAS:
+26
+27 SECTION 1. Arkansas Code § 18-16-401(4), concerning definitions
+28 related to self-service storage facilities, is amended to read as follows:
+29 (4) “Last known address” means the address or electronic mail
+30 address provided by the occupant in:
+31 (A) The rental agreement; or
+32 (B) A written or electronic application to rent a leased
+33 space at a self-service storage facility if a signed rental agreement does
+34 not exist; or
+35 (C) A subsequent written or electronic notice of a change
+36 of address;
+*ZRC050*
+03-06-2025 13:46:53 ZRC050
+
+As Engrossed: H3/6/25 HB1652
+1
+2 SECTION 2. Arkansas Code § 18-16-401(10), concerning definitions
+3 related to self-service storage facilities, is amended to read as follows:
+4 (10) “Rental agreement” means a written or electronic agreement
+5 that establishes or modifies the terms, conditions, or rules concerning the
+6 use and occupancy of a self-service storage facility; and
+7
+8 SECTION 3. Arkansas Code § 18-16-404 is amended to read as follows:
+9 18-16-404. Notice of lien.
+10 A rental agreement shall contain a statement in bold type advising the
+11 occupant:
+12 (1) Of the existence of the lien; and
+13 (2) That personal property stored in the leased space may be
+14 sold or removed to satisfy the lien if the occupant is in default; and
+15 (3) That the occupant is required to disclose any lienholders
+16 with an interest in the personal property that is or will be stored in the
+17 leased space.
+18
+19 SECTION 4. Arkansas Code § 18-16-407(b)(3)(A), concerning the steps
+20 the operator of a self-service storage facility must take before conducting a
+21 sale and removal procedure for personal property stored in the self-service
+22 storage facility, is amended to read as follows:
+23 (3)(A) Contact the circuit clerk in the county where the
+24 personal property is stored or use a commercially reasonable method to
+25 determine the name and address of any holder of liens or security interests
+26 in the personal property being sold or removed.
+27
+28 SECTION 5. Arkansas Code Title 18, Chapter 16, Subchapter 4, is
+29 amended to add additional sections to read as follows:
+30 18-16-414. Delivery of rental agreement — Enforceability.
+31 (a) A rental agreement may be delivered and signed electronically or
+32 in writing.
+33 (b) If a person or entity does not sign a rental agreement for a
+34 leased space that the operator has delivered to the last known address of the
+35 person or entity by hand delivery, first class mail, or electronic mail,
+36 continued use of the leased space by the person or entity for at least thirty
+2 03-06-2025 13:46:53 ZRC050
+
+As Engrossed: H3/6/25 HB1652
+1 (30) days from the date of the notice provided under this subchapter
+2 constitutes acceptance of the rental agreement by the person or entity and
+3 has the same effect as if the person or entity signed the rental agreement.
+4
+5 18-16-415. Termination or nonrenewal of rental agreement — Notice.
+6 (a)(1) Except as provided under subdivision (a)(2)(A) of this section,
+7 an occupant shall not access or use a self-service storage facility upon
+8 written or electronic notice of the termination or nonrenewal of the
+9 occupant's rental agreement.
+10 (2) A notice of the termination or nonrenewal of the occupant's
+11 rental agreement under this section shall:
+12 (A) Provide the occupant with at least fourteen (14) days
+13 after delivery of the notice to remove his or her personal property from the
+14 self-service storage facility; and
+15 (B) Be delivered to the last known address of the occupant
+16 by:
+17 (i) Hand delivery;
+18 (ii) First class mail with certificate of mailing;
+19 or
+20 (iii) Electronic mail.
+21 (b)(1) During the period provided under subdivision (a)(2)(A) of this
+22 section, the operator may place reasonable restrictions on the use of the
+23 leased space and the self-service storage facility by the occupant.
+24 (2) Reasonable restrictions under subdivision (b)(1) of this
+25 section include without limitation limiting access to the leased space and
+26 the self-service storage facility by the occupant except the access required
+27 for the occupant to remove personal property during the office hours of the
+28 operator.
+29 (c) Upon the expiration of the period provided under subdivision
+30 (a)(2)(A) of this section, the operator may dispose of any personal property
+31 that:
+32 (1) Belongs to an occupant who received a notice of termination
+33 or nonrenewal under subsection (a) of this section; and
+34 (2) Remains at the self-service storage facility.
+35
+36 /s/Tosh
+3 03-06-2025 13:46:53 ZRC050
+
+[DELETED:  A   EBL1     A S U A T R   T S U R T F  B   S r   a    (    ( s n    ( o]
+[DELETED:  H2 0   S r   ( t u   S  1  A o   (   ( s   ( w l   S t s s   ( p d i   S a  1  ( i  ( l p c]
+[DELETED:  H3 0 ( c h   1  ( a w o   ( r    ( a s    ( b     (     ( o     (  ( s l   ( s t f o  ( ( t   ( o   (  /]

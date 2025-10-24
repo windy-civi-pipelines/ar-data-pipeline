@@ -1,0 +1,259 @@
+Title: Stricken language would be deleted from and underlined language would be added to present law.
+Official Title: Stricken language would be deleted from and underlined language would be added to present law.
+Number of Sections: 1
+Source: versions - SB 513
+Media Type: application/pdf
+Strikethrough Detection: 3 sections found
+
+================================================================================
+
+Section 1:
+1 State of Arkansas
+A Bill
+2 95th General Assembly
+3 Regular Session, 2025 SENATE BILL 513
+4
+5 By: Senators B. Johnson, Hill
+6 By: Representative M. Shepherd
+7
+For An Act To Be Entitled
+8
+9 AN ACT TO CREATE THE CRIMINAL OFFENSE OF MAIL THEFT;
+10 TO CREATE THE CRIMINAL OFFENSE OF THEFT OR
+11 UNAUTHORIZED REPRODUCTION OF A MAIL RECEPTACLE KEY OR
+12 LOCK; AND FOR OTHER PURPOSES.
+13
+14
+Subtitle
+15
+16 TO CREATE THE CRIMINAL OFFENSE OF MAIL
+17 THEFT; AND TO CREATE THE CRIMINAL
+18 OFFENSE OF THEFT OR UNAUTHORIZED
+19 REPRODUCTION OF A MAIL RECEPTACLE KEY OR
+20 LOCK.
+21
+22 BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF ARKANSAS:
+23
+24 SECTION 1. Arkansas Code Title 5, Chapter 36, Subchapter 1, is amended
+25 to add additional sections to read as follows:
+26 5-36-127. Mail theft.
+27 (a) As used in this section:
+28 (1) "Mail" means a letter, postcard, parcel, envelope, package,
+29 bag, or another sealed article addressed to another person, along with its
+30 contents;
+31 (2) "Mail depository" means a mail box, letter box, or mail
+32 receptacle of a postal service, an office of a postal service, or a vehicle
+33 of a postal service; and
+34 (3) "Postal service" means the United States Postal Service or
+35 its contractors or any commercial courier that delivers mail.
+36 (b) A person commits mail theft if he or she knowingly:
+*ANS326*
+03/18/2025 4:21:13 PM ANS326
+SB513
+1 (1) Takes or exercises unauthorized control over or makes an
+2 unauthorized transfer of an interest in the mail of another person that is in
+3 a mail depository or with a postal service for the purpose of depriving the
+4 other person of the mail;
+5 (2) Obtains the mail of another person by deception or by threat
+6 with the purpose of depriving the other person of the mail; or
+7 (3) Sells, receives, possesses, transfers, buys, or conceals
+8 mail obtained unlawfully as prohibited by subdivision (b)(1) or subdivision
+9 (b)(2) of this section, while knowing or having reason to know the mail was
+10 obtained unlawfully.
+11 (c) Mail theft is a:
+12 (1) Class D felony for a first offense; or
+13 (2) Class A felony for a second or subsequent offense.
+14 (d) In addition to the penalties provided in subsection (c) of this
+15 section, a person convicted of mail theft under this section shall be ordered
+16 to make full restitution to the victim and any other person who has suffered
+17 a financial loss as a result of the offense of mail theft.
+18 (e) Mail theft may be prosecuted in any of the following counties:
+19 (1) The county where the offense occurred; or
+20 (2) The county of residence or place of business of the direct
+21 or indirect victim.
+22
+23 5-36-128. Theft or unauthorized reproduction of a mail receptacle key
+24 or lock.
+25 (a) As used in this section:
+26 (1) "Mail" means a letter, postcard, parcel, envelope, package,
+27 bag, or another sealed article addressed to another person, along with its
+28 contents; and
+29 (2) "Postal service" means the United States Postal Service or
+30 its contractors or any commercial courier that delivers mail.
+31 (b) A person commits theft or unauthorized reproduction of a mail
+32 receptacle key or lock if he or she:
+33 (1) Commits theft of a key or lock adopted by a postal service
+34 for a box or other authorized receptacle for the deposit or delivery of mail;
+35 or
+36 (2) Knowingly makes, forges, or counterfeits a key or possesses
+2 03/18/2025 4:21:13 PM ANS326
+SB513
+1 a key or lock adopted by a postal service that delivers mail with the purpose
+2 to unlawfully use, sell, or otherwise dispose of the key or lock or to cause
+3 the key or lock to be unlawfully used, sold, or otherwise disposed.
+4 (c) Theft or unauthorized reproduction of a mail receptacle key or
+5 lock is a:
+6 (1) Class D felony for a first offense; or
+7 (2) Class A felony for a second or subsequent offense.
+8 (d) In addition to the penalties provided in subsection (c) of this
+9 section, a person convicted of theft or unauthorized reproduction of a mail
+10 receptacle key or lock shall be ordered to make full restitution to the
+11 victim and any other person who has suffered a financial loss as a result of
+12 the offense.
+13 (e) Theft or unauthorized reproduction of a mail receptacle key or
+14 lock may be prosecuted in any of the following counties:
+15 (1) The county where the offense occurred; or
+16 (2) The county of residence or place of business of the direct
+17 or indirect victim.
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+3 03/18/2025 4:21:13 PM ANS326
+[DELETED:       A T U L  T T O R L  B   S t  5  (   ( b c   ( r o   ( i  (]
+[DELETED: S2 0   ( u a o   ( w   ( m ( o  (   (   (  ( s t a  (   (   ( o   5 o  (   ( b c   ( i  ( r   ( f o   (]
+[DELETED: S3 0 a t t  ( l   (   (  ( s r v t  ( l   (   ( o                   ]
+
+
+================================================================================
+
+Raw Text:
+Stricken language would be deleted from and underlined language would be added to present law.
+1 State of Arkansas
+A Bill
+2 95th General Assembly
+3 Regular Session, 2025 SENATE BILL 513
+4
+5 By: Senators B. Johnson, Hill
+6 By: Representative M. Shepherd
+7
+For An Act To Be Entitled
+8
+9 AN ACT TO CREATE THE CRIMINAL OFFENSE OF MAIL THEFT;
+10 TO CREATE THE CRIMINAL OFFENSE OF THEFT OR
+11 UNAUTHORIZED REPRODUCTION OF A MAIL RECEPTACLE KEY OR
+12 LOCK; AND FOR OTHER PURPOSES.
+13
+14
+Subtitle
+15
+16 TO CREATE THE CRIMINAL OFFENSE OF MAIL
+17 THEFT; AND TO CREATE THE CRIMINAL
+18 OFFENSE OF THEFT OR UNAUTHORIZED
+19 REPRODUCTION OF A MAIL RECEPTACLE KEY OR
+20 LOCK.
+21
+22 BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF ARKANSAS:
+23
+24 SECTION 1. Arkansas Code Title 5, Chapter 36, Subchapter 1, is amended
+25 to add additional sections to read as follows:
+26 5-36-127. Mail theft.
+27 (a) As used in this section:
+28 (1) "Mail" means a letter, postcard, parcel, envelope, package,
+29 bag, or another sealed article addressed to another person, along with its
+30 contents;
+31 (2) "Mail depository" means a mail box, letter box, or mail
+32 receptacle of a postal service, an office of a postal service, or a vehicle
+33 of a postal service; and
+34 (3) "Postal service" means the United States Postal Service or
+35 its contractors or any commercial courier that delivers mail.
+36 (b) A person commits mail theft if he or she knowingly:
+*ANS326*
+03/18/2025 4:21:13 PM ANS326
+
+SB513
+1 (1) Takes or exercises unauthorized control over or makes an
+2 unauthorized transfer of an interest in the mail of another person that is in
+3 a mail depository or with a postal service for the purpose of depriving the
+4 other person of the mail;
+5 (2) Obtains the mail of another person by deception or by threat
+6 with the purpose of depriving the other person of the mail; or
+7 (3) Sells, receives, possesses, transfers, buys, or conceals
+8 mail obtained unlawfully as prohibited by subdivision (b)(1) or subdivision
+9 (b)(2) of this section, while knowing or having reason to know the mail was
+10 obtained unlawfully.
+11 (c) Mail theft is a:
+12 (1) Class D felony for a first offense; or
+13 (2) Class A felony for a second or subsequent offense.
+14 (d) In addition to the penalties provided in subsection (c) of this
+15 section, a person convicted of mail theft under this section shall be ordered
+16 to make full restitution to the victim and any other person who has suffered
+17 a financial loss as a result of the offense of mail theft.
+18 (e) Mail theft may be prosecuted in any of the following counties:
+19 (1) The county where the offense occurred; or
+20 (2) The county of residence or place of business of the direct
+21 or indirect victim.
+22
+23 5-36-128. Theft or unauthorized reproduction of a mail receptacle key
+24 or lock.
+25 (a) As used in this section:
+26 (1) "Mail" means a letter, postcard, parcel, envelope, package,
+27 bag, or another sealed article addressed to another person, along with its
+28 contents; and
+29 (2) "Postal service" means the United States Postal Service or
+30 its contractors or any commercial courier that delivers mail.
+31 (b) A person commits theft or unauthorized reproduction of a mail
+32 receptacle key or lock if he or she:
+33 (1) Commits theft of a key or lock adopted by a postal service
+34 for a box or other authorized receptacle for the deposit or delivery of mail;
+35 or
+36 (2) Knowingly makes, forges, or counterfeits a key or possesses
+2 03/18/2025 4:21:13 PM ANS326
+
+SB513
+1 a key or lock adopted by a postal service that delivers mail with the purpose
+2 to unlawfully use, sell, or otherwise dispose of the key or lock or to cause
+3 the key or lock to be unlawfully used, sold, or otherwise disposed.
+4 (c) Theft or unauthorized reproduction of a mail receptacle key or
+5 lock is a:
+6 (1) Class D felony for a first offense; or
+7 (2) Class A felony for a second or subsequent offense.
+8 (d) In addition to the penalties provided in subsection (c) of this
+9 section, a person convicted of theft or unauthorized reproduction of a mail
+10 receptacle key or lock shall be ordered to make full restitution to the
+11 victim and any other person who has suffered a financial loss as a result of
+12 the offense.
+13 (e) Theft or unauthorized reproduction of a mail receptacle key or
+14 lock may be prosecuted in any of the following counties:
+15 (1) The county where the offense occurred; or
+16 (2) The county of residence or place of business of the direct
+17 or indirect victim.
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+3 03/18/2025 4:21:13 PM ANS326
+
+[DELETED:       A T U L  T T O R L  B   S t  5  (   ( b c   ( r o   ( i  (]
+[DELETED: S2 0   ( u a o   ( w   ( m ( o  (   (   (  ( s t a  (   (   ( o   5 o  (   ( b c   ( i  ( r   ( f o   (]
+[DELETED: S3 0 a t t  ( l   (   (  ( s r v t  ( l   (   ( o                   ]

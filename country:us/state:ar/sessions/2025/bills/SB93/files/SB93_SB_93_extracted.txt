@@ -1,0 +1,1681 @@
+Title: Stricken language would be deleted from and underlined language would be added to present law.
+Official Title: Stricken language would be deleted from and underlined language would be added to present law.
+Number of Sections: 1
+Source: versions - SB 93
+Media Type: application/pdf
+Strikethrough Detection: 21 sections found
+
+================================================================================
+
+Section 1:
+1 State of Arkansas As Engrossed: S3/10/25 S3/31/25
+A Bill
+2 95th General Assembly
+3 Regular Session, 2025 SENATE BILL 93
+4
+5 By: Joint Budget Committee
+6
+7
+For An Act To Be Entitled
+8
+9 AN ACT TO MAKE AN APPROPRIATION FOR PERSONAL SERVICES
+10 AND OPERATING EXPENSES FOR THE DEPARTMENT OF
+11 EDUCATION FOR THE FISCAL YEAR ENDING JUNE 30, 2026;
+12 AND FOR OTHER PURPOSES.
+13
+14
+Subtitle
+15
+16 AN ACT FOR THE DEPARTMENT OF EDUCATION
+17 APPROPRIATION FOR THE 2025-2026 FISCAL
+18 YEAR.
+19
+20
+21 BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF ARKANSAS:
+22
+23 SECTION 1. REGULAR SALARIES - SHARED SERVICES. There is hereby
+24 established for the Department of Education - Shared Services for the 2025-
+25 2026 fiscal year, the following maximum number of regular employees.
+26
+27 Maximum Annual
+28 Maximum Salary Rate
+29 Item Class No. of Fiscal Year
+30 No. Code Title Employees 2025-2026
+31 (1) SC004 SECRETARY OF EDUCATION 1 GRADE SE05
+32 (2) E080C ADE CHIEF OF STAFF 1 GRADE SE04
+33 (3) U089U DHE DEPUTY DIRECTOR 1 GRADE SE02
+34 (4) G331C ADE CHIEF LEGAL COUNSEL 1 GRADE SE01
+35 (5) D011N ADE DIRECTOR OF INFORMATION SYSTEMS 1 GRADE SE01
+36 (6) N009N ASST COMMISSIONER FISCAL & ADMIN SVCS 1 GRADE SE01
+*KMW005*
+03-31-2025 17:29:29 KMW005
+As Engrossed: S3/10/25 S3/31/25 SB93
+1 (7) D147C ADE CHIEF INFORMATION OFFICER 1 GRADE IT12
+2 (8) D146C ADE ENTERPRISE ARCHITECT 1 GRADE IT11
+3 (9) D006N STATE SYSTEMS ARCHITECT 1 GRADE IT10
+4 (10) D022N IT SENIOR PROJECT MANAGER 2 GRADE IT09
+5 (11) D104C ADE STATE SYSTEMS ADMINISTRATOR 1 GRADE IT08
+6 (12) D006C SOFTWARE ENGINEER LEAD 1 GRADE IT08
+7 (13) D030C INFORMATION SYSTEMS COORDINATOR 3 GRADE IT07
+8 (14) D028C SENIOR SOFTWARE SUPPORT SPECIALIST 1 GRADE IT07
+9 (15) D038C SENIOR SOFTWARE SUPPORT ANALYST 2 GRADE IT06
+10 (16) D047C INFORMATION SYSTEMS BUSINESS ANALYST 1 GRADE IT05
+11 (17) D061C INFORMATION SYSTEMS COORDINATION SPEC 1 GRADE IT05
+12 (18) G001N ADE LITIGATION ATTORNEY 1 GRADE GS15
+13 (19) G281C ADE POLICY & SPECIAL PROJECTS DIRECTOR 1 GRADE GS15
+14 (20) N002N DHE SENIOR ASSOC DIRECTOR 2 GRADE GS15
+15 (21) N069N ADE SPECIAL ADVISOR 1 GRADE GS14
+16 (22) E001N ADE COORDINATOR SPECIAL PROGRAMS 2 GRADE GS13
+17 (23) G012C ADE ASSISTANT TO DIRECTOR 3 GRADE GS12
+18 (24) G025C ATTORNEY SUPERVISOR 1 GRADE GS12
+19 (25) A014C FISCAL DIVISION MANAGER 1 GRADE GS12
+20 (26) A027C ACCOUNTING OPERATIONS MANAGER 2 GRADE GS11
+21 (27) A031C ASSISTANT CONTROLLER 1 GRADE GS11
+22 (28) G047C ATTORNEY SPECIALIST 2 GRADE GS11
+23 (29) E006C PUBLIC SCHOOL PROGRAM MANAGER 1 GRADE GS11
+24 (30) E061C ACE PROGRAM COORDINATOR 1 GRADE GS10
+25 (31) G075C ADE PROGRAM ADMINISTRATOR 1 GRADE GS10
+26 (32) G076C ADMINISTRATIVE SERVICES MANAGER 1 GRADE GS10
+27 (33) G073C ATTORNEY 1 GRADE GS10
+28 (34) E016C PUBLIC SCHOOL PROGRAM COORDINATOR 1 GRADE GS10
+29 (35) A052C ACCOUNTING COORDINATOR 1 GRADE GS09
+30 (36) A032C ADE FINANCE PROGRAM COORDINATOR 1 GRADE GS09
+31 (37) A038C FISCAL SUPPORT MANAGER 2 GRADE GS09
+32 (38) G109C GRANTS MANAGER 1 GRADE GS09
+33 (39) P004C PUBLIC INFORMATION MANAGER 1 GRADE GS09
+34 (40) E019C PUBLIC SCHOOL PROGRAM ADVISOR 1 GRADE GS09
+35 (41) A082C ACCOUNTANT II 2 GRADE GS08
+36 (42) E031C EDUCATION PROGRAM COORDINATOR 2 GRADE GS08
+2 03-31-2025 17:29:29 KMW005
+As Engrossed: S3/10/25 S3/31/25 SB93
+1 (43) G093C OPERATIONS MANAGER 4 GRADE GS08
+2 (44) R014C PERSONNEL MANAGER 3 GRADE GS08
+3 (45) V007C PROCUREMENT COORDINATOR 1 GRADE GS08
+4 (46) A041C PROGRAM FISCAL MANAGER 1 GRADE GS08
+5 (47) A089C ACCOUNTANT I 1 GRADE GS07
+6 (48) S008C CAMPUS MAINTENANCE SUPERVISOR 2 GRADE GS07
+7 (49) C010C EXECUTIVE ASSISTANT TO THE DIRECTOR 2 GRADE GS07
+8 (50) A075C FINANCIAL ANALYST I 1 GRADE GS07
+9 (51) G147C GRANTS COORDINATOR 1 GRADE GS07
+10 (52) P020C PRODUCTION ARTIST 2 GRADE GS07
+11 (53) C037C ADMINISTRATIVE ANALYST 1 GRADE GS06
+12 (54) R025C HUMAN RESOURCES ANALYST 1 GRADE GS06
+13 (55) S033C MAINTENANCE SUPERVISOR 2 GRADE GS06
+14 (56) A091C FISCAL SUPPORT ANALYST 1 GRADE GS05
+15 (57) A090C PAYROLL SERVICES SPECIALIST 2 GRADE GS05
+16 (58) C056C ADMINISTRATIVE SPECIALIST III 2 GRADE GS04
+17 (59) A098C FISCAL SUPPORT SPECIALIST 2 GRADE GS04
+18 (60) V020C INVENTORY CONTROL MANAGER 1 GRADE GS04
+19 (61) C046C LEGAL SUPPORT SPECIALIST 1 GRADE GS04
+20 (62) S046C MAINTENANCE TECHNICIAN 2 GRADE GS04
+21 (63) C073C ADMINISTRATIVE SPECIALIST II 1 GRADE GS03
+22 MAX. NO. OF EMPLOYEES 88
+23
+24 SECTION 2. EXTRA HELP - SHARED SERVICES PAYING ACCOUNT. There is
+25 hereby authorized, for the Department of Education - Shared Services Paying
+26 Account for the 2025-2026 fiscal year, the following maximum number of part-
+27 time or temporary employees, to be known as "Extra Help", payable from funds
+28 appropriated herein for such purposes: six (6) temporary or part-time
+29 employees, when needed, at rates of pay not to exceed those provided in the
+30 Uniform Classification and Compensation Act, or its successor, or this act
+31 for the appropriate classification.
+32
+33 SECTION 3. APPROPRIATION - SHARED SERVICES PAYING ACCOUNT. There is
+34 hereby appropriated, to the Department of Education, to be payable from the
+35 paying account as determined by the Chief Fiscal Officer of the State, for
+36 personal services and operating expenses of the Department of Education -
+3 03-31-2025 17:29:29 KMW005
+As Engrossed: S3/10/25 S3/31/25 SB93
+1 Shared Services for the fiscal year ending June 30, 2026, the following:
+2
+3 ITEM FISCAL YEAR
+4 NO. 2025-2026
+5 (01) REGULAR SALARIES $6,769,373
+6 (02) EXTRA HELP 80,000
+7 (03) PERSONAL SERVICES MATCHING 2,227,462
+8 (04) MAINT. & GEN. OPERATION
+9 (A) OPER. EXPENSE 100,000
+10 (B) CONF. & TRAVEL 10,000
+11 (C) PROF. FEES 0
+12 (D) CAP. OUTLAY 0
+13 (E) DATA PROC. 0
+14 (05) PROMOTIONAL ITEMS 300,000
+15 TOTAL AMOUNT APPROPRIATED $9,486,835
+16
+17 SECTION 4. REGULAR SALARIES - STATE OPERATIONS. There is hereby
+18 established for the Department of Education - Division of Elementary and
+19 Secondary Education - State Operations for the 2025-2026 fiscal year, the
+20 following maximum number of regular employees.
+21
+22 Maximum Annual
+23 Maximum Salary Rate
+24 Item Class No. of Fiscal Year
+25 No. Code Title Employees 2025-2026
+26 (1) E083C ADE DEPUTY SECRETARY OF EDUCATION 1 GRADE SE04
+27 (2) U027U DEPUTY COMMISSIONER OF EDUCATION 1 GRADE SE03
+28 (3) E081C ADE ASSOCIATE DEPUTY 3 GRADE SE02
+29 (4) N005N ADE ASST COMMISSIONER LEARNING SERVICES 1 GRADE SE01
+30 (5) N006N ADE ASST COMMISSIONER PUB SCH ACCOUNT 1 GRADE SE01
+31 (6) N008N ASST COMMISSIONER RESEARCH & TECHNOLOGY 1 GRADE SE01
+32 (7) N010N ASST COMMR EDUC EFFECTIVENESS 1 GRADE SE01
+33 (8) L027C REGISTERED NURSE SUPERVISOR 1 GRADE MP02
+34 (9) D104C ADE STATE SYSTEMS ADMINISTRATOR 4 GRADE IT08
+35 (10) D030C INFORMATION SYSTEMS COORDINATOR 1 GRADE IT07
+36 (11) D054C COMPUTER SUPPORT COORDINATOR 1 GRADE IT05
+4 03-31-2025 17:29:29 KMW005
+As Engrossed: S3/10/25 S3/31/25 SB93
+1 (12) D047C INFORMATION SYSTEMS BUSINESS ANALYST 2 GRADE IT05
+2 (13) D052C SOFTWARE SUPPORT ANALYST 1 GRADE IT05
+3 (14) D044C SYSTEMS ANALYST 1 GRADE IT05
+4 (15) D064C WEBSITE DEVELOPER 1 GRADE IT04
+5 (16) D079C COMPUTER SUPPORT TECHNICIAN 1 GRADE IT02
+6 (17) E082C ADE PROGRAM DIRECTOR 1 GRADE GS15
+7 (18) N069N ADE SPECIAL ADVISOR 7 GRADE GS14
+8 (19) E003N ADE COORD SCH. IMP / STANDARDS ASSUR 1 GRADE GS13
+9 (20) E001N ADE COORDINATOR SPECIAL PROGRAMS 7 GRADE GS13
+10 (21) A010C AGENCY CONTROLLER II 1 GRADE GS13
+11 (22) G012C ADE ASSISTANT TO DIRECTOR 8 GRADE GS12
+12 (23) G006C ADE SPECIAL EDUCATION DIVISION MGR 1 GRADE GS12
+13 (24) N145N DHS ASSISTANT DIRECTOR CMS 1 GRADE GS12
+14 (25) E006N ADE COORD COMPUTER SCIENCE 1 GRADE GS11
+15 (26) E069C ADE DIRECTOR OF MEDICAID IN THE SCHOOLS 1 GRADE GS11
+16 (27) E006C PUBLIC SCHOOL PROGRAM MANAGER 11 GRADE GS11
+17 (28) E007C ADE OERZ DIRECTOR 1 GRADE GS10
+18 (29) G075C ADE PROGRAM ADMINISTRATOR 5 GRADE GS10
+19 (30) E016C PUBLIC SCHOOL PROGRAM COORDINATOR 19 GRADE GS10
+20 (31) A052C ACCOUNTING COORDINATOR 8 GRADE GS09
+21 (32) G074C ADE COORD OF GOVERNMENTAL AFFAIRS 1 GRADE GS09
+22 (33) A032C ADE FINANCE PROGRAM COORDINATOR 3 GRADE GS09
+23 (34) X012C ADE PLSB CHIEF INVESTIGATOR 2 GRADE GS09
+24 (35) A050C AGENCY FISCAL MANAGER 1 GRADE GS09
+25 (36) G099C DHS PROGRAM ADMINISTRATOR 1 GRADE GS09
+26 (37) A038C FISCAL SUPPORT MANAGER 4 GRADE GS09
+27 (38) G109C GRANTS MANAGER 2 GRADE GS09
+28 (39) P004C PUBLIC INFORMATION MANAGER 1 GRADE GS09
+29 (40) E019C PUBLIC SCHOOL PROGRAM ADVISOR 93 GRADE GS09
+30 (41) E066C DCCECE EDUCATION MANAGER 1 GRADE GS08
+31 (42) G152C DHS PROGRAM MANAGER 3 GRADE GS08
+32 (43) E026C EDUCATION & INSTRUCTION COORDINATOR 1 GRADE GS08
+33 (44) A047C FINANCIAL ANALYST II 1 GRADE GS08
+34 (45) L043C HEALTH PROGRAM SPECIALIST III 1 GRADE GS08
+35 (46) L035C NUTRITIONIST CONSULTANT 9 GRADE GS08
+36 (47) G093C OPERATIONS MANAGER 1 GRADE GS08
+5 03-31-2025 17:29:29 KMW005
+As Engrossed: S3/10/25 S3/31/25 SB93
+1 (48) R014C PERSONNEL MANAGER 1 GRADE GS08
+2 (49) A041C PROGRAM FISCAL MANAGER 6 GRADE GS08
+3 (50) G183C DHS PROGRAM COORDINATOR 9 GRADE GS07
+4 (51) G267C DHS PROGRAM ELIGIBILITY ANALYST 1 GRADE GS07
+5 (52) M042C DHS STAFF SUPERVISOR 1 GRADE GS07
+6 (53) G182C DHS/DDS PROGRAM COORDINATOR 1 GRADE GS07
+7 (54) E048C EDUCATION & INSTRUCTION SPECIALIST 1 GRADE GS07
+8 (55) C010C EXECUTIVE ASSISTANT TO THE DIRECTOR 2 GRADE GS07
+9 (56) M025C PROGRAM ELIGIBILITY COORDINATOR I 1 GRADE GS07
+10 (57) A063C RESEARCH & STATISTICS SUPERVISOR 1 GRADE GS07
+11 (58) E040C STAFF DEVELOPMENT COORDINATOR 1 GRADE GS07
+12 (59) C037C ADMINISTRATIVE ANALYST 11 GRADE GS06
+13 (60) M053C CHILD CARE SERVICE SPECIALIST 5 GRADE GS06
+14 (61) A074C FISCAL SUPPORT SUPERVISOR 3 GRADE GS06
+15 (62) G180C GRANTS ANALYST 3 GRADE GS06
+16 (63) R025C HUMAN RESOURCES ANALYST 1 GRADE GS06
+17 (64) G179C LEGAL SERVICES SPECIALIST 2 GRADE GS06
+18 (65) G178C POLICY DEVELOPMENT COORDINATOR 2 GRADE GS06
+19 (66) X094C SERVICES & PROGRAM LICENSING SPECIALIST 6 GRADE GS06
+20 (67) V014C BUYER 1 GRADE GS05
+21 (68) A091C FISCAL SUPPORT ANALYST 3 GRADE GS05
+22 (69) C054C LOCAL OFFICE ADMINISTRATIVE SPECIALIST 7 GRADE GS05
+23 (70) C056C ADMINISTRATIVE SPECIALIST III 28 GRADE GS04
+24 (71) S046C MAINTENANCE TECHNICIAN 1 GRADE GS04
+25 (72) C073C ADMINISTRATIVE SPECIALIST II 17 GRADE GS03
+26 MAX. NO. OF EMPLOYEES 335
+27
+28 SECTION 5. EXTRA HELP - STATE OPERATIONS. There is hereby authorized,
+29 for the Department of Education - Division of Elementary and Secondary
+30 Education - State Operations for the 2025-2026 fiscal year, the following
+31 maximum number of part-time or temporary employees, to be known as "Extra
+32 Help", payable from funds appropriated herein for such purposes: eight (8)
+33 temporary or part-time employees, when needed, at rates of pay not to exceed
+34 those provided in the Uniform Classification and Compensation Act, or its
+35 successor, or this act for the appropriate classification.
+36
+6 03-31-2025 17:29:29 KMW005
+As Engrossed: S3/10/25 S3/31/25 SB93
+1 SECTION 6. APPROPRIATION - STATE OPERATIONS. There is hereby
+2 appropriated, to the Department of Education, to be payable from the Division
+3 of Elementary and Secondary Education Fund Account, for personal services and
+4 operating expenses of the Department of Education - Division of Elementary
+5 and Secondary Education - State Operations for the fiscal year ending June
+6 30, 2026, the following:
+7
+8 ITEM FISCAL YEAR
+9 NO. 2025-2026
+10 (01) REGULAR SALARIES $13,832,717
+11 (02) EXTRA HELP 160,000
+12 (03) PERSONAL SERVICES MATCHING 4,877,933
+13 (04) MAINT. & GEN. OPERATION
+14 (A) OPER. EXPENSE 3,411,057
+15 (B) CONF. & TRAVEL 60,000
+16 (C) PROF. FEES 25,000
+17 (D) CAP. OUTLAY 100,000
+18 (E) DATA PROC. 0
+19 TOTAL AMOUNT APPROPRIATED $22,466,707
+20
+21 SECTION 7. APPROPRIATION - FEDERAL GRANTS ADMINISTRATION. There is
+22 hereby appropriated, to the Department of Education, to be payable from the
+23 federal funds as designated by the Chief Fiscal Officer of the State, for
+24 personal services and operating expenses of the Department of Education -
+25 Division of Elementary and Secondary Education - Federal Grants
+26 Administration for the fiscal year ending June 30, 2026, the following:
+27
+28 ITEM FISCAL YEAR
+29 NO. 2025-2026
+30 (01) REGULAR SALARIES $254,677
+31 (02) PERSONAL SERVICES MATCHING 88,477
+32 (03) MAINT. & GEN. OPERATION
+33 (A) OPER. EXPENSE 49,970
+34 (B) CONF. & TRAVEL 19,672
+35 (C) PROF. FEES 260,000
+36 (D) CAP. OUTLAY 0
+7 03-31-2025 17:29:29 KMW005
+As Engrossed: S3/10/25 S3/31/25 SB93
+1 (E) DATA PROC. 0
+2 TOTAL AMOUNT APPROPRIATED $672,796
+3
+4 SECTION 8. APPROPRIATION - BUILDING MAINTENANCE. There is hereby
+5 appropriated, to the Department of Education, to be payable from the
+6 Educational Buildings Maintenance Fund, for operating expenses of the
+7 Department of Education - Division of Elementary and Secondary Education -
+8 Building Maintenance for the fiscal year ending June 30, 2026, the following:
+9
+10 ITEM FISCAL YEAR
+11 NO. 2025-2026
+12 (01) MAINT. & GEN. OPERATION
+13 (A) OPER. EXPENSE $500,000
+14 (B) CONF. & TRAVEL 0
+15 (C) PROF. FEES 0
+16 (D) CAP. OUTLAY 0
+17 (E) DATA PROC. 0
+18 TOTAL AMOUNT APPROPRIATED $500,000
+19
+20 SECTION 9. APPROPRIATION - REVOLVING LOAN CERTIFICATES PROGRAM. There
+21 is hereby appropriated, to the Department of Education, to be payable from
+22 the Education Revolving Loan Certificates Fund, for personal services,
+23 operating expenses, and loans to school districts by the Department of
+24 Education - Division of Elementary and Secondary Education - Revolving Loan
+25 Certificates Fund for the fiscal year ending June 30, 2026, the following:
+26
+27 ITEM FISCAL YEAR
+28 NO. 2025-2026
+29 (01) REGULAR SALARIES $54,790
+30 (02) PERSONAL SERVICES MATCHING 20,856
+31 (03) MAINT. & GEN. OPERATION
+32 (A) OPER. EXPENSE 27,500
+33 (B) CONF. & TRAVEL 2,500
+34 (C) PROF. FEES 10,000
+35 (D) CAP. OUTLAY 0
+36 (E) DATA PROC. 0
+8 03-31-2025 17:29:29 KMW005
+As Engrossed: S3/10/25 S3/31/25 SB93
+1 (04) LOANS TO SCHOOL DISTRICTS 13,000,000
+2 (05) LOANS TO OPEN-ENROLLMENT PUBLIC
+3 CHARTER SCHOOLS 10,000,000
+4 TOTAL AMOUNT APPROPRIATED $23,115,646
+5
+6 SECTION 10. APPROPRIATION - CHILD NUTRITION PROGRAM. There is hereby
+7 appropriated, to the Department of Education, to be payable from the federal
+8 funds as designated by the Chief Fiscal Officer of the State, for personal
+9 services, operating expenses, aid and reimbursements of the Department of
+10 Education - Division of Elementary and Secondary Education - Child Nutrition
+11 Program for the fiscal year ending June 30, 2026, the following:
+12
+13 ITEM FISCAL YEAR
+14 NO. 2025-2026
+15 (01) REGULAR SALARIES $1,102,049
+16 (02) PERSONAL SERVICES MATCHING 418,594
+17 (03) MAINT. & GEN. OPERATION
+18 (A) OPER. EXPENSE 1,172,100
+19 (B) CONF. & TRAVEL 10,000
+20 (C) PROF. FEES 100,000
+21 (D) CAP. OUTLAY 50,000
+22 (E) DATA PROC. 0
+23 (04) SCHOOL FOOD SERVICE/NUTRITION ED 425,099,000
+24 (05) REFUNDS/REIMBURSEMENTS 450,000
+25 TOTAL AMOUNT APPROPRIATED $428,401,743
+26
+27 SECTION 11. EXTRA HELP - FEDERAL ELEMENTARY AND SECONDARY EDUCATION.
+28 There is hereby authorized, for the Department of Education - Division of
+29 Elementary and Secondary Education - Federal Elementary and Secondary
+30 Education for the 2025-2026 fiscal year, the following maximum number of
+31 part-time or temporary employees, to be known as "Extra Help", payable from
+32 funds appropriated herein for such purposes: four (4) temporary or part-time
+33 employees, when needed, at rates of pay not to exceed those provided in the
+34 Uniform Classification and Compensation Act, or its successor, or this act
+35 for the appropriate classification.
+36
+9 03-31-2025 17:29:29 KMW005
+As Engrossed: S3/10/25 S3/31/25 SB93
+1 SECTION 12. APPROPRIATION - FEDERAL ELEMENTARY AND SECONDARY EDUCATION.
+2 There is hereby appropriated, to the Department of Education, to be payable
+3 from the federal funds as designated by the Chief Fiscal Officer of the
+4 State, for personal services, operating expenses, aid and reimbursements of
+5 the Department of Education - Division of Elementary and Secondary Education
+6 - Federal Elementary and Secondary Education for the fiscal year ending June
+7 30, 2026, the following:
+8
+9 ITEM FISCAL YEAR
+10 NO. 2025-2026
+11 (01) REGULAR SALARIES $4,280,286
+12 (02) EXTRA HELP 60,000
+13 (03) PERSONAL SERVICES MATCHING 1,607,708
+14 (04) MAINT. & GEN. OPERATION
+15 (A) OPER. EXPENSE 91,242,005
+16 (B) CONF. & TRAVEL 100,000
+17 (C) PROF. FEES 1,500,000
+18 (D) CAP. OUTLAY 200,000
+19 (E) DATA PROC. 0
+20 (05) ENTITLEMENT GRANT PROGRAMS 1,181,835,058
+21 (06) REFUNDS/REIMBURSEMENTS 1,110,000
+22 TOTAL AMOUNT APPROPRIATED $1,281,935,057
+23
+24 SECTION 13. APPROPRIATION - MULTIPLE GRANT AWARD PROGRAM. There is
+25 hereby appropriated, to the Department of Education, to be payable from the
+26 cash fund deposited in the State Treasury as determined by the Chief Fiscal
+27 Officer of the State, for operating expenses and grants by the Department of
+28 Education - Division of Elementary and Secondary Education - Multiple Grant
+29 Award Program for the fiscal year ending June 30, 2026, the following:
+30
+31 ITEM FISCAL YEAR
+32 NO. 2025-2026
+33 (01) MAINT. & GEN. OPERATION
+34 (A) OPER. EXPENSE $422,000
+35 (B) CONF. & TRAVEL 16,500
+36 (C) PROF. FEES 40,000
+10 03-31-2025 17:29:29 KMW005
+As Engrossed: S3/10/25 S3/31/25 SB93
+1 (D) CAP. OUTLAY 100,000
+2 (E) DATA PROC. 0
+3 (02) MULTIPLE GRANT AWARDS 1,900,000
+4 TOTAL AMOUNT APPROPRIATED $2,478,500
+5
+6 SECTION 14. APPROPRIATION - MEDICAID REIMBURSEMENT PROGRAM. There is
+7 hereby appropriated, to the Department of Education, to be payable from the
+8 cash fund deposited in the State Treasury as determined by the Chief Fiscal
+9 Officer of the State, for Medicaid reimbursement and administration of the
+10 Department of Education - Division of Elementary and Secondary Education -
+11 Medicaid Reimbursement Program for the fiscal year ending June 30, 2026, the
+12 following:
+13
+14 ITEM FISCAL YEAR
+15 NO. 2025-2026
+16 (01) REFUNDS/REIMBURSEMENTS $13,659,017
+17 (02) MEDICAID ADMIN 10,500
+18 TOTAL AMOUNT APPROPRIATED $13,669,517
+19
+20 SECTION 15. APPROPRIATION - ALTERNATIVE CERTIFICATION PROGRAM. There
+21 is hereby appropriated, to the Department of Education, to be payable from
+22 the cash fund deposited in the State Treasury as determined by the Chief
+23 Fiscal Officer of the State, for operating expenses and grants by the
+24 Department of Education - Division of Elementary and Secondary Education -
+25 Alternative Certification Program for the fiscal year ending June 30, 2026,
+26 the following:
+27
+28 ITEM FISCAL YEAR
+29 NO. 2025-2026
+30 (01) MAINT. & GEN. OPERATION
+31 (A) OPER. EXPENSE $27,367
+32 (B) CONF. & TRAVEL 8,500
+33 (C) PROF. FEES 35,420
+34 (D) CAP. OUTLAY 0
+35 (E) DATA PROC. 0
+36 (02) ALT. CERT. PROG. GRANTS AND AID 827,925
+11 03-31-2025 17:29:29 KMW005
+As Engrossed: S3/10/25 S3/31/25 SB93
+1 TOTAL AMOUNT APPROPRIATED $899,212
+2
+3 SECTION 16. APPROPRIATION - CONFERENCES. There is hereby appropriated,
+4 to the Department of Education, to be payable from the cash fund deposited in
+5 the State Treasury as determined by the Chief Fiscal Officer of the State,
+6 for operating expenses of conferences sponsored by the Department of
+7 Education - Division of Elementary and Secondary Education - Conferences for
+8 the fiscal year ending June 30, 2026, the following:
+9
+10 ITEM FISCAL YEAR
+11 NO. 2025-2026
+12 (01) MAINT. & GEN. OPERATION
+13 (A) OPER. EXPENSE $400,000
+14 (B) CONF. & TRAVEL 25,000
+15 (C) PROF. FEES 50,000
+16 (D) CAP. OUTLAY 0
+17 (E) DATA PROC. 0
+18 TOTAL AMOUNT APPROPRIATED $475,000
+19
+20 SECTION 17. APPROPRIATION - MEDICAID ADMINISTRATION CLAIMING PROGRAM.
+21 There is hereby appropriated, to the Department of Education, to be payable
+22 from the cash fund deposited in the State Treasury as determined by the Chief
+23 Fiscal Officer of the State, for reimbursement of school districts for
+24 administrative activities that support the Arkansas Medicaid Program of the
+25 Department of Education - Division of Elementary and Secondary Education -
+26 Medicaid Administration Claiming Program for the fiscal year ending June 30,
+27 2026, the following:
+28
+29 ITEM FISCAL YEAR
+30 NO. 2025-2026
+31 (01) AR MEDICAID ADMIN CLAIMS $45,000,000
+32
+33 SECTION 18. APPROPRIATION - ARKANSAS BETTER CHANCE PROGRAM -
+34 ADMINISTRATION. There is hereby appropriated, to the Department of
+35 Education, to be payable from the Division of Elementary and Secondary
+36 Education Fund Account, for personal services and operating expenses of the
+12 03-31-2025 17:29:29 KMW005
+As Engrossed: S3/10/25 S3/31/25 SB93
+1 Department of Education - Division of Elementary and Secondary Education -
+2 Arkansas Better Chance Program - Administration for the fiscal year ending
+3 June 30, 2026, the following:
+4
+5 ITEM FISCAL YEAR
+6 NO. 2025-2026
+7 (01) REGULAR SALARIES $611,206
+8 (02) PERSONAL SERVICES MATCHING 231,426
+9 (03) MAINT. & GEN. OPERATION
+10 (A) OPER. EXPENSE 1,245,291
+11 (B) CONF. & TRAVEL 3,917
+12 (C) PROF. FEES 297,610
+13 (D) CAP. OUTLAY 0
+14 (E) DATA PROC. 0
+15 TOTAL AMOUNT APPROPRIATED $2,389,450
+16
+17 SECTION 19. REGULAR SALARIES - PROFESSIONAL LICENSURE STANDARDS BOARD.
+18 There is hereby established for the Department of Education - Division of
+19 Elementary and Secondary Education - Professional Licensure Standards Board
+20 for the 2025-2026 fiscal year, the following maximum number of regular
+21 employees.
+22
+23 Maximum Annual
+24 Maximum Salary Rate
+25 Item Class No. of Fiscal Year
+26 No. Code Title Employees 2025-2026
+27 (1) G004C MANAGING ATTORNEY 1 GRADE GS13
+28 (2) A038C FISCAL SUPPORT MANAGER 1 GRADE GS09
+29 (3) X202C ADE PLSB SENIOR INVESTIGATOR 1 GRADE GS08
+30 (4) X037C EDUCATION INVESTIGATOR 3 GRADE GS08
+31 (5) G093C OPERATIONS MANAGER 1 GRADE GS08
+32 (6) C037C ADMINISTRATIVE ANALYST 2 GRADE GS06
+33 (7) G179C LEGAL SERVICES SPECIALIST 1 GRADE GS06
+34 (8) C056C ADMINISTRATIVE SPECIALIST III 1 GRADE GS04
+35 MAX. NO. OF EMPLOYEES 11
+36
+13 03-31-2025 17:29:29 KMW005
+As Engrossed: S3/10/25 S3/31/25 SB93
+1 SECTION 20. APPROPRIATION - PROFESSIONAL LICENSURE STANDARDS BOARD.
+2 There is hereby appropriated, to the Department of Education, to be payable
+3 from the cash fund deposited in the State Treasury as determined by the Chief
+4 Fiscal Officer of the State, for personal services, operating expenses, and
+5 grants by the Department of Education - Division of Elementary and Secondary
+6 Education - Professional Licensure Standards Board for the fiscal year ending
+7 June 30, 2026, the following:
+8
+9 ITEM FISCAL YEAR
+10 NO. 2025-2026
+11 (01) REGULAR SALARIES $629,772
+12 (02) PERSONAL SERVICES MATCHING 235,810
+13 (03) MAINT. & GEN. OPERATION
+14 (A) OPER. EXPENSE 376,325
+15 (B) CONF. & TRAVEL 10,000
+16 (C) PROF. FEES 9,505
+17 (D) CAP. OUTLAY 50,000
+18 (E) DATA PROC. 0
+19 (04) EDTPA PROGRAM GRANTS 100,000
+20 TOTAL AMOUNT APPROPRIATED $1,411,412
+21
+22 SECTION 21. APPROPRIATION - OPEN ENROLLMENT PUBLIC CHARTER SCHOOL
+23 CLOSURE. There is hereby appropriated, to the Department of Education, to be
+24 payable from the cash fund deposited in the State Treasury as determined by
+25 the Chief Fiscal Officer of the State, for outstanding obligations incurred
+26 by closed charter schools of the Department of Education - Division of
+27 Elementary and Secondary Education - Open Enrollment Public Charter School
+28 Closure for the fiscal year ending June 30, 2026, the following:
+29
+30 ITEM FISCAL YEAR
+31 NO. 2025-2026
+32 (01) CHARTER SCHOOL CLOSURE $300,000
+33
+34 SECTION 22. APPROPRIATION - SAVE THE CHILDREN GRANT. There is hereby
+35 appropriated, to the Department of Education, to be payable from the Division
+36 of Elementary and Secondary Education Fund Account, for a grant for statewide
+14 03-31-2025 17:29:29 KMW005
+As Engrossed: S3/10/25 S3/31/25 SB93
+1 in-school, summer, and after school literacy, nutrition, home visiting, and
+2 early childhood programs to be administered by Save the Children for low
+3 income, at-risk children by the Department of Education - Division of
+4 Elementary and Secondary Education - Save the Children Grant for the fiscal
+5 year ending June 30, 2026, the following:
+6
+7 ITEM FISCAL YEAR
+8 NO. 2025-2026
+9 (01) SAVE THE CHILDREN GRANTS $500,000
+10
+11 SECTION 23. APPROPRIATION - SCHOOL SAFETY GRANTS. There is hereby
+12 appropriated, to the Department of Education, to be payable from the Division
+13 of Elementary and Secondary Education Fund Account, for School Safety Grants
+14 by the Department of Education - Division of Elementary and Secondary
+15 Education - School Safety Grants for the fiscal year ending June 30, 2026,
+16 the following:
+17
+18 ITEM FISCAL YEAR
+19 NO. 2025-2026
+20 (01) SCHOOL SAFETY GRANTS $50,000,000
+21
+22 SECTION 24. APPROPRIATION - EDUCATIONAL FREEDOM ACCOUNTS. There is
+23 hereby appropriated, to the Department of Education, to be payable from the
+24 Arkansas Children's Educational Freedom Account Fund, for Educational Freedom
+25 Accounts by the Department of Education - Division of Elementary and
+26 Secondary Education - Educational Freedom Accounts for the fiscal year ending
+27 June 30, 2026, the following:
+28
+29 ITEM FISCAL YEAR
+30 NO. 2025-2026
+31 (01) EDUCATIONAL FREEDOM ACCOUNTS $277,487,318
+32
+33 SECTION 25. APPROPRIATION - ASTHMA TRAINING AND TREATMENT PROGRAM GRANTS.
+34 There is hereby appropriated, to the Department of Education, to be payable
+35 from the cash fund deposited in the State Treasury as determined by the Chief
+36 Fiscal Officer of the State, for grants for expenses related to providing
+15 03-31-2025 17:29:29 KMW005
+As Engrossed: S3/10/25 S3/31/25 SB93
+1 asthma treatment in local school districts, asthma treatment equipment for
+2 school districts, school personnel training, and monitoring and tracking of
+3 asthma cases in local public school districts by the Department of Education
+4 - Division of Elementary and Secondary Education for the fiscal year ending
+5 June 30, 2026, the following:
+6
+7 ITEM FISCAL YEAR
+8 NO. 2025-2026
+9 (01) ASTHMA TRAINING AND TREATMENT PROGRAM GRANTS $1,000,000
+10
+11 SECTION 26. SPECIAL LANGUAGE. NOT TO BE INCORPORATED INTO THE ARKANSAS
+12 CODE NOR PUBLISHED SEPARATELY AS SPECIAL, LOCAL AND TEMPORARY LAW.
+13 CARRY FORWARD. Notwithstanding any law pertaining to the transfer of year-end
+14 fund balances or any law to the contrary, any funds which remain in the
+15 Division of Elementary and Secondary Education Fund Account at the end of a
+16 fiscal year shall remain in the Division of Elementary and Secondary
+17 Education Fund Account and be made available to fund appropriation(s)
+18 authorized by law and made payable from the Division of Elementary and
+19 Secondary Education Fund Account for the following fiscal year.
+20 Any carry forward of unexpended balance of funding as authorized
+21 herein, may be carried forward under the following conditions:
+22 (1) Prior to June 30, 2025 2026 the Agency shall by written statement
+23 set forth its reason(s) for the need to carry forward said funding to the
+24 Department of Finance and Administration Office of Budget;
+25 (2) The Department of Finance and Administration Office of Budget shall
+26 report to the Arkansas Legislative Council or Joint Budget Committee all
+27 amounts carried forward by the September Arkansas Legislative Council or
+28 Joint Budget Committee meeting which report shall include the name of the
+29 Agency, Board, Commission or Institution and the amount of the funding
+30 carried forward, the program name or line item, the funding source of that
+31 appropriation and a copy of the written request set forth in (1) above;
+32 (3) Each Agency, Board, Commission or Institution shall provide a
+33 written report to the Arkansas Legislative Council or Joint Budget Committee
+34 containing all information set forth in item (2) above, along with a written
+35 statement as to the current status of the project, contract, purpose etc. for
+36 which the carry forward was originally requested no later than thirty (30)
+16 03-31-2025 17:29:29 KMW005
+As Engrossed: S3/10/25 S3/31/25 SB93
+1 days prior to the time the Agency, Board, Commission or Institution presents
+2 its budget request to the Arkansas Legislative Council/Joint Budget
+3 Committee; and
+4 (4) Thereupon, the Department of Finance and Administration shall
+5 include all information obtained in item (3) above in the budget manuals
+6 and/or a statement of non-compliance by the Agency, Board, Commission or
+7 Institution.
+8 The provisions of this section shall be in effect only from July 1, 2024
+9 2025 through June 30, 2025 2026.
+10
+11 SECTION 27. SPECIAL LANGUAGE. NOT TO BE INCORPORATED INTO THE ARKANSAS
+12 CODE NOR PUBLISHED SEPARATELY AS SPECIAL, LOCAL, AND TEMPORARY LAW. SCHOOL
+13 SAFETY SET-ASIDE.
+14 (a) (1) The Department of Education shall not begin the process of
+15 promulgating rules for the distribution of funds in the School Safety Set-
+16 Aside or Contingency Vote 3/5 Set-Aside until authorized by Legislative
+17 Council.
+18 (2) The department shall not disburse any funds in the School Safety
+19 Set-Aside or Contingency Vote 3/5 Set-Aside until the rules have been
+20 approved by Legislative Council.
+21 (b) Notwithstanding other provisions of law, the Chief Fiscal Officer of
+22 the State may from time to time transfer on his or her books and those of the
+23 Treasurer of State and the Auditor of State funds from the Restricted Reserve
+24 Fund School Safety Set-Aside or Contingency Vote 3/5 Set-Aside after
+25 receiving prior approval of the greater of three-fifths (3/5) of the quorum
+26 present or a majority of the membership of the Legislative Council or, if the
+27 General Assembly is in session, the Joint Budget Committee, for the
+28 Department of Education to distribute funds for the School Safety Grant
+29 program, as approved in this section as set out in subsection (a) herein, or
+30 for the distribution of funds from this set-aside for unanticipated state
+31 needs.
+32 (c)(1) The General Assembly finds:
+33 (A) Determining the maximum amount of appropriation and funding for a
+34 state agency or institution each fiscal year is the prerogative of the
+35 General Assembly;
+36 (B) Determining the maximum amount of appropriation and funding for a
+17 03-31-2025 17:29:29 KMW005
+As Engrossed: S3/10/25 S3/31/25 SB93
+1 state agency or institution is usually accomplished by delineating the
+2 maximum amounts in the appropriation acts for the state agency or institution
+3 and in the general revenue allocations authorized for each relevant fund and
+4 fund account by amendment to the Revenue Stabilization Law, § 19-5-101 et
+5 seq.; and
+6 (C) The Restricted Reserve Fund has established procedures for the
+7 transfer of funds to various funds and fund accounts for the efficient and
+8 effective operation of state government.
+9 (2)(A) It is necessary and appropriate that the General Assembly
+10 maintain oversight by requiring prior approval of the Legislative Council or,
+11 if the General Assembly is in session, the Joint Budget Committee, as
+12 provided in § 19-5-1263(c).
+13 (B) The requirement of approval by the Legislative Council or, if the
+14 General Assembly is in session, the Joint Budget Committee, is not a
+15 severable part of § 19-5-1263.
+16 (C) If the requirement of approval by the Legislative Council or, if
+17 the General Assembly is in session, the Joint Budget Committee, is ruled
+18 unconstitutional by a court of competent jurisdiction, § 19-5-1263(c)-(e) are
+19 void in their entirety.
+20 (d) The provisions of this section shall be in effect only from July 1,
+21 2024 2025 through June 30, 2025 2026.
+22
+23 SECTION 28. SPECIAL LANGUAGE. NOT TO BE INCORPORATED INTO THE ARKANSAS
+24 CODE NOR PUBLISHED SEPARATELY AS SPECIAL, LOCAL AND TEMPORARY LAW.
+25 ESTABLISHMENT OF A "POSITION POOL". (a) To address needs emerging from
+26 statewide education issues and the necessity of recruiting and retaining
+27 qualified personnel, the Arkansas Department of Education or its successor
+28 agency is authorized for the 2024-2025 2025-2026 fiscal year a pool of no
+29 more than five (5) Information Technology positions at a salary not to exceed
+30 the maximum salary for a grade IT12. These positions are to be used by the
+31 Department of Education in the event that the personal services needs of the
+32 Department during the 2024-2025 2025-2026 fiscal year require additional
+33 positions, either by title or in number, that are not authorized by the
+34 General Assembly in the Regular Salaries section of this Act. These positions
+35 may also be used to properly classify positions when the Department does not
+36 have a vacant position available with the appropriate title and salary level.
+18 03-31-2025 17:29:29 KMW005
+As Engrossed: S3/10/25 S3/31/25 SB93
+1 (b) To address needs emerging from statewide education issues and the
+2 necessity of recruiting and retaining qualified personnel, the Arkansas
+3 Department of Education or its successor agency is authorized for the 2024-
+4 2025 2025-2026 fiscal year a pool of ten (10) General Salaries positions at
+5 up to a grade GS15. These positions are to be used by the Department of
+6 Education in the event that the personal services needs of the Department
+7 during the 2024-2025 2025-2026 fiscal year require additional positions,
+8 either by classification or in number, that are not authorized by the General
+9 Assembly in the Regular Salaries section of this Act. These positions may
+10 also be used to properly classify positions when the Department does not have
+11 a vacant position available with the appropriate title and grade level.
+12 (c) Any salary determinations or adjustments administered under the
+13 provisions of Subsections (a) and (b) of this Section shall be made by
+14 comparing the qualifications and salary levels of similar employees in school
+15 districts or in other state education agencies.
+16 (d) The Department of Education is authorized to access the pool
+17 positions authorized in this Section at any time when it is determined by the
+18 Secretary that the need exists. The Secretary shall provide a monthly report
+19 of the justification for the need to allocate titles from this growth pool to
+20 the Chief Fiscal Officer of the State and to the Arkansas Legislative Council
+21 or Joint Budget Committee for review. The report shall also include an
+22 accounting of the names, titles, and salaries of personnel whose salaries
+23 have been adjusted under provisions of Subsections (a) and (b) of this
+24 Section.
+25 (e) If the Department of Education requests continuation of any
+26 "Position Pool" position(s) as established herein during the next fiscal
+27 year, the position(s) must be requested as a new position(s) in the agency’s
+28 budget request.
+29 (f) Determining the number of personnel to be employed by a state agency
+30 is the prerogative of the General Assembly and is usually accomplished by
+31 delineating the maximum number of personnel by identifying job titles and the
+32 maximum grade or salary attached to those titles. The General Assembly has
+33 determined that the Arkansas Department of Education could be operated more
+34 efficiently if some flexibility is given to that agency. That flexibility is
+35 being accomplished by providing a position pool in Subsections (a) and (b) of
+36 this Section and since the General Assembly has granted the agency broad
+19 03-31-2025 17:29:29 KMW005
+As Engrossed: S3/10/25 S3/31/25 SB93
+1 powers under the growth pool concept, it is both necessary and appropriate
+2 that the General Assembly maintain oversight of the utilization of the
+3 position pool by requiring review of the Legislative Council or Joint Budget
+4 Committee in the utilization of the position pool. Therefore, the requirement
+5 of review by the Legislative Council or Joint Budget Committee is not a
+6 severable part of this section. If the requirement of review by the
+7 Legislative Council or Joint Budget Committee is ruled unconstitutional by a
+8 court of competent jurisdiction, this entire section is void.
+9 The provisions of this section shall be in effect only from July 1, 2024
+10 2025 through June 30, 2025 2026.
+11
+12 SECTION 29. SPECIAL LANGUAGE. NOT TO BE INCORPORATED INTO THE ARKANSAS
+13 CODE NOR PUBLISHED SEPARATELY AS SPECIAL, LOCAL AND TEMPORARY LAW.
+14 SHARED SERVICES. (a)(1) The Chief Fiscal Officer of the State may create a
+15 Shared Services paying accounts on his or her books and on the books of the
+16 Treasurer of State and the Auditor of State for the payment of personal
+17 services and operating expenses in the Shared Services Paying Account
+18 Appropriation by the Department of Education.
+19 (2) The Chief Fiscal Officer of the State shall direct the transfer
+20 of funds and appropriations to the Shared Services Paying Account
+21 appropriation section of this act on the books of the Treasurer of State, the
+22 Auditor of State, and the Chief Fiscal Officer of the State.
+23 (3) The transfer authority provided to the department in
+24 subdivision (a)(2) of this section may be used to make transfers only within
+25 the department's appropriation act or between other appropriation acts
+26 authorized for the department.
+27 (4) The provisions of this section shall be in effect from the
+28 date of passage through June 30, 2025 2026.
+29
+30 SECTION 30. COMPLIANCE WITH OTHER LAWS. Disbursement of funds
+31 authorized by this act shall be limited to the appropriation for such agency
+32 and funds made available by law for the support of such appropriations; and
+33 the restrictions of the State Procurement Law, the General Accounting and
+34 Budgetary Procedures Law, the Revenue Stabilization Law, the Regular Salary
+35 Procedures and Restrictions Act, or their successors, and other fiscal
+36 control laws of this State, where applicable, and regulations promulgated by
+20 03-31-2025 17:29:29 KMW005
+As Engrossed: S3/10/25 S3/31/25 SB93
+1 the Department of Finance and Administration, as authorized by law, shall be
+2 strictly complied with in disbursement of said funds.
+3
+4 SECTION 31. LEGISLATIVE INTENT. It is the intent of the General
+5 Assembly that any funds disbursed under the authority of the appropriations
+6 contained in this act shall be in compliance with the stated reasons for
+7 which this act was adopted, as evidenced by the Agency Requests, Executive
+8 Recommendations and Legislative Recommendations contained in the budget
+9 manuals prepared by the Department of Finance and Administration, letters, or
+10 summarized oral testimony in the official minutes of the Arkansas Legislative
+11 Council or Joint Budget Committee which relate to its passage and adoption.
+12
+13 SECTION 32. EMERGENCY CLAUSE. It is found and determined by the
+14 General Assembly, that the Constitution of the State of Arkansas prohibits
+15 the appropriation of funds for more than a one (1) year period; that the
+16 effectiveness of this Act on July 1, 2025 is essential to the operation of
+17 the agency for which the appropriations in this Act are provided, and that in
+18 the event of an extension of the legislative session, the delay in the
+19 effective date of this Act beyond July 1, 2025 could work irreparable harm
+20 upon the proper administration and provision of essential governmental
+21 programs. Therefore, an emergency is hereby declared to exist and this Act
+22 being necessary for the immediate preservation of the public peace, health
+23 and safety shall be in full force and effect from and after July 1, 2025.
+24
+25 /s/Joint Budget Committee
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+21 03-31-2025 17:29:29 KMW005
+[DELETED:  A      A A E A   A A Y    B   S e 2                     ]
+[DELETED:  S2 0                                                                        ]
+[DELETED:  S3 0                                               S h A t a e U f   S h p p]
+[DELETED:  S4 0 S  I   ( ( ( (           (     S e S f                               ]
+[DELETED:  S5 0                                                                        ]
+[DELETED:  S6 0                                                       S f E m H t t s ]
+[DELETED:  S7 0  S a o o a 3  I   ( ( ( (               S h f p D A  I   ( ( (        ]
+[DELETED:  S8 0       S a E D B  I   (               S i t o E C  I   ( ( (          ]
+[DELETED:  S9 0 ( (       S a f s E P  I   ( ( (           ( (     S T E E p f e U f ]
+[DELETED:  S1 0  S T f S t - 3  I   ( ( ( (           ( (     S h c O E A  I   (      ]
+[DELETED:  S1 0     (     S h c O D M f  I   ( (     S i t F D A t  I   (           (]
+[DELETED:  S1 0     S t t f E t  I   (               S T f F a D M 2  I   (   S A E E]
+[DELETED:  S1 0 D A J  I   ( ( (               S T E f e                            ]
+[DELETED:  S1 0  S T f F g E J  I   ( ( (           (     S C p t b E C  I   (   S a o]
+[DELETED:  S1 0 i e i E y  I   (   S a o b E t  I   (   S h A A S J  I   (  S T f F]
+[DELETED:  S1 0 a s a - J  I   (   S C C f D f E a S   h   s D   r a J A c a   w c s w]
+[DELETED:  S1 0 d i C   i a I   2    C S   p A C  ( S a   t T F r p G D p f n     s G  ]
+[DELETED:  S1 0 s m a f s   t e   m i p   G s   t u v   2   S C E s q a m t D D p G m h]
+[DELETED:  S1 0   n D 2 u E d e A a a   p c d   p S o t o a h S   " y b   i d m d e b t]
+[DELETED:  S2 0 p t p C o s L c   2   S C S S T s A   o a A   s t a   d   S a a t B P c]
+[DELETED:  S2 0 t s   S A c w R m s C   S G t e t t e u p b a  /           ]
+
+
+================================================================================
+
+Raw Text:
+Stricken language would be deleted from and underlined language would be added to present law.
+1 State of Arkansas As Engrossed: S3/10/25 S3/31/25
+A Bill
+2 95th General Assembly
+3 Regular Session, 2025 SENATE BILL 93
+4
+5 By: Joint Budget Committee
+6
+7
+For An Act To Be Entitled
+8
+9 AN ACT TO MAKE AN APPROPRIATION FOR PERSONAL SERVICES
+10 AND OPERATING EXPENSES FOR THE DEPARTMENT OF
+11 EDUCATION FOR THE FISCAL YEAR ENDING JUNE 30, 2026;
+12 AND FOR OTHER PURPOSES.
+13
+14
+Subtitle
+15
+16 AN ACT FOR THE DEPARTMENT OF EDUCATION
+17 APPROPRIATION FOR THE 2025-2026 FISCAL
+18 YEAR.
+19
+20
+21 BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF ARKANSAS:
+22
+23 SECTION 1. REGULAR SALARIES - SHARED SERVICES. There is hereby
+24 established for the Department of Education - Shared Services for the 2025-
+25 2026 fiscal year, the following maximum number of regular employees.
+26
+27 Maximum Annual
+28 Maximum Salary Rate
+29 Item Class No. of Fiscal Year
+30 No. Code Title Employees 2025-2026
+31 (1) SC004 SECRETARY OF EDUCATION 1 GRADE SE05
+32 (2) E080C ADE CHIEF OF STAFF 1 GRADE SE04
+33 (3) U089U DHE DEPUTY DIRECTOR 1 GRADE SE02
+34 (4) G331C ADE CHIEF LEGAL COUNSEL 1 GRADE SE01
+35 (5) D011N ADE DIRECTOR OF INFORMATION SYSTEMS 1 GRADE SE01
+36 (6) N009N ASST COMMISSIONER FISCAL & ADMIN SVCS 1 GRADE SE01
+*KMW005*
+03-31-2025 17:29:29 KMW005
+
+As Engrossed: S3/10/25 S3/31/25 SB93
+1 (7) D147C ADE CHIEF INFORMATION OFFICER 1 GRADE IT12
+2 (8) D146C ADE ENTERPRISE ARCHITECT 1 GRADE IT11
+3 (9) D006N STATE SYSTEMS ARCHITECT 1 GRADE IT10
+4 (10) D022N IT SENIOR PROJECT MANAGER 2 GRADE IT09
+5 (11) D104C ADE STATE SYSTEMS ADMINISTRATOR 1 GRADE IT08
+6 (12) D006C SOFTWARE ENGINEER LEAD 1 GRADE IT08
+7 (13) D030C INFORMATION SYSTEMS COORDINATOR 3 GRADE IT07
+8 (14) D028C SENIOR SOFTWARE SUPPORT SPECIALIST 1 GRADE IT07
+9 (15) D038C SENIOR SOFTWARE SUPPORT ANALYST 2 GRADE IT06
+10 (16) D047C INFORMATION SYSTEMS BUSINESS ANALYST 1 GRADE IT05
+11 (17) D061C INFORMATION SYSTEMS COORDINATION SPEC 1 GRADE IT05
+12 (18) G001N ADE LITIGATION ATTORNEY 1 GRADE GS15
+13 (19) G281C ADE POLICY & SPECIAL PROJECTS DIRECTOR 1 GRADE GS15
+14 (20) N002N DHE SENIOR ASSOC DIRECTOR 2 GRADE GS15
+15 (21) N069N ADE SPECIAL ADVISOR 1 GRADE GS14
+16 (22) E001N ADE COORDINATOR SPECIAL PROGRAMS 2 GRADE GS13
+17 (23) G012C ADE ASSISTANT TO DIRECTOR 3 GRADE GS12
+18 (24) G025C ATTORNEY SUPERVISOR 1 GRADE GS12
+19 (25) A014C FISCAL DIVISION MANAGER 1 GRADE GS12
+20 (26) A027C ACCOUNTING OPERATIONS MANAGER 2 GRADE GS11
+21 (27) A031C ASSISTANT CONTROLLER 1 GRADE GS11
+22 (28) G047C ATTORNEY SPECIALIST 2 GRADE GS11
+23 (29) E006C PUBLIC SCHOOL PROGRAM MANAGER 1 GRADE GS11
+24 (30) E061C ACE PROGRAM COORDINATOR 1 GRADE GS10
+25 (31) G075C ADE PROGRAM ADMINISTRATOR 1 GRADE GS10
+26 (32) G076C ADMINISTRATIVE SERVICES MANAGER 1 GRADE GS10
+27 (33) G073C ATTORNEY 1 GRADE GS10
+28 (34) E016C PUBLIC SCHOOL PROGRAM COORDINATOR 1 GRADE GS10
+29 (35) A052C ACCOUNTING COORDINATOR 1 GRADE GS09
+30 (36) A032C ADE FINANCE PROGRAM COORDINATOR 1 GRADE GS09
+31 (37) A038C FISCAL SUPPORT MANAGER 2 GRADE GS09
+32 (38) G109C GRANTS MANAGER 1 GRADE GS09
+33 (39) P004C PUBLIC INFORMATION MANAGER 1 GRADE GS09
+34 (40) E019C PUBLIC SCHOOL PROGRAM ADVISOR 1 GRADE GS09
+35 (41) A082C ACCOUNTANT II 2 GRADE GS08
+36 (42) E031C EDUCATION PROGRAM COORDINATOR 2 GRADE GS08
+2 03-31-2025 17:29:29 KMW005
+
+As Engrossed: S3/10/25 S3/31/25 SB93
+1 (43) G093C OPERATIONS MANAGER 4 GRADE GS08
+2 (44) R014C PERSONNEL MANAGER 3 GRADE GS08
+3 (45) V007C PROCUREMENT COORDINATOR 1 GRADE GS08
+4 (46) A041C PROGRAM FISCAL MANAGER 1 GRADE GS08
+5 (47) A089C ACCOUNTANT I 1 GRADE GS07
+6 (48) S008C CAMPUS MAINTENANCE SUPERVISOR 2 GRADE GS07
+7 (49) C010C EXECUTIVE ASSISTANT TO THE DIRECTOR 2 GRADE GS07
+8 (50) A075C FINANCIAL ANALYST I 1 GRADE GS07
+9 (51) G147C GRANTS COORDINATOR 1 GRADE GS07
+10 (52) P020C PRODUCTION ARTIST 2 GRADE GS07
+11 (53) C037C ADMINISTRATIVE ANALYST 1 GRADE GS06
+12 (54) R025C HUMAN RESOURCES ANALYST 1 GRADE GS06
+13 (55) S033C MAINTENANCE SUPERVISOR 2 GRADE GS06
+14 (56) A091C FISCAL SUPPORT ANALYST 1 GRADE GS05
+15 (57) A090C PAYROLL SERVICES SPECIALIST 2 GRADE GS05
+16 (58) C056C ADMINISTRATIVE SPECIALIST III 2 GRADE GS04
+17 (59) A098C FISCAL SUPPORT SPECIALIST 2 GRADE GS04
+18 (60) V020C INVENTORY CONTROL MANAGER 1 GRADE GS04
+19 (61) C046C LEGAL SUPPORT SPECIALIST 1 GRADE GS04
+20 (62) S046C MAINTENANCE TECHNICIAN 2 GRADE GS04
+21 (63) C073C ADMINISTRATIVE SPECIALIST II 1 GRADE GS03
+22 MAX. NO. OF EMPLOYEES 88
+23
+24 SECTION 2. EXTRA HELP - SHARED SERVICES PAYING ACCOUNT. There is
+25 hereby authorized, for the Department of Education - Shared Services Paying
+26 Account for the 2025-2026 fiscal year, the following maximum number of part-
+27 time or temporary employees, to be known as "Extra Help", payable from funds
+28 appropriated herein for such purposes: six (6) temporary or part-time
+29 employees, when needed, at rates of pay not to exceed those provided in the
+30 Uniform Classification and Compensation Act, or its successor, or this act
+31 for the appropriate classification.
+32
+33 SECTION 3. APPROPRIATION - SHARED SERVICES PAYING ACCOUNT. There is
+34 hereby appropriated, to the Department of Education, to be payable from the
+35 paying account as determined by the Chief Fiscal Officer of the State, for
+36 personal services and operating expenses of the Department of Education -
+3 03-31-2025 17:29:29 KMW005
+
+As Engrossed: S3/10/25 S3/31/25 SB93
+1 Shared Services for the fiscal year ending June 30, 2026, the following:
+2
+3 ITEM FISCAL YEAR
+4 NO. 2025-2026
+5 (01) REGULAR SALARIES $6,769,373
+6 (02) EXTRA HELP 80,000
+7 (03) PERSONAL SERVICES MATCHING 2,227,462
+8 (04) MAINT. & GEN. OPERATION
+9 (A) OPER. EXPENSE 100,000
+10 (B) CONF. & TRAVEL 10,000
+11 (C) PROF. FEES 0
+12 (D) CAP. OUTLAY 0
+13 (E) DATA PROC. 0
+14 (05) PROMOTIONAL ITEMS 300,000
+15 TOTAL AMOUNT APPROPRIATED $9,486,835
+16
+17 SECTION 4. REGULAR SALARIES - STATE OPERATIONS. There is hereby
+18 established for the Department of Education - Division of Elementary and
+19 Secondary Education - State Operations for the 2025-2026 fiscal year, the
+20 following maximum number of regular employees.
+21
+22 Maximum Annual
+23 Maximum Salary Rate
+24 Item Class No. of Fiscal Year
+25 No. Code Title Employees 2025-2026
+26 (1) E083C ADE DEPUTY SECRETARY OF EDUCATION 1 GRADE SE04
+27 (2) U027U DEPUTY COMMISSIONER OF EDUCATION 1 GRADE SE03
+28 (3) E081C ADE ASSOCIATE DEPUTY 3 GRADE SE02
+29 (4) N005N ADE ASST COMMISSIONER LEARNING SERVICES 1 GRADE SE01
+30 (5) N006N ADE ASST COMMISSIONER PUB SCH ACCOUNT 1 GRADE SE01
+31 (6) N008N ASST COMMISSIONER RESEARCH & TECHNOLOGY 1 GRADE SE01
+32 (7) N010N ASST COMMR EDUC EFFECTIVENESS 1 GRADE SE01
+33 (8) L027C REGISTERED NURSE SUPERVISOR 1 GRADE MP02
+34 (9) D104C ADE STATE SYSTEMS ADMINISTRATOR 4 GRADE IT08
+35 (10) D030C INFORMATION SYSTEMS COORDINATOR 1 GRADE IT07
+36 (11) D054C COMPUTER SUPPORT COORDINATOR 1 GRADE IT05
+4 03-31-2025 17:29:29 KMW005
+
+As Engrossed: S3/10/25 S3/31/25 SB93
+1 (12) D047C INFORMATION SYSTEMS BUSINESS ANALYST 2 GRADE IT05
+2 (13) D052C SOFTWARE SUPPORT ANALYST 1 GRADE IT05
+3 (14) D044C SYSTEMS ANALYST 1 GRADE IT05
+4 (15) D064C WEBSITE DEVELOPER 1 GRADE IT04
+5 (16) D079C COMPUTER SUPPORT TECHNICIAN 1 GRADE IT02
+6 (17) E082C ADE PROGRAM DIRECTOR 1 GRADE GS15
+7 (18) N069N ADE SPECIAL ADVISOR 7 GRADE GS14
+8 (19) E003N ADE COORD SCH. IMP / STANDARDS ASSUR 1 GRADE GS13
+9 (20) E001N ADE COORDINATOR SPECIAL PROGRAMS 7 GRADE GS13
+10 (21) A010C AGENCY CONTROLLER II 1 GRADE GS13
+11 (22) G012C ADE ASSISTANT TO DIRECTOR 8 GRADE GS12
+12 (23) G006C ADE SPECIAL EDUCATION DIVISION MGR 1 GRADE GS12
+13 (24) N145N DHS ASSISTANT DIRECTOR CMS 1 GRADE GS12
+14 (25) E006N ADE COORD COMPUTER SCIENCE 1 GRADE GS11
+15 (26) E069C ADE DIRECTOR OF MEDICAID IN THE SCHOOLS 1 GRADE GS11
+16 (27) E006C PUBLIC SCHOOL PROGRAM MANAGER 11 GRADE GS11
+17 (28) E007C ADE OERZ DIRECTOR 1 GRADE GS10
+18 (29) G075C ADE PROGRAM ADMINISTRATOR 5 GRADE GS10
+19 (30) E016C PUBLIC SCHOOL PROGRAM COORDINATOR 19 GRADE GS10
+20 (31) A052C ACCOUNTING COORDINATOR 8 GRADE GS09
+21 (32) G074C ADE COORD OF GOVERNMENTAL AFFAIRS 1 GRADE GS09
+22 (33) A032C ADE FINANCE PROGRAM COORDINATOR 3 GRADE GS09
+23 (34) X012C ADE PLSB CHIEF INVESTIGATOR 2 GRADE GS09
+24 (35) A050C AGENCY FISCAL MANAGER 1 GRADE GS09
+25 (36) G099C DHS PROGRAM ADMINISTRATOR 1 GRADE GS09
+26 (37) A038C FISCAL SUPPORT MANAGER 4 GRADE GS09
+27 (38) G109C GRANTS MANAGER 2 GRADE GS09
+28 (39) P004C PUBLIC INFORMATION MANAGER 1 GRADE GS09
+29 (40) E019C PUBLIC SCHOOL PROGRAM ADVISOR 93 GRADE GS09
+30 (41) E066C DCCECE EDUCATION MANAGER 1 GRADE GS08
+31 (42) G152C DHS PROGRAM MANAGER 3 GRADE GS08
+32 (43) E026C EDUCATION & INSTRUCTION COORDINATOR 1 GRADE GS08
+33 (44) A047C FINANCIAL ANALYST II 1 GRADE GS08
+34 (45) L043C HEALTH PROGRAM SPECIALIST III 1 GRADE GS08
+35 (46) L035C NUTRITIONIST CONSULTANT 9 GRADE GS08
+36 (47) G093C OPERATIONS MANAGER 1 GRADE GS08
+5 03-31-2025 17:29:29 KMW005
+
+As Engrossed: S3/10/25 S3/31/25 SB93
+1 (48) R014C PERSONNEL MANAGER 1 GRADE GS08
+2 (49) A041C PROGRAM FISCAL MANAGER 6 GRADE GS08
+3 (50) G183C DHS PROGRAM COORDINATOR 9 GRADE GS07
+4 (51) G267C DHS PROGRAM ELIGIBILITY ANALYST 1 GRADE GS07
+5 (52) M042C DHS STAFF SUPERVISOR 1 GRADE GS07
+6 (53) G182C DHS/DDS PROGRAM COORDINATOR 1 GRADE GS07
+7 (54) E048C EDUCATION & INSTRUCTION SPECIALIST 1 GRADE GS07
+8 (55) C010C EXECUTIVE ASSISTANT TO THE DIRECTOR 2 GRADE GS07
+9 (56) M025C PROGRAM ELIGIBILITY COORDINATOR I 1 GRADE GS07
+10 (57) A063C RESEARCH & STATISTICS SUPERVISOR 1 GRADE GS07
+11 (58) E040C STAFF DEVELOPMENT COORDINATOR 1 GRADE GS07
+12 (59) C037C ADMINISTRATIVE ANALYST 11 GRADE GS06
+13 (60) M053C CHILD CARE SERVICE SPECIALIST 5 GRADE GS06
+14 (61) A074C FISCAL SUPPORT SUPERVISOR 3 GRADE GS06
+15 (62) G180C GRANTS ANALYST 3 GRADE GS06
+16 (63) R025C HUMAN RESOURCES ANALYST 1 GRADE GS06
+17 (64) G179C LEGAL SERVICES SPECIALIST 2 GRADE GS06
+18 (65) G178C POLICY DEVELOPMENT COORDINATOR 2 GRADE GS06
+19 (66) X094C SERVICES & PROGRAM LICENSING SPECIALIST 6 GRADE GS06
+20 (67) V014C BUYER 1 GRADE GS05
+21 (68) A091C FISCAL SUPPORT ANALYST 3 GRADE GS05
+22 (69) C054C LOCAL OFFICE ADMINISTRATIVE SPECIALIST 7 GRADE GS05
+23 (70) C056C ADMINISTRATIVE SPECIALIST III 28 GRADE GS04
+24 (71) S046C MAINTENANCE TECHNICIAN 1 GRADE GS04
+25 (72) C073C ADMINISTRATIVE SPECIALIST II 17 GRADE GS03
+26 MAX. NO. OF EMPLOYEES 335
+27
+28 SECTION 5. EXTRA HELP - STATE OPERATIONS. There is hereby authorized,
+29 for the Department of Education - Division of Elementary and Secondary
+30 Education - State Operations for the 2025-2026 fiscal year, the following
+31 maximum number of part-time or temporary employees, to be known as "Extra
+32 Help", payable from funds appropriated herein for such purposes: eight (8)
+33 temporary or part-time employees, when needed, at rates of pay not to exceed
+34 those provided in the Uniform Classification and Compensation Act, or its
+35 successor, or this act for the appropriate classification.
+36
+6 03-31-2025 17:29:29 KMW005
+
+As Engrossed: S3/10/25 S3/31/25 SB93
+1 SECTION 6. APPROPRIATION - STATE OPERATIONS. There is hereby
+2 appropriated, to the Department of Education, to be payable from the Division
+3 of Elementary and Secondary Education Fund Account, for personal services and
+4 operating expenses of the Department of Education - Division of Elementary
+5 and Secondary Education - State Operations for the fiscal year ending June
+6 30, 2026, the following:
+7
+8 ITEM FISCAL YEAR
+9 NO. 2025-2026
+10 (01) REGULAR SALARIES $13,832,717
+11 (02) EXTRA HELP 160,000
+12 (03) PERSONAL SERVICES MATCHING 4,877,933
+13 (04) MAINT. & GEN. OPERATION
+14 (A) OPER. EXPENSE 3,411,057
+15 (B) CONF. & TRAVEL 60,000
+16 (C) PROF. FEES 25,000
+17 (D) CAP. OUTLAY 100,000
+18 (E) DATA PROC. 0
+19 TOTAL AMOUNT APPROPRIATED $22,466,707
+20
+21 SECTION 7. APPROPRIATION - FEDERAL GRANTS ADMINISTRATION. There is
+22 hereby appropriated, to the Department of Education, to be payable from the
+23 federal funds as designated by the Chief Fiscal Officer of the State, for
+24 personal services and operating expenses of the Department of Education -
+25 Division of Elementary and Secondary Education - Federal Grants
+26 Administration for the fiscal year ending June 30, 2026, the following:
+27
+28 ITEM FISCAL YEAR
+29 NO. 2025-2026
+30 (01) REGULAR SALARIES $254,677
+31 (02) PERSONAL SERVICES MATCHING 88,477
+32 (03) MAINT. & GEN. OPERATION
+33 (A) OPER. EXPENSE 49,970
+34 (B) CONF. & TRAVEL 19,672
+35 (C) PROF. FEES 260,000
+36 (D) CAP. OUTLAY 0
+7 03-31-2025 17:29:29 KMW005
+
+As Engrossed: S3/10/25 S3/31/25 SB93
+1 (E) DATA PROC. 0
+2 TOTAL AMOUNT APPROPRIATED $672,796
+3
+4 SECTION 8. APPROPRIATION - BUILDING MAINTENANCE. There is hereby
+5 appropriated, to the Department of Education, to be payable from the
+6 Educational Buildings Maintenance Fund, for operating expenses of the
+7 Department of Education - Division of Elementary and Secondary Education -
+8 Building Maintenance for the fiscal year ending June 30, 2026, the following:
+9
+10 ITEM FISCAL YEAR
+11 NO. 2025-2026
+12 (01) MAINT. & GEN. OPERATION
+13 (A) OPER. EXPENSE $500,000
+14 (B) CONF. & TRAVEL 0
+15 (C) PROF. FEES 0
+16 (D) CAP. OUTLAY 0
+17 (E) DATA PROC. 0
+18 TOTAL AMOUNT APPROPRIATED $500,000
+19
+20 SECTION 9. APPROPRIATION - REVOLVING LOAN CERTIFICATES PROGRAM. There
+21 is hereby appropriated, to the Department of Education, to be payable from
+22 the Education Revolving Loan Certificates Fund, for personal services,
+23 operating expenses, and loans to school districts by the Department of
+24 Education - Division of Elementary and Secondary Education - Revolving Loan
+25 Certificates Fund for the fiscal year ending June 30, 2026, the following:
+26
+27 ITEM FISCAL YEAR
+28 NO. 2025-2026
+29 (01) REGULAR SALARIES $54,790
+30 (02) PERSONAL SERVICES MATCHING 20,856
+31 (03) MAINT. & GEN. OPERATION
+32 (A) OPER. EXPENSE 27,500
+33 (B) CONF. & TRAVEL 2,500
+34 (C) PROF. FEES 10,000
+35 (D) CAP. OUTLAY 0
+36 (E) DATA PROC. 0
+8 03-31-2025 17:29:29 KMW005
+
+As Engrossed: S3/10/25 S3/31/25 SB93
+1 (04) LOANS TO SCHOOL DISTRICTS 13,000,000
+2 (05) LOANS TO OPEN-ENROLLMENT PUBLIC
+3 CHARTER SCHOOLS 10,000,000
+4 TOTAL AMOUNT APPROPRIATED $23,115,646
+5
+6 SECTION 10. APPROPRIATION - CHILD NUTRITION PROGRAM. There is hereby
+7 appropriated, to the Department of Education, to be payable from the federal
+8 funds as designated by the Chief Fiscal Officer of the State, for personal
+9 services, operating expenses, aid and reimbursements of the Department of
+10 Education - Division of Elementary and Secondary Education - Child Nutrition
+11 Program for the fiscal year ending June 30, 2026, the following:
+12
+13 ITEM FISCAL YEAR
+14 NO. 2025-2026
+15 (01) REGULAR SALARIES $1,102,049
+16 (02) PERSONAL SERVICES MATCHING 418,594
+17 (03) MAINT. & GEN. OPERATION
+18 (A) OPER. EXPENSE 1,172,100
+19 (B) CONF. & TRAVEL 10,000
+20 (C) PROF. FEES 100,000
+21 (D) CAP. OUTLAY 50,000
+22 (E) DATA PROC. 0
+23 (04) SCHOOL FOOD SERVICE/NUTRITION ED 425,099,000
+24 (05) REFUNDS/REIMBURSEMENTS 450,000
+25 TOTAL AMOUNT APPROPRIATED $428,401,743
+26
+27 SECTION 11. EXTRA HELP - FEDERAL ELEMENTARY AND SECONDARY EDUCATION.
+28 There is hereby authorized, for the Department of Education - Division of
+29 Elementary and Secondary Education - Federal Elementary and Secondary
+30 Education for the 2025-2026 fiscal year, the following maximum number of
+31 part-time or temporary employees, to be known as "Extra Help", payable from
+32 funds appropriated herein for such purposes: four (4) temporary or part-time
+33 employees, when needed, at rates of pay not to exceed those provided in the
+34 Uniform Classification and Compensation Act, or its successor, or this act
+35 for the appropriate classification.
+36
+9 03-31-2025 17:29:29 KMW005
+
+As Engrossed: S3/10/25 S3/31/25 SB93
+1 SECTION 12. APPROPRIATION - FEDERAL ELEMENTARY AND SECONDARY EDUCATION.
+2 There is hereby appropriated, to the Department of Education, to be payable
+3 from the federal funds as designated by the Chief Fiscal Officer of the
+4 State, for personal services, operating expenses, aid and reimbursements of
+5 the Department of Education - Division of Elementary and Secondary Education
+6 - Federal Elementary and Secondary Education for the fiscal year ending June
+7 30, 2026, the following:
+8
+9 ITEM FISCAL YEAR
+10 NO. 2025-2026
+11 (01) REGULAR SALARIES $4,280,286
+12 (02) EXTRA HELP 60,000
+13 (03) PERSONAL SERVICES MATCHING 1,607,708
+14 (04) MAINT. & GEN. OPERATION
+15 (A) OPER. EXPENSE 91,242,005
+16 (B) CONF. & TRAVEL 100,000
+17 (C) PROF. FEES 1,500,000
+18 (D) CAP. OUTLAY 200,000
+19 (E) DATA PROC. 0
+20 (05) ENTITLEMENT GRANT PROGRAMS 1,181,835,058
+21 (06) REFUNDS/REIMBURSEMENTS 1,110,000
+22 TOTAL AMOUNT APPROPRIATED $1,281,935,057
+23
+24 SECTION 13. APPROPRIATION - MULTIPLE GRANT AWARD PROGRAM. There is
+25 hereby appropriated, to the Department of Education, to be payable from the
+26 cash fund deposited in the State Treasury as determined by the Chief Fiscal
+27 Officer of the State, for operating expenses and grants by the Department of
+28 Education - Division of Elementary and Secondary Education - Multiple Grant
+29 Award Program for the fiscal year ending June 30, 2026, the following:
+30
+31 ITEM FISCAL YEAR
+32 NO. 2025-2026
+33 (01) MAINT. & GEN. OPERATION
+34 (A) OPER. EXPENSE $422,000
+35 (B) CONF. & TRAVEL 16,500
+36 (C) PROF. FEES 40,000
+10 03-31-2025 17:29:29 KMW005
+
+As Engrossed: S3/10/25 S3/31/25 SB93
+1 (D) CAP. OUTLAY 100,000
+2 (E) DATA PROC. 0
+3 (02) MULTIPLE GRANT AWARDS 1,900,000
+4 TOTAL AMOUNT APPROPRIATED $2,478,500
+5
+6 SECTION 14. APPROPRIATION - MEDICAID REIMBURSEMENT PROGRAM. There is
+7 hereby appropriated, to the Department of Education, to be payable from the
+8 cash fund deposited in the State Treasury as determined by the Chief Fiscal
+9 Officer of the State, for Medicaid reimbursement and administration of the
+10 Department of Education - Division of Elementary and Secondary Education -
+11 Medicaid Reimbursement Program for the fiscal year ending June 30, 2026, the
+12 following:
+13
+14 ITEM FISCAL YEAR
+15 NO. 2025-2026
+16 (01) REFUNDS/REIMBURSEMENTS $13,659,017
+17 (02) MEDICAID ADMIN 10,500
+18 TOTAL AMOUNT APPROPRIATED $13,669,517
+19
+20 SECTION 15. APPROPRIATION - ALTERNATIVE CERTIFICATION PROGRAM. There
+21 is hereby appropriated, to the Department of Education, to be payable from
+22 the cash fund deposited in the State Treasury as determined by the Chief
+23 Fiscal Officer of the State, for operating expenses and grants by the
+24 Department of Education - Division of Elementary and Secondary Education -
+25 Alternative Certification Program for the fiscal year ending June 30, 2026,
+26 the following:
+27
+28 ITEM FISCAL YEAR
+29 NO. 2025-2026
+30 (01) MAINT. & GEN. OPERATION
+31 (A) OPER. EXPENSE $27,367
+32 (B) CONF. & TRAVEL 8,500
+33 (C) PROF. FEES 35,420
+34 (D) CAP. OUTLAY 0
+35 (E) DATA PROC. 0
+36 (02) ALT. CERT. PROG. GRANTS AND AID 827,925
+11 03-31-2025 17:29:29 KMW005
+
+As Engrossed: S3/10/25 S3/31/25 SB93
+1 TOTAL AMOUNT APPROPRIATED $899,212
+2
+3 SECTION 16. APPROPRIATION - CONFERENCES. There is hereby appropriated,
+4 to the Department of Education, to be payable from the cash fund deposited in
+5 the State Treasury as determined by the Chief Fiscal Officer of the State,
+6 for operating expenses of conferences sponsored by the Department of
+7 Education - Division of Elementary and Secondary Education - Conferences for
+8 the fiscal year ending June 30, 2026, the following:
+9
+10 ITEM FISCAL YEAR
+11 NO. 2025-2026
+12 (01) MAINT. & GEN. OPERATION
+13 (A) OPER. EXPENSE $400,000
+14 (B) CONF. & TRAVEL 25,000
+15 (C) PROF. FEES 50,000
+16 (D) CAP. OUTLAY 0
+17 (E) DATA PROC. 0
+18 TOTAL AMOUNT APPROPRIATED $475,000
+19
+20 SECTION 17. APPROPRIATION - MEDICAID ADMINISTRATION CLAIMING PROGRAM.
+21 There is hereby appropriated, to the Department of Education, to be payable
+22 from the cash fund deposited in the State Treasury as determined by the Chief
+23 Fiscal Officer of the State, for reimbursement of school districts for
+24 administrative activities that support the Arkansas Medicaid Program of the
+25 Department of Education - Division of Elementary and Secondary Education -
+26 Medicaid Administration Claiming Program for the fiscal year ending June 30,
+27 2026, the following:
+28
+29 ITEM FISCAL YEAR
+30 NO. 2025-2026
+31 (01) AR MEDICAID ADMIN CLAIMS $45,000,000
+32
+33 SECTION 18. APPROPRIATION - ARKANSAS BETTER CHANCE PROGRAM -
+34 ADMINISTRATION. There is hereby appropriated, to the Department of
+35 Education, to be payable from the Division of Elementary and Secondary
+36 Education Fund Account, for personal services and operating expenses of the
+12 03-31-2025 17:29:29 KMW005
+
+As Engrossed: S3/10/25 S3/31/25 SB93
+1 Department of Education - Division of Elementary and Secondary Education -
+2 Arkansas Better Chance Program - Administration for the fiscal year ending
+3 June 30, 2026, the following:
+4
+5 ITEM FISCAL YEAR
+6 NO. 2025-2026
+7 (01) REGULAR SALARIES $611,206
+8 (02) PERSONAL SERVICES MATCHING 231,426
+9 (03) MAINT. & GEN. OPERATION
+10 (A) OPER. EXPENSE 1,245,291
+11 (B) CONF. & TRAVEL 3,917
+12 (C) PROF. FEES 297,610
+13 (D) CAP. OUTLAY 0
+14 (E) DATA PROC. 0
+15 TOTAL AMOUNT APPROPRIATED $2,389,450
+16
+17 SECTION 19. REGULAR SALARIES - PROFESSIONAL LICENSURE STANDARDS BOARD.
+18 There is hereby established for the Department of Education - Division of
+19 Elementary and Secondary Education - Professional Licensure Standards Board
+20 for the 2025-2026 fiscal year, the following maximum number of regular
+21 employees.
+22
+23 Maximum Annual
+24 Maximum Salary Rate
+25 Item Class No. of Fiscal Year
+26 No. Code Title Employees 2025-2026
+27 (1) G004C MANAGING ATTORNEY 1 GRADE GS13
+28 (2) A038C FISCAL SUPPORT MANAGER 1 GRADE GS09
+29 (3) X202C ADE PLSB SENIOR INVESTIGATOR 1 GRADE GS08
+30 (4) X037C EDUCATION INVESTIGATOR 3 GRADE GS08
+31 (5) G093C OPERATIONS MANAGER 1 GRADE GS08
+32 (6) C037C ADMINISTRATIVE ANALYST 2 GRADE GS06
+33 (7) G179C LEGAL SERVICES SPECIALIST 1 GRADE GS06
+34 (8) C056C ADMINISTRATIVE SPECIALIST III 1 GRADE GS04
+35 MAX. NO. OF EMPLOYEES 11
+36
+13 03-31-2025 17:29:29 KMW005
+
+As Engrossed: S3/10/25 S3/31/25 SB93
+1 SECTION 20. APPROPRIATION - PROFESSIONAL LICENSURE STANDARDS BOARD.
+2 There is hereby appropriated, to the Department of Education, to be payable
+3 from the cash fund deposited in the State Treasury as determined by the Chief
+4 Fiscal Officer of the State, for personal services, operating expenses, and
+5 grants by the Department of Education - Division of Elementary and Secondary
+6 Education - Professional Licensure Standards Board for the fiscal year ending
+7 June 30, 2026, the following:
+8
+9 ITEM FISCAL YEAR
+10 NO. 2025-2026
+11 (01) REGULAR SALARIES $629,772
+12 (02) PERSONAL SERVICES MATCHING 235,810
+13 (03) MAINT. & GEN. OPERATION
+14 (A) OPER. EXPENSE 376,325
+15 (B) CONF. & TRAVEL 10,000
+16 (C) PROF. FEES 9,505
+17 (D) CAP. OUTLAY 50,000
+18 (E) DATA PROC. 0
+19 (04) EDTPA PROGRAM GRANTS 100,000
+20 TOTAL AMOUNT APPROPRIATED $1,411,412
+21
+22 SECTION 21. APPROPRIATION - OPEN ENROLLMENT PUBLIC CHARTER SCHOOL
+23 CLOSURE. There is hereby appropriated, to the Department of Education, to be
+24 payable from the cash fund deposited in the State Treasury as determined by
+25 the Chief Fiscal Officer of the State, for outstanding obligations incurred
+26 by closed charter schools of the Department of Education - Division of
+27 Elementary and Secondary Education - Open Enrollment Public Charter School
+28 Closure for the fiscal year ending June 30, 2026, the following:
+29
+30 ITEM FISCAL YEAR
+31 NO. 2025-2026
+32 (01) CHARTER SCHOOL CLOSURE $300,000
+33
+34 SECTION 22. APPROPRIATION - SAVE THE CHILDREN GRANT. There is hereby
+35 appropriated, to the Department of Education, to be payable from the Division
+36 of Elementary and Secondary Education Fund Account, for a grant for statewide
+14 03-31-2025 17:29:29 KMW005
+
+As Engrossed: S3/10/25 S3/31/25 SB93
+1 in-school, summer, and after school literacy, nutrition, home visiting, and
+2 early childhood programs to be administered by Save the Children for low
+3 income, at-risk children by the Department of Education - Division of
+4 Elementary and Secondary Education - Save the Children Grant for the fiscal
+5 year ending June 30, 2026, the following:
+6
+7 ITEM FISCAL YEAR
+8 NO. 2025-2026
+9 (01) SAVE THE CHILDREN GRANTS $500,000
+10
+11 SECTION 23. APPROPRIATION - SCHOOL SAFETY GRANTS. There is hereby
+12 appropriated, to the Department of Education, to be payable from the Division
+13 of Elementary and Secondary Education Fund Account, for School Safety Grants
+14 by the Department of Education - Division of Elementary and Secondary
+15 Education - School Safety Grants for the fiscal year ending June 30, 2026,
+16 the following:
+17
+18 ITEM FISCAL YEAR
+19 NO. 2025-2026
+20 (01) SCHOOL SAFETY GRANTS $50,000,000
+21
+22 SECTION 24. APPROPRIATION - EDUCATIONAL FREEDOM ACCOUNTS. There is
+23 hereby appropriated, to the Department of Education, to be payable from the
+24 Arkansas Children's Educational Freedom Account Fund, for Educational Freedom
+25 Accounts by the Department of Education - Division of Elementary and
+26 Secondary Education - Educational Freedom Accounts for the fiscal year ending
+27 June 30, 2026, the following:
+28
+29 ITEM FISCAL YEAR
+30 NO. 2025-2026
+31 (01) EDUCATIONAL FREEDOM ACCOUNTS $277,487,318
+32
+33 SECTION 25. APPROPRIATION - ASTHMA TRAINING AND TREATMENT PROGRAM GRANTS.
+34 There is hereby appropriated, to the Department of Education, to be payable
+35 from the cash fund deposited in the State Treasury as determined by the Chief
+36 Fiscal Officer of the State, for grants for expenses related to providing
+15 03-31-2025 17:29:29 KMW005
+
+As Engrossed: S3/10/25 S3/31/25 SB93
+1 asthma treatment in local school districts, asthma treatment equipment for
+2 school districts, school personnel training, and monitoring and tracking of
+3 asthma cases in local public school districts by the Department of Education
+4 - Division of Elementary and Secondary Education for the fiscal year ending
+5 June 30, 2026, the following:
+6
+7 ITEM FISCAL YEAR
+8 NO. 2025-2026
+9 (01) ASTHMA TRAINING AND TREATMENT PROGRAM GRANTS $1,000,000
+10
+11 SECTION 26. SPECIAL LANGUAGE. NOT TO BE INCORPORATED INTO THE ARKANSAS
+12 CODE NOR PUBLISHED SEPARATELY AS SPECIAL, LOCAL AND TEMPORARY LAW.
+13 CARRY FORWARD. Notwithstanding any law pertaining to the transfer of year-end
+14 fund balances or any law to the contrary, any funds which remain in the
+15 Division of Elementary and Secondary Education Fund Account at the end of a
+16 fiscal year shall remain in the Division of Elementary and Secondary
+17 Education Fund Account and be made available to fund appropriation(s)
+18 authorized by law and made payable from the Division of Elementary and
+19 Secondary Education Fund Account for the following fiscal year.
+20 Any carry forward of unexpended balance of funding as authorized
+21 herein, may be carried forward under the following conditions:
+22 (1) Prior to June 30, 2025 2026 the Agency shall by written statement
+23 set forth its reason(s) for the need to carry forward said funding to the
+24 Department of Finance and Administration Office of Budget;
+25 (2) The Department of Finance and Administration Office of Budget shall
+26 report to the Arkansas Legislative Council or Joint Budget Committee all
+27 amounts carried forward by the September Arkansas Legislative Council or
+28 Joint Budget Committee meeting which report shall include the name of the
+29 Agency, Board, Commission or Institution and the amount of the funding
+30 carried forward, the program name or line item, the funding source of that
+31 appropriation and a copy of the written request set forth in (1) above;
+32 (3) Each Agency, Board, Commission or Institution shall provide a
+33 written report to the Arkansas Legislative Council or Joint Budget Committee
+34 containing all information set forth in item (2) above, along with a written
+35 statement as to the current status of the project, contract, purpose etc. for
+36 which the carry forward was originally requested no later than thirty (30)
+16 03-31-2025 17:29:29 KMW005
+
+As Engrossed: S3/10/25 S3/31/25 SB93
+1 days prior to the time the Agency, Board, Commission or Institution presents
+2 its budget request to the Arkansas Legislative Council/Joint Budget
+3 Committee; and
+4 (4) Thereupon, the Department of Finance and Administration shall
+5 include all information obtained in item (3) above in the budget manuals
+6 and/or a statement of non-compliance by the Agency, Board, Commission or
+7 Institution.
+8 The provisions of this section shall be in effect only from July 1, 2024
+9 2025 through June 30, 2025 2026.
+10
+11 SECTION 27. SPECIAL LANGUAGE. NOT TO BE INCORPORATED INTO THE ARKANSAS
+12 CODE NOR PUBLISHED SEPARATELY AS SPECIAL, LOCAL, AND TEMPORARY LAW. SCHOOL
+13 SAFETY SET-ASIDE.
+14 (a) (1) The Department of Education shall not begin the process of
+15 promulgating rules for the distribution of funds in the School Safety Set-
+16 Aside or Contingency Vote 3/5 Set-Aside until authorized by Legislative
+17 Council.
+18 (2) The department shall not disburse any funds in the School Safety
+19 Set-Aside or Contingency Vote 3/5 Set-Aside until the rules have been
+20 approved by Legislative Council.
+21 (b) Notwithstanding other provisions of law, the Chief Fiscal Officer of
+22 the State may from time to time transfer on his or her books and those of the
+23 Treasurer of State and the Auditor of State funds from the Restricted Reserve
+24 Fund School Safety Set-Aside or Contingency Vote 3/5 Set-Aside after
+25 receiving prior approval of the greater of three-fifths (3/5) of the quorum
+26 present or a majority of the membership of the Legislative Council or, if the
+27 General Assembly is in session, the Joint Budget Committee, for the
+28 Department of Education to distribute funds for the School Safety Grant
+29 program, as approved in this section as set out in subsection (a) herein, or
+30 for the distribution of funds from this set-aside for unanticipated state
+31 needs.
+32 (c)(1) The General Assembly finds:
+33 (A) Determining the maximum amount of appropriation and funding for a
+34 state agency or institution each fiscal year is the prerogative of the
+35 General Assembly;
+36 (B) Determining the maximum amount of appropriation and funding for a
+17 03-31-2025 17:29:29 KMW005
+
+As Engrossed: S3/10/25 S3/31/25 SB93
+1 state agency or institution is usually accomplished by delineating the
+2 maximum amounts in the appropriation acts for the state agency or institution
+3 and in the general revenue allocations authorized for each relevant fund and
+4 fund account by amendment to the Revenue Stabilization Law, § 19-5-101 et
+5 seq.; and
+6 (C) The Restricted Reserve Fund has established procedures for the
+7 transfer of funds to various funds and fund accounts for the efficient and
+8 effective operation of state government.
+9 (2)(A) It is necessary and appropriate that the General Assembly
+10 maintain oversight by requiring prior approval of the Legislative Council or,
+11 if the General Assembly is in session, the Joint Budget Committee, as
+12 provided in § 19-5-1263(c).
+13 (B) The requirement of approval by the Legislative Council or, if the
+14 General Assembly is in session, the Joint Budget Committee, is not a
+15 severable part of § 19-5-1263.
+16 (C) If the requirement of approval by the Legislative Council or, if
+17 the General Assembly is in session, the Joint Budget Committee, is ruled
+18 unconstitutional by a court of competent jurisdiction, § 19-5-1263(c)-(e) are
+19 void in their entirety.
+20 (d) The provisions of this section shall be in effect only from July 1,
+21 2024 2025 through June 30, 2025 2026.
+22
+23 SECTION 28. SPECIAL LANGUAGE. NOT TO BE INCORPORATED INTO THE ARKANSAS
+24 CODE NOR PUBLISHED SEPARATELY AS SPECIAL, LOCAL AND TEMPORARY LAW.
+25 ESTABLISHMENT OF A "POSITION POOL". (a) To address needs emerging from
+26 statewide education issues and the necessity of recruiting and retaining
+27 qualified personnel, the Arkansas Department of Education or its successor
+28 agency is authorized for the 2024-2025 2025-2026 fiscal year a pool of no
+29 more than five (5) Information Technology positions at a salary not to exceed
+30 the maximum salary for a grade IT12. These positions are to be used by the
+31 Department of Education in the event that the personal services needs of the
+32 Department during the 2024-2025 2025-2026 fiscal year require additional
+33 positions, either by title or in number, that are not authorized by the
+34 General Assembly in the Regular Salaries section of this Act. These positions
+35 may also be used to properly classify positions when the Department does not
+36 have a vacant position available with the appropriate title and salary level.
+18 03-31-2025 17:29:29 KMW005
+
+As Engrossed: S3/10/25 S3/31/25 SB93
+1 (b) To address needs emerging from statewide education issues and the
+2 necessity of recruiting and retaining qualified personnel, the Arkansas
+3 Department of Education or its successor agency is authorized for the 2024-
+4 2025 2025-2026 fiscal year a pool of ten (10) General Salaries positions at
+5 up to a grade GS15. These positions are to be used by the Department of
+6 Education in the event that the personal services needs of the Department
+7 during the 2024-2025 2025-2026 fiscal year require additional positions,
+8 either by classification or in number, that are not authorized by the General
+9 Assembly in the Regular Salaries section of this Act. These positions may
+10 also be used to properly classify positions when the Department does not have
+11 a vacant position available with the appropriate title and grade level.
+12 (c) Any salary determinations or adjustments administered under the
+13 provisions of Subsections (a) and (b) of this Section shall be made by
+14 comparing the qualifications and salary levels of similar employees in school
+15 districts or in other state education agencies.
+16 (d) The Department of Education is authorized to access the pool
+17 positions authorized in this Section at any time when it is determined by the
+18 Secretary that the need exists. The Secretary shall provide a monthly report
+19 of the justification for the need to allocate titles from this growth pool to
+20 the Chief Fiscal Officer of the State and to the Arkansas Legislative Council
+21 or Joint Budget Committee for review. The report shall also include an
+22 accounting of the names, titles, and salaries of personnel whose salaries
+23 have been adjusted under provisions of Subsections (a) and (b) of this
+24 Section.
+25 (e) If the Department of Education requests continuation of any
+26 "Position Pool" position(s) as established herein during the next fiscal
+27 year, the position(s) must be requested as a new position(s) in the agency’s
+28 budget request.
+29 (f) Determining the number of personnel to be employed by a state agency
+30 is the prerogative of the General Assembly and is usually accomplished by
+31 delineating the maximum number of personnel by identifying job titles and the
+32 maximum grade or salary attached to those titles. The General Assembly has
+33 determined that the Arkansas Department of Education could be operated more
+34 efficiently if some flexibility is given to that agency. That flexibility is
+35 being accomplished by providing a position pool in Subsections (a) and (b) of
+36 this Section and since the General Assembly has granted the agency broad
+19 03-31-2025 17:29:29 KMW005
+
+As Engrossed: S3/10/25 S3/31/25 SB93
+1 powers under the growth pool concept, it is both necessary and appropriate
+2 that the General Assembly maintain oversight of the utilization of the
+3 position pool by requiring review of the Legislative Council or Joint Budget
+4 Committee in the utilization of the position pool. Therefore, the requirement
+5 of review by the Legislative Council or Joint Budget Committee is not a
+6 severable part of this section. If the requirement of review by the
+7 Legislative Council or Joint Budget Committee is ruled unconstitutional by a
+8 court of competent jurisdiction, this entire section is void.
+9 The provisions of this section shall be in effect only from July 1, 2024
+10 2025 through June 30, 2025 2026.
+11
+12 SECTION 29. SPECIAL LANGUAGE. NOT TO BE INCORPORATED INTO THE ARKANSAS
+13 CODE NOR PUBLISHED SEPARATELY AS SPECIAL, LOCAL AND TEMPORARY LAW.
+14 SHARED SERVICES. (a)(1) The Chief Fiscal Officer of the State may create a
+15 Shared Services paying accounts on his or her books and on the books of the
+16 Treasurer of State and the Auditor of State for the payment of personal
+17 services and operating expenses in the Shared Services Paying Account
+18 Appropriation by the Department of Education.
+19 (2) The Chief Fiscal Officer of the State shall direct the transfer
+20 of funds and appropriations to the Shared Services Paying Account
+21 appropriation section of this act on the books of the Treasurer of State, the
+22 Auditor of State, and the Chief Fiscal Officer of the State.
+23 (3) The transfer authority provided to the department in
+24 subdivision (a)(2) of this section may be used to make transfers only within
+25 the department's appropriation act or between other appropriation acts
+26 authorized for the department.
+27 (4) The provisions of this section shall be in effect from the
+28 date of passage through June 30, 2025 2026.
+29
+30 SECTION 30. COMPLIANCE WITH OTHER LAWS. Disbursement of funds
+31 authorized by this act shall be limited to the appropriation for such agency
+32 and funds made available by law for the support of such appropriations; and
+33 the restrictions of the State Procurement Law, the General Accounting and
+34 Budgetary Procedures Law, the Revenue Stabilization Law, the Regular Salary
+35 Procedures and Restrictions Act, or their successors, and other fiscal
+36 control laws of this State, where applicable, and regulations promulgated by
+20 03-31-2025 17:29:29 KMW005
+
+As Engrossed: S3/10/25 S3/31/25 SB93
+1 the Department of Finance and Administration, as authorized by law, shall be
+2 strictly complied with in disbursement of said funds.
+3
+4 SECTION 31. LEGISLATIVE INTENT. It is the intent of the General
+5 Assembly that any funds disbursed under the authority of the appropriations
+6 contained in this act shall be in compliance with the stated reasons for
+7 which this act was adopted, as evidenced by the Agency Requests, Executive
+8 Recommendations and Legislative Recommendations contained in the budget
+9 manuals prepared by the Department of Finance and Administration, letters, or
+10 summarized oral testimony in the official minutes of the Arkansas Legislative
+11 Council or Joint Budget Committee which relate to its passage and adoption.
+12
+13 SECTION 32. EMERGENCY CLAUSE. It is found and determined by the
+14 General Assembly, that the Constitution of the State of Arkansas prohibits
+15 the appropriation of funds for more than a one (1) year period; that the
+16 effectiveness of this Act on July 1, 2025 is essential to the operation of
+17 the agency for which the appropriations in this Act are provided, and that in
+18 the event of an extension of the legislative session, the delay in the
+19 effective date of this Act beyond July 1, 2025 could work irreparable harm
+20 upon the proper administration and provision of essential governmental
+21 programs. Therefore, an emergency is hereby declared to exist and this Act
+22 being necessary for the immediate preservation of the public peace, health
+23 and safety shall be in full force and effect from and after July 1, 2025.
+24
+25 /s/Joint Budget Committee
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+21 03-31-2025 17:29:29 KMW005
+
+[DELETED:  A      A A E A   A A Y    B   S e 2                     ]
+[DELETED:  S2 0                                                                        ]
+[DELETED:  S3 0                                               S h A t a e U f   S h p p]
+[DELETED:  S4 0 S  I   ( ( ( (           (     S e S f                               ]
+[DELETED:  S5 0                                                                        ]
+[DELETED:  S6 0                                                       S f E m H t t s ]
+[DELETED:  S7 0  S a o o a 3  I   ( ( ( (               S h f p D A  I   ( ( (        ]
+[DELETED:  S8 0       S a E D B  I   (               S i t o E C  I   ( ( (          ]
+[DELETED:  S9 0 ( (       S a f s E P  I   ( ( (           ( (     S T E E p f e U f ]
+[DELETED:  S1 0  S T f S t - 3  I   ( ( ( (           ( (     S h c O E A  I   (      ]
+[DELETED:  S1 0     (     S h c O D M f  I   ( (     S i t F D A t  I   (           (]
+[DELETED:  S1 0     S t t f E t  I   (               S T f F a D M 2  I   (   S A E E]
+[DELETED:  S1 0 D A J  I   ( ( (               S T E f e                            ]
+[DELETED:  S1 0  S T f F g E J  I   ( ( (           (     S C p t b E C  I   (   S a o]
+[DELETED:  S1 0 i e i E y  I   (   S a o b E t  I   (   S h A A S J  I   (  S T f F]
+[DELETED:  S1 0 a s a - J  I   (   S C C f D f E a S   h   s D   r a J A c a   w c s w]
+[DELETED:  S1 0 d i C   i a I   2    C S   p A C  ( S a   t T F r p G D p f n     s G  ]
+[DELETED:  S1 0 s m a f s   t e   m i p   G s   t u v   2   S C E s q a m t D D p G m h]
+[DELETED:  S1 0   n D 2 u E d e A a a   p c d   p S o t o a h S   " y b   i d m d e b t]
+[DELETED:  S2 0 p t p C o s L c   2   S C S S T s A   o a A   s t a   d   S a a t B P c]
+[DELETED:  S2 0 t s   S A c w R m s C   S G t e t t e u p b a  /           ]

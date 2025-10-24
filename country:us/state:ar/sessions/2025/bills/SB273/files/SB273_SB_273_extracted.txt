@@ -1,0 +1,101 @@
+Title: Stricken language would be deleted from and underlined language would be added to present law.
+Official Title: Stricken language would be deleted from and underlined language would be added to present law.
+Number of Sections: 1
+Source: versions - SB 273
+Media Type: application/pdf
+Strikethrough Detection: 1 sections found
+
+================================================================================
+
+Section 1:
+1 State of Arkansas
+A Bill
+2 95th General Assembly
+3 Regular Session, 2025 SENATE BILL 273
+4
+5 By: Senator D. Wallace
+6 By: Representative Rye
+7
+For An Act To Be Entitled
+8
+9 AN ACT TO REQUIRE DIALYSIS CENTERS TO HAVE A BACKUP
+10 GENERATOR ON SITE; AND FOR OTHER PURPOSES.
+11
+12
+Subtitle
+13
+14 TO REQUIRE DIALYSIS CENTERS TO HAVE A
+15 BACKUP GENERATOR ON SITE.
+16
+17 BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF ARKANSAS:
+18
+19 SECTION 1. Arkansas Code Title 20, Chapter 9, Subchapter 1, is amended
+20 to add an additional section to read as follows:
+21 20-9-106. Dialysis centers — Generators required.
+22 (a) As used in this section, "dialysis center" means a healthcare
+23 facility that furnishes outpatient dialysis services directly to patients
+24 with renal disease.
+25 (b) A dialysis center operating in this state shall have at least one
+26 (1) backup generator on site.
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+*JMB190*
+02/24/2025 10:08:55 AM JMB190
+[DELETED:          A G   T B  B   S t  2  ( f w  ( (]
+
+
+================================================================================
+
+Raw Text:
+Stricken language would be deleted from and underlined language would be added to present law.
+1 State of Arkansas
+A Bill
+2 95th General Assembly
+3 Regular Session, 2025 SENATE BILL 273
+4
+5 By: Senator D. Wallace
+6 By: Representative Rye
+7
+For An Act To Be Entitled
+8
+9 AN ACT TO REQUIRE DIALYSIS CENTERS TO HAVE A BACKUP
+10 GENERATOR ON SITE; AND FOR OTHER PURPOSES.
+11
+12
+Subtitle
+13
+14 TO REQUIRE DIALYSIS CENTERS TO HAVE A
+15 BACKUP GENERATOR ON SITE.
+16
+17 BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF ARKANSAS:
+18
+19 SECTION 1. Arkansas Code Title 20, Chapter 9, Subchapter 1, is amended
+20 to add an additional section to read as follows:
+21 20-9-106. Dialysis centers — Generators required.
+22 (a) As used in this section, "dialysis center" means a healthcare
+23 facility that furnishes outpatient dialysis services directly to patients
+24 with renal disease.
+25 (b) A dialysis center operating in this state shall have at least one
+26 (1) backup generator on site.
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+*JMB190*
+02/24/2025 10:08:55 AM JMB190
+
+[DELETED:          A G   T B  B   S t  2  ( f w  ( (]

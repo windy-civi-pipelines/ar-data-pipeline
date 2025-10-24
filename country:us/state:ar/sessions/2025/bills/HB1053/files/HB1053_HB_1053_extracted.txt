@@ -1,0 +1,180 @@
+Title: Stricken language would be deleted from and underlined language would be added to present law.
+Official Title: Stricken language would be deleted from and underlined language would be added to present law.
+Number of Sections: 1
+Source: versions - HB 1053
+Media Type: application/pdf
+Strikethrough Detection: 2 sections found
+
+================================================================================
+
+Section 1:
+1 State of Arkansas
+A Bill
+2 95th General Assembly
+3 Regular Session, 2025 HOUSE BILL 1053
+4
+5 By: Representative Pilkington
+6 By: Senator Irvin
+7
+For An Act To Be Entitled
+8
+9 AN ACT TO REQUIRE REIMBURSEMENT FOR REMOTE ULTRASOUND
+10 PROCEDURES AND REMOTE FETAL NONSTRESS TESTS IN THE
+11 ARKANSAS MEDICAID PROGRAM; AND FOR OTHER PURPOSES.
+12
+13
+Subtitle
+14
+15 TO REQUIRE REIMBURSEMENT FOR REMOTE
+16 ULTRASOUND PROCEDURES AND REMOTE FETAL
+17 NONSTRESS TESTS IN THE ARKANSAS MEDICAID
+18 PROGRAM.
+19
+20 BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF ARKANSAS:
+21
+22 SECTION 1. Arkansas Code Title 20, Chapter 77, Subchapter 1, is
+23 amended to add an additional section to read as follows:
+24 20-77-153. Reimbursement for remote ultrasound procedures and remote
+25 fetal nonstress tests.
+26 (a)(1) The Arkansas Medicaid Program shall reimburse for remote
+27 ultrasound procedures and remote fetal nonstress tests utilizing established
+28 Current Procedural Terminology codes for remote ultrasound procedures and
+29 fetal nonstress tests when the patient is in a residence or other off-site
+30 location from the healthcare provider of the patient and the same standard of
+31 care is met.
+32 (2) Subdivision (a)(1) of this section shall apply to the fee-
+33 for-service categories of the program and any managed care plan within the
+34 program.
+35 (b) A remote ultrasound and remote fetal nonstress test shall be
+36 reimbursable when the healthcare provider uses digital technology that:
+*JMB078*
+11/25/2024 12:40:46 PM JMB078
+HB1053
+1 (1) Collects medical and other forms of health data from a
+2 patient and electronically transmits the information securely to a healthcare
+3 provider in a different location for interpretation and recommendation;
+4 (2) Is compliant with the Health Insurance Portability and
+5 Accountability Act of 1996, 42 U.S.C. § 1320d et seq., as it existed on
+6 January 1, 2025; and
+7 (3) Is approved by the United States Food and Drug
+8 Administration.
+9 (c) A remote fetal nonstress test shall be reimbursed under a Current
+10 Procedural Terminology code 5905 in the same manner as an in-person clinic
+11 fetal nonstress test with the place of service at home and shall use remote
+12 monitoring solutions that are approved by the United States Food and Drug
+13 Administration for on-label use for monitoring fetal heart rate, maternal
+14 heart rate, and uterine activity.
+15 (d) The Department of Human Services shall:
+16 (1) Apply for any federal waiver, Medicaid state plan
+17 amendments, or other authority necessary to implement this section; and
+18 (2) Adopt rules to implement this section.
+19
+20 SECTION 2. DO NOT CODIFY. Rules.
+21 (a) When adopting the initial rules required under this act, the
+22 Department of Human Services shall file the final rules with the Secretary of
+23 State for adoption under § 25-15-204(f):
+24 (1) On or before January 1, 2026; or
+25 (2) If approval under § 10-3-309 has not occurred by January 1,
+26 2026, as soon as practicable after approval under § 10-3-309.
+27 (b) The department shall file the proposed rules with the Legislative
+28 Council under § 10-3-309(c) sufficiently in advance of January 1, 2026, so
+29 that the Legislative Council may consider the rules for approval before
+30 January 1, 2026.
+31
+32
+33
+34
+35
+36
+2 11/25/2024 12:40:46 PM JMB078
+[DELETED:          A P A   T U N P  B   S a  2 f  ( u C f l c   ( f p  ( r]
+[DELETED: H2 1   ( p p   ( A J   ( A  ( P f m A h  (   ( a   (   S  ( D S   (   ( 2  ( C t J      ]
+
+
+================================================================================
+
+Raw Text:
+Stricken language would be deleted from and underlined language would be added to present law.
+1 State of Arkansas
+A Bill
+2 95th General Assembly
+3 Regular Session, 2025 HOUSE BILL 1053
+4
+5 By: Representative Pilkington
+6 By: Senator Irvin
+7
+For An Act To Be Entitled
+8
+9 AN ACT TO REQUIRE REIMBURSEMENT FOR REMOTE ULTRASOUND
+10 PROCEDURES AND REMOTE FETAL NONSTRESS TESTS IN THE
+11 ARKANSAS MEDICAID PROGRAM; AND FOR OTHER PURPOSES.
+12
+13
+Subtitle
+14
+15 TO REQUIRE REIMBURSEMENT FOR REMOTE
+16 ULTRASOUND PROCEDURES AND REMOTE FETAL
+17 NONSTRESS TESTS IN THE ARKANSAS MEDICAID
+18 PROGRAM.
+19
+20 BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF ARKANSAS:
+21
+22 SECTION 1. Arkansas Code Title 20, Chapter 77, Subchapter 1, is
+23 amended to add an additional section to read as follows:
+24 20-77-153. Reimbursement for remote ultrasound procedures and remote
+25 fetal nonstress tests.
+26 (a)(1) The Arkansas Medicaid Program shall reimburse for remote
+27 ultrasound procedures and remote fetal nonstress tests utilizing established
+28 Current Procedural Terminology codes for remote ultrasound procedures and
+29 fetal nonstress tests when the patient is in a residence or other off-site
+30 location from the healthcare provider of the patient and the same standard of
+31 care is met.
+32 (2) Subdivision (a)(1) of this section shall apply to the fee-
+33 for-service categories of the program and any managed care plan within the
+34 program.
+35 (b) A remote ultrasound and remote fetal nonstress test shall be
+36 reimbursable when the healthcare provider uses digital technology that:
+*JMB078*
+11/25/2024 12:40:46 PM JMB078
+
+HB1053
+1 (1) Collects medical and other forms of health data from a
+2 patient and electronically transmits the information securely to a healthcare
+3 provider in a different location for interpretation and recommendation;
+4 (2) Is compliant with the Health Insurance Portability and
+5 Accountability Act of 1996, 42 U.S.C. § 1320d et seq., as it existed on
+6 January 1, 2025; and
+7 (3) Is approved by the United States Food and Drug
+8 Administration.
+9 (c) A remote fetal nonstress test shall be reimbursed under a Current
+10 Procedural Terminology code 5905 in the same manner as an in-person clinic
+11 fetal nonstress test with the place of service at home and shall use remote
+12 monitoring solutions that are approved by the United States Food and Drug
+13 Administration for on-label use for monitoring fetal heart rate, maternal
+14 heart rate, and uterine activity.
+15 (d) The Department of Human Services shall:
+16 (1) Apply for any federal waiver, Medicaid state plan
+17 amendments, or other authority necessary to implement this section; and
+18 (2) Adopt rules to implement this section.
+19
+20 SECTION 2. DO NOT CODIFY. Rules.
+21 (a) When adopting the initial rules required under this act, the
+22 Department of Human Services shall file the final rules with the Secretary of
+23 State for adoption under § 25-15-204(f):
+24 (1) On or before January 1, 2026; or
+25 (2) If approval under § 10-3-309 has not occurred by January 1,
+26 2026, as soon as practicable after approval under § 10-3-309.
+27 (b) The department shall file the proposed rules with the Legislative
+28 Council under § 10-3-309(c) sufficiently in advance of January 1, 2026, so
+29 that the Legislative Council may consider the rules for approval before
+30 January 1, 2026.
+31
+32
+33
+34
+35
+36
+2 11/25/2024 12:40:46 PM JMB078
+
+[DELETED:          A P A   T U N P  B   S a  2 f  ( u C f l c   ( f p  ( r]
+[DELETED: H2 1   ( p p   ( A J   ( A  ( P f m A h  (   ( a   (   S  ( D S   (   ( 2  ( C t J      ]

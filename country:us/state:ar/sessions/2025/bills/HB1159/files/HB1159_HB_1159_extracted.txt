@@ -1,0 +1,259 @@
+Title: Stricken language would be deleted from and underlined language would be added to present law.
+Official Title: Stricken language would be deleted from and underlined language would be added to present law.
+Number of Sections: 1
+Source: versions - HB 1159
+Media Type: application/pdf
+Strikethrough Detection: 3 sections found
+
+================================================================================
+
+Section 1:
+1 State of Arkansas
+A Bill
+2 95th General Assembly
+3 Regular Session, 2025 HOUSE BILL 1159
+4
+5 By: Representative J. Richardson
+6
+7
+For An Act To Be Entitled
+8
+9 AN ACT TO CREATE THE RETAIL CONVENIENCE STORE
+10 SECURITY ACT; TO REGULATE SECURITY MEASURES AT RETAIL
+11 CONVENIENCE STORES; AND FOR OTHER PURPOSES.
+12
+13
+Subtitle
+14
+15 TO CREATE THE RETAIL CONVENIENCE STORE
+16 SECURITY ACT; AND TO REGULATE SECURITY
+17 MEASURES AT RETAIL CONVENIENCE STORES.
+18
+19 BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF ARKANSAS:
+20
+21 SECTION 1. Arkansas Code Title 4 is amended to add an additional
+22 chapter to read as follows:
+23
+24 CHAPTER 120
+25 RETAIL CONVENIENCE STORE SECURITY ACT
+26
+27 4-120-101. Title.
+28 This chapter shall be known and may be cited as the "Retail Convenience
+29 Store Security Act".
+30
+31 4-120-102. Legislative findings.
+32 The General Assembly finds that:
+33 (1) Retail convenience stores are convenient for both criminals
+34 and consumers alike;
+35 (2) Retail convenience stores have long been targets for
+36 nighttime robberies and other crimes;
+*ANS077*
+01/15/2025 1:04:49 PM ANS077
+HB1159
+1 (3) It has been estimated by law enforcement officials that six
+2 percent (6%) of all robberies of businesses in the United States involve
+3 retail convenience stores;
+4 (4) Employees in the retail trade sector are at a higher risk of
+5 violence and homicide than in other industry sectors, and within the retail
+6 sector, employees in gasoline stations or retail convenience stores are at a
+7 higher risk of violence and homicide compared with employees in other types
+8 of retail and the overall workforce;
+9 (5) According to 2021 Federal Bureau of Investigation crime
+10 data, there were over twenty-two thousand seven hundred eighty-eight (22,788)
+11 incidents of violent crime that occurred at retail convenience stores in the
+12 United States, double the incidence of violent crime that occurred at retail
+13 convenience stores in 2017, and represented three percent (3%) of the
+14 nation's total violent crime statistics for 2021;
+15 (6) The increase in nighttime robberies and other crimes at
+16 retail convenience stores heightens the risk of danger, exposure to violent
+17 incidents, and crime to consumers and employees;
+18 (7) Some states have mandated certain minimum security measures
+19 at retail convenience stores to enhance and protect customers and employees
+20 of convenience stores during the nighttime hours, including Florida, Maine,
+21 and New Mexico; and
+22 (8) Increased security measures can decrease the amount of
+23 retail convenience store crimes.
+24
+25 4-120-103. Minimum increased security measures — Retail convenience
+26 store — Definition.
+27 (a) As used in this section, "retail convenience store" means a
+28 location used by an entity to conduct retail sales of miscellaneous consumer
+29 convenience goods to the public.
+30 (b) On and after January 1, 2026, a retail convenience store shall:
+31 (1) Require a minimum of two (2) employees on the premises of
+32 the retail convenience store between the hours of 9:00 p.m. and 6:00 a.m.;
+33 (2) Require a security camera system capable of recording and
+34 retrieving images to assist in offender identification and apprehension;
+35 (3) Have a drop safe or cash management device for restricted
+36 access to cash receipts and post a conspicuous notice to this effect at the
+2 01/15/2025 1:04:49 PM ANS077
+HB1159
+1 retail convenience store;
+2 (4) Maintain a lighted parking lot illuminated at an intensity
+3 of at least two foot-candle (2 lm/sq. ft.) at eighteen inches (18") above the
+4 parking lot's surface;
+5 (5) Post a conspicuous notice at the entrance of the retail
+6 convenience store that states that the cash register contains fifty dollars
+7 ($50) or less;
+8 (6) Maintain window signage that allows a clear and unobstructed
+9 view from outside the building and in a normal line of sight of the cash
+10 register and sales transaction area;
+11 (7) Install height markers at the entrance of the retail
+12 convenience store that displays height measures to aid in offender
+13 identification;
+14 (8) Develop a cash management policy to limit the amount of cash
+15 on hand at all times after 9:00 p.m.;
+16 (9) Conduct regular employee training;
+17 (10) Maintain a silent alarm to law enforcement or a private
+18 security agency; and
+19 (11) Lock the business premises throughout the hours of 9:00
+20 p.m. and 6:00 a.m. and only transact business through an indirect pass-
+21 through trough, trapdoor, or window.
+22
+23 4-120-104. Penalty.
+24 A violation of this chapter is punishable by action of the Attorney
+25 General under the provisions of § 4-88-101 et seq.
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+3 01/15/2025 1:04:49 PM ANS077
+[DELETED:       A S C  T S M  B   S c  C R   4  T S   4  T   ( a   ( n]
+[DELETED: H2 0   ( p r   ( v s h o   ( d i U c n   ( r i   ( a o a   ( r   4 s  ( l c  (   ( t   ( r   ( a]
+[DELETED: H3 0 r   ( o p   ( c (   ( v r   ( c i   ( o   (   ( s   ( p t   4  A G]
+
+
+================================================================================
+
+Raw Text:
+Stricken language would be deleted from and underlined language would be added to present law.
+1 State of Arkansas
+A Bill
+2 95th General Assembly
+3 Regular Session, 2025 HOUSE BILL 1159
+4
+5 By: Representative J. Richardson
+6
+7
+For An Act To Be Entitled
+8
+9 AN ACT TO CREATE THE RETAIL CONVENIENCE STORE
+10 SECURITY ACT; TO REGULATE SECURITY MEASURES AT RETAIL
+11 CONVENIENCE STORES; AND FOR OTHER PURPOSES.
+12
+13
+Subtitle
+14
+15 TO CREATE THE RETAIL CONVENIENCE STORE
+16 SECURITY ACT; AND TO REGULATE SECURITY
+17 MEASURES AT RETAIL CONVENIENCE STORES.
+18
+19 BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF ARKANSAS:
+20
+21 SECTION 1. Arkansas Code Title 4 is amended to add an additional
+22 chapter to read as follows:
+23
+24 CHAPTER 120
+25 RETAIL CONVENIENCE STORE SECURITY ACT
+26
+27 4-120-101. Title.
+28 This chapter shall be known and may be cited as the "Retail Convenience
+29 Store Security Act".
+30
+31 4-120-102. Legislative findings.
+32 The General Assembly finds that:
+33 (1) Retail convenience stores are convenient for both criminals
+34 and consumers alike;
+35 (2) Retail convenience stores have long been targets for
+36 nighttime robberies and other crimes;
+*ANS077*
+01/15/2025 1:04:49 PM ANS077
+
+HB1159
+1 (3) It has been estimated by law enforcement officials that six
+2 percent (6%) of all robberies of businesses in the United States involve
+3 retail convenience stores;
+4 (4) Employees in the retail trade sector are at a higher risk of
+5 violence and homicide than in other industry sectors, and within the retail
+6 sector, employees in gasoline stations or retail convenience stores are at a
+7 higher risk of violence and homicide compared with employees in other types
+8 of retail and the overall workforce;
+9 (5) According to 2021 Federal Bureau of Investigation crime
+10 data, there were over twenty-two thousand seven hundred eighty-eight (22,788)
+11 incidents of violent crime that occurred at retail convenience stores in the
+12 United States, double the incidence of violent crime that occurred at retail
+13 convenience stores in 2017, and represented three percent (3%) of the
+14 nation's total violent crime statistics for 2021;
+15 (6) The increase in nighttime robberies and other crimes at
+16 retail convenience stores heightens the risk of danger, exposure to violent
+17 incidents, and crime to consumers and employees;
+18 (7) Some states have mandated certain minimum security measures
+19 at retail convenience stores to enhance and protect customers and employees
+20 of convenience stores during the nighttime hours, including Florida, Maine,
+21 and New Mexico; and
+22 (8) Increased security measures can decrease the amount of
+23 retail convenience store crimes.
+24
+25 4-120-103. Minimum increased security measures — Retail convenience
+26 store — Definition.
+27 (a) As used in this section, "retail convenience store" means a
+28 location used by an entity to conduct retail sales of miscellaneous consumer
+29 convenience goods to the public.
+30 (b) On and after January 1, 2026, a retail convenience store shall:
+31 (1) Require a minimum of two (2) employees on the premises of
+32 the retail convenience store between the hours of 9:00 p.m. and 6:00 a.m.;
+33 (2) Require a security camera system capable of recording and
+34 retrieving images to assist in offender identification and apprehension;
+35 (3) Have a drop safe or cash management device for restricted
+36 access to cash receipts and post a conspicuous notice to this effect at the
+2 01/15/2025 1:04:49 PM ANS077
+
+HB1159
+1 retail convenience store;
+2 (4) Maintain a lighted parking lot illuminated at an intensity
+3 of at least two foot-candle (2 lm/sq. ft.) at eighteen inches (18") above the
+4 parking lot's surface;
+5 (5) Post a conspicuous notice at the entrance of the retail
+6 convenience store that states that the cash register contains fifty dollars
+7 ($50) or less;
+8 (6) Maintain window signage that allows a clear and unobstructed
+9 view from outside the building and in a normal line of sight of the cash
+10 register and sales transaction area;
+11 (7) Install height markers at the entrance of the retail
+12 convenience store that displays height measures to aid in offender
+13 identification;
+14 (8) Develop a cash management policy to limit the amount of cash
+15 on hand at all times after 9:00 p.m.;
+16 (9) Conduct regular employee training;
+17 (10) Maintain a silent alarm to law enforcement or a private
+18 security agency; and
+19 (11) Lock the business premises throughout the hours of 9:00
+20 p.m. and 6:00 a.m. and only transact business through an indirect pass-
+21 through trough, trapdoor, or window.
+22
+23 4-120-104. Penalty.
+24 A violation of this chapter is punishable by action of the Attorney
+25 General under the provisions of § 4-88-101 et seq.
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+3 01/15/2025 1:04:49 PM ANS077
+
+[DELETED:       A S C  T S M  B   S c  C R   4  T S   4  T   ( a   ( n]
+[DELETED: H2 0   ( p r   ( v s h o   ( d i U c n   ( r i   ( a o a   ( r   4 s  ( l c  (   ( t   ( r   ( a]
+[DELETED: H3 0 r   ( o p   ( c (   ( v r   ( c i   ( o   (   ( s   ( p t   4  A G]

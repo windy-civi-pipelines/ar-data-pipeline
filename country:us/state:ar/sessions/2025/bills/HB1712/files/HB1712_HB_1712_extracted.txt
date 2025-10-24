@@ -1,0 +1,2392 @@
+Title: Stricken language would be deleted from and underlined language would be added to present law.
+Official Title: Stricken language would be deleted from and underlined language would be added to present law.
+Number of Sections: 1
+Source: versions - HB 1712
+Media Type: application/pdf
+Strikethrough Detection: 30 sections found
+
+================================================================================
+
+Section 1:
+1 State of Arkansas
+A Bill
+2 95th General Assembly
+3 Regular Session, 2025 HOUSE BILL 1712
+4
+5 By: Representative Joey Carr
+6 By: Senator J. Scott
+7
+For An Act To Be Entitled
+8
+9 AN ACT TO ESTABLISH THE SOCIAL WORK LICENSURE COMPACT
+10 IN THIS STATE; AND FOR OTHER PURPOSES.
+11
+12
+Subtitle
+13
+14 TO ESTABLISH THE SOCIAL WORK LICENSURE
+15 COMPACT IN THIS STATE.
+16
+17 BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF ARKANSAS:
+18
+19 SECTION 1. Arkansas Code Title 17, Chapter 103, is amended to add an
+20 additional subchapter to read as follows:
+21 Subchapter 4 — Social Work Licensure Compact
+22
+23 17-103-401. Text of compact.
+24 The Social Work Licensure Compact is enacted into law and entered into
+25 by this state with all states legally joining therein and in the form
+26 substantially as follows:
+27
+28 SOCIAL WORK LICENSURE COMPACT
+29
+30 SECTION 1: PURPOSE
+31 The purpose of this Compact is to facilitate interstate practice of
+32 Regulated Social Workers by improving public access to competent Social Work
+33 Services. The Compact preserves the regulatory authority of States to protect
+34 public health and safety through the current system of State licensure.
+35 This Compact is designed to achieve the following objectives:
+36 A. Increase public access to Social Work Services;
+*JMB393*
+03/07/2025 3:25:10 PM JMB393
+HB1712
+1 B. Reduce overly burdensome and duplicative requirements associated
+2 with holding multiple licenses;
+3 C. Enhance the Member States’ ability to protect the public’s health
+4 and safety;
+5 D. Encourage the cooperation of Member States in regulating multistate
+6 practice;
+7 E. Promote mobility and address workforce shortages by eliminating the
+8 necessity for licenses in multiple States by providing for the mutual
+9 recognition of other Member State licenses;
+10 F. Support military families;
+11 G. Facilitate the exchange of licensure and disciplinary information
+12 among Member States;
+13 H. Authorize all Member States to hold a Regulated Social Worker
+14 accountable for abiding by a Member State’s laws, regulations, and applicable
+15 professional standards in the Member State in which the client is located at
+16 the time care is rendered; and
+17 I. Allow for the use of telehealth to facilitate increased access to
+18 regulated Social Work Services.
+19
+20 SECTION 2. DEFINITIONS
+21 As used in this Compact, and except as otherwise provided, the
+22 following definitions shall apply:
+23 A. “Active Military Member” means any individual with full-time duty
+24 status in the active armed forces of the United States including members of
+25 the National Guard and Reserve.
+26 B. “Adverse Action” means any administrative, civil, equitable or
+27 criminal action permitted by a State’s laws which is imposed by a Licensing
+28 Authority or other authority against a Regulated Social Worker, including
+29 actions against an individual’s license or Multistate Authorization to
+30 Practice such as revocation, suspension, probation, monitoring of the
+31 Licensee, limitation on the Licensee’s practice, or any other Encumbrance on
+32 licensure affecting a Regulated Social Worker’s authorization to practice,
+33 including issuance of a cease and desist action.
+34 C. “Alternative Program” means a non-disciplinary monitoring or
+35 practice remediation process approved by a Licensing Authority to address
+36 practitioners with an Impairment.
+2 03/07/2025 3:25:10 PM JMB393
+HB1712
+1 D. “Charter Member States” - Member States who have enacted
+2 legislation to adopt this Compact where such legislation predates the
+3 effective date of this Compact as described in Section 14.
+4 E. “Compact Commission” or “Commission” means the government agency
+5 whose membership consists of all States that have enacted this Compact, which
+6 is known as the Social Work Licensure Compact Commission, as described in
+7 Section 10, and which shall operate as an instrumentality of the Member
+8 States.
+9 F. “Current Significant Investigative Information” means:
+10 1. Investigative information that a Licensing Authority, after a
+11 preliminary inquiry that includes notification and an opportunity for the
+12 Regulated Social Worker to respond has reason to believe is not groundless
+13 and, if proved true, would indicate more than a minor infraction as may be
+14 defined by the Commission; or
+15 2. Investigative information that indicates that the Regulated
+16 Social Worker represents an immediate threat to public health and safety, as
+17 may be defined by the Commission, regardless of whether the Regulated Social
+18 Worker has been notified and has had an opportunity to respond.
+19 G. “Data System” means a repository of information about Licensees,
+20 including, continuing education, examination, licensure, Current Significant
+21 Investigative Information, Disqualifying Event, Multistate License(s) and
+22 Adverse Action information or other information as required by the
+23 Commission.
+24 H. “Disqualifying Event” means any Adverse Action or incident which
+25 results in an Encumbrance that disqualifies or makes the Licensee ineligible
+26 to either obtain, retain or renew a Multistate License.
+27 I. “Domicile” means the jurisdiction in which the Licensee resides and
+28 intends to remain indefinitely.
+29 J. “Encumbrance” means a revocation or suspension of, or any
+30 limitation on, the full and unrestricted practice of Social Work licensed and
+31 regulated by a Licensing Authority.
+32 K. “Executive Committee” means a group of delegates elected or
+33 appointed to act on behalf of, and within the powers granted to them by, the
+34 compact and Commission.
+35 L. “Home State” means the Member State that is the Licensee’s primary
+36 Domicile.
+3 03/07/2025 3:25:10 PM JMB393
+HB1712
+1 M. “Impairment” means a condition(s) that may impair a practitioner’s
+2 ability to engage in full and unrestricted practice as a Regulated Social
+3 Worker without some type of intervention and may include alcohol and drug
+4 dependence, mental health impairment, and neurological or physical
+5 impairments.
+6 N. “Licensee(s)” means an individual who currently holds a license
+7 from a State to practice as a Regulated Social Worker.
+8 O. “Licensing Authority” means the board or agency of a Member State,
+9 or equivalent, that is responsible for the licensing and regulation of
+10 Regulated Social Workers.
+11 P. “Member State” means a state, commonwealth, district, or territory
+12 of the United States of America that has enacted this Compact.
+13 Q. “Multistate Authorization to Practice” means a legally authorized
+14 privilege to practice, which is equivalent to a license, associated with a
+15 Multistate License permitting the practice of Social Work in a Remote State.
+16 R. “Multistate License” means a license to practice as a Regulated
+17 Social Worker issued by a Home State Licensing Authority that authorizes the
+18 Regulated Social Worker to practice in all Member States under Multistate
+19 Authorization to Practice.
+20 S. “Qualifying National Exam” means a national licensing examination
+21 approved by the Commission.
+22 T. “Regulated Social Worker” means any clinical, master’s or
+23 bachelor’s Social Worker licensed by a Member State regardless of the title
+24 used by that Member State.
+25 U. “Remote State” means a Member State other than the Licensee’s Home
+26 State.
+27 V. “Rule(s)” or “Rule(s) of the Commission” means a regulation or
+28 regulations duly promulgated by the Commission, as authorized by the Compact,
+29 that has the force of law.
+30 W. “Single State License” means a Social Work license issued by any
+31 State that authorizes practice only within the issuing State and does not
+32 include Multistate Authorization to Practice in any Member State.
+33 X. “Social Work” or “Social Work Services” means the application of
+34 social work theory, knowledge, methods, ethics, and the professional use of
+35 self to restore or enhance social, psychosocial, or biopsychosocial
+36 functioning of individuals, couples, families, groups, organizations, and
+4 03/07/2025 3:25:10 PM JMB393
+HB1712
+1 communities through the care and services provided by a Regulated Social
+2 Worker as set forth in the Member State’s statutes and regulations in the
+3 State where the services are being provided.
+4 Y. “State” means any state, commonwealth, district, or territory of
+5 the United States of America that regulates the practice of Social Work.
+6 Z. “Unencumbered License” means a license that authorizes a Regulated
+7 Social Worker to engage in the full and unrestricted practice of Social Work.
+8
+9 SECTION 3. STATE PARTICIPATION IN THE COMPACT
+10 A. To be eligible to participate in the compact, a potential Member
+11 State must currently meet all of the following criteria:
+12 1. License and regulate the practice of Social Work at either
+13 the clinical, master’s, or bachelor’s category.
+14 2. Require applicants for licensure to graduate from a program
+15 that is:
+16 a. Operated by a college or university recognized by the
+17 Licensing Authority;
+18 b. Accredited, or in candidacy by an institution that
+19 subsequently becomes accredited, by an accrediting agency recognized by
+20 either:
+21 i. the Council for Higher Education Accreditation,
+22 or its successor; or
+23 ii. the United States Department of Education; and
+24 c. Corresponds to the licensure sought as outlined in
+25 Section 4.
+26 3. Require applicants for clinical licensure to complete a
+27 period of supervised practice.
+28 4. Have a mechanism in place for receiving, investigating, and
+29 adjudicating complaints about Licensees.
+30 B. To maintain membership in the Compact a Member State shall:
+31 1. Require that applicants for a Multistate License pass a
+32 Qualifying National Exam for the corresponding category of Multistate License
+33 sought as outlined in Section 4.
+34 2. Participate fully in the Commission’s Data System, including
+35 using the Commission’s unique identifier as defined in Rules;
+36 3. Notify the Commission, in compliance with the terms of the
+5 03/07/2025 3:25:10 PM JMB393
+HB1712
+1 Compact and Rules, of any Adverse Action or the availability of Current
+2 Significant Investigative Information regarding a Licensee;
+3 4. Implement procedures for considering the criminal history
+4 records of applicants for a Multistate License. Such procedures shall include
+5 the submission of fingerprints or other biometric-based information by
+6 applicants for the purpose of obtaining an applicant’s criminal history
+7 record information from the Federal Bureau of Investigation and the agency
+8 responsible for retaining that State’s criminal records.
+9 5. Comply with the Rules of the Commission;
+10 6. Require an applicant to obtain or retain a license in the
+11 Home State and meet the Home State’s qualifications for licensure or renewal
+12 of licensure, as well as all other applicable Home State laws;
+13 7. Authorize a Licensee holding a Multistate License in any
+14 Member State to practice in accordance with the terms of the Compact and
+15 Rules of the Commission; and
+16 8. Designate a delegate to participate in the Commission
+17 meetings.
+18 C. A Member State meeting the requirements of Section 3.A. and 3.B. of
+19 this Compact shall designate the categories of Social Work licensure that are
+20 eligible for issuance of a Multistate License for applicants in such Member
+21 State. To the extent that any Member State does not meet the requirements for
+22 participation in the Compact at any particular category of Social Work
+23 licensure, such Member State may choose, but is not obligated to, issue a
+24 Multistate License to applicants that otherwise meet the requirements of
+25 Section 4 for issuance of a Multistate License in such category or categories
+26 of licensure.
+27 D. The Home State may charge a fee for granting the Multistate
+28 License.
+29
+30 SECTION 4. SOCIAL WORKER PARTICIPATION IN THE COMPACT
+31 A. To be eligible for a Multistate License under the terms and
+32 provisions of the Compact, an applicant, regardless of category must:
+33 1. Hold or be eligible for an active, Unencumbered License in
+34 the Home State;
+35 2. Pay any applicable fees, including any State fee, for the
+36 Multistate License;
+6 03/07/2025 3:25:10 PM JMB393
+HB1712
+1 3. Submit, in connection with an application for a Multistate
+2 License, fingerprints or other biometric data for the purpose of obtaining
+3 criminal history record information from the Federal Bureau of Investigation
+4 and the agency responsible for retaining that State’s criminal records.
+5 4. Notify the Home State of any Adverse Action, Encumbrance, or
+6 restriction on any professional license taken by any Member State or non-
+7 Member State within 30 days from the date the action is taken.
+8 5. Meet any continuing competence requirements established by
+9 the Home State;
+10 6. Abide by the laws, regulations, and applicable standards in
+11 the Member State where the client is located at the time care is rendered.
+12 B. An applicant for a clinical-category Multistate License must meet
+13 all of the following requirements:
+14 2. Fulfill a competency requirement, which shall be satisfied by
+15 either:
+16 a. Passage of a clinical-category Qualifying National
+17 Exam; or
+18 b. Licensure of the applicant in their Home State at the
+19 clinical category, beginning prior to such time as a Qualifying National Exam
+20 was required by the Home State and accompanied by a period of continuous
+21 Social Work licensure thereafter, all of which may be further governed by the
+22 Rules of the Commission; or
+23 c. The substantial equivalency of the foregoing competency
+24 requirements which the Commission may determine by Rule.
+25 3. Attain at least a master’s degree in Social Work from a
+26 program that is:
+27 a. Operated by a college or university recognized by the
+28 Licensing Authority; and
+29 b. Accredited, or in candidacy that subsequently becomes
+30 accredited, by an accrediting agency recognized by either:
+31 i. the Council for Higher Education Accreditation or
+32 its successor; or
+33 ii. the United States Department of Education.
+34 4. Fulfill a practice requirement, which shall be satisfied by
+35 demonstrating completion of either:
+36 a. A period of postgraduate supervised clinical practice
+7 03/07/2025 3:25:10 PM JMB393
+HB1712
+1 equal to a minimum of three thousand hours; or
+2 b. A minimum of two years of full-time postgraduate
+3 supervised clinical practice; or
+4 c. The substantial equivalency of the foregoing practice
+5 requirements which the Commission may determine by Rule.
+6 C. An applicant for a master’s-category Multistate License must meet
+7 all of the following requirements:
+8 1. Fulfill a competency requirement, which shall be satisfied by
+9 either:
+10 a. Passage of a master's-category Qualifying National
+11 Exam;
+12 b. Licensure of the applicant in their Home State at the
+13 master’s category, beginning prior to such time as a Qualifying National Exam
+14 was required by the Home State at the master’s category and accompanied by a
+15 continuous period of Social Work licensure thereafter, all of which may be
+16 further governed by the Rules of the Commission; or
+17 c. The substantial equivalency of the foregoing competency
+18 requirements which the Commission may determine by Rule.
+19 2. Attain at least a master’s degree in Social Work from a
+20 program that is:
+21 a. Operated by a college or university recognized by the
+22 Licensing Authority; and
+23 b. Accredited, or in candidacy that subsequently becomes
+24 accredited, by an accrediting agency recognized by either:
+25 i. the Council for Higher Education Accreditation or
+26 its successor; or
+27 ii. the United States Department of Education.
+28 D. An applicant for a bachelor’s-category Multistate License must meet
+29 all of the following requirements:
+30 1. Fulfill a competency requirement, which shall be satisfied by
+31 either:
+32 a. Passage of a bachelor’s-category Qualifying National
+33 Exam;
+34 b. Licensure of the applicant in their Home State at the
+35 bachelor’s category, beginning prior to such time as a Qualifying National
+36 Exam was required by the Home State and accompanied by a period of continuous
+8 03/07/2025 3:25:10 PM JMB393
+HB1712
+1 Social Work licensure thereafter, all of which may be further governed by the
+2 Rules of the Commission; or
+3 c. The substantial equivalency of the foregoing competency
+4 requirements which the Commission may determine by Rule.
+5 2. Attain at least a bachelor’s degree in Social Work from a
+6 program that is:
+7 a. Operated by a college or university recognized by the
+8 Licensing Authority; and
+9 b. Accredited, or in candidacy that subsequently becomes
+10 accredited, by an accrediting agency recognized by either:
+11 i. the Council for Higher Education Accreditation or
+12 its successor; or
+13 ii. the United States Department of Education.
+14 E. The Multistate License for a Regulated Social Worker is subject to
+15 the renewal requirements of the Home State. The Regulated Social Worker must
+16 maintain compliance with the requirements of Section 4.A. to be eligible to
+17 renew a Multistate License.
+18 F. The Regulated Social Worker’s services in a Remote State are
+19 subject to that Member State’s regulatory authority. A Remote State may, in
+20 accordance with due process and that Member State’s laws, remove a Regulated
+21 Social Worker’s Multistate Authorization to Practice in the Remote State for
+22 a specific period of time, impose fines, and take any other necessary actions
+23 to protect the health and safety of its citizens.
+24 G. If a Multistate License is encumbered, the Regulated Social
+25 Worker’s Multistate Authorization to Practice shall be deactivated in all
+26 Remote States until the Multistate License is no longer encumbered.
+27 H. If a Multistate Authorization to Practice is encumbered in a Remote
+28 State, the regulated Social Worker’s Multistate Authorization to Practice may
+29 be deactivated in that State until the Multistate Authorization to Practice
+30 is no longer encumbered.
+31
+32 SECTION 5: ISSUANCE OF A MULTISTATE LICENSE
+33 A. Upon receipt of an application for Multistate License, the Home
+34 State Licensing Authority shall determine the applicant’s eligibility for a
+35 Multistate License in accordance with Section 4 of this Compact.
+36 B. If such applicant is eligible pursuant to Section 4 of this
+9 03/07/2025 3:25:10 PM JMB393
+HB1712
+1 Compact, the Home State Licensing Authority shall issue a Multistate License
+2 that authorizes the applicant or Regulated Social Worker to practice in all
+3 Member States under a Multistate Authorization to Practice.
+4 C. Upon issuance of a Multistate License, the Home State Licensing
+5 Authority shall designate whether the Regulated Social Worker holds a
+6 Multistate License in the Bachelors, Masters, or Clinical category of Social
+7 Work.
+8 D. A Multistate License issued by a Home State to a resident in that
+9 State shall be recognized by all Compact Member States as authorizing Social
+10 Work Practice under a Multistate Authorization to Practice corresponding to
+11 each category of licensure regulated in each Member State.
+12
+13 SECTION 6: AUTHORITY OF INTERSTATE COMPACT COMMISSION AND MEMBER STATE
+14 LICENSING AUTHORITIES
+15 A. Nothing in this Compact, nor any Rule of the Commission, shall be
+16 construed to limit, restrict, or in any way reduce the ability of a Member
+17 State to enact and enforce laws, regulations, or other rules related to the
+18 practice of Social Work in that State, where those laws, regulations, or
+19 other rules are not inconsistent with the provisions of this Compact.
+20 B. Nothing in this Compact shall affect the requirements established
+21 by a Member State for the issuance of a Single State License.
+22 C. Nothing in this Compact, nor any Rule of the Commission, shall be
+23 construed to limit, restrict, or in any way reduce the ability of a Member
+24 State to take Adverse Action against a Licensee’s Single State License to
+25 practice Social Work in that State.
+26 D. Nothing in this Compact, nor any Rule of the Commission, shall be
+27 construed to limit, restrict, or in any way reduce the ability of a Remote
+28 State to take Adverse Action against a Licensee’s Multistate Authorization to
+29 Practice in that State.
+30 E. Nothing in this Compact, nor any Rule of the Commission, shall be
+31 construed to limit, restrict, or in any way reduce the ability of a
+32 Licensee’s Home State to take Adverse Action against a Licensee’s Multistate
+33 License based upon information provided by a Remote State.
+34
+35 SECTION 7: REISSUANCE OF A MULTISTATE LICENSE BY A NEW HOME STATE
+36 A. A Licensee can hold a Multistate License, issued by their Home
+10 03/07/2025 3:25:10 PM JMB393
+HB1712
+1 State, in only one Member State at any given time.
+2 B. If a Licensee changes their Home State by moving between two Member
+3 States:
+4 1. The Licensee shall immediately apply for the reissuance of
+5 their Multistate License in their new Home State. The Licensee shall pay all
+6 applicable fees and notify the prior Home State in accordance with the Rules
+7 of the Commission.
+8 2. Upon receipt of an application to reissue a Multistate
+9 License, the new Home State shall verify that the Multistate License is
+10 active, unencumbered and eligible for reissuance under the terms of the
+11 Compact and the Rules of the Commission. The Multistate License issued by the
+12 prior Home State will be deactivated and all Member States notified in
+13 accordance with the applicable Rules adopted by the Commission.
+14 3. Prior to the reissuance of the Multistate License, the new
+15 Home State shall conduct procedures for considering the criminal history
+16 records of the Licensee. Such procedures shall include the submission of
+17 fingerprints or other biometric-based information by applicants for the
+18 purpose of obtaining an applicant’s criminal history record information from
+19 the Federal Bureau of Investigation and the agency responsible for retaining
+20 that State’s criminal records.
+21 4. If required for initial licensure, the new Home State may
+22 require completion of jurisprudence requirements in the new Home State.
+23 5. Notwithstanding any other provision of this Compact, if a
+24 Licensee does not meet the requirements set forth in this Compact for the
+25 reissuance of a Multistate License by the new Home State, then the Licensee
+26 shall be subject to the new Home State requirements for the issuance of a
+27 Single State License in that State.
+28 C. If a Licensee changes their primary State of residence by moving
+29 from a Member State to a non-Member State, or from a non-Member State to a
+30 Member State, then the Licensee shall be subject to the State requirements
+31 for the issuance of a Single State License in the new Home State.
+32 D. Nothing in this Compact shall interfere with a Licensee’s ability
+33 to hold a Single State License in multiple States; however, for the purposes
+34 of this Compact, a Licensee shall have only one Home State, and only one
+35 Multistate License.
+36 E. Nothing in this Compact shall interfere with the requirements
+11 03/07/2025 3:25:10 PM JMB393
+HB1712
+1 established by a Member State for the issuance of a Single State License.
+2
+3 SECTION 8. MILITARY FAMILIES
+4 An Active Military Member or their spouse shall designate a Home State
+5 where the individual has a Multistate License. The individual may retain
+6 their Home State designation during the period the service member is on
+7 active duty.
+8
+9 SECTION 9. ADVERSE ACTIONS
+10 A. In addition to the other powers conferred by State law, a Remote
+11 State shall have the authority, in accordance with existing State due process
+12 law, to:
+13 1. Take Adverse Action against a Regulated Social Worker’s
+14 Multistate Authorization to Practice only within that Member State, and issue
+15 subpoenas for both hearings and investigations that require the attendance
+16 and testimony of witnesses as well as the production of evidence. Subpoenas
+17 issued by a Licensing Authority in a Member State for the attendance and
+18 testimony of witnesses or the production of evidence from another Member
+19 State shall be enforced in the latter State by any court of competent
+20 jurisdiction, according to the practice and procedure of that court
+21 applicable to subpoenas issued in proceedings pending before it. The issuing
+22 Licensing Authority shall pay any witness fees, travel expenses, mileage, and
+23 other fees required by the service statutes of the State in which the
+24 witnesses or evidence are located.
+25 2. Only the Home State shall have the power to take Adverse
+26 Action against a Regulated Social Worker’s Multistate License.
+27 B. For purposes of taking Adverse Action, the Home State shall give
+28 the same priority and effect to reported conduct received from a Member State
+29 as it would if the conduct had occurred within the Home State. In so doing,
+30 the Home State shall apply its own State laws to determine appropriate
+31 action.
+32 C. The Home State shall complete any pending investigations of a
+33 Regulated Social Worker who changes their Home State during the course of the
+34 investigations. The Home State shall also have the authority to take
+35 appropriate action(s) and shall promptly report the conclusions of the
+36 investigations to the administrator of the Data System. The administrator of
+12 03/07/2025 3:25:10 PM JMB393
+HB1712
+1 the Data System shall promptly notify the new Home State of any Adverse
+2 Actions.
+3 D. A Member State, if otherwise permitted by State law, may recover
+4 from the affected Regulated Social Worker the costs of investigations and
+5 dispositions of cases resulting from any Adverse Action taken against that
+6 Regulated Social Worker.
+7 E. A Member State may take Adverse Action based on the factual
+8 findings of another Member State, provided that the Member State follows its
+9 own procedures for taking the Adverse Action.
+10 F. Joint Investigations:
+11 1. In addition to the authority granted to a Member State by its
+12 respective Social Work practice act or other applicable State law, any Member
+13 State may participate with other Member States in joint investigations of
+14 Licensees.
+15 2. Member States shall share any investigative, litigation, or
+16 compliance materials in furtherance of any joint or individual investigation
+17 initiated under the Compact.
+18 G. If Adverse Action is taken by the Home State against the Multistate
+19 License of a Regulated Social Worker, the Regulated Social Worker’s
+20 Multistate Authorization to Practice in all other Member States shall be
+21 deactivated until all Encumbrances have been removed from the Multistate
+22 License. All Home State disciplinary orders that impose Adverse Action
+23 against the license of a Regulated Social Worker shall include a statement
+24 that the Regulated Social Worker’s Multistate Authorization to Practice is
+25 deactivated in all Member States until all conditions of the decision, order
+26 or agreement are satisfied.
+27 H. If a Member State takes Adverse Action, it shall promptly notify
+28 the administrator of the Data System. The administrator of the Data System
+29 shall promptly notify the Home State and all other Member State’s of any
+30 Adverse Actions by Remote States.
+31 I. Nothing in this Compact shall override a Member State’s decision
+32 that participation in an Alternative Program may be used in lieu of Adverse
+33 Action.
+34 J. Nothing in this Compact shall authorize a Member State to demand
+35 the issuance of subpoenas for attendance and testimony of witnesses or the
+36 production of evidence from another Member State for lawful actions within
+13 03/07/2025 3:25:10 PM JMB393
+HB1712
+1 that Member State.
+2 K. Nothing in this Compact shall authorize a Member State to impose
+3 discipline against a Regulated Social Worker who holds a Multistate
+4 Authorization to Practice for lawful actions within another Member State.
+5
+6 SECTION 10. ESTABLISHMENT OF SOCIAL WORK LICENSURE COMPACT COMMISSION
+7 A. The Compact Member States hereby create and establish a joint
+8 government agency whose membership consists of all Member States that have
+9 enacted the compact known as the Social Work Licensure Compact Commission.
+10 The Commission is an instrumentality of the Compact States acting jointly and
+11 not an instrumentality of any one State. The Commission shall come into
+12 existence on or after the effective date of the Compact as set forth in
+13 Section 14.
+14 B. Membership, Voting, and Meetings
+15 1. Each Member State shall have and be limited to one (1)
+16 delegate selected by that Member State’s State Licensing Authority.
+17 2. The delegate shall be either:
+18 a. A current member of the State Licensing Authority at
+19 the time of appointment, who is a Regulated Social Worker or public member of
+20 the State Licensing Authority; or
+21 b. An administrator of the State Licensing Authority or
+22 their designee.
+23 3. The Commission shall by Rule or bylaw establish a term of
+24 office for delegates and may by Rule or bylaw establish term limits.
+25 4. The Commission may recommend removal or suspension of any
+26 delegate from office.
+27 5. A Member State’s State Licensing Authority shall fill any
+28 vacancy of its delegate occurring on the Commission within 60 days of the
+29 vacancy.
+30 6. Each delegate shall be entitled to one vote on all matters
+31 before the Commission requiring a vote by Commission delegates.
+32 7. A delegate shall vote in person or by such other means as
+33 provided in the bylaws. The bylaws may provide for delegates to meet by
+34 telecommunication, videoconference, or other means of communication.
+35 8. The Commission shall meet at least once during each calendar
+36 year. Additional meetings may be held as set forth in the bylaws. The
+14 03/07/2025 3:25:10 PM JMB393
+HB1712
+1 Commission may meet by telecommunication, video conference or other similar
+2 electronic means.
+3 C. The Commission shall have the following powers:
+4 1. Establish the fiscal year of the Commission;
+5 2. Establish code of conduct and conflict of interest policies;
+6 3. Establish and amend Rules and bylaws;
+7 4. Maintain its financial records in accordance with the bylaws;
+8 5. Meet and take such actions as are consistent with the
+9 provisions of this Compact, the Commission’s Rules, and the bylaws;
+10 6. Initiate and conclude legal proceedings or actions in the
+11 name of the Commission, provided that the standing of any State Licensing
+12 Board to sue or be sued under applicable law shall not be affected;
+13 7. Maintain and certify records and information provided to a
+14 Member State as the authenticated business records of the Commission, and
+15 designate an agent to do so on the Commission's behalf;
+16 8. Purchase and maintain insurance and bonds;
+17 9. Borrow, accept, or contract for services of personnel,
+18 including, but not limited to, employees of a Member State;
+19 10. Conduct an annual financial review;
+20 11. Hire employees, elect or appoint officers, fix compensation,
+21 define duties, grant such individuals appropriate authority to carry out the
+22 purposes of the Compact, and establish the Commission’s personnel policies
+23 and programs relating to conflicts of interest, qualifications of personnel,
+24 and other related personnel matters;
+25 12. Assess and collect fees;
+26 13. Accept any and all appropriate gifts, donations, grants of
+27 money, other sources of revenue, equipment, supplies, materials, and
+28 services, and receive, utilize, and dispose of the same; provided that at all
+29 times the Commission shall avoid any appearance of impropriety or conflict of
+30 interest;
+31 14. Lease, purchase, retain, own, hold, improve, or use any
+32 property, real, personal, or mixed, or any undivided interest therein;
+33 15. Sell, convey, mortgage, pledge, lease, exchange, abandon, or
+34 otherwise dispose of any property real, personal, or mixed;
+35 16. Establish a budget and make expenditures;
+36 17. Borrow money;
+15 03/07/2025 3:25:10 PM JMB393
+HB1712
+1 18. Appoint committees, including standing committees, composed
+2 of members, State regulators, State legislators or their representatives, and
+3 consumer representatives, and such other interested persons as may be
+4 designated in this Compact and the bylaws;
+5 19. Provide and receive information from, and cooperate with,
+6 law enforcement agencies;
+7 20. Establish and elect an Executive Committee, including a
+8 chair and a vice chair;
+9 21. Determine whether a State’s adopted language is materially
+10 different from the model compact language such that the State would not
+11 qualify for participation in the Compact; and
+12 22. Perform such other functions as may be necessary or
+13 appropriate to achieve the purposes of this Compact.
+14 D. The Executive Committee
+15 1. The Executive Committee shall have the power to act on behalf
+16 of the Commission according to the terms of this Compact. The powers, duties,
+17 and responsibilities of the Executive Committee shall include:
+18 a. Oversee the day-to-day activities of the administration
+19 of the compact including enforcement and compliance with the provisions of
+20 the compact, its Rules and bylaws, and other such duties as deemed necessary;
+21 b. Recommend to the Commission changes to the Rules or
+22 bylaws, changes to this Compact legislation, fees charged to Compact Member
+23 States, fees charged to Licensees, and other fees;
+24 c. Ensure Compact administration services are
+25 appropriately provided, including by contract;
+26 d. Prepare and recommend the budget;
+27 e. Maintain financial records on behalf of the Commission;
+28 f. Monitor Compact compliance of Member States and provide
+29 compliance reports to the Commission;
+30 g. Establish additional committees as necessary;
+31 h. Exercise the powers and duties of the Commission during
+32 the interim between Commission meetings, except for adopting or amending
+33 Rules, adopting or amending bylaws, and exercising any other powers and
+34 duties expressly reserved to the Commission by Rule or bylaw; and
+35 i. Other duties as provided in the Rules or bylaws of the
+36 Commission.
+16 03/07/2025 3:25:10 PM JMB393
+HB1712
+1 2. The Executive Committee shall be composed of up to eleven
+2 (11) members:
+3 a. The chair and vice chair of the Commission shall be
+4 voting members of the Executive Committee; and
+5 b. The Commission shall elect five voting members from the
+6 current membership of the Commission.
+7 c. Up to four (4) ex-officio, nonvoting members from four
+8 (4) recognized national Social Work organizations.
+9 d. The ex-officio members will be selected by their
+10 respective organizations.
+11 3. The Commission may remove any member of the Executive
+12 Committee as provided in the Commission’s bylaws.
+13 4. The Executive Committee shall meet at least annually.
+14 a. Executive Committee meetings shall be open to the
+15 public, except that the Executive Committee may meet in a closed, non-public
+16 meeting as provided in subsection F.2. below.
+17 b. The Executive Committee shall give seven (7) days’
+18 notice of its meetings, posted on its website and as determined to provide
+19 notice to persons with an interest in the business of the Commission.
+20 c. The Executive Committee may hold a special meeting in
+21 accordance with subsection F.1.b. below.
+22 E. The Commission shall adopt and provide to the Member States an
+23 annual report.
+24 F. Meetings of the Commission
+25 1. All meetings shall be open to the public, except that the
+26 Commission may meet in a closed, non-public meeting as provided in subsection
+27 F.2. below.
+28 a. Public notice for all meetings of the full Commission
+29 of meetings shall be given in the same manner as required under the
+30 Rulemaking provisions in Section 12, except that the Commission may hold a
+31 special meeting as provided in subsection F.1.b. below.
+32 b. The Commission may hold a special meeting when it must
+33 meet to conduct emergency business by giving 48 hours’ notice to all
+34 commissioners, on the Commission’s website, and other means as provided in
+35 the Commission’s Rules. The Commission’s legal counsel shall certify that the
+36 Commission’s need to meet qualifies as an emergency.
+17 03/07/2025 3:25:10 PM JMB393
+HB1712
+1 2. The Commission or the Executive Committee or other committees
+2 of the Commission may convene in a closed, non-public meeting for the
+3 Commission or Executive Committee or other committees of the Commission to
+4 receive legal advice or to discuss:
+5 a. Non-compliance of a Member State with its obligations
+6 under the Compact;
+7 b. The employment, compensation, discipline or other
+8 matters, practices or procedures related to specific employees;
+9 c. Current or threatened discipline of a Licensee by the
+10 Commission or by a Member State’s Licensing Authority;
+11 d. Current, threatened, or reasonably anticipated
+12 litigation;
+13 e. Negotiation of contracts for the purchase, lease, or
+14 sale of goods, services, or real estate;
+15 f. Accusing any person of a crime or formally censuring
+16 any person;
+17 g. Trade secrets or commercial or financial information
+18 that is privileged or confidential;
+19 h. Information of a personal nature where disclosure would
+20 constitute a clearly unwarranted invasion of personal privacy;
+21 i. Investigative records compiled for law enforcement
+22 purposes;
+23 j. Information related to any investigative reports
+24 prepared by or on behalf of or for use of the Commission or other committee
+25 charged with responsibility of investigation or determination of compliance
+26 issues pursuant to the Compact;
+27 k. Matters specifically exempted from disclosure by
+28 federal or Member State law; or
+29 l. Other matters as promulgated by the Commission by Rule.
+30 3. If a meeting, or portion of a meeting, is closed, the
+31 presiding officer shall state that the meeting will be closed and reference
+32 each relevant exempting provision, and such reference shall be recorded in
+33 the minutes.
+34 4. The Commission shall keep minutes that fully and clearly
+35 describe all matters discussed in a meeting and shall provide a full and
+36 accurate summary of actions taken, and the reasons therefore, including a
+18 03/07/2025 3:25:10 PM JMB393
+HB1712
+1 description of the views expressed. All documents considered in connection
+2 with an action shall be identified in such minutes. All minutes and documents
+3 of a closed meeting shall remain under seal, subject to release only by a
+4 majority vote of the Commission or order of a court of competent
+5 jurisdiction.
+6 G. Financing of the Commission
+7 1. The Commission shall pay, or provide for the payment of, the
+8 reasonable expenses of its establishment, organization, and ongoing
+9 activities.
+10 2. The Commission may accept any and all appropriate revenue
+11 sources as provided in subsection C.13.
+12 3. The Commission may levy on and collect an annual assessment
+13 from each Member State and impose fees on Licensees of Member States to whom
+14 it grants a Multistate License to cover the cost of the operations and
+15 activities of the Commission and its staff, which must be in a total amount
+16 sufficient to cover its annual budget as approved each year for which revenue
+17 is not provided by other sources. The aggregate annual assessment amount for
+18 Member States shall be allocated based upon a formula that the Commission
+19 shall promulgate by Rule.
+20 4. The Commission shall not incur obligations of any kind prior
+21 to securing the funds adequate to meet the same; nor shall the Commission
+22 pledge the credit of any of the Member States, except by and with the
+23 authority of the Member State.
+24 5. The Commission shall keep accurate accounts of all receipts
+25 and disbursements. The receipts and disbursements of the Commission shall be
+26 subject to the financial review and accounting procedures established under
+27 its bylaws. However, all receipts and disbursements of funds handled by the
+28 Commission shall be subject to an annual financial review by a certified or
+29 licensed public accountant, and the report of the financial review shall be
+30 included in and become part of the annual report of the Commission.
+31 H. Qualified Immunity, Defense, and Indemnification
+32 1. The members, officers, executive director, employees and
+33 representatives of the Commission shall be immune from suit and liability,
+34 both personally and in their official capacity, for any claim for damage to
+35 or loss of property or personal injury or other civil liability caused by or
+36 arising out of any actual or alleged act, error, or omission that occurred,
+19 03/07/2025 3:25:10 PM JMB393
+HB1712
+1 or that the person against whom the claim is made had a reasonable basis for
+2 believing occurred within the scope of Commission employment, duties or
+3 responsibilities; provided that nothing in this paragraph shall be construed
+4 to protect any such person from suit or liability for any damage, loss,
+5 injury, or liability caused by the intentional or willful or wanton
+6 misconduct of that person. The procurement of insurance of any type by the
+7 Commission shall not in any way compromise or limit the immunity granted
+8 hereunder.
+9 2. The Commission shall defend any member, officer, executive
+10 director, employee, and representative of the Commission in any civil action
+11 seeking to impose liability arising out of any actual or alleged act, error,
+12 or omission that occurred within the scope of Commission employment, duties,
+13 or responsibilities, or as determined by the Commission that the person
+14 against whom the claim is made had a reasonable basis for believing occurred
+15 within the scope of Commission employment, duties, or responsibilities;
+16 provided that nothing herein shall be construed to prohibit that person from
+17 retaining their own counsel at their own expense; and provided further, that
+18 the actual or alleged act, error, or omission did not result from that
+19 person’s intentional or willful or wanton misconduct.
+20 3. The Commission shall indemnify and hold harmless any member,
+21 officer, executive director, employee, and representative of the Commission
+22 for the amount of any settlement or judgment obtained against that person
+23 arising out of any actual or alleged act, error, or omission that occurred
+24 within the scope of Commission employment, duties, or responsibilities, or
+25 that such person had a reasonable basis for believing occurred within the
+26 scope of Commission employment, duties, or responsibilities, provided that
+27 the actual or alleged act, error, or omission did not result from the
+28 intentional or willful or wanton misconduct of that person.
+29 4. Nothing herein shall be construed as a limitation on the
+30 liability of any Licensee for professional malpractice or misconduct, which
+31 shall be governed solely by any other applicable State laws.
+32 5. Nothing in this Compact shall be interpreted to waive or
+33 otherwise abrogate a Member State’s state action immunity or state action
+34 affirmative defense with respect to antitrust claims under the Sherman Act,
+35 Clayton Act, or any other State or federal antitrust or anticompetitive law
+36 or regulation.
+20 03/07/2025 3:25:10 PM JMB393
+HB1712
+1 6. Nothing in this Compact shall be construed to be a waiver of
+2 sovereign immunity by the Member States or by the Commission.
+3
+4 SECTION 11 . DATA SYSTEM
+5 A. The Commission shall provide for the development, maintenance,
+6 operation, and utilization of a coordinated Data System.
+7 B. The Commission shall assign each applicant for a Multistate License
+8 a unique identifier, as determined by the Rules of the Commission.
+9 C. Notwithstanding any other provision of State law to the contrary, a
+10 Member State shall submit a uniform data set to the Data System on all
+11 individuals to whom this Compact is applicable as required by the Rules of
+12 the Commission, including:
+13 1. Identifying information;
+14 2. Licensure data;
+15 3. Adverse Actions against a license and information related
+16 thereto;
+17 4. Non-confidential information related to Alternative Program
+18 participation, the beginning and ending dates of such participation, and
+19 other information related to such participation not made confidential under
+20 Member State law;
+21 5. Any denial of application for licensure, and the reason(s)
+22 for such denial;
+23 6. The presence of Current Significant Investigative
+24 Information; and
+25 7. Other information that may facilitate the administration of
+26 this Compact or the protection of the public, as determined by the Rules of
+27 the Commission.
+28 D. The records and information provided to a Member State pursuant to
+29 this Compact or through the Data System, when certified by the Commission or
+30 an agent thereof, shall constitute the authenticated business records of the
+31 Commission, and shall be entitled to any associated hearsay exception in any
+32 relevant judicial, quasi-judicial or administrative proceedings in a Member
+33 State.
+34 E. Current Significant Investigative Information pertaining to a
+35 Licensee in any Member State will only be available to other Member States.
+36 1. It is the responsibility of the Member States to report any
+21 03/07/2025 3:25:10 PM JMB393
+HB1712
+1 Adverse Action against a Licensee and to monitor the database to determine
+2 whether Adverse Action has been taken against a Licensee. Adverse Action
+3 information pertaining to a Licensee in any Member State will be available to
+4 any other Member State.
+5 F. Member States contributing information to the Data System may
+6 designate information that may not be shared with the public without the
+7 express permission of the contributing State.
+8 G. Any information submitted to the Data System that is subsequently
+9 expunged pursuant to federal law or the laws of the Member State contributing
+10 the information shall be removed from the Data System.
+11
+12 SECTION 12. RULEMAKING
+13 A. The Commission shall promulgate reasonable Rules in order to
+14 effectively and efficiently implement and administer the purposes and
+15 provisions of the Compact. A Rule shall be invalid and have no force or
+16 effect only if a court of competent jurisdiction holds that the Rule is
+17 invalid because the Commission exercised its rulemaking authority in a manner
+18 that is beyond the scope and purposes of the Compact, or the powers granted
+19 hereunder, or based upon another applicable standard of review.
+20 B. The Rules of the Commission shall have the force of law in each
+21 Member State, provided however that where the Rules of the Commission
+22 conflict with the laws of the Member State that establish the Member State’s
+23 laws, regulations, and applicable standards that govern the practice of
+24 Social Work as held by a court of competent jurisdiction, the Rules of the
+25 Commission shall be ineffective in that State to the extent of the conflict.
+26 C. The Commission shall exercise its Rulemaking powers pursuant to the
+27 criteria set forth in this Section and the Rules adopted thereunder. Rules
+28 shall become binding on the day following adoption or the date specified in
+29 the rule or amendment, whichever is later.
+30 D. If a majority of the legislatures of the Member States rejects a
+31 Rule or portion of a Rule, by enactment of a statute or resolution in the
+32 same manner used to adopt the Compact within four (4) years of the date of
+33 adoption of the Rule, then such Rule shall have no further force and effect
+34 in any Member State.
+35 E. Rules shall be adopted at a regular or special meeting of the
+36 Commission.
+22 03/07/2025 3:25:10 PM JMB393
+HB1712
+1 F. Prior to adoption of a proposed Rule, the Commission shall hold a
+2 public hearing and allow persons to provide oral and written comments, data,
+3 facts, opinions, and arguments.
+4 G. Prior to adoption of a proposed Rule by the Commission, and at
+5 least thirty (30) days in advance of the meeting at which the Commission will
+6 hold a public hearing on the proposed Rule, the Commission shall provide a
+7 Notice of Proposed Rulemaking:
+8 1. On the website of the Commission or other publicly accessible
+9 platform;
+10 2. To persons who have requested notice of the Commission’s
+11 notices of proposed rulemaking; and
+12 3. In such other way(s) as the Commission may by Rule specify.
+13 H. The Notice of Proposed Rulemaking shall include:
+14 1. The time, date, and location of the public hearing at which
+15 the Commission will hear public comments on the proposed Rule and, if
+16 different, the time, date, and location of the meeting where the Commission
+17 will consider and vote on the proposed Rule;
+18 2. If the hearing is held via telecommunication, video
+19 conference, or other electronic means, the Commission shall include the
+20 mechanism for access to the hearing in the Notice of Proposed Rulemaking;
+21 3. The text of the proposed Rule and the reason therefor;
+22 4. A request for comments on the proposed Rule from any
+23 interested person; and
+24 5. The manner in which interested persons may submit written
+25 comments.
+26 I. All hearings will be recorded. A copy of the recording and all
+27 written comments and documents received by the Commission in response to the
+28 proposed Rule shall be available to the public.
+29 J. Nothing in this section shall be construed as requiring a separate
+30 hearing on each Rule. Rules may be grouped for the convenience of the
+31 Commission at hearings required by this section.
+32 K. The Commission shall, by majority vote of all members, take final
+33 action on the proposed Rule based on the Rulemaking record and the full text
+34 of the Rule.
+35 1. The Commission may adopt changes to the proposed Rule
+36 provided the changes do not enlarge the original purpose of the proposed
+23 03/07/2025 3:25:10 PM JMB393
+HB1712
+1 Rule.
+2 2. The Commission shall provide an explanation of the reasons
+3 for substantive changes made to the proposed Rule as well as reasons for
+4 substantive changes not made that were recommended by commenters.
+5 3. The Commission shall determine a reasonable effective date
+6 for the Rule. Except for an emergency as provided in Section 12.L., the
+7 effective date of the rule shall be no sooner than 30 days after issuing the
+8 notice that it adopted or amended the Rule.
+9 L. Upon determination that an emergency exists, the Commission may
+10 consider and adopt an emergency Rule with 48 hours’ notice, with opportunity
+11 to comment, provided that the usual Rulemaking procedures provided in the
+12 Compact and in this section shall be retroactively applied to the Rule as
+13 soon as reasonably possible, in no event later than ninety (90) days after
+14 the effective date of the Rule. For the purposes of this provision, an
+15 emergency Rule is one that must be adopted immediately in order to:
+16 1. Meet an imminent threat to public health, safety, or welfare;
+17 2. Prevent a loss of Commission or Member State funds;
+18 3. Meet a deadline for the promulgation of a Rule that is
+19 established by federal law or rule; or
+20 4. Protect public health and safety.
+21 M. The Commission or an authorized committee of the Commission may
+22 direct revisions to a previously adopted Rule for purposes of correcting
+23 typographical errors, errors in format, errors in consistency, or grammatical
+24 errors. Public notice of any revisions shall be posted on the website of the
+25 Commission. The revision shall be subject to challenge by any person for a
+26 period of thirty (30) days after posting. The revision may be challenged only
+27 on grounds that the revision results in a material change to a Rule. A
+28 challenge shall be made in writing and delivered to the Commission prior to
+29 the end of the notice period. If no challenge is made, the revision will take
+30 effect without further action. If the revision is challenged, the revision
+31 may not take effect without the approval of the Commission.
+32 N. No Member State’s rulemaking requirements shall apply under this
+33 Compact.
+34
+35 SECTION 13. OVERSIGHT, DISPUTE RESOLUTION, AND ENFORCEMENT
+36 A. Oversight
+24 03/07/2025 3:25:10 PM JMB393
+HB1712
+1 1. The executive and judicial branches of State government in
+2 each Member State shall enforce this Compact and take all actions necessary
+3 and appropriate to implement the Compact.
+4 2. Except as otherwise provided in this Compact, venue is proper
+5 and judicial proceedings by or against the Commission shall be brought solely
+6 and exclusively in a court of competent jurisdiction where the principal
+7 office of the Commission is located. The Commission may waive venue and
+8 jurisdictional defenses to the extent it adopts or consents to participate in
+9 alternative dispute resolution proceedings. Nothing herein shall affect or
+10 limit the selection or propriety of venue in any action against a Licensee
+11 for professional malpractice, misconduct or any such similar matter.
+12 3. The Commission shall be entitled to receive service of
+13 process in any proceeding regarding the enforcement or interpretation of the
+14 Compact and shall have standing to intervene in such a proceeding for all
+15 purposes. Failure to provide the Commission service of process shall render a
+16 judgment or order void as to the Commission, this Compact, or promulgated
+17 Rules.
+18 B. Default, Technical Assistance, and Termination
+19 1. If the Commission determines that a Member State has
+20 defaulted in the performance of its obligations or responsibilities under
+21 this Compact or the promulgated Rules, the Commission shall provide written
+22 notice to the defaulting State. The notice of default shall describe the
+23 default, the proposed means of curing the default, and any other action that
+24 the Commission may take, and shall offer training and specific technical
+25 assistance regarding the default.
+26 2. The Commission shall provide a copy of the notice of default
+27 to the other Member States.
+28 C. If a State in default fails to cure the default, the defaulting
+29 State may be terminated from the Compact upon an affirmative vote of a
+30 majority of the delegates of the Member States, and all rights, privileges
+31 and benefits conferred on that State by this Compact may be terminated on the
+32 effective date of termination. A cure of the default does not relieve the
+33 offending State of obligations or liabilities incurred during the period of
+34 default.
+35 D. Termination of membership in the Compact shall be imposed only
+36 after all other means of securing compliance have been exhausted. Notice of
+25 03/07/2025 3:25:10 PM JMB393
+HB1712
+1 intent to suspend or terminate shall be given by the Commission to the
+2 governor, the majority and minority leaders of the defaulting State’s
+3 legislature, the defaulting State’s State Licensing Authority and each of the
+4 Member States’ State Licensing Authority.
+5 E. A State that has been terminated is responsible for all
+6 assessments, obligations, and liabilities incurred through the effective date
+7 of termination, including obligations that extend beyond the effective date
+8 of termination.
+9 F. Upon the termination of a State’s membership from this Compact,
+10 that State shall immediately provide notice to all Licensees within that
+11 State of such termination. The terminated State shall continue to recognize
+12 all licenses granted pursuant to this Compact for a minimum of six (6) months
+13 after the date of said notice of termination.
+14 G. The Commission shall not bear any costs related to a State that is
+15 found to be in default or that has been terminated from the Compact, unless
+16 agreed upon in writing between the Commission and the defaulting State.
+17 H. The defaulting State may appeal the action of the Commission by
+18 petitioning the U.S. District Court for the District of Columbia or the
+19 federal district where the Commission has its principal offices. The
+20 prevailing party shall be awarded all costs of such litigation, including
+21 reasonable attorney’s fees.
+22 I. Dispute Resolution
+23 1. Upon request by a Member State, the Commission shall attempt
+24 to resolve disputes related to the Compact that arise among Member States and
+25 between Member and non-Member States.
+26 2. The Commission shall promulgate a Rule providing for both
+27 mediation and binding dispute resolution for disputes as appropriate.
+28 J. Enforcement
+29 1. By majority vote as provided by Rule, the Commission may
+30 initiate legal action against a Member State in default in the United States
+31 District Court for the District of Columbia or the federal district where the
+32 Commission has its principal offices to enforce compliance with the
+33 provisions of the Compact and its promulgated Rules. The relief sought may
+34 include both injunctive relief and damages. In the event judicial enforcement
+35 is necessary, the prevailing party shall be awarded all costs of such
+36 litigation, including reasonable attorney’s fees. The remedies herein shall
+26 03/07/2025 3:25:10 PM JMB393
+HB1712
+1 not be the exclusive remedies of the Commission. The Commission may pursue
+2 any other remedies available under federal or the defaulting Member State’s
+3 law.
+4 2. A Member State may initiate legal action against the
+5 Commission in the U.S. District Court for the District of Columbia or the
+6 federal district where the Commission has its principal offices to enforce
+7 compliance with the provisions of the Compact and its promulgated Rules. The
+8 relief sought may include both injunctive relief and damages. In the event
+9 judicial enforcement is necessary, the prevailing party shall be awarded all
+10 costs of such litigation, including reasonable attorney’s fees.
+11 3. No person other than a Member State shall enforce this
+12 Compact against the Commission.
+13
+14 SECTION 14. EFFECTIVE DATE, WITHDRAWAL, AND AMENDMENT
+15 A. The Compact shall come into effect on the date on which the Compact
+16 statute is enacted into law in the seventh Member State.
+17 1. On or after the effective date of the Compact, the Commission
+18 shall convene and review the enactment of each of the first seven Member
+19 States (“Charter Member States”) to determine if the statute enacted by each
+20 such Charter Member State is materially different than the model Compact
+21 statute.
+22 a. A Charter Member State whose enactment is found to be
+23 materially different from the model Compact statute shall be entitled to the
+24 default process set forth in Section 13.
+25 b. If any Member State is later found to be in default, or
+26 is terminated or withdraws from the Compact, the Commission shall remain in
+27 existence and the Compact shall remain in effect even if the number of Member
+28 States should be less than seven.
+29 2. Member States enacting the Compact subsequent to the seven
+30 initial Charter Member States shall be subject to the process set forth in
+31 Section 10.C.21. to determine if their enactments are materially different
+32 from the model Compact statute and whether they qualify for participation in
+33 the Compact.
+34 3. All actions taken for the benefit of the Commission or in
+35 furtherance of the purposes of the administration of the Compact prior to the
+36 effective date of the Compact or the Commission coming into existence shall
+27 03/07/2025 3:25:10 PM JMB393
+HB1712
+1 be considered to be actions of the Commission unless specifically repudiated
+2 by the Commission.
+3 4. Any State that joins the Compact subsequent to the
+4 Commission’s initial adoption of the Rules and bylaws shall be subject to the
+5 Rules and bylaws as they exist on the date on which the Compact becomes law
+6 in that State. Any Rule that has been previously adopted by the Commission
+7 shall have the full force and effect of law on the day the Compact becomes
+8 law in that State.
+9 B. Any Member State may withdraw from this Compact by enacting a
+10 statute repealing the same.
+11 1. A Member State’s withdrawal shall not take effect until 180
+12 days after enactment of the repealing statute.
+13 2. Withdrawal shall not affect the continuing requirement of the
+14 withdrawing State’s Licensing Authority to comply with the investigative and
+15 Adverse Action reporting requirements of this Compact prior to the effective
+16 date of withdrawal.
+17 3. Upon the enactment of a statute withdrawing from this
+18 compact, a State shall immediately provide notice of such withdrawal to all
+19 Licensees within that State. Notwithstanding any subsequent statutory
+20 enactment to the contrary, such withdrawing State shall continue to recognize
+21 all licenses granted pursuant to this compact for a minimum of 180 days after
+22 the date of such notice of withdrawal.
+23 C. Nothing contained in this Compact shall be construed to invalidate
+24 or prevent any licensure agreement or other cooperative arrangement between a
+25 Member State and a non-Member State that does not conflict with the
+26 provisions of this Compact.
+27 D. This Compact may be amended by the Member States. No amendment to
+28 this Compact shall become effective and binding upon any Member State until
+29 it is enacted into the laws of all Member States.
+30
+31 SECTION 15. CONSTRUCTION AND SEVERABILITY
+32 A. This Compact and the Commission’s rulemaking authority shall be
+33 liberally construed so as to effectuate the purposes, and the implementation
+34 and administration of the Compact. Provisions of the Compact expressly
+35 authorizing or requiring the promulgation of Rules shall not be construed to
+36 limit the Commission’s rulemaking authority solely for those purposes.
+28 03/07/2025 3:25:10 PM JMB393
+HB1712
+1 B. The provisions of this Compact shall be severable and if any
+2 phrase, clause, sentence or provision of this Compact is held by a court of
+3 competent jurisdiction to be contrary to the constitution of any Member
+4 State, a State seeking participation in the Compact, or of the United States,
+5 or the applicability thereof to any government, agency, person or
+6 circumstance is held to be unconstitutional by a court of competent
+7 jurisdiction, the validity of the remainder of this Compact and the
+8 applicability thereof to any other government, agency, person or circumstance
+9 shall not be affected thereby.
+10 C. Notwithstanding subsection B. of this section, the Commission may
+11 deny a State’s participation in the Compact or, in accordance with the
+12 requirements of Section 13.B., terminate a Member State’s participation in
+13 the Compact, if it determines that a constitutional requirement of a Member
+14 State is a material departure from the Compact. Otherwise, if this Compact
+15 shall be held to be contrary to the constitution of any Member State, the
+16 Compact shall remain in full force and effect as to the remaining Member
+17 States and in full force and effect as to the Member State affected as to all
+18 severable matters.
+19
+20 SECTION 16. CONSISTENT EFFECT AND CONFLICT WITH OTHER STATE LAWS
+21 A. A Licensee providing services in a Remote State under a Multistate
+22 Authorization to Practice shall adhere to the laws and regulations, including
+23 laws, regulations, and applicable standards, of the Remote State where the
+24 client is located at the time care is rendered.
+25 B. Nothing herein shall prevent or inhibit the enforcement of any
+26 other law of a Member State that is not inconsistent with the Compact.
+27 C. Any laws, statutes, regulations, or other legal requirements in a
+28 Member State in conflict with the Compact are superseded to the extent of the
+29 conflict.
+30 D. All permissible agreements between the Commission and the Member
+31 States are binding in accordance with their terms.
+32
+33 17-103-402. Administration of compact.
+34 (a) The Arkansas Social Work Licensing Board is the Social Work
+35 Licensure Compact administrator for this state.
+36 (b) The board may adopt rules that are consistent with the Social Work
+29 03/07/2025 3:25:10 PM JMB393
+HB1712
+1 Licensure Compact necessary to implement this subchapter.
+2 (c) The board is not required to adopt the rules of the Social Work
+3 Licensure Compact Commission for those rules to be effective in this state.
+4 (d) For the purposes of the member state's ability to reject a rule
+5 under Section 12(D) of the Social Work Licensure Compact, Arkansas delegates
+6 its authority in this provision to the General Assembly or the Legislative
+7 Council.
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+30 03/07/2025 3:25:10 PM JMB393
+[DELETED:          A I   T C  B   S a S   1  T b s   S   S  T R S p  T  A]
+[DELETED: H2 0  B w  C a  D p  E n r  F  G a  H a p t  I r   S  A f  A s t  B c A a P L l i  C p p]
+[DELETED: H3 0  D l e  E w i S S  F   1 p R a d   2 S m W  G i I A C  H r t  I i  J l r  K a c  L D]
+[DELETED: H4 0  M a W d i  N f  O o R  P o  Q p M  R S R A  S a  T b u  U S  V r t  W S i  X s s f]
+[DELETED: H5 0 c W S  Y t  Z S   S  A S   1 t   2 t    a L    b s e     i o     i    c S   3 p   4 a  B   1 Q s   2 u   3]
+[DELETED: H6 0 C S   4 r t a r r   5   6 H o   7 M R   8 m  C t e S p l M S o  D L   S  A p   1 t   2 M]
+[DELETED: H7 0   3 L c a   4 r M   5 t   6 t  B a   2 e    a E    b c w S R    c r   3 p    a L    b a     i i     i   4 d    a]
+[DELETED: H8 0 e    b s    c r  C a   1 e    a E    b m w c f    c r   2 p    a L    b a     i i     i  D a   1 e    a E    b b E]
+[DELETED: H9 0 S R    c r   2 p    a L    b a     i i     i  E t m r  F s a S a t  G W R  H S b i   S  A S M  B]
+[DELETED: H1 0 C t M  C A M W  D S W e   S L  A c S p o  B b  C c S p  D c S P  E c L L   S  A]
+[DELETED: H1 0 S  B S   1 t a o   2 L a C p a   3 H r f p t t   4 r   5 L r s S  C f M f  D t o M  E]
+[DELETED: H1 0 e   S  A w t a   S  A S l   1 M s a i t S j a L o w   2 A  B t a t a  C R i a i]
+[DELETED: H1 0 t A  D f d R  E f o  F   1 r S L   2 c i  G L M d L a t d o  H t s A  I t A  J t p]
+[DELETED: H1 0 t  K d A   S  A g e T n e S  B   1 d   2    a t t    b t   3 o   4 d   5 v v   6 b   7 p t   8 y]
+[DELETED: H1 0 C e  C   1   2   3   4   5 p   6 n B   7 M d   8   9 i   1   1 d p a a   1   1 m s t i   1 p   1 o   1   1]
+[DELETED: H1 0   1 o c d   1 l   2 c   2 d q   2 a  D   1 o a    a o t    b b S    c a    d    e    f c    g    h t R d    i C]
+[DELETED: H1 0   2 (    a v    b c    c (    d r   3 C   4    a p m    b n n    c a  E a  F   1 C F    a o R s    b m c t C]
+[DELETED: H1 0   2 o C r    a u    b m    c C    d l    e s    f a    g t    h c    i p    j p c i    k f    l   3 p e t   4 d a]
+[DELETED: H1 0 d w o m j  G   1 r a   2 s   3 f i a s i M s   4 t p a   5 a s i C l i  H   1 r b o a]
+[DELETED: H2 0 o b r t i m C h   2 d s o o a w p r t p   3 o f a w t s t i   4 l s   5 o a C o]
+[DELETED: H2 0   6 s   S  A o  B a  C M i t   1   2   3 t   4 p o M   5 f   6 I   7 t t  D t a C r S  E L   1]
+[DELETED: H2 0 A w i a  F d e  G e t   S  A e p e i t h  B M c l S C  C c s t  D R s a i  E C]
+[DELETED: H2 0  F p f  G l h N   1 p   2 n   3  H   1 t d w   2 c m   3   4 i   5 c  I w p  J h C  K a o   1 p]
+[DELETED: H2 0 R   2 f s   3 f e n  L c t C s t e   1   2   3 e   4  M d t e C p o c t e m  N C   S  A]
+[DELETED: H2 0   1 e a   2 a a o j a l f   3 p C p j R  B   1 d t n d t a   2 t  C S m a e o d  D a]
+[DELETED: H2 0 i g l M  E a o o  F t S a a  G f a  H p f p r  I   1 t b   2 m  J   1 i D C p i i l]
+[DELETED: H2 0 n a l   2 C f c r j c   3 C   S  A s   1 s S s s    a m d    b i e S   2 i S f t   3 f e]
+[DELETED: H2 0 b b   4 C R i s l  B s   1 d   2 w A d   3 c L e a t  C o M p  D t i   S  A l a a l]
+[DELETED: H2 0  B p c S o c j a s  C d r t S s C S s   S  A A l c  B o  C M c  D S   1  ( L  (]
+[DELETED: H3 0 L  ( L  ( u i C                             ]
+
+
+================================================================================
+
+Raw Text:
+Stricken language would be deleted from and underlined language would be added to present law.
+1 State of Arkansas
+A Bill
+2 95th General Assembly
+3 Regular Session, 2025 HOUSE BILL 1712
+4
+5 By: Representative Joey Carr
+6 By: Senator J. Scott
+7
+For An Act To Be Entitled
+8
+9 AN ACT TO ESTABLISH THE SOCIAL WORK LICENSURE COMPACT
+10 IN THIS STATE; AND FOR OTHER PURPOSES.
+11
+12
+Subtitle
+13
+14 TO ESTABLISH THE SOCIAL WORK LICENSURE
+15 COMPACT IN THIS STATE.
+16
+17 BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF ARKANSAS:
+18
+19 SECTION 1. Arkansas Code Title 17, Chapter 103, is amended to add an
+20 additional subchapter to read as follows:
+21 Subchapter 4 — Social Work Licensure Compact
+22
+23 17-103-401. Text of compact.
+24 The Social Work Licensure Compact is enacted into law and entered into
+25 by this state with all states legally joining therein and in the form
+26 substantially as follows:
+27
+28 SOCIAL WORK LICENSURE COMPACT
+29
+30 SECTION 1: PURPOSE
+31 The purpose of this Compact is to facilitate interstate practice of
+32 Regulated Social Workers by improving public access to competent Social Work
+33 Services. The Compact preserves the regulatory authority of States to protect
+34 public health and safety through the current system of State licensure.
+35 This Compact is designed to achieve the following objectives:
+36 A. Increase public access to Social Work Services;
+*JMB393*
+03/07/2025 3:25:10 PM JMB393
+
+HB1712
+1 B. Reduce overly burdensome and duplicative requirements associated
+2 with holding multiple licenses;
+3 C. Enhance the Member States’ ability to protect the public’s health
+4 and safety;
+5 D. Encourage the cooperation of Member States in regulating multistate
+6 practice;
+7 E. Promote mobility and address workforce shortages by eliminating the
+8 necessity for licenses in multiple States by providing for the mutual
+9 recognition of other Member State licenses;
+10 F. Support military families;
+11 G. Facilitate the exchange of licensure and disciplinary information
+12 among Member States;
+13 H. Authorize all Member States to hold a Regulated Social Worker
+14 accountable for abiding by a Member State’s laws, regulations, and applicable
+15 professional standards in the Member State in which the client is located at
+16 the time care is rendered; and
+17 I. Allow for the use of telehealth to facilitate increased access to
+18 regulated Social Work Services.
+19
+20 SECTION 2. DEFINITIONS
+21 As used in this Compact, and except as otherwise provided, the
+22 following definitions shall apply:
+23 A. “Active Military Member” means any individual with full-time duty
+24 status in the active armed forces of the United States including members of
+25 the National Guard and Reserve.
+26 B. “Adverse Action” means any administrative, civil, equitable or
+27 criminal action permitted by a State’s laws which is imposed by a Licensing
+28 Authority or other authority against a Regulated Social Worker, including
+29 actions against an individual’s license or Multistate Authorization to
+30 Practice such as revocation, suspension, probation, monitoring of the
+31 Licensee, limitation on the Licensee’s practice, or any other Encumbrance on
+32 licensure affecting a Regulated Social Worker’s authorization to practice,
+33 including issuance of a cease and desist action.
+34 C. “Alternative Program” means a non-disciplinary monitoring or
+35 practice remediation process approved by a Licensing Authority to address
+36 practitioners with an Impairment.
+2 03/07/2025 3:25:10 PM JMB393
+
+HB1712
+1 D. “Charter Member States” - Member States who have enacted
+2 legislation to adopt this Compact where such legislation predates the
+3 effective date of this Compact as described in Section 14.
+4 E. “Compact Commission” or “Commission” means the government agency
+5 whose membership consists of all States that have enacted this Compact, which
+6 is known as the Social Work Licensure Compact Commission, as described in
+7 Section 10, and which shall operate as an instrumentality of the Member
+8 States.
+9 F. “Current Significant Investigative Information” means:
+10 1. Investigative information that a Licensing Authority, after a
+11 preliminary inquiry that includes notification and an opportunity for the
+12 Regulated Social Worker to respond has reason to believe is not groundless
+13 and, if proved true, would indicate more than a minor infraction as may be
+14 defined by the Commission; or
+15 2. Investigative information that indicates that the Regulated
+16 Social Worker represents an immediate threat to public health and safety, as
+17 may be defined by the Commission, regardless of whether the Regulated Social
+18 Worker has been notified and has had an opportunity to respond.
+19 G. “Data System” means a repository of information about Licensees,
+20 including, continuing education, examination, licensure, Current Significant
+21 Investigative Information, Disqualifying Event, Multistate License(s) and
+22 Adverse Action information or other information as required by the
+23 Commission.
+24 H. “Disqualifying Event” means any Adverse Action or incident which
+25 results in an Encumbrance that disqualifies or makes the Licensee ineligible
+26 to either obtain, retain or renew a Multistate License.
+27 I. “Domicile” means the jurisdiction in which the Licensee resides and
+28 intends to remain indefinitely.
+29 J. “Encumbrance” means a revocation or suspension of, or any
+30 limitation on, the full and unrestricted practice of Social Work licensed and
+31 regulated by a Licensing Authority.
+32 K. “Executive Committee” means a group of delegates elected or
+33 appointed to act on behalf of, and within the powers granted to them by, the
+34 compact and Commission.
+35 L. “Home State” means the Member State that is the Licensee’s primary
+36 Domicile.
+3 03/07/2025 3:25:10 PM JMB393
+
+HB1712
+1 M. “Impairment” means a condition(s) that may impair a practitioner’s
+2 ability to engage in full and unrestricted practice as a Regulated Social
+3 Worker without some type of intervention and may include alcohol and drug
+4 dependence, mental health impairment, and neurological or physical
+5 impairments.
+6 N. “Licensee(s)” means an individual who currently holds a license
+7 from a State to practice as a Regulated Social Worker.
+8 O. “Licensing Authority” means the board or agency of a Member State,
+9 or equivalent, that is responsible for the licensing and regulation of
+10 Regulated Social Workers.
+11 P. “Member State” means a state, commonwealth, district, or territory
+12 of the United States of America that has enacted this Compact.
+13 Q. “Multistate Authorization to Practice” means a legally authorized
+14 privilege to practice, which is equivalent to a license, associated with a
+15 Multistate License permitting the practice of Social Work in a Remote State.
+16 R. “Multistate License” means a license to practice as a Regulated
+17 Social Worker issued by a Home State Licensing Authority that authorizes the
+18 Regulated Social Worker to practice in all Member States under Multistate
+19 Authorization to Practice.
+20 S. “Qualifying National Exam” means a national licensing examination
+21 approved by the Commission.
+22 T. “Regulated Social Worker” means any clinical, master’s or
+23 bachelor’s Social Worker licensed by a Member State regardless of the title
+24 used by that Member State.
+25 U. “Remote State” means a Member State other than the Licensee’s Home
+26 State.
+27 V. “Rule(s)” or “Rule(s) of the Commission” means a regulation or
+28 regulations duly promulgated by the Commission, as authorized by the Compact,
+29 that has the force of law.
+30 W. “Single State License” means a Social Work license issued by any
+31 State that authorizes practice only within the issuing State and does not
+32 include Multistate Authorization to Practice in any Member State.
+33 X. “Social Work” or “Social Work Services” means the application of
+34 social work theory, knowledge, methods, ethics, and the professional use of
+35 self to restore or enhance social, psychosocial, or biopsychosocial
+36 functioning of individuals, couples, families, groups, organizations, and
+4 03/07/2025 3:25:10 PM JMB393
+
+HB1712
+1 communities through the care and services provided by a Regulated Social
+2 Worker as set forth in the Member State’s statutes and regulations in the
+3 State where the services are being provided.
+4 Y. “State” means any state, commonwealth, district, or territory of
+5 the United States of America that regulates the practice of Social Work.
+6 Z. “Unencumbered License” means a license that authorizes a Regulated
+7 Social Worker to engage in the full and unrestricted practice of Social Work.
+8
+9 SECTION 3. STATE PARTICIPATION IN THE COMPACT
+10 A. To be eligible to participate in the compact, a potential Member
+11 State must currently meet all of the following criteria:
+12 1. License and regulate the practice of Social Work at either
+13 the clinical, master’s, or bachelor’s category.
+14 2. Require applicants for licensure to graduate from a program
+15 that is:
+16 a. Operated by a college or university recognized by the
+17 Licensing Authority;
+18 b. Accredited, or in candidacy by an institution that
+19 subsequently becomes accredited, by an accrediting agency recognized by
+20 either:
+21 i. the Council for Higher Education Accreditation,
+22 or its successor; or
+23 ii. the United States Department of Education; and
+24 c. Corresponds to the licensure sought as outlined in
+25 Section 4.
+26 3. Require applicants for clinical licensure to complete a
+27 period of supervised practice.
+28 4. Have a mechanism in place for receiving, investigating, and
+29 adjudicating complaints about Licensees.
+30 B. To maintain membership in the Compact a Member State shall:
+31 1. Require that applicants for a Multistate License pass a
+32 Qualifying National Exam for the corresponding category of Multistate License
+33 sought as outlined in Section 4.
+34 2. Participate fully in the Commission’s Data System, including
+35 using the Commission’s unique identifier as defined in Rules;
+36 3. Notify the Commission, in compliance with the terms of the
+5 03/07/2025 3:25:10 PM JMB393
+
+HB1712
+1 Compact and Rules, of any Adverse Action or the availability of Current
+2 Significant Investigative Information regarding a Licensee;
+3 4. Implement procedures for considering the criminal history
+4 records of applicants for a Multistate License. Such procedures shall include
+5 the submission of fingerprints or other biometric-based information by
+6 applicants for the purpose of obtaining an applicant’s criminal history
+7 record information from the Federal Bureau of Investigation and the agency
+8 responsible for retaining that State’s criminal records.
+9 5. Comply with the Rules of the Commission;
+10 6. Require an applicant to obtain or retain a license in the
+11 Home State and meet the Home State’s qualifications for licensure or renewal
+12 of licensure, as well as all other applicable Home State laws;
+13 7. Authorize a Licensee holding a Multistate License in any
+14 Member State to practice in accordance with the terms of the Compact and
+15 Rules of the Commission; and
+16 8. Designate a delegate to participate in the Commission
+17 meetings.
+18 C. A Member State meeting the requirements of Section 3.A. and 3.B. of
+19 this Compact shall designate the categories of Social Work licensure that are
+20 eligible for issuance of a Multistate License for applicants in such Member
+21 State. To the extent that any Member State does not meet the requirements for
+22 participation in the Compact at any particular category of Social Work
+23 licensure, such Member State may choose, but is not obligated to, issue a
+24 Multistate License to applicants that otherwise meet the requirements of
+25 Section 4 for issuance of a Multistate License in such category or categories
+26 of licensure.
+27 D. The Home State may charge a fee for granting the Multistate
+28 License.
+29
+30 SECTION 4. SOCIAL WORKER PARTICIPATION IN THE COMPACT
+31 A. To be eligible for a Multistate License under the terms and
+32 provisions of the Compact, an applicant, regardless of category must:
+33 1. Hold or be eligible for an active, Unencumbered License in
+34 the Home State;
+35 2. Pay any applicable fees, including any State fee, for the
+36 Multistate License;
+6 03/07/2025 3:25:10 PM JMB393
+
+HB1712
+1 3. Submit, in connection with an application for a Multistate
+2 License, fingerprints or other biometric data for the purpose of obtaining
+3 criminal history record information from the Federal Bureau of Investigation
+4 and the agency responsible for retaining that State’s criminal records.
+5 4. Notify the Home State of any Adverse Action, Encumbrance, or
+6 restriction on any professional license taken by any Member State or non-
+7 Member State within 30 days from the date the action is taken.
+8 5. Meet any continuing competence requirements established by
+9 the Home State;
+10 6. Abide by the laws, regulations, and applicable standards in
+11 the Member State where the client is located at the time care is rendered.
+12 B. An applicant for a clinical-category Multistate License must meet
+13 all of the following requirements:
+14 2. Fulfill a competency requirement, which shall be satisfied by
+15 either:
+16 a. Passage of a clinical-category Qualifying National
+17 Exam; or
+18 b. Licensure of the applicant in their Home State at the
+19 clinical category, beginning prior to such time as a Qualifying National Exam
+20 was required by the Home State and accompanied by a period of continuous
+21 Social Work licensure thereafter, all of which may be further governed by the
+22 Rules of the Commission; or
+23 c. The substantial equivalency of the foregoing competency
+24 requirements which the Commission may determine by Rule.
+25 3. Attain at least a master’s degree in Social Work from a
+26 program that is:
+27 a. Operated by a college or university recognized by the
+28 Licensing Authority; and
+29 b. Accredited, or in candidacy that subsequently becomes
+30 accredited, by an accrediting agency recognized by either:
+31 i. the Council for Higher Education Accreditation or
+32 its successor; or
+33 ii. the United States Department of Education.
+34 4. Fulfill a practice requirement, which shall be satisfied by
+35 demonstrating completion of either:
+36 a. A period of postgraduate supervised clinical practice
+7 03/07/2025 3:25:10 PM JMB393
+
+HB1712
+1 equal to a minimum of three thousand hours; or
+2 b. A minimum of two years of full-time postgraduate
+3 supervised clinical practice; or
+4 c. The substantial equivalency of the foregoing practice
+5 requirements which the Commission may determine by Rule.
+6 C. An applicant for a master’s-category Multistate License must meet
+7 all of the following requirements:
+8 1. Fulfill a competency requirement, which shall be satisfied by
+9 either:
+10 a. Passage of a master's-category Qualifying National
+11 Exam;
+12 b. Licensure of the applicant in their Home State at the
+13 master’s category, beginning prior to such time as a Qualifying National Exam
+14 was required by the Home State at the master’s category and accompanied by a
+15 continuous period of Social Work licensure thereafter, all of which may be
+16 further governed by the Rules of the Commission; or
+17 c. The substantial equivalency of the foregoing competency
+18 requirements which the Commission may determine by Rule.
+19 2. Attain at least a master’s degree in Social Work from a
+20 program that is:
+21 a. Operated by a college or university recognized by the
+22 Licensing Authority; and
+23 b. Accredited, or in candidacy that subsequently becomes
+24 accredited, by an accrediting agency recognized by either:
+25 i. the Council for Higher Education Accreditation or
+26 its successor; or
+27 ii. the United States Department of Education.
+28 D. An applicant for a bachelor’s-category Multistate License must meet
+29 all of the following requirements:
+30 1. Fulfill a competency requirement, which shall be satisfied by
+31 either:
+32 a. Passage of a bachelor’s-category Qualifying National
+33 Exam;
+34 b. Licensure of the applicant in their Home State at the
+35 bachelor’s category, beginning prior to such time as a Qualifying National
+36 Exam was required by the Home State and accompanied by a period of continuous
+8 03/07/2025 3:25:10 PM JMB393
+
+HB1712
+1 Social Work licensure thereafter, all of which may be further governed by the
+2 Rules of the Commission; or
+3 c. The substantial equivalency of the foregoing competency
+4 requirements which the Commission may determine by Rule.
+5 2. Attain at least a bachelor’s degree in Social Work from a
+6 program that is:
+7 a. Operated by a college or university recognized by the
+8 Licensing Authority; and
+9 b. Accredited, or in candidacy that subsequently becomes
+10 accredited, by an accrediting agency recognized by either:
+11 i. the Council for Higher Education Accreditation or
+12 its successor; or
+13 ii. the United States Department of Education.
+14 E. The Multistate License for a Regulated Social Worker is subject to
+15 the renewal requirements of the Home State. The Regulated Social Worker must
+16 maintain compliance with the requirements of Section 4.A. to be eligible to
+17 renew a Multistate License.
+18 F. The Regulated Social Worker’s services in a Remote State are
+19 subject to that Member State’s regulatory authority. A Remote State may, in
+20 accordance with due process and that Member State’s laws, remove a Regulated
+21 Social Worker’s Multistate Authorization to Practice in the Remote State for
+22 a specific period of time, impose fines, and take any other necessary actions
+23 to protect the health and safety of its citizens.
+24 G. If a Multistate License is encumbered, the Regulated Social
+25 Worker’s Multistate Authorization to Practice shall be deactivated in all
+26 Remote States until the Multistate License is no longer encumbered.
+27 H. If a Multistate Authorization to Practice is encumbered in a Remote
+28 State, the regulated Social Worker’s Multistate Authorization to Practice may
+29 be deactivated in that State until the Multistate Authorization to Practice
+30 is no longer encumbered.
+31
+32 SECTION 5: ISSUANCE OF A MULTISTATE LICENSE
+33 A. Upon receipt of an application for Multistate License, the Home
+34 State Licensing Authority shall determine the applicant’s eligibility for a
+35 Multistate License in accordance with Section 4 of this Compact.
+36 B. If such applicant is eligible pursuant to Section 4 of this
+9 03/07/2025 3:25:10 PM JMB393
+
+HB1712
+1 Compact, the Home State Licensing Authority shall issue a Multistate License
+2 that authorizes the applicant or Regulated Social Worker to practice in all
+3 Member States under a Multistate Authorization to Practice.
+4 C. Upon issuance of a Multistate License, the Home State Licensing
+5 Authority shall designate whether the Regulated Social Worker holds a
+6 Multistate License in the Bachelors, Masters, or Clinical category of Social
+7 Work.
+8 D. A Multistate License issued by a Home State to a resident in that
+9 State shall be recognized by all Compact Member States as authorizing Social
+10 Work Practice under a Multistate Authorization to Practice corresponding to
+11 each category of licensure regulated in each Member State.
+12
+13 SECTION 6: AUTHORITY OF INTERSTATE COMPACT COMMISSION AND MEMBER STATE
+14 LICENSING AUTHORITIES
+15 A. Nothing in this Compact, nor any Rule of the Commission, shall be
+16 construed to limit, restrict, or in any way reduce the ability of a Member
+17 State to enact and enforce laws, regulations, or other rules related to the
+18 practice of Social Work in that State, where those laws, regulations, or
+19 other rules are not inconsistent with the provisions of this Compact.
+20 B. Nothing in this Compact shall affect the requirements established
+21 by a Member State for the issuance of a Single State License.
+22 C. Nothing in this Compact, nor any Rule of the Commission, shall be
+23 construed to limit, restrict, or in any way reduce the ability of a Member
+24 State to take Adverse Action against a Licensee’s Single State License to
+25 practice Social Work in that State.
+26 D. Nothing in this Compact, nor any Rule of the Commission, shall be
+27 construed to limit, restrict, or in any way reduce the ability of a Remote
+28 State to take Adverse Action against a Licensee’s Multistate Authorization to
+29 Practice in that State.
+30 E. Nothing in this Compact, nor any Rule of the Commission, shall be
+31 construed to limit, restrict, or in any way reduce the ability of a
+32 Licensee’s Home State to take Adverse Action against a Licensee’s Multistate
+33 License based upon information provided by a Remote State.
+34
+35 SECTION 7: REISSUANCE OF A MULTISTATE LICENSE BY A NEW HOME STATE
+36 A. A Licensee can hold a Multistate License, issued by their Home
+10 03/07/2025 3:25:10 PM JMB393
+
+HB1712
+1 State, in only one Member State at any given time.
+2 B. If a Licensee changes their Home State by moving between two Member
+3 States:
+4 1. The Licensee shall immediately apply for the reissuance of
+5 their Multistate License in their new Home State. The Licensee shall pay all
+6 applicable fees and notify the prior Home State in accordance with the Rules
+7 of the Commission.
+8 2. Upon receipt of an application to reissue a Multistate
+9 License, the new Home State shall verify that the Multistate License is
+10 active, unencumbered and eligible for reissuance under the terms of the
+11 Compact and the Rules of the Commission. The Multistate License issued by the
+12 prior Home State will be deactivated and all Member States notified in
+13 accordance with the applicable Rules adopted by the Commission.
+14 3. Prior to the reissuance of the Multistate License, the new
+15 Home State shall conduct procedures for considering the criminal history
+16 records of the Licensee. Such procedures shall include the submission of
+17 fingerprints or other biometric-based information by applicants for the
+18 purpose of obtaining an applicant’s criminal history record information from
+19 the Federal Bureau of Investigation and the agency responsible for retaining
+20 that State’s criminal records.
+21 4. If required for initial licensure, the new Home State may
+22 require completion of jurisprudence requirements in the new Home State.
+23 5. Notwithstanding any other provision of this Compact, if a
+24 Licensee does not meet the requirements set forth in this Compact for the
+25 reissuance of a Multistate License by the new Home State, then the Licensee
+26 shall be subject to the new Home State requirements for the issuance of a
+27 Single State License in that State.
+28 C. If a Licensee changes their primary State of residence by moving
+29 from a Member State to a non-Member State, or from a non-Member State to a
+30 Member State, then the Licensee shall be subject to the State requirements
+31 for the issuance of a Single State License in the new Home State.
+32 D. Nothing in this Compact shall interfere with a Licensee’s ability
+33 to hold a Single State License in multiple States; however, for the purposes
+34 of this Compact, a Licensee shall have only one Home State, and only one
+35 Multistate License.
+36 E. Nothing in this Compact shall interfere with the requirements
+11 03/07/2025 3:25:10 PM JMB393
+
+HB1712
+1 established by a Member State for the issuance of a Single State License.
+2
+3 SECTION 8. MILITARY FAMILIES
+4 An Active Military Member or their spouse shall designate a Home State
+5 where the individual has a Multistate License. The individual may retain
+6 their Home State designation during the period the service member is on
+7 active duty.
+8
+9 SECTION 9. ADVERSE ACTIONS
+10 A. In addition to the other powers conferred by State law, a Remote
+11 State shall have the authority, in accordance with existing State due process
+12 law, to:
+13 1. Take Adverse Action against a Regulated Social Worker’s
+14 Multistate Authorization to Practice only within that Member State, and issue
+15 subpoenas for both hearings and investigations that require the attendance
+16 and testimony of witnesses as well as the production of evidence. Subpoenas
+17 issued by a Licensing Authority in a Member State for the attendance and
+18 testimony of witnesses or the production of evidence from another Member
+19 State shall be enforced in the latter State by any court of competent
+20 jurisdiction, according to the practice and procedure of that court
+21 applicable to subpoenas issued in proceedings pending before it. The issuing
+22 Licensing Authority shall pay any witness fees, travel expenses, mileage, and
+23 other fees required by the service statutes of the State in which the
+24 witnesses or evidence are located.
+25 2. Only the Home State shall have the power to take Adverse
+26 Action against a Regulated Social Worker’s Multistate License.
+27 B. For purposes of taking Adverse Action, the Home State shall give
+28 the same priority and effect to reported conduct received from a Member State
+29 as it would if the conduct had occurred within the Home State. In so doing,
+30 the Home State shall apply its own State laws to determine appropriate
+31 action.
+32 C. The Home State shall complete any pending investigations of a
+33 Regulated Social Worker who changes their Home State during the course of the
+34 investigations. The Home State shall also have the authority to take
+35 appropriate action(s) and shall promptly report the conclusions of the
+36 investigations to the administrator of the Data System. The administrator of
+12 03/07/2025 3:25:10 PM JMB393
+
+HB1712
+1 the Data System shall promptly notify the new Home State of any Adverse
+2 Actions.
+3 D. A Member State, if otherwise permitted by State law, may recover
+4 from the affected Regulated Social Worker the costs of investigations and
+5 dispositions of cases resulting from any Adverse Action taken against that
+6 Regulated Social Worker.
+7 E. A Member State may take Adverse Action based on the factual
+8 findings of another Member State, provided that the Member State follows its
+9 own procedures for taking the Adverse Action.
+10 F. Joint Investigations:
+11 1. In addition to the authority granted to a Member State by its
+12 respective Social Work practice act or other applicable State law, any Member
+13 State may participate with other Member States in joint investigations of
+14 Licensees.
+15 2. Member States shall share any investigative, litigation, or
+16 compliance materials in furtherance of any joint or individual investigation
+17 initiated under the Compact.
+18 G. If Adverse Action is taken by the Home State against the Multistate
+19 License of a Regulated Social Worker, the Regulated Social Worker’s
+20 Multistate Authorization to Practice in all other Member States shall be
+21 deactivated until all Encumbrances have been removed from the Multistate
+22 License. All Home State disciplinary orders that impose Adverse Action
+23 against the license of a Regulated Social Worker shall include a statement
+24 that the Regulated Social Worker’s Multistate Authorization to Practice is
+25 deactivated in all Member States until all conditions of the decision, order
+26 or agreement are satisfied.
+27 H. If a Member State takes Adverse Action, it shall promptly notify
+28 the administrator of the Data System. The administrator of the Data System
+29 shall promptly notify the Home State and all other Member State’s of any
+30 Adverse Actions by Remote States.
+31 I. Nothing in this Compact shall override a Member State’s decision
+32 that participation in an Alternative Program may be used in lieu of Adverse
+33 Action.
+34 J. Nothing in this Compact shall authorize a Member State to demand
+35 the issuance of subpoenas for attendance and testimony of witnesses or the
+36 production of evidence from another Member State for lawful actions within
+13 03/07/2025 3:25:10 PM JMB393
+
+HB1712
+1 that Member State.
+2 K. Nothing in this Compact shall authorize a Member State to impose
+3 discipline against a Regulated Social Worker who holds a Multistate
+4 Authorization to Practice for lawful actions within another Member State.
+5
+6 SECTION 10. ESTABLISHMENT OF SOCIAL WORK LICENSURE COMPACT COMMISSION
+7 A. The Compact Member States hereby create and establish a joint
+8 government agency whose membership consists of all Member States that have
+9 enacted the compact known as the Social Work Licensure Compact Commission.
+10 The Commission is an instrumentality of the Compact States acting jointly and
+11 not an instrumentality of any one State. The Commission shall come into
+12 existence on or after the effective date of the Compact as set forth in
+13 Section 14.
+14 B. Membership, Voting, and Meetings
+15 1. Each Member State shall have and be limited to one (1)
+16 delegate selected by that Member State’s State Licensing Authority.
+17 2. The delegate shall be either:
+18 a. A current member of the State Licensing Authority at
+19 the time of appointment, who is a Regulated Social Worker or public member of
+20 the State Licensing Authority; or
+21 b. An administrator of the State Licensing Authority or
+22 their designee.
+23 3. The Commission shall by Rule or bylaw establish a term of
+24 office for delegates and may by Rule or bylaw establish term limits.
+25 4. The Commission may recommend removal or suspension of any
+26 delegate from office.
+27 5. A Member State’s State Licensing Authority shall fill any
+28 vacancy of its delegate occurring on the Commission within 60 days of the
+29 vacancy.
+30 6. Each delegate shall be entitled to one vote on all matters
+31 before the Commission requiring a vote by Commission delegates.
+32 7. A delegate shall vote in person or by such other means as
+33 provided in the bylaws. The bylaws may provide for delegates to meet by
+34 telecommunication, videoconference, or other means of communication.
+35 8. The Commission shall meet at least once during each calendar
+36 year. Additional meetings may be held as set forth in the bylaws. The
+14 03/07/2025 3:25:10 PM JMB393
+
+HB1712
+1 Commission may meet by telecommunication, video conference or other similar
+2 electronic means.
+3 C. The Commission shall have the following powers:
+4 1. Establish the fiscal year of the Commission;
+5 2. Establish code of conduct and conflict of interest policies;
+6 3. Establish and amend Rules and bylaws;
+7 4. Maintain its financial records in accordance with the bylaws;
+8 5. Meet and take such actions as are consistent with the
+9 provisions of this Compact, the Commission’s Rules, and the bylaws;
+10 6. Initiate and conclude legal proceedings or actions in the
+11 name of the Commission, provided that the standing of any State Licensing
+12 Board to sue or be sued under applicable law shall not be affected;
+13 7. Maintain and certify records and information provided to a
+14 Member State as the authenticated business records of the Commission, and
+15 designate an agent to do so on the Commission's behalf;
+16 8. Purchase and maintain insurance and bonds;
+17 9. Borrow, accept, or contract for services of personnel,
+18 including, but not limited to, employees of a Member State;
+19 10. Conduct an annual financial review;
+20 11. Hire employees, elect or appoint officers, fix compensation,
+21 define duties, grant such individuals appropriate authority to carry out the
+22 purposes of the Compact, and establish the Commission’s personnel policies
+23 and programs relating to conflicts of interest, qualifications of personnel,
+24 and other related personnel matters;
+25 12. Assess and collect fees;
+26 13. Accept any and all appropriate gifts, donations, grants of
+27 money, other sources of revenue, equipment, supplies, materials, and
+28 services, and receive, utilize, and dispose of the same; provided that at all
+29 times the Commission shall avoid any appearance of impropriety or conflict of
+30 interest;
+31 14. Lease, purchase, retain, own, hold, improve, or use any
+32 property, real, personal, or mixed, or any undivided interest therein;
+33 15. Sell, convey, mortgage, pledge, lease, exchange, abandon, or
+34 otherwise dispose of any property real, personal, or mixed;
+35 16. Establish a budget and make expenditures;
+36 17. Borrow money;
+15 03/07/2025 3:25:10 PM JMB393
+
+HB1712
+1 18. Appoint committees, including standing committees, composed
+2 of members, State regulators, State legislators or their representatives, and
+3 consumer representatives, and such other interested persons as may be
+4 designated in this Compact and the bylaws;
+5 19. Provide and receive information from, and cooperate with,
+6 law enforcement agencies;
+7 20. Establish and elect an Executive Committee, including a
+8 chair and a vice chair;
+9 21. Determine whether a State’s adopted language is materially
+10 different from the model compact language such that the State would not
+11 qualify for participation in the Compact; and
+12 22. Perform such other functions as may be necessary or
+13 appropriate to achieve the purposes of this Compact.
+14 D. The Executive Committee
+15 1. The Executive Committee shall have the power to act on behalf
+16 of the Commission according to the terms of this Compact. The powers, duties,
+17 and responsibilities of the Executive Committee shall include:
+18 a. Oversee the day-to-day activities of the administration
+19 of the compact including enforcement and compliance with the provisions of
+20 the compact, its Rules and bylaws, and other such duties as deemed necessary;
+21 b. Recommend to the Commission changes to the Rules or
+22 bylaws, changes to this Compact legislation, fees charged to Compact Member
+23 States, fees charged to Licensees, and other fees;
+24 c. Ensure Compact administration services are
+25 appropriately provided, including by contract;
+26 d. Prepare and recommend the budget;
+27 e. Maintain financial records on behalf of the Commission;
+28 f. Monitor Compact compliance of Member States and provide
+29 compliance reports to the Commission;
+30 g. Establish additional committees as necessary;
+31 h. Exercise the powers and duties of the Commission during
+32 the interim between Commission meetings, except for adopting or amending
+33 Rules, adopting or amending bylaws, and exercising any other powers and
+34 duties expressly reserved to the Commission by Rule or bylaw; and
+35 i. Other duties as provided in the Rules or bylaws of the
+36 Commission.
+16 03/07/2025 3:25:10 PM JMB393
+
+HB1712
+1 2. The Executive Committee shall be composed of up to eleven
+2 (11) members:
+3 a. The chair and vice chair of the Commission shall be
+4 voting members of the Executive Committee; and
+5 b. The Commission shall elect five voting members from the
+6 current membership of the Commission.
+7 c. Up to four (4) ex-officio, nonvoting members from four
+8 (4) recognized national Social Work organizations.
+9 d. The ex-officio members will be selected by their
+10 respective organizations.
+11 3. The Commission may remove any member of the Executive
+12 Committee as provided in the Commission’s bylaws.
+13 4. The Executive Committee shall meet at least annually.
+14 a. Executive Committee meetings shall be open to the
+15 public, except that the Executive Committee may meet in a closed, non-public
+16 meeting as provided in subsection F.2. below.
+17 b. The Executive Committee shall give seven (7) days’
+18 notice of its meetings, posted on its website and as determined to provide
+19 notice to persons with an interest in the business of the Commission.
+20 c. The Executive Committee may hold a special meeting in
+21 accordance with subsection F.1.b. below.
+22 E. The Commission shall adopt and provide to the Member States an
+23 annual report.
+24 F. Meetings of the Commission
+25 1. All meetings shall be open to the public, except that the
+26 Commission may meet in a closed, non-public meeting as provided in subsection
+27 F.2. below.
+28 a. Public notice for all meetings of the full Commission
+29 of meetings shall be given in the same manner as required under the
+30 Rulemaking provisions in Section 12, except that the Commission may hold a
+31 special meeting as provided in subsection F.1.b. below.
+32 b. The Commission may hold a special meeting when it must
+33 meet to conduct emergency business by giving 48 hours’ notice to all
+34 commissioners, on the Commission’s website, and other means as provided in
+35 the Commission’s Rules. The Commission’s legal counsel shall certify that the
+36 Commission’s need to meet qualifies as an emergency.
+17 03/07/2025 3:25:10 PM JMB393
+
+HB1712
+1 2. The Commission or the Executive Committee or other committees
+2 of the Commission may convene in a closed, non-public meeting for the
+3 Commission or Executive Committee or other committees of the Commission to
+4 receive legal advice or to discuss:
+5 a. Non-compliance of a Member State with its obligations
+6 under the Compact;
+7 b. The employment, compensation, discipline or other
+8 matters, practices or procedures related to specific employees;
+9 c. Current or threatened discipline of a Licensee by the
+10 Commission or by a Member State’s Licensing Authority;
+11 d. Current, threatened, or reasonably anticipated
+12 litigation;
+13 e. Negotiation of contracts for the purchase, lease, or
+14 sale of goods, services, or real estate;
+15 f. Accusing any person of a crime or formally censuring
+16 any person;
+17 g. Trade secrets or commercial or financial information
+18 that is privileged or confidential;
+19 h. Information of a personal nature where disclosure would
+20 constitute a clearly unwarranted invasion of personal privacy;
+21 i. Investigative records compiled for law enforcement
+22 purposes;
+23 j. Information related to any investigative reports
+24 prepared by or on behalf of or for use of the Commission or other committee
+25 charged with responsibility of investigation or determination of compliance
+26 issues pursuant to the Compact;
+27 k. Matters specifically exempted from disclosure by
+28 federal or Member State law; or
+29 l. Other matters as promulgated by the Commission by Rule.
+30 3. If a meeting, or portion of a meeting, is closed, the
+31 presiding officer shall state that the meeting will be closed and reference
+32 each relevant exempting provision, and such reference shall be recorded in
+33 the minutes.
+34 4. The Commission shall keep minutes that fully and clearly
+35 describe all matters discussed in a meeting and shall provide a full and
+36 accurate summary of actions taken, and the reasons therefore, including a
+18 03/07/2025 3:25:10 PM JMB393
+
+HB1712
+1 description of the views expressed. All documents considered in connection
+2 with an action shall be identified in such minutes. All minutes and documents
+3 of a closed meeting shall remain under seal, subject to release only by a
+4 majority vote of the Commission or order of a court of competent
+5 jurisdiction.
+6 G. Financing of the Commission
+7 1. The Commission shall pay, or provide for the payment of, the
+8 reasonable expenses of its establishment, organization, and ongoing
+9 activities.
+10 2. The Commission may accept any and all appropriate revenue
+11 sources as provided in subsection C.13.
+12 3. The Commission may levy on and collect an annual assessment
+13 from each Member State and impose fees on Licensees of Member States to whom
+14 it grants a Multistate License to cover the cost of the operations and
+15 activities of the Commission and its staff, which must be in a total amount
+16 sufficient to cover its annual budget as approved each year for which revenue
+17 is not provided by other sources. The aggregate annual assessment amount for
+18 Member States shall be allocated based upon a formula that the Commission
+19 shall promulgate by Rule.
+20 4. The Commission shall not incur obligations of any kind prior
+21 to securing the funds adequate to meet the same; nor shall the Commission
+22 pledge the credit of any of the Member States, except by and with the
+23 authority of the Member State.
+24 5. The Commission shall keep accurate accounts of all receipts
+25 and disbursements. The receipts and disbursements of the Commission shall be
+26 subject to the financial review and accounting procedures established under
+27 its bylaws. However, all receipts and disbursements of funds handled by the
+28 Commission shall be subject to an annual financial review by a certified or
+29 licensed public accountant, and the report of the financial review shall be
+30 included in and become part of the annual report of the Commission.
+31 H. Qualified Immunity, Defense, and Indemnification
+32 1. The members, officers, executive director, employees and
+33 representatives of the Commission shall be immune from suit and liability,
+34 both personally and in their official capacity, for any claim for damage to
+35 or loss of property or personal injury or other civil liability caused by or
+36 arising out of any actual or alleged act, error, or omission that occurred,
+19 03/07/2025 3:25:10 PM JMB393
+
+HB1712
+1 or that the person against whom the claim is made had a reasonable basis for
+2 believing occurred within the scope of Commission employment, duties or
+3 responsibilities; provided that nothing in this paragraph shall be construed
+4 to protect any such person from suit or liability for any damage, loss,
+5 injury, or liability caused by the intentional or willful or wanton
+6 misconduct of that person. The procurement of insurance of any type by the
+7 Commission shall not in any way compromise or limit the immunity granted
+8 hereunder.
+9 2. The Commission shall defend any member, officer, executive
+10 director, employee, and representative of the Commission in any civil action
+11 seeking to impose liability arising out of any actual or alleged act, error,
+12 or omission that occurred within the scope of Commission employment, duties,
+13 or responsibilities, or as determined by the Commission that the person
+14 against whom the claim is made had a reasonable basis for believing occurred
+15 within the scope of Commission employment, duties, or responsibilities;
+16 provided that nothing herein shall be construed to prohibit that person from
+17 retaining their own counsel at their own expense; and provided further, that
+18 the actual or alleged act, error, or omission did not result from that
+19 person’s intentional or willful or wanton misconduct.
+20 3. The Commission shall indemnify and hold harmless any member,
+21 officer, executive director, employee, and representative of the Commission
+22 for the amount of any settlement or judgment obtained against that person
+23 arising out of any actual or alleged act, error, or omission that occurred
+24 within the scope of Commission employment, duties, or responsibilities, or
+25 that such person had a reasonable basis for believing occurred within the
+26 scope of Commission employment, duties, or responsibilities, provided that
+27 the actual or alleged act, error, or omission did not result from the
+28 intentional or willful or wanton misconduct of that person.
+29 4. Nothing herein shall be construed as a limitation on the
+30 liability of any Licensee for professional malpractice or misconduct, which
+31 shall be governed solely by any other applicable State laws.
+32 5. Nothing in this Compact shall be interpreted to waive or
+33 otherwise abrogate a Member State’s state action immunity or state action
+34 affirmative defense with respect to antitrust claims under the Sherman Act,
+35 Clayton Act, or any other State or federal antitrust or anticompetitive law
+36 or regulation.
+20 03/07/2025 3:25:10 PM JMB393
+
+HB1712
+1 6. Nothing in this Compact shall be construed to be a waiver of
+2 sovereign immunity by the Member States or by the Commission.
+3
+4 SECTION 11 . DATA SYSTEM
+5 A. The Commission shall provide for the development, maintenance,
+6 operation, and utilization of a coordinated Data System.
+7 B. The Commission shall assign each applicant for a Multistate License
+8 a unique identifier, as determined by the Rules of the Commission.
+9 C. Notwithstanding any other provision of State law to the contrary, a
+10 Member State shall submit a uniform data set to the Data System on all
+11 individuals to whom this Compact is applicable as required by the Rules of
+12 the Commission, including:
+13 1. Identifying information;
+14 2. Licensure data;
+15 3. Adverse Actions against a license and information related
+16 thereto;
+17 4. Non-confidential information related to Alternative Program
+18 participation, the beginning and ending dates of such participation, and
+19 other information related to such participation not made confidential under
+20 Member State law;
+21 5. Any denial of application for licensure, and the reason(s)
+22 for such denial;
+23 6. The presence of Current Significant Investigative
+24 Information; and
+25 7. Other information that may facilitate the administration of
+26 this Compact or the protection of the public, as determined by the Rules of
+27 the Commission.
+28 D. The records and information provided to a Member State pursuant to
+29 this Compact or through the Data System, when certified by the Commission or
+30 an agent thereof, shall constitute the authenticated business records of the
+31 Commission, and shall be entitled to any associated hearsay exception in any
+32 relevant judicial, quasi-judicial or administrative proceedings in a Member
+33 State.
+34 E. Current Significant Investigative Information pertaining to a
+35 Licensee in any Member State will only be available to other Member States.
+36 1. It is the responsibility of the Member States to report any
+21 03/07/2025 3:25:10 PM JMB393
+
+HB1712
+1 Adverse Action against a Licensee and to monitor the database to determine
+2 whether Adverse Action has been taken against a Licensee. Adverse Action
+3 information pertaining to a Licensee in any Member State will be available to
+4 any other Member State.
+5 F. Member States contributing information to the Data System may
+6 designate information that may not be shared with the public without the
+7 express permission of the contributing State.
+8 G. Any information submitted to the Data System that is subsequently
+9 expunged pursuant to federal law or the laws of the Member State contributing
+10 the information shall be removed from the Data System.
+11
+12 SECTION 12. RULEMAKING
+13 A. The Commission shall promulgate reasonable Rules in order to
+14 effectively and efficiently implement and administer the purposes and
+15 provisions of the Compact. A Rule shall be invalid and have no force or
+16 effect only if a court of competent jurisdiction holds that the Rule is
+17 invalid because the Commission exercised its rulemaking authority in a manner
+18 that is beyond the scope and purposes of the Compact, or the powers granted
+19 hereunder, or based upon another applicable standard of review.
+20 B. The Rules of the Commission shall have the force of law in each
+21 Member State, provided however that where the Rules of the Commission
+22 conflict with the laws of the Member State that establish the Member State’s
+23 laws, regulations, and applicable standards that govern the practice of
+24 Social Work as held by a court of competent jurisdiction, the Rules of the
+25 Commission shall be ineffective in that State to the extent of the conflict.
+26 C. The Commission shall exercise its Rulemaking powers pursuant to the
+27 criteria set forth in this Section and the Rules adopted thereunder. Rules
+28 shall become binding on the day following adoption or the date specified in
+29 the rule or amendment, whichever is later.
+30 D. If a majority of the legislatures of the Member States rejects a
+31 Rule or portion of a Rule, by enactment of a statute or resolution in the
+32 same manner used to adopt the Compact within four (4) years of the date of
+33 adoption of the Rule, then such Rule shall have no further force and effect
+34 in any Member State.
+35 E. Rules shall be adopted at a regular or special meeting of the
+36 Commission.
+22 03/07/2025 3:25:10 PM JMB393
+
+HB1712
+1 F. Prior to adoption of a proposed Rule, the Commission shall hold a
+2 public hearing and allow persons to provide oral and written comments, data,
+3 facts, opinions, and arguments.
+4 G. Prior to adoption of a proposed Rule by the Commission, and at
+5 least thirty (30) days in advance of the meeting at which the Commission will
+6 hold a public hearing on the proposed Rule, the Commission shall provide a
+7 Notice of Proposed Rulemaking:
+8 1. On the website of the Commission or other publicly accessible
+9 platform;
+10 2. To persons who have requested notice of the Commission’s
+11 notices of proposed rulemaking; and
+12 3. In such other way(s) as the Commission may by Rule specify.
+13 H. The Notice of Proposed Rulemaking shall include:
+14 1. The time, date, and location of the public hearing at which
+15 the Commission will hear public comments on the proposed Rule and, if
+16 different, the time, date, and location of the meeting where the Commission
+17 will consider and vote on the proposed Rule;
+18 2. If the hearing is held via telecommunication, video
+19 conference, or other electronic means, the Commission shall include the
+20 mechanism for access to the hearing in the Notice of Proposed Rulemaking;
+21 3. The text of the proposed Rule and the reason therefor;
+22 4. A request for comments on the proposed Rule from any
+23 interested person; and
+24 5. The manner in which interested persons may submit written
+25 comments.
+26 I. All hearings will be recorded. A copy of the recording and all
+27 written comments and documents received by the Commission in response to the
+28 proposed Rule shall be available to the public.
+29 J. Nothing in this section shall be construed as requiring a separate
+30 hearing on each Rule. Rules may be grouped for the convenience of the
+31 Commission at hearings required by this section.
+32 K. The Commission shall, by majority vote of all members, take final
+33 action on the proposed Rule based on the Rulemaking record and the full text
+34 of the Rule.
+35 1. The Commission may adopt changes to the proposed Rule
+36 provided the changes do not enlarge the original purpose of the proposed
+23 03/07/2025 3:25:10 PM JMB393
+
+HB1712
+1 Rule.
+2 2. The Commission shall provide an explanation of the reasons
+3 for substantive changes made to the proposed Rule as well as reasons for
+4 substantive changes not made that were recommended by commenters.
+5 3. The Commission shall determine a reasonable effective date
+6 for the Rule. Except for an emergency as provided in Section 12.L., the
+7 effective date of the rule shall be no sooner than 30 days after issuing the
+8 notice that it adopted or amended the Rule.
+9 L. Upon determination that an emergency exists, the Commission may
+10 consider and adopt an emergency Rule with 48 hours’ notice, with opportunity
+11 to comment, provided that the usual Rulemaking procedures provided in the
+12 Compact and in this section shall be retroactively applied to the Rule as
+13 soon as reasonably possible, in no event later than ninety (90) days after
+14 the effective date of the Rule. For the purposes of this provision, an
+15 emergency Rule is one that must be adopted immediately in order to:
+16 1. Meet an imminent threat to public health, safety, or welfare;
+17 2. Prevent a loss of Commission or Member State funds;
+18 3. Meet a deadline for the promulgation of a Rule that is
+19 established by federal law or rule; or
+20 4. Protect public health and safety.
+21 M. The Commission or an authorized committee of the Commission may
+22 direct revisions to a previously adopted Rule for purposes of correcting
+23 typographical errors, errors in format, errors in consistency, or grammatical
+24 errors. Public notice of any revisions shall be posted on the website of the
+25 Commission. The revision shall be subject to challenge by any person for a
+26 period of thirty (30) days after posting. The revision may be challenged only
+27 on grounds that the revision results in a material change to a Rule. A
+28 challenge shall be made in writing and delivered to the Commission prior to
+29 the end of the notice period. If no challenge is made, the revision will take
+30 effect without further action. If the revision is challenged, the revision
+31 may not take effect without the approval of the Commission.
+32 N. No Member State’s rulemaking requirements shall apply under this
+33 Compact.
+34
+35 SECTION 13. OVERSIGHT, DISPUTE RESOLUTION, AND ENFORCEMENT
+36 A. Oversight
+24 03/07/2025 3:25:10 PM JMB393
+
+HB1712
+1 1. The executive and judicial branches of State government in
+2 each Member State shall enforce this Compact and take all actions necessary
+3 and appropriate to implement the Compact.
+4 2. Except as otherwise provided in this Compact, venue is proper
+5 and judicial proceedings by or against the Commission shall be brought solely
+6 and exclusively in a court of competent jurisdiction where the principal
+7 office of the Commission is located. The Commission may waive venue and
+8 jurisdictional defenses to the extent it adopts or consents to participate in
+9 alternative dispute resolution proceedings. Nothing herein shall affect or
+10 limit the selection or propriety of venue in any action against a Licensee
+11 for professional malpractice, misconduct or any such similar matter.
+12 3. The Commission shall be entitled to receive service of
+13 process in any proceeding regarding the enforcement or interpretation of the
+14 Compact and shall have standing to intervene in such a proceeding for all
+15 purposes. Failure to provide the Commission service of process shall render a
+16 judgment or order void as to the Commission, this Compact, or promulgated
+17 Rules.
+18 B. Default, Technical Assistance, and Termination
+19 1. If the Commission determines that a Member State has
+20 defaulted in the performance of its obligations or responsibilities under
+21 this Compact or the promulgated Rules, the Commission shall provide written
+22 notice to the defaulting State. The notice of default shall describe the
+23 default, the proposed means of curing the default, and any other action that
+24 the Commission may take, and shall offer training and specific technical
+25 assistance regarding the default.
+26 2. The Commission shall provide a copy of the notice of default
+27 to the other Member States.
+28 C. If a State in default fails to cure the default, the defaulting
+29 State may be terminated from the Compact upon an affirmative vote of a
+30 majority of the delegates of the Member States, and all rights, privileges
+31 and benefits conferred on that State by this Compact may be terminated on the
+32 effective date of termination. A cure of the default does not relieve the
+33 offending State of obligations or liabilities incurred during the period of
+34 default.
+35 D. Termination of membership in the Compact shall be imposed only
+36 after all other means of securing compliance have been exhausted. Notice of
+25 03/07/2025 3:25:10 PM JMB393
+
+HB1712
+1 intent to suspend or terminate shall be given by the Commission to the
+2 governor, the majority and minority leaders of the defaulting State’s
+3 legislature, the defaulting State’s State Licensing Authority and each of the
+4 Member States’ State Licensing Authority.
+5 E. A State that has been terminated is responsible for all
+6 assessments, obligations, and liabilities incurred through the effective date
+7 of termination, including obligations that extend beyond the effective date
+8 of termination.
+9 F. Upon the termination of a State’s membership from this Compact,
+10 that State shall immediately provide notice to all Licensees within that
+11 State of such termination. The terminated State shall continue to recognize
+12 all licenses granted pursuant to this Compact for a minimum of six (6) months
+13 after the date of said notice of termination.
+14 G. The Commission shall not bear any costs related to a State that is
+15 found to be in default or that has been terminated from the Compact, unless
+16 agreed upon in writing between the Commission and the defaulting State.
+17 H. The defaulting State may appeal the action of the Commission by
+18 petitioning the U.S. District Court for the District of Columbia or the
+19 federal district where the Commission has its principal offices. The
+20 prevailing party shall be awarded all costs of such litigation, including
+21 reasonable attorney’s fees.
+22 I. Dispute Resolution
+23 1. Upon request by a Member State, the Commission shall attempt
+24 to resolve disputes related to the Compact that arise among Member States and
+25 between Member and non-Member States.
+26 2. The Commission shall promulgate a Rule providing for both
+27 mediation and binding dispute resolution for disputes as appropriate.
+28 J. Enforcement
+29 1. By majority vote as provided by Rule, the Commission may
+30 initiate legal action against a Member State in default in the United States
+31 District Court for the District of Columbia or the federal district where the
+32 Commission has its principal offices to enforce compliance with the
+33 provisions of the Compact and its promulgated Rules. The relief sought may
+34 include both injunctive relief and damages. In the event judicial enforcement
+35 is necessary, the prevailing party shall be awarded all costs of such
+36 litigation, including reasonable attorney’s fees. The remedies herein shall
+26 03/07/2025 3:25:10 PM JMB393
+
+HB1712
+1 not be the exclusive remedies of the Commission. The Commission may pursue
+2 any other remedies available under federal or the defaulting Member State’s
+3 law.
+4 2. A Member State may initiate legal action against the
+5 Commission in the U.S. District Court for the District of Columbia or the
+6 federal district where the Commission has its principal offices to enforce
+7 compliance with the provisions of the Compact and its promulgated Rules. The
+8 relief sought may include both injunctive relief and damages. In the event
+9 judicial enforcement is necessary, the prevailing party shall be awarded all
+10 costs of such litigation, including reasonable attorney’s fees.
+11 3. No person other than a Member State shall enforce this
+12 Compact against the Commission.
+13
+14 SECTION 14. EFFECTIVE DATE, WITHDRAWAL, AND AMENDMENT
+15 A. The Compact shall come into effect on the date on which the Compact
+16 statute is enacted into law in the seventh Member State.
+17 1. On or after the effective date of the Compact, the Commission
+18 shall convene and review the enactment of each of the first seven Member
+19 States (“Charter Member States”) to determine if the statute enacted by each
+20 such Charter Member State is materially different than the model Compact
+21 statute.
+22 a. A Charter Member State whose enactment is found to be
+23 materially different from the model Compact statute shall be entitled to the
+24 default process set forth in Section 13.
+25 b. If any Member State is later found to be in default, or
+26 is terminated or withdraws from the Compact, the Commission shall remain in
+27 existence and the Compact shall remain in effect even if the number of Member
+28 States should be less than seven.
+29 2. Member States enacting the Compact subsequent to the seven
+30 initial Charter Member States shall be subject to the process set forth in
+31 Section 10.C.21. to determine if their enactments are materially different
+32 from the model Compact statute and whether they qualify for participation in
+33 the Compact.
+34 3. All actions taken for the benefit of the Commission or in
+35 furtherance of the purposes of the administration of the Compact prior to the
+36 effective date of the Compact or the Commission coming into existence shall
+27 03/07/2025 3:25:10 PM JMB393
+
+HB1712
+1 be considered to be actions of the Commission unless specifically repudiated
+2 by the Commission.
+3 4. Any State that joins the Compact subsequent to the
+4 Commission’s initial adoption of the Rules and bylaws shall be subject to the
+5 Rules and bylaws as they exist on the date on which the Compact becomes law
+6 in that State. Any Rule that has been previously adopted by the Commission
+7 shall have the full force and effect of law on the day the Compact becomes
+8 law in that State.
+9 B. Any Member State may withdraw from this Compact by enacting a
+10 statute repealing the same.
+11 1. A Member State’s withdrawal shall not take effect until 180
+12 days after enactment of the repealing statute.
+13 2. Withdrawal shall not affect the continuing requirement of the
+14 withdrawing State’s Licensing Authority to comply with the investigative and
+15 Adverse Action reporting requirements of this Compact prior to the effective
+16 date of withdrawal.
+17 3. Upon the enactment of a statute withdrawing from this
+18 compact, a State shall immediately provide notice of such withdrawal to all
+19 Licensees within that State. Notwithstanding any subsequent statutory
+20 enactment to the contrary, such withdrawing State shall continue to recognize
+21 all licenses granted pursuant to this compact for a minimum of 180 days after
+22 the date of such notice of withdrawal.
+23 C. Nothing contained in this Compact shall be construed to invalidate
+24 or prevent any licensure agreement or other cooperative arrangement between a
+25 Member State and a non-Member State that does not conflict with the
+26 provisions of this Compact.
+27 D. This Compact may be amended by the Member States. No amendment to
+28 this Compact shall become effective and binding upon any Member State until
+29 it is enacted into the laws of all Member States.
+30
+31 SECTION 15. CONSTRUCTION AND SEVERABILITY
+32 A. This Compact and the Commission’s rulemaking authority shall be
+33 liberally construed so as to effectuate the purposes, and the implementation
+34 and administration of the Compact. Provisions of the Compact expressly
+35 authorizing or requiring the promulgation of Rules shall not be construed to
+36 limit the Commission’s rulemaking authority solely for those purposes.
+28 03/07/2025 3:25:10 PM JMB393
+
+HB1712
+1 B. The provisions of this Compact shall be severable and if any
+2 phrase, clause, sentence or provision of this Compact is held by a court of
+3 competent jurisdiction to be contrary to the constitution of any Member
+4 State, a State seeking participation in the Compact, or of the United States,
+5 or the applicability thereof to any government, agency, person or
+6 circumstance is held to be unconstitutional by a court of competent
+7 jurisdiction, the validity of the remainder of this Compact and the
+8 applicability thereof to any other government, agency, person or circumstance
+9 shall not be affected thereby.
+10 C. Notwithstanding subsection B. of this section, the Commission may
+11 deny a State’s participation in the Compact or, in accordance with the
+12 requirements of Section 13.B., terminate a Member State’s participation in
+13 the Compact, if it determines that a constitutional requirement of a Member
+14 State is a material departure from the Compact. Otherwise, if this Compact
+15 shall be held to be contrary to the constitution of any Member State, the
+16 Compact shall remain in full force and effect as to the remaining Member
+17 States and in full force and effect as to the Member State affected as to all
+18 severable matters.
+19
+20 SECTION 16. CONSISTENT EFFECT AND CONFLICT WITH OTHER STATE LAWS
+21 A. A Licensee providing services in a Remote State under a Multistate
+22 Authorization to Practice shall adhere to the laws and regulations, including
+23 laws, regulations, and applicable standards, of the Remote State where the
+24 client is located at the time care is rendered.
+25 B. Nothing herein shall prevent or inhibit the enforcement of any
+26 other law of a Member State that is not inconsistent with the Compact.
+27 C. Any laws, statutes, regulations, or other legal requirements in a
+28 Member State in conflict with the Compact are superseded to the extent of the
+29 conflict.
+30 D. All permissible agreements between the Commission and the Member
+31 States are binding in accordance with their terms.
+32
+33 17-103-402. Administration of compact.
+34 (a) The Arkansas Social Work Licensing Board is the Social Work
+35 Licensure Compact administrator for this state.
+36 (b) The board may adopt rules that are consistent with the Social Work
+29 03/07/2025 3:25:10 PM JMB393
+
+HB1712
+1 Licensure Compact necessary to implement this subchapter.
+2 (c) The board is not required to adopt the rules of the Social Work
+3 Licensure Compact Commission for those rules to be effective in this state.
+4 (d) For the purposes of the member state's ability to reject a rule
+5 under Section 12(D) of the Social Work Licensure Compact, Arkansas delegates
+6 its authority in this provision to the General Assembly or the Legislative
+7 Council.
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+30 03/07/2025 3:25:10 PM JMB393
+
+[DELETED:          A I   T C  B   S a S   1  T b s   S   S  T R S p  T  A]
+[DELETED: H2 0  B w  C a  D p  E n r  F  G a  H a p t  I r   S  A f  A s t  B c A a P L l i  C p p]
+[DELETED: H3 0  D l e  E w i S S  F   1 p R a d   2 S m W  G i I A C  H r t  I i  J l r  K a c  L D]
+[DELETED: H4 0  M a W d i  N f  O o R  P o  Q p M  R S R A  S a  T b u  U S  V r t  W S i  X s s f]
+[DELETED: H5 0 c W S  Y t  Z S   S  A S   1 t   2 t    a L    b s e     i o     i    c S   3 p   4 a  B   1 Q s   2 u   3]
+[DELETED: H6 0 C S   4 r t a r r   5   6 H o   7 M R   8 m  C t e S p l M S o  D L   S  A p   1 t   2 M]
+[DELETED: H7 0   3 L c a   4 r M   5 t   6 t  B a   2 e    a E    b c w S R    c r   3 p    a L    b a     i i     i   4 d    a]
+[DELETED: H8 0 e    b s    c r  C a   1 e    a E    b m w c f    c r   2 p    a L    b a     i i     i  D a   1 e    a E    b b E]
+[DELETED: H9 0 S R    c r   2 p    a L    b a     i i     i  E t m r  F s a S a t  G W R  H S b i   S  A S M  B]
+[DELETED: H1 0 C t M  C A M W  D S W e   S L  A c S p o  B b  C c S p  D c S P  E c L L   S  A]
+[DELETED: H1 0 S  B S   1 t a o   2 L a C p a   3 H r f p t t   4 r   5 L r s S  C f M f  D t o M  E]
+[DELETED: H1 0 e   S  A w t a   S  A S l   1 M s a i t S j a L o w   2 A  B t a t a  C R i a i]
+[DELETED: H1 0 t A  D f d R  E f o  F   1 r S L   2 c i  G L M d L a t d o  H t s A  I t A  J t p]
+[DELETED: H1 0 t  K d A   S  A g e T n e S  B   1 d   2    a t t    b t   3 o   4 d   5 v v   6 b   7 p t   8 y]
+[DELETED: H1 0 C e  C   1   2   3   4   5 p   6 n B   7 M d   8   9 i   1   1 d p a a   1   1 m s t i   1 p   1 o   1   1]
+[DELETED: H1 0   1 o c d   1 l   2 c   2 d q   2 a  D   1 o a    a o t    b b S    c a    d    e    f c    g    h t R d    i C]
+[DELETED: H1 0   2 (    a v    b c    c (    d r   3 C   4    a p m    b n n    c a  E a  F   1 C F    a o R s    b m c t C]
+[DELETED: H1 0   2 o C r    a u    b m    c C    d l    e s    f a    g t    h c    i p    j p c i    k f    l   3 p e t   4 d a]
+[DELETED: H1 0 d w o m j  G   1 r a   2 s   3 f i a s i M s   4 t p a   5 a s i C l i  H   1 r b o a]
+[DELETED: H2 0 o b r t i m C h   2 d s o o a w p r t p   3 o f a w t s t i   4 l s   5 o a C o]
+[DELETED: H2 0   6 s   S  A o  B a  C M i t   1   2   3 t   4 p o M   5 f   6 I   7 t t  D t a C r S  E L   1]
+[DELETED: H2 0 A w i a  F d e  G e t   S  A e p e i t h  B M c l S C  C c s t  D R s a i  E C]
+[DELETED: H2 0  F p f  G l h N   1 p   2 n   3  H   1 t d w   2 c m   3   4 i   5 c  I w p  J h C  K a o   1 p]
+[DELETED: H2 0 R   2 f s   3 f e n  L c t C s t e   1   2   3 e   4  M d t e C p o c t e m  N C   S  A]
+[DELETED: H2 0   1 e a   2 a a o j a l f   3 p C p j R  B   1 d t n d t a   2 t  C S m a e o d  D a]
+[DELETED: H2 0 i g l M  E a o o  F t S a a  G f a  H p f p r  I   1 t b   2 m  J   1 i D C p i i l]
+[DELETED: H2 0 n a l   2 C f c r j c   3 C   S  A s   1 s S s s    a m d    b i e S   2 i S f t   3 f e]
+[DELETED: H2 0 b b   4 C R i s l  B s   1 d   2 w A d   3 c L e a t  C o M p  D t i   S  A l a a l]
+[DELETED: H2 0  B p c S o c j a s  C d r t S s C S s   S  A A l c  B o  C M c  D S   1  ( L  (]
+[DELETED: H3 0 L  ( L  ( u i C                             ]

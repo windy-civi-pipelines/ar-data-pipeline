@@ -247,6 +247,7 @@
     "division_id": "ocd-division/country:us/state:ar"
   },
   "_processing": {
-    "logs_latest_update": "2025-10-23T18:01:39Z"
+    "logs_latest_update": "2025-10-23T18:01:39Z",
+    "text_extraction_latest_update": "2025-10-24T06:22:58.510597Z"
   }
 }

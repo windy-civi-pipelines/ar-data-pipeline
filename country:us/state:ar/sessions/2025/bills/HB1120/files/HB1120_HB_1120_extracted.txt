@@ -1,0 +1,654 @@
+Title: Stricken language would be deleted from and underlined language would be added to present law.
+Official Title: Stricken language would be deleted from and underlined language would be added to present law.
+Number of Sections: 1
+Source: versions - HB 1120
+Media Type: application/pdf
+Strikethrough Detection: 8 sections found
+
+================================================================================
+
+Section 1:
+1 State of Arkansas
+A Bill
+2 95th General Assembly
+3 Regular Session, 2025 HOUSE BILL 1120
+4
+5 By: Joint Budget Committee
+6
+7
+For An Act To Be Entitled
+8
+9 AN ACT TO MAKE AN APPROPRIATION FOR PERSONAL SERVICES
+10 AND OPERATING EXPENSES FOR THE ARKANSAS PUBLIC
+11 EMPLOYEES RETIREMENT SYSTEM FOR THE FISCAL YEAR
+12 ENDING JUNE 30, 2026; AND FOR OTHER PURPOSES.
+13
+14
+Subtitle
+15
+16 AN ACT FOR THE ARKANSAS PUBLIC EMPLOYEES
+17 RETIREMENT SYSTEM APPROPRIATION FOR THE
+18 2025-2026 FISCAL YEAR.
+19
+20
+21 BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF ARKANSAS:
+22
+23 SECTION 1. REGULAR SALARIES. There is hereby established for the
+24 Arkansas Public Employees Retirement System for the 2025-2026 fiscal year,
+25 the following maximum number of regular employees.
+26
+27 Maximum Annual
+28 Maximum Salary Rate
+29 Item Class No. of Fiscal Year
+30 No. Code Title Employees 2025-2026
+31 (1) U014U APERS DIRECTOR 1 GRADE SE04
+32 (2) A147C APERS DEP DIR OF INVEST AND FINANCE 1 GRADE SE01
+33 (3) N254N APERS DEP DIR OF OPERATIONS 1 GRADE SE01
+34 (4) U078U APERS DEPUTY DIRECTOR 1 GRADE SE01
+35 (5) D148C APERS ASSOCI DIR OF INFORMATION TECHNO 1 GRADE IT11
+36 (6) D015N APERS DIRECTOR OF INFORMATION TECHNO 1 GRADE IT10
+*WFP009*
+01/14/2025 8:27:44 AM WFP009
+HB1120
+1 (7) D006N STATE SYSTEMS ARCHITECT 1 GRADE IT10
+2 (8) D030C INFORMATION SYSTEMS COORDINATOR 1 GRADE IT07
+3 (9) D044C SYSTEMS ANALYST 1 GRADE IT05
+4 (10) G042N APERS CHIEF LEGAL COUNSEL 1 GRADE GS14
+5 (11) A003N SENIOR INVESTMENT ANALYST 1 GRADE GS14
+6 (12) R003N APERS DIRECTOR OF BENEFITS ADMIN 2 GRADE GS13
+7 (13) G037N APERS DIRECTOR OF OPERATIONS 1 GRADE GS13
+8 (14) A027C ACCOUNTING OPERATIONS MANAGER 2 GRADE GS11
+9 (15) R013C AGENCY HUMAN RESOURCES MANAGER 1 GRADE GS11
+10 (16) R054C APERS BENEFITS OPERATIONS MGR 1 GRADE GS11
+11 (17) G047C ATTORNEY SPECIALIST 1 GRADE GS11
+12 (18) A052C ACCOUNTING COORDINATOR 1 GRADE GS09
+13 (19) A034C RETIREMENT SECTION MANAGER 3 GRADE GS09
+14 (20) A082C ACCOUNTANT II 10 GRADE GS08
+15 (21) A066C INTERNAL AUDITOR 1 GRADE GS08
+16 (22) A062C RETIREMENT COORDINATOR 5 GRADE GS08
+17 (23) R024C ASSISTANT PERSONNEL MANAGER 1 GRADE GS07
+18 (24) A079C INVESTMENT ANALYST 3 GRADE GS07
+19 (25) A078C RETIREMENT COUNSELOR 15 GRADE GS07
+20 (26) P031C MEDIA SPECIALIST 1 GRADE GS06
+21 (27) P027C PUBLIC INFORMATION SPECIALIST 1 GRADE GS06
+22 (28) A083C RETIREMENT ANALYST 9 GRADE GS06
+23 (29) X115C SOCIAL SECURITY ANALYST 1 GRADE GS06
+24 (30) C022C BUSINESS OPERATIONS SPECIALIST 1 GRADE GS05
+25 (31) A091C FISCAL SUPPORT ANALYST 2 GRADE GS05
+26 (32) C056C ADMINISTRATIVE SPECIALIST III 3 GRADE GS04
+27 (33) A098C FISCAL SUPPORT SPECIALIST 2 GRADE GS04
+28 MAX. NO. OF EMPLOYEES 78
+29
+30 SECTION 2. EXTRA HELP. There is hereby authorized, for the Arkansas
+31 Public Employees Retirement System for the 2025-2026 fiscal year, the
+32 following maximum number of part-time or temporary employees, to be known as
+33 "Extra Help", payable from funds appropriated herein for such purposes: six
+34 (6) temporary or part-time employees, when needed, at rates of pay not to
+35 exceed those provided in the Uniform Classification and Compensation Act, or
+36 its successor, or this act for the appropriate classification.
+2 01/14/2025 8:27:44 AM WFP009
+HB1120
+1 SECTION 3. APPROPRIATION - PUBLIC EMPLOYEES RETIREMENT - OPERATIONS.
+2 There is hereby appropriated, to the Arkansas Public Employees Retirement
+3 System, to be payable from the Arkansas Public Employees' Retirement System
+4 Fund, for personal services and operating expenses of the Arkansas Public
+5 Employees Retirement System for the fiscal year ending June 30, 2026, the
+6 following:
+7
+8 ITEM FISCAL YEAR
+9 NO. 2025-2026
+10 (01) REGULAR SALARIES $4,769,661
+11 (02) EXTRA HELP 75,000
+12 (03) PERSONAL SERVICES MATCHING 1,685,938
+13 (04) MAINT. & GEN. OPERATION
+14 (A) OPER. EXPENSE 2,137,473
+15 (B) CONF. & TRAVEL 67,500
+16 (C) PROF. FEES 2,000,000
+17 (D) CAP. OUTLAY 0
+18 (E) DATA PROC. 0
+19 (05) BENEFITS-NON EMPLOYEE 40,000,000
+20 (06) REFUNDS/REIMBURSEMENTS 85,000,000
+21 (07) DATA PROCESSING SERVICES 7,000,000
+22 TOTAL AMOUNT APPROPRIATED $142,735,572
+23
+24 SECTION 4. APPROPRIATION - PUBLIC EMPLOYEES RETIREMENT - CASH. There
+25 is hereby appropriated, to the Arkansas Public Employees Retirement System,
+26 to be payable from cash funds as defined by Arkansas Code §19-4-801, for
+27 payment to beneficiaries by check or wire transfer, by the Arkansas Public
+28 Employees Retirement System for the fiscal year ending June 30, 2026, the
+29 following:
+30
+31 ITEM FISCAL YEAR
+32 NO. 2025-2026
+33 (01) BENEFITS $675,000,000
+34 (02) REFUNDS/REIMBURSEMENTS 50,000,000
+35 TOTAL AMOUNT APPROPRIATED $725,000,000
+36
+3 01/14/2025 8:27:44 AM WFP009
+HB1120
+1 SECTION 5. APPROPRIATION - STATE POLICE RETIREMENT - OPERATIONS. There
+2 is hereby appropriated, to the Arkansas Public Employees Retirement System,
+3 to be payable from the State Police Retirement Fund, for operating expenses
+4 of the State Police Retirement System, by the Arkansas Public Employees
+5 Retirement System for the fiscal year ending June 30, 2026, the following:
+6
+7 ITEM FISCAL YEAR
+8 NO. 2025-2026
+9 (01) MAINT. & GEN. OPERATION
+10 (A) OPER. EXPENSE $20,000
+11 (B) CONF. & TRAVEL 0
+12 (C) PROF. FEES 265,950
+13 (D) CAP. OUTLAY 0
+14 (E) DATA PROC. 0
+15 (02) BENEFITS-NON EMPLOYEE 5,000,000
+16 (03) REFUNDS/REIMBURSEMENTS 25,000,000
+17 TOTAL AMOUNT APPROPRIATED $30,285,950
+18
+19 SECTION 6. APPROPRIATION - STATE POLICE RETIREMENT - CASH. There is
+20 hereby appropriated, to the Arkansas Public Employees Retirement System, to
+21 be payable from cash funds as defined by Arkansas Code §19-4-801, for payment
+22 to beneficiaries of the State Police Retirement System by check or wire
+23 transfer, by the Arkansas Public Employees Retirement System for the fiscal
+24 year ending June 30, 2026, the following:
+25
+26 ITEM FISCAL YEAR
+27 NO. 2025-2026
+28 (01) BENEFITS $31,000,000
+29 (02) REFUNDS/REIMBURSEMENTS 1,500,000
+30 TOTAL AMOUNT APPROPRIATED $32,500,000
+31
+32 SECTION 7. APPROPRIATION - JUDICIAL RETIREMENT - OPERATIONS. There is
+33 hereby appropriated, to the Arkansas Public Employees Retirement System, to
+34 be payable from the Judges Retirement Fund, for operating expenses of the
+35 Judicial Retirement System, by the Arkansas Public Employees Retirement
+36 System for the fiscal year ending June 30, 2026, the following:
+4 01/14/2025 8:27:44 AM WFP009
+HB1120
+1
+2 ITEM FISCAL YEAR
+3 NO. 2025-2026
+4 (01) MAINT. & GEN. OPERATION
+5 (A) OPER. EXPENSE $12,000
+6 (B) CONF. & TRAVEL 0
+7 (C) PROF. FEES 140,879
+8 (D) CAP. OUTLAY 0
+9 (E) DATA PROC. 0
+10 (02) BENEFITS-NON EMPLOYEE 500,000
+11 (03) REFUNDS/REIMBURSEMENTS 8,000,000
+12 TOTAL AMOUNT APPROPRIATED $8,652,879
+13
+14 SECTION 8. APPROPRIATION - JUDICIAL RETIREMENT - CASH. There is hereby
+15 appropriated, to the Arkansas Public Employees Retirement System, to be
+16 payable from cash funds as defined by Arkansas Code §19-4-801, for payment to
+17 beneficiaries of the Judicial Retirement System by check or wire transfer, by
+18 the Arkansas Public Employees Retirement System for the fiscal year ending
+19 June 30, 2026, the following:
+20
+21 ITEM FISCAL YEAR
+22 NO. 2025-2026
+23 (01) BENEFITS $20,750,000
+24 (02) REFUNDS/REIMBURSEMENTS 250,000
+25 TOTAL AMOUNT APPROPRIATED $21,000,000
+26
+27 SECTION 9. SPECIAL LANGUAGE. NOT TO BE INCORPORATED INTO THE ARKANSAS
+28 CODE NOR PUBLISHED SEPARATELY AS SPECIAL, LOCAL AND TEMPORARY LAW. JUDICIAL
+29 RETIREMENT FUND TRANSFERS. A sum not to exceed $150,000 in the 2024-2025
+30 2025-2026 fiscal year may be transferred from the Judges Retirement Fund to
+31 the Arkansas Public Employees' Retirement System Fund for costs incurred by
+32 the Arkansas Public Employees Retirement System in administering the Judicial
+33 Retirement System. Such transfer request shall be made to the Chief Fiscal
+34 Officer of the State, and upon his approval, said transfer shall be made on
+35 his books and those of the Treasurer of the State and the Auditor of the
+36 State.
+5 01/14/2025 8:27:44 AM WFP009
+HB1120
+1 The provisions of this section shall be in effect only from July 1, 2024
+2 2025 through June 30, 2025 2026.
+3
+4 SECTION 10. SPECIAL LANGUAGE. NOT TO BE INCORPORATED INTO THE ARKANSAS
+5 CODE NOR PUBLISHED SEPARATELY AS SPECIAL, LOCAL AND TEMPORARY LAW. STATE
+6 POLICE RETIREMENT FUND TRANSFERS. A sum not to exceed $250,000 in the 2024-
+7 2025 2025-2026 fiscal year may be transferred from the State Police
+8 Retirement Fund to the Arkansas Public Employees' Retirement System Fund for
+9 costs incurred by the Arkansas Public Employees Retirement System in
+10 administering the State Police Retirement System. Such transfer request
+11 shall be made to the Chief Fiscal Officer of the State, and upon his
+12 approval, said transfer shall be made on his books and those of the Treasurer
+13 of the State and the Auditor of the State.
+14 The provisions of this section shall be in effect only from July 1, 2024
+15 2025 through June 30, 2025 2026.
+16
+17 SECTION 11. SPECIAL LANGUAGE. NOT TO BE INCORPORATED INTO THE ARKANSAS
+18 CODE NOR PUBLISHED SEPARATELY AS SPECIAL, LOCAL AND TEMPORARY LAW. EXEMPTION
+19 FROM PRIOR REVIEW. The Arkansas Public Employees Retirement System is hereby
+20 exempted from seeking prior review by the Arkansas Legislative Council or
+21 Joint Budget Committee with regard to transfers between the Benefits and
+22 Refund line items in the Public Employees Retirement Cash appropriation
+23 section and the Benefits-Non Employee line item in the Public Employees
+24 Retirement Operations appropriation section which are specifically related to
+25 transfers necessitated by the changes in retirees' selection of the method of
+26 payment of retirement benefits. All other provisions of Arkansas Code §19-4-
+27 522 shall be applicable.
+28 The provisions of this section shall be in effect only from July 1, 2024
+29 2025 through June 30, 2025 2026.
+30
+31 SECTION 12. SPECIAL LANGUAGE. NOT TO BE INCORPORATED INTO THE ARKANSAS
+32 CODE NOR PUBLISHED SEPARATELY AS SPECIAL, LOCAL AND TEMPORARY LAW. SPECIAL
+33 STATE POLICE RETIREMENT FUND TRANSFERS. A sum not to exceed $50,000 may be
+34 transferred from the State Police Retirement Fund to the Arkansas Public
+35 Employees' Retirement System Fund to share in the costs incurred by the
+36 Arkansas Public Employees Retirement System in the purchase and
+6 01/14/2025 8:27:44 AM WFP009
+HB1120
+1 implementation of a new, and for the ongoing maintenance and operation of the
+2 pension administration system, which will be is utilized to administer State
+3 Police pension transactions for members and retirees. Said transfer shall
+4 sunset at the end of fiscal year 2025 2026. Such transfer request shall be
+5 made to the Chief Fiscal Officer of the State, and upon his approval, said
+6 transfer shall be made on his books and those of the Treasurer of the State
+7 and the Auditor of the State.
+8 The provisions of this section shall be in effect only from July 1, 2024
+9 2025 through June 30, 2025 2026.
+10
+11 SECTION 13. SPECIAL LANGUAGE. NOT TO BE INCORPORATED INTO THE ARKANSAS
+12 CODE NOR PUBLISHED SEPARATELY AS SPECIAL, LOCAL AND TEMPORARY LAW. SPECIAL
+13 JUDICIAL RETIREMENT FUND TRANSFERS. A sum not to exceed $50,000 may be
+14 transferred from the Judicial Retirement Fund to the Arkansas Public
+15 Employees' Retirement System Fund to share in the costs incurred by the
+16 Arkansas Public Employees Retirement System in the purchase and
+17 implementation of a new, and for the ongoing maintenance and operation of the
+18 pension administration system, which will be is utilized to administer
+19 Judicial pension transactions for members and retirees. Said transfer shall
+20 sunset at the end of fiscal year 2025 2026. Such transfer request shall be
+21 made to the Chief Fiscal Officer of the State, and upon his approval, said
+22 transfer shall be made on his books and those of the Treasurer of State and
+23 the Auditor of the State.
+24 The provisions of this section shall be in effect only from July 1, 2024
+25 2025 through June 30, 2025 2026.
+26
+27 SECTION 14. COMPLIANCE WITH OTHER LAWS. Disbursement of funds
+28 authorized by this act shall be limited to the appropriation for such agency
+29 and funds made available by law for the support of such appropriations; and
+30 the restrictions of the State Procurement Law, the General Accounting and
+31 Budgetary Procedures Law, the Revenue Stabilization Law, the Regular Salary
+32 Procedures and Restrictions Act, or their successors, and other fiscal
+33 control laws of this State, where applicable, and regulations promulgated by
+34 the Department of Finance and Administration, as authorized by law, shall be
+35 strictly complied with in disbursement of said funds.
+36
+7 01/14/2025 8:27:44 AM WFP009
+HB1120
+1 SECTION 15. LEGISLATIVE INTENT. It is the intent of the General
+2 Assembly that any funds disbursed under the authority of the appropriations
+3 contained in this act shall be in compliance with the stated reasons for
+4 which this act was adopted, as evidenced by the Agency Requests, Executive
+5 Recommendations and Legislative Recommendations contained in the budget
+6 manuals prepared by the Department of Finance and Administration, letters, or
+7 summarized oral testimony in the official minutes of the Arkansas Legislative
+8 Council or Joint Budget Committee which relate to its passage and adoption.
+9
+10 SECTION 16. EMERGENCY CLAUSE. It is found and determined by the
+11 General Assembly, that the Constitution of the State of Arkansas prohibits
+12 the appropriation of funds for more than a one (1) year period; that the
+13 effectiveness of this Act on July 1, 2025 is essential to the operation of
+14 the agency for which the appropriations in this Act are provided, and that in
+15 the event of an extension of the legislative session, the delay in the
+16 effective date of this Act beyond July 1, 2025 could work irreparable harm
+17 upon the proper administration and provision of essential governmental
+18 programs. Therefore, an emergency is hereby declared to exist and this Act
+19 being necessary for the immediate preservation of the public peace, health
+20 and safety shall be in full force and effect from and after July 1, 2025.
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+8 01/14/2025 8:27:44 AM WFP009
+[DELETED:       A A E E  A R 2    B   S A t                     ]
+[DELETED: H2 0                                                           S P f " ( e i]
+[DELETED: H3 0  S T S F E f  I   ( ( ( (           ( ( (     S i t p E f  I   ( (   ]
+[DELETED: H4 0  S i t o R  I   (           ( (     S h b t t y  I   ( (     S h b J S]
+[DELETED: H5 0  I   (           ( (     S a p b t J  I   ( (     S C R 2 t t R O h S]
+[DELETED: H6 0   2   S C P 2 R c a s a o   2   S C F e J R s R t p 5   2   S C S t E A]
+[DELETED: H7 0 i p P s m t a   2   S C J t E A i p J s m t t   2   S a a t B P c t s ]
+[DELETED: H8 0  S A c w R m s C   S G t e t t e u p b a                ]
+
+
+================================================================================
+
+Raw Text:
+Stricken language would be deleted from and underlined language would be added to present law.
+1 State of Arkansas
+A Bill
+2 95th General Assembly
+3 Regular Session, 2025 HOUSE BILL 1120
+4
+5 By: Joint Budget Committee
+6
+7
+For An Act To Be Entitled
+8
+9 AN ACT TO MAKE AN APPROPRIATION FOR PERSONAL SERVICES
+10 AND OPERATING EXPENSES FOR THE ARKANSAS PUBLIC
+11 EMPLOYEES RETIREMENT SYSTEM FOR THE FISCAL YEAR
+12 ENDING JUNE 30, 2026; AND FOR OTHER PURPOSES.
+13
+14
+Subtitle
+15
+16 AN ACT FOR THE ARKANSAS PUBLIC EMPLOYEES
+17 RETIREMENT SYSTEM APPROPRIATION FOR THE
+18 2025-2026 FISCAL YEAR.
+19
+20
+21 BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF ARKANSAS:
+22
+23 SECTION 1. REGULAR SALARIES. There is hereby established for the
+24 Arkansas Public Employees Retirement System for the 2025-2026 fiscal year,
+25 the following maximum number of regular employees.
+26
+27 Maximum Annual
+28 Maximum Salary Rate
+29 Item Class No. of Fiscal Year
+30 No. Code Title Employees 2025-2026
+31 (1) U014U APERS DIRECTOR 1 GRADE SE04
+32 (2) A147C APERS DEP DIR OF INVEST AND FINANCE 1 GRADE SE01
+33 (3) N254N APERS DEP DIR OF OPERATIONS 1 GRADE SE01
+34 (4) U078U APERS DEPUTY DIRECTOR 1 GRADE SE01
+35 (5) D148C APERS ASSOCI DIR OF INFORMATION TECHNO 1 GRADE IT11
+36 (6) D015N APERS DIRECTOR OF INFORMATION TECHNO 1 GRADE IT10
+*WFP009*
+01/14/2025 8:27:44 AM WFP009
+
+HB1120
+1 (7) D006N STATE SYSTEMS ARCHITECT 1 GRADE IT10
+2 (8) D030C INFORMATION SYSTEMS COORDINATOR 1 GRADE IT07
+3 (9) D044C SYSTEMS ANALYST 1 GRADE IT05
+4 (10) G042N APERS CHIEF LEGAL COUNSEL 1 GRADE GS14
+5 (11) A003N SENIOR INVESTMENT ANALYST 1 GRADE GS14
+6 (12) R003N APERS DIRECTOR OF BENEFITS ADMIN 2 GRADE GS13
+7 (13) G037N APERS DIRECTOR OF OPERATIONS 1 GRADE GS13
+8 (14) A027C ACCOUNTING OPERATIONS MANAGER 2 GRADE GS11
+9 (15) R013C AGENCY HUMAN RESOURCES MANAGER 1 GRADE GS11
+10 (16) R054C APERS BENEFITS OPERATIONS MGR 1 GRADE GS11
+11 (17) G047C ATTORNEY SPECIALIST 1 GRADE GS11
+12 (18) A052C ACCOUNTING COORDINATOR 1 GRADE GS09
+13 (19) A034C RETIREMENT SECTION MANAGER 3 GRADE GS09
+14 (20) A082C ACCOUNTANT II 10 GRADE GS08
+15 (21) A066C INTERNAL AUDITOR 1 GRADE GS08
+16 (22) A062C RETIREMENT COORDINATOR 5 GRADE GS08
+17 (23) R024C ASSISTANT PERSONNEL MANAGER 1 GRADE GS07
+18 (24) A079C INVESTMENT ANALYST 3 GRADE GS07
+19 (25) A078C RETIREMENT COUNSELOR 15 GRADE GS07
+20 (26) P031C MEDIA SPECIALIST 1 GRADE GS06
+21 (27) P027C PUBLIC INFORMATION SPECIALIST 1 GRADE GS06
+22 (28) A083C RETIREMENT ANALYST 9 GRADE GS06
+23 (29) X115C SOCIAL SECURITY ANALYST 1 GRADE GS06
+24 (30) C022C BUSINESS OPERATIONS SPECIALIST 1 GRADE GS05
+25 (31) A091C FISCAL SUPPORT ANALYST 2 GRADE GS05
+26 (32) C056C ADMINISTRATIVE SPECIALIST III 3 GRADE GS04
+27 (33) A098C FISCAL SUPPORT SPECIALIST 2 GRADE GS04
+28 MAX. NO. OF EMPLOYEES 78
+29
+30 SECTION 2. EXTRA HELP. There is hereby authorized, for the Arkansas
+31 Public Employees Retirement System for the 2025-2026 fiscal year, the
+32 following maximum number of part-time or temporary employees, to be known as
+33 "Extra Help", payable from funds appropriated herein for such purposes: six
+34 (6) temporary or part-time employees, when needed, at rates of pay not to
+35 exceed those provided in the Uniform Classification and Compensation Act, or
+36 its successor, or this act for the appropriate classification.
+2 01/14/2025 8:27:44 AM WFP009
+
+HB1120
+1 SECTION 3. APPROPRIATION - PUBLIC EMPLOYEES RETIREMENT - OPERATIONS.
+2 There is hereby appropriated, to the Arkansas Public Employees Retirement
+3 System, to be payable from the Arkansas Public Employees' Retirement System
+4 Fund, for personal services and operating expenses of the Arkansas Public
+5 Employees Retirement System for the fiscal year ending June 30, 2026, the
+6 following:
+7
+8 ITEM FISCAL YEAR
+9 NO. 2025-2026
+10 (01) REGULAR SALARIES $4,769,661
+11 (02) EXTRA HELP 75,000
+12 (03) PERSONAL SERVICES MATCHING 1,685,938
+13 (04) MAINT. & GEN. OPERATION
+14 (A) OPER. EXPENSE 2,137,473
+15 (B) CONF. & TRAVEL 67,500
+16 (C) PROF. FEES 2,000,000
+17 (D) CAP. OUTLAY 0
+18 (E) DATA PROC. 0
+19 (05) BENEFITS-NON EMPLOYEE 40,000,000
+20 (06) REFUNDS/REIMBURSEMENTS 85,000,000
+21 (07) DATA PROCESSING SERVICES 7,000,000
+22 TOTAL AMOUNT APPROPRIATED $142,735,572
+23
+24 SECTION 4. APPROPRIATION - PUBLIC EMPLOYEES RETIREMENT - CASH. There
+25 is hereby appropriated, to the Arkansas Public Employees Retirement System,
+26 to be payable from cash funds as defined by Arkansas Code §19-4-801, for
+27 payment to beneficiaries by check or wire transfer, by the Arkansas Public
+28 Employees Retirement System for the fiscal year ending June 30, 2026, the
+29 following:
+30
+31 ITEM FISCAL YEAR
+32 NO. 2025-2026
+33 (01) BENEFITS $675,000,000
+34 (02) REFUNDS/REIMBURSEMENTS 50,000,000
+35 TOTAL AMOUNT APPROPRIATED $725,000,000
+36
+3 01/14/2025 8:27:44 AM WFP009
+
+HB1120
+1 SECTION 5. APPROPRIATION - STATE POLICE RETIREMENT - OPERATIONS. There
+2 is hereby appropriated, to the Arkansas Public Employees Retirement System,
+3 to be payable from the State Police Retirement Fund, for operating expenses
+4 of the State Police Retirement System, by the Arkansas Public Employees
+5 Retirement System for the fiscal year ending June 30, 2026, the following:
+6
+7 ITEM FISCAL YEAR
+8 NO. 2025-2026
+9 (01) MAINT. & GEN. OPERATION
+10 (A) OPER. EXPENSE $20,000
+11 (B) CONF. & TRAVEL 0
+12 (C) PROF. FEES 265,950
+13 (D) CAP. OUTLAY 0
+14 (E) DATA PROC. 0
+15 (02) BENEFITS-NON EMPLOYEE 5,000,000
+16 (03) REFUNDS/REIMBURSEMENTS 25,000,000
+17 TOTAL AMOUNT APPROPRIATED $30,285,950
+18
+19 SECTION 6. APPROPRIATION - STATE POLICE RETIREMENT - CASH. There is
+20 hereby appropriated, to the Arkansas Public Employees Retirement System, to
+21 be payable from cash funds as defined by Arkansas Code §19-4-801, for payment
+22 to beneficiaries of the State Police Retirement System by check or wire
+23 transfer, by the Arkansas Public Employees Retirement System for the fiscal
+24 year ending June 30, 2026, the following:
+25
+26 ITEM FISCAL YEAR
+27 NO. 2025-2026
+28 (01) BENEFITS $31,000,000
+29 (02) REFUNDS/REIMBURSEMENTS 1,500,000
+30 TOTAL AMOUNT APPROPRIATED $32,500,000
+31
+32 SECTION 7. APPROPRIATION - JUDICIAL RETIREMENT - OPERATIONS. There is
+33 hereby appropriated, to the Arkansas Public Employees Retirement System, to
+34 be payable from the Judges Retirement Fund, for operating expenses of the
+35 Judicial Retirement System, by the Arkansas Public Employees Retirement
+36 System for the fiscal year ending June 30, 2026, the following:
+4 01/14/2025 8:27:44 AM WFP009
+
+HB1120
+1
+2 ITEM FISCAL YEAR
+3 NO. 2025-2026
+4 (01) MAINT. & GEN. OPERATION
+5 (A) OPER. EXPENSE $12,000
+6 (B) CONF. & TRAVEL 0
+7 (C) PROF. FEES 140,879
+8 (D) CAP. OUTLAY 0
+9 (E) DATA PROC. 0
+10 (02) BENEFITS-NON EMPLOYEE 500,000
+11 (03) REFUNDS/REIMBURSEMENTS 8,000,000
+12 TOTAL AMOUNT APPROPRIATED $8,652,879
+13
+14 SECTION 8. APPROPRIATION - JUDICIAL RETIREMENT - CASH. There is hereby
+15 appropriated, to the Arkansas Public Employees Retirement System, to be
+16 payable from cash funds as defined by Arkansas Code §19-4-801, for payment to
+17 beneficiaries of the Judicial Retirement System by check or wire transfer, by
+18 the Arkansas Public Employees Retirement System for the fiscal year ending
+19 June 30, 2026, the following:
+20
+21 ITEM FISCAL YEAR
+22 NO. 2025-2026
+23 (01) BENEFITS $20,750,000
+24 (02) REFUNDS/REIMBURSEMENTS 250,000
+25 TOTAL AMOUNT APPROPRIATED $21,000,000
+26
+27 SECTION 9. SPECIAL LANGUAGE. NOT TO BE INCORPORATED INTO THE ARKANSAS
+28 CODE NOR PUBLISHED SEPARATELY AS SPECIAL, LOCAL AND TEMPORARY LAW. JUDICIAL
+29 RETIREMENT FUND TRANSFERS. A sum not to exceed $150,000 in the 2024-2025
+30 2025-2026 fiscal year may be transferred from the Judges Retirement Fund to
+31 the Arkansas Public Employees' Retirement System Fund for costs incurred by
+32 the Arkansas Public Employees Retirement System in administering the Judicial
+33 Retirement System. Such transfer request shall be made to the Chief Fiscal
+34 Officer of the State, and upon his approval, said transfer shall be made on
+35 his books and those of the Treasurer of the State and the Auditor of the
+36 State.
+5 01/14/2025 8:27:44 AM WFP009
+
+HB1120
+1 The provisions of this section shall be in effect only from July 1, 2024
+2 2025 through June 30, 2025 2026.
+3
+4 SECTION 10. SPECIAL LANGUAGE. NOT TO BE INCORPORATED INTO THE ARKANSAS
+5 CODE NOR PUBLISHED SEPARATELY AS SPECIAL, LOCAL AND TEMPORARY LAW. STATE
+6 POLICE RETIREMENT FUND TRANSFERS. A sum not to exceed $250,000 in the 2024-
+7 2025 2025-2026 fiscal year may be transferred from the State Police
+8 Retirement Fund to the Arkansas Public Employees' Retirement System Fund for
+9 costs incurred by the Arkansas Public Employees Retirement System in
+10 administering the State Police Retirement System. Such transfer request
+11 shall be made to the Chief Fiscal Officer of the State, and upon his
+12 approval, said transfer shall be made on his books and those of the Treasurer
+13 of the State and the Auditor of the State.
+14 The provisions of this section shall be in effect only from July 1, 2024
+15 2025 through June 30, 2025 2026.
+16
+17 SECTION 11. SPECIAL LANGUAGE. NOT TO BE INCORPORATED INTO THE ARKANSAS
+18 CODE NOR PUBLISHED SEPARATELY AS SPECIAL, LOCAL AND TEMPORARY LAW. EXEMPTION
+19 FROM PRIOR REVIEW. The Arkansas Public Employees Retirement System is hereby
+20 exempted from seeking prior review by the Arkansas Legislative Council or
+21 Joint Budget Committee with regard to transfers between the Benefits and
+22 Refund line items in the Public Employees Retirement Cash appropriation
+23 section and the Benefits-Non Employee line item in the Public Employees
+24 Retirement Operations appropriation section which are specifically related to
+25 transfers necessitated by the changes in retirees' selection of the method of
+26 payment of retirement benefits. All other provisions of Arkansas Code §19-4-
+27 522 shall be applicable.
+28 The provisions of this section shall be in effect only from July 1, 2024
+29 2025 through June 30, 2025 2026.
+30
+31 SECTION 12. SPECIAL LANGUAGE. NOT TO BE INCORPORATED INTO THE ARKANSAS
+32 CODE NOR PUBLISHED SEPARATELY AS SPECIAL, LOCAL AND TEMPORARY LAW. SPECIAL
+33 STATE POLICE RETIREMENT FUND TRANSFERS. A sum not to exceed $50,000 may be
+34 transferred from the State Police Retirement Fund to the Arkansas Public
+35 Employees' Retirement System Fund to share in the costs incurred by the
+36 Arkansas Public Employees Retirement System in the purchase and
+6 01/14/2025 8:27:44 AM WFP009
+
+HB1120
+1 implementation of a new, and for the ongoing maintenance and operation of the
+2 pension administration system, which will be is utilized to administer State
+3 Police pension transactions for members and retirees. Said transfer shall
+4 sunset at the end of fiscal year 2025 2026. Such transfer request shall be
+5 made to the Chief Fiscal Officer of the State, and upon his approval, said
+6 transfer shall be made on his books and those of the Treasurer of the State
+7 and the Auditor of the State.
+8 The provisions of this section shall be in effect only from July 1, 2024
+9 2025 through June 30, 2025 2026.
+10
+11 SECTION 13. SPECIAL LANGUAGE. NOT TO BE INCORPORATED INTO THE ARKANSAS
+12 CODE NOR PUBLISHED SEPARATELY AS SPECIAL, LOCAL AND TEMPORARY LAW. SPECIAL
+13 JUDICIAL RETIREMENT FUND TRANSFERS. A sum not to exceed $50,000 may be
+14 transferred from the Judicial Retirement Fund to the Arkansas Public
+15 Employees' Retirement System Fund to share in the costs incurred by the
+16 Arkansas Public Employees Retirement System in the purchase and
+17 implementation of a new, and for the ongoing maintenance and operation of the
+18 pension administration system, which will be is utilized to administer
+19 Judicial pension transactions for members and retirees. Said transfer shall
+20 sunset at the end of fiscal year 2025 2026. Such transfer request shall be
+21 made to the Chief Fiscal Officer of the State, and upon his approval, said
+22 transfer shall be made on his books and those of the Treasurer of State and
+23 the Auditor of the State.
+24 The provisions of this section shall be in effect only from July 1, 2024
+25 2025 through June 30, 2025 2026.
+26
+27 SECTION 14. COMPLIANCE WITH OTHER LAWS. Disbursement of funds
+28 authorized by this act shall be limited to the appropriation for such agency
+29 and funds made available by law for the support of such appropriations; and
+30 the restrictions of the State Procurement Law, the General Accounting and
+31 Budgetary Procedures Law, the Revenue Stabilization Law, the Regular Salary
+32 Procedures and Restrictions Act, or their successors, and other fiscal
+33 control laws of this State, where applicable, and regulations promulgated by
+34 the Department of Finance and Administration, as authorized by law, shall be
+35 strictly complied with in disbursement of said funds.
+36
+7 01/14/2025 8:27:44 AM WFP009
+
+HB1120
+1 SECTION 15. LEGISLATIVE INTENT. It is the intent of the General
+2 Assembly that any funds disbursed under the authority of the appropriations
+3 contained in this act shall be in compliance with the stated reasons for
+4 which this act was adopted, as evidenced by the Agency Requests, Executive
+5 Recommendations and Legislative Recommendations contained in the budget
+6 manuals prepared by the Department of Finance and Administration, letters, or
+7 summarized oral testimony in the official minutes of the Arkansas Legislative
+8 Council or Joint Budget Committee which relate to its passage and adoption.
+9
+10 SECTION 16. EMERGENCY CLAUSE. It is found and determined by the
+11 General Assembly, that the Constitution of the State of Arkansas prohibits
+12 the appropriation of funds for more than a one (1) year period; that the
+13 effectiveness of this Act on July 1, 2025 is essential to the operation of
+14 the agency for which the appropriations in this Act are provided, and that in
+15 the event of an extension of the legislative session, the delay in the
+16 effective date of this Act beyond July 1, 2025 could work irreparable harm
+17 upon the proper administration and provision of essential governmental
+18 programs. Therefore, an emergency is hereby declared to exist and this Act
+19 being necessary for the immediate preservation of the public peace, health
+20 and safety shall be in full force and effect from and after July 1, 2025.
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+8 01/14/2025 8:27:44 AM WFP009
+
+[DELETED:       A A E E  A R 2    B   S A t                     ]
+[DELETED: H2 0                                                           S P f " ( e i]
+[DELETED: H3 0  S T S F E f  I   ( ( ( (           ( ( (     S i t p E f  I   ( (   ]
+[DELETED: H4 0  S i t o R  I   (           ( (     S h b t t y  I   ( (     S h b J S]
+[DELETED: H5 0  I   (           ( (     S a p b t J  I   ( (     S C R 2 t t R O h S]
+[DELETED: H6 0   2   S C P 2 R c a s a o   2   S C F e J R s R t p 5   2   S C S t E A]
+[DELETED: H7 0 i p P s m t a   2   S C J t E A i p J s m t t   2   S a a t B P c t s ]
+[DELETED: H8 0  S A c w R m s C   S G t e t t e u p b a                ]
