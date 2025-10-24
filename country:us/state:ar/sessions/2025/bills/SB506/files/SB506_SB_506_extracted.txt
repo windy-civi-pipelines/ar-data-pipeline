@@ -1,0 +1,101 @@
+Title: Stricken language would be deleted from and underlined language would be added to present law.
+Official Title: Stricken language would be deleted from and underlined language would be added to present law.
+Number of Sections: 1
+Source: versions - SB 506
+Media Type: application/pdf
+Strikethrough Detection: 1 sections found
+
+================================================================================
+
+Section 1:
+1 State of Arkansas
+A Bill
+2 95th General Assembly
+3 Regular Session, 2025 SENATE BILL 506
+4
+5 By: Senator M. Johnson
+6
+7
+For An Act To Be Entitled
+8
+9 AN ACT TO AMEND THE FREEDOM OF INFORMATION ACT OF
+10 1967; TO REPEAL THE EXEMPTION CONCERNING ELECTRONIC
+11 DATA INFORMATION MAINTAINED BY A DISASTER RECOVERY
+12 SYSTEM; AND FOR OTHER PURPOSES.
+13
+14
+Subtitle
+15
+16 TO AMEND THE FREEDOM OF INFORMATION ACT
+17 OF 1967; AND TO REPEAL THE EXEMPTION
+18 CONCERNING ELECTRONIC DATA INFORMATION
+19 MAINTAINED BY A DISASTER RECOVERY
+20 SYSTEM.
+21
+22 BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF ARKANSAS:
+23
+24 SECTION 1. Arkansas Code § 25-19-105(b)(20), concerning the exceptions
+25 to the examination and copying of public records under the Freedom of
+26 Information Act of 1967, is repealed.
+27 (20) Electronic data information maintained by a disaster
+28 recovery system;
+29
+30
+31
+32
+33
+34
+35
+36
+*LGL040*
+03/18/2025 2:26:18 PM LGL040
+[DELETED:       A 1 D S  T O C M S  B   S t I   r]
+
+
+================================================================================
+
+Raw Text:
+Stricken language would be deleted from and underlined language would be added to present law.
+1 State of Arkansas
+A Bill
+2 95th General Assembly
+3 Regular Session, 2025 SENATE BILL 506
+4
+5 By: Senator M. Johnson
+6
+7
+For An Act To Be Entitled
+8
+9 AN ACT TO AMEND THE FREEDOM OF INFORMATION ACT OF
+10 1967; TO REPEAL THE EXEMPTION CONCERNING ELECTRONIC
+11 DATA INFORMATION MAINTAINED BY A DISASTER RECOVERY
+12 SYSTEM; AND FOR OTHER PURPOSES.
+13
+14
+Subtitle
+15
+16 TO AMEND THE FREEDOM OF INFORMATION ACT
+17 OF 1967; AND TO REPEAL THE EXEMPTION
+18 CONCERNING ELECTRONIC DATA INFORMATION
+19 MAINTAINED BY A DISASTER RECOVERY
+20 SYSTEM.
+21
+22 BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF ARKANSAS:
+23
+24 SECTION 1. Arkansas Code § 25-19-105(b)(20), concerning the exceptions
+25 to the examination and copying of public records under the Freedom of
+26 Information Act of 1967, is repealed.
+27 (20) Electronic data information maintained by a disaster
+28 recovery system;
+29
+30
+31
+32
+33
+34
+35
+36
+*LGL040*
+03/18/2025 2:26:18 PM LGL040
+
+[DELETED:       A 1 D S  T O C M S  B   S t I   r]

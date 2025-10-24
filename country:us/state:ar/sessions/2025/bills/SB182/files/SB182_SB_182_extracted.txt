@@ -1,0 +1,338 @@
+Title: Stricken language would be deleted from and underlined language would be added to present law.
+Official Title: Stricken language would be deleted from and underlined language would be added to present law.
+Number of Sections: 1
+Source: versions - SB 182
+Media Type: application/pdf
+Strikethrough Detection: 4 sections found
+
+================================================================================
+
+Section 1:
+1 State of Arkansas
+A Bill
+2 95th General Assembly
+3 Regular Session, 2025 SENATE BILL 182
+4
+5 By: Senators Gilmore, S. Flowers
+6 By: Representatives Barnes, K. Ferguson, Holcomb, Wardlaw
+7
+For An Act To Be Entitled
+8
+9 AN ACT TO AMEND THE LAW CONCERNING ANNUAL
+10 APPROPRIATIONS FOR LOCAL GOVERNMENT; TO REQUIRE A
+11 LOCAL GOVERNMENT TO CONTINUE TO OPERATE UNDER THE
+12 ANNUAL APPROPRIATION ORDINANCE FOR THE PREVIOUS YEAR
+13 UNTIL A NEW APPROPRIATION ORDINANCE IS ADOPTED; TO
+14 DECLARE AN EMERGENCY; AND FOR OTHER PURPOSES.
+15
+16
+Subtitle
+17
+18 TO REQUIRE A LOCAL GOVERNMENT TO
+19 CONTINUE TO OPERATE UNDER THE ANNUAL
+20 APPROPRIATION ORDINANCE FOR THE PREVIOUS
+21 YEAR UNTIL A NEW APPROPRIATION ORDINANCE
+22 IS ADOPTED; AND TO DECLARE AN EMERGENCY.
+23
+24 BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF ARKANSAS:
+25
+26 SECTION 1. Arkansas Code § 14-14-904(b)(1)(A)(ii), concerning the
+27 procedure for appropriations by a quorum court, is amended to add an
+28 additional subdivision to read as follows:
+29 (c)(1) If a quorum court does not pass an
+30 annual appropriation ordinance as required under subdivision (b)(1)(A)(ii)(a)
+31 of this section by January 1, the annual appropriation ordinance from the
+32 previous year, including any amendments to the annual appropriation budget
+33 adopted by ordinance that were enacted on or before December 31 of the year
+34 of the annual appropriation ordinance, is readopted by operation of this
+35 subdivision (b)(1)(A)(ii)(c), at the final level of appropriation and the
+36 beginning level of zero (0) expenditure.
+*SSS134*
+02/03/2025 4:31:11 PM SSS134
+SB182
+1 (2) Expenditures of the county,
+2 including without limitation the payment of salaries to employees as the
+3 employee's salary existed on December 31, shall continue to be paid under the
+4 annual appropriation ordinance levels of the previous year until a new annual
+5 appropriation ordinance is adopted.
+6 (3) Expenditures of the county paid
+7 under subdivision (b)(1)(A)(ii)(c)(2) of this section shall not include per
+8 diem compensation for the justices of the peace under § 14-14-1205 or salary
+9 for the county judge under § 14-14-1204(c).
+10 (4) An annual appropriation ordinance
+11 adopted by the quorum court after January 1 shall not include per diem
+12 compensation for the justices of the peace under § 14-14-1205 or salary for
+13 the county judge under § 14-14-1204(c) for any period when the previous
+14 year's annual appropriation ordinance has been readopted.
+15 (5) For the purposes of this subdivision
+16 (b)(1)(A)(ii)(c), the annual appropriation ordinance adopted by the quorum
+17 court in the previous year shall be readopted by operation of this
+18 subdivision (b)(1)(A)(ii)(c) regardless of any determination that the annual
+19 appropriation ordinance for the previous year is or may be invalid.
+20
+21 SECTION 2. Arkansas Code § 14-14-1204(c), concerning compensation of
+22 elected county officers, is amended to add an additional subdivision to read
+23 as follows:
+24 (3) If an annual appropriation ordinance is not adopted by
+25 January 1 under § 14-14-904, the annual salary of a county judge shall not be
+26 paid until an annual appropriation ordinance is adopted.
+27
+28 SECTION 3. Arkansas Code § 14-14-1205(a)(1), concerning compensation
+29 of township officers, is amended to add an additional subdivision to read as
+30 follows:
+31 (C) If an annual appropriation ordinance is not adopted by
+32 January 1 under § 14-14-904, the per diem compensation for justices of the
+33 peace shall not be paid until an appropriation ordinance is adopted.
+34
+35 SECTION 4. Arkansas Code § 14-58-202 is amended to read as follows:
+36 14-58-202. Adoption of budget.
+2 02/03/2025 4:31:11 PM SSS134
+SB182
+1 (a) Under this subchapter, the governing body of the municipality
+2 shall, on or before February 1 of each year, adopt a budget by ordinance or
+3 resolution for operation of the city or town municipality.
+4 (b)(1) If the governing body of the municipality has not adopted a
+5 budget by ordinance for the operation of the municipality by January 1, any
+6 expenditure of the municipality for that year shall continue to be paid
+7 according to the adopted budget from the previous year, including any
+8 amendments to the budget adopted by ordinance that were enacted on or before
+9 December 31 of the year of the budget, until a new budget for the year is
+10 adopted by the governing body of the municipality.
+11 (2) The expenditures of the municipality paid under subdivision
+12 (b)(1) of this section shall be limited to necessary operational expenses of
+13 the municipality, including without limitation:
+14 (A) Expenditures to ensure all regular and usual
+15 government services offered by the municipality are maintained;
+16 (B) Expenditures necessary to protect the peace, health,
+17 and safety of the residents of the municipality;
+18 (C) Payroll and benefits of employees of the municipality
+19 as the employee's salary existed on December 31;
+20 (D) Payments of contracts for commodities or services
+21 previously entered into by the municipality in which payment is due; and
+22 (E) Payments of outstanding debt or bonds, including
+23 interest, as authorized under applicable law.
+24 (3) Expenditures authorized under this subsection do not include
+25 a new capital purchase based on prior authorization for a capital purchase in
+26 the adopted budget from the previous year.
+27
+28 SECTION 5. EMERGENCY CLAUSE. It is found and determined by the
+29 General Assembly of the State of Arkansas that when the governing body of a
+30 county or municipality does not pass an annual appropriation ordinance, the
+31 county or municipality cannot provide basic services and the employees of the
+32 county or municipality cannot be paid; that this act will allow expenditures
+33 to be paid until an annual appropriation ordinance is in place; that the lack
+34 of an appropriation ordinance makes it impossible for the county or
+35 municipality to provide necessary services to the residents of the county or
+36 municipality, which threatens the public peace, health, and safety of the
+3 02/03/2025 4:31:11 PM SSS134
+SB182
+1 residents of the county or municipality; and that this act is immediately
+2 necessary because failure to pass an annual appropriation ordinance puts
+3 employees of the county or municipality in financial distress and at risk of
+4 being unable to pay for financial responsibilities. Therefore, an emergency
+5 is declared to exist, and this act being immediately necessary for the
+6 preservation of the public peace, health, and safety shall become effective
+7 on:
+8 (1) The date of its approval by the Governor;
+9 (2) If the bill is neither approved nor vetoed by the Governor,
+10 the expiration of the period of time during which the Governor may veto the
+11 bill; or
+12 (3) If the bill is vetoed by the Governor and the veto is
+13 overridden, the date the last house overrides the veto.
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+4 02/03/2025 4:31:11 PM SSS134
+[DELETED:          A A L A U D   T C A Y I  B   S p a      ( a o p a o s b]
+[DELETED: S2 0       ( i e a a       ( u d f       ( a c t y       ( ( c s a   S e a   ( J p   S o f    ( J p   S   1]
+[DELETED: S3 0  ( s r  ( b e a a D a   ( ( t    ( g    ( a    ( a    ( p    ( i   ( a t   S G c c c t o m m]
+[DELETED: S4 0 r n e b i p o   (   ( t b   ( o                       ]
+
+
+================================================================================
+
+Raw Text:
+Stricken language would be deleted from and underlined language would be added to present law.
+1 State of Arkansas
+A Bill
+2 95th General Assembly
+3 Regular Session, 2025 SENATE BILL 182
+4
+5 By: Senators Gilmore, S. Flowers
+6 By: Representatives Barnes, K. Ferguson, Holcomb, Wardlaw
+7
+For An Act To Be Entitled
+8
+9 AN ACT TO AMEND THE LAW CONCERNING ANNUAL
+10 APPROPRIATIONS FOR LOCAL GOVERNMENT; TO REQUIRE A
+11 LOCAL GOVERNMENT TO CONTINUE TO OPERATE UNDER THE
+12 ANNUAL APPROPRIATION ORDINANCE FOR THE PREVIOUS YEAR
+13 UNTIL A NEW APPROPRIATION ORDINANCE IS ADOPTED; TO
+14 DECLARE AN EMERGENCY; AND FOR OTHER PURPOSES.
+15
+16
+Subtitle
+17
+18 TO REQUIRE A LOCAL GOVERNMENT TO
+19 CONTINUE TO OPERATE UNDER THE ANNUAL
+20 APPROPRIATION ORDINANCE FOR THE PREVIOUS
+21 YEAR UNTIL A NEW APPROPRIATION ORDINANCE
+22 IS ADOPTED; AND TO DECLARE AN EMERGENCY.
+23
+24 BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF ARKANSAS:
+25
+26 SECTION 1. Arkansas Code § 14-14-904(b)(1)(A)(ii), concerning the
+27 procedure for appropriations by a quorum court, is amended to add an
+28 additional subdivision to read as follows:
+29 (c)(1) If a quorum court does not pass an
+30 annual appropriation ordinance as required under subdivision (b)(1)(A)(ii)(a)
+31 of this section by January 1, the annual appropriation ordinance from the
+32 previous year, including any amendments to the annual appropriation budget
+33 adopted by ordinance that were enacted on or before December 31 of the year
+34 of the annual appropriation ordinance, is readopted by operation of this
+35 subdivision (b)(1)(A)(ii)(c), at the final level of appropriation and the
+36 beginning level of zero (0) expenditure.
+*SSS134*
+02/03/2025 4:31:11 PM SSS134
+
+SB182
+1 (2) Expenditures of the county,
+2 including without limitation the payment of salaries to employees as the
+3 employee's salary existed on December 31, shall continue to be paid under the
+4 annual appropriation ordinance levels of the previous year until a new annual
+5 appropriation ordinance is adopted.
+6 (3) Expenditures of the county paid
+7 under subdivision (b)(1)(A)(ii)(c)(2) of this section shall not include per
+8 diem compensation for the justices of the peace under § 14-14-1205 or salary
+9 for the county judge under § 14-14-1204(c).
+10 (4) An annual appropriation ordinance
+11 adopted by the quorum court after January 1 shall not include per diem
+12 compensation for the justices of the peace under § 14-14-1205 or salary for
+13 the county judge under § 14-14-1204(c) for any period when the previous
+14 year's annual appropriation ordinance has been readopted.
+15 (5) For the purposes of this subdivision
+16 (b)(1)(A)(ii)(c), the annual appropriation ordinance adopted by the quorum
+17 court in the previous year shall be readopted by operation of this
+18 subdivision (b)(1)(A)(ii)(c) regardless of any determination that the annual
+19 appropriation ordinance for the previous year is or may be invalid.
+20
+21 SECTION 2. Arkansas Code § 14-14-1204(c), concerning compensation of
+22 elected county officers, is amended to add an additional subdivision to read
+23 as follows:
+24 (3) If an annual appropriation ordinance is not adopted by
+25 January 1 under § 14-14-904, the annual salary of a county judge shall not be
+26 paid until an annual appropriation ordinance is adopted.
+27
+28 SECTION 3. Arkansas Code § 14-14-1205(a)(1), concerning compensation
+29 of township officers, is amended to add an additional subdivision to read as
+30 follows:
+31 (C) If an annual appropriation ordinance is not adopted by
+32 January 1 under § 14-14-904, the per diem compensation for justices of the
+33 peace shall not be paid until an appropriation ordinance is adopted.
+34
+35 SECTION 4. Arkansas Code § 14-58-202 is amended to read as follows:
+36 14-58-202. Adoption of budget.
+2 02/03/2025 4:31:11 PM SSS134
+
+SB182
+1 (a) Under this subchapter, the governing body of the municipality
+2 shall, on or before February 1 of each year, adopt a budget by ordinance or
+3 resolution for operation of the city or town municipality.
+4 (b)(1) If the governing body of the municipality has not adopted a
+5 budget by ordinance for the operation of the municipality by January 1, any
+6 expenditure of the municipality for that year shall continue to be paid
+7 according to the adopted budget from the previous year, including any
+8 amendments to the budget adopted by ordinance that were enacted on or before
+9 December 31 of the year of the budget, until a new budget for the year is
+10 adopted by the governing body of the municipality.
+11 (2) The expenditures of the municipality paid under subdivision
+12 (b)(1) of this section shall be limited to necessary operational expenses of
+13 the municipality, including without limitation:
+14 (A) Expenditures to ensure all regular and usual
+15 government services offered by the municipality are maintained;
+16 (B) Expenditures necessary to protect the peace, health,
+17 and safety of the residents of the municipality;
+18 (C) Payroll and benefits of employees of the municipality
+19 as the employee's salary existed on December 31;
+20 (D) Payments of contracts for commodities or services
+21 previously entered into by the municipality in which payment is due; and
+22 (E) Payments of outstanding debt or bonds, including
+23 interest, as authorized under applicable law.
+24 (3) Expenditures authorized under this subsection do not include
+25 a new capital purchase based on prior authorization for a capital purchase in
+26 the adopted budget from the previous year.
+27
+28 SECTION 5. EMERGENCY CLAUSE. It is found and determined by the
+29 General Assembly of the State of Arkansas that when the governing body of a
+30 county or municipality does not pass an annual appropriation ordinance, the
+31 county or municipality cannot provide basic services and the employees of the
+32 county or municipality cannot be paid; that this act will allow expenditures
+33 to be paid until an annual appropriation ordinance is in place; that the lack
+34 of an appropriation ordinance makes it impossible for the county or
+35 municipality to provide necessary services to the residents of the county or
+36 municipality, which threatens the public peace, health, and safety of the
+3 02/03/2025 4:31:11 PM SSS134
+
+SB182
+1 residents of the county or municipality; and that this act is immediately
+2 necessary because failure to pass an annual appropriation ordinance puts
+3 employees of the county or municipality in financial distress and at risk of
+4 being unable to pay for financial responsibilities. Therefore, an emergency
+5 is declared to exist, and this act being immediately necessary for the
+6 preservation of the public peace, health, and safety shall become effective
+7 on:
+8 (1) The date of its approval by the Governor;
+9 (2) If the bill is neither approved nor vetoed by the Governor,
+10 the expiration of the period of time during which the Governor may veto the
+11 bill; or
+12 (3) If the bill is vetoed by the Governor and the veto is
+13 overridden, the date the last house overrides the veto.
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+4 02/03/2025 4:31:11 PM SSS134
+
+[DELETED:          A A L A U D   T C A Y I  B   S p a      ( a o p a o s b]
+[DELETED: S2 0       ( i e a a       ( u d f       ( a c t y       ( ( c s a   S e a   ( J p   S o f    ( J p   S   1]
+[DELETED: S3 0  ( s r  ( b e a a D a   ( ( t    ( g    ( a    ( a    ( p    ( i   ( a t   S G c c c t o m m]
+[DELETED: S4 0 r n e b i p o   (   ( t b   ( o                       ]

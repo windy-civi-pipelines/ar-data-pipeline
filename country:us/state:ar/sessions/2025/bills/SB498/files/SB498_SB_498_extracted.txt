@@ -1,0 +1,496 @@
+Title: Stricken language would be deleted from and underlined language would be added to present law.
+Official Title: Stricken language would be deleted from and underlined language would be added to present law.
+Number of Sections: 1
+Source: versions - SB 498
+Media Type: application/pdf
+Strikethrough Detection: 6 sections found
+
+================================================================================
+
+Section 1:
+1 State of Arkansas
+A Bill
+2 95th General Assembly
+3 Regular Session, 2025 SENATE BILL 498
+4
+5 By: Senator J. Petty
+6 By: Representative N. Burkes
+7
+For An Act To Be Entitled
+8
+9 AN ACT TO AMEND THE LAW CONCERNING DISCLOSURE OF
+10 DRIVER AND VEHICLE RECORDS; TO PROTECT DRIVER AND
+11 VEHICLE RECORDS FROM PUBLIC DISCLOSURE; AND FOR OTHER
+12 PURPOSES.
+13
+14
+Subtitle
+15
+16 TO AMEND THE LAW CONCERNING DISCLOSURE
+17 OF DRIVER AND VEHICLE RECORDS AND TO
+18 PROTECT DRIVER AND VEHICLE RECORDS FROM
+19 PUBLIC DISCLOSURE.
+20
+21 BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF ARKANSAS:
+22
+23 SECTION 1. Arkansas Code § 27-14-412(a) and (b), concerning records of
+24 the Office of Motor Vehicle, are amended to read as follows:
+25 27-14-412. Records.
+26 (a)(1)(A) All records of the Office of Motor Vehicle, other than those
+27 declared by law to be confidential for the use of the Office of Motor
+28 Vehicle, shall be open to public inspection during office hours The Secretary
+29 of the Department of Finance and Administration and officers of the Office of
+30 Motor Vehicle designated by the secretary may prepare under the seal of the
+31 office a:
+32 (i) Certified copy of a motor vehicle registration
+33 record maintained by the office; or
+34 (ii) Noncertified electronic copy of a motor vehicle
+35 registration record maintained by the Office of Motor Vehicle
+36 (B) A copy of a motor vehicle registration record under
+*MBM088*
+03/18/2025 9:13:56 AM MBM088
+SB498
+1 subdivision (a)(1)(A) of this section may be delivered to:
+2 (i) The person who is a registered owner of the
+3 motor vehicle;
+4 (ii) A person who has been authorized in writing by
+5 the registered owner of the motor vehicle to obtain the motor vehicle
+6 registration record;
+7 (iii) A federal, state, or local court for use in
+8 connection with a civil, criminal, administrative, or arbitral proceeding,
+9 including without limitation use:
+10 (a) In connection with the service of process;
+11 (b) In connection with the execution or
+12 enforcement of a judgment or order; or
+13 (c) Pursuant to an order of a federal, state,
+14 or local court;
+15 (iv) A duly licensed attorney at law in response to
+16 a subpoena properly issued in a federal, state, or local court action; or
+17 (v) A government agency or law enforcement agency
+18 for use in carrying out its function.
+19 (2) The use of lists or other aggregations of compilations of
+20 motor vehicle registration information is restricted to safety recall
+21 notification programs involving motor vehicles and motor vehicle equipment,
+22 other federal and state agency programs, research and statistics involving
+23 motor vehicles in which individual identities are not published, disclosed,
+24 or for any other purpose authorized by the Driver's Privacy Protection Act of
+25 1994, 18 U.S.C. § 2721 et seq., as it existed on January 1, 2015 2025.
+26 (3) Motor vehicle registration information shall not be sold,
+27 furnished, or used for solicitation purposes.
+28 (b)(1) The Secretary of the Department of Finance and Administration
+29 and such officers of the Office of Motor Vehicle as the secretary may
+30 designate are authorized to prepare under the seal of the Office of Motor
+31 Vehicle and deliver upon request a certified copy of any record of the Office
+32 of Motor Vehicle or a noncertified electronic copy of any record of the
+33 Office of Motor Vehicle.
+34 (2)(1) A fee of one dollar ($1.00) shall be charged for each
+35 certified record authenticated.
+36 (3)(2) Every certified copy shall be admissible in any
+2 03/18/2025 9:13:56 AM MBM088
+SB498
+1 proceeding in any court in like manner as the original.
+2 (4)(A)(3)(A) A party requesting a noncertified electronic record
+3 shall execute a written agreement with the Department of Finance and
+4 Administration that includes the following provisions:
+5 (i) An acknowledgment that the party requesting a
+6 record shall comply with all state and federal limits on the use of those
+7 records; and
+8 (ii) An agreement that the party seeking to obtain
+9 records shall hold harmless and indemnify the department for any money
+10 damages, punitive damages, criminal fines, civil penalties, court costs, and
+11 attorney's fees awarded to any person or entity by any state or federal court
+12 or by the Arkansas State Claims Commission resulting from any disclosure by
+13 the party of motor vehicle information that is contrary to state or federal
+14 law.
+15 (B) A fee of not less than twenty dollars and fifty cents
+16 ($20.50) nor more than thirty dollars ($30.00) per one thousand (1,000)
+17 records shall be charged for electronic records.
+18
+19 SECTION 2. Arkansas Code §§ 27-19-406 and 27-19-407 are repealed.
+20 27-19-406. Operating record to be furnished.
+21 (a) The Office of Driver Services shall, upon request, furnish any
+22 person a certified abstract of the operating record of any person subject to
+23 the provisions of this chapter, which shall include enumeration of any motor
+24 vehicle accidents in which the person has been involved and reference to any
+25 convictions of the person for violation of the motor vehicle laws as reported
+26 to the Office of Driver Services, and a record of any vehicles registered in
+27 the name of the person.
+28 (b) The Office of Driver Services shall collect for each abstract the
+29 sum of fifty cents (50¢) for each page.
+30
+31 27-19-407. Public inspection of records.
+32 All records of the Office of Driver Services shall be open to public
+33 inspection at any reasonable time.
+34
+35 SECTION 3. Arkansas Code § 27-50-906 is amended to read as follows:
+36 27-50-906. Furnishing of abstracts — Definition Definitions.
+3 03/18/2025 9:13:56 AM MBM088
+SB498
+1 (a) As used in this section:
+2 (1) "Abstract" means a report of the driver's personal
+3 information and the driving status and history of a driver generated from the
+4 driver record maintained by the Office of Driver Services, including without
+5 limitation documents provided to the office by any federal, state, or local
+6 court, law enforcement agency, or government agency;
+7 (2) “Driver confirmation record” means information in the office
+8 concerning the name, date of birth, and current address of the licensed
+9 driver; and
+10 (3) "Personal information" means information that identifies an
+11 individual, including without limitation an individual's social security
+12 number, driver identification number, name, address, and telephone number.
+13 (a)(1)(b)(1) The Office of Driver Services may furnish an abstract or
+14 driver confirmation record of any driver's record to:
+15 (A) The driver on whom the record has been compiled;
+16 (B) Any A person who has been authorized in writing by the
+17 driver to obtain the driver's record;
+18 (C) Any court having jurisdiction over traffic offenses A
+19 federal, state, or local court for use in connection with a civil, criminal,
+20 administrative, or arbitral proceeding, including without limitation use:
+21 (i) In connection with the service of process;
+22 (ii) In connection with the execution or enforcement
+23 of a judgment or order; or
+24 (iii) Pursuant to an order of a federal, state, or
+25 local court;
+26 (D) Any law enforcement officer, who shall use the report
+27 only in the line of duty in enforcing the traffic laws of this state A duly
+28 licensed attorney at law in response to a subpoena properly issued in a
+29 federal, state, or local court action;
+30 (E) Employers of drivers, provided that the driver has
+31 given his or her written consent for the employer to obtain the driver's
+32 record;
+33 (F) Any An insurer licensed to do business in Arkansas or
+34 its agents, employees, or contractors in connection with the driving record
+35 or driver confirmation record of an insured or applicant and all licensed
+36 drivers in the household of the insured or applicant; and
+4 03/18/2025 9:13:56 AM MBM088
+SB498
+1 (G) A governmental department or agency upon a showing of
+2 reasonable cause as to why the driver's record should be issued to the
+3 governmental department or agency in order for the governmental department or
+4 agency to effectively carry out its statutory duties A governmental agency or
+5 law enforcement agency for use in carrying out its functions.
+6 (2)(A) A driver's license status report shall be available to
+7 rental car companies who otherwise meet the requirements of this section for
+8 receiving an abstract of a driver's record upon the payment of one dollar
+9 ($1.00) for each license number checked. This fee shall be deposited to the
+10 State Treasury into the State Central Services Fund as a direct revenue to be
+11 used by the Revenue Division of the Department of Finance and Administration.
+12 (B) The Information Network of Arkansas may charge an
+13 additional fee under the Information Network of Arkansas Act, § 25-27-101 et
+14 seq., for the service of transmitting this information electronically.
+15 (b) For purposes of this section, “driver confirmation record” means
+16 information in the Office of Driver Services concerning the name, date of
+17 birth, and current address of the licensed driver.
+18 (c)(1)(A) The fee for an insured's or applicant's driver confirmation
+19 record shall be ten cents (10¢) per record.
+20 (B) This fee shall be deposited into the fund as a direct
+21 revenue to be used by the division.
+22 (2) The network may charge an additional fee under the
+23 Information Network of Arkansas Act, § 25-27-101 et seq., for the service of
+24 transmitting this information electronically.
+25 (d) A recipient of an abstract or driver confirmation record under
+26 this section may redisclose the information only for a use permitted under
+27 this section.
+28 (e) The Secretary of the Department of Finance and Administration may
+29 promulgate rules and prescribe forms to implement this section.
+30
+31 SECTION 4. Arkansas Code § 27-50-907 is amended to read as follows:
+32 27-50-907. Availability of recorded information.
+33 (a) All information concerning a driver's record shall be made
+34 available to the driver or his or her legal representative.
+35 (b)(1) Information such as medical reports or other personal
+36 information shall not be a part of any written report the Office of Driver
+5 03/18/2025 9:13:56 AM MBM088
+SB498
+1 Services may provide, nor shall the Office of Driver Services allow any
+2 person to copy or reproduce such records.
+3 (2) Information in the central drivers' records file concerning
+4 the name, age, and current address of all drivers over the age of sixteen
+5 (16) years and under the age of twenty-six (26) years shall be made available
+6 to the Arkansas military recruiting coordinators for any of the United States
+7 Armed Forces for distribution to their branch offices. The information shall
+8 be available upon request of the military recruiting coordinators and may be
+9 requested and updated up to two (2) times during any calendar year.
+10 (c)(1) No The office may provide a digital driver's license photograph
+11 shall be disclosed to any individual or organization, except upon the written
+12 request for disclosure to a named individual or to a party by the person
+13 whose photograph is on the driver's license:
+14 (A)(i) To an individual or organization upon the written
+15 request for disclosure by the person whose photograph is on the driver's
+16 license.
+17 (ii) A written request under subdivision
+18 (c)(1)(A)(i) of this section shall name the individual or organization to
+19 whom the digital driver's license photograph shall be provided;
+20 (B) When disclosure of the digital driver's license
+21 photograph is compelled by a court order or valid subpoena issued by a
+22 federal, state or local court; or
+23 (C) Upon the request of a federal, state, or local law
+24 enforcement agency for use in carrying out its functions.
+25 (2) A fee of five dollars ($5.00) shall be charged for each
+26 digital driver's license photograph provided by the Office of Driver Services
+27 office under subdivision (c)(1)(A) of this section.
+28 (d) The Secretary of the Department of Finance and Administration may
+29 promulgate rules and prescribe forms to implement this section.
+30
+31
+32
+33
+34
+35
+36
+6 03/18/2025 9:13:56 AM MBM088
+[DELETED:       A D V P  T O P P  B   S t  2  ( d V o M o     ( r     ( r    (]
+[DELETED: S2 0 s     ( m     ( t r     ( c i      (      ( e      ( o     ( a     ( f   ( m n o m o 1   ( f  ( a d V o O   ( c   (]
+[DELETED: S3 0 p   ( s A     ( r r     ( r d a o t l    ( ( r    S  2  ( p t v c t t  ( s   2  A i   S  2]
+[DELETED: S4 0  (   ( i d l c   ( c d   ( i n  ( d    (    ( d    ( f a     (     ( o     ( l    ( o l f    ( g r    ( i o d]
+[DELETED: S5 0    ( r g a l   ( r r ( S u    ( a s  ( i b  ( r    ( r   ( I t  ( t t  ( p   S  2  ( a  ( i]
+[DELETED: S6 0 S p   ( t ( t A b r  ( s r w    ( r l     ( ( w    ( p f    ( e   ( d o  ( p]
+
+
+================================================================================
+
+Raw Text:
+Stricken language would be deleted from and underlined language would be added to present law.
+1 State of Arkansas
+A Bill
+2 95th General Assembly
+3 Regular Session, 2025 SENATE BILL 498
+4
+5 By: Senator J. Petty
+6 By: Representative N. Burkes
+7
+For An Act To Be Entitled
+8
+9 AN ACT TO AMEND THE LAW CONCERNING DISCLOSURE OF
+10 DRIVER AND VEHICLE RECORDS; TO PROTECT DRIVER AND
+11 VEHICLE RECORDS FROM PUBLIC DISCLOSURE; AND FOR OTHER
+12 PURPOSES.
+13
+14
+Subtitle
+15
+16 TO AMEND THE LAW CONCERNING DISCLOSURE
+17 OF DRIVER AND VEHICLE RECORDS AND TO
+18 PROTECT DRIVER AND VEHICLE RECORDS FROM
+19 PUBLIC DISCLOSURE.
+20
+21 BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF ARKANSAS:
+22
+23 SECTION 1. Arkansas Code § 27-14-412(a) and (b), concerning records of
+24 the Office of Motor Vehicle, are amended to read as follows:
+25 27-14-412. Records.
+26 (a)(1)(A) All records of the Office of Motor Vehicle, other than those
+27 declared by law to be confidential for the use of the Office of Motor
+28 Vehicle, shall be open to public inspection during office hours The Secretary
+29 of the Department of Finance and Administration and officers of the Office of
+30 Motor Vehicle designated by the secretary may prepare under the seal of the
+31 office a:
+32 (i) Certified copy of a motor vehicle registration
+33 record maintained by the office; or
+34 (ii) Noncertified electronic copy of a motor vehicle
+35 registration record maintained by the Office of Motor Vehicle
+36 (B) A copy of a motor vehicle registration record under
+*MBM088*
+03/18/2025 9:13:56 AM MBM088
+
+SB498
+1 subdivision (a)(1)(A) of this section may be delivered to:
+2 (i) The person who is a registered owner of the
+3 motor vehicle;
+4 (ii) A person who has been authorized in writing by
+5 the registered owner of the motor vehicle to obtain the motor vehicle
+6 registration record;
+7 (iii) A federal, state, or local court for use in
+8 connection with a civil, criminal, administrative, or arbitral proceeding,
+9 including without limitation use:
+10 (a) In connection with the service of process;
+11 (b) In connection with the execution or
+12 enforcement of a judgment or order; or
+13 (c) Pursuant to an order of a federal, state,
+14 or local court;
+15 (iv) A duly licensed attorney at law in response to
+16 a subpoena properly issued in a federal, state, or local court action; or
+17 (v) A government agency or law enforcement agency
+18 for use in carrying out its function.
+19 (2) The use of lists or other aggregations of compilations of
+20 motor vehicle registration information is restricted to safety recall
+21 notification programs involving motor vehicles and motor vehicle equipment,
+22 other federal and state agency programs, research and statistics involving
+23 motor vehicles in which individual identities are not published, disclosed,
+24 or for any other purpose authorized by the Driver's Privacy Protection Act of
+25 1994, 18 U.S.C. § 2721 et seq., as it existed on January 1, 2015 2025.
+26 (3) Motor vehicle registration information shall not be sold,
+27 furnished, or used for solicitation purposes.
+28 (b)(1) The Secretary of the Department of Finance and Administration
+29 and such officers of the Office of Motor Vehicle as the secretary may
+30 designate are authorized to prepare under the seal of the Office of Motor
+31 Vehicle and deliver upon request a certified copy of any record of the Office
+32 of Motor Vehicle or a noncertified electronic copy of any record of the
+33 Office of Motor Vehicle.
+34 (2)(1) A fee of one dollar ($1.00) shall be charged for each
+35 certified record authenticated.
+36 (3)(2) Every certified copy shall be admissible in any
+2 03/18/2025 9:13:56 AM MBM088
+
+SB498
+1 proceeding in any court in like manner as the original.
+2 (4)(A)(3)(A) A party requesting a noncertified electronic record
+3 shall execute a written agreement with the Department of Finance and
+4 Administration that includes the following provisions:
+5 (i) An acknowledgment that the party requesting a
+6 record shall comply with all state and federal limits on the use of those
+7 records; and
+8 (ii) An agreement that the party seeking to obtain
+9 records shall hold harmless and indemnify the department for any money
+10 damages, punitive damages, criminal fines, civil penalties, court costs, and
+11 attorney's fees awarded to any person or entity by any state or federal court
+12 or by the Arkansas State Claims Commission resulting from any disclosure by
+13 the party of motor vehicle information that is contrary to state or federal
+14 law.
+15 (B) A fee of not less than twenty dollars and fifty cents
+16 ($20.50) nor more than thirty dollars ($30.00) per one thousand (1,000)
+17 records shall be charged for electronic records.
+18
+19 SECTION 2. Arkansas Code §§ 27-19-406 and 27-19-407 are repealed.
+20 27-19-406. Operating record to be furnished.
+21 (a) The Office of Driver Services shall, upon request, furnish any
+22 person a certified abstract of the operating record of any person subject to
+23 the provisions of this chapter, which shall include enumeration of any motor
+24 vehicle accidents in which the person has been involved and reference to any
+25 convictions of the person for violation of the motor vehicle laws as reported
+26 to the Office of Driver Services, and a record of any vehicles registered in
+27 the name of the person.
+28 (b) The Office of Driver Services shall collect for each abstract the
+29 sum of fifty cents (50¢) for each page.
+30
+31 27-19-407. Public inspection of records.
+32 All records of the Office of Driver Services shall be open to public
+33 inspection at any reasonable time.
+34
+35 SECTION 3. Arkansas Code § 27-50-906 is amended to read as follows:
+36 27-50-906. Furnishing of abstracts — Definition Definitions.
+3 03/18/2025 9:13:56 AM MBM088
+
+SB498
+1 (a) As used in this section:
+2 (1) "Abstract" means a report of the driver's personal
+3 information and the driving status and history of a driver generated from the
+4 driver record maintained by the Office of Driver Services, including without
+5 limitation documents provided to the office by any federal, state, or local
+6 court, law enforcement agency, or government agency;
+7 (2) “Driver confirmation record” means information in the office
+8 concerning the name, date of birth, and current address of the licensed
+9 driver; and
+10 (3) "Personal information" means information that identifies an
+11 individual, including without limitation an individual's social security
+12 number, driver identification number, name, address, and telephone number.
+13 (a)(1)(b)(1) The Office of Driver Services may furnish an abstract or
+14 driver confirmation record of any driver's record to:
+15 (A) The driver on whom the record has been compiled;
+16 (B) Any A person who has been authorized in writing by the
+17 driver to obtain the driver's record;
+18 (C) Any court having jurisdiction over traffic offenses A
+19 federal, state, or local court for use in connection with a civil, criminal,
+20 administrative, or arbitral proceeding, including without limitation use:
+21 (i) In connection with the service of process;
+22 (ii) In connection with the execution or enforcement
+23 of a judgment or order; or
+24 (iii) Pursuant to an order of a federal, state, or
+25 local court;
+26 (D) Any law enforcement officer, who shall use the report
+27 only in the line of duty in enforcing the traffic laws of this state A duly
+28 licensed attorney at law in response to a subpoena properly issued in a
+29 federal, state, or local court action;
+30 (E) Employers of drivers, provided that the driver has
+31 given his or her written consent for the employer to obtain the driver's
+32 record;
+33 (F) Any An insurer licensed to do business in Arkansas or
+34 its agents, employees, or contractors in connection with the driving record
+35 or driver confirmation record of an insured or applicant and all licensed
+36 drivers in the household of the insured or applicant; and
+4 03/18/2025 9:13:56 AM MBM088
+
+SB498
+1 (G) A governmental department or agency upon a showing of
+2 reasonable cause as to why the driver's record should be issued to the
+3 governmental department or agency in order for the governmental department or
+4 agency to effectively carry out its statutory duties A governmental agency or
+5 law enforcement agency for use in carrying out its functions.
+6 (2)(A) A driver's license status report shall be available to
+7 rental car companies who otherwise meet the requirements of this section for
+8 receiving an abstract of a driver's record upon the payment of one dollar
+9 ($1.00) for each license number checked. This fee shall be deposited to the
+10 State Treasury into the State Central Services Fund as a direct revenue to be
+11 used by the Revenue Division of the Department of Finance and Administration.
+12 (B) The Information Network of Arkansas may charge an
+13 additional fee under the Information Network of Arkansas Act, § 25-27-101 et
+14 seq., for the service of transmitting this information electronically.
+15 (b) For purposes of this section, “driver confirmation record” means
+16 information in the Office of Driver Services concerning the name, date of
+17 birth, and current address of the licensed driver.
+18 (c)(1)(A) The fee for an insured's or applicant's driver confirmation
+19 record shall be ten cents (10¢) per record.
+20 (B) This fee shall be deposited into the fund as a direct
+21 revenue to be used by the division.
+22 (2) The network may charge an additional fee under the
+23 Information Network of Arkansas Act, § 25-27-101 et seq., for the service of
+24 transmitting this information electronically.
+25 (d) A recipient of an abstract or driver confirmation record under
+26 this section may redisclose the information only for a use permitted under
+27 this section.
+28 (e) The Secretary of the Department of Finance and Administration may
+29 promulgate rules and prescribe forms to implement this section.
+30
+31 SECTION 4. Arkansas Code § 27-50-907 is amended to read as follows:
+32 27-50-907. Availability of recorded information.
+33 (a) All information concerning a driver's record shall be made
+34 available to the driver or his or her legal representative.
+35 (b)(1) Information such as medical reports or other personal
+36 information shall not be a part of any written report the Office of Driver
+5 03/18/2025 9:13:56 AM MBM088
+
+SB498
+1 Services may provide, nor shall the Office of Driver Services allow any
+2 person to copy or reproduce such records.
+3 (2) Information in the central drivers' records file concerning
+4 the name, age, and current address of all drivers over the age of sixteen
+5 (16) years and under the age of twenty-six (26) years shall be made available
+6 to the Arkansas military recruiting coordinators for any of the United States
+7 Armed Forces for distribution to their branch offices. The information shall
+8 be available upon request of the military recruiting coordinators and may be
+9 requested and updated up to two (2) times during any calendar year.
+10 (c)(1) No The office may provide a digital driver's license photograph
+11 shall be disclosed to any individual or organization, except upon the written
+12 request for disclosure to a named individual or to a party by the person
+13 whose photograph is on the driver's license:
+14 (A)(i) To an individual or organization upon the written
+15 request for disclosure by the person whose photograph is on the driver's
+16 license.
+17 (ii) A written request under subdivision
+18 (c)(1)(A)(i) of this section shall name the individual or organization to
+19 whom the digital driver's license photograph shall be provided;
+20 (B) When disclosure of the digital driver's license
+21 photograph is compelled by a court order or valid subpoena issued by a
+22 federal, state or local court; or
+23 (C) Upon the request of a federal, state, or local law
+24 enforcement agency for use in carrying out its functions.
+25 (2) A fee of five dollars ($5.00) shall be charged for each
+26 digital driver's license photograph provided by the Office of Driver Services
+27 office under subdivision (c)(1)(A) of this section.
+28 (d) The Secretary of the Department of Finance and Administration may
+29 promulgate rules and prescribe forms to implement this section.
+30
+31
+32
+33
+34
+35
+36
+6 03/18/2025 9:13:56 AM MBM088
+
+[DELETED:       A D V P  T O P P  B   S t  2  ( d V o M o     ( r     ( r    (]
+[DELETED: S2 0 s     ( m     ( t r     ( c i      (      ( e      ( o     ( a     ( f   ( m n o m o 1   ( f  ( a d V o O   ( c   (]
+[DELETED: S3 0 p   ( s A     ( r r     ( r d a o t l    ( ( r    S  2  ( p t v c t t  ( s   2  A i   S  2]
+[DELETED: S4 0  (   ( i d l c   ( c d   ( i n  ( d    (    ( d    ( f a     (     ( o     ( l    ( o l f    ( g r    ( i o d]
+[DELETED: S5 0    ( r g a l   ( r r ( S u    ( a s  ( i b  ( r    ( r   ( I t  ( t t  ( p   S  2  ( a  ( i]
+[DELETED: S6 0 S p   ( t ( t A b r  ( s r w    ( r l     ( ( w    ( p f    ( e   ( d o  ( p]

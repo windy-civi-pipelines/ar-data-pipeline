@@ -1,0 +1,180 @@
+Title: Stricken language would be deleted from and underlined language would be added to present law.
+Official Title: Stricken language would be deleted from and underlined language would be added to present law.
+Number of Sections: 1
+Source: versions - SB 138
+Media Type: application/pdf
+Strikethrough Detection: 2 sections found
+
+================================================================================
+
+Section 1:
+1 State of Arkansas
+A Bill
+2 95th General Assembly
+3 Regular Session, 2025 SENATE BILL 138
+4
+5 By: Senator J. Boyd
+6 By: Representative Gramlich
+7
+For An Act To Be Entitled
+8
+9 AN ACT TO AMEND THE LAW CONCERNING WAR REENACTMENTS
+10 AT SCHOOLS; TO PERMIT AN UNLOADED FIREARM OR REPLICA
+11 OF A FIREARM AT CERTAIN WAR REENACTMENTS AT SCHOOLS;
+12 AND FOR OTHER PURPOSES.
+13
+14
+Subtitle
+15
+16 TO AMEND THE LAW CONCERNING WAR
+17 REENACTMENTS AT SCHOOLS; AND TO PERMIT
+18 AN UNLOADED FIREARM OR REPLICA OF A
+19 FIREARM AT CERTAIN WAR REENACTMENTS AT
+20 SCHOOLS.
+21
+22 BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF ARKANSAS:
+23
+24 SECTION 1. Arkansas Code § 6-5-501 is amended to read as follows:
+25 6-5-501. Definitions.
+26 As used in this subchapter:
+27 (1) “Revolutionary War” means the insurrection of the thirteen
+28 (13) original American colonies that led to the formation of the United
+29 States of America and lasted from 1775-1783;
+30 (2) “Civil War” means the 1861-1865 American Civil War;
+31 (3) “Civil War-era weapon” means an instrument used in offensive
+32 or defensive combat during the Civil War or a modern reproduction;
+33 (4) “Civil War reenactor” means a member of an organized group
+34 acting out historical events from the Civil War and carrying an actual weapon
+35 from that era or a reproduction;
+36 (5)(3) “French and Indian War” means the portion of the war
+*CEB062*
+01/28/2025 9:25:02 AM CEB062
+SB138
+1 between France and Great Britain that took place in what is now the United
+2 States of America from 1754-1763;
+3 (4) “Mexican-American War” means the war between the United
+4 States and Mexico from 1846-1848;
+5 (5) “School official” means a public school district
+6 superintendent or principal, a private school superintendent or principal, a
+7 president, chancellor, or dean of a publicly supported institution of higher
+8 education, or a president or dean of a private institution of higher
+9 education; and
+10 (6) “School property” means any building, bus, campus, ground,
+11 recreational area, athletic field, or other area or structure owned or in the
+12 charge of a public school district, a private school, a publicly supported
+13 institution of higher education, or a private institution of higher
+14 education.;
+15 (7) “War of 1812” means the conflict between the United States
+16 and Great Britain from 1812-1815;
+17 (8) “War reenactor” means a member of an organized group acting
+18 out historical events from a war defined in this section and carrying an
+19 actual weapon from that era or a reproduction of a weapon from that era; and
+20 (9) “War-era weapon” means an instrument used in offensive or
+21 defensive combat during a war defined in this section or a modern
+22 reproduction of such an instrument.
+23
+24 SECTION 2. Arkansas Code § 6-5-502 is amended to read as follows:
+25 6-5-502. Weapons.
+26 (a) A person in this state who is a Civil War war reenactor as defined
+27 in § 6-5-501 may carry a Civil War war-era weapon on school property for
+28 educational purposes so long as a school official grants approval in advance
+29 and, if the weapon is a firearm, the firearm is unloaded.
+30 (b) Subsection (a) of this section applies to the following wars:
+31 (1) The Revolutionary War;
+32 (2) The Civil War;
+33 (3) The French and Indian War;
+34 (4) The Mexican-American War; and
+35 (5) The War of 1812.
+36
+2 01/28/2025 9:25:02 AM CEB062
+[DELETED:       A A O A  T R A F S  B   S  6  A   ( ( S   (   ( o   ( a f   (]
+[DELETED: S2 0 b S   ( S   ( s p e e   ( r c i e   ( a   ( o a   ( d r   S  6  ( i e a  (   (   (   (   (   (]
+
+
+================================================================================
+
+Raw Text:
+Stricken language would be deleted from and underlined language would be added to present law.
+1 State of Arkansas
+A Bill
+2 95th General Assembly
+3 Regular Session, 2025 SENATE BILL 138
+4
+5 By: Senator J. Boyd
+6 By: Representative Gramlich
+7
+For An Act To Be Entitled
+8
+9 AN ACT TO AMEND THE LAW CONCERNING WAR REENACTMENTS
+10 AT SCHOOLS; TO PERMIT AN UNLOADED FIREARM OR REPLICA
+11 OF A FIREARM AT CERTAIN WAR REENACTMENTS AT SCHOOLS;
+12 AND FOR OTHER PURPOSES.
+13
+14
+Subtitle
+15
+16 TO AMEND THE LAW CONCERNING WAR
+17 REENACTMENTS AT SCHOOLS; AND TO PERMIT
+18 AN UNLOADED FIREARM OR REPLICA OF A
+19 FIREARM AT CERTAIN WAR REENACTMENTS AT
+20 SCHOOLS.
+21
+22 BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF ARKANSAS:
+23
+24 SECTION 1. Arkansas Code § 6-5-501 is amended to read as follows:
+25 6-5-501. Definitions.
+26 As used in this subchapter:
+27 (1) “Revolutionary War” means the insurrection of the thirteen
+28 (13) original American colonies that led to the formation of the United
+29 States of America and lasted from 1775-1783;
+30 (2) “Civil War” means the 1861-1865 American Civil War;
+31 (3) “Civil War-era weapon” means an instrument used in offensive
+32 or defensive combat during the Civil War or a modern reproduction;
+33 (4) “Civil War reenactor” means a member of an organized group
+34 acting out historical events from the Civil War and carrying an actual weapon
+35 from that era or a reproduction;
+36 (5)(3) “French and Indian War” means the portion of the war
+*CEB062*
+01/28/2025 9:25:02 AM CEB062
+
+SB138
+1 between France and Great Britain that took place in what is now the United
+2 States of America from 1754-1763;
+3 (4) “Mexican-American War” means the war between the United
+4 States and Mexico from 1846-1848;
+5 (5) “School official” means a public school district
+6 superintendent or principal, a private school superintendent or principal, a
+7 president, chancellor, or dean of a publicly supported institution of higher
+8 education, or a president or dean of a private institution of higher
+9 education; and
+10 (6) “School property” means any building, bus, campus, ground,
+11 recreational area, athletic field, or other area or structure owned or in the
+12 charge of a public school district, a private school, a publicly supported
+13 institution of higher education, or a private institution of higher
+14 education.;
+15 (7) “War of 1812” means the conflict between the United States
+16 and Great Britain from 1812-1815;
+17 (8) “War reenactor” means a member of an organized group acting
+18 out historical events from a war defined in this section and carrying an
+19 actual weapon from that era or a reproduction of a weapon from that era; and
+20 (9) “War-era weapon” means an instrument used in offensive or
+21 defensive combat during a war defined in this section or a modern
+22 reproduction of such an instrument.
+23
+24 SECTION 2. Arkansas Code § 6-5-502 is amended to read as follows:
+25 6-5-502. Weapons.
+26 (a) A person in this state who is a Civil War war reenactor as defined
+27 in § 6-5-501 may carry a Civil War war-era weapon on school property for
+28 educational purposes so long as a school official grants approval in advance
+29 and, if the weapon is a firearm, the firearm is unloaded.
+30 (b) Subsection (a) of this section applies to the following wars:
+31 (1) The Revolutionary War;
+32 (2) The Civil War;
+33 (3) The French and Indian War;
+34 (4) The Mexican-American War; and
+35 (5) The War of 1812.
+36
+2 01/28/2025 9:25:02 AM CEB062
+
+[DELETED:       A A O A  T R A F S  B   S  6  A   ( ( S   (   ( o   ( a f   (]
+[DELETED: S2 0 b S   ( S   ( s p e e   ( r c i e   ( a   ( o a   ( d r   S  6  ( i e a  (   (   (   (   (   (]

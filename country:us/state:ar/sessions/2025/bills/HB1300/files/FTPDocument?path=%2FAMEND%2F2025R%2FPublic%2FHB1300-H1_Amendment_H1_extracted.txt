@@ -1,0 +1,59 @@
+Title: ______________________________________________________________________
+Official Title: ______________________________________________________________________
+Number of Sections: 1
+Source: versions - Amendment H1
+Media Type: application/pdf
+Strikethrough Detection: 1 sections found
+
+================================================================================
+
+Section 1:
+Hall of the House of Representatives
+95th General Assembly - Regular Session, 2025
+Amendment Form
+Subtitle of House Bill 1300
+TO AMEND THE PRIOR AUTHORIZATION TRANSPARENCY ACT.
+______________________________________________________________________
+Amendment No. 1 to House Bill 1300
+Amend House Bill 1300 as originally introduced:
+Page 7, delete lines 13 through 21, and substitute the following:
+"had been covered by a health benefit plan for ninety (90) days or less; and
+(2) The healthcare service is part of a course of treatment
+initiated before the patient is covered by the health benefit plan."
+AND
+Page 9, delete line 27, and substitute the following:
+"entity failed to comply with this subchapter."
+*.ANS243*
+The Amendment was read ________________________________________________________________________________
+By: Representative L. Johnson
+ANS/ANS - 02-12-2025 09:47:45 _________________________
+ANS243 Chief Clerk
+[DELETED:  _ CA  (]
+
+
+================================================================================
+
+Raw Text:
+Hall of the House of Representatives
+95th General Assembly - Regular Session, 2025
+Amendment Form
+______________________________________________________________________
+Subtitle of House Bill 1300
+TO AMEND THE PRIOR AUTHORIZATION TRANSPARENCY ACT.
+______________________________________________________________________
+Amendment No. 1 to House Bill 1300
+Amend House Bill 1300 as originally introduced:
+Page 7, delete lines 13 through 21, and substitute the following:
+"had been covered by a health benefit plan for ninety (90) days or less; and
+(2) The healthcare service is part of a course of treatment
+initiated before the patient is covered by the health benefit plan."
+AND
+Page 9, delete line 27, and substitute the following:
+"entity failed to comply with this subchapter."
+*.ANS243*
+The Amendment was read ________________________________________________________________________________
+By: Representative L. Johnson
+ANS/ANS - 02-12-2025 09:47:45 _________________________
+ANS243 Chief Clerk
+
+[DELETED:  _ CA  (]

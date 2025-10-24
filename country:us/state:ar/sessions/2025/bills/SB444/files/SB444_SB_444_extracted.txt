@@ -1,0 +1,496 @@
+Title: Stricken language would be deleted from and underlined language would be added to present law.
+Official Title: Stricken language would be deleted from and underlined language would be added to present law.
+Number of Sections: 1
+Source: versions - SB 444
+Media Type: application/pdf
+Strikethrough Detection: 6 sections found
+
+================================================================================
+
+Section 1:
+1 State of Arkansas As Engrossed: S3/20/25
+A Bill
+2 95th General Assembly
+3 Regular Session, 2025 SENATE BILL 444
+4
+5 By: Senator K. Hammer
+6 By: Representative L. Johnson
+7
+For An Act To Be Entitled
+8
+9 AN ACT TO AMEND THE MEDICAL ETHICS AND DIVERSITY ACT;
+10 AND FOR OTHER PURPOSES.
+11
+12
+Subtitle
+13
+14 TO AMEND THE MEDICAL ETHICS AND
+15 DIVERSITY ACT.
+16
+17 BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF ARKANSAS:
+18
+19 SECTION 1. Arkansas Code § 17-80-503(5), concerning the definition of
+20 healthcare service within the Medical Ethics and Diversity Act, is amended to
+21 read as follows:
+22 (5) “Healthcare service” means medical research or medical care
+23 provided to a patient at any time over the entire course of treatment,
+24 including without limitation:
+25 (A) Initial examination;
+26 (B) Patient referral;
+27 (C) Counseling or psychological therapy;
+28 (D) Therapy;
+29 (E) Testing;
+30 (F) Research;
+31 (G) Diagnosis or prognosis;
+32 (H) Instruction;
+33 (I) Dispensing or administering, or both, of any drug,
+34 medication, or device;
+35 (J) Set up or performance of a surgery or other procedure;
+36 (K) Recordkeeping and recordmaking procedures and notes
+*JMB497*
+03-20-2025 10:16:54 JMB497
+As Engrossed: S3/20/25 SB444
+1 related to treatment; and
+2 (L) Other care or services provided by a medical
+3 practitioner or healthcare institution;
+4
+5 SECTION 2. Arkansas Code § 17-80-504 is amended to read as follows:
+6 17-80-504. Right of conscience.
+7 (a) A medical practitioner, healthcare institution, or healthcare
+8 payer:
+9 (1) Has the right not to participate in a healthcare service
+10 that violates his, her, or its conscience;
+11 (2) Is not required to participate in a healthcare service that
+12 violates his, her, or its conscience;
+13 (3) Is not civilly, criminally, or administratively liable for
+14 declining to participate in a healthcare service that violates his, her, or
+15 its conscience;
+16 (4) Is not civilly, criminally, or administratively liable for
+17 the exercise of conscience rights not to participate in a healthcare service
+18 by a medical practitioner employed, contracted, or granted admitting
+19 privileges by a healthcare institution; and
+20 (5) Shall not be discriminated against in any manner based upon
+21 his, her, or its declining to participate in a healthcare service that
+22 violates his, her, or its conscience.
+23 (b) Exercise of the right of conscience is limited to conscience-based
+24 objections to a particular healthcare service.
+25 (c) A worker in the medical field, whether a contractor or employee,
+26 has the right to not facilitate or participate in an abortion, assisted
+27 suicide, or gender transition procedure or service in any manner, except as
+28 required by subsection (e) of this section and an abortion performed in
+29 accordance with the Arkansas Human Life Protection Act, § 5-61-301 et seq.,
+30 and the Arkansas Unborn Child Protection Act, § 5-1-401 et seq.
+31 (d) A medical practitioner, healthcare institution, or healthcare
+32 payer that holds himself, herself, or itself out to the public as religious,
+33 states in its governing documents that it has a religious purpose or mission,
+34 and has internal operating policies or procedures that implement its
+35 religious beliefs has the right to make employment, staffing, contracting,
+36 and admitting privilege decisions consistent with his, her, or its religious
+2 03-20-2025 10:16:54 JMB497
+As Engrossed: S3/20/25 SB444
+1 beliefs.
+2 (d)(e)(1) The right of conscience described in subsection (a) of this
+3 section does not include the right to deny emergency medical care as required
+4 under 42 U.S.C. § 1395dd, as existing on January 1, 2021, or any other
+5 federal law governing emergency medical treatment, as existing on January 1,
+6 2021.
+7 (2) Emergency medical care services provided at a hospital that
+8 are required by 42 U.S.C. § 1395dd, as existing on January 1, 2025, and
+9 performed in accordance with the requirements of the Arkansas Human Life
+10 Protection Act, § 5-61-301 et seq., and the Arkansas Unborn Child Protection
+11 Act, § 5-1-401 et seq., are not violations of this subchapter.
+12 (e)(1)(f)(1) When a medical practitioner declines to participate in a
+13 healthcare service for reasons of conscience, the medical practitioner shall
+14 alert the employing healthcare institution at the earliest reasonable time
+15 and comply with any applicable protocol developed under this section.
+16 (2)(A) A healthcare institution may develop a protocol for
+17 situations in which a medical practitioner declines to participate in a
+18 healthcare service.
+19 (B) The protocol shall provide for prompt patient access
+20 to medical records to facilitate transfer, if needed.
+21 (3) This section does not require a healthcare institution or
+22 medical practitioner to perform a healthcare service, counsel, or refer a
+23 patient regarding a healthcare service that is contrary to the conscience of
+24 the medical practitioner or healthcare institution.
+25 (f)(1)(g)(1) This section does not prohibit an employer or contracting
+26 healthcare institution from disclosing the specific healthcare services that
+27 an applicant would be required to participate in if he or she is hired for
+28 the position or contract.
+29 (2) Upon being informed of the specific healthcare services
+30 required of the position or contract, the applicant shall disclose whether
+31 he, she, or it has a conscience objection to any of those required duties.
+32 (3) However, a medical practitioner or healthcare institution
+33 shall be able to decline to participate in a healthcare service that violates
+34 his, her, or its conscience if the employer or contracting healthcare
+35 institution, after employment, adds healthcare services to a medical
+36 practitioner's or healthcare institution's duties that would require the
+3 03-20-2025 10:16:54 JMB497
+As Engrossed: S3/20/25 SB444
+1 medical practitioner or healthcare institution to provide services that
+2 violate his, her, or its conscience.
+3 (g)(1)(h)(1) A healthcare payer shall file its conscience policies
+4 annually with the State Insurance Department by including a comprehensive
+5 list by billing code of any and all products, services, and procedures that
+6 the healthcare payer shall not pay or make payment for reasons of conscience.
+7 (2) The annual filing described in subdivision (g)(1) (h)(1) of
+8 this section shall:
+9 (A) Be provided annually to each beneficiary of the
+10 healthcare payer and on the website of the healthcare payer; and
+11 (B) Not be required for any year in which the healthcare
+12 payer will not exercise its conscience rights under this subchapter.
+13 (h)(i) A healthcare payer shall not use a conscience objection to
+14 refuse or reduce payments to a healthcare provider, healthcare institution,
+15 or beneficiary for any product, service, or procedure that is not included in
+16 the annual filing required under subdivision (g)(1) (h)(1) of this section.
+17 (i)(j) A healthcare payer shall not compel by undue influence, fraud,
+18 or duress a healthcare provider, healthcare institution, or beneficiary to
+19 accept a contract or contract amendment that violates the conscience of the
+20 healthcare provider, healthcare institution, or beneficiary.
+21 (j)(k) The department may issue rules and take any other action
+22 necessary or appropriate to enforce subsections (g)-(i) (h)-(j) of this
+23 section.
+24
+25 SECTION 3. Arkansas Code Title 17, Chapter 80, Subchapter 5, is
+26 amended to add additional sections to read as follows:
+27 17-80-507. Protection from discrimination.
+28 (a) A healthcare provider shall not be discriminated against because
+29 the healthcare provider:
+30 (1) Provided, caused to be provided, or is about to provide or
+31 cause to be provided information relating to any act or omission the
+32 healthcare provider reasonably believes to be a violation of any provision of
+33 this subchapter to:
+34 (A) His or her employer;
+35 (B) The Attorney General;
+36 (C) The Department of Health;
+4 03-20-2025 10:16:54 JMB497
+As Engrossed: S3/20/25 SB444
+1 (D) Any state agency charged with protecting healthcare
+2 rights of conscience;
+3 (E) The United States Department of Health and Human
+4 Services;
+5 (F) The United States Office for Civil Rights; or
+6 (G) Any state or federal agency charged with protecting
+7 healthcare rights of conscience; or
+8 (2) Testified, assisted, or participated, or is about to
+9 testify, assist, or participate, in a proceeding concerning a violation.
+10 (b) Unless the disclosure is specifically prohibited by law, a medical
+11 researcher, physician, or directly participating healthcare provider shall
+12 not be discriminated against because the medical researcher, physician, or
+13 directly participating healthcare provider discloses information, including
+14 by a formal or informal communication, transmission, or discussion, that the
+15 medical researcher, physician, or directly participating healthcare provider
+16 reasonably believes evidences:
+17 (1) Any violation of any law related to medical research or the
+18 provision of healthcare services; or
+19 (2) Gross mismanagement, a gross waste of funds, an abuse of
+20 authority, a practice or method of treatment that may put patient health at
+21 risk, or a substantial and specific danger to public health or safety.
+22 (c) Notwithstanding any other provision in this section, a complaint
+23 by a medical practitioner against another medical practitioner shall be
+24 submitted according to the peer review process mandated by the Health Care
+25 Quality Improvement Act of 1986, 42 U.S.C. § 11101 et seq., as existing on
+26 January 1, 2025.
+27
+28 17-80-508. First Amendment protections.
+29 (a)(1) A state licensing, certifying, or recognizing board or entity,
+30 or the Department of Health, shall not reprimand, sanction, revoke, or
+31 threaten to revoke a license, certification, or registration of, or otherwise
+32 discriminate against, a medical practitioner for engaging in speech,
+33 expression, or association that is protected from government interference by
+34 the First Amendment of the United States Constitution, unless the board,
+35 entity, or the department, as applicable, demonstrates by clear and
+36 convincing evidence that the medical practitioner’s speech, expression, or
+5 03-20-2025 10:16:54 JMB497
+As Engrossed: S3/20/25 SB444
+1 association was the direct cause of physical harm to a person with whom the
+2 medical practitioner had a practitioner-patient relationship within the three
+3 (3) years immediately preceding the incident of physical harm.
+4 (2) The licensing, certifying, or recognizing board or entity,
+5 or the department, as applicable, shall:
+6 (A) Provide a medical practitioner with any complaints it
+7 has received that may result in the revocation of the medical practitioner’s
+8 license, certification, or registration, within twenty-one (21) days after
+9 receipt of the complaint; and
+10 (B) Pay the medical practitioner an administrative penalty
+11 of five hundred dollars ($500) for each day the complaint is not provided to
+12 the medical practitioner after the specified twenty-one (21) days.
+13 (b) A political subdivision of this state shall not contract with,
+14 approve, or require an individual to obtain certifications or credentials
+15 issued or approved by a specialty board or other recognizing or certifying
+16 entity that revokes the certification of, or refuses to issue certification
+17 to, an individual because the individual has engaged in speech, expression,
+18 or association that is protected from government interference by the First
+19 Amendment of the United States Constitution if the individual was not
+20 providing medical advice or treatment to a specific patient that resulted in
+21 physical harm to the patient.
+22
+23 /s/K. Hammer
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+6 03-20-2025 10:16:54 JMB497
+[DELETED:  A       A A   T D  B   S h r   ( p i    (    (    (    (    (    (    (    (    ( m    (    (]
+[DELETED:  S2 0 r    ( p   S  1  ( p   ( t   ( v   ( d i   ( t b p   ( h v  ( o  ( h s r a a  ( p s a r a]
+[DELETED:  S3 0 b  ( s u f 2   ( a p P A  ( h a a   ( s h    ( t   ( m p t  ( h a t   ( r h   ( s h i p]
+[DELETED:  S4 0 m v  ( a l t   ( t    ( h    ( p  ( r o t  ( o a h  ( n s   S a  1  ( t   ( c h t    (    (    (]
+[DELETED:  S5 0    ( r    ( S    (    ( h   ( t  ( r n d b m r   ( p   ( a r  ( b s Q J   1  ( o t d e t e c]
+[DELETED:  S6 0 a m (   ( o    ( h l r    ( o t  ( a i e t o A p p  /             ]
+
+
+================================================================================
+
+Raw Text:
+Stricken language would be deleted from and underlined language would be added to present law.
+1 State of Arkansas As Engrossed: S3/20/25
+A Bill
+2 95th General Assembly
+3 Regular Session, 2025 SENATE BILL 444
+4
+5 By: Senator K. Hammer
+6 By: Representative L. Johnson
+7
+For An Act To Be Entitled
+8
+9 AN ACT TO AMEND THE MEDICAL ETHICS AND DIVERSITY ACT;
+10 AND FOR OTHER PURPOSES.
+11
+12
+Subtitle
+13
+14 TO AMEND THE MEDICAL ETHICS AND
+15 DIVERSITY ACT.
+16
+17 BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF ARKANSAS:
+18
+19 SECTION 1. Arkansas Code § 17-80-503(5), concerning the definition of
+20 healthcare service within the Medical Ethics and Diversity Act, is amended to
+21 read as follows:
+22 (5) “Healthcare service” means medical research or medical care
+23 provided to a patient at any time over the entire course of treatment,
+24 including without limitation:
+25 (A) Initial examination;
+26 (B) Patient referral;
+27 (C) Counseling or psychological therapy;
+28 (D) Therapy;
+29 (E) Testing;
+30 (F) Research;
+31 (G) Diagnosis or prognosis;
+32 (H) Instruction;
+33 (I) Dispensing or administering, or both, of any drug,
+34 medication, or device;
+35 (J) Set up or performance of a surgery or other procedure;
+36 (K) Recordkeeping and recordmaking procedures and notes
+*JMB497*
+03-20-2025 10:16:54 JMB497
+
+As Engrossed: S3/20/25 SB444
+1 related to treatment; and
+2 (L) Other care or services provided by a medical
+3 practitioner or healthcare institution;
+4
+5 SECTION 2. Arkansas Code § 17-80-504 is amended to read as follows:
+6 17-80-504. Right of conscience.
+7 (a) A medical practitioner, healthcare institution, or healthcare
+8 payer:
+9 (1) Has the right not to participate in a healthcare service
+10 that violates his, her, or its conscience;
+11 (2) Is not required to participate in a healthcare service that
+12 violates his, her, or its conscience;
+13 (3) Is not civilly, criminally, or administratively liable for
+14 declining to participate in a healthcare service that violates his, her, or
+15 its conscience;
+16 (4) Is not civilly, criminally, or administratively liable for
+17 the exercise of conscience rights not to participate in a healthcare service
+18 by a medical practitioner employed, contracted, or granted admitting
+19 privileges by a healthcare institution; and
+20 (5) Shall not be discriminated against in any manner based upon
+21 his, her, or its declining to participate in a healthcare service that
+22 violates his, her, or its conscience.
+23 (b) Exercise of the right of conscience is limited to conscience-based
+24 objections to a particular healthcare service.
+25 (c) A worker in the medical field, whether a contractor or employee,
+26 has the right to not facilitate or participate in an abortion, assisted
+27 suicide, or gender transition procedure or service in any manner, except as
+28 required by subsection (e) of this section and an abortion performed in
+29 accordance with the Arkansas Human Life Protection Act, § 5-61-301 et seq.,
+30 and the Arkansas Unborn Child Protection Act, § 5-1-401 et seq.
+31 (d) A medical practitioner, healthcare institution, or healthcare
+32 payer that holds himself, herself, or itself out to the public as religious,
+33 states in its governing documents that it has a religious purpose or mission,
+34 and has internal operating policies or procedures that implement its
+35 religious beliefs has the right to make employment, staffing, contracting,
+36 and admitting privilege decisions consistent with his, her, or its religious
+2 03-20-2025 10:16:54 JMB497
+
+As Engrossed: S3/20/25 SB444
+1 beliefs.
+2 (d)(e)(1) The right of conscience described in subsection (a) of this
+3 section does not include the right to deny emergency medical care as required
+4 under 42 U.S.C. § 1395dd, as existing on January 1, 2021, or any other
+5 federal law governing emergency medical treatment, as existing on January 1,
+6 2021.
+7 (2) Emergency medical care services provided at a hospital that
+8 are required by 42 U.S.C. § 1395dd, as existing on January 1, 2025, and
+9 performed in accordance with the requirements of the Arkansas Human Life
+10 Protection Act, § 5-61-301 et seq., and the Arkansas Unborn Child Protection
+11 Act, § 5-1-401 et seq., are not violations of this subchapter.
+12 (e)(1)(f)(1) When a medical practitioner declines to participate in a
+13 healthcare service for reasons of conscience, the medical practitioner shall
+14 alert the employing healthcare institution at the earliest reasonable time
+15 and comply with any applicable protocol developed under this section.
+16 (2)(A) A healthcare institution may develop a protocol for
+17 situations in which a medical practitioner declines to participate in a
+18 healthcare service.
+19 (B) The protocol shall provide for prompt patient access
+20 to medical records to facilitate transfer, if needed.
+21 (3) This section does not require a healthcare institution or
+22 medical practitioner to perform a healthcare service, counsel, or refer a
+23 patient regarding a healthcare service that is contrary to the conscience of
+24 the medical practitioner or healthcare institution.
+25 (f)(1)(g)(1) This section does not prohibit an employer or contracting
+26 healthcare institution from disclosing the specific healthcare services that
+27 an applicant would be required to participate in if he or she is hired for
+28 the position or contract.
+29 (2) Upon being informed of the specific healthcare services
+30 required of the position or contract, the applicant shall disclose whether
+31 he, she, or it has a conscience objection to any of those required duties.
+32 (3) However, a medical practitioner or healthcare institution
+33 shall be able to decline to participate in a healthcare service that violates
+34 his, her, or its conscience if the employer or contracting healthcare
+35 institution, after employment, adds healthcare services to a medical
+36 practitioner's or healthcare institution's duties that would require the
+3 03-20-2025 10:16:54 JMB497
+
+As Engrossed: S3/20/25 SB444
+1 medical practitioner or healthcare institution to provide services that
+2 violate his, her, or its conscience.
+3 (g)(1)(h)(1) A healthcare payer shall file its conscience policies
+4 annually with the State Insurance Department by including a comprehensive
+5 list by billing code of any and all products, services, and procedures that
+6 the healthcare payer shall not pay or make payment for reasons of conscience.
+7 (2) The annual filing described in subdivision (g)(1) (h)(1) of
+8 this section shall:
+9 (A) Be provided annually to each beneficiary of the
+10 healthcare payer and on the website of the healthcare payer; and
+11 (B) Not be required for any year in which the healthcare
+12 payer will not exercise its conscience rights under this subchapter.
+13 (h)(i) A healthcare payer shall not use a conscience objection to
+14 refuse or reduce payments to a healthcare provider, healthcare institution,
+15 or beneficiary for any product, service, or procedure that is not included in
+16 the annual filing required under subdivision (g)(1) (h)(1) of this section.
+17 (i)(j) A healthcare payer shall not compel by undue influence, fraud,
+18 or duress a healthcare provider, healthcare institution, or beneficiary to
+19 accept a contract or contract amendment that violates the conscience of the
+20 healthcare provider, healthcare institution, or beneficiary.
+21 (j)(k) The department may issue rules and take any other action
+22 necessary or appropriate to enforce subsections (g)-(i) (h)-(j) of this
+23 section.
+24
+25 SECTION 3. Arkansas Code Title 17, Chapter 80, Subchapter 5, is
+26 amended to add additional sections to read as follows:
+27 17-80-507. Protection from discrimination.
+28 (a) A healthcare provider shall not be discriminated against because
+29 the healthcare provider:
+30 (1) Provided, caused to be provided, or is about to provide or
+31 cause to be provided information relating to any act or omission the
+32 healthcare provider reasonably believes to be a violation of any provision of
+33 this subchapter to:
+34 (A) His or her employer;
+35 (B) The Attorney General;
+36 (C) The Department of Health;
+4 03-20-2025 10:16:54 JMB497
+
+As Engrossed: S3/20/25 SB444
+1 (D) Any state agency charged with protecting healthcare
+2 rights of conscience;
+3 (E) The United States Department of Health and Human
+4 Services;
+5 (F) The United States Office for Civil Rights; or
+6 (G) Any state or federal agency charged with protecting
+7 healthcare rights of conscience; or
+8 (2) Testified, assisted, or participated, or is about to
+9 testify, assist, or participate, in a proceeding concerning a violation.
+10 (b) Unless the disclosure is specifically prohibited by law, a medical
+11 researcher, physician, or directly participating healthcare provider shall
+12 not be discriminated against because the medical researcher, physician, or
+13 directly participating healthcare provider discloses information, including
+14 by a formal or informal communication, transmission, or discussion, that the
+15 medical researcher, physician, or directly participating healthcare provider
+16 reasonably believes evidences:
+17 (1) Any violation of any law related to medical research or the
+18 provision of healthcare services; or
+19 (2) Gross mismanagement, a gross waste of funds, an abuse of
+20 authority, a practice or method of treatment that may put patient health at
+21 risk, or a substantial and specific danger to public health or safety.
+22 (c) Notwithstanding any other provision in this section, a complaint
+23 by a medical practitioner against another medical practitioner shall be
+24 submitted according to the peer review process mandated by the Health Care
+25 Quality Improvement Act of 1986, 42 U.S.C. § 11101 et seq., as existing on
+26 January 1, 2025.
+27
+28 17-80-508. First Amendment protections.
+29 (a)(1) A state licensing, certifying, or recognizing board or entity,
+30 or the Department of Health, shall not reprimand, sanction, revoke, or
+31 threaten to revoke a license, certification, or registration of, or otherwise
+32 discriminate against, a medical practitioner for engaging in speech,
+33 expression, or association that is protected from government interference by
+34 the First Amendment of the United States Constitution, unless the board,
+35 entity, or the department, as applicable, demonstrates by clear and
+36 convincing evidence that the medical practitioner’s speech, expression, or
+5 03-20-2025 10:16:54 JMB497
+
+As Engrossed: S3/20/25 SB444
+1 association was the direct cause of physical harm to a person with whom the
+2 medical practitioner had a practitioner-patient relationship within the three
+3 (3) years immediately preceding the incident of physical harm.
+4 (2) The licensing, certifying, or recognizing board or entity,
+5 or the department, as applicable, shall:
+6 (A) Provide a medical practitioner with any complaints it
+7 has received that may result in the revocation of the medical practitioner’s
+8 license, certification, or registration, within twenty-one (21) days after
+9 receipt of the complaint; and
+10 (B) Pay the medical practitioner an administrative penalty
+11 of five hundred dollars ($500) for each day the complaint is not provided to
+12 the medical practitioner after the specified twenty-one (21) days.
+13 (b) A political subdivision of this state shall not contract with,
+14 approve, or require an individual to obtain certifications or credentials
+15 issued or approved by a specialty board or other recognizing or certifying
+16 entity that revokes the certification of, or refuses to issue certification
+17 to, an individual because the individual has engaged in speech, expression,
+18 or association that is protected from government interference by the First
+19 Amendment of the United States Constitution if the individual was not
+20 providing medical advice or treatment to a specific patient that resulted in
+21 physical harm to the patient.
+22
+23 /s/K. Hammer
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+6 03-20-2025 10:16:54 JMB497
+
+[DELETED:  A       A A   T D  B   S h r   ( p i    (    (    (    (    (    (    (    (    ( m    (    (]
+[DELETED:  S2 0 r    ( p   S  1  ( p   ( t   ( v   ( d i   ( t b p   ( h v  ( o  ( h s r a a  ( p s a r a]
+[DELETED:  S3 0 b  ( s u f 2   ( a p P A  ( h a a   ( s h    ( t   ( m p t  ( h a t   ( r h   ( s h i p]
+[DELETED:  S4 0 m v  ( a l t   ( t    ( h    ( p  ( r o t  ( o a h  ( n s   S a  1  ( t   ( c h t    (    (    (]
+[DELETED:  S5 0    ( r    ( S    (    ( h   ( t  ( r n d b m r   ( p   ( a r  ( b s Q J   1  ( o t d e t e c]
+[DELETED:  S6 0 a m (   ( o    ( h l r    ( o t  ( a i e t o A p p  /             ]

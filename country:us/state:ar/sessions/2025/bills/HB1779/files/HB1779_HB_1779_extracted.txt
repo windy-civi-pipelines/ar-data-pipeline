@@ -1,0 +1,259 @@
+Title: Stricken language would be deleted from and underlined language would be added to present law.
+Official Title: Stricken language would be deleted from and underlined language would be added to present law.
+Number of Sections: 1
+Source: versions - HB 1779
+Media Type: application/pdf
+Strikethrough Detection: 3 sections found
+
+================================================================================
+
+Section 1:
+1 State of Arkansas As Engrossed: S4/8/25
+A Bill
+2 95th General Assembly
+3 Regular Session, 2025 HOUSE BILL 1779
+4
+5 By: Representative Gazaway
+6 By: Senator Gilmore
+7
+For An Act To Be Entitled
+8
+9 AN ACT TO AMEND THE LAW RELATED TO THEFT OF PROPERTY;
+10 TO ENHANCE THE OFFENSE CLASSIFICATION FOR THE THEFT
+11 OF A POSTAL PACKAGE DELIVERED TO A PERSON'S RESIDENCE
+12 AND LEFT WITHIN THE CURTILAGE OF THE RESIDENCE; AND
+13 FOR OTHER PURPOSES.
+14
+15
+Subtitle
+16
+17 TO AMEND THE LAW RELATED TO THEFT OF
+18 PROPERTY; AND ENHANCE THE OFFENSE
+19 CLASSIFICATION FOR THE THEFT OF A POSTAL
+20 PACKAGE DELIVERED TO A PERSON'S
+21 RESIDENCE AND LEFT WITHIN THE CURTILAGE
+22 OF THE RESIDENCE.
+23
+24 BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF ARKANSAS:
+25
+26 SECTION 1. Arkansas Code § 5-36-103(b)(2) and (3), concerning the
+27 types of theft of property that constitute a Class C felony and a Class D
+28 felony, are amended to read as follows:
+29 (2) Class C felony if:
+30 (A) The value of the property is less than twenty-five
+31 thousand dollars ($25,000) but more than five thousand dollars ($5,000);
+32 (B) The property is obtained by threat;
+33 (C) The property is a firearm valued at two thousand five
+34 hundred dollars ($2,500) or more;
+35 (D) The property is building material obtained from a
+36 permitted construction site and the value of the building material is five
+*CEB119*
+04-08-2025 10:25:39 CEB119
+As Engrossed: S4/8/25 HB1779
+1 hundred dollars ($500) or more;
+2 (E) The value of the property is five hundred dollars
+3 ($500) or more and the theft occurred in an area declared to be under a state
+4 of emergency pursuant to proclamation by the President of the United States,
+5 the Governor, or the executive officer of a city or county; or
+6 (F) The property is oil and gas equipment, the value of
+7 the property is five thousand dollars ($5,000) or less but more than one
+8 thousand dollars ($1,000), and the person:
+9 (i) Caused more than two hundred fifty dollars
+10 ($250) in incidental damage to the owner of the oil and gas equipment during
+11 the commission of the offense; or
+12 (ii) Transported the oil and gas equipment across
+13 state lines to sell or dispose of the oil and gas equipment; or
+14 (G) The property is a postal package removed from the
+15 curtilage of a residential occupiable structure or from a delivery vehicle at
+16 any point throughout the delivery route;
+17 (3) Class D felony if:
+18 (A) The value of the property is five thousand dollars
+19 ($5,000) or less but more than one thousand dollars ($1,000);
+20 (B) The property is a firearm valued at less than two
+21 thousand five hundred dollars ($2,500);
+22 (C) The property is a:
+23 (i) Credit card or credit card account number; or
+24 (ii) Debit card or debit card account number;
+25 (D) The value of the property is at least one hundred
+26 dollars ($100) or more but less than five hundred dollars ($500) and the
+27 theft occurred in an area declared to be under a state of emergency pursuant
+28 to proclamation by the President of the United States, the Governor, or the
+29 executive officer of a city or county;
+30 (E) The property is livestock and the value of the
+31 livestock is in excess of two hundred dollars ($200);
+32 (F) The property is an electric power line, gas line,
+33 water line, wire or fiber insulator, electric motor, or other similar
+34 apparatus connected to a farm shop, on-farm grain drying and storage complex,
+35 heating and cooling system, environmental control system, animal production
+36 facility, irrigation system, or dwelling;
+2 04-08-2025 10:25:39 CEB119
+As Engrossed: S4/8/25 HB1779
+1 (G) The property is a decorative or memorial item from a
+2 cemetery, graveyard, or a person's grave site and the offense is the actor's
+3 second or subsequent offense of theft of a decorative or memorial item from a
+4 cemetery, graveyard, or a person's grave site under this section;
+5 (H) The property is oil and gas equipment and the value of
+6 the oil and gas equipment is one thousand dollars ($1,000) or less, and the
+7 person:
+8 (i) Caused more than two hundred fifty dollars
+9 ($250) in incidental damage to the owner of the oil and gas equipment during
+10 the commission of the offense; or
+11 (ii) Transported the oil and gas equipment across
+12 state lines to sell or dispose of the oil and gas equipment;
+13 (I) The property is a postal package removed from the
+14 curtilage of a residential occupiable structure or from a delivery vehicle at
+15 any point throughout the delivery route; or
+16 (J)(I) The value of the property is one thousand dollars
+17 ($1,000) or less and the person has been previously convicted of a theft
+18 offense of any classification within ten (10) years of the current offense;
+19 or
+20
+21 /s/Gazaway
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+3 04-08-2025 10:25:39 CEB119
+[DELETED:  A   EBL1     A T O A F   T P C P R O  B   S t f   (    ( t    (    ( h    ( p]
+[DELETED:  H2 0 h    ( ( o t    ( t t     ( ( t     ( s    ( c a   (    ( (    ( t    (     (     (    ( d t t e    ( l    ( w a h f]
+[DELETED:  H3 0    ( c s c    ( t p     ( ( t     ( s    ( c a    ( ( o o   /               ]
+
+
+================================================================================
+
+Raw Text:
+Stricken language would be deleted from and underlined language would be added to present law.
+1 State of Arkansas As Engrossed: S4/8/25
+A Bill
+2 95th General Assembly
+3 Regular Session, 2025 HOUSE BILL 1779
+4
+5 By: Representative Gazaway
+6 By: Senator Gilmore
+7
+For An Act To Be Entitled
+8
+9 AN ACT TO AMEND THE LAW RELATED TO THEFT OF PROPERTY;
+10 TO ENHANCE THE OFFENSE CLASSIFICATION FOR THE THEFT
+11 OF A POSTAL PACKAGE DELIVERED TO A PERSON'S RESIDENCE
+12 AND LEFT WITHIN THE CURTILAGE OF THE RESIDENCE; AND
+13 FOR OTHER PURPOSES.
+14
+15
+Subtitle
+16
+17 TO AMEND THE LAW RELATED TO THEFT OF
+18 PROPERTY; AND ENHANCE THE OFFENSE
+19 CLASSIFICATION FOR THE THEFT OF A POSTAL
+20 PACKAGE DELIVERED TO A PERSON'S
+21 RESIDENCE AND LEFT WITHIN THE CURTILAGE
+22 OF THE RESIDENCE.
+23
+24 BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF ARKANSAS:
+25
+26 SECTION 1. Arkansas Code § 5-36-103(b)(2) and (3), concerning the
+27 types of theft of property that constitute a Class C felony and a Class D
+28 felony, are amended to read as follows:
+29 (2) Class C felony if:
+30 (A) The value of the property is less than twenty-five
+31 thousand dollars ($25,000) but more than five thousand dollars ($5,000);
+32 (B) The property is obtained by threat;
+33 (C) The property is a firearm valued at two thousand five
+34 hundred dollars ($2,500) or more;
+35 (D) The property is building material obtained from a
+36 permitted construction site and the value of the building material is five
+*CEB119*
+04-08-2025 10:25:39 CEB119
+
+As Engrossed: S4/8/25 HB1779
+1 hundred dollars ($500) or more;
+2 (E) The value of the property is five hundred dollars
+3 ($500) or more and the theft occurred in an area declared to be under a state
+4 of emergency pursuant to proclamation by the President of the United States,
+5 the Governor, or the executive officer of a city or county; or
+6 (F) The property is oil and gas equipment, the value of
+7 the property is five thousand dollars ($5,000) or less but more than one
+8 thousand dollars ($1,000), and the person:
+9 (i) Caused more than two hundred fifty dollars
+10 ($250) in incidental damage to the owner of the oil and gas equipment during
+11 the commission of the offense; or
+12 (ii) Transported the oil and gas equipment across
+13 state lines to sell or dispose of the oil and gas equipment; or
+14 (G) The property is a postal package removed from the
+15 curtilage of a residential occupiable structure or from a delivery vehicle at
+16 any point throughout the delivery route;
+17 (3) Class D felony if:
+18 (A) The value of the property is five thousand dollars
+19 ($5,000) or less but more than one thousand dollars ($1,000);
+20 (B) The property is a firearm valued at less than two
+21 thousand five hundred dollars ($2,500);
+22 (C) The property is a:
+23 (i) Credit card or credit card account number; or
+24 (ii) Debit card or debit card account number;
+25 (D) The value of the property is at least one hundred
+26 dollars ($100) or more but less than five hundred dollars ($500) and the
+27 theft occurred in an area declared to be under a state of emergency pursuant
+28 to proclamation by the President of the United States, the Governor, or the
+29 executive officer of a city or county;
+30 (E) The property is livestock and the value of the
+31 livestock is in excess of two hundred dollars ($200);
+32 (F) The property is an electric power line, gas line,
+33 water line, wire or fiber insulator, electric motor, or other similar
+34 apparatus connected to a farm shop, on-farm grain drying and storage complex,
+35 heating and cooling system, environmental control system, animal production
+36 facility, irrigation system, or dwelling;
+2 04-08-2025 10:25:39 CEB119
+
+As Engrossed: S4/8/25 HB1779
+1 (G) The property is a decorative or memorial item from a
+2 cemetery, graveyard, or a person's grave site and the offense is the actor's
+3 second or subsequent offense of theft of a decorative or memorial item from a
+4 cemetery, graveyard, or a person's grave site under this section;
+5 (H) The property is oil and gas equipment and the value of
+6 the oil and gas equipment is one thousand dollars ($1,000) or less, and the
+7 person:
+8 (i) Caused more than two hundred fifty dollars
+9 ($250) in incidental damage to the owner of the oil and gas equipment during
+10 the commission of the offense; or
+11 (ii) Transported the oil and gas equipment across
+12 state lines to sell or dispose of the oil and gas equipment;
+13 (I) The property is a postal package removed from the
+14 curtilage of a residential occupiable structure or from a delivery vehicle at
+15 any point throughout the delivery route; or
+16 (J)(I) The value of the property is one thousand dollars
+17 ($1,000) or less and the person has been previously convicted of a theft
+18 offense of any classification within ten (10) years of the current offense;
+19 or
+20
+21 /s/Gazaway
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+3 04-08-2025 10:25:39 CEB119
+
+[DELETED:  A   EBL1     A T O A F   T P C P R O  B   S t f   (    ( t    (    ( h    ( p]
+[DELETED:  H2 0 h    ( ( o t    ( t t     ( ( t     ( s    ( c a   (    ( (    ( t    (     (     (    ( d t t e    ( l    ( w a h f]
+[DELETED:  H3 0    ( c s c    ( t p     ( ( t     ( s    ( c a    ( ( o o   /               ]

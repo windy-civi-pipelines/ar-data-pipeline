@@ -1,0 +1,496 @@
+Title: Stricken language would be deleted from and underlined language would be added to present law.
+Official Title: Stricken language would be deleted from and underlined language would be added to present law.
+Number of Sections: 1
+Source: versions - HB 1118
+Media Type: application/pdf
+Strikethrough Detection: 6 sections found
+
+================================================================================
+
+Section 1:
+1 State of Arkansas As Engrossed: H2/5/25
+A Bill
+2 95th General Assembly
+3 Regular Session, 2025 HOUSE BILL 1118
+4
+5 By: Representative Warren
+6 By: Senator K. Hammer
+7
+For An Act To Be Entitled
+8
+9 AN ACT TO AMEND THE LAWS CONCERNING THE MANAGEMENT OF
+10 PREMIUM TAXES UNDER THE ARKANSAS FIRE AND POLICE
+11 PENSION REVIEW BOARD; TO DECLARE AN EMERGENCY; AND
+12 FOR OTHER PURPOSES.
+13
+14
+Subtitle
+15
+16 TO AMEND THE LAWS CONCERNING THE
+17 MANAGEMENT OF PREMIUM TAXES UNDER THE
+18 ARKANSAS FIRE AND POLICE PENSION REVIEW
+19 BOARD; AND TO DECLARE AN EMERGENCY.
+20
+21 BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF ARKANSAS:
+22
+23 SECTION 1. Arkansas Code § 24-11-203(k), concerning certification of
+24 funding recommended for disbursement of premium tax funds to underfunded
+25 municipal fire and police relief and pension plans, is repealed.
+26 (k)(1) On or before June 15 of each fiscal year, the Arkansas Fire and
+27 Police Pension Review Board shall certify to the Chief Fiscal Officer of the
+28 State the amount of funding it recommends for disbursement in the ensuing
+29 fiscal year to underfunded municipal fire and police relief and pension plans
+30 as defined in § 24-11-217.
+31 (2) After receiving the certification required under subdivision
+32 (k)(1) of this section, the Chief Fiscal Officer of the State shall
+33 immediately transfer on his or her books and the books of the Treasurer of
+34 State the lesser of the total amount recommended by the Arkansas Fire and
+35 Police Pension Review Board or the amount appropriated by the General
+36 Assembly for the ensuing fiscal year from the Revenue Holding Fund Account to
+*LJH037*
+02-05-2025 09:29:35 LJH037
+As Engrossed: H2/5/25 HB1118
+1 the Firemen's and Police Officers' Pension and Relief Fund for distribution
+2 to the recommended underfunded plans.
+3
+4 SECTION 2. Arkansas Code § 24-11-211(a), concerning the creation and
+5 administration of the Arkansas Policemen's Pension Supplement Program, is
+6 amended to read as follows:
+7 (a)(1) There is created the Arkansas Policemen's Pension Supplement
+8 Program, to be administered by the Arkansas Fire and Police Pension Review
+9 Board Department of Finance and Administration.
+10
+11 SECTION 3. Arkansas Code § 24-11-211(b)(2)—(c)(2), concerning funding
+12 and administration of the Policemen's Pension Supplement Program Fund, are
+13 amended to read as follows:
+14 (2) The Policemen's Pension Supplement Program Fund shall be
+15 funded by that portion of those unallocated premium taxes levied on insurers
+16 for the support of police retirement programs that is transferred to the
+17 control of the board department under § 24-11-215(c).
+18 (c)(1) The board department shall administer the program and make the
+19 payments called for under the program, including formulating necessary rules,
+20 procedures, and forms.
+21 (2) The board department may retain one percent (1%) of the
+22 funds transferred for administrative expenses of the program.
+23
+24 SECTION 4. Arkansas Code § 24-11-211(f)-(g), concerning payments and
+25 certification of transfers related to the Policemen's Pension Supplement
+26 Program Fund, are amended to read as follows:
+27 (f) On or after July 1 of each fiscal year following the board's
+28 payments required by subsection (e) of this section, the board shall pay to
+29 the State Treasury the amounts transferred to the board under § 24-11-215(c)
+30 that exceed the amounts the board is required to pay under the program.
+31 (g)(1) The program is effective July 1, 1999.
+32 (2) The first payments may be made under the program beginning
+33 July 31, 1999, and the first transfer under § 24-11-215(c) shall occur on
+34 July 25, 1999, and on each July 25 thereafter.
+35
+36 SECTION 5. Arkansas Code § 24-11-212(b), concerning the administration
+2 02-05-2025 09:29:35 LJH037
+As Engrossed: H2/5/25 HB1118
+1 of the Future Supplement Fund, is amended to read as follows:
+2 (b) The Future Supplement Fund shall be administered by the Arkansas
+3 Fire and Police Pension Review Board Department of Finance and
+4 Administration.
+5
+6 SECTION 6. Arkansas Code § 24-11-212(f), concerning the use of
+7 allocations in previous years that were not distributed for the Future
+8 Supplement Fund, is amended to read as follows:
+9 (f) The Arkansas Fire and Police Pension Review Board department may
+10 use an amount allocated in previous years that has not been distributed for
+11 the Future Supplement Fund to:
+12 (1) Ensure the distribution of an amount listed in subdivision
+13 (d)(1) of this section; and
+14 (2) Help offset a reduction described in § 24-11-215.
+15
+16 SECTION 7. Arkansas Code § 24-11-213(b), concerning the allocation of
+17 funds between the Firemen's and Police Officers' Pension and Relief Fund and
+18 the General Revenue Fund Account, is amended to read as follows:
+19 (b) The allocation of funds between the Firemen's and Police Officers'
+20 Pension and Relief Fund and the General Revenue Fund Account under this
+21 section is subject to the following conditions:
+22 (1) The Arkansas Fire and Police Pension Review Board Department
+23 of Finance and Administration shall review annually the distribution of funds
+24 to each qualified city, town, or fire protection district made in the
+25 previous calendar year before disbursing funds to an area qualified under §
+26 24-11-214; and
+27 (2) The board department shall consider as part of the annual
+28 assessment of the allocation of the disbursement of funds under § 24-11-214:
+29 (A) The certification of a new city, town, or fire
+30 protection district for participation in the Firemen's and Police Officers'
+31 Pension and Relief Fund; and
+32 (B) A change in the legal description of a city, town, or
+33 fire protection district, which shall be reported to the board department
+34 annually by December 14.
+35
+36 SECTION 8. Arkansas Code § 24-11-214(b)(2)(B), concerning the
+3 02-05-2025 09:29:35 LJH037
+As Engrossed: H2/5/25 HB1118
+1 actuarial cost for a calendar year to determine the amount of the premium tax
+2 revenues, is amended to read as follows:
+3 (B) For a group that is covered by a local policemen's
+4 pension and relief fund or a local firemen's relief and pension fund, shall
+5 be the cost calculated by the actuary for the Arkansas Fire and Police
+6 Pension Review Board Department of Finance and Administration for the
+7 preceding calendar year; and
+8
+9 SECTION 9. Arkansas Code § 24-11-214(c), concerning the calculation of
+10 the amount of the premium tax revenues, is amended to read as follows:
+11 (c) The amount of revenues to be directed to cities, towns, and fire
+12 protection districts shall equal the amount in the Firemen's and Police
+13 Officers' Pension and Relief Fund less the payment for the administrative and
+14 actuarial expenses of the board Arkansas Fire and Police Pension Review Board
+15 under subsection (i) of this section and under § 24-11-203.
+16
+17 SECTION 10. Arkansas Code § 24-11-214(f)(2), concerning the timing of
+18 the certification by the Arkansas Fire and Police Pension Review Board, is
+19 amended to read as follows:
+20 (2) On or before June 15 of each calendar year after 2002 2025,
+21 the board shall certify to the Department of Finance and Administration shall
+22 certify the exact amount of tax revenues each city, town, or fire protection
+23 district is entitled to receive for the calendar year under this section.
+24
+25 SECTION 11. Arkansas Code § 24-11-214(h)—(i), concerning fees and
+26 expenses for the administration of this section, is amended to read as
+27 follows:
+28 (h)(1) There shall be no administrative fees charged to these entities
+29 by the board department upon qualification.
+30 (2) The board department shall incur all administrative and
+31 actuarial costs associated with obtaining the information required under this
+32 section.
+33 (i)(1) The board department shall establish a certain percentage of
+34 the insurance tax revenues to use to meet its proper actuarial expenses and
+35 administrative costs incurred in obtaining and evaluating the population
+36 information required under § 24-11-213, but in no event shall the board
+4 02-05-2025 09:29:35 LJH037
+As Engrossed: H2/5/25 HB1118
+1 department be entitled to more than one percent (1%) of the Firemen's and
+2 Police Officers' Pension and Relief Fund as defined in § 24-11-809(a)(2).
+3 (2) This assessment shall be collected in addition to the
+4 assessment provided in § 24-11-203.
+5
+6 SECTION 12. Arkansas Code § 24-11-214(l), concerning the promulgation
+7 of rules for the implementation of this section, is amended to read as
+8 follows:
+9 (1) The Arkansas Fire and Police Pension Review Board department shall
+10 may promulgate rules that are necessary to implement this section.
+11
+12 SECTION 13. Arkansas Code § 24-11-215(c), concerning annual transfers
+13 to the Arkansas Policemen's Pension Supplement Program, is amended to read as
+14 follows:
+15 (c) After transfers are made to cover funds distributed under
+16 subsection (b) of this section and the portion of those premium taxes set
+17 aside for transfer to the State Police Retirement Fund under § 24-6-209(b),
+18 the Secretary of the Department of Finance and Administration is directed to
+19 make annual transfers from the police portion of the revenues to the
+20 Policemen's Pension Supplement Program Fund on or before July 25, 1999, and
+21 each year thereafter as certified by the Arkansas Fire and Police Pension
+22 Review Board on July 1 each year as the amount needed to pay the expenses of
+23 and to make payments to the eligible retired police officers and survivors
+24 under the Arkansas Policemen's Pension Supplement Program for the coming year
+25 of the program.
+26
+27 SECTION 14. Arkansas Code § 24-11-217(c), concerning approval of
+28 additional allocations to the policemen's pension and relief funds and
+29 firemen's relief and pension funds, is amended to read as follows:
+30 (c) The policemen's pension and relief funds and firemen's relief and
+31 pension funds shall qualify for the additional allocation after approval of
+32 the Arkansas Fire and Police Pension Review Board and after meeting the
+33 following criteria:
+34 (1) The policemen's pension and relief fund or the firemen's
+35 relief and pension fund is in compliance with all applicable laws and rules;
+36 (2) The policemen's pension and relief fund or the firemen's
+5 02-05-2025 09:29:35 LJH037
+As Engrossed: H2/5/25 HB1118
+1 relief and pension fund shall receive employer contributions other than
+2 premium tax allocations that are at least eighty percent (80%) of the
+3 actuarial cost under § 24-11-214 during the calendar year before an
+4 allocation; and
+5 (3)(A) A firemen's relief and pension fund that provides
+6 benefits to volunteer members shall receive funding without meeting the
+7 employer contribution requirement described in subdivision (c)(2) of this
+8 section if the firemen's relief and pension fund is:
+9 (i) Less than fifty percent (50%) funded as of the
+10 most recent actuarial valuation; and
+11 (ii) Administered by the Arkansas Local Police and
+12 Fire Retirement System.
+13 (B) The funding under this subsection shall be eliminated
+14 to meet the criteria of § 24-11-215(e)(2)(A) notwithstanding the requirement
+15 of § 24-11-215(d).
+16
+17 SECTION 15. EMERGENCY CLAUSE. It is found and determined by the
+18 General Assembly of the State of Arkansas that the management of premium
+19 taxes collected for the benefit of municipal firemen's relief and pension
+20 funds and policemen's pension and relief funds is in need of a change in
+21 administration from the Arkansas Fire and Police Pension Review Board to the
+22 Department of Finance and Administration for purposes of financial security
+23 and efficiency; and that it is necessary for this act to have an effective
+24 date of July 1, 2025, in order to allow for a structured and proper
+25 administration of the procedures referenced in this act. Therefore, an
+26 emergency is declared to exist, and this act being necessary for the
+27 preservation of the public peace, health, and safety shall become effective
+28 on July 1, 2025.
+29
+30 /s/Warren
+31
+32
+33
+34
+35
+36
+6 02-05-2025 09:29:35 LJH037
+[DELETED:  A       A P P F   T M A B  B   S f m  ( P S f a   ( ( i S P A]
+[DELETED:  H2 0 t t   S a a  ( P B   S a a   ( f f c  ( p p   ( f   S c P  ( p t t  (   ( J J   S]
+[DELETED:  H3 0 o  ( F A   S a S  ( u t   ( (   (   S f t  ( P s   ( o t p 2   ( a    ( p P    ( f a   S]
+[DELETED:  H4 0 a r    ( p b P p   S t  ( p O a u   S t a   ( t c d   S e f  ( b   ( a s  ( t a i]
+[DELETED:  H5 0 d P   ( a   S o f  ( m   S t f  ( s a t m P e R a u o   S a f  ( p t f   ( r   (]
+[DELETED:  H6 0 r p a a   ( b e s     ( m     ( F    ( t o   S G t f a D a d a e p o  /      ]
+
+
+================================================================================
+
+Raw Text:
+Stricken language would be deleted from and underlined language would be added to present law.
+1 State of Arkansas As Engrossed: H2/5/25
+A Bill
+2 95th General Assembly
+3 Regular Session, 2025 HOUSE BILL 1118
+4
+5 By: Representative Warren
+6 By: Senator K. Hammer
+7
+For An Act To Be Entitled
+8
+9 AN ACT TO AMEND THE LAWS CONCERNING THE MANAGEMENT OF
+10 PREMIUM TAXES UNDER THE ARKANSAS FIRE AND POLICE
+11 PENSION REVIEW BOARD; TO DECLARE AN EMERGENCY; AND
+12 FOR OTHER PURPOSES.
+13
+14
+Subtitle
+15
+16 TO AMEND THE LAWS CONCERNING THE
+17 MANAGEMENT OF PREMIUM TAXES UNDER THE
+18 ARKANSAS FIRE AND POLICE PENSION REVIEW
+19 BOARD; AND TO DECLARE AN EMERGENCY.
+20
+21 BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF ARKANSAS:
+22
+23 SECTION 1. Arkansas Code § 24-11-203(k), concerning certification of
+24 funding recommended for disbursement of premium tax funds to underfunded
+25 municipal fire and police relief and pension plans, is repealed.
+26 (k)(1) On or before June 15 of each fiscal year, the Arkansas Fire and
+27 Police Pension Review Board shall certify to the Chief Fiscal Officer of the
+28 State the amount of funding it recommends for disbursement in the ensuing
+29 fiscal year to underfunded municipal fire and police relief and pension plans
+30 as defined in § 24-11-217.
+31 (2) After receiving the certification required under subdivision
+32 (k)(1) of this section, the Chief Fiscal Officer of the State shall
+33 immediately transfer on his or her books and the books of the Treasurer of
+34 State the lesser of the total amount recommended by the Arkansas Fire and
+35 Police Pension Review Board or the amount appropriated by the General
+36 Assembly for the ensuing fiscal year from the Revenue Holding Fund Account to
+*LJH037*
+02-05-2025 09:29:35 LJH037
+
+As Engrossed: H2/5/25 HB1118
+1 the Firemen's and Police Officers' Pension and Relief Fund for distribution
+2 to the recommended underfunded plans.
+3
+4 SECTION 2. Arkansas Code § 24-11-211(a), concerning the creation and
+5 administration of the Arkansas Policemen's Pension Supplement Program, is
+6 amended to read as follows:
+7 (a)(1) There is created the Arkansas Policemen's Pension Supplement
+8 Program, to be administered by the Arkansas Fire and Police Pension Review
+9 Board Department of Finance and Administration.
+10
+11 SECTION 3. Arkansas Code § 24-11-211(b)(2)—(c)(2), concerning funding
+12 and administration of the Policemen's Pension Supplement Program Fund, are
+13 amended to read as follows:
+14 (2) The Policemen's Pension Supplement Program Fund shall be
+15 funded by that portion of those unallocated premium taxes levied on insurers
+16 for the support of police retirement programs that is transferred to the
+17 control of the board department under § 24-11-215(c).
+18 (c)(1) The board department shall administer the program and make the
+19 payments called for under the program, including formulating necessary rules,
+20 procedures, and forms.
+21 (2) The board department may retain one percent (1%) of the
+22 funds transferred for administrative expenses of the program.
+23
+24 SECTION 4. Arkansas Code § 24-11-211(f)-(g), concerning payments and
+25 certification of transfers related to the Policemen's Pension Supplement
+26 Program Fund, are amended to read as follows:
+27 (f) On or after July 1 of each fiscal year following the board's
+28 payments required by subsection (e) of this section, the board shall pay to
+29 the State Treasury the amounts transferred to the board under § 24-11-215(c)
+30 that exceed the amounts the board is required to pay under the program.
+31 (g)(1) The program is effective July 1, 1999.
+32 (2) The first payments may be made under the program beginning
+33 July 31, 1999, and the first transfer under § 24-11-215(c) shall occur on
+34 July 25, 1999, and on each July 25 thereafter.
+35
+36 SECTION 5. Arkansas Code § 24-11-212(b), concerning the administration
+2 02-05-2025 09:29:35 LJH037
+
+As Engrossed: H2/5/25 HB1118
+1 of the Future Supplement Fund, is amended to read as follows:
+2 (b) The Future Supplement Fund shall be administered by the Arkansas
+3 Fire and Police Pension Review Board Department of Finance and
+4 Administration.
+5
+6 SECTION 6. Arkansas Code § 24-11-212(f), concerning the use of
+7 allocations in previous years that were not distributed for the Future
+8 Supplement Fund, is amended to read as follows:
+9 (f) The Arkansas Fire and Police Pension Review Board department may
+10 use an amount allocated in previous years that has not been distributed for
+11 the Future Supplement Fund to:
+12 (1) Ensure the distribution of an amount listed in subdivision
+13 (d)(1) of this section; and
+14 (2) Help offset a reduction described in § 24-11-215.
+15
+16 SECTION 7. Arkansas Code § 24-11-213(b), concerning the allocation of
+17 funds between the Firemen's and Police Officers' Pension and Relief Fund and
+18 the General Revenue Fund Account, is amended to read as follows:
+19 (b) The allocation of funds between the Firemen's and Police Officers'
+20 Pension and Relief Fund and the General Revenue Fund Account under this
+21 section is subject to the following conditions:
+22 (1) The Arkansas Fire and Police Pension Review Board Department
+23 of Finance and Administration shall review annually the distribution of funds
+24 to each qualified city, town, or fire protection district made in the
+25 previous calendar year before disbursing funds to an area qualified under §
+26 24-11-214; and
+27 (2) The board department shall consider as part of the annual
+28 assessment of the allocation of the disbursement of funds under § 24-11-214:
+29 (A) The certification of a new city, town, or fire
+30 protection district for participation in the Firemen's and Police Officers'
+31 Pension and Relief Fund; and
+32 (B) A change in the legal description of a city, town, or
+33 fire protection district, which shall be reported to the board department
+34 annually by December 14.
+35
+36 SECTION 8. Arkansas Code § 24-11-214(b)(2)(B), concerning the
+3 02-05-2025 09:29:35 LJH037
+
+As Engrossed: H2/5/25 HB1118
+1 actuarial cost for a calendar year to determine the amount of the premium tax
+2 revenues, is amended to read as follows:
+3 (B) For a group that is covered by a local policemen's
+4 pension and relief fund or a local firemen's relief and pension fund, shall
+5 be the cost calculated by the actuary for the Arkansas Fire and Police
+6 Pension Review Board Department of Finance and Administration for the
+7 preceding calendar year; and
+8
+9 SECTION 9. Arkansas Code § 24-11-214(c), concerning the calculation of
+10 the amount of the premium tax revenues, is amended to read as follows:
+11 (c) The amount of revenues to be directed to cities, towns, and fire
+12 protection districts shall equal the amount in the Firemen's and Police
+13 Officers' Pension and Relief Fund less the payment for the administrative and
+14 actuarial expenses of the board Arkansas Fire and Police Pension Review Board
+15 under subsection (i) of this section and under § 24-11-203.
+16
+17 SECTION 10. Arkansas Code § 24-11-214(f)(2), concerning the timing of
+18 the certification by the Arkansas Fire and Police Pension Review Board, is
+19 amended to read as follows:
+20 (2) On or before June 15 of each calendar year after 2002 2025,
+21 the board shall certify to the Department of Finance and Administration shall
+22 certify the exact amount of tax revenues each city, town, or fire protection
+23 district is entitled to receive for the calendar year under this section.
+24
+25 SECTION 11. Arkansas Code § 24-11-214(h)—(i), concerning fees and
+26 expenses for the administration of this section, is amended to read as
+27 follows:
+28 (h)(1) There shall be no administrative fees charged to these entities
+29 by the board department upon qualification.
+30 (2) The board department shall incur all administrative and
+31 actuarial costs associated with obtaining the information required under this
+32 section.
+33 (i)(1) The board department shall establish a certain percentage of
+34 the insurance tax revenues to use to meet its proper actuarial expenses and
+35 administrative costs incurred in obtaining and evaluating the population
+36 information required under § 24-11-213, but in no event shall the board
+4 02-05-2025 09:29:35 LJH037
+
+As Engrossed: H2/5/25 HB1118
+1 department be entitled to more than one percent (1%) of the Firemen's and
+2 Police Officers' Pension and Relief Fund as defined in § 24-11-809(a)(2).
+3 (2) This assessment shall be collected in addition to the
+4 assessment provided in § 24-11-203.
+5
+6 SECTION 12. Arkansas Code § 24-11-214(l), concerning the promulgation
+7 of rules for the implementation of this section, is amended to read as
+8 follows:
+9 (1) The Arkansas Fire and Police Pension Review Board department shall
+10 may promulgate rules that are necessary to implement this section.
+11
+12 SECTION 13. Arkansas Code § 24-11-215(c), concerning annual transfers
+13 to the Arkansas Policemen's Pension Supplement Program, is amended to read as
+14 follows:
+15 (c) After transfers are made to cover funds distributed under
+16 subsection (b) of this section and the portion of those premium taxes set
+17 aside for transfer to the State Police Retirement Fund under § 24-6-209(b),
+18 the Secretary of the Department of Finance and Administration is directed to
+19 make annual transfers from the police portion of the revenues to the
+20 Policemen's Pension Supplement Program Fund on or before July 25, 1999, and
+21 each year thereafter as certified by the Arkansas Fire and Police Pension
+22 Review Board on July 1 each year as the amount needed to pay the expenses of
+23 and to make payments to the eligible retired police officers and survivors
+24 under the Arkansas Policemen's Pension Supplement Program for the coming year
+25 of the program.
+26
+27 SECTION 14. Arkansas Code § 24-11-217(c), concerning approval of
+28 additional allocations to the policemen's pension and relief funds and
+29 firemen's relief and pension funds, is amended to read as follows:
+30 (c) The policemen's pension and relief funds and firemen's relief and
+31 pension funds shall qualify for the additional allocation after approval of
+32 the Arkansas Fire and Police Pension Review Board and after meeting the
+33 following criteria:
+34 (1) The policemen's pension and relief fund or the firemen's
+35 relief and pension fund is in compliance with all applicable laws and rules;
+36 (2) The policemen's pension and relief fund or the firemen's
+5 02-05-2025 09:29:35 LJH037
+
+As Engrossed: H2/5/25 HB1118
+1 relief and pension fund shall receive employer contributions other than
+2 premium tax allocations that are at least eighty percent (80%) of the
+3 actuarial cost under § 24-11-214 during the calendar year before an
+4 allocation; and
+5 (3)(A) A firemen's relief and pension fund that provides
+6 benefits to volunteer members shall receive funding without meeting the
+7 employer contribution requirement described in subdivision (c)(2) of this
+8 section if the firemen's relief and pension fund is:
+9 (i) Less than fifty percent (50%) funded as of the
+10 most recent actuarial valuation; and
+11 (ii) Administered by the Arkansas Local Police and
+12 Fire Retirement System.
+13 (B) The funding under this subsection shall be eliminated
+14 to meet the criteria of § 24-11-215(e)(2)(A) notwithstanding the requirement
+15 of § 24-11-215(d).
+16
+17 SECTION 15. EMERGENCY CLAUSE. It is found and determined by the
+18 General Assembly of the State of Arkansas that the management of premium
+19 taxes collected for the benefit of municipal firemen's relief and pension
+20 funds and policemen's pension and relief funds is in need of a change in
+21 administration from the Arkansas Fire and Police Pension Review Board to the
+22 Department of Finance and Administration for purposes of financial security
+23 and efficiency; and that it is necessary for this act to have an effective
+24 date of July 1, 2025, in order to allow for a structured and proper
+25 administration of the procedures referenced in this act. Therefore, an
+26 emergency is declared to exist, and this act being necessary for the
+27 preservation of the public peace, health, and safety shall become effective
+28 on July 1, 2025.
+29
+30 /s/Warren
+31
+32
+33
+34
+35
+36
+6 02-05-2025 09:29:35 LJH037
+
+[DELETED:  A       A P P F   T M A B  B   S f m  ( P S f a   ( ( i S P A]
+[DELETED:  H2 0 t t   S a a  ( P B   S a a   ( f f c  ( p p   ( f   S c P  ( p t t  (   ( J J   S]
+[DELETED:  H3 0 o  ( F A   S a S  ( u t   ( (   (   S f t  ( P s   ( o t p 2   ( a    ( p P    ( f a   S]
+[DELETED:  H4 0 a r    ( p b P p   S t  ( p O a u   S t a   ( t c d   S e f  ( b   ( a s  ( t a i]
+[DELETED:  H5 0 d P   ( a   S o f  ( m   S t f  ( s a t m P e R a u o   S a f  ( p t f   ( r   (]
+[DELETED:  H6 0 r p a a   ( b e s     ( m     ( F    ( t o   S G t f a D a d a e p o  /      ]

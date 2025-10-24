@@ -1,0 +1,338 @@
+Title: Stricken language would be deleted from and underlined language would be added to present law.
+Official Title: Stricken language would be deleted from and underlined language would be added to present law.
+Number of Sections: 1
+Source: versions - HB 1666
+Media Type: application/pdf
+Strikethrough Detection: 4 sections found
+
+================================================================================
+
+Section 1:
+1 State of Arkansas As Engrossed: S4/8/25
+A Bill
+2 95th General Assembly
+3 Regular Session, 2025 HOUSE BILL 1666
+4
+5 By: Representative S. Meeks
+6 By: Senator K. Hammer
+7
+For An Act To Be Entitled
+8
+9 AN ACT TO AMEND THE LAW CONCERNING THE ARKANSAS SELF-
+10 FUNDED CYBER RESPONSE PROGRAM; AND FOR OTHER
+11 PURPOSES.
+12
+13
+Subtitle
+14
+15 TO AMEND THE LAW CONCERNING THE ARKANSAS
+16 SELF-FUNDED CYBER RESPONSE PROGRAM.
+17
+18 BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF ARKANSAS:
+19
+20 SECTION 1. Arkansas Code § 21-2-803 is amended to read as follows:
+21 21-2-803. Definitions.
+22 As used in this subchapter:
+23 (1) “County” means any county of this state;
+24 (2) “Cyber response contact” means a person or entity designated
+25 by the Arkansas Cyber Response Board to be the initial contact for a
+26 participating governmental entity that is the subject of a cyberattack;
+27 (3)(A) “Cyber response panel” means a group of entities, each of
+28 which has been procured through state procurement and approved by the board,
+29 which can be activated by the cyber response contact to assist the
+30 participating governmental entity with forensic analysis, restoration
+31 guidance, and other board-authorized assistance following a cyberattack.
+32 (B) “Cyber response panel” may include an entity that is
+33 owned or managed by the government;
+34 (4) “Higher education entity” means a:
+35 (A) State-supported college, university, technical
+36 college, community college, or other institution of higher education; or
+*LGL101*
+04-08-2025 10:50:55 LGL101
+As Engrossed: S4/8/25 HB1666
+1 (B) Department, division, or agency of a state institution
+2 of higher education;
+3 (5)(4) “Money” means:
+4 (A) Currency, coins, and bank notes in current use and
+5 having a face value; and
+6 (B) Travelers' checks, register checks, and money orders
+7 held for sale to the general public;
+8 (6)(5) “Municipality” means:
+9 (A) A city of the first class;
+10 (B) A city of the second class; or
+11 (C) An incorporated town;
+12 (7)(6) “Participating governmental entity” means a:
+13 (A) County;
+14 (B) Municipality; or
+15 (C) School district;
+16 (8)(7) “Property other than money and securities” means any
+17 tangible property, other than money and securities, that has intrinsic value;
+18 and
+19 (9)(8) “School district” means a school district or open-
+20 enrollment public charter school in this state.
+21
+22 SECTION 2. Arkansas Code § 21-2-804(a), concerning the establishment
+23 of the Arkansas Self-Funded Cyber Response Program, is amended to add an
+24 additional subdivision to read as follows:
+25 (4) The program shall be:
+26 (A) Secondary to any insurance a participating
+27 governmental entity may have; and
+28 (B) Used to reimburse a participating governmental entity
+29 for losses as detailed in this subchapter.
+30
+31 SECTION 3. Arkansas Code § 21-2-804(e), concerning the scope of
+32 coverage of the Arkansas Self-Funded Cyber Response Program, is repealed.
+33 (e) A participating governmental entity is legally liable for damages
+34 as a result of:
+35 (1) The deprivation or violation of a civil right of an
+36 individual by a public official or public employee; or
+2 04-08-2025 10:50:55 LGL101
+As Engrossed: S4/8/25 HB1666
+1 (2) The tortious conduct of a public official or public employee.
+2
+3 SECTION 4. Arkansas Code § 21-2-805(a)(2), concerning the Arkansas
+4 Cyber Response Board, is amended to read as follows:
+5 (2) The member under subdivision (a)(1)(F) (a)(1)(E) of this
+6 section shall be a nonvoting board member.
+7
+8 SECTION 5. Arkansas Code § 21-2-805(b), concerning the Arkansas Cyber
+9 Response Board, is amended to read as follows:
+10 (b) The board shall:
+11 (1)(A) Establish a definition of a cyberattack that will be
+12 covered under the Arkansas Self-Funded Cyber Response Program based on
+13 industry standards.
+14 (B) The definition of a cyberattack established under
+15 subdivision (b)(1)(A) of this section shall be reviewed annually and updated
+16 as necessary by the board;
+17 (2) Establish minimum cybersecurity standards for participating
+18 governmental entities;
+19 (3) Determine a maximum amount of program coverage, not to exceed
+20 fifty thousand dollars ($50,000), for participating governmental entities
+21 that have not met the minimum cybersecurity standards established by the
+22 board under this section;
+23 (4) Create a cyber response panel;
+24 (5)(A)(4)(A) Designate a cyber response contact.
+25 (B) The cyber response contact may select an entity from the
+26 cyber response panel to assist with forensic analysis, restoration guidance,
+27 and other board-authorized assistance to the participating governmental
+28 entity.
+29 (C) The cyber response contact shall provide to the board:
+30 (i) Prompt notice detailing the cyberattack; and
+31 (ii) A detailed report of the action that is being
+32 taken; and
+33 (6)(5) Promulgate rules and procedures regarding utilization of
+34 the program by participating governmental entities to generally align with
+35 the following procedures:
+36 (A) Upon discovery of a cyberattack, a participating
+3 04-08-2025 10:50:55 LGL101
+As Engrossed: S4/8/25 HB1666
+1 governmental entity shall notify the cyber response contact designated by the
+2 board;
+3 (B)(i) The cyber response contact shall make a determination
+4 of program coverage in consultation with the board, if feasible.
+5 (ii) If consultation with the board is not feasible
+6 under subdivision (b)(6)(B)(i) (b)(5)(B)(i) of this section due to the timing
+7 of the cyberattack, then the cyber response contact shall review and evaluate
+8 criteria established by the board to make a determination of program
+9 coverage.;
+10 (C) The cyber response contact shall notify the board once
+11 the cyber response contact has made a determination of program coverage; and
+12 (D) Any other procedures that the board deems necessary to
+13 carry out this subchapter.
+14
+15 /s/S. Meeks
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+4 04-08-2025 10:50:55 LGL101
+[DELETED:  A   EBL1     A F P   T S  B   S  2  A   (   ( b p   ( w w p g    ( o   (    ( c]
+[DELETED:  H2 0    ( o   (    ( h    ( h   (    (    (    (   (    (    (    (   ( t a   ( e   S o a   (    ( g    ( f   S c   a   i]
+[DELETED:  H3 0     S C   s   S R     c i   s a   g   f t b       c a e       t   t t  ]
+[DELETED:  H4 0 g b   o   u o c c   t   c  /                     ]
+
+
+================================================================================
+
+Raw Text:
+Stricken language would be deleted from and underlined language would be added to present law.
+1 State of Arkansas As Engrossed: S4/8/25
+A Bill
+2 95th General Assembly
+3 Regular Session, 2025 HOUSE BILL 1666
+4
+5 By: Representative S. Meeks
+6 By: Senator K. Hammer
+7
+For An Act To Be Entitled
+8
+9 AN ACT TO AMEND THE LAW CONCERNING THE ARKANSAS SELF-
+10 FUNDED CYBER RESPONSE PROGRAM; AND FOR OTHER
+11 PURPOSES.
+12
+13
+Subtitle
+14
+15 TO AMEND THE LAW CONCERNING THE ARKANSAS
+16 SELF-FUNDED CYBER RESPONSE PROGRAM.
+17
+18 BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF ARKANSAS:
+19
+20 SECTION 1. Arkansas Code § 21-2-803 is amended to read as follows:
+21 21-2-803. Definitions.
+22 As used in this subchapter:
+23 (1) “County” means any county of this state;
+24 (2) “Cyber response contact” means a person or entity designated
+25 by the Arkansas Cyber Response Board to be the initial contact for a
+26 participating governmental entity that is the subject of a cyberattack;
+27 (3)(A) “Cyber response panel” means a group of entities, each of
+28 which has been procured through state procurement and approved by the board,
+29 which can be activated by the cyber response contact to assist the
+30 participating governmental entity with forensic analysis, restoration
+31 guidance, and other board-authorized assistance following a cyberattack.
+32 (B) “Cyber response panel” may include an entity that is
+33 owned or managed by the government;
+34 (4) “Higher education entity” means a:
+35 (A) State-supported college, university, technical
+36 college, community college, or other institution of higher education; or
+*LGL101*
+04-08-2025 10:50:55 LGL101
+
+As Engrossed: S4/8/25 HB1666
+1 (B) Department, division, or agency of a state institution
+2 of higher education;
+3 (5)(4) “Money” means:
+4 (A) Currency, coins, and bank notes in current use and
+5 having a face value; and
+6 (B) Travelers' checks, register checks, and money orders
+7 held for sale to the general public;
+8 (6)(5) “Municipality” means:
+9 (A) A city of the first class;
+10 (B) A city of the second class; or
+11 (C) An incorporated town;
+12 (7)(6) “Participating governmental entity” means a:
+13 (A) County;
+14 (B) Municipality; or
+15 (C) School district;
+16 (8)(7) “Property other than money and securities” means any
+17 tangible property, other than money and securities, that has intrinsic value;
+18 and
+19 (9)(8) “School district” means a school district or open-
+20 enrollment public charter school in this state.
+21
+22 SECTION 2. Arkansas Code § 21-2-804(a), concerning the establishment
+23 of the Arkansas Self-Funded Cyber Response Program, is amended to add an
+24 additional subdivision to read as follows:
+25 (4) The program shall be:
+26 (A) Secondary to any insurance a participating
+27 governmental entity may have; and
+28 (B) Used to reimburse a participating governmental entity
+29 for losses as detailed in this subchapter.
+30
+31 SECTION 3. Arkansas Code § 21-2-804(e), concerning the scope of
+32 coverage of the Arkansas Self-Funded Cyber Response Program, is repealed.
+33 (e) A participating governmental entity is legally liable for damages
+34 as a result of:
+35 (1) The deprivation or violation of a civil right of an
+36 individual by a public official or public employee; or
+2 04-08-2025 10:50:55 LGL101
+
+As Engrossed: S4/8/25 HB1666
+1 (2) The tortious conduct of a public official or public employee.
+2
+3 SECTION 4. Arkansas Code § 21-2-805(a)(2), concerning the Arkansas
+4 Cyber Response Board, is amended to read as follows:
+5 (2) The member under subdivision (a)(1)(F) (a)(1)(E) of this
+6 section shall be a nonvoting board member.
+7
+8 SECTION 5. Arkansas Code § 21-2-805(b), concerning the Arkansas Cyber
+9 Response Board, is amended to read as follows:
+10 (b) The board shall:
+11 (1)(A) Establish a definition of a cyberattack that will be
+12 covered under the Arkansas Self-Funded Cyber Response Program based on
+13 industry standards.
+14 (B) The definition of a cyberattack established under
+15 subdivision (b)(1)(A) of this section shall be reviewed annually and updated
+16 as necessary by the board;
+17 (2) Establish minimum cybersecurity standards for participating
+18 governmental entities;
+19 (3) Determine a maximum amount of program coverage, not to exceed
+20 fifty thousand dollars ($50,000), for participating governmental entities
+21 that have not met the minimum cybersecurity standards established by the
+22 board under this section;
+23 (4) Create a cyber response panel;
+24 (5)(A)(4)(A) Designate a cyber response contact.
+25 (B) The cyber response contact may select an entity from the
+26 cyber response panel to assist with forensic analysis, restoration guidance,
+27 and other board-authorized assistance to the participating governmental
+28 entity.
+29 (C) The cyber response contact shall provide to the board:
+30 (i) Prompt notice detailing the cyberattack; and
+31 (ii) A detailed report of the action that is being
+32 taken; and
+33 (6)(5) Promulgate rules and procedures regarding utilization of
+34 the program by participating governmental entities to generally align with
+35 the following procedures:
+36 (A) Upon discovery of a cyberattack, a participating
+3 04-08-2025 10:50:55 LGL101
+
+As Engrossed: S4/8/25 HB1666
+1 governmental entity shall notify the cyber response contact designated by the
+2 board;
+3 (B)(i) The cyber response contact shall make a determination
+4 of program coverage in consultation with the board, if feasible.
+5 (ii) If consultation with the board is not feasible
+6 under subdivision (b)(6)(B)(i) (b)(5)(B)(i) of this section due to the timing
+7 of the cyberattack, then the cyber response contact shall review and evaluate
+8 criteria established by the board to make a determination of program
+9 coverage.;
+10 (C) The cyber response contact shall notify the board once
+11 the cyber response contact has made a determination of program coverage; and
+12 (D) Any other procedures that the board deems necessary to
+13 carry out this subchapter.
+14
+15 /s/S. Meeks
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+4 04-08-2025 10:50:55 LGL101
+
+[DELETED:  A   EBL1     A F P   T S  B   S  2  A   (   ( b p   ( w w p g    ( o   (    ( c]
+[DELETED:  H2 0    ( o   (    ( h    ( h   (    (    (    (   (    (    (    (   ( t a   ( e   S o a   (    ( g    ( f   S c   a   i]
+[DELETED:  H3 0     S C   s   S R     c i   s a   g   f t b       c a e       t   t t  ]
+[DELETED:  H4 0 g b   o   u o c c   t   c  /                     ]

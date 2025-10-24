@@ -1,0 +1,259 @@
+Title: Stricken language would be deleted from and underlined language would be added to present law.
+Official Title: Stricken language would be deleted from and underlined language would be added to present law.
+Number of Sections: 1
+Source: versions - SB 458
+Media Type: application/pdf
+Strikethrough Detection: 3 sections found
+
+================================================================================
+
+Section 1:
+1 State of Arkansas As Engrossed: S4/7/25 H4/9/25
+A Bill
+2 95th General Assembly
+3 Regular Session, 2025 SENATE BILL 458
+4
+5 By: Senator G. Leding
+6 By: Representative Clowney
+7
+For An Act To Be Entitled
+8
+9 AN ACT TO REQUIRE A COURT TO CONSIDER THE IMPACT OF
+10 FACTORS SUCH AS TRAUMA AND INVOLVEMENT WITH THE CHILD
+11 WELFARE SYSTEM ON A PERSON WHO COMMITTED A CRIME AS A
+12 MINOR DURING A TRANSFER OR SENTENCING HEARING; AND
+13 FOR OTHER PURPOSES.
+14
+15
+Subtitle
+16
+17 TO REQUIRE A COURT TO CONSIDER THE
+18 IMPACT OF FACTORS SUCH AS TRAUMA AND
+19 INVOLVEMENT WITH THE CHILD WELFARE
+20 SYSTEM ON A PERSON WHO COMMITTED A CRIME
+21 AS A MINOR DURING A TRANSFER OR
+22 SENTENCING HEARING.
+23
+24 BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF ARKANSAS:
+25
+26 SECTION 1. Arkansas Code § 9-27-318(g), concerning what a court is
+27 required to consider in a hearing on the transfer of a delinquency matter to
+28 a criminal division of circuit court, is amended to read as follows:
+29 (g) In the transfer hearing, the court shall consider all of the
+30 following factors:
+31 (1) The seriousness of the alleged offense and whether the
+32 protection of society requires prosecution in the criminal division of
+33 circuit court;
+34 (2) Whether the alleged offense was committed in an aggressive,
+35 violent, premeditated, or willful manner;
+36 (3) Whether the offense was against a person or property, with
+*LJH184*
+04-09-2025 11:39:30 LJH184
+As Engrossed: S4/7/25 H4/9/25 SB458
+1 greater weight being given to offenses against persons, especially if
+2 personal injury resulted;
+3 (4) The culpability of the juvenile, including the level of
+4 planning and participation in the alleged offense;
+5 (5) The previous history of the juvenile, including whether the
+6 juvenile had been adjudicated a juvenile offender and, if so, whether the
+7 offenses were against persons or property, and any other previous history of
+8 antisocial behavior or patterns of physical violence;
+9 (6) The sophistication or maturity of the juvenile as determined
+10 by consideration of the juvenile's home, environment, emotional attitude,
+11 pattern of living, or desire to be treated as an adult;
+12 (7) Whether there are facilities or programs available to the
+13 judge of the juvenile division of circuit court that are likely to
+14 rehabilitate the juvenile before the expiration of the juvenile's twenty-
+15 first birthday;
+16 (8) Whether the juvenile acted alone or was part of a group in
+17 the commission of the alleged offense;
+18 (9) Written reports, and other materials, and any other
+19 information relating to the juvenile's mental, physical, educational, and
+20 social history, including without limitation exposure to adverse childhood
+21 experiences, childhood trauma, involvement in the child welfare or foster
+22 care systems, status as a victim of human trafficking, sexual abuse, or rape;
+23 and
+24 (10) Any other factors deemed relevant by the judge.
+25
+26 SECTION 2. Arkansas Code § 9-27-503(c)(9), concerning a court's
+27 findings and consideration of written reports and materials relating to a
+28 juvenile's mental, physical, educational, and social history as a factor in
+29 deciding to designate a juvenile as an extended juvenile jurisdiction
+30 offender, is amended to read as follows:
+31 (9) Written reports, and other materials, and any other
+32 information relating to the juvenile's mental, physical, educational, and
+33 social history, including without limitation exposure to adverse childhood
+34 experiences, childhood trauma, involvement in the child welfare or foster
+35 care systems, status as a victim of human trafficking, sexual abuse, or rape;
+36 and
+2 04-09-2025 11:39:30 LJH184
+As Engrossed: S4/7/25 H4/9/25 SB458
+1 SECTION 3. Arkansas Code Title 16, Chapter 90, Subchapter 1, is
+2 amended to add an additional section to read as follows:
+3 16-90-124. Sentencing of juvenile or person convicted for offense
+4 committed as juvenile — Factors.
+5 If a person is convicted for an offense that the person committed when
+6 he or she was less than eighteen (18) years of age, the court shall, in
+7 addition to any other factors that the court is required to consider before
+8 imposing a sentence upon the person, consider the following:
+9 (1) The exposure of the juvenile or person who committed the
+10 offense as a juvenile to adverse childhood experiences or childhood trauma,
+11 involvement in the child welfare or foster care systems, status as a victim
+12 of human trafficking, sexual abuse, or rape, and the impact of trauma on the
+13 juvenile's behavior; and
+14 (2) The differences between a juvenile offender and an adult
+15 offender, including without limitation the diminished culpability of a
+16 juvenile as compared to that of an adult and the typical characteristics of
+17 youth.
+18
+19 /s/G. Leding
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+3 04-09-2025 11:39:30 LJH184
+[DELETED:  A       A F W M F   T I I S A S  B   S r a  ( f   ( p c   ( v   (]
+[DELETED:  S2 0 g p   ( p   ( j o a   ( b p   ( j r f   ( t   ( i s e c a   (   S f j d o ( i s e c a]
+[DELETED:  S3 0  S a  1 c  I h a i   ( o i o j   ( o j y   /                 ]
+
+
+================================================================================
+
+Raw Text:
+Stricken language would be deleted from and underlined language would be added to present law.
+1 State of Arkansas As Engrossed: S4/7/25 H4/9/25
+A Bill
+2 95th General Assembly
+3 Regular Session, 2025 SENATE BILL 458
+4
+5 By: Senator G. Leding
+6 By: Representative Clowney
+7
+For An Act To Be Entitled
+8
+9 AN ACT TO REQUIRE A COURT TO CONSIDER THE IMPACT OF
+10 FACTORS SUCH AS TRAUMA AND INVOLVEMENT WITH THE CHILD
+11 WELFARE SYSTEM ON A PERSON WHO COMMITTED A CRIME AS A
+12 MINOR DURING A TRANSFER OR SENTENCING HEARING; AND
+13 FOR OTHER PURPOSES.
+14
+15
+Subtitle
+16
+17 TO REQUIRE A COURT TO CONSIDER THE
+18 IMPACT OF FACTORS SUCH AS TRAUMA AND
+19 INVOLVEMENT WITH THE CHILD WELFARE
+20 SYSTEM ON A PERSON WHO COMMITTED A CRIME
+21 AS A MINOR DURING A TRANSFER OR
+22 SENTENCING HEARING.
+23
+24 BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF ARKANSAS:
+25
+26 SECTION 1. Arkansas Code § 9-27-318(g), concerning what a court is
+27 required to consider in a hearing on the transfer of a delinquency matter to
+28 a criminal division of circuit court, is amended to read as follows:
+29 (g) In the transfer hearing, the court shall consider all of the
+30 following factors:
+31 (1) The seriousness of the alleged offense and whether the
+32 protection of society requires prosecution in the criminal division of
+33 circuit court;
+34 (2) Whether the alleged offense was committed in an aggressive,
+35 violent, premeditated, or willful manner;
+36 (3) Whether the offense was against a person or property, with
+*LJH184*
+04-09-2025 11:39:30 LJH184
+
+As Engrossed: S4/7/25 H4/9/25 SB458
+1 greater weight being given to offenses against persons, especially if
+2 personal injury resulted;
+3 (4) The culpability of the juvenile, including the level of
+4 planning and participation in the alleged offense;
+5 (5) The previous history of the juvenile, including whether the
+6 juvenile had been adjudicated a juvenile offender and, if so, whether the
+7 offenses were against persons or property, and any other previous history of
+8 antisocial behavior or patterns of physical violence;
+9 (6) The sophistication or maturity of the juvenile as determined
+10 by consideration of the juvenile's home, environment, emotional attitude,
+11 pattern of living, or desire to be treated as an adult;
+12 (7) Whether there are facilities or programs available to the
+13 judge of the juvenile division of circuit court that are likely to
+14 rehabilitate the juvenile before the expiration of the juvenile's twenty-
+15 first birthday;
+16 (8) Whether the juvenile acted alone or was part of a group in
+17 the commission of the alleged offense;
+18 (9) Written reports, and other materials, and any other
+19 information relating to the juvenile's mental, physical, educational, and
+20 social history, including without limitation exposure to adverse childhood
+21 experiences, childhood trauma, involvement in the child welfare or foster
+22 care systems, status as a victim of human trafficking, sexual abuse, or rape;
+23 and
+24 (10) Any other factors deemed relevant by the judge.
+25
+26 SECTION 2. Arkansas Code § 9-27-503(c)(9), concerning a court's
+27 findings and consideration of written reports and materials relating to a
+28 juvenile's mental, physical, educational, and social history as a factor in
+29 deciding to designate a juvenile as an extended juvenile jurisdiction
+30 offender, is amended to read as follows:
+31 (9) Written reports, and other materials, and any other
+32 information relating to the juvenile's mental, physical, educational, and
+33 social history, including without limitation exposure to adverse childhood
+34 experiences, childhood trauma, involvement in the child welfare or foster
+35 care systems, status as a victim of human trafficking, sexual abuse, or rape;
+36 and
+2 04-09-2025 11:39:30 LJH184
+
+As Engrossed: S4/7/25 H4/9/25 SB458
+1 SECTION 3. Arkansas Code Title 16, Chapter 90, Subchapter 1, is
+2 amended to add an additional section to read as follows:
+3 16-90-124. Sentencing of juvenile or person convicted for offense
+4 committed as juvenile — Factors.
+5 If a person is convicted for an offense that the person committed when
+6 he or she was less than eighteen (18) years of age, the court shall, in
+7 addition to any other factors that the court is required to consider before
+8 imposing a sentence upon the person, consider the following:
+9 (1) The exposure of the juvenile or person who committed the
+10 offense as a juvenile to adverse childhood experiences or childhood trauma,
+11 involvement in the child welfare or foster care systems, status as a victim
+12 of human trafficking, sexual abuse, or rape, and the impact of trauma on the
+13 juvenile's behavior; and
+14 (2) The differences between a juvenile offender and an adult
+15 offender, including without limitation the diminished culpability of a
+16 juvenile as compared to that of an adult and the typical characteristics of
+17 youth.
+18
+19 /s/G. Leding
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+3 04-09-2025 11:39:30 LJH184
+
+[DELETED:  A       A F W M F   T I I S A S  B   S r a  ( f   ( p c   ( v   (]
+[DELETED:  S2 0 g p   ( p   ( j o a   ( b p   ( j r f   ( t   ( i s e c a   (   S f j d o ( i s e c a]
+[DELETED:  S3 0  S a  1 c  I h a i   ( o i o j   ( o j y   /                 ]

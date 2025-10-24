@@ -1,0 +1,265 @@
+Title: ______________________________________________________________________
+Official Title: ______________________________________________________________________
+Number of Sections: 2
+Source: versions - Amendment H3
+Media Type: application/pdf
+Strikethrough Detection: 5 sections found
+
+================================================================================
+
+Section 1:
+Hall of the House of Representatives
+95th General Assembly - Regular Session, 2025
+Amendment Form
+Subtitle of House Bill 1300
+TO AMEND THE PRIOR AUTHORIZATION TRANSPARENCY ACT.
+______________________________________________________________________
+Amendment No. 3 to House Bill 1300
+Amend House Bill 1300 as engrossed H3/3/25 (version: 3/3/25 10:11:51 AM):
+Page 2, line 29, delete "and a service" and substitute "that is"
+AND
+Page 3, line 11, delete "include includes" and substitute "include, unless
+otherwise provided under this subchapter or otherwise inapplicable, includes"
+AND
+Page 4, line 10, delete "requirement." and substitute "requirement policy for
+the healthcare service."
+AND
+Page 4, line 13, delete "ten (10)" and substitute "two (2)"
+AND
+Page 5, delete line 33, and substitute the following:
+"(e)(1) If a utilization review entity provides information to a"
+AND
+*.ANS359*
+ANS359 - 03-11-2025 02:54:13 Page 1 of 5
+Page 6, line 2, delete "(1)" and substitute "(A)"
+AND
+Page 6, line 3, delete "(2)" and substitute "(B)"
+AND
+Page 6, line 5, delete "(3)" and substitute "(C)"
+AND
+Page 6, line 7, delete "(4)" and substitute "(D)"
+AND
+Page 6, line 9, delete "(5)" and substitute "(E)"
+AND
+Page 6, delete line 10, and substitute the following:
+"responsibility that is applicable to the specific healthcare service based
+on the billing code or category.
+(2)(A) Subdivision (e)(1) of this section does not apply if a
+utilization review entity provides a document on the utilization review
+entity's website or in a format available to download from the utilization
+review entity's website that includes the following information in an
+aggregated format:
+(i) A list of step therapy requirements;
+(ii) A list of any restrictions on the site of
+service for a specific healthcare service, to the extent that the restriction
+deviates from the requirements under Medicare;
+(iii) A list of any restrictions to the benefit
+category of a specific healthcare service, to the extent that the restriction
+deviates from the requirements under Medicare;
+(iv) A list of any specific healthcare services that
+ANS359 - 03-11-2025 02:54:13 Amendment No. 1 to House Bill 1300 Page 2 of 5
+are completely excluded from coverage based on clinical criteria; and
+(v) A list of any specific healthcare services for
+which the billing code or category requires a post-service review,
+information request, or audit.
+(B) The document under subdivision (e)(2)(A) of this
+
+Section 2:
+section shall include the name of the healthcare service and any billing
+codes associated with the healthcare service.
+(C) A utilization review entity shall provide a contracted
+healthcare provider written notice of any changes to the document under
+subdivision (e)(2)(A) of this section at least sixty (60) days before
+implementation of the change via mail, email, or fax."
+AND
+Page 6, line 31, delete "policy;" and substitute "policy; or"
+AND
+Page 6, line 35, delete "service; or" and substitute "service; or"
+AND
+Page 6, delete line 36, and substitute the following:
+"(5) The authorization was granted more than ninety (90) days before
+the authorized healthcare service is provided."
+AND
+Page 7, delete lines 1 through 4
+AND
+Page 7, delete line 10, and substitute the following:
+"(f)(1) A healthcare insurer shall pay a claim for a healthcare
+service under the medical benefit of a health benefit plan in"
+ANS359 - 03-11-2025 02:54:13 Amendment No. 1 to House Bill 1300 Page 3 of 5
+AND
+Page 7, line 12, delete "(1)" and substitute "(A)"
+AND
+Page 7, line 13, delete "ninety (90)" and substitute "sixty (60)"
+AND
+Page 7, line 14, delete "(2)" and substitute "(B)"
+AND
+Page 7, delete line 15, and substitute the following:
+"initiated before the patient is covered by the health benefit plan.
+(2) Subdivision (f)(1) of this section does not apply to a
+healthcare service provided under the pharmacy benefit of a health benefit
+plan."
+AND
+Page 7, delete line 31, and substitute the following:
+"of treatment.
+(C) If the period indicated under subdivision
+(b)(2)(A)(ii) of this section exceeds one (1) year, a utilization review
+entity may limit the duration of a prior authorization to one (1) year."
+AND
+Page 8, delete line 5, and substitute the following:
+"Within two (2) days after a healthcare provider"
+AND
+Page 8, delete lines 8 through 10, and substitute the following:
+ANS359 - 03-11-2025 02:54:13 Amendment No. 1 to House Bill 1300 Page 4 of 5
+"review entity shall:
+(A) Issue the authorization for the requested healthcare"
+AND
+Page 10, delete line 20, and substitute the following:
+"(1) Upon request, a healthcare insurer or a pharmacy benefits
+manager shall send"
+Page 10, delete line 24, and substitute the following:
+"information to the healthcare insurer or utilization review entity.
+(g) If the commissioner imposes a fine under this subchapter, the
+commissioner shall not impose an additional fine for the same underlying act
+or omission under any other provision of state law."
+The Amendment was read ________________________________________________________________________________
+By: Representative L. Johnson
+ANS/ANS - 03-11-2025 02:54:14 _________________________
+ANS359 Chief Clerk
+ANS359 - 03-11-2025 02:54:13 Amendment No. 1 to House Bill 1300 Page 5 of 5
+[DELETED:  PA  "]
+[DELETED:  P (   (   (   (   (]
+[DELETED:  P   (  (  (""]
+[DELETED:  P (  (]
+[DELETED:  P  ( "( _ C]
+
+
+================================================================================
+
+Raw Text:
+Hall of the House of Representatives
+95th General Assembly - Regular Session, 2025
+Amendment Form
+______________________________________________________________________
+Subtitle of House Bill 1300
+TO AMEND THE PRIOR AUTHORIZATION TRANSPARENCY ACT.
+______________________________________________________________________
+Amendment No. 3 to House Bill 1300
+Amend House Bill 1300 as engrossed H3/3/25 (version: 3/3/25 10:11:51 AM):
+Page 2, line 29, delete "and a service" and substitute "that is"
+AND
+Page 3, line 11, delete "include includes" and substitute "include, unless
+otherwise provided under this subchapter or otherwise inapplicable, includes"
+AND
+Page 4, line 10, delete "requirement." and substitute "requirement policy for
+the healthcare service."
+AND
+Page 4, line 13, delete "ten (10)" and substitute "two (2)"
+AND
+Page 5, delete line 33, and substitute the following:
+"(e)(1) If a utilization review entity provides information to a"
+AND
+*.ANS359*
+ANS359 - 03-11-2025 02:54:13 Page 1 of 5
+
+Page 6, line 2, delete "(1)" and substitute "(A)"
+AND
+Page 6, line 3, delete "(2)" and substitute "(B)"
+AND
+Page 6, line 5, delete "(3)" and substitute "(C)"
+AND
+Page 6, line 7, delete "(4)" and substitute "(D)"
+AND
+Page 6, line 9, delete "(5)" and substitute "(E)"
+AND
+Page 6, delete line 10, and substitute the following:
+"responsibility that is applicable to the specific healthcare service based
+on the billing code or category.
+(2)(A) Subdivision (e)(1) of this section does not apply if a
+utilization review entity provides a document on the utilization review
+entity's website or in a format available to download from the utilization
+review entity's website that includes the following information in an
+aggregated format:
+(i) A list of step therapy requirements;
+(ii) A list of any restrictions on the site of
+service for a specific healthcare service, to the extent that the restriction
+deviates from the requirements under Medicare;
+(iii) A list of any restrictions to the benefit
+category of a specific healthcare service, to the extent that the restriction
+deviates from the requirements under Medicare;
+(iv) A list of any specific healthcare services that
+ANS359 - 03-11-2025 02:54:13 Amendment No. 1 to House Bill 1300 Page 2 of 5
+
+are completely excluded from coverage based on clinical criteria; and
+(v) A list of any specific healthcare services for
+which the billing code or category requires a post-service review,
+information request, or audit.
+(B) The document under subdivision (e)(2)(A) of this
+section shall include the name of the healthcare service and any billing
+codes associated with the healthcare service.
+(C) A utilization review entity shall provide a contracted
+healthcare provider written notice of any changes to the document under
+subdivision (e)(2)(A) of this section at least sixty (60) days before
+implementation of the change via mail, email, or fax."
+AND
+Page 6, line 31, delete "policy;" and substitute "policy; or"
+AND
+Page 6, line 35, delete "service; or" and substitute "service; or"
+AND
+Page 6, delete line 36, and substitute the following:
+"(5) The authorization was granted more than ninety (90) days before
+the authorized healthcare service is provided."
+AND
+Page 7, delete lines 1 through 4
+AND
+Page 7, delete line 10, and substitute the following:
+"(f)(1) A healthcare insurer shall pay a claim for a healthcare
+service under the medical benefit of a health benefit plan in"
+ANS359 - 03-11-2025 02:54:13 Amendment No. 1 to House Bill 1300 Page 3 of 5
+
+AND
+Page 7, line 12, delete "(1)" and substitute "(A)"
+AND
+Page 7, line 13, delete "ninety (90)" and substitute "sixty (60)"
+AND
+Page 7, line 14, delete "(2)" and substitute "(B)"
+AND
+Page 7, delete line 15, and substitute the following:
+"initiated before the patient is covered by the health benefit plan.
+(2) Subdivision (f)(1) of this section does not apply to a
+healthcare service provided under the pharmacy benefit of a health benefit
+plan."
+AND
+Page 7, delete line 31, and substitute the following:
+"of treatment.
+(C) If the period indicated under subdivision
+(b)(2)(A)(ii) of this section exceeds one (1) year, a utilization review
+entity may limit the duration of a prior authorization to one (1) year."
+AND
+Page 8, delete line 5, and substitute the following:
+"Within two (2) days after a healthcare provider"
+AND
+Page 8, delete lines 8 through 10, and substitute the following:
+ANS359 - 03-11-2025 02:54:13 Amendment No. 1 to House Bill 1300 Page 4 of 5
+
+"review entity shall:
+(A) Issue the authorization for the requested healthcare"
+AND
+Page 10, delete line 20, and substitute the following:
+"(1) Upon request, a healthcare insurer or a pharmacy benefits
+manager shall send"
+Page 10, delete line 24, and substitute the following:
+"information to the healthcare insurer or utilization review entity.
+(g) If the commissioner imposes a fine under this subchapter, the
+commissioner shall not impose an additional fine for the same underlying act
+or omission under any other provision of state law."
+The Amendment was read ________________________________________________________________________________
+By: Representative L. Johnson
+ANS/ANS - 03-11-2025 02:54:14 _________________________
+ANS359 Chief Clerk
+ANS359 - 03-11-2025 02:54:13 Amendment No. 1 to House Bill 1300 Page 5 of 5
+
+[DELETED:  PA  "]
+[DELETED:  P (   (   (   (   (]
+[DELETED:  P   (  (  (""]
+[DELETED:  P (  (]
+[DELETED:  P  ( "( _ C]

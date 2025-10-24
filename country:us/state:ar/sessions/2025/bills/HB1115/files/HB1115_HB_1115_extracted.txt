@@ -1,0 +1,812 @@
+Title: Stricken language would be deleted from and underlined language would be added to present law.
+Official Title: Stricken language would be deleted from and underlined language would be added to present law.
+Number of Sections: 1
+Source: versions - HB 1115
+Media Type: application/pdf
+Strikethrough Detection: 10 sections found
+
+================================================================================
+
+Section 1:
+1 State of Arkansas
+A Bill
+2 95th General Assembly
+3 Regular Session, 2025 HOUSE BILL 1115
+4
+5 By: Joint Budget Committee
+6
+7
+For An Act To Be Entitled
+8
+9 AN ACT TO MAKE AN APPROPRIATION FOR PERSONAL SERVICES
+10 AND OPERATING EXPENSES FOR THE DEPARTMENT OF COMMERCE
+11 - ARKANSAS REHABILITATION SERVICES FOR THE FISCAL
+12 YEAR ENDING JUNE 30, 2026; AND FOR OTHER PURPOSES.
+13
+14
+Subtitle
+15
+16 AN ACT FOR THE DEPARTMENT OF COMMERCE -
+17 ARKANSAS REHABILITATION SERVICES
+18 APPROPRIATION FOR THE 2025-2026 FISCAL
+19 YEAR.
+20
+21
+22 BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF ARKANSAS:
+23
+24 SECTION 1. REGULAR SALARIES. There is hereby established for the
+25 Department of Commerce - Arkansas Rehabilitation Services for the 2025-2026
+26 fiscal year, the following maximum number of regular employees.
+27
+28 Maximum Annual
+29 Maximum Salary Rate
+30 Item Class No. of Fiscal Year
+31 No. Code Title Employees 2025-2026
+32 (1) U012U REHABILITATION SERVICES COMMISSIONER 1 GRADE SE01
+33 (2) L013N GENERAL PHYSICIAN 2 GRADE MP06
+34 (3) L021N PHYSICAL THERAPIST 1 GRADE MP03
+35 (4) L003C PSYCHOLOGIST 2 GRADE MP03
+36 (5) L022N OCCUPATIONAL THERAPIST 3 GRADE MP02
+*MAH013*
+01/07/2025 2:07:02 PM MAH013
+HB1115
+1 (6) L032C REGISTERED NURSE - HOSPITAL 2 GRADE MP01
+2 (7) D006N STATE SYSTEMS ARCHITECT 1 GRADE IT10
+3 (8) D022N IT SENIOR PROJECT MANAGER 2 GRADE IT09
+4 (9) D012C DATABASE SPECIALIST 1 GRADE IT08
+5 (10) D028C SENIOR SOFTWARE SUPPORT SPECIALIST 3 GRADE IT07
+6 (11) D038C SENIOR SOFTWARE SUPPORT ANALYST 2 GRADE IT06
+7 (12) D022C SYSTEMS SPECIALIST 1 GRADE IT06
+8 (13) D063C COMPUTER SUPPORT SPECIALIST 1 GRADE IT05
+9 (14) D052C SOFTWARE SUPPORT ANALYST 1 GRADE IT05
+10 (15) D064C WEBSITE DEVELOPER 1 GRADE IT04
+11 (16) N172N ACOM REHAB OPERATIONS DIRECTOR 3 GRADE GS13
+12 (17) G004C MANAGING ATTORNEY 1 GRADE GS13
+13 (18) P078C ACOM ARS DIRECTOR OF COMMUNICATIONS 1 GRADE GS12
+14 (19) A014C FISCAL DIVISION MANAGER 1 GRADE GS12
+15 (20) R006C HUMAN RESOURCES ADMINISTRATOR 1 GRADE GS12
+16 (21) A027C ACCOUNTING OPERATIONS MANAGER 1 GRADE GS11
+17 (22) E005C ACOM REHAB DIR OF VOCATIONAL TRAIN 1 GRADE GS10
+18 (23) G040C ACOM REHAB DIRECTOR - SPECIAL PROGR 4 GRADE GS10
+19 (24) A052C ACCOUNTING COORDINATOR 1 GRADE GS09
+20 (25) G070C ACOM DIRECTOR OF FIELD OPERATIONS 1 GRADE GS09
+21 (26) L037C ACOM REHAB AREA MANAGER 13 GRADE GS09
+22 (27) E011C ACOM VOCATIONAL EDUCATION COORD 4 GRADE GS09
+23 (28) M009C LICENSED CERTIFIED SOCIAL WORKER 3 GRADE GS09
+24 (29) L033C PSYCHOLOGICAL EXAMINER 8 GRADE GS09
+25 (30) X038C QUALITY ASSURANCE MANAGER 3 GRADE GS09
+26 (31) L098C CERTIFIED VOCATIONAL REHAB COUNSELOR 95 GRADE GS08
+27 (32) S004C MAINTENANCE MANAGER 1 GRADE GS08
+28 (33) V007C PROCUREMENT COORDINATOR 1 GRADE GS08
+29 (34) X062C QUALITY ASSURANCE COORDINATOR 4 GRADE GS08
+30 (35) G121C REHAB PROGRAM MANAGER 8 GRADE GS08
+31 (36) A060C SENIOR AUDITOR 1 GRADE GS08
+32 (37) E023C TRAINING PROJECT MANAGER 1 GRADE GS08
+33 (38) G163C ACOM REHAB PROGRAM COORDINATOR 9 GRADE GS07
+34 (39) L057C ACOM REHAB SVS FACILITY SPECIALIST 2 GRADE GS07
+35 (40) M032C ACOM VOCATIONAL REHAB PLACEMENT SPEC 14 GRADE GS07
+36 (41) R024C ASSISTANT PERSONNEL MANAGER 1 GRADE GS07
+2 01/07/2025 2:07:02 PM MAH013
+HB1115
+1 (42) C010C EXECUTIVE ASSISTANT TO THE DIRECTOR 1 GRADE GS07
+2 (43) G147C GRANTS COORDINATOR 2 GRADE GS07
+3 (44) S017C MAINTENANCE COORDINATOR 1 GRADE GS07
+4 (45) A065C PAYROLL SERVICES COORDINATOR 1 GRADE GS07
+5 (46) E040C STAFF DEVELOPMENT COORDINATOR 1 GRADE GS07
+6 (47) C037C ADMINISTRATIVE ANALYST 6 GRADE GS06
+7 (48) G172C CAREER PLANNING & PLAC COORDINATOR 1 GRADE GS06
+8 (49) E043C CERTIFIED VOCATIONAL TEACHER 7 GRADE GS06
+9 (50) G214C GRANTS SPECIALIST 2 GRADE GS06
+10 (51) R025C HUMAN RESOURCES ANALYST 2 GRADE GS06
+11 (52) M050C INTERPRETER 4 GRADE GS06
+12 (53) S033C MAINTENANCE SUPERVISOR 1 GRADE GS06
+13 (54) P031C MEDIA SPECIALIST 1 GRADE GS06
+14 (55) P027C PUBLIC INFORMATION SPECIALIST 1 GRADE GS06
+15 (56) T062C PUBLIC SAFETY DIRECTOR 1 GRADE GS06
+16 (57) B076C RESEARCH PROJECT ANALYST 1 GRADE GS06
+17 (58) S022C SKILLED TRADES SUPERVISOR 1 GRADE GS06
+18 (59) C036C ADMINISTRATIVE REVIEW ANALYST 2 GRADE GS05
+19 (60) C022C BUSINESS OPERATIONS SPECIALIST 1 GRADE GS05
+20 (61) V014C BUYER 2 GRADE GS05
+21 (62) A091C FISCAL SUPPORT ANALYST 5 GRADE GS05
+22 (63) C054C LOCAL OFFICE ADMINISTRATIVE SPEC 4 GRADE GS05
+23 (64) V018C WAREHOUSE MANAGER 1 GRADE GS05
+24 (65) C056C ADMINISTRATIVE SPECIALIST III 15 GRADE GS04
+25 (66) V020C INVENTORY CONTROL MANAGER 1 GRADE GS04
+26 (67) V022C PURCHASING TECHNICIAN 1 GRADE GS04
+27 (68) C043C RECORDS MANAGEMENT ANALYST 2 GRADE GS04
+28 (69) S099C STATIONARY ENGINEER 1 GRADE GS04
+29 (70) V023C STOREROOM SUPERVISOR 1 GRADE GS04
+30 (71) C073C ADMINISTRATIVE SPECIALIST II 64 GRADE GS03
+31 (72) S056C FOOD PREPARATION SUPERVISOR 1 GRADE GS03
+32 (73) M081C RESIDENTIAL CARE SHIFT SUPERVISOR 1 GRADE GS03
+33 (74) C087C ADMINISTRATIVE SPECIALIST I 4 GRADE GS02
+34 (75) S068C FOOD PREPARATION COORDINATOR 1 GRADE GS02
+35 (76) M076C RECREATIONAL ACTIVITY LEADER II 1 GRADE GS02
+36 (77) M083C RESIDENTIAL CARE TECHNICIAN 2 GRADE GS02
+3 01/07/2025 2:07:02 PM MAH013
+HB1115
+1 (78) S087C INSTITUTIONAL SERVICES ASSISTANT 1 GRADE GS01
+2 MAX. NO. OF EMPLOYEES 352
+3
+4 SECTION 2. EXTRA HELP. There is hereby authorized, for the Department
+5 of Commerce - Arkansas Rehabilitation Services for the 2025-2026 fiscal year,
+6 the following maximum number of part-time or temporary employees, to be known
+7 as "Extra Help", payable from funds appropriated herein for such purposes:
+8 nineteen (19) temporary or part-time employees, when needed, at rates of pay
+9 not to exceed those provided in the Uniform Classification and Compensation
+10 Act, or its successor, or this act for the appropriate classification.
+11
+12 SECTION 3. APPROPRIATION - OPERATIONS. There is hereby appropriated,
+13 to the Department of Commerce, to be payable from the paying account as
+14 determined by the Chief Fiscal Officer of the State, for personal services,
+15 operating expenses, and grants and aid by the Department of Commerce -
+16 Arkansas Rehabilitation Services - Operations for the fiscal year ending June
+17 30, 2026, the following:
+18
+19 ITEM FISCAL YEAR
+20 NO. 2025-2026
+21 (01) REGULAR SALARIES $16,426,131
+22 (02) EXTRA HELP 252,000
+23 (03) PERSONAL SERVICES MATCHING 6,374,281
+24 (04) MAINT. & GEN. OPERATION
+25 (A) OPER. EXPENSE 7,401,096
+26 (B) CONF. & TRAVEL 175,000
+27 (C) PROF. FEES 844,903
+28 (D) CAP. OUTLAY 0
+29 (E) DATA PROC. 0
+30 (05) CONTRACT SERVICES 30,000,000
+31 TOTAL AMOUNT APPROPRIATED $61,473,411
+32
+33 SECTION 4. APPROPRIATION - INCREASING CAPABILITIES ACCESS NETWORK -
+34 FEDERAL. There is hereby appropriated, to the Department of Commerce, to be
+35 payable from the paying account as determined by the Chief Fiscal Officer of
+36 the State, for personal services and operating expenses of the Department of
+4 01/07/2025 2:07:02 PM MAH013
+HB1115
+1 Commerce - Arkansas Rehabilitation Services - Increasing Capabilities Access
+2 Network - Federal for the fiscal year ending June 30, 2026, the following:
+3
+4 ITEM FISCAL YEAR
+5 NO. 2025-2026
+6 (01) REGULAR SALARIES $200,707
+7 (02) PERSONAL SERVICES MATCHING 77,783
+8 (03) MAINT. & GEN. OPERATION
+9 (A) OPER. EXPENSE 400,000
+10 (B) CONF. & TRAVEL 20,402
+11 (C) PROF. FEES 20,000
+12 (D) CAP. OUTLAY 100,000
+13 (E) DATA PROC. 0
+14 TOTAL AMOUNT APPROPRIATED $818,892
+15
+16 SECTION 5. APPROPRIATION - STATEWIDE DISABILITY TELECOMMUNICATIONS
+17 EQUIPMENT PROGRAM. There is hereby appropriated, to the Department of
+18 Commerce, to be payable from the Telecommunications Equipment Fund, for
+19 personal services and operating expenses of the Department of Commerce -
+20 Arkansas Rehabilitation Services - Statewide Disability Telecommunications
+21 Equipment Program for the fiscal year ending June 30, 2026, the following:
+22
+23 ITEM FISCAL YEAR
+24 NO. 2025-2026
+25 (01) REGULAR SALARIES $173,203
+26 (02) PERSONAL SERVICES MATCHING 71,465
+27 (03) MAINT. & GEN. OPERATION
+28 (A) OPER. EXPENSE 80,000
+29 (B) CONF. & TRAVEL 7,000
+30 (C) PROF. FEES 5,000
+31 (D) CAP. OUTLAY 0
+32 (E) DATA PROC. 0
+33 (04) ASSISTIVE EQUIPMENT PURCHASE GRANTS 310,000
+34 TOTAL AMOUNT APPROPRIATED $646,668
+35
+36 SECTION 6. APPROPRIATION - PEOPLE WITH DISABILITIES PROGRAM - SPECIAL.
+5 01/07/2025 2:07:02 PM MAH013
+HB1115
+1 There is hereby appropriated, to the Department of Commerce, to be payable
+2 from the Governor's Commission on People with Disabilities Fund, for
+3 operating expenses of the Department of Commerce - Arkansas Rehabilitation
+4 Services - People with Disabilities Program - Special for the fiscal year
+5 ending June 30, 2026, the following:
+6
+7 ITEM FISCAL YEAR
+8 NO. 2025-2026
+9 (01) MAINT. & GEN. OPERATION
+10 (A) OPER. EXPENSE $30,000
+11 (B) CONF. & TRAVEL 0
+12 (C) PROF. FEES 0
+13 (D) CAP. OUTLAY 0
+14 (E) DATA PROC. 0
+15 TOTAL AMOUNT APPROPRIATED $30,000
+16
+17 SECTION 7. APPROPRIATION - TECHNOLOGY EQUIPMENT REVOLVING LOAN PROGRAM.
+18 There is hereby appropriated, to the Department of Commerce, to be payable
+19 from the cash fund deposited in the State Treasury as determined by the Chief
+20 Fiscal Officer of the State, for providing loans to individuals with
+21 disabilities for essential assistive technology, adaptive equipment, and for
+22 loan administration/servicing by the Department of Commerce - Arkansas
+23 Rehabilitation Services - Technology Equipment Revolving Loan Program for the
+24 fiscal year ending June 30, 2026, the following:
+25
+26 ITEM FISCAL YEAR
+27 NO. 2025-2026
+28 (01) LOANS $750,000
+29
+30 SECTION 8. APPROPRIATION - CASH OPERATIONS. There is hereby
+31 appropriated, to the Department of Commerce, to be payable from the cash fund
+32 deposited in the State Treasury as determined by the Chief Fiscal Officer of
+33 the State, for operating expenses of the Department of Commerce - Arkansas
+34 Rehabilitation Services - Cash Operations for the fiscal year ending June 30,
+35 2026, the following:
+36
+6 01/07/2025 2:07:02 PM MAH013
+HB1115
+1 ITEM FISCAL YEAR
+2 NO. 2025-2026
+3 (01) MAINT. & GEN. OPERATION
+4 (A) OPER. EXPENSE $356,542
+5 (B) CONF. & TRAVEL 0
+6 (C) PROF. FEES 0
+7 (D) CAP. OUTLAY 0
+8 (E) DATA PROC. 0
+9 TOTAL AMOUNT APPROPRIATED $356,542
+10
+11 SECTION 9. REGULAR SALARIES - DIVISION OF STATE SERVICES FOR THE BLIND
+12 - OPERATIONS. There is hereby established for the Department of Commerce -
+13 Arkansas Rehabilitation Services - Division of State Services for the Blind
+14 for the 2025-2026 fiscal year, the following maximum number of regular
+15 employees.
+16
+17 Maximum Annual
+18 Maximum Salary Rate
+19 Item Class No. of Fiscal Year
+20 No. Code Title Employees 2025-2026
+21 (1) N125N ACOM DSB DEP DIR SVCS FOR THE BLIND 1 GRADE GS15
+22 (2) G021C ACOM DSB ASSISTANT DIRECTOR 1 GRADE GS11
+23 (3) G303C ACOM DSB PROGRAM ADMINISTRATOR 2 GRADE GS09
+24 (4) L037C ACOM REHAB AREA MANAGER 3 GRADE GS09
+25 (5) X038C QUALITY ASSURANCE MANAGER 1 GRADE GS09
+26 (6) L098C CERTIFIED VOCATIONAL REHAB COUNSELOR 23 GRADE GS08
+27 (7) E026C EDUCATION & INSTRUCTION COORDINATOR 1 GRADE GS08
+28 (8) X062C QUALITY ASSURANCE COORDINATOR 1 GRADE GS08
+29 (9) G121C REHAB PROGRAM MANAGER 4 GRADE GS08
+30 (10) E023C TRAINING PROJECT MANAGER 1 GRADE GS08
+31 (11) G163C ACOM REHAB PROGRAM COORDINATOR 2 GRADE GS07
+32 (12) M032C ACOM VOCATIONAL REHAB PLACEMENT SPEC 1 GRADE GS07
+33 (13) E040C STAFF DEVELOPMENT COORDINATOR 1 GRADE GS07
+34 (14) C037C ADMINISTRATIVE ANALYST 6 GRADE GS06
+35 (15) A074C FISCAL SUPPORT SUPERVISOR 1 GRADE GS06
+36 (16) L051C REHABILITATION COUNSELOR 2 GRADE GS06
+7 01/07/2025 2:07:02 PM MAH013
+HB1115
+1 (17) A091C FISCAL SUPPORT ANALYST 3 GRADE GS05
+2 (18) C056C ADMINISTRATIVE SPECIALIST III 8 GRADE GS04
+3 (19) A098C FISCAL SUPPORT SPECIALIST 2 GRADE GS04
+4 (20) C043C RECORDS MANAGEMENT ANALYST 1 GRADE GS04
+5 (21) C073C ADMINISTRATIVE SPECIALIST II 11 GRADE GS03
+6 MAX. NO. OF EMPLOYEES 76
+7
+8 SECTION 10. EXTRA HELP - DIVISION OF STATE SERVICES FOR THE BLIND -
+9 OPERATION. There is hereby authorized, for the Department of Commerce -
+10 Arkansas Rehabilitation Services - Division of State Services for the Blind
+11 for the 2025-2026 fiscal year, the following maximum number of part-time or
+12 temporary employees, to be known as "Extra Help", payable from funds
+13 appropriated herein for such purposes: thirty (30) temporary or part-time
+14 employees, when needed, at rates of pay not to exceed those provided in the
+15 Uniform Classification and Compensation Act, or its successor, or this act
+16 for the appropriate classification.
+17
+18 SECTION 11. APPROPRIATION - STATE SERVICES FOR THE BLIND - OPERATIONS.
+19 There is hereby appropriated, to the Department of Commerce, to be payable
+20 from the paying account as determined by the Chief Fiscal Officer of the
+21 State, for personal services and operating expenses of the Department of
+22 Commerce - Arkansas Rehabilitation Services - Division of State Services for
+23 the Blind for the fiscal year ending June 30, 2026, the following:
+24
+25 ITEM FISCAL YEAR
+26 NO. 2025-2026
+27 (01) REGULAR SALARIES $3,496,655
+28 (02) EXTRA HELP 384,174
+29 (03) PERSONAL SERVICES MATCHING 1,418,651
+30 (04) MAINT. & GEN. OPERATION
+31 (A) OPER. EXPENSE 1,222,186
+32 (B) CONF. & TRAVEL 155,000
+33 (C) PROF. FEES 195,259
+34 (D) CAP. OUTLAY 100,000
+35 (E) DATA PROC. 0
+36 TOTAL AMOUNT APPROPRIATED $6,971,925
+8 01/07/2025 2:07:02 PM MAH013
+HB1115
+1
+2 SECTION 12. APPROPRIATION - BLIND SERVICES GRANTS. There is hereby
+3 appropriated, to the Department of Commerce, to be payable from the paying
+4 account as determined by the Chief Fiscal Officer of the State, for grants
+5 and aid and purchase of services of the Department of Commerce - Arkansas
+6 Rehabilitation Services - Blind Services Grants for the fiscal year ending
+7 June 30, 2026, the following:
+8
+9 ITEM FISCAL YEAR
+10 NO. 2025-2026
+11 (01) GRANTS AND AID/PURCHASE OF SERVICES $6,000,000
+12
+13 SECTION 13. COMPLIANCE WITH OTHER LAWS. Disbursement of funds
+14 authorized by this act shall be limited to the appropriation for such agency
+15 and funds made available by law for the support of such appropriations; and
+16 the restrictions of the State Procurement Law, the General Accounting and
+17 Budgetary Procedures Law, the Revenue Stabilization Law, the Regular Salary
+18 Procedures and Restrictions Act, or their successors, and other fiscal
+19 control laws of this State, where applicable, and regulations promulgated by
+20 the Department of Finance and Administration, as authorized by law, shall be
+21 strictly complied with in disbursement of said funds.
+22
+23 SECTION 14. LEGISLATIVE INTENT. It is the intent of the General
+24 Assembly that any funds disbursed under the authority of the appropriations
+25 contained in this act shall be in compliance with the stated reasons for
+26 which this act was adopted, as evidenced by the Agency Requests, Executive
+27 Recommendations and Legislative Recommendations contained in the budget
+28 manuals prepared by the Department of Finance and Administration, letters, or
+29 summarized oral testimony in the official minutes of the Arkansas Legislative
+30 Council or Joint Budget Committee which relate to its passage and adoption.
+31
+32 SECTION 15. EMERGENCY CLAUSE. It is found and determined by the
+33 General Assembly, that the Constitution of the State of Arkansas prohibits
+34 the appropriation of funds for more than a one (1) year period; that the
+35 effectiveness of this Act on July 1, 2025 is essential to the operation of
+36 the agency for which the appropriations in this Act are provided, and that in
+9 01/07/2025 2:07:02 PM MAH013
+HB1115
+1 the event of an extension of the legislative session, the delay in the
+2 effective date of this Act beyond July 1, 2025 could work irreparable harm
+3 upon the proper administration and provision of essential governmental
+4 programs. Therefore, an emergency is hereby declared to exist and this Act
+5 being necessary for the immediate preservation of the public peace, health
+6 and safety shall be in full force and effect from and after July 1, 2025.
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+10 01/07/2025 2:07:02 PM MAH013
+[DELETED:       A A - Y  A A A Y    B   S D f                   ]
+[DELETED: H2 0                                                                        ]
+[DELETED: H3 0                                                                        ]
+[DELETED: H4 0       S o t a n n A   S t d o A 3  I   ( ( ( (           (     S F p t]
+[DELETED: H5 0 C N  I   ( ( (               S E C p A E  I   ( ( (           (     S]
+[DELETED: H6 0 T f o S e  I   (               S T f F d l R f  I   (   S a d t R 2 ]
+[DELETED: H7 0 I   (               S - A f e                                         ]
+[DELETED: H8 0               S O A f t a e U f   S T f S C t  I   ( ( ( (            ]
+[DELETED: H9 0   S a a a R J  I   (   S a a t B P c t s   S A c w R m s C   S G t e t]
+[DELETED: H1 0 t e u p b a                              ]
+
+
+================================================================================
+
+Raw Text:
+Stricken language would be deleted from and underlined language would be added to present law.
+1 State of Arkansas
+A Bill
+2 95th General Assembly
+3 Regular Session, 2025 HOUSE BILL 1115
+4
+5 By: Joint Budget Committee
+6
+7
+For An Act To Be Entitled
+8
+9 AN ACT TO MAKE AN APPROPRIATION FOR PERSONAL SERVICES
+10 AND OPERATING EXPENSES FOR THE DEPARTMENT OF COMMERCE
+11 - ARKANSAS REHABILITATION SERVICES FOR THE FISCAL
+12 YEAR ENDING JUNE 30, 2026; AND FOR OTHER PURPOSES.
+13
+14
+Subtitle
+15
+16 AN ACT FOR THE DEPARTMENT OF COMMERCE -
+17 ARKANSAS REHABILITATION SERVICES
+18 APPROPRIATION FOR THE 2025-2026 FISCAL
+19 YEAR.
+20
+21
+22 BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF ARKANSAS:
+23
+24 SECTION 1. REGULAR SALARIES. There is hereby established for the
+25 Department of Commerce - Arkansas Rehabilitation Services for the 2025-2026
+26 fiscal year, the following maximum number of regular employees.
+27
+28 Maximum Annual
+29 Maximum Salary Rate
+30 Item Class No. of Fiscal Year
+31 No. Code Title Employees 2025-2026
+32 (1) U012U REHABILITATION SERVICES COMMISSIONER 1 GRADE SE01
+33 (2) L013N GENERAL PHYSICIAN 2 GRADE MP06
+34 (3) L021N PHYSICAL THERAPIST 1 GRADE MP03
+35 (4) L003C PSYCHOLOGIST 2 GRADE MP03
+36 (5) L022N OCCUPATIONAL THERAPIST 3 GRADE MP02
+*MAH013*
+01/07/2025 2:07:02 PM MAH013
+
+HB1115
+1 (6) L032C REGISTERED NURSE - HOSPITAL 2 GRADE MP01
+2 (7) D006N STATE SYSTEMS ARCHITECT 1 GRADE IT10
+3 (8) D022N IT SENIOR PROJECT MANAGER 2 GRADE IT09
+4 (9) D012C DATABASE SPECIALIST 1 GRADE IT08
+5 (10) D028C SENIOR SOFTWARE SUPPORT SPECIALIST 3 GRADE IT07
+6 (11) D038C SENIOR SOFTWARE SUPPORT ANALYST 2 GRADE IT06
+7 (12) D022C SYSTEMS SPECIALIST 1 GRADE IT06
+8 (13) D063C COMPUTER SUPPORT SPECIALIST 1 GRADE IT05
+9 (14) D052C SOFTWARE SUPPORT ANALYST 1 GRADE IT05
+10 (15) D064C WEBSITE DEVELOPER 1 GRADE IT04
+11 (16) N172N ACOM REHAB OPERATIONS DIRECTOR 3 GRADE GS13
+12 (17) G004C MANAGING ATTORNEY 1 GRADE GS13
+13 (18) P078C ACOM ARS DIRECTOR OF COMMUNICATIONS 1 GRADE GS12
+14 (19) A014C FISCAL DIVISION MANAGER 1 GRADE GS12
+15 (20) R006C HUMAN RESOURCES ADMINISTRATOR 1 GRADE GS12
+16 (21) A027C ACCOUNTING OPERATIONS MANAGER 1 GRADE GS11
+17 (22) E005C ACOM REHAB DIR OF VOCATIONAL TRAIN 1 GRADE GS10
+18 (23) G040C ACOM REHAB DIRECTOR - SPECIAL PROGR 4 GRADE GS10
+19 (24) A052C ACCOUNTING COORDINATOR 1 GRADE GS09
+20 (25) G070C ACOM DIRECTOR OF FIELD OPERATIONS 1 GRADE GS09
+21 (26) L037C ACOM REHAB AREA MANAGER 13 GRADE GS09
+22 (27) E011C ACOM VOCATIONAL EDUCATION COORD 4 GRADE GS09
+23 (28) M009C LICENSED CERTIFIED SOCIAL WORKER 3 GRADE GS09
+24 (29) L033C PSYCHOLOGICAL EXAMINER 8 GRADE GS09
+25 (30) X038C QUALITY ASSURANCE MANAGER 3 GRADE GS09
+26 (31) L098C CERTIFIED VOCATIONAL REHAB COUNSELOR 95 GRADE GS08
+27 (32) S004C MAINTENANCE MANAGER 1 GRADE GS08
+28 (33) V007C PROCUREMENT COORDINATOR 1 GRADE GS08
+29 (34) X062C QUALITY ASSURANCE COORDINATOR 4 GRADE GS08
+30 (35) G121C REHAB PROGRAM MANAGER 8 GRADE GS08
+31 (36) A060C SENIOR AUDITOR 1 GRADE GS08
+32 (37) E023C TRAINING PROJECT MANAGER 1 GRADE GS08
+33 (38) G163C ACOM REHAB PROGRAM COORDINATOR 9 GRADE GS07
+34 (39) L057C ACOM REHAB SVS FACILITY SPECIALIST 2 GRADE GS07
+35 (40) M032C ACOM VOCATIONAL REHAB PLACEMENT SPEC 14 GRADE GS07
+36 (41) R024C ASSISTANT PERSONNEL MANAGER 1 GRADE GS07
+2 01/07/2025 2:07:02 PM MAH013
+
+HB1115
+1 (42) C010C EXECUTIVE ASSISTANT TO THE DIRECTOR 1 GRADE GS07
+2 (43) G147C GRANTS COORDINATOR 2 GRADE GS07
+3 (44) S017C MAINTENANCE COORDINATOR 1 GRADE GS07
+4 (45) A065C PAYROLL SERVICES COORDINATOR 1 GRADE GS07
+5 (46) E040C STAFF DEVELOPMENT COORDINATOR 1 GRADE GS07
+6 (47) C037C ADMINISTRATIVE ANALYST 6 GRADE GS06
+7 (48) G172C CAREER PLANNING & PLAC COORDINATOR 1 GRADE GS06
+8 (49) E043C CERTIFIED VOCATIONAL TEACHER 7 GRADE GS06
+9 (50) G214C GRANTS SPECIALIST 2 GRADE GS06
+10 (51) R025C HUMAN RESOURCES ANALYST 2 GRADE GS06
+11 (52) M050C INTERPRETER 4 GRADE GS06
+12 (53) S033C MAINTENANCE SUPERVISOR 1 GRADE GS06
+13 (54) P031C MEDIA SPECIALIST 1 GRADE GS06
+14 (55) P027C PUBLIC INFORMATION SPECIALIST 1 GRADE GS06
+15 (56) T062C PUBLIC SAFETY DIRECTOR 1 GRADE GS06
+16 (57) B076C RESEARCH PROJECT ANALYST 1 GRADE GS06
+17 (58) S022C SKILLED TRADES SUPERVISOR 1 GRADE GS06
+18 (59) C036C ADMINISTRATIVE REVIEW ANALYST 2 GRADE GS05
+19 (60) C022C BUSINESS OPERATIONS SPECIALIST 1 GRADE GS05
+20 (61) V014C BUYER 2 GRADE GS05
+21 (62) A091C FISCAL SUPPORT ANALYST 5 GRADE GS05
+22 (63) C054C LOCAL OFFICE ADMINISTRATIVE SPEC 4 GRADE GS05
+23 (64) V018C WAREHOUSE MANAGER 1 GRADE GS05
+24 (65) C056C ADMINISTRATIVE SPECIALIST III 15 GRADE GS04
+25 (66) V020C INVENTORY CONTROL MANAGER 1 GRADE GS04
+26 (67) V022C PURCHASING TECHNICIAN 1 GRADE GS04
+27 (68) C043C RECORDS MANAGEMENT ANALYST 2 GRADE GS04
+28 (69) S099C STATIONARY ENGINEER 1 GRADE GS04
+29 (70) V023C STOREROOM SUPERVISOR 1 GRADE GS04
+30 (71) C073C ADMINISTRATIVE SPECIALIST II 64 GRADE GS03
+31 (72) S056C FOOD PREPARATION SUPERVISOR 1 GRADE GS03
+32 (73) M081C RESIDENTIAL CARE SHIFT SUPERVISOR 1 GRADE GS03
+33 (74) C087C ADMINISTRATIVE SPECIALIST I 4 GRADE GS02
+34 (75) S068C FOOD PREPARATION COORDINATOR 1 GRADE GS02
+35 (76) M076C RECREATIONAL ACTIVITY LEADER II 1 GRADE GS02
+36 (77) M083C RESIDENTIAL CARE TECHNICIAN 2 GRADE GS02
+3 01/07/2025 2:07:02 PM MAH013
+
+HB1115
+1 (78) S087C INSTITUTIONAL SERVICES ASSISTANT 1 GRADE GS01
+2 MAX. NO. OF EMPLOYEES 352
+3
+4 SECTION 2. EXTRA HELP. There is hereby authorized, for the Department
+5 of Commerce - Arkansas Rehabilitation Services for the 2025-2026 fiscal year,
+6 the following maximum number of part-time or temporary employees, to be known
+7 as "Extra Help", payable from funds appropriated herein for such purposes:
+8 nineteen (19) temporary or part-time employees, when needed, at rates of pay
+9 not to exceed those provided in the Uniform Classification and Compensation
+10 Act, or its successor, or this act for the appropriate classification.
+11
+12 SECTION 3. APPROPRIATION - OPERATIONS. There is hereby appropriated,
+13 to the Department of Commerce, to be payable from the paying account as
+14 determined by the Chief Fiscal Officer of the State, for personal services,
+15 operating expenses, and grants and aid by the Department of Commerce -
+16 Arkansas Rehabilitation Services - Operations for the fiscal year ending June
+17 30, 2026, the following:
+18
+19 ITEM FISCAL YEAR
+20 NO. 2025-2026
+21 (01) REGULAR SALARIES $16,426,131
+22 (02) EXTRA HELP 252,000
+23 (03) PERSONAL SERVICES MATCHING 6,374,281
+24 (04) MAINT. & GEN. OPERATION
+25 (A) OPER. EXPENSE 7,401,096
+26 (B) CONF. & TRAVEL 175,000
+27 (C) PROF. FEES 844,903
+28 (D) CAP. OUTLAY 0
+29 (E) DATA PROC. 0
+30 (05) CONTRACT SERVICES 30,000,000
+31 TOTAL AMOUNT APPROPRIATED $61,473,411
+32
+33 SECTION 4. APPROPRIATION - INCREASING CAPABILITIES ACCESS NETWORK -
+34 FEDERAL. There is hereby appropriated, to the Department of Commerce, to be
+35 payable from the paying account as determined by the Chief Fiscal Officer of
+36 the State, for personal services and operating expenses of the Department of
+4 01/07/2025 2:07:02 PM MAH013
+
+HB1115
+1 Commerce - Arkansas Rehabilitation Services - Increasing Capabilities Access
+2 Network - Federal for the fiscal year ending June 30, 2026, the following:
+3
+4 ITEM FISCAL YEAR
+5 NO. 2025-2026
+6 (01) REGULAR SALARIES $200,707
+7 (02) PERSONAL SERVICES MATCHING 77,783
+8 (03) MAINT. & GEN. OPERATION
+9 (A) OPER. EXPENSE 400,000
+10 (B) CONF. & TRAVEL 20,402
+11 (C) PROF. FEES 20,000
+12 (D) CAP. OUTLAY 100,000
+13 (E) DATA PROC. 0
+14 TOTAL AMOUNT APPROPRIATED $818,892
+15
+16 SECTION 5. APPROPRIATION - STATEWIDE DISABILITY TELECOMMUNICATIONS
+17 EQUIPMENT PROGRAM. There is hereby appropriated, to the Department of
+18 Commerce, to be payable from the Telecommunications Equipment Fund, for
+19 personal services and operating expenses of the Department of Commerce -
+20 Arkansas Rehabilitation Services - Statewide Disability Telecommunications
+21 Equipment Program for the fiscal year ending June 30, 2026, the following:
+22
+23 ITEM FISCAL YEAR
+24 NO. 2025-2026
+25 (01) REGULAR SALARIES $173,203
+26 (02) PERSONAL SERVICES MATCHING 71,465
+27 (03) MAINT. & GEN. OPERATION
+28 (A) OPER. EXPENSE 80,000
+29 (B) CONF. & TRAVEL 7,000
+30 (C) PROF. FEES 5,000
+31 (D) CAP. OUTLAY 0
+32 (E) DATA PROC. 0
+33 (04) ASSISTIVE EQUIPMENT PURCHASE GRANTS 310,000
+34 TOTAL AMOUNT APPROPRIATED $646,668
+35
+36 SECTION 6. APPROPRIATION - PEOPLE WITH DISABILITIES PROGRAM - SPECIAL.
+5 01/07/2025 2:07:02 PM MAH013
+
+HB1115
+1 There is hereby appropriated, to the Department of Commerce, to be payable
+2 from the Governor's Commission on People with Disabilities Fund, for
+3 operating expenses of the Department of Commerce - Arkansas Rehabilitation
+4 Services - People with Disabilities Program - Special for the fiscal year
+5 ending June 30, 2026, the following:
+6
+7 ITEM FISCAL YEAR
+8 NO. 2025-2026
+9 (01) MAINT. & GEN. OPERATION
+10 (A) OPER. EXPENSE $30,000
+11 (B) CONF. & TRAVEL 0
+12 (C) PROF. FEES 0
+13 (D) CAP. OUTLAY 0
+14 (E) DATA PROC. 0
+15 TOTAL AMOUNT APPROPRIATED $30,000
+16
+17 SECTION 7. APPROPRIATION - TECHNOLOGY EQUIPMENT REVOLVING LOAN PROGRAM.
+18 There is hereby appropriated, to the Department of Commerce, to be payable
+19 from the cash fund deposited in the State Treasury as determined by the Chief
+20 Fiscal Officer of the State, for providing loans to individuals with
+21 disabilities for essential assistive technology, adaptive equipment, and for
+22 loan administration/servicing by the Department of Commerce - Arkansas
+23 Rehabilitation Services - Technology Equipment Revolving Loan Program for the
+24 fiscal year ending June 30, 2026, the following:
+25
+26 ITEM FISCAL YEAR
+27 NO. 2025-2026
+28 (01) LOANS $750,000
+29
+30 SECTION 8. APPROPRIATION - CASH OPERATIONS. There is hereby
+31 appropriated, to the Department of Commerce, to be payable from the cash fund
+32 deposited in the State Treasury as determined by the Chief Fiscal Officer of
+33 the State, for operating expenses of the Department of Commerce - Arkansas
+34 Rehabilitation Services - Cash Operations for the fiscal year ending June 30,
+35 2026, the following:
+36
+6 01/07/2025 2:07:02 PM MAH013
+
+HB1115
+1 ITEM FISCAL YEAR
+2 NO. 2025-2026
+3 (01) MAINT. & GEN. OPERATION
+4 (A) OPER. EXPENSE $356,542
+5 (B) CONF. & TRAVEL 0
+6 (C) PROF. FEES 0
+7 (D) CAP. OUTLAY 0
+8 (E) DATA PROC. 0
+9 TOTAL AMOUNT APPROPRIATED $356,542
+10
+11 SECTION 9. REGULAR SALARIES - DIVISION OF STATE SERVICES FOR THE BLIND
+12 - OPERATIONS. There is hereby established for the Department of Commerce -
+13 Arkansas Rehabilitation Services - Division of State Services for the Blind
+14 for the 2025-2026 fiscal year, the following maximum number of regular
+15 employees.
+16
+17 Maximum Annual
+18 Maximum Salary Rate
+19 Item Class No. of Fiscal Year
+20 No. Code Title Employees 2025-2026
+21 (1) N125N ACOM DSB DEP DIR SVCS FOR THE BLIND 1 GRADE GS15
+22 (2) G021C ACOM DSB ASSISTANT DIRECTOR 1 GRADE GS11
+23 (3) G303C ACOM DSB PROGRAM ADMINISTRATOR 2 GRADE GS09
+24 (4) L037C ACOM REHAB AREA MANAGER 3 GRADE GS09
+25 (5) X038C QUALITY ASSURANCE MANAGER 1 GRADE GS09
+26 (6) L098C CERTIFIED VOCATIONAL REHAB COUNSELOR 23 GRADE GS08
+27 (7) E026C EDUCATION & INSTRUCTION COORDINATOR 1 GRADE GS08
+28 (8) X062C QUALITY ASSURANCE COORDINATOR 1 GRADE GS08
+29 (9) G121C REHAB PROGRAM MANAGER 4 GRADE GS08
+30 (10) E023C TRAINING PROJECT MANAGER 1 GRADE GS08
+31 (11) G163C ACOM REHAB PROGRAM COORDINATOR 2 GRADE GS07
+32 (12) M032C ACOM VOCATIONAL REHAB PLACEMENT SPEC 1 GRADE GS07
+33 (13) E040C STAFF DEVELOPMENT COORDINATOR 1 GRADE GS07
+34 (14) C037C ADMINISTRATIVE ANALYST 6 GRADE GS06
+35 (15) A074C FISCAL SUPPORT SUPERVISOR 1 GRADE GS06
+36 (16) L051C REHABILITATION COUNSELOR 2 GRADE GS06
+7 01/07/2025 2:07:02 PM MAH013
+
+HB1115
+1 (17) A091C FISCAL SUPPORT ANALYST 3 GRADE GS05
+2 (18) C056C ADMINISTRATIVE SPECIALIST III 8 GRADE GS04
+3 (19) A098C FISCAL SUPPORT SPECIALIST 2 GRADE GS04
+4 (20) C043C RECORDS MANAGEMENT ANALYST 1 GRADE GS04
+5 (21) C073C ADMINISTRATIVE SPECIALIST II 11 GRADE GS03
+6 MAX. NO. OF EMPLOYEES 76
+7
+8 SECTION 10. EXTRA HELP - DIVISION OF STATE SERVICES FOR THE BLIND -
+9 OPERATION. There is hereby authorized, for the Department of Commerce -
+10 Arkansas Rehabilitation Services - Division of State Services for the Blind
+11 for the 2025-2026 fiscal year, the following maximum number of part-time or
+12 temporary employees, to be known as "Extra Help", payable from funds
+13 appropriated herein for such purposes: thirty (30) temporary or part-time
+14 employees, when needed, at rates of pay not to exceed those provided in the
+15 Uniform Classification and Compensation Act, or its successor, or this act
+16 for the appropriate classification.
+17
+18 SECTION 11. APPROPRIATION - STATE SERVICES FOR THE BLIND - OPERATIONS.
+19 There is hereby appropriated, to the Department of Commerce, to be payable
+20 from the paying account as determined by the Chief Fiscal Officer of the
+21 State, for personal services and operating expenses of the Department of
+22 Commerce - Arkansas Rehabilitation Services - Division of State Services for
+23 the Blind for the fiscal year ending June 30, 2026, the following:
+24
+25 ITEM FISCAL YEAR
+26 NO. 2025-2026
+27 (01) REGULAR SALARIES $3,496,655
+28 (02) EXTRA HELP 384,174
+29 (03) PERSONAL SERVICES MATCHING 1,418,651
+30 (04) MAINT. & GEN. OPERATION
+31 (A) OPER. EXPENSE 1,222,186
+32 (B) CONF. & TRAVEL 155,000
+33 (C) PROF. FEES 195,259
+34 (D) CAP. OUTLAY 100,000
+35 (E) DATA PROC. 0
+36 TOTAL AMOUNT APPROPRIATED $6,971,925
+8 01/07/2025 2:07:02 PM MAH013
+
+HB1115
+1
+2 SECTION 12. APPROPRIATION - BLIND SERVICES GRANTS. There is hereby
+3 appropriated, to the Department of Commerce, to be payable from the paying
+4 account as determined by the Chief Fiscal Officer of the State, for grants
+5 and aid and purchase of services of the Department of Commerce - Arkansas
+6 Rehabilitation Services - Blind Services Grants for the fiscal year ending
+7 June 30, 2026, the following:
+8
+9 ITEM FISCAL YEAR
+10 NO. 2025-2026
+11 (01) GRANTS AND AID/PURCHASE OF SERVICES $6,000,000
+12
+13 SECTION 13. COMPLIANCE WITH OTHER LAWS. Disbursement of funds
+14 authorized by this act shall be limited to the appropriation for such agency
+15 and funds made available by law for the support of such appropriations; and
+16 the restrictions of the State Procurement Law, the General Accounting and
+17 Budgetary Procedures Law, the Revenue Stabilization Law, the Regular Salary
+18 Procedures and Restrictions Act, or their successors, and other fiscal
+19 control laws of this State, where applicable, and regulations promulgated by
+20 the Department of Finance and Administration, as authorized by law, shall be
+21 strictly complied with in disbursement of said funds.
+22
+23 SECTION 14. LEGISLATIVE INTENT. It is the intent of the General
+24 Assembly that any funds disbursed under the authority of the appropriations
+25 contained in this act shall be in compliance with the stated reasons for
+26 which this act was adopted, as evidenced by the Agency Requests, Executive
+27 Recommendations and Legislative Recommendations contained in the budget
+28 manuals prepared by the Department of Finance and Administration, letters, or
+29 summarized oral testimony in the official minutes of the Arkansas Legislative
+30 Council or Joint Budget Committee which relate to its passage and adoption.
+31
+32 SECTION 15. EMERGENCY CLAUSE. It is found and determined by the
+33 General Assembly, that the Constitution of the State of Arkansas prohibits
+34 the appropriation of funds for more than a one (1) year period; that the
+35 effectiveness of this Act on July 1, 2025 is essential to the operation of
+36 the agency for which the appropriations in this Act are provided, and that in
+9 01/07/2025 2:07:02 PM MAH013
+
+HB1115
+1 the event of an extension of the legislative session, the delay in the
+2 effective date of this Act beyond July 1, 2025 could work irreparable harm
+3 upon the proper administration and provision of essential governmental
+4 programs. Therefore, an emergency is hereby declared to exist and this Act
+5 being necessary for the immediate preservation of the public peace, health
+6 and safety shall be in full force and effect from and after July 1, 2025.
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+10 01/07/2025 2:07:02 PM MAH013
+
+[DELETED:       A A - Y  A A A Y    B   S D f                   ]
+[DELETED: H2 0                                                                        ]
+[DELETED: H3 0                                                                        ]
+[DELETED: H4 0       S o t a n n A   S t d o A 3  I   ( ( ( (           (     S F p t]
+[DELETED: H5 0 C N  I   ( ( (               S E C p A E  I   ( ( (           (     S]
+[DELETED: H6 0 T f o S e  I   (               S T f F d l R f  I   (   S a d t R 2 ]
+[DELETED: H7 0 I   (               S - A f e                                         ]
+[DELETED: H8 0               S O A f t a e U f   S T f S C t  I   ( ( ( (            ]
+[DELETED: H9 0   S a a a R J  I   (   S a a t B P c t s   S A c w R m s C   S G t e t]
+[DELETED: H1 0 t e u p b a                              ]

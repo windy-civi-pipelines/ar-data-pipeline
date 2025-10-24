@@ -1,0 +1,259 @@
+Title: Stricken language would be deleted from and underlined language would be added to present law.
+Official Title: Stricken language would be deleted from and underlined language would be added to present law.
+Number of Sections: 1
+Source: versions - HB 1773
+Media Type: application/pdf
+Strikethrough Detection: 3 sections found
+
+================================================================================
+
+Section 1:
+1
+A Bill
+2
+3
+4
+5
+6
+7
+For An Act To Be Entitled
+8
+9 AN ACT TO AMEND THE LAW CONCERNING CONTRIBUTION
+10 LIMITS FOR BALLOT QUESTION COMMITTEES AND LEGISLATIVE
+11 QUESTION COMMITTEES; AND FOR OTHER PURPOSES.
+12
+13
+Subtitle
+14
+15 TO AMEND THE LAW CONCERNING CONTRIBUTION
+16 LIMITS FOR BALLOT QUESTION COMMITTEES
+17 AND LEGISLATIVE QUESTION COMMITTEES.
+18
+19 BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF ARKANSAS:
+20
+21 SECTION 1. Arkansas Code § 7-9-405 is amended to read as follows:
+22 7-9-405. Contributions and expenditures limited.
+23 (a) No ballot question committee or legislative question committee
+24 shall accept any contribution in cash, meaning currency or coin, that exceeds
+25 one hundred dollars ($100).
+26 (b)(a) No A ballot question committee or legislative question
+27 committee shall not accept any contribution from a:
+28 (1) prohibited Prohibited political action committee as defined
+29 in § 7-6-201; or
+30 (2) Foreign individual or entity.
+31 (c) No ballot question committee, legislative question committee, or
+32 individual shall make an expenditure in cash that exceeds fifty dollars
+33 ($50.00) to influence the qualification, disqualification, passage, or defeat
+34 of a ballot question or the passage or defeat of a legislative question.
+35 (d)(b) No contributions shall be made, directly or indirectly, by any
+36 person in a name other than the name by which the person is identified for
+*SSS198*
+03/12/2025 8:04:14 AM SSS198
+HB1773
+1 legal purposes.
+2 (e)(1) No person shall make an anonymous contribution totaling fifty
+3 dollars ($50.00) or more to a ballot question committee or legislative
+4 question committee.
+5 (2) Any such anonymous contribution actually received by any
+6 ballot question committee or legislative question committee shall be promptly
+7 paid by the recipient to the Arkansas Ethics Commission for deposit into the
+8 State Treasury as general revenues.
+9 (c)(1)(A) It shall be unlawful for a ballot question committee,
+10 legislative question committee, or for a person acting on the ballot question
+11 committee's or the legislative question committee's behalf to accept
+12 contributions in excess of the maximum contribution level established by rule
+13 of the Arkansas Ethics Commission under subsection (e) of this section per
+14 election from:
+15 (i) An individual;
+16 (ii) A political party that meets the definition of
+17 a political party under § 7-1-101;
+18 (iii) A political party that meets the requirements
+19 of § 7-7-205;
+20 (iv) A county political party committee;
+21 (v) A legislative caucus committee; or
+22 (vi) An approved political action committee.
+23 (B) It shall be unlawful for a ballot question committee,
+24 legislative question committee, or for a person acting on the ballot question
+25 committee's or the legislative question committee's behalf to accept a
+26 contribution from a prospective contributor other than those under
+27 subdivisions (c)(1)(A)(i)-(vi) of this section.
+28 (2) A ballot question committee or legislative question
+29 committee may accept a contribution or contributions up to the maximum amount
+30 from any prospective contributor under subdivisions (c)(1)(A)(i)-(vi) of this
+31 section for each election, whether opposed or unopposed.
+32 (d)(1)(A) It shall be unlawful for a person to make a contribution to
+33 a ballot question committee, legislative question committee, or to a person
+34 acting on the ballot question committee's or the legislative question
+35 committee's behalf, which in the aggregate amount exceeds the maximum
+36 contribution limit established by rule of the commission per election.
+2 03/12/2025 8:04:14 AM SSS198
+HB1773
+1 (B) The total aggregate amount per election is based on
+2 the total contributions made to a ballot question committee or legislative
+3 question committee by a donor during an election regardless of which ballot
+4 question the ballot question committee or legislative question committee is
+5 advocating for or against, and the aggregate amount during an election
+6 applies even if a ballot question committee or legislative question
+7 committee:
+8 (i) Advocates for or against more than one (1)
+9 ballot question during the election; or
+10 (ii) Concludes a campaign or otherwise withdraws the
+11 ballot question.
+12 (2) A person permitted to make a contribution or contributions
+13 under subdivisions (c)(1)(A)(i)-(vi) of this section may make a contribution
+14 or contributions up to the maximum amount to a ballot question committee or
+15 legislative question committee for each election, whether opposed or
+16 unopposed.
+17 (e)(1) The commission shall establish the contribution limit under
+18 this section by rule in the same manner provided for the establishment of the
+19 maximum campaign contribution limit under § 7-6-203.
+20 (2) The commission shall promulgate rules identifying the
+21 adjusted contribution limit under this section.
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+3 03/12/2025 8:04:14 AM SSS198
+[DELETED:         A L Q   T L A  B   S  7  ( s o  ( c   ( i   (  ( i ( o  ( p]
+[DELETED: H2 0 l  ( d q   ( b p S  ( l c c o e     (     ( a     ( o     (     (     (    ( l c c s   ( c f s  ( a a c c]
+[DELETED: H3 0    ( t q q a a c     ( b     ( b   ( u o l u  ( t m   ( a]
+
+
+================================================================================
+
+Raw Text:
+Stricken language would be deleted from and underlined language would be added to present law.
+1
+A Bill
+2
+3
+4
+5
+6
+7
+For An Act To Be Entitled
+8
+9 AN ACT TO AMEND THE LAW CONCERNING CONTRIBUTION
+10 LIMITS FOR BALLOT QUESTION COMMITTEES AND LEGISLATIVE
+11 QUESTION COMMITTEES; AND FOR OTHER PURPOSES.
+12
+13
+Subtitle
+14
+15 TO AMEND THE LAW CONCERNING CONTRIBUTION
+16 LIMITS FOR BALLOT QUESTION COMMITTEES
+17 AND LEGISLATIVE QUESTION COMMITTEES.
+18
+19 BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF ARKANSAS:
+20
+21 SECTION 1. Arkansas Code § 7-9-405 is amended to read as follows:
+22 7-9-405. Contributions and expenditures limited.
+23 (a) No ballot question committee or legislative question committee
+24 shall accept any contribution in cash, meaning currency or coin, that exceeds
+25 one hundred dollars ($100).
+26 (b)(a) No A ballot question committee or legislative question
+27 committee shall not accept any contribution from a:
+28 (1) prohibited Prohibited political action committee as defined
+29 in § 7-6-201; or
+30 (2) Foreign individual or entity.
+31 (c) No ballot question committee, legislative question committee, or
+32 individual shall make an expenditure in cash that exceeds fifty dollars
+33 ($50.00) to influence the qualification, disqualification, passage, or defeat
+34 of a ballot question or the passage or defeat of a legislative question.
+35 (d)(b) No contributions shall be made, directly or indirectly, by any
+36 person in a name other than the name by which the person is identified for
+*SSS198*
+03/12/2025 8:04:14 AM SSS198
+
+HB1773
+1 legal purposes.
+2 (e)(1) No person shall make an anonymous contribution totaling fifty
+3 dollars ($50.00) or more to a ballot question committee or legislative
+4 question committee.
+5 (2) Any such anonymous contribution actually received by any
+6 ballot question committee or legislative question committee shall be promptly
+7 paid by the recipient to the Arkansas Ethics Commission for deposit into the
+8 State Treasury as general revenues.
+9 (c)(1)(A) It shall be unlawful for a ballot question committee,
+10 legislative question committee, or for a person acting on the ballot question
+11 committee's or the legislative question committee's behalf to accept
+12 contributions in excess of the maximum contribution level established by rule
+13 of the Arkansas Ethics Commission under subsection (e) of this section per
+14 election from:
+15 (i) An individual;
+16 (ii) A political party that meets the definition of
+17 a political party under § 7-1-101;
+18 (iii) A political party that meets the requirements
+19 of § 7-7-205;
+20 (iv) A county political party committee;
+21 (v) A legislative caucus committee; or
+22 (vi) An approved political action committee.
+23 (B) It shall be unlawful for a ballot question committee,
+24 legislative question committee, or for a person acting on the ballot question
+25 committee's or the legislative question committee's behalf to accept a
+26 contribution from a prospective contributor other than those under
+27 subdivisions (c)(1)(A)(i)-(vi) of this section.
+28 (2) A ballot question committee or legislative question
+29 committee may accept a contribution or contributions up to the maximum amount
+30 from any prospective contributor under subdivisions (c)(1)(A)(i)-(vi) of this
+31 section for each election, whether opposed or unopposed.
+32 (d)(1)(A) It shall be unlawful for a person to make a contribution to
+33 a ballot question committee, legislative question committee, or to a person
+34 acting on the ballot question committee's or the legislative question
+35 committee's behalf, which in the aggregate amount exceeds the maximum
+36 contribution limit established by rule of the commission per election.
+2 03/12/2025 8:04:14 AM SSS198
+
+HB1773
+1 (B) The total aggregate amount per election is based on
+2 the total contributions made to a ballot question committee or legislative
+3 question committee by a donor during an election regardless of which ballot
+4 question the ballot question committee or legislative question committee is
+5 advocating for or against, and the aggregate amount during an election
+6 applies even if a ballot question committee or legislative question
+7 committee:
+8 (i) Advocates for or against more than one (1)
+9 ballot question during the election; or
+10 (ii) Concludes a campaign or otherwise withdraws the
+11 ballot question.
+12 (2) A person permitted to make a contribution or contributions
+13 under subdivisions (c)(1)(A)(i)-(vi) of this section may make a contribution
+14 or contributions up to the maximum amount to a ballot question committee or
+15 legislative question committee for each election, whether opposed or
+16 unopposed.
+17 (e)(1) The commission shall establish the contribution limit under
+18 this section by rule in the same manner provided for the establishment of the
+19 maximum campaign contribution limit under § 7-6-203.
+20 (2) The commission shall promulgate rules identifying the
+21 adjusted contribution limit under this section.
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+3 03/12/2025 8:04:14 AM SSS198
+
+[DELETED:         A L Q   T L A  B   S  7  ( s o  ( c   ( i   (  ( i ( o  ( p]
+[DELETED: H2 0 l  ( d q   ( b p S  ( l c c o e     (     ( a     ( o     (     (     (    ( l c c s   ( c f s  ( a a c c]
+[DELETED: H3 0    ( t q q a a c     ( b     ( b   ( u o l u  ( t m   ( a]

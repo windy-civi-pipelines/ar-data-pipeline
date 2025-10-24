@@ -1,0 +1,338 @@
+Title: Stricken language would be deleted from and underlined language would be added to present law.
+Official Title: Stricken language would be deleted from and underlined language would be added to present law.
+Number of Sections: 1
+Source: versions - HB 1702
+Media Type: application/pdf
+Strikethrough Detection: 4 sections found
+
+================================================================================
+
+Section 1:
+1 State of Arkansas
+A Bill
+2 95th General Assembly
+3 Regular Session, 2025 HOUSE BILL 1702
+4
+5 By: Representative Wooldridge
+6 By: Senator J. Petty
+7
+For An Act To Be Entitled
+8
+9 AN ACT TO AMEND THE SALES AND USE TAX EXEMPTIONS FOR
+10 CERTAIN MACHINERY AND EQUIPMENT USED IN
+11 MANUFACTURING; TO PROVIDE A SALES AND USE TAX
+12 EXEMPTION FOR MACHINERY AND EQUIPMENT USED IN CLOSED-
+13 LOOP RECYCLING; AND FOR OTHER PURPOSES.
+14
+15
+Subtitle
+16
+17 TO AMEND THE SALES AND USE TAX
+18 EXEMPTIONS FOR CERTAIN MACHINERY AND
+19 EQUIPMENT USED IN MANUFACTURING; AND TO
+20 PROVIDE A SALES AND USE TAX EXEMPTION
+21 FOR MACHINERY AND EQUIPMENT USED IN
+22 CLOSED-LOOP RECYCLING.
+23
+24 BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF ARKANSAS:
+25
+26 SECTION 1. Arkansas Code § 26-52-402(c)(2)(B), concerning the
+27 machinery and equipment that is included in the list of machinery and
+28 equipment that is used directly in the manufacturing process for purposes of
+29 the sales tax exemption on certain machinery and equipment, is amended to add
+30 an additional subdivision to read as follows:
+31 (vii)(a) Machinery and equipment used to
+32 mechanically recycle post-use materials in a closed-loop circular process,
+33 including without limitation machinery and equipment:
+34 (1) Used to identify, gather, transport,
+35 and store post-use materials;
+36 (2) Used to convert post-use materials
+*JLL207*
+03/05/2025 12:40:46 PM JLL207
+HB1702
+1 into raw materials, work-in-process materials, or a finished product; and
+2 (3) That convey converted post-use
+3 materials directly to where it is reintroduced into the taxpayer’s
+4 manufacturing process.
+5 (b) As used in this subdivision
+6 (c)(2)(B)(vii):
+7 (1) “Closed-loop circular process” means
+8 a manufacturing process in which reclaimed post-use materials are converted
+9 and reintroduced into the original process and become a recognized component
+10 of the finished product;
+11 (2)(A) “Mechanically recycle” means to
+12 reclaim and convert post-use materials into materials that are recognized in
+13 the finished product using a series of physical processes.
+14 (B) “Mechanically recycle”
+15 includes without limitation washing, drying, grinding, regranulating, and
+16 compounding; and
+17 (3) “Post-use material” means a material
+18 that is:
+19 (A) Generated and reclaimed
+20 directly from the taxpayer’s manufacturing process;
+21 (B) Managed as an item of value in
+22 a controlled manner;
+23 (C) Intended to be mechanically
+24 recycled into an item of raw materials, work-in-process material, or a
+25 finished product;
+26 (D) Not originated as a post-
+27 consumer waste material; and
+28 (E) Not mixed with any other solid
+29 waste or hazardous waste onsite or during processing; and
+30
+31 SECTION 2. Arkansas Code § 26-53-114(c)(3)(B), concerning the
+32 machinery and equipment that is included in the list of machinery and
+33 equipment that is used directly in the manufacturing process for purposes of
+34 the use tax exemption on certain machinery and equipment, is amended to add
+35 an additional subdivision to read as follows:
+36 (vi)(a) Machinery and equipment used to mechanically
+2 03/05/2025 12:40:46 PM JLL207
+HB1702
+1 recycle post-use materials generated directly from the manufacturing
+2 operation in a closed-loop circular process, including without limitation
+3 machinery and equipment:
+4 (1) Used to identify, gather, transport,
+5 and store post-use materials;
+6 (2) Used to convert post-use materials
+7 into raw materials, work-in-process materials, or a finished product; and
+8 (3) That convey converted post-use
+9 materials directly to where it is reintroduced into the taxpayer’s
+10 manufacturing process.
+11 (b) As used in this subdivision (c)(3)(B)(vi):
+12 (1) “Closed-loop circular process” means
+13 a manufacturing process in which reclaimed post-use materials are converted
+14 and reintroduced into the original process and become a recognized component
+15 of the finished product;
+16 (2)(A) “Mechanically recycle” means to
+17 reclaim and convert post-use materials into materials that are recognized in
+18 the finished product using a series of physical processes.
+19 (B) “Mechanically recycle”
+20 includes without limitation washing, drying, grinding, regranulating, and
+21 compounding; and
+22 (3) “Post-use material” means a material
+23 that is:
+24 (A) Generated and reclaimed
+25 directly from the taxpayer’s manufacturing process;
+26 (B) Managed as an item of value in
+27 a controlled manner;
+28 (C) Intended to be mechanically
+29 recycled into an item of raw materials, work-in-process material, or a
+30 finished product;
+31 (D) Not originated as a post-
+32 consumer waste material; and
+33 (E) Not mixed with any other solid
+34 waste or hazardous waste onsite or during processing; and
+35
+36 SECTION 3. EFFECTIVE DATE. Sections 1 and 2 of this act are effective
+3 03/05/2025 12:40:46 PM JLL207
+HB1702
+1 on the first day of the calendar quarter following the effective date of this
+2 act.
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+4 03/05/2025 12:40:46 PM JLL207
+[DELETED:       A C M E L  T E E P F C  B   S m e t a     ( m i       ( a       (]
+[DELETED: H2 0 i       ( m m      ( (       ( a a o       ( r t        ( i c       ( t        ( d        ( a        ( r f        ( c        ( w   S m e t a     (]
+[DELETED: H3 0 r o m       ( a       ( i       ( m m      (       ( a a o       ( r t        ( i c       ( t        ( d        ( a        ( r f        ( c        ( w   S]
+[DELETED: H4 0 o a                                  ]
+
+
+================================================================================
+
+Raw Text:
+Stricken language would be deleted from and underlined language would be added to present law.
+1 State of Arkansas
+A Bill
+2 95th General Assembly
+3 Regular Session, 2025 HOUSE BILL 1702
+4
+5 By: Representative Wooldridge
+6 By: Senator J. Petty
+7
+For An Act To Be Entitled
+8
+9 AN ACT TO AMEND THE SALES AND USE TAX EXEMPTIONS FOR
+10 CERTAIN MACHINERY AND EQUIPMENT USED IN
+11 MANUFACTURING; TO PROVIDE A SALES AND USE TAX
+12 EXEMPTION FOR MACHINERY AND EQUIPMENT USED IN CLOSED-
+13 LOOP RECYCLING; AND FOR OTHER PURPOSES.
+14
+15
+Subtitle
+16
+17 TO AMEND THE SALES AND USE TAX
+18 EXEMPTIONS FOR CERTAIN MACHINERY AND
+19 EQUIPMENT USED IN MANUFACTURING; AND TO
+20 PROVIDE A SALES AND USE TAX EXEMPTION
+21 FOR MACHINERY AND EQUIPMENT USED IN
+22 CLOSED-LOOP RECYCLING.
+23
+24 BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF ARKANSAS:
+25
+26 SECTION 1. Arkansas Code § 26-52-402(c)(2)(B), concerning the
+27 machinery and equipment that is included in the list of machinery and
+28 equipment that is used directly in the manufacturing process for purposes of
+29 the sales tax exemption on certain machinery and equipment, is amended to add
+30 an additional subdivision to read as follows:
+31 (vii)(a) Machinery and equipment used to
+32 mechanically recycle post-use materials in a closed-loop circular process,
+33 including without limitation machinery and equipment:
+34 (1) Used to identify, gather, transport,
+35 and store post-use materials;
+36 (2) Used to convert post-use materials
+*JLL207*
+03/05/2025 12:40:46 PM JLL207
+
+HB1702
+1 into raw materials, work-in-process materials, or a finished product; and
+2 (3) That convey converted post-use
+3 materials directly to where it is reintroduced into the taxpayer’s
+4 manufacturing process.
+5 (b) As used in this subdivision
+6 (c)(2)(B)(vii):
+7 (1) “Closed-loop circular process” means
+8 a manufacturing process in which reclaimed post-use materials are converted
+9 and reintroduced into the original process and become a recognized component
+10 of the finished product;
+11 (2)(A) “Mechanically recycle” means to
+12 reclaim and convert post-use materials into materials that are recognized in
+13 the finished product using a series of physical processes.
+14 (B) “Mechanically recycle”
+15 includes without limitation washing, drying, grinding, regranulating, and
+16 compounding; and
+17 (3) “Post-use material” means a material
+18 that is:
+19 (A) Generated and reclaimed
+20 directly from the taxpayer’s manufacturing process;
+21 (B) Managed as an item of value in
+22 a controlled manner;
+23 (C) Intended to be mechanically
+24 recycled into an item of raw materials, work-in-process material, or a
+25 finished product;
+26 (D) Not originated as a post-
+27 consumer waste material; and
+28 (E) Not mixed with any other solid
+29 waste or hazardous waste onsite or during processing; and
+30
+31 SECTION 2. Arkansas Code § 26-53-114(c)(3)(B), concerning the
+32 machinery and equipment that is included in the list of machinery and
+33 equipment that is used directly in the manufacturing process for purposes of
+34 the use tax exemption on certain machinery and equipment, is amended to add
+35 an additional subdivision to read as follows:
+36 (vi)(a) Machinery and equipment used to mechanically
+2 03/05/2025 12:40:46 PM JLL207
+
+HB1702
+1 recycle post-use materials generated directly from the manufacturing
+2 operation in a closed-loop circular process, including without limitation
+3 machinery and equipment:
+4 (1) Used to identify, gather, transport,
+5 and store post-use materials;
+6 (2) Used to convert post-use materials
+7 into raw materials, work-in-process materials, or a finished product; and
+8 (3) That convey converted post-use
+9 materials directly to where it is reintroduced into the taxpayer’s
+10 manufacturing process.
+11 (b) As used in this subdivision (c)(3)(B)(vi):
+12 (1) “Closed-loop circular process” means
+13 a manufacturing process in which reclaimed post-use materials are converted
+14 and reintroduced into the original process and become a recognized component
+15 of the finished product;
+16 (2)(A) “Mechanically recycle” means to
+17 reclaim and convert post-use materials into materials that are recognized in
+18 the finished product using a series of physical processes.
+19 (B) “Mechanically recycle”
+20 includes without limitation washing, drying, grinding, regranulating, and
+21 compounding; and
+22 (3) “Post-use material” means a material
+23 that is:
+24 (A) Generated and reclaimed
+25 directly from the taxpayer’s manufacturing process;
+26 (B) Managed as an item of value in
+27 a controlled manner;
+28 (C) Intended to be mechanically
+29 recycled into an item of raw materials, work-in-process material, or a
+30 finished product;
+31 (D) Not originated as a post-
+32 consumer waste material; and
+33 (E) Not mixed with any other solid
+34 waste or hazardous waste onsite or during processing; and
+35
+36 SECTION 3. EFFECTIVE DATE. Sections 1 and 2 of this act are effective
+3 03/05/2025 12:40:46 PM JLL207
+
+HB1702
+1 on the first day of the calendar quarter following the effective date of this
+2 act.
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+4 03/05/2025 12:40:46 PM JLL207
+
+[DELETED:       A C M E L  T E E P F C  B   S m e t a     ( m i       ( a       (]
+[DELETED: H2 0 i       ( m m      ( (       ( a a o       ( r t        ( i c       ( t        ( d        ( a        ( r f        ( c        ( w   S m e t a     (]
+[DELETED: H3 0 r o m       ( a       ( i       ( m m      (       ( a a o       ( r t        ( i c       ( t        ( d        ( a        ( r f        ( c        ( w   S]
+[DELETED: H4 0 o a                                  ]

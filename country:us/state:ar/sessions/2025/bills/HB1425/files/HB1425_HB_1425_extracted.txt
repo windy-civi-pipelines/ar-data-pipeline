@@ -1,0 +1,812 @@
+Title: Stricken language would be deleted from and underlined language would be added to present law.
+Official Title: Stricken language would be deleted from and underlined language would be added to present law.
+Number of Sections: 1
+Source: versions - HB 1425
+Media Type: application/pdf
+Strikethrough Detection: 10 sections found
+
+================================================================================
+
+Section 1:
+1 State of Arkansas
+A Bill
+2 95th General Assembly
+3 Regular Session, 2025 HOUSE BILL 1425
+4
+5 By: Representative L. Johnson
+6 By: Senator K. Hammer
+7
+For An Act To Be Entitled
+8
+9 AN ACT TO ABOLISH THE ARKANSAS FIRE PROTECTION
+10 LICENSING BOARD; TO AMEND THE LAW CONCERNING THE
+11 DUTIES OF THE ARKANSAS FIRE PROTECTION SERVICES
+12 BOARD; AND FOR OTHER PURPOSES.
+13
+14
+Subtitle
+15
+16 TO ABOLISH THE ARKANSAS FIRE PROTECTION
+17 LICENSING BOARD; AND TO AMEND THE LAW
+18 CONCERNING THE DUTIES OF THE ARKANSAS
+19 FIRE PROTECTION SERVICES BOARD.
+20
+21 BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF ARKANSAS:
+22
+23 SECTION 1. DO NOT CODIFY. Abolition of the Arkansas Fire Protection
+24 Licensing Board.
+25 (a) The Arkansas Fire Protection Licensing Board is abolished, and its
+26 authority, duties, functions, records, contracts, personnel, property, and
+27 unexpended balances of appropriations, allocations, and other funds,
+28 including without limitation the functions of budgeting or purchasing, are
+29 transferred to the Arkansas Fire Protection Services Board.
+30 (b) The Arkansas Fire Protection Licensing Board's statutory powers,
+31 duties, and functions, including without limitation the functions of
+32 budgeting or purchasing, records, contracts, personnel, property, and
+33 unexpended balances of appropriations, allocations, and other funds are
+34 transferred to the Arkansas Fire Protection Services Board.
+35 (c)(1) The abolishment of the Arkansas Fire Protection Licensing Board
+36 does not affect the orders, rules, directives, registration, licensing, or
+*SSS152*
+02/05/2025 3:30:01 PM SSS152
+HB1425
+1 standards made or promulgated by the Arkansas Fire Protection Licensing Board
+2 before the effective date of this act.
+3 (2) The orders, rules, directives, registration, licensing, or
+4 standards of the Arkansas Fire Protection Licensing Board shall continue to
+5 be in effect until they are amended or repealed under authority given by law.
+6
+7 SECTION 2. Arkansas Code § 17-40-103(a)(13), concerning exemptions for
+8 private investigators and private security agencies, is amended to read as
+9 follows:
+10 (13) Installation of fixed fire extinguisher systems by persons
+11 licensed by the Arkansas Fire Protection Licensing Board Arkansas Fire
+12 Protection Services Board;
+13
+14 SECTION 3. Arkansas Code § 19-5-1242(c), concerning the creation of
+15 the Fire Protection Licensing Fund, is amended to read as follows:
+16 (c) The fund shall be used for the maintenance, operation, and
+17 improvement as required by the Arkansas Fire Protection Licensing Board
+18 Arkansas Fire Protection Services Board in carrying out the powers,
+19 functions, and duties as set out in § 20-22-601 et seq.
+20
+21 SECTION 4. Arkansas Code § 20-22-602(1), concerning the definition of
+22 "apprentice" as it relates to monitoring the sale, installation, and
+23 servicing of fire extinguishers, is amended to read as follows:
+24 (1) “Apprentice” means a qualified person:
+25 (A) Enrolled as required in an apprenticeship program
+26 recognized by the Arkansas Fire Protection Licensing Board Arkansas Fire
+27 Protection Services Board; and
+28 (B) Who may perform work entitled by the licensee under
+29 the direct supervision of a licensed employee;
+30
+31 SECTION 5. Arkansas Code § 20-22-602(6), concerning the definition of
+32 "fixed fire protection systems" as it relates to monitoring the sale,
+33 installation, and servicing of fire extinguishers, is amended to read as
+34 follows:
+35 (6) “Fixed fire protection systems” means fire extinguisher or
+36 fire suppression systems, including without limitation:
+2 02/05/2025 3:30:01 PM SSS152
+HB1425
+1 (A) Fire extinguishing or fire suppression systems
+2 installed to protect the hoods and ductwork of exhaust systems designed for
+3 the removal of smoke and grease-laden vapors from commercial cooking
+4 equipment; and
+5 (B) Listed or approved fire protection systems or
+6 suppression systems installed and maintained according to the standards
+7 adopted in the rules of the Arkansas Fire Protection Licensing Board Arkansas
+8 Fire Protection Services Board;
+9
+10 SECTION 6. Arkansas Code § 20-22-603(5)(B), concerning exceptions to
+11 monitoring the sale, installation, and servicing of fire extinguishers, is
+12 amended to read as follows:
+13 (B) All work is performed according to the standards
+14 adopted and the rules of the Arkansas Fire Protection Licensing Board
+15 Arkansas Fire Protection Services Board and the National Fire Protection
+16 Association pamphlet number ten (No. 10): Standard for Portable Fire
+17 Extinguishers;
+18
+19 SECTION 7. Arkansas Code § 20-22-604(a), concerning penalties for
+20 violations of law regarding monitoring the sale, installation, and servicing
+21 of fire extinguishers, is amended to read as follows:
+22 (a) The Arkansas Fire Protection Licensing Board Arkansas Fire
+23 Protection Services Board, in a lawful proceeding respecting licensing as
+24 defined in the Arkansas Administrative Procedure Act, § 25-15-201 et seq., in
+25 addition to or in lieu of any other lawful disciplinary action, may assess a
+26 civil penalty of not more than one thousand dollars ($1,000) for each
+27 violation of any statute, rule, or order enforceable by the board.
+28
+29 SECTION 8. Arkansas Code § 20-22-605(a), concerning reports and
+30 investigations of fire extinguishers, is amended to read as follows:
+31 (a) The Division of Occupational and Professional Licensing Boards and
+32 Commissions and other state and local agencies and officers may cooperate
+33 with and assist the Arkansas Fire Protection Licensing Board Arkansas Fire
+34 Protection Services Board in administering and enforcing this subchapter by
+35 reporting to the board any violations of this subchapter or any failure to
+36 comply with this subchapter or the policies adopted by the board pursuant to
+3 02/05/2025 3:30:01 PM SSS152
+HB1425
+1 the authority granted in this subchapter.
+2
+3 SECTION 9. Arkansas Code § 20-22-606 is repealed.
+4 20-22-606. Arkansas Fire Protection Licensing Board — Creation —
+5 Members.
+6 (a)(1) There is created the Arkansas Fire Protection Licensing Board,
+7 which shall be composed of eleven (11) members who are residents of the state
+8 and who shall be appointed by the Governor for terms of five (5) years. The
+9 eleven (11) members shall be constituted as follows:
+10 (A) One (1) member shall be an industrial safety
+11 representative;
+12 (B) One (1) member shall be the State Fire Marshal;
+13 (C) One (1) member shall be a representative of a state
+14 association of fire chiefs;
+15 (D) One (1) member shall be a representative of the fire
+16 insurance industry;
+17 (E) Two (2) members shall be representatives of large
+18 industrial users of fire suppression equipment;
+19 (F) One (1) member shall be a representative of a
+20 restaurant association;
+21 (G) Two (2) members shall be active in the installation
+22 and servicing of portable fire extinguishers or fixed fire protection
+23 systems; and
+24 (H) Two (2) members shall be active in the installation
+25 and servicing of fire protection sprinkler systems.
+26 (2) Each of the four (4) congressional districts in the state
+27 shall be represented by at least one (1) member.
+28 (3) Each of the members shall be experienced and knowledgeable
+29 in one (1) or more of the following areas:
+30 (A) The installation or servicing of:
+31 (i) Portable fire extinguishers;
+32 (ii) Fixed fire protection systems; and
+33 (iii) Fire protection sprinkler systems;
+34 (B) The manufacturing of fire suppression equipment;
+35 (C) The fire insurance industry;
+36 (D) The use of fire suppression equipment by the food
+4 02/05/2025 3:30:01 PM SSS152
+HB1425
+1 service industry; or
+2 (E) The provision of fire suppression services by a fire
+3 department.
+4 (b) Each member may receive expense reimbursement and stipends in
+5 accordance with § 25-16-901 et seq.
+6 (c)(1) The board may expend moneys as necessary to reimburse the
+7 Department of Labor and Licensing for stationery, office supplies,
+8 application forms, equipment, and other materials necessary for the board to
+9 carry out its duties.
+10 (2) The expense reimbursement and stipends authorized by § 25-
+11 16-901 et seq. and the expense for necessary office supplies, forms,
+12 equipment, and other necessary materials shall be paid from the fees and
+13 fines collected by the board.
+14 (d)(1) The board shall employ an executive director, chief board
+15 investigator, and other staff as necessary whose compensation shall be set by
+16 the board.
+17 (2) The staff shall be paid from fees and fines collected by the
+18 board.
+19
+20 SECTION 10. Arkansas Code §§ 20-22-607 and 20-22-608 are amended to
+21 read as follows:
+22 20-22-607. Arkansas Fire Protection Licensing Board Arkansas Fire
+23 Protection Services Board — Powers and duties.
+24 The Arkansas Fire Protection Licensing Board Arkansas Fire Protection
+25 Services Board shall:
+26 (1) Formulate and administer policies as may be determined
+27 necessary for the protection and preservation of life and property in regard
+28 to:
+29 (A) The registration of firms engaging in the business of
+30 installing, inspecting, or servicing portable fire extinguishers and of firms
+31 engaging or in the business of installing, inspecting, and servicing fixed
+32 fire protection systems;
+33 (B) The registration of firms engaging in the business of
+34 hydrostatic testing of portable fire extinguishers. However, no person or
+35 firm shall be granted a Class A hydrostatic testing certificate until the
+36 applicant submits proof satisfactory to the board that the test equipment of
+5 02/05/2025 3:30:01 PM SSS152
+HB1425
+1 the applicant has been tested and certified by the United States Department
+2 of Transportation;
+3 (C) The examination and licensure of persons applying for
+4 a license to install, inspect, or service portable fire extinguishers and of
+5 a person applying for a license to install, inspect, or service fixed fire
+6 protection systems;
+7 (D) The registration of firms engaging in the business of
+8 selling, system layout, installing, servicing, inspecting, or any aspect of
+9 fire protection sprinkler systems, including standpipe, fire pumps, and hose
+10 systems;
+11 (E) The examination and licensure of a person applying for
+12 a license as a responsible managing employee for the purpose of fire
+13 protection sprinkler system business, including designing, inspecting,
+14 installing, system layout, or servicing fire protection sprinkler systems,
+15 including standpipe, fire pumps, and hose systems;
+16 (F) The examination and licensure of a person applying for
+17 a license as a fire protection sprinkler systems inspector for the purpose of
+18 servicing or inspecting fire protection sprinkler systems, including
+19 standpipe, fire pumps, and hose systems; and
+20 (G) The examination and licensure of a person applying for
+21 a license as a fire protection sprinkler system sprinkler fitter or
+22 apprentice for the purpose of installing, servicing, or placing fire
+23 protection sprinkler systems in service, including without limitation
+24 standpipe, fire pumps, and hose systems;
+25 (2) Establish reasonable qualifications for firms and
+26 individuals for the issuance of a certificate of registration or individual
+27 license to engage in any aspect of the business of portable fire
+28 extinguishers, fixed fire protection systems, or fire protection sprinkler
+29 systems;
+30 (3) Conduct examinations to ascertain the qualifications and
+31 fitness of individual applicants to install or service portable fire
+32 extinguishers, install or service fixed fire protection systems, or install,
+33 service, inspect, or design fire protection sprinkler systems;
+34 (4) Issue certificates of registration for those firms that
+35 qualify and individual licenses and permits to individuals that qualify to
+36 engage in the business and activity of installing and servicing portable fire
+6 02/05/2025 3:30:01 PM SSS152
+HB1425
+1 extinguishers, installing and servicing fixed fire protection systems, and
+2 designing, installing, inspecting, or servicing fire protection sprinkler
+3 systems and issue licenses or permits to those firms and individuals
+4 qualifying to perform hydrostatic testing of fire extinguisher cylinders;
+5 (5) Evaluate the qualifications of firms seeking approval as
+6 testing laboratories for portable fire extinguishers; and
+7 (6)(A) Regulate and license as a part of a fire protection
+8 sprinkler system the installation, service, and maintenance of a standpipe
+9 and hose system as defined under the National Fire Protection Association
+10 pamphlet number fourteen (No. 14): Standard for the Installation of Standpipe
+11 and Hose Systems.
+12 (B)(i) The installation, service, and maintenance of a
+13 standpipe and hose system shall be performed by a licensed fire protection
+14 sprinkler contractor. A licensed fire protection sprinkler contractor is not
+15 required to perform hydrostatic testing of the standpipe hose, repair of the
+16 standpipe hose, or maintenance of the standpipe hose.
+17 (ii) The standpipe and hose system shall be:
+18 (a) Designed, installed, and tested in
+19 accordance with the standards adopted in the Rules and Regulations for
+20 Sprinkler Systems of the board and in accordance with the applicable National
+21 Fire Protection Association pamphlets; and
+22 (b) Designed by an Arkansas-licensed
+23 responsible managing employee or a registered professional engineer licensed
+24 by the State of Arkansas.
+25
+26 20-22-608. State Fire Marshal — Powers and duties.
+27 The State Fire Marshal shall advise and assist the Arkansas Fire
+28 Protection Licensing Board Arkansas Fire Protection Services Board in the
+29 adoption of policies and procedures for the:
+30 (1) Effective monitoring of the sale, installation, and
+31 servicing of portable fire extinguishers;
+32 (2) Sale, installation, and servicing of fixed fire protection
+33 systems;
+34 (3) Design, installation, inspection, servicing, and maintenance
+35 of fire protection sprinkler systems, including standpipe and hose systems;
+36 and
+7 02/05/2025 3:30:01 PM SSS152
+HB1425
+1 (4) Registration and licensing of firms and individuals
+2 providing these goods and services.
+3
+4 SECTION 11. Arkansas Code § 20-22-609(8), concerning prohibited
+5 actions by a person in relation to fire extinguishers, is amended to read as
+6 follows:
+7 (8) Engage in any business or activity licensed or permitted by
+8 the Arkansas Fire Protection Licensing Board Arkansas Fire Protection
+9 Services Board without maintaining in force at all times a public liability
+10 insurance policy, with minimum coverage limits as set by the board, covering
+11 the person's operations and completed operations.
+12
+13 SECTION 12. Arkansas Code § 20-22-610(a), concerning the license,
+14 permit, and certificate fees for fire extinguishers, is amended to read as
+15 follows:
+16 (a) Applications for licenses, permits, and certificates provided for
+17 in this section shall be made under policies adopted by the Arkansas Fire
+18 Protection Licensing Board Arkansas Fire Protection Services Board and shall
+19 be submitted on forms prescribed by the board.
+20
+21 SECTION 13. Arkansas Code § 20-22-611(a), concerning the license,
+22 permit, and certificate qualifications for fire extinguishers, is amended to
+23 read as follows:
+24 (a) For a license to install or service portable fire extinguishers,
+25 for a license to sell, install, or service fixed fire protection systems, or
+26 for a license to conduct any fire protection sprinkler system business, a
+27 person employed by a certified firm shall obtain a license issued by the
+28 Arkansas Fire Protection Licensing Board Arkansas Fire Protection Services
+29 Board after:
+30 (1) Successful completion of the requirements for licensure
+31 under rules of the board; and
+32 (2) Payment of fees established under rules of the board.
+33
+34 SECTION 14. Arkansas Code § 20-22-612 is amended to read as follows:
+35 20-22-612. License, permit, or certificate — Previously engaged
+36 persons.
+8 02/05/2025 3:30:01 PM SSS152
+HB1425
+1 Notwithstanding the provisions of this subchapter, if any person or
+2 firm engaged in the business on January 1, 1977, of servicing portable fire
+3 extinguishers, installing or servicing fixed fire protection systems, or
+4 performing hydrostatic testing of fire extinguishers derived twenty-five
+5 percent (25%) or more of the personal or firm income from servicing portable
+6 fire extinguishers or installing or servicing fixed fire protection systems
+7 or hydrostatic testing of fire extinguishers during the 1976 calendar year,
+8 the person or firm shall be registered or issued a license to continue in the
+9 business upon payment of the annual registration or license fee prescribed in
+10 this subchapter for the particular type of business, if the applicant's
+11 qualifications meet those requirements established by the Arkansas Fire
+12 Protection Licensing Board Arkansas Fire Protection Services Board.
+13
+14 SECTION 15. Arkansas Code § 20-22-613(a), concerning limitation of
+15 actions for fire extinguishers, is amended to read as follows:
+16 (a) No portable fire extinguisher or fixed fire protection system may
+17 be sold or installed in this state unless it carries a label of approval of a
+18 nationally recognized testing laboratory approved by the Arkansas Fire
+19 Protection Licensing Board Arkansas Fire Protection Services Board.
+20
+21 SECTION 16. Arkansas Code § 20-22-803, concerning membership of the
+22 Arkansas Fire Protection Services Board, is amended to add an additional
+23 subsection to read as follows:
+24 (e)(1) A member who fails to attend regular meetings continuously for
+25 one (1) year may be removed from his or her position by a majority vote of
+26 the remaining members of the board.
+27 (2) Upon removal of a member under subdivision (e)(1) of this
+28 section, the position is vacant and shall be filled as provided in subsection
+29 (c) of this section.
+30
+31 SECTION 17. Arkansas Code § 20-22-804(a), concerning the powers and
+32 duties of the Arkansas Fire Protection Services Board, is amended to add an
+33 additional subdivision to read as follows:
+34 (20) Oversee administration of rules and registration concerning
+35 fire extinguishers as described in § 20-22-607.
+36
+9 02/05/2025 3:30:01 PM SSS152
+HB1425
+1 SECTION 18. Arkansas Code § 20-22-804(c), concerning revocation of a
+2 firefighter's certification, is amended to read as follows:
+3 (c)(1) The Arkansas Fire Protection Services Board may:
+4 (A) revoke Revoke the certification of any firefighter who
+5 has been convicted of a felony under § 17-3-102; and
+6 (B) Suspend the certification of a firefighter.
+7 (2) Before the Arkansas Fire Protection Services Board revokes
+8 or suspends the certification of a firefighter under this subsection, the
+9 firefighter may request a hearing in accordance with the Arkansas
+10 Administrative Procedure Act, § 25-15-201 et seq.
+11 (3)(A) If Except as otherwise provided in subdivision (c)(3)(B)
+12 of this section, if the Arkansas Fire Protection Services Board revokes or
+13 suspends the firefighter's certification under this subsection, the
+14 firefighter may appeal the Arkansas Fire Protection Services Board's decision
+15 to the Pulaski County Circuit Court in accordance with the Arkansas
+16 Administrative Procedure Act, § 25-15-201 et seq.
+17 (B) If a hearing is not requested by the firefighter whose
+18 certification is under review for suspension, the decision of the Arkansas
+19 Fire Protection Services Board shall be final and is not eligible for appeal
+20 as described in subdivision (c)(3)(A) of this section.
+21 (4) The Arkansas Fire Training Academy shall be the custodian of
+22 all records on the decertification of firefighters under this subsection.
+23
+24 SECTION 19. Arkansas Code § 25-16-903(22), concerning entities
+25 authorized a spending stipend, is repealed.
+26 (22) Arkansas Fire Protection Licensing Board;
+27
+28 SECTION 20. Arkansas Code § 25-43-1102(a)(2), concerning state
+29 entities transferred to the Department of Labor and Licensing by a cabinet-
+30 level department transfer, is repealed.
+31 (2) The Arkansas Fire Protection Licensing Board, created under
+32 § 20-22-606;
+33
+34
+35
+36
+10 02/05/2025 3:30:01 PM SSS152
+[DELETED:       A L D B  T L C F  B   S L  ( a u i t  ( d b u t  ( d]
+[DELETED: H2 0 s b   ( s b   S p f   ( l P   S t  ( i A f   S " s   (    ( r P    ( t   S " i f   ( f]
+[DELETED: H3 0    ( i t e    ( s a F    S m a    ( a A A E   S v o  ( P d a c v   S i  ( C w P r c]
+[DELETED: H4 0 t   S  2 M  ( w a e    ( r    (    ( a    ( i    ( i    ( r    ( a s    ( a   ( s   ( i    (     (     (     (    (    (    (]
+[DELETED: H5 0 s    ( d  ( a  ( D a c   ( 1 e f  ( i t   ( b   S r  2 P  T S   ( n t    ( i e f    ( h f a]
+[DELETED: H6 0 t o    ( a a p    ( s f s    ( a p i i    ( a s s    ( a a p s   ( i l e s   ( f e s   ( q e]
+[DELETED: H7 0 e d s q   ( t   ( s a p a    ( s s r s     (      ( a S F      ( r b   2  T P a   ( s   ( s   ( o a]
+[DELETED: H8 0   ( p   S a f   ( t S i t   S p f  ( i P b   S p r  ( f f p A B   ( u   (   S  2 p]
+[DELETED: H9 0  N f e p p f o t b t q P   S a  ( b n P   S A s  ( o t   ( s (   S d a   ( f ]
+[DELETED: H1 0  S f  (    ( h    (   ( o f A   ( o s f t A    ( c F a   ( a     S a   (   S e l   ( §]
+
+
+================================================================================
+
+Raw Text:
+Stricken language would be deleted from and underlined language would be added to present law.
+1 State of Arkansas
+A Bill
+2 95th General Assembly
+3 Regular Session, 2025 HOUSE BILL 1425
+4
+5 By: Representative L. Johnson
+6 By: Senator K. Hammer
+7
+For An Act To Be Entitled
+8
+9 AN ACT TO ABOLISH THE ARKANSAS FIRE PROTECTION
+10 LICENSING BOARD; TO AMEND THE LAW CONCERNING THE
+11 DUTIES OF THE ARKANSAS FIRE PROTECTION SERVICES
+12 BOARD; AND FOR OTHER PURPOSES.
+13
+14
+Subtitle
+15
+16 TO ABOLISH THE ARKANSAS FIRE PROTECTION
+17 LICENSING BOARD; AND TO AMEND THE LAW
+18 CONCERNING THE DUTIES OF THE ARKANSAS
+19 FIRE PROTECTION SERVICES BOARD.
+20
+21 BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF ARKANSAS:
+22
+23 SECTION 1. DO NOT CODIFY. Abolition of the Arkansas Fire Protection
+24 Licensing Board.
+25 (a) The Arkansas Fire Protection Licensing Board is abolished, and its
+26 authority, duties, functions, records, contracts, personnel, property, and
+27 unexpended balances of appropriations, allocations, and other funds,
+28 including without limitation the functions of budgeting or purchasing, are
+29 transferred to the Arkansas Fire Protection Services Board.
+30 (b) The Arkansas Fire Protection Licensing Board's statutory powers,
+31 duties, and functions, including without limitation the functions of
+32 budgeting or purchasing, records, contracts, personnel, property, and
+33 unexpended balances of appropriations, allocations, and other funds are
+34 transferred to the Arkansas Fire Protection Services Board.
+35 (c)(1) The abolishment of the Arkansas Fire Protection Licensing Board
+36 does not affect the orders, rules, directives, registration, licensing, or
+*SSS152*
+02/05/2025 3:30:01 PM SSS152
+
+HB1425
+1 standards made or promulgated by the Arkansas Fire Protection Licensing Board
+2 before the effective date of this act.
+3 (2) The orders, rules, directives, registration, licensing, or
+4 standards of the Arkansas Fire Protection Licensing Board shall continue to
+5 be in effect until they are amended or repealed under authority given by law.
+6
+7 SECTION 2. Arkansas Code § 17-40-103(a)(13), concerning exemptions for
+8 private investigators and private security agencies, is amended to read as
+9 follows:
+10 (13) Installation of fixed fire extinguisher systems by persons
+11 licensed by the Arkansas Fire Protection Licensing Board Arkansas Fire
+12 Protection Services Board;
+13
+14 SECTION 3. Arkansas Code § 19-5-1242(c), concerning the creation of
+15 the Fire Protection Licensing Fund, is amended to read as follows:
+16 (c) The fund shall be used for the maintenance, operation, and
+17 improvement as required by the Arkansas Fire Protection Licensing Board
+18 Arkansas Fire Protection Services Board in carrying out the powers,
+19 functions, and duties as set out in § 20-22-601 et seq.
+20
+21 SECTION 4. Arkansas Code § 20-22-602(1), concerning the definition of
+22 "apprentice" as it relates to monitoring the sale, installation, and
+23 servicing of fire extinguishers, is amended to read as follows:
+24 (1) “Apprentice” means a qualified person:
+25 (A) Enrolled as required in an apprenticeship program
+26 recognized by the Arkansas Fire Protection Licensing Board Arkansas Fire
+27 Protection Services Board; and
+28 (B) Who may perform work entitled by the licensee under
+29 the direct supervision of a licensed employee;
+30
+31 SECTION 5. Arkansas Code § 20-22-602(6), concerning the definition of
+32 "fixed fire protection systems" as it relates to monitoring the sale,
+33 installation, and servicing of fire extinguishers, is amended to read as
+34 follows:
+35 (6) “Fixed fire protection systems” means fire extinguisher or
+36 fire suppression systems, including without limitation:
+2 02/05/2025 3:30:01 PM SSS152
+
+HB1425
+1 (A) Fire extinguishing or fire suppression systems
+2 installed to protect the hoods and ductwork of exhaust systems designed for
+3 the removal of smoke and grease-laden vapors from commercial cooking
+4 equipment; and
+5 (B) Listed or approved fire protection systems or
+6 suppression systems installed and maintained according to the standards
+7 adopted in the rules of the Arkansas Fire Protection Licensing Board Arkansas
+8 Fire Protection Services Board;
+9
+10 SECTION 6. Arkansas Code § 20-22-603(5)(B), concerning exceptions to
+11 monitoring the sale, installation, and servicing of fire extinguishers, is
+12 amended to read as follows:
+13 (B) All work is performed according to the standards
+14 adopted and the rules of the Arkansas Fire Protection Licensing Board
+15 Arkansas Fire Protection Services Board and the National Fire Protection
+16 Association pamphlet number ten (No. 10): Standard for Portable Fire
+17 Extinguishers;
+18
+19 SECTION 7. Arkansas Code § 20-22-604(a), concerning penalties for
+20 violations of law regarding monitoring the sale, installation, and servicing
+21 of fire extinguishers, is amended to read as follows:
+22 (a) The Arkansas Fire Protection Licensing Board Arkansas Fire
+23 Protection Services Board, in a lawful proceeding respecting licensing as
+24 defined in the Arkansas Administrative Procedure Act, § 25-15-201 et seq., in
+25 addition to or in lieu of any other lawful disciplinary action, may assess a
+26 civil penalty of not more than one thousand dollars ($1,000) for each
+27 violation of any statute, rule, or order enforceable by the board.
+28
+29 SECTION 8. Arkansas Code § 20-22-605(a), concerning reports and
+30 investigations of fire extinguishers, is amended to read as follows:
+31 (a) The Division of Occupational and Professional Licensing Boards and
+32 Commissions and other state and local agencies and officers may cooperate
+33 with and assist the Arkansas Fire Protection Licensing Board Arkansas Fire
+34 Protection Services Board in administering and enforcing this subchapter by
+35 reporting to the board any violations of this subchapter or any failure to
+36 comply with this subchapter or the policies adopted by the board pursuant to
+3 02/05/2025 3:30:01 PM SSS152
+
+HB1425
+1 the authority granted in this subchapter.
+2
+3 SECTION 9. Arkansas Code § 20-22-606 is repealed.
+4 20-22-606. Arkansas Fire Protection Licensing Board — Creation —
+5 Members.
+6 (a)(1) There is created the Arkansas Fire Protection Licensing Board,
+7 which shall be composed of eleven (11) members who are residents of the state
+8 and who shall be appointed by the Governor for terms of five (5) years. The
+9 eleven (11) members shall be constituted as follows:
+10 (A) One (1) member shall be an industrial safety
+11 representative;
+12 (B) One (1) member shall be the State Fire Marshal;
+13 (C) One (1) member shall be a representative of a state
+14 association of fire chiefs;
+15 (D) One (1) member shall be a representative of the fire
+16 insurance industry;
+17 (E) Two (2) members shall be representatives of large
+18 industrial users of fire suppression equipment;
+19 (F) One (1) member shall be a representative of a
+20 restaurant association;
+21 (G) Two (2) members shall be active in the installation
+22 and servicing of portable fire extinguishers or fixed fire protection
+23 systems; and
+24 (H) Two (2) members shall be active in the installation
+25 and servicing of fire protection sprinkler systems.
+26 (2) Each of the four (4) congressional districts in the state
+27 shall be represented by at least one (1) member.
+28 (3) Each of the members shall be experienced and knowledgeable
+29 in one (1) or more of the following areas:
+30 (A) The installation or servicing of:
+31 (i) Portable fire extinguishers;
+32 (ii) Fixed fire protection systems; and
+33 (iii) Fire protection sprinkler systems;
+34 (B) The manufacturing of fire suppression equipment;
+35 (C) The fire insurance industry;
+36 (D) The use of fire suppression equipment by the food
+4 02/05/2025 3:30:01 PM SSS152
+
+HB1425
+1 service industry; or
+2 (E) The provision of fire suppression services by a fire
+3 department.
+4 (b) Each member may receive expense reimbursement and stipends in
+5 accordance with § 25-16-901 et seq.
+6 (c)(1) The board may expend moneys as necessary to reimburse the
+7 Department of Labor and Licensing for stationery, office supplies,
+8 application forms, equipment, and other materials necessary for the board to
+9 carry out its duties.
+10 (2) The expense reimbursement and stipends authorized by § 25-
+11 16-901 et seq. and the expense for necessary office supplies, forms,
+12 equipment, and other necessary materials shall be paid from the fees and
+13 fines collected by the board.
+14 (d)(1) The board shall employ an executive director, chief board
+15 investigator, and other staff as necessary whose compensation shall be set by
+16 the board.
+17 (2) The staff shall be paid from fees and fines collected by the
+18 board.
+19
+20 SECTION 10. Arkansas Code §§ 20-22-607 and 20-22-608 are amended to
+21 read as follows:
+22 20-22-607. Arkansas Fire Protection Licensing Board Arkansas Fire
+23 Protection Services Board — Powers and duties.
+24 The Arkansas Fire Protection Licensing Board Arkansas Fire Protection
+25 Services Board shall:
+26 (1) Formulate and administer policies as may be determined
+27 necessary for the protection and preservation of life and property in regard
+28 to:
+29 (A) The registration of firms engaging in the business of
+30 installing, inspecting, or servicing portable fire extinguishers and of firms
+31 engaging or in the business of installing, inspecting, and servicing fixed
+32 fire protection systems;
+33 (B) The registration of firms engaging in the business of
+34 hydrostatic testing of portable fire extinguishers. However, no person or
+35 firm shall be granted a Class A hydrostatic testing certificate until the
+36 applicant submits proof satisfactory to the board that the test equipment of
+5 02/05/2025 3:30:01 PM SSS152
+
+HB1425
+1 the applicant has been tested and certified by the United States Department
+2 of Transportation;
+3 (C) The examination and licensure of persons applying for
+4 a license to install, inspect, or service portable fire extinguishers and of
+5 a person applying for a license to install, inspect, or service fixed fire
+6 protection systems;
+7 (D) The registration of firms engaging in the business of
+8 selling, system layout, installing, servicing, inspecting, or any aspect of
+9 fire protection sprinkler systems, including standpipe, fire pumps, and hose
+10 systems;
+11 (E) The examination and licensure of a person applying for
+12 a license as a responsible managing employee for the purpose of fire
+13 protection sprinkler system business, including designing, inspecting,
+14 installing, system layout, or servicing fire protection sprinkler systems,
+15 including standpipe, fire pumps, and hose systems;
+16 (F) The examination and licensure of a person applying for
+17 a license as a fire protection sprinkler systems inspector for the purpose of
+18 servicing or inspecting fire protection sprinkler systems, including
+19 standpipe, fire pumps, and hose systems; and
+20 (G) The examination and licensure of a person applying for
+21 a license as a fire protection sprinkler system sprinkler fitter or
+22 apprentice for the purpose of installing, servicing, or placing fire
+23 protection sprinkler systems in service, including without limitation
+24 standpipe, fire pumps, and hose systems;
+25 (2) Establish reasonable qualifications for firms and
+26 individuals for the issuance of a certificate of registration or individual
+27 license to engage in any aspect of the business of portable fire
+28 extinguishers, fixed fire protection systems, or fire protection sprinkler
+29 systems;
+30 (3) Conduct examinations to ascertain the qualifications and
+31 fitness of individual applicants to install or service portable fire
+32 extinguishers, install or service fixed fire protection systems, or install,
+33 service, inspect, or design fire protection sprinkler systems;
+34 (4) Issue certificates of registration for those firms that
+35 qualify and individual licenses and permits to individuals that qualify to
+36 engage in the business and activity of installing and servicing portable fire
+6 02/05/2025 3:30:01 PM SSS152
+
+HB1425
+1 extinguishers, installing and servicing fixed fire protection systems, and
+2 designing, installing, inspecting, or servicing fire protection sprinkler
+3 systems and issue licenses or permits to those firms and individuals
+4 qualifying to perform hydrostatic testing of fire extinguisher cylinders;
+5 (5) Evaluate the qualifications of firms seeking approval as
+6 testing laboratories for portable fire extinguishers; and
+7 (6)(A) Regulate and license as a part of a fire protection
+8 sprinkler system the installation, service, and maintenance of a standpipe
+9 and hose system as defined under the National Fire Protection Association
+10 pamphlet number fourteen (No. 14): Standard for the Installation of Standpipe
+11 and Hose Systems.
+12 (B)(i) The installation, service, and maintenance of a
+13 standpipe and hose system shall be performed by a licensed fire protection
+14 sprinkler contractor. A licensed fire protection sprinkler contractor is not
+15 required to perform hydrostatic testing of the standpipe hose, repair of the
+16 standpipe hose, or maintenance of the standpipe hose.
+17 (ii) The standpipe and hose system shall be:
+18 (a) Designed, installed, and tested in
+19 accordance with the standards adopted in the Rules and Regulations for
+20 Sprinkler Systems of the board and in accordance with the applicable National
+21 Fire Protection Association pamphlets; and
+22 (b) Designed by an Arkansas-licensed
+23 responsible managing employee or a registered professional engineer licensed
+24 by the State of Arkansas.
+25
+26 20-22-608. State Fire Marshal — Powers and duties.
+27 The State Fire Marshal shall advise and assist the Arkansas Fire
+28 Protection Licensing Board Arkansas Fire Protection Services Board in the
+29 adoption of policies and procedures for the:
+30 (1) Effective monitoring of the sale, installation, and
+31 servicing of portable fire extinguishers;
+32 (2) Sale, installation, and servicing of fixed fire protection
+33 systems;
+34 (3) Design, installation, inspection, servicing, and maintenance
+35 of fire protection sprinkler systems, including standpipe and hose systems;
+36 and
+7 02/05/2025 3:30:01 PM SSS152
+
+HB1425
+1 (4) Registration and licensing of firms and individuals
+2 providing these goods and services.
+3
+4 SECTION 11. Arkansas Code § 20-22-609(8), concerning prohibited
+5 actions by a person in relation to fire extinguishers, is amended to read as
+6 follows:
+7 (8) Engage in any business or activity licensed or permitted by
+8 the Arkansas Fire Protection Licensing Board Arkansas Fire Protection
+9 Services Board without maintaining in force at all times a public liability
+10 insurance policy, with minimum coverage limits as set by the board, covering
+11 the person's operations and completed operations.
+12
+13 SECTION 12. Arkansas Code § 20-22-610(a), concerning the license,
+14 permit, and certificate fees for fire extinguishers, is amended to read as
+15 follows:
+16 (a) Applications for licenses, permits, and certificates provided for
+17 in this section shall be made under policies adopted by the Arkansas Fire
+18 Protection Licensing Board Arkansas Fire Protection Services Board and shall
+19 be submitted on forms prescribed by the board.
+20
+21 SECTION 13. Arkansas Code § 20-22-611(a), concerning the license,
+22 permit, and certificate qualifications for fire extinguishers, is amended to
+23 read as follows:
+24 (a) For a license to install or service portable fire extinguishers,
+25 for a license to sell, install, or service fixed fire protection systems, or
+26 for a license to conduct any fire protection sprinkler system business, a
+27 person employed by a certified firm shall obtain a license issued by the
+28 Arkansas Fire Protection Licensing Board Arkansas Fire Protection Services
+29 Board after:
+30 (1) Successful completion of the requirements for licensure
+31 under rules of the board; and
+32 (2) Payment of fees established under rules of the board.
+33
+34 SECTION 14. Arkansas Code § 20-22-612 is amended to read as follows:
+35 20-22-612. License, permit, or certificate — Previously engaged
+36 persons.
+8 02/05/2025 3:30:01 PM SSS152
+
+HB1425
+1 Notwithstanding the provisions of this subchapter, if any person or
+2 firm engaged in the business on January 1, 1977, of servicing portable fire
+3 extinguishers, installing or servicing fixed fire protection systems, or
+4 performing hydrostatic testing of fire extinguishers derived twenty-five
+5 percent (25%) or more of the personal or firm income from servicing portable
+6 fire extinguishers or installing or servicing fixed fire protection systems
+7 or hydrostatic testing of fire extinguishers during the 1976 calendar year,
+8 the person or firm shall be registered or issued a license to continue in the
+9 business upon payment of the annual registration or license fee prescribed in
+10 this subchapter for the particular type of business, if the applicant's
+11 qualifications meet those requirements established by the Arkansas Fire
+12 Protection Licensing Board Arkansas Fire Protection Services Board.
+13
+14 SECTION 15. Arkansas Code § 20-22-613(a), concerning limitation of
+15 actions for fire extinguishers, is amended to read as follows:
+16 (a) No portable fire extinguisher or fixed fire protection system may
+17 be sold or installed in this state unless it carries a label of approval of a
+18 nationally recognized testing laboratory approved by the Arkansas Fire
+19 Protection Licensing Board Arkansas Fire Protection Services Board.
+20
+21 SECTION 16. Arkansas Code § 20-22-803, concerning membership of the
+22 Arkansas Fire Protection Services Board, is amended to add an additional
+23 subsection to read as follows:
+24 (e)(1) A member who fails to attend regular meetings continuously for
+25 one (1) year may be removed from his or her position by a majority vote of
+26 the remaining members of the board.
+27 (2) Upon removal of a member under subdivision (e)(1) of this
+28 section, the position is vacant and shall be filled as provided in subsection
+29 (c) of this section.
+30
+31 SECTION 17. Arkansas Code § 20-22-804(a), concerning the powers and
+32 duties of the Arkansas Fire Protection Services Board, is amended to add an
+33 additional subdivision to read as follows:
+34 (20) Oversee administration of rules and registration concerning
+35 fire extinguishers as described in § 20-22-607.
+36
+9 02/05/2025 3:30:01 PM SSS152
+
+HB1425
+1 SECTION 18. Arkansas Code § 20-22-804(c), concerning revocation of a
+2 firefighter's certification, is amended to read as follows:
+3 (c)(1) The Arkansas Fire Protection Services Board may:
+4 (A) revoke Revoke the certification of any firefighter who
+5 has been convicted of a felony under § 17-3-102; and
+6 (B) Suspend the certification of a firefighter.
+7 (2) Before the Arkansas Fire Protection Services Board revokes
+8 or suspends the certification of a firefighter under this subsection, the
+9 firefighter may request a hearing in accordance with the Arkansas
+10 Administrative Procedure Act, § 25-15-201 et seq.
+11 (3)(A) If Except as otherwise provided in subdivision (c)(3)(B)
+12 of this section, if the Arkansas Fire Protection Services Board revokes or
+13 suspends the firefighter's certification under this subsection, the
+14 firefighter may appeal the Arkansas Fire Protection Services Board's decision
+15 to the Pulaski County Circuit Court in accordance with the Arkansas
+16 Administrative Procedure Act, § 25-15-201 et seq.
+17 (B) If a hearing is not requested by the firefighter whose
+18 certification is under review for suspension, the decision of the Arkansas
+19 Fire Protection Services Board shall be final and is not eligible for appeal
+20 as described in subdivision (c)(3)(A) of this section.
+21 (4) The Arkansas Fire Training Academy shall be the custodian of
+22 all records on the decertification of firefighters under this subsection.
+23
+24 SECTION 19. Arkansas Code § 25-16-903(22), concerning entities
+25 authorized a spending stipend, is repealed.
+26 (22) Arkansas Fire Protection Licensing Board;
+27
+28 SECTION 20. Arkansas Code § 25-43-1102(a)(2), concerning state
+29 entities transferred to the Department of Labor and Licensing by a cabinet-
+30 level department transfer, is repealed.
+31 (2) The Arkansas Fire Protection Licensing Board, created under
+32 § 20-22-606;
+33
+34
+35
+36
+10 02/05/2025 3:30:01 PM SSS152
+
+[DELETED:       A L D B  T L C F  B   S L  ( a u i t  ( d b u t  ( d]
+[DELETED: H2 0 s b   ( s b   S p f   ( l P   S t  ( i A f   S " s   (    ( r P    ( t   S " i f   ( f]
+[DELETED: H3 0    ( i t e    ( s a F    S m a    ( a A A E   S v o  ( P d a c v   S i  ( C w P r c]
+[DELETED: H4 0 t   S  2 M  ( w a e    ( r    (    ( a    ( i    ( i    ( r    ( a s    ( a   ( s   ( i    (     (     (     (    (    (    (]
+[DELETED: H5 0 s    ( d  ( a  ( D a c   ( 1 e f  ( i t   ( b   S r  2 P  T S   ( n t    ( i e f    ( h f a]
+[DELETED: H6 0 t o    ( a a p    ( s f s    ( a p i i    ( a s s    ( a a p s   ( i l e s   ( f e s   ( q e]
+[DELETED: H7 0 e d s q   ( t   ( s a p a    ( s s r s     (      ( a S F      ( r b   2  T P a   ( s   ( s   ( o a]
+[DELETED: H8 0   ( p   S a f   ( t S i t   S p f  ( i P b   S p r  ( f f p A B   ( u   (   S  2 p]
+[DELETED: H9 0  N f e p p f o t b t q P   S a  ( b n P   S A s  ( o t   ( s (   S d a   ( f ]
+[DELETED: H1 0  S f  (    ( h    (   ( o f A   ( o s f t A    ( c F a   ( a     S a   (   S e l   ( §]

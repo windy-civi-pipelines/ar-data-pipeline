@@ -1,0 +1,496 @@
+Title: Stricken language would be deleted from and underlined language would be added to present law.
+Official Title: Stricken language would be deleted from and underlined language would be added to present law.
+Number of Sections: 1
+Source: versions - SB 429
+Media Type: application/pdf
+Strikethrough Detection: 6 sections found
+
+================================================================================
+
+Section 1:
+1 State of Arkansas
+A Bill
+2 95th General Assembly
+3 Regular Session, 2025 SENATE BILL 429
+4
+5 By: Senator J. Bryant
+6 By: Representative Joey Carr
+7
+For An Act To Be Entitled
+8
+9 AN ACT AMENDING CERTAIN LAWS FOR THE PROTECTION OF
+10 HUMAN TRAFFICKING VICTIMS; TO PROVIDE THAT HUMAN
+11 TRAFFICKING VICTIMS HAVE CERTAIN RIGHTS; TO AMEND THE
+12 COMPREHENSIVE CRIMINAL RECORD SEALING ACT OF 2013 TO
+13 EXPAND THE SEALING OF CRIMINAL RECORDS OF VICTIMS OF
+14 HUMAN TRAFFICKING; TO PROVIDE THAT A NO-CONTACT ORDER
+15 IS MANDATORY FOR HUMAN TRAFFICKING OFFENSE; AND FOR
+16 OTHER PURPOSES.
+17
+18
+Subtitle
+19
+20 TO EXPAND THE SEALING OF CRIMINAL
+21 RECORDS FOR VICTIMS OF HUMAN
+22 TRAFFICKING; TO PROVIDE THAT VICTIMS OF
+23 HUMAN TRAFFICKING HAVE CERTAIN RIGHTS;
+24 AND TO PROVIDE A MANDATORY NO-CONTACT
+25 ORDER IN A HUMAN TRAFFICKING CASE.
+26
+27 BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF ARKANSAS:
+28
+29 SECTION 1. Arkansas Code § 16-85-714(b)(1), concerning when a no
+30 contact order is issued in a criminal case, is amended to read as follows:
+31 (b)(1)(A) A court may issue a no contact order under this section in
+32 addition to any other condition of release from custody that is imposed by
+33 the court if:
+34 (A)(i) The defendant is charged with one (1) or more
+35 of the following offenses:
+36 (i)(a) Terroristic threatening, § 5-13-301; or
+*CEB071*
+03/11/2025 1:13:29 PM CEB071
+SB429
+1 (ii) Trafficking of persons, § 5-18-103; or
+2 (iii)(b) False imprisonment in the first
+3 degree, § 5-11-103; or
+4 (B)(ii) It appears that there exists a danger that a
+5 defendant will:
+6 (i)(a) Commit a serious crime;
+7 (ii)(b) Seek to intimidate a witness; or
+8 (iii)(c) Otherwise unlawfully interfere with
+9 the orderly administration of justice.
+10 (B) The court shall issue a no contact order under this
+11 section in addition to any other condition of release from custody that is
+12 imposed by the court if the defendant is charged with an offense under the
+13 Human Trafficking Act of 2013, § 5-18-101 et seq.
+14
+15 SECTION 2. Arkansas Code § 16-90-1101 is amended to read as follows:
+16 16-90-1101. Definitions.
+17 As used in this subchapter:
+18 (1) “Crime” means an act or omission committed by a person,
+19 whether or not competent or an adult, which is punishable by incarceration if
+20 committed by a competent adult;
+21 (2) "Human trafficking offense" means an offense under the Human
+22 Trafficking Act of 2013, § 5-18-101 et seq.;
+23 (2)(3) “Member of the victim's family” means the spouse, a child
+24 by birth or adoption, a stepchild, a parent, a stepparent, a sibling, or an
+25 individual designated by the victim or by a court in which the crime is being
+26 or could be prosecuted, but does not include an individual who is accountable
+27 for the crime or a crime arising from the same conduct, criminal episode, or
+28 plan;
+29 (3)(4) “Offense against a victim who is a minor” means:
+30 (A) Kidnapping pursuant to § 5-11-102(a)(4) when the
+31 victim is a minor and the offender is not the parent of the victim;
+32 (B) False imprisonment in the first degree pursuant to §
+33 5-11-103 when the victim is a minor and the offender is not the parent of the
+34 victim;
+35 (C) Permanent detention or restraint pursuant to § 5-11-
+36 106 when the victim is a minor and the offender is not the parent of the
+2 03/11/2025 1:13:29 PM CEB071
+SB429
+1 victim;
+2 (D) Any sex offense when the victim is a minor;
+3 (E) Any human trafficking offense when the victim is a
+4 minor;
+5 (E)(F) An attempt, solicitation, or conspiracy to commit
+6 any of the offenses enumerated in this subdivision (3)(4);
+7 (F)(G) An adjudication of guilt for an offense of the law
+8 of another state, for a federal offense, or for a military offense, which is
+9 substantially equivalent to any of the offenses enumerated in this
+10 subdivision (3)(4); or
+11 (G)(H) A violation of any former law of this state that is
+12 substantially equivalent to any of the offenses enumerated in this
+13 subdivision (3)(4);
+14 (4)(5) “Person” means an individual, corporation, estate, trust,
+15 partnership, association, joint venture, governmental entity, agency, or
+16 instrumentality, or any other legal entity;
+17 (5)(6) “Representative of the victim” means a member of the
+18 victim's family or an individual designated by the victim or by a court in
+19 which the crime is being or could be prosecuted;
+20 (6)(7) “Sex offense” means:
+21 (A) Rape, § 5-14-103;
+22 (B) Sexual indecency with a child, § 5-14-110, if the
+23 offense is a felony;
+24 (C) Sexual assault in the first degree, § 5-14-124;
+25 (D) Sexual assault in the second degree, § 5-14-125;
+26 (E) Sexual assault in the third degree, § 5-14-126;
+27 (F) Sexual assault in the fourth degree, § 5-14-127;
+28 (G) Incest, § 5-26-202;
+29 (H) Engaging children in sexually explicit conduct for use
+30 in visual or print medium, § 5-27-303;
+31 (I) Transportation of minors for prohibited sexual
+32 conduct, § 5-27-305;
+33 (J) Employing or consenting to use of a child in sexual
+34 performance, § 5-27-402;
+35 (K) Producing, directing, or promoting a sexual
+36 performance by a child, § 5-27-403;
+3 03/11/2025 1:13:29 PM CEB071
+SB429
+1 (L) Possession or use of child sexual abuse material, § 5-
+2 27-603;
+3 (M) Computer exploitation of a child in the first degree,
+4 § 5-27-605(a);
+5 (N) Promoting prostitution in the first degree, § 5-70-
+6 104;
+7 (O) Stalking, § 5-71-229;
+8 (P) An attempt, solicitation, or conspiracy to commit any
+9 of the offenses enumerated in this subdivision (6)(7);
+10 (Q) An adjudication of guilt for an offense of the law of
+11 another state, for a federal offense, or for a military offense, which is
+12 substantially equivalent to any of the offenses enumerated in this
+13 subdivision (6)(7);
+14 (R) A violation of any former law of this state that is
+15 substantially equivalent to any of the offenses enumerated in this
+16 subdivision (6)(7); or
+17 (S) Sexual extortion, § 5-14-113;
+18 (7)(8) “State” means a state of the United States, the District
+19 of Columbia, the Commonwealth of Puerto Rico, or any territory or insular
+20 possession subject to the jurisdiction of the United States;
+21 (8)(9)(A) “Victim” means a victim of a:
+22 (i) A sex offense;
+23 (ii) or an An offense against a victim who is a
+24 minor;
+25 (iii) and a victim of any A violent crime, but; or
+26 (iv) A human trafficking offense.
+27 (B) "Victim" does not include a:
+28 (i) person Person who is accountable for the crime or
+29 a crime arising from the same conduct, criminal episode, or plan; or and does
+30 not include a governmental
+31 (ii) Governmental entity; and
+32 (9)(10) “Violent crime” means any felony or Class A misdemeanor
+33 which resulted in physical injury to the victim, any felony or Class A
+34 misdemeanor involving the use of a deadly weapon, terroristic threatening in
+35 the first degree, § 5-13-301(a), and stalking, as defined in § 5-71-229.
+36
+4 03/11/2025 1:13:29 PM CEB071
+SB429
+1 SECTION 3. Arkansas Code § 16-90-1412 is amended to read as follows:
+2 16-90-1412. Sealing certain convictions for victims of human
+3 trafficking — Definition.
+4 (a) As used in this section,:
+5 (1) "Minor" means a person younger than eighteen (18) years of
+6 age; and
+7 (2) “victim Victim of human trafficking” means a person who has
+8 been subjected to trafficking of persons, § 5-18-103, or any former law of
+9 this state, law of another state, or federal law that is substantially
+10 similar.
+11 (b)(1) A person convicted of prostitution, § 5-70-102, may file a
+12 uniform petition to seal the a conviction under this section if it :
+13 (A) The conviction was obtained as a result of the
+14 person's having been a victim of human trafficking at the time of the
+15 offense; and
+16 (B) The person was:
+17 (i) A minor when the offense was committed; or
+18 (ii) Eighteen (18) years of age or older when the
+19 offense was committed and the conviction was for the offense of prostitution,
+20 § 5-70-102.
+21 (2) A uniform petition under this section may be filed at any
+22 time and may be filed for a conviction imposed at any time.
+23 (c) The court shall grant the uniform petition under this section if
+24 it finds by a preponderance of the evidence that:
+25 (1) The petitioner was: convicted
+26 (A) Convicted of prostitution, § 5-70-102, and the offense
+27 was committed when the petitioner was eighteen (18) years of age or older;
+28 and or
+29 (B) A minor when the offense was committed; and
+30 (2)(A) The conviction was obtained as a result of the
+31 petitioner's having been a victim of human trafficking at the time of the
+32 offense.
+33 (B) A finding concerning the affirmative defense under §
+34 5-2-210 does not affect a finding under subdivision (c)(2)(A) of this
+35 section, and the petitioner is not required to have raised the affirmative
+36 defense under § 5-2-210.
+5 03/11/2025 1:13:29 PM CEB071
+SB429
+1 (d) If the uniform petition under this section is granted, the court
+2 shall:
+3 (1) Issue a uniform order to seal the conviction; and
+4 (2) With respect to the conviction for prostitution, § 5-70-102,
+5 redact the petitioner's name from all records and files related to the
+6 petitioner's:
+7 (A) Arrest;
+8 (B) Citation;
+9 (C) Criminal investigation;
+10 (D) Criminal charge;
+11 (E) Adjudication of guilt;
+12 (F) Criminal proceedings; and
+13 (G) Probation for the offense.
+14 (e)(1) Official documentation by a federal, state, or local government
+15 agency verifying that at the time of the conviction for prostitution, § 5-70-
+16 102 offense, the petitioner was a victim of human trafficking creates a
+17 presumption under this section that the person's prostitution conviction was
+18 obtained as a result of having been a victim of human trafficking at the time
+19 of the offense.
+20 (2) Documentation under this subsection is not required to grant
+21 a petition under this section.
+22 (3) Documentation under this subsection may include without
+23 limitation:
+24 (A) Certified records of federal or state court
+25 proceedings that demonstrate that the defendant was a victim of a trafficker
+26 charged with a trafficking offense under state law or the Victims of
+27 Trafficking and Violence Protection Act of 2000, 22 U.S.C. § 7101 et seq., as
+28 it existed on January 1, 2013; or
+29 (B) Certified records of “approval notices” or “law
+30 enforcement certifications” generated from federal immigration proceedings
+31 available to victims of human trafficking.
+32
+33
+34
+35
+36
+6 03/11/2025 1:13:29 PM CEB071
+[DELETED:       A H T C E H I O  T R T H A O  B   S c  ( a t     ( o      (]
+[DELETED: S2 0      (      ( d     ( d      (      (      ( t    ( s i H   S  1  A   ( w c   ( T   ( b i o f p   (    ( v    ( 5 v    ( 1]
+[DELETED: S3 0 v    (    ( m    ( a    ( o s s    ( s s   ( p i   ( v w   (    (    ( o    (    (    (    (    (    ( i    ( c    ( p    ( p]
+[DELETED: S4 0    ( 2    ( §    ( 1    (    ( o    ( a s s    ( s s    (   ( o p   (     (     ( m     (     (    (     ( a n     (   ( w m t ]
+[DELETED: S5 0  S  1 t  (   ( a   ( b t s  ( u    ( p o    (     (     ( o §   ( t  ( i   (    ( w a    (   ( p o    ( 5 s d]
+[DELETED: S6 0  ( s   (   ( r p    (    (    (    (    (    (    (  ( a 1 p o o   ( a   ( l    ( p c T i    ( e a]
+
+
+================================================================================
+
+Raw Text:
+Stricken language would be deleted from and underlined language would be added to present law.
+1 State of Arkansas
+A Bill
+2 95th General Assembly
+3 Regular Session, 2025 SENATE BILL 429
+4
+5 By: Senator J. Bryant
+6 By: Representative Joey Carr
+7
+For An Act To Be Entitled
+8
+9 AN ACT AMENDING CERTAIN LAWS FOR THE PROTECTION OF
+10 HUMAN TRAFFICKING VICTIMS; TO PROVIDE THAT HUMAN
+11 TRAFFICKING VICTIMS HAVE CERTAIN RIGHTS; TO AMEND THE
+12 COMPREHENSIVE CRIMINAL RECORD SEALING ACT OF 2013 TO
+13 EXPAND THE SEALING OF CRIMINAL RECORDS OF VICTIMS OF
+14 HUMAN TRAFFICKING; TO PROVIDE THAT A NO-CONTACT ORDER
+15 IS MANDATORY FOR HUMAN TRAFFICKING OFFENSE; AND FOR
+16 OTHER PURPOSES.
+17
+18
+Subtitle
+19
+20 TO EXPAND THE SEALING OF CRIMINAL
+21 RECORDS FOR VICTIMS OF HUMAN
+22 TRAFFICKING; TO PROVIDE THAT VICTIMS OF
+23 HUMAN TRAFFICKING HAVE CERTAIN RIGHTS;
+24 AND TO PROVIDE A MANDATORY NO-CONTACT
+25 ORDER IN A HUMAN TRAFFICKING CASE.
+26
+27 BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF ARKANSAS:
+28
+29 SECTION 1. Arkansas Code § 16-85-714(b)(1), concerning when a no
+30 contact order is issued in a criminal case, is amended to read as follows:
+31 (b)(1)(A) A court may issue a no contact order under this section in
+32 addition to any other condition of release from custody that is imposed by
+33 the court if:
+34 (A)(i) The defendant is charged with one (1) or more
+35 of the following offenses:
+36 (i)(a) Terroristic threatening, § 5-13-301; or
+*CEB071*
+03/11/2025 1:13:29 PM CEB071
+
+SB429
+1 (ii) Trafficking of persons, § 5-18-103; or
+2 (iii)(b) False imprisonment in the first
+3 degree, § 5-11-103; or
+4 (B)(ii) It appears that there exists a danger that a
+5 defendant will:
+6 (i)(a) Commit a serious crime;
+7 (ii)(b) Seek to intimidate a witness; or
+8 (iii)(c) Otherwise unlawfully interfere with
+9 the orderly administration of justice.
+10 (B) The court shall issue a no contact order under this
+11 section in addition to any other condition of release from custody that is
+12 imposed by the court if the defendant is charged with an offense under the
+13 Human Trafficking Act of 2013, § 5-18-101 et seq.
+14
+15 SECTION 2. Arkansas Code § 16-90-1101 is amended to read as follows:
+16 16-90-1101. Definitions.
+17 As used in this subchapter:
+18 (1) “Crime” means an act or omission committed by a person,
+19 whether or not competent or an adult, which is punishable by incarceration if
+20 committed by a competent adult;
+21 (2) "Human trafficking offense" means an offense under the Human
+22 Trafficking Act of 2013, § 5-18-101 et seq.;
+23 (2)(3) “Member of the victim's family” means the spouse, a child
+24 by birth or adoption, a stepchild, a parent, a stepparent, a sibling, or an
+25 individual designated by the victim or by a court in which the crime is being
+26 or could be prosecuted, but does not include an individual who is accountable
+27 for the crime or a crime arising from the same conduct, criminal episode, or
+28 plan;
+29 (3)(4) “Offense against a victim who is a minor” means:
+30 (A) Kidnapping pursuant to § 5-11-102(a)(4) when the
+31 victim is a minor and the offender is not the parent of the victim;
+32 (B) False imprisonment in the first degree pursuant to §
+33 5-11-103 when the victim is a minor and the offender is not the parent of the
+34 victim;
+35 (C) Permanent detention or restraint pursuant to § 5-11-
+36 106 when the victim is a minor and the offender is not the parent of the
+2 03/11/2025 1:13:29 PM CEB071
+
+SB429
+1 victim;
+2 (D) Any sex offense when the victim is a minor;
+3 (E) Any human trafficking offense when the victim is a
+4 minor;
+5 (E)(F) An attempt, solicitation, or conspiracy to commit
+6 any of the offenses enumerated in this subdivision (3)(4);
+7 (F)(G) An adjudication of guilt for an offense of the law
+8 of another state, for a federal offense, or for a military offense, which is
+9 substantially equivalent to any of the offenses enumerated in this
+10 subdivision (3)(4); or
+11 (G)(H) A violation of any former law of this state that is
+12 substantially equivalent to any of the offenses enumerated in this
+13 subdivision (3)(4);
+14 (4)(5) “Person” means an individual, corporation, estate, trust,
+15 partnership, association, joint venture, governmental entity, agency, or
+16 instrumentality, or any other legal entity;
+17 (5)(6) “Representative of the victim” means a member of the
+18 victim's family or an individual designated by the victim or by a court in
+19 which the crime is being or could be prosecuted;
+20 (6)(7) “Sex offense” means:
+21 (A) Rape, § 5-14-103;
+22 (B) Sexual indecency with a child, § 5-14-110, if the
+23 offense is a felony;
+24 (C) Sexual assault in the first degree, § 5-14-124;
+25 (D) Sexual assault in the second degree, § 5-14-125;
+26 (E) Sexual assault in the third degree, § 5-14-126;
+27 (F) Sexual assault in the fourth degree, § 5-14-127;
+28 (G) Incest, § 5-26-202;
+29 (H) Engaging children in sexually explicit conduct for use
+30 in visual or print medium, § 5-27-303;
+31 (I) Transportation of minors for prohibited sexual
+32 conduct, § 5-27-305;
+33 (J) Employing or consenting to use of a child in sexual
+34 performance, § 5-27-402;
+35 (K) Producing, directing, or promoting a sexual
+36 performance by a child, § 5-27-403;
+3 03/11/2025 1:13:29 PM CEB071
+
+SB429
+1 (L) Possession or use of child sexual abuse material, § 5-
+2 27-603;
+3 (M) Computer exploitation of a child in the first degree,
+4 § 5-27-605(a);
+5 (N) Promoting prostitution in the first degree, § 5-70-
+6 104;
+7 (O) Stalking, § 5-71-229;
+8 (P) An attempt, solicitation, or conspiracy to commit any
+9 of the offenses enumerated in this subdivision (6)(7);
+10 (Q) An adjudication of guilt for an offense of the law of
+11 another state, for a federal offense, or for a military offense, which is
+12 substantially equivalent to any of the offenses enumerated in this
+13 subdivision (6)(7);
+14 (R) A violation of any former law of this state that is
+15 substantially equivalent to any of the offenses enumerated in this
+16 subdivision (6)(7); or
+17 (S) Sexual extortion, § 5-14-113;
+18 (7)(8) “State” means a state of the United States, the District
+19 of Columbia, the Commonwealth of Puerto Rico, or any territory or insular
+20 possession subject to the jurisdiction of the United States;
+21 (8)(9)(A) “Victim” means a victim of a:
+22 (i) A sex offense;
+23 (ii) or an An offense against a victim who is a
+24 minor;
+25 (iii) and a victim of any A violent crime, but; or
+26 (iv) A human trafficking offense.
+27 (B) "Victim" does not include a:
+28 (i) person Person who is accountable for the crime or
+29 a crime arising from the same conduct, criminal episode, or plan; or and does
+30 not include a governmental
+31 (ii) Governmental entity; and
+32 (9)(10) “Violent crime” means any felony or Class A misdemeanor
+33 which resulted in physical injury to the victim, any felony or Class A
+34 misdemeanor involving the use of a deadly weapon, terroristic threatening in
+35 the first degree, § 5-13-301(a), and stalking, as defined in § 5-71-229.
+36
+4 03/11/2025 1:13:29 PM CEB071
+
+SB429
+1 SECTION 3. Arkansas Code § 16-90-1412 is amended to read as follows:
+2 16-90-1412. Sealing certain convictions for victims of human
+3 trafficking — Definition.
+4 (a) As used in this section,:
+5 (1) "Minor" means a person younger than eighteen (18) years of
+6 age; and
+7 (2) “victim Victim of human trafficking” means a person who has
+8 been subjected to trafficking of persons, § 5-18-103, or any former law of
+9 this state, law of another state, or federal law that is substantially
+10 similar.
+11 (b)(1) A person convicted of prostitution, § 5-70-102, may file a
+12 uniform petition to seal the a conviction under this section if it :
+13 (A) The conviction was obtained as a result of the
+14 person's having been a victim of human trafficking at the time of the
+15 offense; and
+16 (B) The person was:
+17 (i) A minor when the offense was committed; or
+18 (ii) Eighteen (18) years of age or older when the
+19 offense was committed and the conviction was for the offense of prostitution,
+20 § 5-70-102.
+21 (2) A uniform petition under this section may be filed at any
+22 time and may be filed for a conviction imposed at any time.
+23 (c) The court shall grant the uniform petition under this section if
+24 it finds by a preponderance of the evidence that:
+25 (1) The petitioner was: convicted
+26 (A) Convicted of prostitution, § 5-70-102, and the offense
+27 was committed when the petitioner was eighteen (18) years of age or older;
+28 and or
+29 (B) A minor when the offense was committed; and
+30 (2)(A) The conviction was obtained as a result of the
+31 petitioner's having been a victim of human trafficking at the time of the
+32 offense.
+33 (B) A finding concerning the affirmative defense under §
+34 5-2-210 does not affect a finding under subdivision (c)(2)(A) of this
+35 section, and the petitioner is not required to have raised the affirmative
+36 defense under § 5-2-210.
+5 03/11/2025 1:13:29 PM CEB071
+
+SB429
+1 (d) If the uniform petition under this section is granted, the court
+2 shall:
+3 (1) Issue a uniform order to seal the conviction; and
+4 (2) With respect to the conviction for prostitution, § 5-70-102,
+5 redact the petitioner's name from all records and files related to the
+6 petitioner's:
+7 (A) Arrest;
+8 (B) Citation;
+9 (C) Criminal investigation;
+10 (D) Criminal charge;
+11 (E) Adjudication of guilt;
+12 (F) Criminal proceedings; and
+13 (G) Probation for the offense.
+14 (e)(1) Official documentation by a federal, state, or local government
+15 agency verifying that at the time of the conviction for prostitution, § 5-70-
+16 102 offense, the petitioner was a victim of human trafficking creates a
+17 presumption under this section that the person's prostitution conviction was
+18 obtained as a result of having been a victim of human trafficking at the time
+19 of the offense.
+20 (2) Documentation under this subsection is not required to grant
+21 a petition under this section.
+22 (3) Documentation under this subsection may include without
+23 limitation:
+24 (A) Certified records of federal or state court
+25 proceedings that demonstrate that the defendant was a victim of a trafficker
+26 charged with a trafficking offense under state law or the Victims of
+27 Trafficking and Violence Protection Act of 2000, 22 U.S.C. § 7101 et seq., as
+28 it existed on January 1, 2013; or
+29 (B) Certified records of “approval notices” or “law
+30 enforcement certifications” generated from federal immigration proceedings
+31 available to victims of human trafficking.
+32
+33
+34
+35
+36
+6 03/11/2025 1:13:29 PM CEB071
+
+[DELETED:       A H T C E H I O  T R T H A O  B   S c  ( a t     ( o      (]
+[DELETED: S2 0      (      ( d     ( d      (      (      ( t    ( s i H   S  1  A   ( w c   ( T   ( b i o f p   (    ( v    ( 5 v    ( 1]
+[DELETED: S3 0 v    (    ( m    ( a    ( o s s    ( s s   ( p i   ( v w   (    (    ( o    (    (    (    (    (    ( i    ( c    ( p    ( p]
+[DELETED: S4 0    ( 2    ( §    ( 1    (    ( o    ( a s s    ( s s    (   ( o p   (     (     ( m     (     (    (     ( a n     (   ( w m t ]
+[DELETED: S5 0  S  1 t  (   ( a   ( b t s  ( u    ( p o    (     (     ( o §   ( t  ( i   (    ( w a    (   ( p o    ( 5 s d]
+[DELETED: S6 0  ( s   (   ( r p    (    (    (    (    (    (    (  ( a 1 p o o   ( a   ( l    ( p c T i    ( e a]

@@ -1,0 +1,180 @@
+Title: Stricken language would be deleted from and underlined language would be added to present law.
+Official Title: Stricken language would be deleted from and underlined language would be added to present law.
+Number of Sections: 1
+Source: versions - SB 73
+Media Type: application/pdf
+Strikethrough Detection: 2 sections found
+
+================================================================================
+
+Section 1:
+1 State of Arkansas
+A Bill
+2 95th General Assembly
+3 Regular Session, 2025 SENATE BILL 73
+4
+5 By: Senator B. Johnson
+6 By: Representative Beaty Jr.
+7
+For An Act To Be Entitled
+8
+9 AN ACT TO AMEND THE INCOME TAX LAWS; TO PROVIDE FOR
+10 INCOME TAX DEDUCTIONS FOR CERTAIN FINANCIAL
+11 INSTITUTIONS; TO CREATE THE ACCESS TO CREDIT FOR OUR
+12 RURAL ECONOMY (ACRE) ACT; TO PROVIDE AN INCOME TAX
+13 DEDUCTION FOR CERTAIN AGRICULTURAL LOANS; AND FOR
+14 OTHER PURPOSES.
+15
+16
+Subtitle
+17
+18 TO CREATE THE ACCESS TO CREDIT FOR OUR
+19 RURAL ECONOMY (ACRE) ACT; AND TO PROVIDE
+20 AN INCOME TAX DEDUCTION FOR CERTAIN
+21 AGRICULTURAL LOANS.
+22
+23 BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF ARKANSAS:
+24
+25 SECTION 1. DO NOT CODIFY. Title.
+26 This act shall be known and may be cited as the "Access to Credit for
+27 Our Rural Economy (ACRE) Act".
+28
+29 SECTION 2. Arkansas Code Title 26, Chapter 51, Subchapter 4, is
+30 amended to add an additional section to read as follows:
+31 26-51-462. Deduction — Qualified agricultural loans — Definitions.
+32 (a) As used in this section:
+33 (1) “Eligible lending institution” means a:
+34 (A) National banking association;
+35 (B) State bank and a registered out-of-state bank, as
+36 those terms are defined in § 23-45-102;
+*JLL105*
+01/16/2025 7:15:35 AM JLL105
+SB73
+1 (C) State trust company, as defined in § 23-51-102; or
+2 (D) Federal savings bank;
+3 (2) “Interest” means interest on indebtedness attributed to the
+4 state and incurred in the ordinary course of the active conduct of any
+5 business;
+6 (3) “Net interest income received from qualified agricultural
+7 loans” means the product of the ratio of the interest income earned on
+8 qualified agricultural loans over total interest income earned, in relation
+9 to the adjusted gross income of the eligible lending institution without
+10 regard to the deduction allowed under this section; and
+11 (4) “Qualified agricultural loan” means a loan that:
+12 (A) Is made on personal property used for an agricultural
+13 purpose, including without limitation equipment and machinery, livestock, and
+14 crops; or
+15 (B) Has the following characteristics:
+16 (i) Is made on real property that is substantially
+17 used for the production of one (1) or more agricultural products;
+18 (ii) Is secured by a:
+19 (a) First lien interest in real property; or
+20 (b) Second lien interest in the real property;
+21 and
+22 (iii) Has an outstanding loan balance that is:
+23 (a) Less than eighty-five percent (85%) of the
+24 appraised value of the real estate; or
+25 (b) More than eighty-five percent (85%) of the
+26 appraised value of the real estate if the loan balance in excess of eighty-
+27 five percent (85%) of the appraised value is insured by private mortgage
+28 insurance.
+29 (b) In computing net income for the purposes of this chapter, there is
+30 allowed as a deduction in addition to all other deductions allowed by law for
+31 the net interest income received from qualified agricultural loans that is
+32 received by an eligible lending institution.
+33
+34 SECTION 3. EFFECTIVE DATE. Section 2 of this act is effective for tax
+35 years beginning on or after January 1, 2025.
+36
+2 01/16/2025 7:15:35 AM JLL105
+[DELETED:          A I I R D O   T R A A  B   S  T O   S a  2  (   (    (    ( t]
+[DELETED: S2 0    (    (   ( s b   ( l q t r   (    ( p c    (     ( u     (      (      ( a     (      ( a      ( a f i  ( a t r   S y ]
+
+
+================================================================================
+
+Raw Text:
+Stricken language would be deleted from and underlined language would be added to present law.
+1 State of Arkansas
+A Bill
+2 95th General Assembly
+3 Regular Session, 2025 SENATE BILL 73
+4
+5 By: Senator B. Johnson
+6 By: Representative Beaty Jr.
+7
+For An Act To Be Entitled
+8
+9 AN ACT TO AMEND THE INCOME TAX LAWS; TO PROVIDE FOR
+10 INCOME TAX DEDUCTIONS FOR CERTAIN FINANCIAL
+11 INSTITUTIONS; TO CREATE THE ACCESS TO CREDIT FOR OUR
+12 RURAL ECONOMY (ACRE) ACT; TO PROVIDE AN INCOME TAX
+13 DEDUCTION FOR CERTAIN AGRICULTURAL LOANS; AND FOR
+14 OTHER PURPOSES.
+15
+16
+Subtitle
+17
+18 TO CREATE THE ACCESS TO CREDIT FOR OUR
+19 RURAL ECONOMY (ACRE) ACT; AND TO PROVIDE
+20 AN INCOME TAX DEDUCTION FOR CERTAIN
+21 AGRICULTURAL LOANS.
+22
+23 BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF ARKANSAS:
+24
+25 SECTION 1. DO NOT CODIFY. Title.
+26 This act shall be known and may be cited as the "Access to Credit for
+27 Our Rural Economy (ACRE) Act".
+28
+29 SECTION 2. Arkansas Code Title 26, Chapter 51, Subchapter 4, is
+30 amended to add an additional section to read as follows:
+31 26-51-462. Deduction — Qualified agricultural loans — Definitions.
+32 (a) As used in this section:
+33 (1) “Eligible lending institution” means a:
+34 (A) National banking association;
+35 (B) State bank and a registered out-of-state bank, as
+36 those terms are defined in § 23-45-102;
+*JLL105*
+01/16/2025 7:15:35 AM JLL105
+
+SB73
+1 (C) State trust company, as defined in § 23-51-102; or
+2 (D) Federal savings bank;
+3 (2) “Interest” means interest on indebtedness attributed to the
+4 state and incurred in the ordinary course of the active conduct of any
+5 business;
+6 (3) “Net interest income received from qualified agricultural
+7 loans” means the product of the ratio of the interest income earned on
+8 qualified agricultural loans over total interest income earned, in relation
+9 to the adjusted gross income of the eligible lending institution without
+10 regard to the deduction allowed under this section; and
+11 (4) “Qualified agricultural loan” means a loan that:
+12 (A) Is made on personal property used for an agricultural
+13 purpose, including without limitation equipment and machinery, livestock, and
+14 crops; or
+15 (B) Has the following characteristics:
+16 (i) Is made on real property that is substantially
+17 used for the production of one (1) or more agricultural products;
+18 (ii) Is secured by a:
+19 (a) First lien interest in real property; or
+20 (b) Second lien interest in the real property;
+21 and
+22 (iii) Has an outstanding loan balance that is:
+23 (a) Less than eighty-five percent (85%) of the
+24 appraised value of the real estate; or
+25 (b) More than eighty-five percent (85%) of the
+26 appraised value of the real estate if the loan balance in excess of eighty-
+27 five percent (85%) of the appraised value is insured by private mortgage
+28 insurance.
+29 (b) In computing net income for the purposes of this chapter, there is
+30 allowed as a deduction in addition to all other deductions allowed by law for
+31 the net interest income received from qualified agricultural loans that is
+32 received by an eligible lending institution.
+33
+34 SECTION 3. EFFECTIVE DATE. Section 2 of this act is effective for tax
+35 years beginning on or after January 1, 2025.
+36
+2 01/16/2025 7:15:35 AM JLL105
+
+[DELETED:          A I I R D O   T R A A  B   S  T O   S a  2  (   (    (    ( t]
+[DELETED: S2 0    (    (   ( s b   ( l q t r   (    ( p c    (     ( u     (      (      ( a     (      ( a      ( a f i  ( a t r   S y ]

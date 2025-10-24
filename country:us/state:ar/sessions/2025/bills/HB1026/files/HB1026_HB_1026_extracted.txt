@@ -1,0 +1,180 @@
+Title: Stricken language would be deleted from and underlined language would be added to present law.
+Official Title: Stricken language would be deleted from and underlined language would be added to present law.
+Number of Sections: 1
+Source: versions - HB 1026
+Media Type: application/pdf
+Strikethrough Detection: 2 sections found
+
+================================================================================
+
+Section 1:
+1 State of Arkansas As Engrossed: H1/16/25
+A Bill
+2 95th General Assembly
+3 Regular Session, 2025 HOUSE BILL 1026
+4
+5 Representatives A. Collins, T. Shephard, Springer
+6
+7
+For An Act To Be Entitled
+8
+9 AN ACT TO CREATE THE ARKANSAS PROMISE ACT; TO AMEND
+10 THE INDIVIDUAL INCOME TAX LAWS; TO CREATE AN INCOME
+11 TAX CREDIT FOR TUITION FOR AN ELIGIBLE STUDENT AT A
+12 PUBLIC INSTITUTION OF HIGHER EDUCATION; AND FOR OTHER
+13 PURPOSES.
+14
+15
+Subtitle
+16
+17 TO CREATE THE ARKANSAS PROMISE ACT; AND
+18 TO CREATE AN INCOME TAX CREDIT FOR
+19 TUITION PAID FOR AN ELIGIBLE STUDENT AT
+20 A PUBLIC INSTITUTION OF HIGHER
+21 EDUCATION.
+22
+23 BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF ARKANSAS:
+24
+25 SECTION 1. Arkansas Code Title 26, Chapter 51, Subchapter 5, is
+26 amended to add an additional section to read as follows:
+27 26-51-518. Arkansas Promise Act — Higher education tuition income tax
+28 credit — Definition.
+29 (a) This section shall be known and may be cited as the "Arkansas
+30 Promise Act".
+31 (b) As used in this section, "tuition" means charges levied for
+32 attendance at a public two-year or four-year institution of higher education.
+33 (c) There is allowed an income tax credit against the income tax
+34 imposed by this chapter in the amount paid by a taxpayer as tuition for the
+35 taxpayer or the taxpayer's dependent not including tuition paid through any
+36 scholarship or grant, subject to the limitations of subsection (d) of this
+*CEB026*
+01-16-2025 14:52:54 CEB026
+As Engrossed: H1/16/25 HB1026
+1 section.
+2 (d) To claim the income tax credit allowed by this section, the
+3 taxpayer must have paid tuition for a student that:
+4 (1) Is a resident with an in-state tuition classification;
+5 (2)(A) Has completed the Free Application for Federal Student
+6 Aid (FAFSA) or a subsequent application required by the United States
+7 Department of Education for federal financial aid for the semester or term
+8 for which the income tax credit is claimed.
+9 (B) The income tax credit allowed by this section shall
+10 only be claimed if the application under subdivision (d)(2)(A) reflects an
+11 adjusted gross income, as defined in 20 U.S.C. § 1070a, of up to ninety
+12 thousand dollars ($90,000);
+13 (3) Is classified as degree- or credential-seeking pursuing a
+14 certificate, associate degree, or bachelor's degree;
+15 (4) Initially enrolled in the public two-year or four-year
+16 institution of higher education for which the income tax credit is claimed
+17 within two (2) years of graduating from high school or obtaining a high
+18 school equivalency diploma;
+19 (5) Has accumulated fewer than sixty-five (65) credit hours
+20 prior to the first semester attended at the public two-year or four-year
+21 institution of higher education for which the income tax credit is claimed;
+22 (6) Has completed at least six (6) credit hours at the end of
+23 each semester for which the income tax credit is claimed; and
+24 (7) Has maintained a grade point average of at least 2.5 on a
+25 4.0 scale for each semester for which the tax credit is claimed;
+26 (e) The income tax credit allowed by this section may be claimed for
+27 no more than four (4) consecutive academic semesters.
+28 (f) If the amount of the income tax credit allowed under this section
+29 exceeds the taxpayer's income tax liability, the excess shall be refunded to
+30 the taxpayer.
+31
+32 SECTION 2. EFFECTIVE DATE. Section 1 of this act is effective for tax
+33 years beginning on or after January 1, 2025.
+34
+35 /s/A. Collins
+36
+2 01-16-2025 14:52:54 CEB026
+[DELETED:  A       A T T P P   T T T A E  B   S a  2 c  ( P  ( a  ( i t s]
+[DELETED:  H2 0 s  ( t   (   ( A D f    ( o a t   ( c   ( i w s   ( p i   ( e   ( 4  ( n  ( e t   S y  / ]
+
+
+================================================================================
+
+Raw Text:
+Stricken language would be deleted from and underlined language would be added to present law.
+1 State of Arkansas As Engrossed: H1/16/25
+A Bill
+2 95th General Assembly
+3 Regular Session, 2025 HOUSE BILL 1026
+4
+5 Representatives A. Collins, T. Shephard, Springer
+6
+7
+For An Act To Be Entitled
+8
+9 AN ACT TO CREATE THE ARKANSAS PROMISE ACT; TO AMEND
+10 THE INDIVIDUAL INCOME TAX LAWS; TO CREATE AN INCOME
+11 TAX CREDIT FOR TUITION FOR AN ELIGIBLE STUDENT AT A
+12 PUBLIC INSTITUTION OF HIGHER EDUCATION; AND FOR OTHER
+13 PURPOSES.
+14
+15
+Subtitle
+16
+17 TO CREATE THE ARKANSAS PROMISE ACT; AND
+18 TO CREATE AN INCOME TAX CREDIT FOR
+19 TUITION PAID FOR AN ELIGIBLE STUDENT AT
+20 A PUBLIC INSTITUTION OF HIGHER
+21 EDUCATION.
+22
+23 BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF ARKANSAS:
+24
+25 SECTION 1. Arkansas Code Title 26, Chapter 51, Subchapter 5, is
+26 amended to add an additional section to read as follows:
+27 26-51-518. Arkansas Promise Act — Higher education tuition income tax
+28 credit — Definition.
+29 (a) This section shall be known and may be cited as the "Arkansas
+30 Promise Act".
+31 (b) As used in this section, "tuition" means charges levied for
+32 attendance at a public two-year or four-year institution of higher education.
+33 (c) There is allowed an income tax credit against the income tax
+34 imposed by this chapter in the amount paid by a taxpayer as tuition for the
+35 taxpayer or the taxpayer's dependent not including tuition paid through any
+36 scholarship or grant, subject to the limitations of subsection (d) of this
+*CEB026*
+01-16-2025 14:52:54 CEB026
+
+As Engrossed: H1/16/25 HB1026
+1 section.
+2 (d) To claim the income tax credit allowed by this section, the
+3 taxpayer must have paid tuition for a student that:
+4 (1) Is a resident with an in-state tuition classification;
+5 (2)(A) Has completed the Free Application for Federal Student
+6 Aid (FAFSA) or a subsequent application required by the United States
+7 Department of Education for federal financial aid for the semester or term
+8 for which the income tax credit is claimed.
+9 (B) The income tax credit allowed by this section shall
+10 only be claimed if the application under subdivision (d)(2)(A) reflects an
+11 adjusted gross income, as defined in 20 U.S.C. § 1070a, of up to ninety
+12 thousand dollars ($90,000);
+13 (3) Is classified as degree- or credential-seeking pursuing a
+14 certificate, associate degree, or bachelor's degree;
+15 (4) Initially enrolled in the public two-year or four-year
+16 institution of higher education for which the income tax credit is claimed
+17 within two (2) years of graduating from high school or obtaining a high
+18 school equivalency diploma;
+19 (5) Has accumulated fewer than sixty-five (65) credit hours
+20 prior to the first semester attended at the public two-year or four-year
+21 institution of higher education for which the income tax credit is claimed;
+22 (6) Has completed at least six (6) credit hours at the end of
+23 each semester for which the income tax credit is claimed; and
+24 (7) Has maintained a grade point average of at least 2.5 on a
+25 4.0 scale for each semester for which the tax credit is claimed;
+26 (e) The income tax credit allowed by this section may be claimed for
+27 no more than four (4) consecutive academic semesters.
+28 (f) If the amount of the income tax credit allowed under this section
+29 exceeds the taxpayer's income tax liability, the excess shall be refunded to
+30 the taxpayer.
+31
+32 SECTION 2. EFFECTIVE DATE. Section 1 of this act is effective for tax
+33 years beginning on or after January 1, 2025.
+34
+35 /s/A. Collins
+36
+2 01-16-2025 14:52:54 CEB026
+
+[DELETED:  A       A T T P P   T T T A E  B   S a  2 c  ( P  ( a  ( i t s]
+[DELETED:  H2 0 s  ( t   (   ( A D f    ( o a t   ( c   ( i w s   ( p i   ( e   ( 4  ( n  ( e t   S y  / ]

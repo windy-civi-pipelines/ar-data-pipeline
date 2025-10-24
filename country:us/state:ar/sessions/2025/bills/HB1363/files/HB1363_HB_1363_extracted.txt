@@ -1,0 +1,654 @@
+Title: Stricken language would be deleted from and underlined language would be added to present law.
+Official Title: Stricken language would be deleted from and underlined language would be added to present law.
+Number of Sections: 1
+Source: versions - HB 1363
+Media Type: application/pdf
+Strikethrough Detection: 8 sections found
+
+================================================================================
+
+Section 1:
+1 State of Arkansas
+A Bill
+2 95th General Assembly
+3 Regular Session, 2025 HOUSE BILL 1363
+4
+5 By: Representatives Gazaway, M. Shepherd
+6 By: Senators C. Tucker, J. Bryant
+7
+For An Act To Be Entitled
+8
+9 AN ACT TO MAKE TECHNICAL CORRECTIONS TO TITLE 25 OF
+10 THE ARKANSAS CODE CONCERNING STATE GOVERNMENT; AND
+11 FOR OTHER PURPOSES.
+12
+13
+Subtitle
+14
+15 TO MAKE TECHNICAL CORRECTIONS TO TITLE
+16 25 OF THE ARKANSAS CODE CONCERNING STATE
+17 GOVERNMENT.
+18
+19 BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF ARKANSAS:
+20
+21 SECTION 1. Arkansas Code § 25-1-101(b), concerning the emergency
+22 relocation of the seat of government, is amended to read as follows to repeal
+23 an incorrect reference:
+24 (b) During such time as the seat of government remains at the
+25 emergency temporary location, all official acts required by law to be
+26 performed at the seat of government by any officer, agency, department, or
+27 authority of this state, including the convening and meeting of the General
+28 Assembly in regular session, or extraordinary session, or emergency session,
+29 shall be are as valid and binding when performed at the emergency temporary
+30 location as if performed at the normal location of the seat of government.
+31
+32 SECTION 2. Arkansas Code § 25-1-114(a), concerning incorporation of
+33 machine-readable privacy policies into state and local government websites,
+34 is amended to read as follows to repeal obsolete language:
+35 (a) Each unit of state and local government and each state agency that
+36 operates or maintains a website shall incorporate a machine-readable privacy
+*LGL060*
+01/31/2025 10:50:36 AM LGL060
+HB1363
+1 policy into each of its websites no later than July 1, 2004.
+2
+3 SECTION 3. Arkansas Code § 25-1-120(d)(2) and (3), concerning
+4 comprehensive cross-sector collaboration by state agencies, boards, and
+5 commissions concerning health disparities, are repealed because they are
+6 obsolete.
+7 (2) The first planning meeting under this subsection shall be held
+8 no later than October 1, 2011.
+9 (3) The first report under this subsection shall be submitted by
+10 October 1, 2012.
+11
+12 SECTION 4. Arkansas Code § 25-1-128(b)(2)(A), concerning policy
+13 regarding the use of technology resources and cybersecurity by public
+14 entities, is amended to read as follows to clarify the name of a state
+15 entity:
+16 (2)(A) Develop a cybersecurity policy for all technology resources
+17 of the public entity based on the standards and guidelines set by the State
+18 Cyber Security Cybersecurity Office.
+19
+20 SECTION 5. The introductory language of Arkansas Code § 25-1-
+21 128(c)(2), concerning policy regarding the use of technology resources and
+22 cybersecurity by public entities, is amended to read as follows to clarify
+23 the name of a state entity:
+24 (2) The Department of Education, in coordination with the State
+25 Cyber Security Cybersecurity Office, shall:
+26
+27 SECTION 6. Arkansas Code § 25-1-128(f), concerning policy regarding
+28 the use of technology resources and cybersecurity by public entities, is
+29 amended to read as follows to clarify the name of a state entity:
+30 (f)(1) Each state entity shall submit a cybersecurity policy for the
+31 state entity for approval to the State Cyber Security Cybersecurity Office by
+32 October 1 of each even-numbered year.
+33 (2) The State Cyber Security Cybersecurity Office shall establish
+34 a procedure to review and approve state entity cybersecurity policies.
+35 (3) The Department of Education shall:
+36 (A) Develop a cybersecurity policy that shall be used by each
+2 01/31/2025 10:50:36 AM LGL060
+HB1363
+1 type of state educational institution;
+2 (B) Submit the policies developed under subdivision (f)(3)(A)
+3 of this section for approval to the State Cyber Security Cybersecurity Office
+4 by October 1 of each even-numbered year; and
+5 (C) Coordinate with each state educational institution to
+6 implement the cybersecurity policy.
+7
+8 SECTION 7. Arkansas Code § 25-4-105(a)(1)(K), concerning the powers
+9 and duties of the Division of Information Systems, is amended to read as
+10 follows to clarify the name of a state entity:
+11 (K) Providing a State Cyber Security Cybersecurity Office to
+12 monitor information resource security issues, coordinating all security
+13 measures that could be used to protect resources by more than one (1)
+14 governmental entity, and acting as an information technology resource to
+15 other state agencies;
+16
+17 SECTION 8. Arkansas Code § 25-10-104(a), concerning the Board of
+18 Developmental Disabilities Services, is amended to read as follows to repeal
+19 obsolete language:
+20 (a) The Board of Developmental Disabilities Services and the
+21 institutional and supportive facilities of the human development centers
+22 located at Alexander, Conway, Arkadelphia, Jonesboro, Booneville, and the
+23 Southeast Arkansas Human Development Center at Warren, and all improvements
+24 and additions to those institutional units made subsequent to February 4,
+25 1971, shall be operated under the control of the board within the Department
+26 of Human Services.
+27
+28 SECTION 9. Arkansas Code § 25-10-111(a)(1), concerning the budgeting
+29 of the Department of Human Services, is amended to read as follows to clarify
+30 a reference and repeal obsolete language:
+31 (a)(1) The Secretary of the Department of Human Services shall obtain
+32 from each division, office, section, or unit of the Department of Human
+33 Services, including the institutions and institutional boards thereunder
+34 under the department, all requests for biennial appropriations and all
+35 requests for special supplemental or construction appropriations.
+36
+3 01/31/2025 10:50:36 AM LGL060
+HB1363
+1 SECTION 10. Arkansas Code § 25-16-611 is repealed because it is
+2 obsolete due to the referenced sales being under Acts 1844, § 5, p.30, and
+3 sales of state lands now being under the Commissioner of State Lands.
+4 25-16-611. Quarterly report on notes and on moneys from sale of state
+5 lands.
+6 The Treasurer of State shall report quarterly to the Governor the
+7 amount of notes on hand and by whom drawn and the amount of moneys received
+8 and on hand on account of the sale of state lands.
+9
+10 SECTION 11. Arkansas Code § 25-16-903(4), concerning stipends for
+11 members of certain state boards, is repealed because the referenced entity
+12 does not exist.
+13 (4) Athletics and Activities Board;
+14
+15 SECTION 12. Arkansas Code § 25-16-903(24), concerning stipends for
+16 members of certain state boards, is repealed because the referenced entity
+17 was abolished.
+18 (24) Arkansas State Board of Registration for Foresters
+19 [abolished];
+20
+21 SECTION 13. Arkansas Code § 25-16-903(48), concerning stipends for
+22 members of certain state boards, is repealed because the referenced entity
+23 was abolished.
+24 (48) Veterinary Medical Examining Board [abolished];
+25
+26 SECTION 14. Arkansas Code § 25-16-903(49), concerning stipends for
+27 members of certain state boards, is repealed because the referenced entity
+28 was abolished.
+29 (49) Commission on Water Well Construction [abolished];
+30
+31 SECTION 15. Arkansas Code § 25-16-904(8), concerning stipends for
+32 members of certain state boards, is repealed because the referenced entity
+33 does not exist.
+34 (8) Arkansas Health Policy Council;
+35
+36 SECTION 16. Arkansas Code § 25-16-907 is amended to read as follows to
+4 01/31/2025 10:50:36 AM LGL060
+HB1363
+1 repeal obsolete language and make stylistic changes:
+2 25-16-907. Effective date Sole authority for expense reimbursement, per
+3 diem, and stipends.
+4 (a)(1) Except as provided in subsection (b) of this section, this
+5 subchapter becomes effective on a board-by-board basis on the date of the
+6 board's first regularly scheduled meeting in 1996, and, thereafter, this This
+7 subchapter shall be is the sole authority for expense reimbursement, per
+8 diem, and stipends for a state board.
+9 (2) Except as provided in subsection (b) of this section, for
+10 boards which do not have regularly scheduled meetings, this subchapter
+11 becomes effective on a board-by-board basis on the date of the board's first
+12 meeting in 1996, and, thereafter, this subchapter shall be the sole authority
+13 for expense reimbursement, per diem, and stipends.
+14 (b) Any state board may, by a majority vote of the total membership of
+15 the board cast during any meeting in 1995, exercise its powers under this
+16 subchapter for calendar year 1995, but, until a board acts or has the
+17 opportunity to act in 1996, the law existing on February 1, 1995, as to the
+18 board's expense reimbursement and per diem authorization shall apply.
+19
+20 SECTION 17. Arkansas Code § 25-16-908 is amended to read as follows to
+21 repeal obsolete language:
+22 25-16-908. Distribution of copies.
+23 As soon as possible after April 11, 1995, the The Department of Finance
+24 and Administration shall provide a copy of this subchapter to every state
+25 board which that is subject to the provisions hereof this subchapter.
+26
+27 SECTION 18. Arkansas Code § 25-18-223 is repealed because the section
+28 is obsolete.
+29 25-18-223. Book report of Secretary of State.
+30 (a)(1)(A) The Secretary of State shall compile, edit, and publish a
+31 bound book report of the Secretary of State for the period ending December
+32 31, 2018.
+33 (B) The book report shall pertain to substantially the
+34 same subject matter as the earlier biennial reports of the Secretary of State
+35 and other data, both historical and contemporary, that in the opinion of the
+36 Secretary of State would be of interest to all citizens of Arkansas.
+5 01/31/2025 10:50:36 AM LGL060
+HB1363
+1 (2) The book report shall be printed under the proper contract
+2 for state printing.
+3 (b) The Secretary of State shall distribute the book reports in the
+4 following manner:
+5 (1) One (1) copy to each city, county, regional, public school,
+6 parochial school, and institution of higher learning library in the State of
+7 Arkansas; and
+8 (2) One (1) copy to elected officials upon written request
+9 received by the Secretary of State no later than March 31, 2019.
+10
+11 SECTION 19. Arkansas Code § 25-18-604(c), concerning retention
+12 requirements for public records, is amended to read as follows to repeal
+13 obsolete language:
+14 (c) Each state agency shall comply with the rules and guidelines
+15 promulgated under this subchapter by July 1, 2007.
+16
+17 SECTION 20. Arkansas Code § 25-19-103(5)(A), concerning definitions
+18 under the Freedom of Information Act of 1967, is amended to read as follows
+19 to add clarifying language:
+20 (5)(A) “Municipally owned utility system” means a utility system
+21 owned or operated by a municipality that provides:
+22 (i) Electricity;
+23 (ii) Water;
+24 (iii) Wastewater service;
+25 (iv) Cable television; or
+26 (v) Broadband service.
+27
+28 SECTION 21. Arkansas Code § 25-19-106(d)(5), concerning open meetings
+29 under the Freedom of Information Act of 1967, is repealed because the
+30 subdivision is obsolete.
+31 (5) Cities of the second class and incorporated towns are exempt
+32 from subdivisions (d)(1) and (2) of this section until July 1, 2020.
+33
+34 SECTION 22. Arkansas Code § 25-19-110(a), concerning exemptions under
+35 the Freedom of Information Act of 1967, is amended to read as follows to
+36 repeal obsolete language:
+6 01/31/2025 10:50:36 AM LGL060
+HB1363
+1 (a) Beginning July 1, 2009, in In order to be effective, a law that
+2 enacts a new exemption to the requirements of this chapter or that
+3 substantially amends an existing exemption to the requirements of this
+4 chapter shall state that the record or meeting is exempt from the Freedom of
+5 Information Act of 1967, § 25-19-101 et seq.
+6
+7 SECTION 23. Arkansas Code § 25-19-111(e), concerning the Arkansas
+8 Freedom of Information Task Force, is repealed because the subsection is
+9 obsolete.
+10 (e)(1) The initial members of the task force shall be appointed within
+11 thirty (30) days of August 1, 2017.
+12 (2)(A) The President Pro Tempore of the Senate shall call the
+13 first meeting of the task force, which shall occur within sixty (60) days of
+14 August 1, 2017.
+15 (B) The task force shall begin its review under subdivision
+16 (a)(2) of this section within thirty (30) days of the call of the first
+17 meeting.
+18
+19 SECTION 24. Arkansas Code § 25-26-304(11)(F), concerning areas of
+20 collaboration under the Arkansas Cyber Initiative, is amended to read as
+21 follows to clarify the name of a state entity:
+22 (F) Fostering collaboration with the State Cyber Security
+23 Cybersecurity Office for the ongoing improvement of cybersecurity efforts
+24 across government entities.
+25
+26 SECTION 25. Arkansas Code § 25-28-108(a), concerning specifications
+27 for computer-assisted mass appraisal software, is amended to read as follows
+28 to repeal obsolete language:
+29 (a) By July 1, 2005, the The Assessment Coordination Division shall
+30 adopt and implement by rules final specifications for computer-assisted mass
+31 appraisal software.
+32
+33 SECTION 26. Arkansas Code § 25-29-108 is amended to read as follows to
+34 repeal obsolete language, update language, and make stylistic changes:
+35 25-29-108. Articles of incorporation.
+36 Within thirty (30) days after the first meeting of the The Board of
+7 01/31/2025 10:50:36 AM LGL060
+HB1363
+1 Directors of the Arkansas Deaf and Hard of Hearing Telecommunications
+2 Services Corporation, it shall cause keep articles of incorporation be filed
+3 on file with the Secretary of State.
+4
+5 SECTION 27. Arkansas Code § 25-34-105(b), concerning agency authority
+6 and accounting under the Arkansas Computer and Electronic Solid Waste
+7 Management Act, is repealed because the subsection is obsolete.
+8 (b) Within sixty (60) days after August 13, 2001, each agency shall
+9 prepare a plan to account for the sale of used equipment and present that
+10 plan for review to the Department of Finance and Administration, the
+11 Executive Chief Information Officer, and the Legislative Council.
+12
+13 SECTION 28. Arkansas Code § 25-43-1402(a)(3), concerning state
+14 entities transferred to the Department of Public Safety, is amended to read
+15 as follows to add clarifying language:
+16 (3) The former Arkansas Emergency Telephone Services Board,
+17 formerly created under § 12-10-318, now known as the "Arkansas 911 Board",
+18 created under § 12-10-305;
+19
+20 SECTION 29. DO NOT CODIFY. CONSTRUCTION AND LEGISLATIVE INTENT.
+21 It is the intent of the General Assembly that:
+22 (1) The enactment and adoption of this act shall not expressly
+23 or impliedly repeal an act passed during the regular session of the Ninety-
+24 Fifth General Assembly;
+25 (2) To the extent that a conflict exists between an act of the
+26 regular session of the Ninety-Fifth General Assembly and this act:
+27 (A) The act of the regular session of the Ninety-Fifth
+28 General Assembly shall be treated as a subsequent act passed by the General
+29 Assembly for the purposes of:
+30 (i) Giving the act of the regular session of the
+31 Ninety-Fifth General Assembly its full force and effect; and
+32 (ii) Amending or repealing the appropriate parts of
+33 the Arkansas Code of 1987; and
+34 (B) Section 1-2-107 shall not apply; and
+35 (3) This act shall make only technical, not substantive, changes
+36 to the Arkansas Code of 1987.
+8 01/31/2025 10:50:36 AM LGL060
+[DELETED:          A T F   T 2 G  B   S r a   e p a A s l   S m i   o]
+[DELETED: H2 0 p   S c c o   n   O   S r e e   o C   S 1 c t   C   S t a   s O   a    ]
+[DELETED: H3 0 t   o b   i   S a f   m m g o   S D o   i l S a 1 o   S o a   f S u r  ]
+[DELETED: H4 0  S o s  2 l  T a a   S m d     S m w   [   S m w     S m w     S m d     S]
+[DELETED: H5 0 r  2 d  ( s b s d   ( b b m f  ( t s o b   S r  2  A a b   S i  2  ( b 3    ( s a S]
+[DELETED: H6 0   ( f  ( f   ( p A   ( r   S r o   p   S u t   o             S u s   f   S t r]
+[DELETED: H7 0   e s c I   S F o   t   f A   ( m   S c f   C a   S f t   a a   S r  2  W]
+[DELETED: H8 0 D S o   S a M   p p E   S e a   f c   S  I   ( o F   ( r    ( G A     ( N     ( t    (   ( t]
+
+
+================================================================================
+
+Raw Text:
+Stricken language would be deleted from and underlined language would be added to present law.
+1 State of Arkansas
+A Bill
+2 95th General Assembly
+3 Regular Session, 2025 HOUSE BILL 1363
+4
+5 By: Representatives Gazaway, M. Shepherd
+6 By: Senators C. Tucker, J. Bryant
+7
+For An Act To Be Entitled
+8
+9 AN ACT TO MAKE TECHNICAL CORRECTIONS TO TITLE 25 OF
+10 THE ARKANSAS CODE CONCERNING STATE GOVERNMENT; AND
+11 FOR OTHER PURPOSES.
+12
+13
+Subtitle
+14
+15 TO MAKE TECHNICAL CORRECTIONS TO TITLE
+16 25 OF THE ARKANSAS CODE CONCERNING STATE
+17 GOVERNMENT.
+18
+19 BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF ARKANSAS:
+20
+21 SECTION 1. Arkansas Code § 25-1-101(b), concerning the emergency
+22 relocation of the seat of government, is amended to read as follows to repeal
+23 an incorrect reference:
+24 (b) During such time as the seat of government remains at the
+25 emergency temporary location, all official acts required by law to be
+26 performed at the seat of government by any officer, agency, department, or
+27 authority of this state, including the convening and meeting of the General
+28 Assembly in regular session, or extraordinary session, or emergency session,
+29 shall be are as valid and binding when performed at the emergency temporary
+30 location as if performed at the normal location of the seat of government.
+31
+32 SECTION 2. Arkansas Code § 25-1-114(a), concerning incorporation of
+33 machine-readable privacy policies into state and local government websites,
+34 is amended to read as follows to repeal obsolete language:
+35 (a) Each unit of state and local government and each state agency that
+36 operates or maintains a website shall incorporate a machine-readable privacy
+*LGL060*
+01/31/2025 10:50:36 AM LGL060
+
+HB1363
+1 policy into each of its websites no later than July 1, 2004.
+2
+3 SECTION 3. Arkansas Code § 25-1-120(d)(2) and (3), concerning
+4 comprehensive cross-sector collaboration by state agencies, boards, and
+5 commissions concerning health disparities, are repealed because they are
+6 obsolete.
+7 (2) The first planning meeting under this subsection shall be held
+8 no later than October 1, 2011.
+9 (3) The first report under this subsection shall be submitted by
+10 October 1, 2012.
+11
+12 SECTION 4. Arkansas Code § 25-1-128(b)(2)(A), concerning policy
+13 regarding the use of technology resources and cybersecurity by public
+14 entities, is amended to read as follows to clarify the name of a state
+15 entity:
+16 (2)(A) Develop a cybersecurity policy for all technology resources
+17 of the public entity based on the standards and guidelines set by the State
+18 Cyber Security Cybersecurity Office.
+19
+20 SECTION 5. The introductory language of Arkansas Code § 25-1-
+21 128(c)(2), concerning policy regarding the use of technology resources and
+22 cybersecurity by public entities, is amended to read as follows to clarify
+23 the name of a state entity:
+24 (2) The Department of Education, in coordination with the State
+25 Cyber Security Cybersecurity Office, shall:
+26
+27 SECTION 6. Arkansas Code § 25-1-128(f), concerning policy regarding
+28 the use of technology resources and cybersecurity by public entities, is
+29 amended to read as follows to clarify the name of a state entity:
+30 (f)(1) Each state entity shall submit a cybersecurity policy for the
+31 state entity for approval to the State Cyber Security Cybersecurity Office by
+32 October 1 of each even-numbered year.
+33 (2) The State Cyber Security Cybersecurity Office shall establish
+34 a procedure to review and approve state entity cybersecurity policies.
+35 (3) The Department of Education shall:
+36 (A) Develop a cybersecurity policy that shall be used by each
+2 01/31/2025 10:50:36 AM LGL060
+
+HB1363
+1 type of state educational institution;
+2 (B) Submit the policies developed under subdivision (f)(3)(A)
+3 of this section for approval to the State Cyber Security Cybersecurity Office
+4 by October 1 of each even-numbered year; and
+5 (C) Coordinate with each state educational institution to
+6 implement the cybersecurity policy.
+7
+8 SECTION 7. Arkansas Code § 25-4-105(a)(1)(K), concerning the powers
+9 and duties of the Division of Information Systems, is amended to read as
+10 follows to clarify the name of a state entity:
+11 (K) Providing a State Cyber Security Cybersecurity Office to
+12 monitor information resource security issues, coordinating all security
+13 measures that could be used to protect resources by more than one (1)
+14 governmental entity, and acting as an information technology resource to
+15 other state agencies;
+16
+17 SECTION 8. Arkansas Code § 25-10-104(a), concerning the Board of
+18 Developmental Disabilities Services, is amended to read as follows to repeal
+19 obsolete language:
+20 (a) The Board of Developmental Disabilities Services and the
+21 institutional and supportive facilities of the human development centers
+22 located at Alexander, Conway, Arkadelphia, Jonesboro, Booneville, and the
+23 Southeast Arkansas Human Development Center at Warren, and all improvements
+24 and additions to those institutional units made subsequent to February 4,
+25 1971, shall be operated under the control of the board within the Department
+26 of Human Services.
+27
+28 SECTION 9. Arkansas Code § 25-10-111(a)(1), concerning the budgeting
+29 of the Department of Human Services, is amended to read as follows to clarify
+30 a reference and repeal obsolete language:
+31 (a)(1) The Secretary of the Department of Human Services shall obtain
+32 from each division, office, section, or unit of the Department of Human
+33 Services, including the institutions and institutional boards thereunder
+34 under the department, all requests for biennial appropriations and all
+35 requests for special supplemental or construction appropriations.
+36
+3 01/31/2025 10:50:36 AM LGL060
+
+HB1363
+1 SECTION 10. Arkansas Code § 25-16-611 is repealed because it is
+2 obsolete due to the referenced sales being under Acts 1844, § 5, p.30, and
+3 sales of state lands now being under the Commissioner of State Lands.
+4 25-16-611. Quarterly report on notes and on moneys from sale of state
+5 lands.
+6 The Treasurer of State shall report quarterly to the Governor the
+7 amount of notes on hand and by whom drawn and the amount of moneys received
+8 and on hand on account of the sale of state lands.
+9
+10 SECTION 11. Arkansas Code § 25-16-903(4), concerning stipends for
+11 members of certain state boards, is repealed because the referenced entity
+12 does not exist.
+13 (4) Athletics and Activities Board;
+14
+15 SECTION 12. Arkansas Code § 25-16-903(24), concerning stipends for
+16 members of certain state boards, is repealed because the referenced entity
+17 was abolished.
+18 (24) Arkansas State Board of Registration for Foresters
+19 [abolished];
+20
+21 SECTION 13. Arkansas Code § 25-16-903(48), concerning stipends for
+22 members of certain state boards, is repealed because the referenced entity
+23 was abolished.
+24 (48) Veterinary Medical Examining Board [abolished];
+25
+26 SECTION 14. Arkansas Code § 25-16-903(49), concerning stipends for
+27 members of certain state boards, is repealed because the referenced entity
+28 was abolished.
+29 (49) Commission on Water Well Construction [abolished];
+30
+31 SECTION 15. Arkansas Code § 25-16-904(8), concerning stipends for
+32 members of certain state boards, is repealed because the referenced entity
+33 does not exist.
+34 (8) Arkansas Health Policy Council;
+35
+36 SECTION 16. Arkansas Code § 25-16-907 is amended to read as follows to
+4 01/31/2025 10:50:36 AM LGL060
+
+HB1363
+1 repeal obsolete language and make stylistic changes:
+2 25-16-907. Effective date Sole authority for expense reimbursement, per
+3 diem, and stipends.
+4 (a)(1) Except as provided in subsection (b) of this section, this
+5 subchapter becomes effective on a board-by-board basis on the date of the
+6 board's first regularly scheduled meeting in 1996, and, thereafter, this This
+7 subchapter shall be is the sole authority for expense reimbursement, per
+8 diem, and stipends for a state board.
+9 (2) Except as provided in subsection (b) of this section, for
+10 boards which do not have regularly scheduled meetings, this subchapter
+11 becomes effective on a board-by-board basis on the date of the board's first
+12 meeting in 1996, and, thereafter, this subchapter shall be the sole authority
+13 for expense reimbursement, per diem, and stipends.
+14 (b) Any state board may, by a majority vote of the total membership of
+15 the board cast during any meeting in 1995, exercise its powers under this
+16 subchapter for calendar year 1995, but, until a board acts or has the
+17 opportunity to act in 1996, the law existing on February 1, 1995, as to the
+18 board's expense reimbursement and per diem authorization shall apply.
+19
+20 SECTION 17. Arkansas Code § 25-16-908 is amended to read as follows to
+21 repeal obsolete language:
+22 25-16-908. Distribution of copies.
+23 As soon as possible after April 11, 1995, the The Department of Finance
+24 and Administration shall provide a copy of this subchapter to every state
+25 board which that is subject to the provisions hereof this subchapter.
+26
+27 SECTION 18. Arkansas Code § 25-18-223 is repealed because the section
+28 is obsolete.
+29 25-18-223. Book report of Secretary of State.
+30 (a)(1)(A) The Secretary of State shall compile, edit, and publish a
+31 bound book report of the Secretary of State for the period ending December
+32 31, 2018.
+33 (B) The book report shall pertain to substantially the
+34 same subject matter as the earlier biennial reports of the Secretary of State
+35 and other data, both historical and contemporary, that in the opinion of the
+36 Secretary of State would be of interest to all citizens of Arkansas.
+5 01/31/2025 10:50:36 AM LGL060
+
+HB1363
+1 (2) The book report shall be printed under the proper contract
+2 for state printing.
+3 (b) The Secretary of State shall distribute the book reports in the
+4 following manner:
+5 (1) One (1) copy to each city, county, regional, public school,
+6 parochial school, and institution of higher learning library in the State of
+7 Arkansas; and
+8 (2) One (1) copy to elected officials upon written request
+9 received by the Secretary of State no later than March 31, 2019.
+10
+11 SECTION 19. Arkansas Code § 25-18-604(c), concerning retention
+12 requirements for public records, is amended to read as follows to repeal
+13 obsolete language:
+14 (c) Each state agency shall comply with the rules and guidelines
+15 promulgated under this subchapter by July 1, 2007.
+16
+17 SECTION 20. Arkansas Code § 25-19-103(5)(A), concerning definitions
+18 under the Freedom of Information Act of 1967, is amended to read as follows
+19 to add clarifying language:
+20 (5)(A) “Municipally owned utility system” means a utility system
+21 owned or operated by a municipality that provides:
+22 (i) Electricity;
+23 (ii) Water;
+24 (iii) Wastewater service;
+25 (iv) Cable television; or
+26 (v) Broadband service.
+27
+28 SECTION 21. Arkansas Code § 25-19-106(d)(5), concerning open meetings
+29 under the Freedom of Information Act of 1967, is repealed because the
+30 subdivision is obsolete.
+31 (5) Cities of the second class and incorporated towns are exempt
+32 from subdivisions (d)(1) and (2) of this section until July 1, 2020.
+33
+34 SECTION 22. Arkansas Code § 25-19-110(a), concerning exemptions under
+35 the Freedom of Information Act of 1967, is amended to read as follows to
+36 repeal obsolete language:
+6 01/31/2025 10:50:36 AM LGL060
+
+HB1363
+1 (a) Beginning July 1, 2009, in In order to be effective, a law that
+2 enacts a new exemption to the requirements of this chapter or that
+3 substantially amends an existing exemption to the requirements of this
+4 chapter shall state that the record or meeting is exempt from the Freedom of
+5 Information Act of 1967, § 25-19-101 et seq.
+6
+7 SECTION 23. Arkansas Code § 25-19-111(e), concerning the Arkansas
+8 Freedom of Information Task Force, is repealed because the subsection is
+9 obsolete.
+10 (e)(1) The initial members of the task force shall be appointed within
+11 thirty (30) days of August 1, 2017.
+12 (2)(A) The President Pro Tempore of the Senate shall call the
+13 first meeting of the task force, which shall occur within sixty (60) days of
+14 August 1, 2017.
+15 (B) The task force shall begin its review under subdivision
+16 (a)(2) of this section within thirty (30) days of the call of the first
+17 meeting.
+18
+19 SECTION 24. Arkansas Code § 25-26-304(11)(F), concerning areas of
+20 collaboration under the Arkansas Cyber Initiative, is amended to read as
+21 follows to clarify the name of a state entity:
+22 (F) Fostering collaboration with the State Cyber Security
+23 Cybersecurity Office for the ongoing improvement of cybersecurity efforts
+24 across government entities.
+25
+26 SECTION 25. Arkansas Code § 25-28-108(a), concerning specifications
+27 for computer-assisted mass appraisal software, is amended to read as follows
+28 to repeal obsolete language:
+29 (a) By July 1, 2005, the The Assessment Coordination Division shall
+30 adopt and implement by rules final specifications for computer-assisted mass
+31 appraisal software.
+32
+33 SECTION 26. Arkansas Code § 25-29-108 is amended to read as follows to
+34 repeal obsolete language, update language, and make stylistic changes:
+35 25-29-108. Articles of incorporation.
+36 Within thirty (30) days after the first meeting of the The Board of
+7 01/31/2025 10:50:36 AM LGL060
+
+HB1363
+1 Directors of the Arkansas Deaf and Hard of Hearing Telecommunications
+2 Services Corporation, it shall cause keep articles of incorporation be filed
+3 on file with the Secretary of State.
+4
+5 SECTION 27. Arkansas Code § 25-34-105(b), concerning agency authority
+6 and accounting under the Arkansas Computer and Electronic Solid Waste
+7 Management Act, is repealed because the subsection is obsolete.
+8 (b) Within sixty (60) days after August 13, 2001, each agency shall
+9 prepare a plan to account for the sale of used equipment and present that
+10 plan for review to the Department of Finance and Administration, the
+11 Executive Chief Information Officer, and the Legislative Council.
+12
+13 SECTION 28. Arkansas Code § 25-43-1402(a)(3), concerning state
+14 entities transferred to the Department of Public Safety, is amended to read
+15 as follows to add clarifying language:
+16 (3) The former Arkansas Emergency Telephone Services Board,
+17 formerly created under § 12-10-318, now known as the "Arkansas 911 Board",
+18 created under § 12-10-305;
+19
+20 SECTION 29. DO NOT CODIFY. CONSTRUCTION AND LEGISLATIVE INTENT.
+21 It is the intent of the General Assembly that:
+22 (1) The enactment and adoption of this act shall not expressly
+23 or impliedly repeal an act passed during the regular session of the Ninety-
+24 Fifth General Assembly;
+25 (2) To the extent that a conflict exists between an act of the
+26 regular session of the Ninety-Fifth General Assembly and this act:
+27 (A) The act of the regular session of the Ninety-Fifth
+28 General Assembly shall be treated as a subsequent act passed by the General
+29 Assembly for the purposes of:
+30 (i) Giving the act of the regular session of the
+31 Ninety-Fifth General Assembly its full force and effect; and
+32 (ii) Amending or repealing the appropriate parts of
+33 the Arkansas Code of 1987; and
+34 (B) Section 1-2-107 shall not apply; and
+35 (3) This act shall make only technical, not substantive, changes
+36 to the Arkansas Code of 1987.
+8 01/31/2025 10:50:36 AM LGL060
+
+[DELETED:          A T F   T 2 G  B   S r a   e p a A s l   S m i   o]
+[DELETED: H2 0 p   S c c o   n   O   S r e e   o C   S 1 c t   C   S t a   s O   a    ]
+[DELETED: H3 0 t   o b   i   S a f   m m g o   S D o   i l S a 1 o   S o a   f S u r  ]
+[DELETED: H4 0  S o s  2 l  T a a   S m d     S m w   [   S m w     S m w     S m d     S]
+[DELETED: H5 0 r  2 d  ( s b s d   ( b b m f  ( t s o b   S r  2  A a b   S i  2  ( b 3    ( s a S]
+[DELETED: H6 0   ( f  ( f   ( p A   ( r   S r o   p   S u t   o             S u s   f   S t r]
+[DELETED: H7 0   e s c I   S F o   t   f A   ( m   S c f   C a   S f t   a a   S r  2  W]
+[DELETED: H8 0 D S o   S a M   p p E   S e a   f c   S  I   ( o F   ( r    ( G A     ( N     ( t    (   ( t]

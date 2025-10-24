@@ -1,0 +1,259 @@
+Title: Stricken language would be deleted from and underlined language would be added to present law.
+Official Title: Stricken language would be deleted from and underlined language would be added to present law.
+Number of Sections: 1
+Source: versions - HB 1890
+Media Type: application/pdf
+Strikethrough Detection: 3 sections found
+
+================================================================================
+
+Section 1:
+1 State of Arkansas
+A Bill
+2 95th General Assembly
+3 Regular Session, 2025 HOUSE BILL 1890
+4
+5 By: Representative J. Mayberry
+6
+7
+For An Act To Be Entitled
+8
+9 AN ACT TO ALLOW SCHOOL DISTRICTS TO BILL FOR
+10 HEALTHCARE SERVICES; TO REQUIRE THE ARKANSAS MEDICAID
+11 PROGRAM TO REIMBURSE SCHOOL DISTRICTS FOR CERTAIN
+12 HEALTHCARE SERVICES; AND FOR OTHER PURPOSES.
+13
+14
+Subtitle
+15
+16 TO ALLOW SCHOOL DISTRICTS TO BILL FOR
+17 HEALTHCARE SERVICES; AND TO REQUIRE THE
+18 ARKANSAS MEDICAID PROGRAM TO REIMBURSE
+19 SCHOOL DISTRICTS FOR CERTAIN HEALTHCARE
+20 SERVICES.
+21
+22 BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF ARKANSAS:
+23
+24 SECTION 1. Arkansas Code § 6-10-119, concerning Medicaid billing in
+25 school districts, is amended to add an additional subsection to read as
+26 follows:
+27 (d)(1) A school district may bill the Arkansas Medicaid Program for
+28 healthcare services provided to a student, including without limitation:
+29 (A) Vision screenings;
+30 (B) Hearing screenings; and
+31 (C) Direct nursing services provided by a licensed
+32 healthcare professional to a student under the supervision of a registered
+33 nurse employed by the school district and listed in the student's
+34 individualized health care plan according to § 6-18-701, including without
+35 limitation to the extent allowed by federal law:
+36 (i) Medication administration;
+*JMB456*
+03/21/2025 11:21:23 AM JMB456
+HB1890
+1 (ii) Blood sugar checks;
+2 (iii) Carbohydrate counting;
+3 (iv) Catheterization;
+4 (v) Continuous glucose monitoring;
+5 (vi) Insulin pump services;
+6 (vii) Intramuscular injection;
+7 (viii) Intravascular injection;
+8 (ix) Subcutaneous injection;
+9 (x) Peritoneal dialysis;
+10 (xi) Postural drainage;
+11 (xii) Tracheostomy care;
+12 (xiii) Stoma care;
+13 (xiv) Suctioning;
+14 (xv) Tube feedings; and
+15 (xvi) Wound care.
+16 (2) The reimbursement from the program shall be used by the
+17 school districts solely for school nurse services and salaries.
+18
+19 SECTION 3. Arkansas Code Title 20, Chapter 77, Subchapter 1, is
+20 amended to add an additional section to read as follows:
+21 20-77-154. School district reimbursement.
+22 (a) The Arkansas Medicaid Program shall reimburse a school district
+23 for any of the following healthcare services provided by a licensed
+24 healthcare professional in a school setting to a student who is a
+25 beneficiary:
+26 (1) Vision screenings;
+27 (2) Hearing screenings; and
+28 (3) Direct nursing services provided by a licensed healthcare
+29 professional to a student under the supervision of a registered nurse
+30 employed by the school district and listed in the student's individualized
+31 health care plan according to § 6-18-701, including without limitation to the
+32 extent allowed by federal law:
+33 (A) Medication administration;
+34 (B) Blood sugar checks;
+35 (C) Carbohydrate counting;
+36 (D) Catheterization;
+2 03/21/2025 11:21:23 AM JMB456
+HB1890
+1 (E) Continuous glucose monitoring;
+2 (F) Insulin pump services;
+3 (G) Intramuscular injection;
+4 (H) Intravascular injection;
+5 (I) Subcutaneous injection;
+6 (J) Peritoneal dialysis;
+7 (K) Postural drainage;
+8 (L) Tracheostomy care;
+9 (M) Stoma care;
+10 (N) Suctioning;
+11 (O) Tube feedings; and
+12 (P) Wound care.
+13 (b) The reimbursement under this section shall be provided to the
+14 school districts solely for school nurse services and salaries as required
+15 under § 6-10-119.
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+3 03/21/2025 11:21:23 AM JMB456
+[DELETED:          A H P H   T H A S S  B   S s f  ( h    (    (    ( h n i l     (]
+[DELETED: H2 0     (     (     (     (     (     (     (     (     (     (     (     (     (     (     (   ( s   S a  2  ( f h b   (   (   ( p e h e    (    (    (    (]
+[DELETED: H3 0    (    (    (    (    (    (    (    (    (    (    (    (  ( s u                     ]
+
+
+================================================================================
+
+Raw Text:
+Stricken language would be deleted from and underlined language would be added to present law.
+1 State of Arkansas
+A Bill
+2 95th General Assembly
+3 Regular Session, 2025 HOUSE BILL 1890
+4
+5 By: Representative J. Mayberry
+6
+7
+For An Act To Be Entitled
+8
+9 AN ACT TO ALLOW SCHOOL DISTRICTS TO BILL FOR
+10 HEALTHCARE SERVICES; TO REQUIRE THE ARKANSAS MEDICAID
+11 PROGRAM TO REIMBURSE SCHOOL DISTRICTS FOR CERTAIN
+12 HEALTHCARE SERVICES; AND FOR OTHER PURPOSES.
+13
+14
+Subtitle
+15
+16 TO ALLOW SCHOOL DISTRICTS TO BILL FOR
+17 HEALTHCARE SERVICES; AND TO REQUIRE THE
+18 ARKANSAS MEDICAID PROGRAM TO REIMBURSE
+19 SCHOOL DISTRICTS FOR CERTAIN HEALTHCARE
+20 SERVICES.
+21
+22 BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF ARKANSAS:
+23
+24 SECTION 1. Arkansas Code § 6-10-119, concerning Medicaid billing in
+25 school districts, is amended to add an additional subsection to read as
+26 follows:
+27 (d)(1) A school district may bill the Arkansas Medicaid Program for
+28 healthcare services provided to a student, including without limitation:
+29 (A) Vision screenings;
+30 (B) Hearing screenings; and
+31 (C) Direct nursing services provided by a licensed
+32 healthcare professional to a student under the supervision of a registered
+33 nurse employed by the school district and listed in the student's
+34 individualized health care plan according to § 6-18-701, including without
+35 limitation to the extent allowed by federal law:
+36 (i) Medication administration;
+*JMB456*
+03/21/2025 11:21:23 AM JMB456
+
+HB1890
+1 (ii) Blood sugar checks;
+2 (iii) Carbohydrate counting;
+3 (iv) Catheterization;
+4 (v) Continuous glucose monitoring;
+5 (vi) Insulin pump services;
+6 (vii) Intramuscular injection;
+7 (viii) Intravascular injection;
+8 (ix) Subcutaneous injection;
+9 (x) Peritoneal dialysis;
+10 (xi) Postural drainage;
+11 (xii) Tracheostomy care;
+12 (xiii) Stoma care;
+13 (xiv) Suctioning;
+14 (xv) Tube feedings; and
+15 (xvi) Wound care.
+16 (2) The reimbursement from the program shall be used by the
+17 school districts solely for school nurse services and salaries.
+18
+19 SECTION 3. Arkansas Code Title 20, Chapter 77, Subchapter 1, is
+20 amended to add an additional section to read as follows:
+21 20-77-154. School district reimbursement.
+22 (a) The Arkansas Medicaid Program shall reimburse a school district
+23 for any of the following healthcare services provided by a licensed
+24 healthcare professional in a school setting to a student who is a
+25 beneficiary:
+26 (1) Vision screenings;
+27 (2) Hearing screenings; and
+28 (3) Direct nursing services provided by a licensed healthcare
+29 professional to a student under the supervision of a registered nurse
+30 employed by the school district and listed in the student's individualized
+31 health care plan according to § 6-18-701, including without limitation to the
+32 extent allowed by federal law:
+33 (A) Medication administration;
+34 (B) Blood sugar checks;
+35 (C) Carbohydrate counting;
+36 (D) Catheterization;
+2 03/21/2025 11:21:23 AM JMB456
+
+HB1890
+1 (E) Continuous glucose monitoring;
+2 (F) Insulin pump services;
+3 (G) Intramuscular injection;
+4 (H) Intravascular injection;
+5 (I) Subcutaneous injection;
+6 (J) Peritoneal dialysis;
+7 (K) Postural drainage;
+8 (L) Tracheostomy care;
+9 (M) Stoma care;
+10 (N) Suctioning;
+11 (O) Tube feedings; and
+12 (P) Wound care.
+13 (b) The reimbursement under this section shall be provided to the
+14 school districts solely for school nurse services and salaries as required
+15 under § 6-10-119.
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+3 03/21/2025 11:21:23 AM JMB456
+
+[DELETED:          A H P H   T H A S S  B   S s f  ( h    (    (    ( h n i l     (]
+[DELETED: H2 0     (     (     (     (     (     (     (     (     (     (     (     (     (     (     (   ( s   S a  2  ( f h b   (   (   ( p e h e    (    (    (    (]
+[DELETED: H3 0    (    (    (    (    (    (    (    (    (    (    (    (  ( s u                     ]

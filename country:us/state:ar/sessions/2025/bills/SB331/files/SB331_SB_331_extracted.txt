@@ -1,0 +1,259 @@
+Title: Stricken language would be deleted from and underlined language would be added to present law.
+Official Title: Stricken language would be deleted from and underlined language would be added to present law.
+Number of Sections: 1
+Source: versions - SB 331
+Media Type: application/pdf
+Strikethrough Detection: 3 sections found
+
+================================================================================
+
+Section 1:
+1 State of Arkansas As Engrossed: S3/20/25
+A Bill
+2 95th General Assembly
+3 Regular Session, 2025 SENATE BILL 331
+4
+5 By: Senator G. Leding
+6 By: Representative L. Johnson
+7
+For An Act To Be Entitled
+8
+9 AN ACT CONCERNING COVERAGE FOR GENETIC TESTING FOR
+10 INHERITED CANCER MUTATIONS; TO CREATE THE GENETIC
+11 TESTING ACT; AND FOR OTHER PURPOSES.
+12
+13
+Subtitle
+14
+15 CONCERNING COVERAGE FOR GENETIC TESTING
+16 FOR INHERITED CANCER MUTATIONS; AND TO
+17 CREATE THE GENETIC TESTING ACT.
+18
+19 BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF ARKANSAS:
+20
+21 SECTION 1. Arkansas Code Title 23, Chapter 79, is amended to add an
+22 additional subchapter to read as follows:
+23
+24 Subchapter 29 — Genetic Testing Act
+25
+26 23-79-2901. Title.
+27 This subchapter shall be known and may be cited as the "Genetic Testing
+28 Act".
+29
+30 23-79-2902. Definitions.
+31 As used in this subchapter:
+32 (1) "Clinical genetic testing for an inherited cancer mutation"
+33 means germline testing for an inherited mutation associated with an increased
+34 cancer risk according to evidence-based, clinical practice guidelines;
+35 (2) "Cost-sharing requirements" means a deductible payment,
+36 coinsurance amount, copayment, or any similar out-of-pocket expense;
+*ANS185*
+03-20-2025 15:42:50 ANS185
+As Engrossed: S3/20/25 SB331
+1 (3) "Enrollee" means an individual entitled to coverage of
+2 healthcare services from a healthcare insurer;
+3 (4) "Evidence-based cancer imaging" means an evidence-based
+4 cancer imaging modalities according to the National Comprehensive Cancer
+5 Network clinical practice guidelines;
+6 (5)(A) "Health benefit plan" means any individual, blanket, or
+7 group plan, policy, or contract for healthcare services issued or delivered
+8 by a healthcare insurer in this state.
+9 (B) "Health benefit plan" does not include:
+10 (i) Accident-only plans;
+11 (ii) Specified disease plans;
+12 (iii) Disability income plans;
+13 (iv) Plans that provide only for indemnity for
+14 hospital confinement;
+15 (v) Long-term-care-only plans that do not include
+16 pharmacy benefits;
+17 (vi) Other limited-benefit health insurance policies
+18 or plans;
+19 (vii) Health benefit plans provided under Arkansas
+20 Constitution, Article 5, § 32, the Workers' Compensation Law, § 11-9-101 et
+21 seq., or the Public Employee Workers' Compensation Act, § 21-5-601 et seq.;
+22 (viii) The Arkansas Medicaid Program;
+23 (ix) A program established by the Arkansas Health
+24 and Opportunity for Me Act of 2021, § 23-61-1001 et seq.;
+25 (x) Any state or local governmental employee plan;
+26 or
+27 (xi) A plan that provides only dental benefits or
+28 eye and vision care benefits;
+29 (6)(A) "Healthcare insurer" means a:
+30 (i) Health insurance issuer that is subject to state
+31 law regulating insurance;
+32 (ii) Health maintenance organization;
+33 (iii) Hospital and medical service corporation; or
+34 (iv) An entity that provides plans as a nonprofit
+35 agricultural membership organization as defined in § 23-60-104.
+36 (B) "Healthcare insurer" does not include an entity that
+2 03-20-2025 15:42:50 ANS185
+As Engrossed: S3/20/25 SB331
+1 provides only dental benefits or eye and vision care benefits; and
+2 (7) "Healthcare professional" means a person who is licensed,
+3 certified, or otherwise authorized by the laws of this state to administer
+4 health care in the ordinary course of the practice of his or her profession.
+5
+6 23-79-2903. Coverage for genetic testing for inherited cancer
+7 mutations.
+8 (a) On and after January 1, 2026, a health benefit plan that is
+9 offered, issued, or renewed in this state shall provide coverage for:
+10 (1) Clinical genetic testing for a clinical genetic testing for
+11 an inherited cancer mutation for an enrollee with a personal or family
+12 history of cancer if the clinical genetic testing for a clinical genetic
+13 testing for an inherited cancer mutation is recommended by a healthcare
+14 professional; and
+15 (2) Evidenced-based cancer imaging for an enrollee with an
+16 increased risk of cancer as recommended by National Comprehensive Cancer
+17 Network clinical practice guidelines.
+18 (b) The coverage under subsection (a) of this section is not subject
+19 to any cost-sharing requirements under other applicable law.
+20 (c)(1) If application of this section would result in health savings
+21 account ineligibility under guidance issued by the United States Department
+22 of the Treasury under 26 U.S.C. § 223, as in effect on January 1, 2025, then
+23 this section shall apply only to health savings accounts with qualified high
+24 deductible health plans with respect to the deductible of a health benefit
+25 plan after the individual has satisfied the minimum deductible.
+26 (2) This section does apply to items or services that are
+27 considered to be preventive care under 26 U.S.C. § 223(c)(2)(C), as in effect
+28 on January 1, 2025, whether or not the minimum deductible has been satisfied.
+29
+30 23-79-2904. Rules.
+31 The Insurance Commissioner may develop and promulgate rules for the
+32 implementation and administration of this subchapter.
+33
+34 /s/G. Leding
+35
+36
+3 03-20-2025 15:42:50 ANS185
+[DELETED:  A   EBL3     A I T   C F C  B   S a  S   2  T A   2  A   ( m c   ( c]
+[DELETED:  S2 0   ( h   ( c N   ( g b    (     (     (     (     ( h     ( p     ( o     ( C s     (     ( a     ( o     ( e   (     ( l     (     (     ( a    (]
+[DELETED:  S3 0 p   ( c h   2 m  ( o   ( a h t p   ( i N  ( t  ( a o t d p   ( c o   2  T i  /  ]
+
+
+================================================================================
+
+Raw Text:
+Stricken language would be deleted from and underlined language would be added to present law.
+1 State of Arkansas As Engrossed: S3/20/25
+A Bill
+2 95th General Assembly
+3 Regular Session, 2025 SENATE BILL 331
+4
+5 By: Senator G. Leding
+6 By: Representative L. Johnson
+7
+For An Act To Be Entitled
+8
+9 AN ACT CONCERNING COVERAGE FOR GENETIC TESTING FOR
+10 INHERITED CANCER MUTATIONS; TO CREATE THE GENETIC
+11 TESTING ACT; AND FOR OTHER PURPOSES.
+12
+13
+Subtitle
+14
+15 CONCERNING COVERAGE FOR GENETIC TESTING
+16 FOR INHERITED CANCER MUTATIONS; AND TO
+17 CREATE THE GENETIC TESTING ACT.
+18
+19 BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF ARKANSAS:
+20
+21 SECTION 1. Arkansas Code Title 23, Chapter 79, is amended to add an
+22 additional subchapter to read as follows:
+23
+24 Subchapter 29 — Genetic Testing Act
+25
+26 23-79-2901. Title.
+27 This subchapter shall be known and may be cited as the "Genetic Testing
+28 Act".
+29
+30 23-79-2902. Definitions.
+31 As used in this subchapter:
+32 (1) "Clinical genetic testing for an inherited cancer mutation"
+33 means germline testing for an inherited mutation associated with an increased
+34 cancer risk according to evidence-based, clinical practice guidelines;
+35 (2) "Cost-sharing requirements" means a deductible payment,
+36 coinsurance amount, copayment, or any similar out-of-pocket expense;
+*ANS185*
+03-20-2025 15:42:50 ANS185
+
+As Engrossed: S3/20/25 SB331
+1 (3) "Enrollee" means an individual entitled to coverage of
+2 healthcare services from a healthcare insurer;
+3 (4) "Evidence-based cancer imaging" means an evidence-based
+4 cancer imaging modalities according to the National Comprehensive Cancer
+5 Network clinical practice guidelines;
+6 (5)(A) "Health benefit plan" means any individual, blanket, or
+7 group plan, policy, or contract for healthcare services issued or delivered
+8 by a healthcare insurer in this state.
+9 (B) "Health benefit plan" does not include:
+10 (i) Accident-only plans;
+11 (ii) Specified disease plans;
+12 (iii) Disability income plans;
+13 (iv) Plans that provide only for indemnity for
+14 hospital confinement;
+15 (v) Long-term-care-only plans that do not include
+16 pharmacy benefits;
+17 (vi) Other limited-benefit health insurance policies
+18 or plans;
+19 (vii) Health benefit plans provided under Arkansas
+20 Constitution, Article 5, § 32, the Workers' Compensation Law, § 11-9-101 et
+21 seq., or the Public Employee Workers' Compensation Act, § 21-5-601 et seq.;
+22 (viii) The Arkansas Medicaid Program;
+23 (ix) A program established by the Arkansas Health
+24 and Opportunity for Me Act of 2021, § 23-61-1001 et seq.;
+25 (x) Any state or local governmental employee plan;
+26 or
+27 (xi) A plan that provides only dental benefits or
+28 eye and vision care benefits;
+29 (6)(A) "Healthcare insurer" means a:
+30 (i) Health insurance issuer that is subject to state
+31 law regulating insurance;
+32 (ii) Health maintenance organization;
+33 (iii) Hospital and medical service corporation; or
+34 (iv) An entity that provides plans as a nonprofit
+35 agricultural membership organization as defined in § 23-60-104.
+36 (B) "Healthcare insurer" does not include an entity that
+2 03-20-2025 15:42:50 ANS185
+
+As Engrossed: S3/20/25 SB331
+1 provides only dental benefits or eye and vision care benefits; and
+2 (7) "Healthcare professional" means a person who is licensed,
+3 certified, or otherwise authorized by the laws of this state to administer
+4 health care in the ordinary course of the practice of his or her profession.
+5
+6 23-79-2903. Coverage for genetic testing for inherited cancer
+7 mutations.
+8 (a) On and after January 1, 2026, a health benefit plan that is
+9 offered, issued, or renewed in this state shall provide coverage for:
+10 (1) Clinical genetic testing for a clinical genetic testing for
+11 an inherited cancer mutation for an enrollee with a personal or family
+12 history of cancer if the clinical genetic testing for a clinical genetic
+13 testing for an inherited cancer mutation is recommended by a healthcare
+14 professional; and
+15 (2) Evidenced-based cancer imaging for an enrollee with an
+16 increased risk of cancer as recommended by National Comprehensive Cancer
+17 Network clinical practice guidelines.
+18 (b) The coverage under subsection (a) of this section is not subject
+19 to any cost-sharing requirements under other applicable law.
+20 (c)(1) If application of this section would result in health savings
+21 account ineligibility under guidance issued by the United States Department
+22 of the Treasury under 26 U.S.C. § 223, as in effect on January 1, 2025, then
+23 this section shall apply only to health savings accounts with qualified high
+24 deductible health plans with respect to the deductible of a health benefit
+25 plan after the individual has satisfied the minimum deductible.
+26 (2) This section does apply to items or services that are
+27 considered to be preventive care under 26 U.S.C. § 223(c)(2)(C), as in effect
+28 on January 1, 2025, whether or not the minimum deductible has been satisfied.
+29
+30 23-79-2904. Rules.
+31 The Insurance Commissioner may develop and promulgate rules for the
+32 implementation and administration of this subchapter.
+33
+34 /s/G. Leding
+35
+36
+3 03-20-2025 15:42:50 ANS185
+
+[DELETED:  A   EBL3     A I T   C F C  B   S a  S   2  T A   2  A   ( m c   ( c]
+[DELETED:  S2 0   ( h   ( c N   ( g b    (     (     (     (     ( h     ( p     ( o     ( C s     (     ( a     ( o     ( e   (     ( l     (     (     ( a    (]
+[DELETED:  S3 0 p   ( c h   2 m  ( o   ( a h t p   ( i N  ( t  ( a o t d p   ( c o   2  T i  /  ]

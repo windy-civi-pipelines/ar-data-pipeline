@@ -1,0 +1,812 @@
+Title: Stricken language would be deleted from and underlined language would be added to present law.
+Official Title: Stricken language would be deleted from and underlined language would be added to present law.
+Number of Sections: 1
+Source: versions - HB 1228
+Media Type: application/pdf
+Strikethrough Detection: 10 sections found
+
+================================================================================
+
+Section 1:
+1 State of Arkansas
+A Bill
+2 95th General Assembly
+3 Regular Session, 2025 HOUSE BILL 1228
+4
+5 By: Joint Budget Committee
+6
+7
+For An Act To Be Entitled
+8
+9 AN ACT TO MAKE AN APPROPRIATION FOR PERSONAL SERVICES
+10 AND OPERATING EXPENSES FOR THE NORTHWEST ARKANSAS
+11 COMMUNITY COLLEGE FOR THE FISCAL YEAR ENDING JUNE 30,
+12 2026; AND FOR OTHER PURPOSES.
+13
+14
+Subtitle
+15
+16 AN ACT FOR THE NORTHWEST ARKANSAS
+17 COMMUNITY COLLEGE APPROPRIATION FOR THE
+18 2025-2026 FISCAL YEAR.
+19
+20
+21 BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF ARKANSAS:
+22
+23 SECTION 1. REGULAR SALARIES - OPERATIONS. There is hereby established
+24 for the Northwest Arkansas Community College for the 2025-2026 fiscal year,
+25 the following maximum number of regular employees.
+26
+27 Maximum Annual
+28 Maximum Salary Rate
+29 Item No. of Fiscal Year
+30 No. Title Employees 2025-2026
+31 TWELVE MONTH EDUCATIONAL AND GENERAL
+32 ADMINISTRATIVE POSITIONS
+33 (1) President, NWACC 1 $208,138
+34 (2) IT Pool 27
+35 Network Engineer $200,973
+36 Information Systems Manager $128,994
+*HAR007*
+01/27/2025 9:12:19 AM HAR007
+HB1228
+1 Computer Network Coordinator $128,780
+2 Technical Support Staff $123,019
+3 Coordinator, Academic Computing $121,571
+4 Coord., Administrative Computing $121,570
+5 Coordinator of Information Technology $119,967
+6 Website Developer/Programmer $119,967
+7 System Programmer/Web Developer $118,592
+8 Computer Systems Mgr. $108,987
+9 Database Administrator $106,607
+10 Systems Administrator $105,547
+11 Information Systems Security Specialist $103,579
+12 Institution Information Technology Coord. $101,489
+13 Assistant Database Administrator $97,665
+14 Computer Support Manager $97,585
+15 Information Systems Coordinator $97,585
+16 Senior Software Support Specialist $97,585
+17 Systems Specialist $97,585
+18 Information Technology Manager $96,408
+19 Network Support Specialist $93,831
+20 Senior Software Support Analyst $93,831
+21 Tech Support/Systems Admin. $92,374
+22 Tech Support/Applications Support $92,374
+23 Information Systems Business Manager $90,223
+24 Security Analyst $90,223
+25 Systems Analyst $90,223
+26 Information Technology Specialist $88,339
+27 Computer Support Coordinator $86,753
+28 Software Support Analyst $86,753
+29 Systems Applications Supervisor $86,753
+30 Computer Operations Coordinator $83,416
+31 Systems Coordination Analyst $83,416
+32 PC Support Specialist $81,860
+33 Computer Support Specialist $80,208
+34 Database Analyst $80,208
+35 Digital Broadcast Specialist $77,123
+36 Network Support Analyst $77,123
+2 01/27/2025 9:12:19 AM HAR007
+HB1228
+1 Website Developer $77,123
+2 Information Systems Analyst $74,157
+3 Information Systems Security Analyst $74,157
+4 Computer Support Analyst $74,157
+5 Software Support Specialist $71,305
+6 Telecommunications Supervisor $71,305
+7 Media Specialist $69,975
+8 Computer Support Technician $68,562
+9 Help Desk Specialist $68,562
+10 Computer Operator $65,925
+11 Network Analyst $65,925
+12 Telecommunications Specialist $65,925
+13 Multimedia Specialist $62,208
+14 Information Technology Assistant $58,608
+15 Computer Lab Technician $56,353
+16 Multimedia Technician $51,130
+17 Audiovisual Laboratory Assistant $47,272
+18 (3) Executive Vice President 2 $174,282
+19 (4) Chief Academic Officer 1 $167,057
+20 (5) Chief of External & Adv. Programs 1 $156,658
+21 (6) Chief Information Officer 1 $156,658
+22 (7) Director of College Relations 1 $156,658
+23 (8) Chief Fiscal Officer 1 $156,658
+24 (9) Chief Planning & Assessment Officer 1 $156,658
+25 (10) Chief Student Affairs Officer 1 $156,658
+26 (11) Director of Institutional Research 1 $132,733
+27 (12) Dir. of Community & Govt. Relations 1 $132,733
+28 (13) Dir. of Fac. Planning & Construction 1 $132,733
+29 (14) Director of Human Resources 1 $132,733
+30 (15) Director of Administrative Services 1 $130,825
+31 (16) Dean of Workforce Development 1 $129,825
+32 (17) Counselor 11 $127,508
+33 (18) Director 2 $127,507
+34 (19) Coord. of Cont. Ed. & Bus. Outreach 1 $122,249
+35 (20) Dir. of Public Relations & Marketing 1 $122,249
+36 (21) Registrar 1 $122,249
+3 01/27/2025 9:12:19 AM HAR007
+HB1228
+1 (22) Director of Financial Aid 1 $122,005
+2 (23) Dean of Students 1 $121,484
+3 (24) Director of Major Gifts 1 $121,402
+4 (25) Director of Planning & Assessment 1 $120,919
+5 (26) Project/Program Administrator 37
+6 Project/Program Director $120,919
+7 Project/Program Manager $101,256
+8 Project/Program Specialist $91,408
+9 (27) Director of Academic Computing 1 $119,967
+10 (28) Director of Administrative Computing 1 $119,967
+11 (29) Director of Distance Learning 1 $119,881
+12 (30) Director of Off-Campus Operations 1 $119,881
+13 (31) Business Manager 1 $117,181
+14 (32) Controller 1 $117,181
+15 (33) Director of Testing Services 1 $114,690
+16 (34) Director of Physical Plant 1 $113,103
+17 (35) Director of Police & Public Safety 1 $113,102
+18 (36) Director of Admissions 1 $111,453
+19 (37) Director of Enrollment Management 1 $111,453
+20 (38) Director of Academic Advising 1 $111,361
+21 (39) Director of Student Retention 1 $111,361
+22 (40) Director of Special Programs 1 $111,361
+23 (41) Coordinator of Career Services 1 $106,609
+24 (42) Associate Registrar 1 $106,166
+25 (43) Instructional Designer 3 $106,084
+26 (44) Administrator of Grants & Contracts 1 $103,501
+27 (45) Assistant to the President 1 $103,501
+28 (46) Dir. of Student Activities/Org. 1 $101,944
+29 (47) Workforce Specialist 4 $93,055
+30 (48) Fiscal Support Pool 11
+31 Fiscal Support Manager $92,082
+32 Fiscal Support Supervisor $75,685
+33 Accountant II $72,774
+34 Accountant I $69,975
+35 Fiscal Support Analyst $67,284
+36 Fiscal Support Specialist $59,815
+4 01/27/2025 9:12:19 AM HAR007
+HB1228
+1 Accounting Technician $55,302
+2 Fiscal Support Technician $51,130
+3 (49) Director of Disability Services 1 $91,268
+4 (50) Public Safety Pool 23
+5 HE Public Safety Commander III $90,223
+6 Director Public Safety I $88,541
+7 HE Public Safety Commander II $86,753
+8 HE Public Safety Commander I $83,416
+9 HE Public Safety Supervisor $74,157
+10 Public Safety Officer $71,305
+11 Public Safety Officer II $65,925
+12 Security Officer Supervisor $62,208
+13 Public Safety/Security Officer $56,353
+14 HE Public Safety Dispatcher $47,272
+15 Parking Control Supv. $47,272
+16 Security Officer $47,272
+17 Parking Control Officer $45,455
+18 Watchman $38,855
+19 (51) Accounting Coordinator 4 $85,136
+20 (52) Planned Giving Officer 1 $85,080
+21 (53) Procurement Coordinator 1 $78,713
+22 (54) Benefits Coordinator 1 $78,713
+23 (55) Budget Analyst 1 $78,713
+24 (56) Academic Tutor 2 $77,184
+25 (57) Academic Advisor 19 $77,184
+26 (58) Student Services Representative 28 $77,183
+27 (59) Skilled Trades Pool 7
+28 Skilled Trades Foreman $74,157
+29 Skilled Trades Supervisor $71,305
+30 Skilled Tradesman $68,562
+31 Skilled Trades Helper $52,101
+32 Apprentice Tradesman $46,319
+33 (60) Grants Analyst 2 $72,774
+34 (61) Human Resources Analyst 2 $72,774
+35 (62) Maintenance Coordinator 1 $72,774
+36 (63) Production Artist 2 $72,774
+5 01/27/2025 9:12:19 AM HAR007
+HB1228
+1 (64) HEI Program Coordinator 21 $69,975
+2 (65) Administrative Support Pool 64
+3 Administrative Assistant $67,284
+4 Administrative Analyst $67,284
+5 Administrative Support Supervisor $62,208
+6 Administrative Specialist III $59,815
+7 Administration Support Specialist $59,815
+8 Administrative Specialist II $53,175
+9 Administrative Support Specialist $53,175
+10 Administrative Specialist I $47,272
+11 Extra Help Assistant $38,855
+12 (66) Assistant Registrar 5 $67,284
+13 (67) Construction Specialist 1 $67,284
+14 (68) Financial Aid Analyst 5 $67,284
+15 (69) Library Support Pool 4
+16 Library Supervisor $67,284
+17 Library Specialist $57,515
+18 Library Technician $53,175
+19 Library Support Assistant $49,164
+20 (70) Purchasing Specialist 2 $67,284
+21 (71) Financial Aid Specialist 1 $62,208
+22 (72) Human Resources Specialist 1 $62,208
+23 (73) Inventory Control Manager 1 $62,208
+24 (74) Landscape Supervisor 1 $62,208
+25 (75) Maintenance Specialist 3 $59,815
+26 (76) Laboratory Coordinator 4 $57,515
+27 (77) Human Resources Assistant 1 $55,302
+28 (78) Student Account Specialist 1 $55,302
+29 (79) Warehouse Specialist 1 $55,302
+30 (80) Admission Specialist 1 $51,130
+31 (81) Cashier 3 $51,130
+32 (82) Maintenance Assistant 8 $51,130
+33 (83) Mail Services Coordinator 1 $49,164
+34 (84) Registrar's Assistant 2 $49,164
+35 (85) Academic Laboratory Assistant 4 $45,455
+36 (86) Equipment Operator 1 $45,455
+6 01/27/2025 9:12:19 AM HAR007
+HB1228
+1 TWELVE MONTH EDUCATIONAL AND GENERAL
+2 ACADEMIC POSITIONS
+3 (87) Division Chairperson/Dean 8 $146,201
+4 (88) Director of Nursing 1 $144,651
+5 (89) Librarian 1 $132,733
+6 (90) Special Instructor 40 $111,362
+7 (91) Assistant Librarian 8 $82,663
+8 (92) Lab. Supervisor 6 $69,399
+9 NINE MONTH EDUCATIONAL AND GENERAL
+10 ACADEMIC POSITIONS
+11 (93) Faculty 183 $111,362
+12 (94) Part-Time Faculty 513 $56,046
+13 TWELVE MONTH AUXILIARY ENTERPRISES
+14 POSITIONS
+15 (95) Athletic Director 1 $120,919
+16 (96) Project/Program Administrator 1
+17 Project/Program Director $120,919
+18 Project/Program Manager $101,256
+19 Project/Program Specialist $91,408
+20 (97) Athletic Administration & Support Pool 7
+21 Coach $104,891
+22 Asst. Coach $56,046
+23 Athletic Trainer $41,956
+24 MAX. NO. OF EMPLOYEES 1,137
+25
+26 SECTION 2. EXTRA HELP - OPERATIONS. There is hereby authorized, for
+27 the Northwest Arkansas Community College for the 2025-2026 fiscal year, the
+28 following maximum number of part-time or temporary employees, to be known as
+29 "Extra Help", payable from funds appropriated herein for such purposes:
+30 three hundred sixty (360) temporary or part-time employees, when needed, at
+31 rates of pay not to exceed those provided in the Uniform Classification and
+32 Compensation Act, or its successor, or this act for the appropriate
+33 classification.
+34
+35 SECTION 3. APPROPRIATION - STATE OPERATIONS. There is hereby
+36 appropriated, to the Northwest Arkansas Community College, to be payable from
+7 01/27/2025 9:12:19 AM HAR007
+HB1228
+1 the Northwest Arkansas Community College Fund, for personal services and
+2 operating expenses of the Northwest Arkansas Community College for the fiscal
+3 year ending June 30, 2026, the following:
+4
+5 ITEM FISCAL YEAR
+6 NO. 2025-2026
+7 (01) REGULAR SALARIES $13,068,588
+8 (02) MAINT. & GEN. OPERATION
+9 (A) OPER. EXPENSE 10,000
+10 (B) CONF. & TRAVEL 0
+11 (C) PROF. FEES 0
+12 (D) CAP. OUTLAY 0
+13 (E) DATA PROC. 0
+14 (03) CONTINGENCY 653,929
+15 TOTAL AMOUNT APPROPRIATED $13,732,517
+16
+17 SECTION 4. APPROPRIATION - CASH FUNDS. There is hereby appropriated,
+18 to the Northwest Arkansas Community College, to be payable from cash funds as
+19 defined by Arkansas Code 19-4-801, for personal services and operating
+20 expenses of the Northwest Arkansas Community College for the fiscal year
+21 ending June 30, 2026, the following:
+22
+23 ITEM FISCAL YEAR
+24 NO. 2025-2026
+25 (01) REGULAR SALARIES $27,453,974
+26 (02) EXTRA HELP 1,812,734
+27 (03) OVERTIME 54,520
+28 (04) PERSONAL SERVICES MATCHING 19,000,501
+29 (05) MAINT. & GEN. OPERATION
+30 (A) OPER. EXPENSE 18,371,141
+31 (B) CONF. & TRAVEL 616,080
+32 (C) PROF. FEES 2,090,855
+33 (D) CAP. OUTLAY 3,878,233
+34 (E) DATA PROC. 0
+35 (06) CAPITAL IMPROVEMENTS 1,066,272
+36 (07) DEBT SERVICE 4,046,275
+8 01/27/2025 9:12:19 AM HAR007
+HB1228
+1 (08) PROMOTIONAL ITEMS 89,111
+2 TOTAL AMOUNT APPROPRIATED $78,479,696
+3
+4 SECTION 5. APPROPRIATION - CHILD PROTECTION TRAINING CENTER. There is
+5 hereby appropriated, to the Northwest Arkansas Community College, to be
+6 payable from the Northwest Arkansas Community College Fund, for personal
+7 services and operating expenses of the Northwest Arkansas Community College -
+8 Child Protection Training Center for the fiscal year ending June 30, 2026,
+9 the following:
+10
+11 ITEM FISCAL YEAR
+12 NO. 2025-2026
+13 (01) REGULAR SALARIES $142,043
+14 (02) PERSONAL SERVICES MATCHING 34,657
+15 (03) MAINT. & GEN. OPERATION
+16 (A) OPER. EXPENSE 51,250
+17 (B) CONF. & TRAVEL 10,250
+18 (C) PROF. FEES 35,875
+19 (D) CAP. OUTLAY 0
+20 (E) DATA PROC. 0
+21 TOTAL AMOUNT APPROPRIATED $274,075
+22
+23 SECTION 6. COMPLIANCE WITH OTHER LAWS. Disbursement of funds
+24 authorized by this act shall be limited to the appropriation for such agency
+25 and funds made available by law for the support of such appropriations; and
+26 the restrictions of the State Procurement Law, the General Accounting and
+27 Budgetary Procedures Law, the Revenue Stabilization Law, the Regular Salary
+28 Procedures and Restrictions Act, the Higher Education Expenditure Restriction
+29 Act, or their successors, and other fiscal control laws of this State, where
+30 applicable, and regulations promulgated by the Department of Finance and
+31 Administration, as authorized by law, shall be strictly complied with in
+32 disbursement of said funds.
+33
+34 SECTION 7. LEGISLATIVE INTENT. It is the intent of the General
+35 Assembly that any funds disbursed under the authority of the appropriations
+36 contained in this act shall be in compliance with the stated reasons for
+9 01/27/2025 9:12:19 AM HAR007
+HB1228
+1 which this act was adopted, as evidenced by the Agency Requests, Executive
+2 Recommendations and Legislative Recommendations contained in the budget
+3 manuals prepared by the Department of Finance and Administration, letters, or
+4 summarized oral testimony in the official minutes of the Arkansas Legislative
+5 Council or Joint Budget Committee which relate to its passage and adoption.
+6
+7 SECTION 8. EMERGENCY CLAUSE. It is found and determined by the General
+8 Assembly, that the Constitution of the State of Arkansas prohibits the
+9 appropriation of funds for more than a one (1) year period; that the
+10 effectiveness of this Act on July 1, 2025 is essential to the operation of
+11 the agency for which the appropriations in this Act are provided, and that in
+12 the event of an extension of the legislative session, the delay in the
+13 effective date of this Act beyond July 1, 2025 could work irreparable harm
+14 upon the proper administration and provision of essential governmental
+15 programs. Therefore, an emergency is hereby declared to exist and this Act
+16 being necessary for the immediate preservation of the public peace, health
+17 and safety shall be in full force and effect from and after July 1, 2025.
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+10 01/27/2025 9:12:19 AM HAR007
+[DELETED:       A A C 2  A C 2    B   S f t                     ]
+[DELETED: H2 0                                                                        ]
+[DELETED: H3 0                                                                        ]
+[DELETED: H4 0                                                                        ]
+[DELETED: H5 0                                                                        ]
+[DELETED: H6 0                                                                        ]
+[DELETED: H7 0                                                   S t f " t r C c   S a]
+[DELETED: H8 0 t o y  I   ( (           (     S t d e e  I   ( ( ( ( (           ( (]
+[DELETED: H9 0 (     S h p s C t  I   ( ( (               S a a t B P A a A d   S A c]
+[DELETED: H1 0 w R m s C   S A a e t t e u p b a                   ]
+
+
+================================================================================
+
+Raw Text:
+Stricken language would be deleted from and underlined language would be added to present law.
+1 State of Arkansas
+A Bill
+2 95th General Assembly
+3 Regular Session, 2025 HOUSE BILL 1228
+4
+5 By: Joint Budget Committee
+6
+7
+For An Act To Be Entitled
+8
+9 AN ACT TO MAKE AN APPROPRIATION FOR PERSONAL SERVICES
+10 AND OPERATING EXPENSES FOR THE NORTHWEST ARKANSAS
+11 COMMUNITY COLLEGE FOR THE FISCAL YEAR ENDING JUNE 30,
+12 2026; AND FOR OTHER PURPOSES.
+13
+14
+Subtitle
+15
+16 AN ACT FOR THE NORTHWEST ARKANSAS
+17 COMMUNITY COLLEGE APPROPRIATION FOR THE
+18 2025-2026 FISCAL YEAR.
+19
+20
+21 BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF ARKANSAS:
+22
+23 SECTION 1. REGULAR SALARIES - OPERATIONS. There is hereby established
+24 for the Northwest Arkansas Community College for the 2025-2026 fiscal year,
+25 the following maximum number of regular employees.
+26
+27 Maximum Annual
+28 Maximum Salary Rate
+29 Item No. of Fiscal Year
+30 No. Title Employees 2025-2026
+31 TWELVE MONTH EDUCATIONAL AND GENERAL
+32 ADMINISTRATIVE POSITIONS
+33 (1) President, NWACC 1 $208,138
+34 (2) IT Pool 27
+35 Network Engineer $200,973
+36 Information Systems Manager $128,994
+*HAR007*
+01/27/2025 9:12:19 AM HAR007
+
+HB1228
+1 Computer Network Coordinator $128,780
+2 Technical Support Staff $123,019
+3 Coordinator, Academic Computing $121,571
+4 Coord., Administrative Computing $121,570
+5 Coordinator of Information Technology $119,967
+6 Website Developer/Programmer $119,967
+7 System Programmer/Web Developer $118,592
+8 Computer Systems Mgr. $108,987
+9 Database Administrator $106,607
+10 Systems Administrator $105,547
+11 Information Systems Security Specialist $103,579
+12 Institution Information Technology Coord. $101,489
+13 Assistant Database Administrator $97,665
+14 Computer Support Manager $97,585
+15 Information Systems Coordinator $97,585
+16 Senior Software Support Specialist $97,585
+17 Systems Specialist $97,585
+18 Information Technology Manager $96,408
+19 Network Support Specialist $93,831
+20 Senior Software Support Analyst $93,831
+21 Tech Support/Systems Admin. $92,374
+22 Tech Support/Applications Support $92,374
+23 Information Systems Business Manager $90,223
+24 Security Analyst $90,223
+25 Systems Analyst $90,223
+26 Information Technology Specialist $88,339
+27 Computer Support Coordinator $86,753
+28 Software Support Analyst $86,753
+29 Systems Applications Supervisor $86,753
+30 Computer Operations Coordinator $83,416
+31 Systems Coordination Analyst $83,416
+32 PC Support Specialist $81,860
+33 Computer Support Specialist $80,208
+34 Database Analyst $80,208
+35 Digital Broadcast Specialist $77,123
+36 Network Support Analyst $77,123
+2 01/27/2025 9:12:19 AM HAR007
+
+HB1228
+1 Website Developer $77,123
+2 Information Systems Analyst $74,157
+3 Information Systems Security Analyst $74,157
+4 Computer Support Analyst $74,157
+5 Software Support Specialist $71,305
+6 Telecommunications Supervisor $71,305
+7 Media Specialist $69,975
+8 Computer Support Technician $68,562
+9 Help Desk Specialist $68,562
+10 Computer Operator $65,925
+11 Network Analyst $65,925
+12 Telecommunications Specialist $65,925
+13 Multimedia Specialist $62,208
+14 Information Technology Assistant $58,608
+15 Computer Lab Technician $56,353
+16 Multimedia Technician $51,130
+17 Audiovisual Laboratory Assistant $47,272
+18 (3) Executive Vice President 2 $174,282
+19 (4) Chief Academic Officer 1 $167,057
+20 (5) Chief of External & Adv. Programs 1 $156,658
+21 (6) Chief Information Officer 1 $156,658
+22 (7) Director of College Relations 1 $156,658
+23 (8) Chief Fiscal Officer 1 $156,658
+24 (9) Chief Planning & Assessment Officer 1 $156,658
+25 (10) Chief Student Affairs Officer 1 $156,658
+26 (11) Director of Institutional Research 1 $132,733
+27 (12) Dir. of Community & Govt. Relations 1 $132,733
+28 (13) Dir. of Fac. Planning & Construction 1 $132,733
+29 (14) Director of Human Resources 1 $132,733
+30 (15) Director of Administrative Services 1 $130,825
+31 (16) Dean of Workforce Development 1 $129,825
+32 (17) Counselor 11 $127,508
+33 (18) Director 2 $127,507
+34 (19) Coord. of Cont. Ed. & Bus. Outreach 1 $122,249
+35 (20) Dir. of Public Relations & Marketing 1 $122,249
+36 (21) Registrar 1 $122,249
+3 01/27/2025 9:12:19 AM HAR007
+
+HB1228
+1 (22) Director of Financial Aid 1 $122,005
+2 (23) Dean of Students 1 $121,484
+3 (24) Director of Major Gifts 1 $121,402
+4 (25) Director of Planning & Assessment 1 $120,919
+5 (26) Project/Program Administrator 37
+6 Project/Program Director $120,919
+7 Project/Program Manager $101,256
+8 Project/Program Specialist $91,408
+9 (27) Director of Academic Computing 1 $119,967
+10 (28) Director of Administrative Computing 1 $119,967
+11 (29) Director of Distance Learning 1 $119,881
+12 (30) Director of Off-Campus Operations 1 $119,881
+13 (31) Business Manager 1 $117,181
+14 (32) Controller 1 $117,181
+15 (33) Director of Testing Services 1 $114,690
+16 (34) Director of Physical Plant 1 $113,103
+17 (35) Director of Police & Public Safety 1 $113,102
+18 (36) Director of Admissions 1 $111,453
+19 (37) Director of Enrollment Management 1 $111,453
+20 (38) Director of Academic Advising 1 $111,361
+21 (39) Director of Student Retention 1 $111,361
+22 (40) Director of Special Programs 1 $111,361
+23 (41) Coordinator of Career Services 1 $106,609
+24 (42) Associate Registrar 1 $106,166
+25 (43) Instructional Designer 3 $106,084
+26 (44) Administrator of Grants & Contracts 1 $103,501
+27 (45) Assistant to the President 1 $103,501
+28 (46) Dir. of Student Activities/Org. 1 $101,944
+29 (47) Workforce Specialist 4 $93,055
+30 (48) Fiscal Support Pool 11
+31 Fiscal Support Manager $92,082
+32 Fiscal Support Supervisor $75,685
+33 Accountant II $72,774
+34 Accountant I $69,975
+35 Fiscal Support Analyst $67,284
+36 Fiscal Support Specialist $59,815
+4 01/27/2025 9:12:19 AM HAR007
+
+HB1228
+1 Accounting Technician $55,302
+2 Fiscal Support Technician $51,130
+3 (49) Director of Disability Services 1 $91,268
+4 (50) Public Safety Pool 23
+5 HE Public Safety Commander III $90,223
+6 Director Public Safety I $88,541
+7 HE Public Safety Commander II $86,753
+8 HE Public Safety Commander I $83,416
+9 HE Public Safety Supervisor $74,157
+10 Public Safety Officer $71,305
+11 Public Safety Officer II $65,925
+12 Security Officer Supervisor $62,208
+13 Public Safety/Security Officer $56,353
+14 HE Public Safety Dispatcher $47,272
+15 Parking Control Supv. $47,272
+16 Security Officer $47,272
+17 Parking Control Officer $45,455
+18 Watchman $38,855
+19 (51) Accounting Coordinator 4 $85,136
+20 (52) Planned Giving Officer 1 $85,080
+21 (53) Procurement Coordinator 1 $78,713
+22 (54) Benefits Coordinator 1 $78,713
+23 (55) Budget Analyst 1 $78,713
+24 (56) Academic Tutor 2 $77,184
+25 (57) Academic Advisor 19 $77,184
+26 (58) Student Services Representative 28 $77,183
+27 (59) Skilled Trades Pool 7
+28 Skilled Trades Foreman $74,157
+29 Skilled Trades Supervisor $71,305
+30 Skilled Tradesman $68,562
+31 Skilled Trades Helper $52,101
+32 Apprentice Tradesman $46,319
+33 (60) Grants Analyst 2 $72,774
+34 (61) Human Resources Analyst 2 $72,774
+35 (62) Maintenance Coordinator 1 $72,774
+36 (63) Production Artist 2 $72,774
+5 01/27/2025 9:12:19 AM HAR007
+
+HB1228
+1 (64) HEI Program Coordinator 21 $69,975
+2 (65) Administrative Support Pool 64
+3 Administrative Assistant $67,284
+4 Administrative Analyst $67,284
+5 Administrative Support Supervisor $62,208
+6 Administrative Specialist III $59,815
+7 Administration Support Specialist $59,815
+8 Administrative Specialist II $53,175
+9 Administrative Support Specialist $53,175
+10 Administrative Specialist I $47,272
+11 Extra Help Assistant $38,855
+12 (66) Assistant Registrar 5 $67,284
+13 (67) Construction Specialist 1 $67,284
+14 (68) Financial Aid Analyst 5 $67,284
+15 (69) Library Support Pool 4
+16 Library Supervisor $67,284
+17 Library Specialist $57,515
+18 Library Technician $53,175
+19 Library Support Assistant $49,164
+20 (70) Purchasing Specialist 2 $67,284
+21 (71) Financial Aid Specialist 1 $62,208
+22 (72) Human Resources Specialist 1 $62,208
+23 (73) Inventory Control Manager 1 $62,208
+24 (74) Landscape Supervisor 1 $62,208
+25 (75) Maintenance Specialist 3 $59,815
+26 (76) Laboratory Coordinator 4 $57,515
+27 (77) Human Resources Assistant 1 $55,302
+28 (78) Student Account Specialist 1 $55,302
+29 (79) Warehouse Specialist 1 $55,302
+30 (80) Admission Specialist 1 $51,130
+31 (81) Cashier 3 $51,130
+32 (82) Maintenance Assistant 8 $51,130
+33 (83) Mail Services Coordinator 1 $49,164
+34 (84) Registrar's Assistant 2 $49,164
+35 (85) Academic Laboratory Assistant 4 $45,455
+36 (86) Equipment Operator 1 $45,455
+6 01/27/2025 9:12:19 AM HAR007
+
+HB1228
+1 TWELVE MONTH EDUCATIONAL AND GENERAL
+2 ACADEMIC POSITIONS
+3 (87) Division Chairperson/Dean 8 $146,201
+4 (88) Director of Nursing 1 $144,651
+5 (89) Librarian 1 $132,733
+6 (90) Special Instructor 40 $111,362
+7 (91) Assistant Librarian 8 $82,663
+8 (92) Lab. Supervisor 6 $69,399
+9 NINE MONTH EDUCATIONAL AND GENERAL
+10 ACADEMIC POSITIONS
+11 (93) Faculty 183 $111,362
+12 (94) Part-Time Faculty 513 $56,046
+13 TWELVE MONTH AUXILIARY ENTERPRISES
+14 POSITIONS
+15 (95) Athletic Director 1 $120,919
+16 (96) Project/Program Administrator 1
+17 Project/Program Director $120,919
+18 Project/Program Manager $101,256
+19 Project/Program Specialist $91,408
+20 (97) Athletic Administration & Support Pool 7
+21 Coach $104,891
+22 Asst. Coach $56,046
+23 Athletic Trainer $41,956
+24 MAX. NO. OF EMPLOYEES 1,137
+25
+26 SECTION 2. EXTRA HELP - OPERATIONS. There is hereby authorized, for
+27 the Northwest Arkansas Community College for the 2025-2026 fiscal year, the
+28 following maximum number of part-time or temporary employees, to be known as
+29 "Extra Help", payable from funds appropriated herein for such purposes:
+30 three hundred sixty (360) temporary or part-time employees, when needed, at
+31 rates of pay not to exceed those provided in the Uniform Classification and
+32 Compensation Act, or its successor, or this act for the appropriate
+33 classification.
+34
+35 SECTION 3. APPROPRIATION - STATE OPERATIONS. There is hereby
+36 appropriated, to the Northwest Arkansas Community College, to be payable from
+7 01/27/2025 9:12:19 AM HAR007
+
+HB1228
+1 the Northwest Arkansas Community College Fund, for personal services and
+2 operating expenses of the Northwest Arkansas Community College for the fiscal
+3 year ending June 30, 2026, the following:
+4
+5 ITEM FISCAL YEAR
+6 NO. 2025-2026
+7 (01) REGULAR SALARIES $13,068,588
+8 (02) MAINT. & GEN. OPERATION
+9 (A) OPER. EXPENSE 10,000
+10 (B) CONF. & TRAVEL 0
+11 (C) PROF. FEES 0
+12 (D) CAP. OUTLAY 0
+13 (E) DATA PROC. 0
+14 (03) CONTINGENCY 653,929
+15 TOTAL AMOUNT APPROPRIATED $13,732,517
+16
+17 SECTION 4. APPROPRIATION - CASH FUNDS. There is hereby appropriated,
+18 to the Northwest Arkansas Community College, to be payable from cash funds as
+19 defined by Arkansas Code 19-4-801, for personal services and operating
+20 expenses of the Northwest Arkansas Community College for the fiscal year
+21 ending June 30, 2026, the following:
+22
+23 ITEM FISCAL YEAR
+24 NO. 2025-2026
+25 (01) REGULAR SALARIES $27,453,974
+26 (02) EXTRA HELP 1,812,734
+27 (03) OVERTIME 54,520
+28 (04) PERSONAL SERVICES MATCHING 19,000,501
+29 (05) MAINT. & GEN. OPERATION
+30 (A) OPER. EXPENSE 18,371,141
+31 (B) CONF. & TRAVEL 616,080
+32 (C) PROF. FEES 2,090,855
+33 (D) CAP. OUTLAY 3,878,233
+34 (E) DATA PROC. 0
+35 (06) CAPITAL IMPROVEMENTS 1,066,272
+36 (07) DEBT SERVICE 4,046,275
+8 01/27/2025 9:12:19 AM HAR007
+
+HB1228
+1 (08) PROMOTIONAL ITEMS 89,111
+2 TOTAL AMOUNT APPROPRIATED $78,479,696
+3
+4 SECTION 5. APPROPRIATION - CHILD PROTECTION TRAINING CENTER. There is
+5 hereby appropriated, to the Northwest Arkansas Community College, to be
+6 payable from the Northwest Arkansas Community College Fund, for personal
+7 services and operating expenses of the Northwest Arkansas Community College -
+8 Child Protection Training Center for the fiscal year ending June 30, 2026,
+9 the following:
+10
+11 ITEM FISCAL YEAR
+12 NO. 2025-2026
+13 (01) REGULAR SALARIES $142,043
+14 (02) PERSONAL SERVICES MATCHING 34,657
+15 (03) MAINT. & GEN. OPERATION
+16 (A) OPER. EXPENSE 51,250
+17 (B) CONF. & TRAVEL 10,250
+18 (C) PROF. FEES 35,875
+19 (D) CAP. OUTLAY 0
+20 (E) DATA PROC. 0
+21 TOTAL AMOUNT APPROPRIATED $274,075
+22
+23 SECTION 6. COMPLIANCE WITH OTHER LAWS. Disbursement of funds
+24 authorized by this act shall be limited to the appropriation for such agency
+25 and funds made available by law for the support of such appropriations; and
+26 the restrictions of the State Procurement Law, the General Accounting and
+27 Budgetary Procedures Law, the Revenue Stabilization Law, the Regular Salary
+28 Procedures and Restrictions Act, the Higher Education Expenditure Restriction
+29 Act, or their successors, and other fiscal control laws of this State, where
+30 applicable, and regulations promulgated by the Department of Finance and
+31 Administration, as authorized by law, shall be strictly complied with in
+32 disbursement of said funds.
+33
+34 SECTION 7. LEGISLATIVE INTENT. It is the intent of the General
+35 Assembly that any funds disbursed under the authority of the appropriations
+36 contained in this act shall be in compliance with the stated reasons for
+9 01/27/2025 9:12:19 AM HAR007
+
+HB1228
+1 which this act was adopted, as evidenced by the Agency Requests, Executive
+2 Recommendations and Legislative Recommendations contained in the budget
+3 manuals prepared by the Department of Finance and Administration, letters, or
+4 summarized oral testimony in the official minutes of the Arkansas Legislative
+5 Council or Joint Budget Committee which relate to its passage and adoption.
+6
+7 SECTION 8. EMERGENCY CLAUSE. It is found and determined by the General
+8 Assembly, that the Constitution of the State of Arkansas prohibits the
+9 appropriation of funds for more than a one (1) year period; that the
+10 effectiveness of this Act on July 1, 2025 is essential to the operation of
+11 the agency for which the appropriations in this Act are provided, and that in
+12 the event of an extension of the legislative session, the delay in the
+13 effective date of this Act beyond July 1, 2025 could work irreparable harm
+14 upon the proper administration and provision of essential governmental
+15 programs. Therefore, an emergency is hereby declared to exist and this Act
+16 being necessary for the immediate preservation of the public peace, health
+17 and safety shall be in full force and effect from and after July 1, 2025.
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+10 01/27/2025 9:12:19 AM HAR007
+
+[DELETED:       A A C 2  A C 2    B   S f t                     ]
+[DELETED: H2 0                                                                        ]
+[DELETED: H3 0                                                                        ]
+[DELETED: H4 0                                                                        ]
+[DELETED: H5 0                                                                        ]
+[DELETED: H6 0                                                                        ]
+[DELETED: H7 0                                                   S t f " t r C c   S a]
+[DELETED: H8 0 t o y  I   ( (           (     S t d e e  I   ( ( ( ( (           ( (]
+[DELETED: H9 0 (     S h p s C t  I   ( ( (               S a a t B P A a A d   S A c]
+[DELETED: H1 0 w R m s C   S A a e t t e u p b a                   ]

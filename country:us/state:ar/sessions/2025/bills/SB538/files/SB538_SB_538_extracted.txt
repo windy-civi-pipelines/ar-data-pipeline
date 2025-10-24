@@ -1,0 +1,575 @@
+Title: Stricken language would be deleted from and underlined language would be added to present law.
+Official Title: Stricken language would be deleted from and underlined language would be added to present law.
+Number of Sections: 1
+Source: versions - SB 538
+Media Type: application/pdf
+Strikethrough Detection: 7 sections found
+
+================================================================================
+
+Section 1:
+1 State of Arkansas As Engrossed: S4/2/25 S4/7/25
+A Bill
+2 95th General Assembly
+3 Regular Session, 2025 SENATE BILL 538
+4
+5 By: Senators Gilmore, Hickey, Irvin, J. Dotson
+6 By: Representative Wardlaw
+7
+8
+For An Act To Be Entitled
+9 AN ACT TO AMEND THE ARKANSAS PROCUREMENT LAW; AND FOR
+10 OTHER PURPOSES.
+11
+12
+13
+Subtitle
+14 TO AMEND THE ARKANSAS PROCUREMENT LAW.
+15
+16 BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF ARKANSAS:
+17
+18 SECTION 1. Arkansas Code § 19-11-217(c), concerning the powers and
+19 duties of State Procurement Director, is amended to add an additional
+20 subdivision to read as follows:
+21 (16) Within one hundred twenty (120) days after the effective
+22 date of a new or revised statute or rule relating to procurement, shall
+23 review the procurement materials of the office and revise the procurement
+24 materials to maintain alignment between the procurement materials and the
+25 relevant procurement statutes and rules.
+26
+27 SECTION 2. Arkansas Code § 19-11-229(f), concerning competitive sealed
+28 bidding, is amended to add an additional subdivision to read as follows:
+29 (4)(A) A state agency may determine that the cost of the bid is
+30 unrealistic.
+31 (B) As used in this subdivision (f)(4), "unrealistic"
+32 means too low to reflect the ability of the bidder to meet the requirements
+33 of the invitation for bids.
+34 (C) The director shall promulgate rules concerning the
+35 requirements for determining that a bid is unrealistic.
+36
+*JLL310*
+04-07-2025 18:41:04 JLL310
+As Engrossed: S4/2/25 S4/7/25 SB538
+1 SECTION 3. Arkansas Code § 19-11-230(c), concerning competitive sealed
+2 proposals, is amended to read as follows:
+3 (c)(1) Public Except as provided in subdivision (c)(2) of this
+4 section, public notice of the request for proposals shall be given in the
+5 same manner as provided in § 19-11-229(d), which refers to public notice of
+6 competitive sealed bidding.
+7 (2)(A) A request for proposals under this section shall be
+8 issued at least twenty (20) business days before the deadline for the
+9 submission of proposals.
+10 (B) If a request for proposals is reissued before the
+11 anticipation to award, the state agency shall extend the original deadline
+12 for the submission of proposals by at least ten (10) business days.
+13
+14 SECTION 4. Arkansas Code § 19-11-230(d)(4), concerning competitive
+15 sealed proposals, is amended to read as follows:
+16 (4) A state agency shall: not
+17 (A) Not include prior experience with the state as a
+18 mandatory requirement for submitting a proposal under this section;
+19 (B) Evaluate the cost of each proposal received from a
+20 responsible offeror in response to a request for proposals under this section
+21 in the state agency's initial evaluation of the proposals; and
+22 (C) Not identify responsible offerors as being reasonably
+23 susceptible of being awarded a contract under this section until the cost
+24 proposal from each responsible offeror has been evaluated.
+25
+26 SECTION 5. Arkansas Code § 19-11-230(d), concerning competitive sealed
+27 proposals, is amended to add an additional subdivision to read as follows:
+28 (5)(A) A state agency may determine that the cost of the
+29 proposal is unreasonable or unrealistic.
+30 (B) As used in this subdivision (d)(5):
+31 (i) "Unrealistic" means too low to reflect the
+32 ability of the offeror to meet the requirements of the request for proposals;
+33 and
+34 (ii) "Unreasonable" means too high for the
+35 requirements of the request for proposals.
+36 (C) The director shall promulgate rules concerning the
+2 04-07-2025 18:41:04 JLL310
+As Engrossed: S4/2/25 S4/7/25 SB538
+1 requirements for determining that the cost of a proposal is unreasonable or
+2 unrealistic.
+3
+4 SECTION 6. Arkansas Code § 19-11-230(e), concerning competitive sealed
+5 proposals, is amended to add additional subdivisions to read as follows:
+6 (4)(A) Negotiations under this section shall be conducted by a
+7 person who is trained and certified in negotiation and procurement processes.
+8 (B)(i) The office shall provide for the training and
+9 certification required under subdivision (e)(4)(A) of this section.
+10 (ii) The training provided by the office under this
+11 subdivision (e)(4) shall be specific to Arkansas law.
+12 (5) The director shall promulgate rules detailing the
+13 requirements for negotiations under this section.
+14
+15 SECTION 7. Arkansas Code § 19-11-230, concerning competitive sealed
+16 proposals, is amended to add an additional subsection to read as follows:
+17 (j) A state agency using the method of procurement provided for under
+18 this section shall adhere to the procurement rules, policies, and guidance
+19 issued by the office concerning the scoring of the technical and cost
+20 elements of submitted proposals.
+21
+22 SECTION 8. Arkansas Code § 19-11-244(a)(5)(B), concerning the
+23 resolution of a protest by a person named in an anticipation to award a
+24 contract, is amended to read as follows:
+25 (B) A response to a protest submitted under subdivision
+26 (a)(5)(A) of this section shall be submitted in writing within five (5)
+27 calendar days of the date the person is given notice of the protest under
+28 subdivision (a)(2)(B) of this section.
+29
+30 SECTION 9. Arkansas Code § 19-11-244(d), concerning the resolution of
+31 protested solicitations and awards of contracts, is amended to read as
+32 follows:
+33 (d) A copy of the decision under subsection (c) of this section shall
+34 be mailed or otherwise furnished within five (5) calendar days after it is
+35 written to the protestor and any other party intervening.
+36
+3 04-07-2025 18:41:04 JLL310
+As Engrossed: S4/2/25 S4/7/25 SB538
+1 SECTION 10. Arkansas Code § 19-11-244(f), concerning the resolution of
+2 protested solicitations and awards of contracts, is amended to read as
+3 follows:
+4 (f) In the event of a timely protest under subsection (a) of this
+5 section,: the
+6 (1) The state shall not execute a contract that is the result of
+7 the protested solicitation or award unless the director or the head of the
+8 relevant procurement agency makes a written determination that the execution
+9 of the contract without delay is necessary to protect substantial interests
+10 of the state; and
+11 (2) Contract negotiations with the anticipated awardee may
+12 proceed.
+13
+14 SECTION 11. Arkansas Code § 19-11-245(e) and (f), concerning debarment
+15 and suspension under the Arkansas Procurement Law, are amended to read as
+16 follows:
+17 (e) Notice of Decision. A copy of the decision under subsection (d) of
+18 this section shall be mailed or otherwise furnished within five (5) calendar
+19 days after it is written to the debarred or suspended person and any other
+20 party intervening.
+21 (f) Finality of Decision. A decision under subsection (d) of this
+22 section shall be final and conclusive and not an order as defined in the
+23 Arkansas Administrative Procedure Act, § 25-15-201 et seq., but may be
+24 appealed to the Secretary of the Department of Shared Administrative Services
+25 in accordance with the rules promulgated by the director.
+26
+27 SECTION 12. Arkansas Code § 19-11-247(a)–(c), concerning the remedies
+28 for unlawful solicitation or award of a contract, are amended to read as
+29 follows:
+30 (a) The provisions of this section apply where it is determined upon
+31 any review provided by law that a solicitation or award the creation,
+32 solicitation, award, management, or modification of a contract is in
+33 violation of law.
+34 (b) If prior to award it is determined that a solicitation, or
+35 proposed award, or modification of a contract is in violation of law, then
+36 the solicitation, or proposed award, or modification shall be:
+4 04-07-2025 18:41:04 JLL310
+As Engrossed: S4/2/25 S4/7/25 SB538
+1 (1) Cancelled; or
+2 (2) Revised to comply with the law.
+3 (c) If after an award it is determined that a solicitation or award
+4 the creation, solicitation, award, management, or modification of a contract
+5 is in violation of law, then in addition to or in lieu of other remedies
+6 provided by law:
+7 (1) If the person awarded the contract vendor has not acted
+8 fraudulently or in bad faith:
+9 (A) The contract may be ratified and affirmed if it is
+10 determined that doing so is in the best interests of the state; or
+11 (B) The contract may be terminated; and
+12 (2) If the person awarded the contract vendor has acted
+13 fraudulently or in bad faith:
+14 (A) The contract may be declared null and void; or
+15 (B) The person awarded the contract may be directed to
+16 proceed with performance of the contract and pay such damages, if any, as may
+17 be appropriate if such action shall be in the best interests of the state.
+18
+19 SECTION 13. Arkansas Code § 19-11-279, concerning requests for
+20 information, is amended to add an additional subsection to read as follows:
+21 (f) A response to a request for information under this section is not
+22 required for a vendor's bid, proposal, or statement of qualifications and
+23 performance data to be accepted unless the response requirement is:
+24 (1) Explicitly stated in the invitation for bids, request for
+25 proposals, or request for statements of qualifications and performance data;
+26 and
+27 (2) Approved by the director or the head of the procurement
+28 agency.
+29
+30 SECTION 14. Arkansas Code § 19-11-280(a), concerning the training and
+31 certification of procurement personnel, is amended to read as follows:
+32 (a)(1) The State Procurement Director shall establish a an in-person
+33 training and certification program to facilitate the training, continuing
+34 education, and annual certification of state agency procurement personnel.
+35 (2) The training and certification program required under
+36 subdivision (a)(1) of this section may be offered through an in-person
+5 04-07-2025 18:41:04 JLL310
+As Engrossed: S4/2/25 S4/7/25 SB538
+1 training course or a live, virtual course.
+2
+3 SECTION 15. Arkansas Code § 19-11-280(c), concerning the training and
+4 certification of procurement personnel, is amended to read as follows:
+5 (c)(1) Beginning July 1, 2021, a A state agency employee shall not
+6 conduct a procurement under this chapter unless the state agency employee is
+7 certified annually through the training and certification program required
+8 under this section.
+9 (2) To maintain certification under this section, a state agency
+10 employee shall complete a reasonable number of hours of continuing education
+11 each year, as provided for by rule by the director.
+12
+13 SECTION 16. Arkansas Code § 19-11-280, concerning the training and
+14 certification of procurement personnel, is amended to add an additional
+15 subsection to read as follows:
+16 (e)(1) The director shall report to the Review Subcommittee of the
+17 Legislative Council concerning:
+18 (A) The progress made in developing an implementing the
+19 training and certification program required under this section; and
+20 (B) The state agencies that have had employees complete
+21 the training and certification program required under this section.
+22 (2) The report required under section shall be presented:
+23 (A) For the first year following the effective date of
+24 this act, every ninety (90) days; and
+25 (B) Annually each subsequent year.
+26
+27 SECTION 17. Arkansas Code Title 19, Chapter 11, Subchapter 2, is
+28 amended to add an additional section to read as follows:
+29 19-11-282. Notification to Office of State Procurement.
+30 A state agency other than an institution of higher education shall
+31 notify the Office of State Procurement that the state agency is going to
+32 issue an invitation for bids or a request for proposals at least seven (7)
+33 calendar days before issuing the solicitation.
+34
+35 SECTION 18. Arkansas Code § 19-11-802(c)(2), concerning annual
+36 statements of qualifications and performance data and restrictions on
+6 04-07-2025 18:41:04 JLL310
+As Engrossed: S4/2/25 S4/7/25 SB538
+1 competitive bidding, is amended to read as follows:
+2 (2) A political subdivision shall may elect to not use
+3 competitive bidding for the procurement of other professional services with a
+4 two-thirds (⅔) vote of its governing body.
+5
+6 SECTION 19. DO NOT CODIFY. Repromulgation of rules.
+7 (a) Within one hundred twenty (120) days of the effective date of this
+8 act, the State Procurement Director shall repromulgate all rules related to
+9 the sections of the Arkansas Code amended by this act and the recommendations
+10 adopted by the Executive Subcommittee of the Legislative Council upon the
+11 conclusion of the procurement study conducted for the 2025 regular session to
+12 ensure that the rules promulgated under the sections of the Arkansas Code
+13 that are amended by this act are in line with the intent of the General
+14 Assembly in enacting this act.
+15 (b) The director shall submit a monthly report to the Review
+16 Subcommittee of the Legislative Council concerning his or her progress during
+17 the reporting period in complying with subsection (a) of this section.
+18
+19 /s/Gilmore
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+7 04-07-2025 18:41:04 JLL310
+[DELETED:  A  EBL5       A O   T  B   S d s   ( d r m r   S b   ( u    ( m o    ( r ]
+[DELETED:  S2 0  S p  ( s s c   ( i s    ( a f   S s   (    ( m    ( r i    ( s p   S p   ( p    (     ( a a     ( r    (]
+[DELETED:  S3 0 r u   S p   ( p    ( c     ( s   ( r   S p  ( t i e   S r c    ( ( c s   S p f  ( b w ]
+[DELETED:  S4 0  S p f  ( s   ( t r o o   ( p   S a f  ( t d p  ( s A a i   S f f  ( a s v  ( p t]
+[DELETED:  S5 0   (   (  ( t i p   ( f    ( d    (   ( f    (    ( p b   S i  ( r p   ( p a   ( a   S c  ( t e ( s]
+[DELETED:  S6 0 t   S c  ( c c u   ( e e   S c s  ( L    ( t    ( t   (    ( t    (   S a  1  A n i c   S s]
+[DELETED:  S7 0 c   ( c t()   S  ( a t a c e t A  ( S t  /                 ]
+
+
+================================================================================
+
+Raw Text:
+Stricken language would be deleted from and underlined language would be added to present law.
+1 State of Arkansas As Engrossed: S4/2/25 S4/7/25
+A Bill
+2 95th General Assembly
+3 Regular Session, 2025 SENATE BILL 538
+4
+5 By: Senators Gilmore, Hickey, Irvin, J. Dotson
+6 By: Representative Wardlaw
+7
+8
+For An Act To Be Entitled
+9 AN ACT TO AMEND THE ARKANSAS PROCUREMENT LAW; AND FOR
+10 OTHER PURPOSES.
+11
+12
+13
+Subtitle
+14 TO AMEND THE ARKANSAS PROCUREMENT LAW.
+15
+16 BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF ARKANSAS:
+17
+18 SECTION 1. Arkansas Code § 19-11-217(c), concerning the powers and
+19 duties of State Procurement Director, is amended to add an additional
+20 subdivision to read as follows:
+21 (16) Within one hundred twenty (120) days after the effective
+22 date of a new or revised statute or rule relating to procurement, shall
+23 review the procurement materials of the office and revise the procurement
+24 materials to maintain alignment between the procurement materials and the
+25 relevant procurement statutes and rules.
+26
+27 SECTION 2. Arkansas Code § 19-11-229(f), concerning competitive sealed
+28 bidding, is amended to add an additional subdivision to read as follows:
+29 (4)(A) A state agency may determine that the cost of the bid is
+30 unrealistic.
+31 (B) As used in this subdivision (f)(4), "unrealistic"
+32 means too low to reflect the ability of the bidder to meet the requirements
+33 of the invitation for bids.
+34 (C) The director shall promulgate rules concerning the
+35 requirements for determining that a bid is unrealistic.
+36
+*JLL310*
+04-07-2025 18:41:04 JLL310
+
+As Engrossed: S4/2/25 S4/7/25 SB538
+1 SECTION 3. Arkansas Code § 19-11-230(c), concerning competitive sealed
+2 proposals, is amended to read as follows:
+3 (c)(1) Public Except as provided in subdivision (c)(2) of this
+4 section, public notice of the request for proposals shall be given in the
+5 same manner as provided in § 19-11-229(d), which refers to public notice of
+6 competitive sealed bidding.
+7 (2)(A) A request for proposals under this section shall be
+8 issued at least twenty (20) business days before the deadline for the
+9 submission of proposals.
+10 (B) If a request for proposals is reissued before the
+11 anticipation to award, the state agency shall extend the original deadline
+12 for the submission of proposals by at least ten (10) business days.
+13
+14 SECTION 4. Arkansas Code § 19-11-230(d)(4), concerning competitive
+15 sealed proposals, is amended to read as follows:
+16 (4) A state agency shall: not
+17 (A) Not include prior experience with the state as a
+18 mandatory requirement for submitting a proposal under this section;
+19 (B) Evaluate the cost of each proposal received from a
+20 responsible offeror in response to a request for proposals under this section
+21 in the state agency's initial evaluation of the proposals; and
+22 (C) Not identify responsible offerors as being reasonably
+23 susceptible of being awarded a contract under this section until the cost
+24 proposal from each responsible offeror has been evaluated.
+25
+26 SECTION 5. Arkansas Code § 19-11-230(d), concerning competitive sealed
+27 proposals, is amended to add an additional subdivision to read as follows:
+28 (5)(A) A state agency may determine that the cost of the
+29 proposal is unreasonable or unrealistic.
+30 (B) As used in this subdivision (d)(5):
+31 (i) "Unrealistic" means too low to reflect the
+32 ability of the offeror to meet the requirements of the request for proposals;
+33 and
+34 (ii) "Unreasonable" means too high for the
+35 requirements of the request for proposals.
+36 (C) The director shall promulgate rules concerning the
+2 04-07-2025 18:41:04 JLL310
+
+As Engrossed: S4/2/25 S4/7/25 SB538
+1 requirements for determining that the cost of a proposal is unreasonable or
+2 unrealistic.
+3
+4 SECTION 6. Arkansas Code § 19-11-230(e), concerning competitive sealed
+5 proposals, is amended to add additional subdivisions to read as follows:
+6 (4)(A) Negotiations under this section shall be conducted by a
+7 person who is trained and certified in negotiation and procurement processes.
+8 (B)(i) The office shall provide for the training and
+9 certification required under subdivision (e)(4)(A) of this section.
+10 (ii) The training provided by the office under this
+11 subdivision (e)(4) shall be specific to Arkansas law.
+12 (5) The director shall promulgate rules detailing the
+13 requirements for negotiations under this section.
+14
+15 SECTION 7. Arkansas Code § 19-11-230, concerning competitive sealed
+16 proposals, is amended to add an additional subsection to read as follows:
+17 (j) A state agency using the method of procurement provided for under
+18 this section shall adhere to the procurement rules, policies, and guidance
+19 issued by the office concerning the scoring of the technical and cost
+20 elements of submitted proposals.
+21
+22 SECTION 8. Arkansas Code § 19-11-244(a)(5)(B), concerning the
+23 resolution of a protest by a person named in an anticipation to award a
+24 contract, is amended to read as follows:
+25 (B) A response to a protest submitted under subdivision
+26 (a)(5)(A) of this section shall be submitted in writing within five (5)
+27 calendar days of the date the person is given notice of the protest under
+28 subdivision (a)(2)(B) of this section.
+29
+30 SECTION 9. Arkansas Code § 19-11-244(d), concerning the resolution of
+31 protested solicitations and awards of contracts, is amended to read as
+32 follows:
+33 (d) A copy of the decision under subsection (c) of this section shall
+34 be mailed or otherwise furnished within five (5) calendar days after it is
+35 written to the protestor and any other party intervening.
+36
+3 04-07-2025 18:41:04 JLL310
+
+As Engrossed: S4/2/25 S4/7/25 SB538
+1 SECTION 10. Arkansas Code § 19-11-244(f), concerning the resolution of
+2 protested solicitations and awards of contracts, is amended to read as
+3 follows:
+4 (f) In the event of a timely protest under subsection (a) of this
+5 section,: the
+6 (1) The state shall not execute a contract that is the result of
+7 the protested solicitation or award unless the director or the head of the
+8 relevant procurement agency makes a written determination that the execution
+9 of the contract without delay is necessary to protect substantial interests
+10 of the state; and
+11 (2) Contract negotiations with the anticipated awardee may
+12 proceed.
+13
+14 SECTION 11. Arkansas Code § 19-11-245(e) and (f), concerning debarment
+15 and suspension under the Arkansas Procurement Law, are amended to read as
+16 follows:
+17 (e) Notice of Decision. A copy of the decision under subsection (d) of
+18 this section shall be mailed or otherwise furnished within five (5) calendar
+19 days after it is written to the debarred or suspended person and any other
+20 party intervening.
+21 (f) Finality of Decision. A decision under subsection (d) of this
+22 section shall be final and conclusive and not an order as defined in the
+23 Arkansas Administrative Procedure Act, § 25-15-201 et seq., but may be
+24 appealed to the Secretary of the Department of Shared Administrative Services
+25 in accordance with the rules promulgated by the director.
+26
+27 SECTION 12. Arkansas Code § 19-11-247(a)–(c), concerning the remedies
+28 for unlawful solicitation or award of a contract, are amended to read as
+29 follows:
+30 (a) The provisions of this section apply where it is determined upon
+31 any review provided by law that a solicitation or award the creation,
+32 solicitation, award, management, or modification of a contract is in
+33 violation of law.
+34 (b) If prior to award it is determined that a solicitation, or
+35 proposed award, or modification of a contract is in violation of law, then
+36 the solicitation, or proposed award, or modification shall be:
+4 04-07-2025 18:41:04 JLL310
+
+As Engrossed: S4/2/25 S4/7/25 SB538
+1 (1) Cancelled; or
+2 (2) Revised to comply with the law.
+3 (c) If after an award it is determined that a solicitation or award
+4 the creation, solicitation, award, management, or modification of a contract
+5 is in violation of law, then in addition to or in lieu of other remedies
+6 provided by law:
+7 (1) If the person awarded the contract vendor has not acted
+8 fraudulently or in bad faith:
+9 (A) The contract may be ratified and affirmed if it is
+10 determined that doing so is in the best interests of the state; or
+11 (B) The contract may be terminated; and
+12 (2) If the person awarded the contract vendor has acted
+13 fraudulently or in bad faith:
+14 (A) The contract may be declared null and void; or
+15 (B) The person awarded the contract may be directed to
+16 proceed with performance of the contract and pay such damages, if any, as may
+17 be appropriate if such action shall be in the best interests of the state.
+18
+19 SECTION 13. Arkansas Code § 19-11-279, concerning requests for
+20 information, is amended to add an additional subsection to read as follows:
+21 (f) A response to a request for information under this section is not
+22 required for a vendor's bid, proposal, or statement of qualifications and
+23 performance data to be accepted unless the response requirement is:
+24 (1) Explicitly stated in the invitation for bids, request for
+25 proposals, or request for statements of qualifications and performance data;
+26 and
+27 (2) Approved by the director or the head of the procurement
+28 agency.
+29
+30 SECTION 14. Arkansas Code § 19-11-280(a), concerning the training and
+31 certification of procurement personnel, is amended to read as follows:
+32 (a)(1) The State Procurement Director shall establish a an in-person
+33 training and certification program to facilitate the training, continuing
+34 education, and annual certification of state agency procurement personnel.
+35 (2) The training and certification program required under
+36 subdivision (a)(1) of this section may be offered through an in-person
+5 04-07-2025 18:41:04 JLL310
+
+As Engrossed: S4/2/25 S4/7/25 SB538
+1 training course or a live, virtual course.
+2
+3 SECTION 15. Arkansas Code § 19-11-280(c), concerning the training and
+4 certification of procurement personnel, is amended to read as follows:
+5 (c)(1) Beginning July 1, 2021, a A state agency employee shall not
+6 conduct a procurement under this chapter unless the state agency employee is
+7 certified annually through the training and certification program required
+8 under this section.
+9 (2) To maintain certification under this section, a state agency
+10 employee shall complete a reasonable number of hours of continuing education
+11 each year, as provided for by rule by the director.
+12
+13 SECTION 16. Arkansas Code § 19-11-280, concerning the training and
+14 certification of procurement personnel, is amended to add an additional
+15 subsection to read as follows:
+16 (e)(1) The director shall report to the Review Subcommittee of the
+17 Legislative Council concerning:
+18 (A) The progress made in developing an implementing the
+19 training and certification program required under this section; and
+20 (B) The state agencies that have had employees complete
+21 the training and certification program required under this section.
+22 (2) The report required under section shall be presented:
+23 (A) For the first year following the effective date of
+24 this act, every ninety (90) days; and
+25 (B) Annually each subsequent year.
+26
+27 SECTION 17. Arkansas Code Title 19, Chapter 11, Subchapter 2, is
+28 amended to add an additional section to read as follows:
+29 19-11-282. Notification to Office of State Procurement.
+30 A state agency other than an institution of higher education shall
+31 notify the Office of State Procurement that the state agency is going to
+32 issue an invitation for bids or a request for proposals at least seven (7)
+33 calendar days before issuing the solicitation.
+34
+35 SECTION 18. Arkansas Code § 19-11-802(c)(2), concerning annual
+36 statements of qualifications and performance data and restrictions on
+6 04-07-2025 18:41:04 JLL310
+
+As Engrossed: S4/2/25 S4/7/25 SB538
+1 competitive bidding, is amended to read as follows:
+2 (2) A political subdivision shall may elect to not use
+3 competitive bidding for the procurement of other professional services with a
+4 two-thirds (⅔) vote of its governing body.
+5
+6 SECTION 19. DO NOT CODIFY. Repromulgation of rules.
+7 (a) Within one hundred twenty (120) days of the effective date of this
+8 act, the State Procurement Director shall repromulgate all rules related to
+9 the sections of the Arkansas Code amended by this act and the recommendations
+10 adopted by the Executive Subcommittee of the Legislative Council upon the
+11 conclusion of the procurement study conducted for the 2025 regular session to
+12 ensure that the rules promulgated under the sections of the Arkansas Code
+13 that are amended by this act are in line with the intent of the General
+14 Assembly in enacting this act.
+15 (b) The director shall submit a monthly report to the Review
+16 Subcommittee of the Legislative Council concerning his or her progress during
+17 the reporting period in complying with subsection (a) of this section.
+18
+19 /s/Gilmore
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+7 04-07-2025 18:41:04 JLL310
+
+[DELETED:  A  EBL5       A O   T  B   S d s   ( d r m r   S b   ( u    ( m o    ( r ]
+[DELETED:  S2 0  S p  ( s s c   ( i s    ( a f   S s   (    ( m    ( r i    ( s p   S p   ( p    (     ( a a     ( r    (]
+[DELETED:  S3 0 r u   S p   ( p    ( c     ( s   ( r   S p  ( t i e   S r c    ( ( c s   S p f  ( b w ]
+[DELETED:  S4 0  S p f  ( s   ( t r o o   ( p   S a f  ( t d p  ( s A a i   S f f  ( a s v  ( p t]
+[DELETED:  S5 0   (   (  ( t i p   ( f    ( d    (   ( f    (    ( p b   S i  ( r p   ( p a   ( a   S c  ( t e ( s]
+[DELETED:  S6 0 t   S c  ( c c u   ( e e   S c s  ( L    ( t    ( t   (    ( t    (   S a  1  A n i c   S s]
+[DELETED:  S7 0 c   ( c t()   S  ( a t a c e t A  ( S t  /                 ]

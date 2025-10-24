@@ -1,0 +1,338 @@
+Title: Stricken language would be deleted from and underlined language would be added to present law.
+Official Title: Stricken language would be deleted from and underlined language would be added to present law.
+Number of Sections: 1
+Source: versions - SB 257
+Media Type: application/pdf
+Strikethrough Detection: 4 sections found
+
+================================================================================
+
+Section 1:
+1 State of Arkansas As Engrossed: H3/19/25
+A Bill
+2 95th General Assembly
+3 Regular Session, 2025 SENATE BILL 257
+4
+5 By: Senator C. Penzo
+6 By: Representative Lundstrum
+7
+For An Act To Be Entitled
+8
+9 AN ACT TO AMEND THE MEDICAID FAIRNESS ACT; TO EXTEND
+10 THE APPEAL PERIOD FOR PROVIDERS IN THE ARKANSAS
+11 MEDICAID PROGRAM; TO REQUIRE COMPREHENSIVE
+12 INFORMATION IN NOTICES OF ADVERSE DECISIONS; TO
+13 MANDATE PUBLICATION OF ALL POLICIES, PROTOCOLS, AND
+14 REQUIREMENTS USED IN MAKING AN ADVERSE DECISION; AND
+15 FOR OTHER PURPOSES.
+16
+17
+Subtitle
+18
+19 TO AMEND THE MEDICAID FAIRNESS ACT; TO
+20 EXTEND THE APPEAL PERIOD FOR PROVIDERS
+21 IN THE ARKANSAS MEDICAID PROGRAM; AND TO
+22 REQUIRE COMPREHENSIVE INFORMATION IN
+23 NOTICES OF ADVERSE DECISIONS.
+24
+25 BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF ARKANSAS:
+26
+27 SECTION 1. DO NOT CODIFY. Legislative findings and intent.
+28 (a) The General Assembly finds that:
+29 (1) The Department of Human Services currently allows providers
+30 thirty-five (35) days to appeal an adverse determination before the
+31 determination becomes final under 20 CAR § 706-404(a)(5);
+32 (2) The thirty-five (35) day period is overly restrictive and
+33 does not align with the operational realities of providers' business offices,
+34 where adverse determinations arrive via mail and require time to be reviewed,
+35 processed, and responded to appropriately;
+36 (3) The current notice process lacks necessary details,
+*JMB310*
+03-19-2025 15:13:17 JMB310
+As Engrossed: H3/19/25 SB257
+1 sometimes failing to include citations to specific policies, protocols, or
+2 procedures, which hinders providers from adequately investigating and
+3 appealing adverse decisions; and
+4 (4) The inefficiency of the current process burdens both the
+5 department and its contracted vendors by increasing unnecessary phone calls,
+6 claims reopenings, and resubmissions which create additional administrative
+7 costs and delays.
+8 (b) It is the intent of the General Assembly to improve efficiency and
+9 transparency in the Medicaid provider appeals process by:
+10 (1) Extending the appeal period for providers;
+11 (2) Requiring that notices of adverse decisions contain
+12 comprehensive information, including citations to applicable policies and
+13 procedures;
+14 (3) Mandating the publication of all policies, protocols, and
+15 procedural requirements utilized in making adverse decisions; and
+16 (4) Ensuring that these requirements apply to the department and
+17 any third-party vendors administering portions of the appeals process.
+18
+19 SECTION 2. Arkansas Code § 20-77-1702, concerning the definitions
+20 within the Medicaid Fairness Act, is amended to add an addition subdivision
+21 to read as follows:
+22 (20) “Third-party entity” means a vendor or other similar entity
+23 contracted by the Department of Human Services to administer any part of the
+24 Medicaid appeals process.
+25
+26 SECTION 3. Arkansas Code § 20-77-1705 is amended to read as follows:
+27 20-77-1705. Explanations for adverse decisions required.
+28 (a) Each denial or other deficiency that the Department of Human
+29 Services makes against a Medicaid provider shall be prepared in writing and
+30 shall specify:
+31 (1) The nature of the adverse decision;
+32 (2) The statutory provision or specific rule alleged to have
+33 been violated; and
+34 (3) The facts and grounds that form the basis for the adverse
+35 decision.
+36 (b) A notice of an adverse decision sent to a provider shall contain
+2 03-19-2025 15:13:17 JMB310
+As Engrossed: H3/19/25 SB257
+1 at a minimum:
+2 (1) A clear and detailed explanation of the rationale for the
+3 adverse decision; and
+4 (2) Citations to all specific protocols, procedures, or policy
+5 manual references that were relied upon in making the adverse decision.
+6
+7 SECTION 4. Arkansas Code § 20-77-1712 is amended to read as follows:
+8 20-77-1712. Notices.
+9 (a) When the Department of Human Services sends letters or other forms
+10 of notice with deadlines to providers or recipients, the deadline shall not
+11 begin to run before the next business day following the date of the postmark
+12 on the envelope, the facsimile transmission confirmation sheet, or the
+13 electronic record confirmation, unless otherwise required by federal statute
+14 or regulation.
+15 (b) The Department of Human Services shall allow a provider no less
+16 than sixty-five (65) days from the date of notice to the provider to appeal
+17 an adverse decision, whether through administrative reconsideration,
+18 administrative appeal, or any equivalent process.
+19
+20 SECTION 5. Arkansas Code Title 20, Chapter 77, Subchapter 17, is
+21 amended to add additional sections to read as follows:
+22 20-77-1719. Publication of protocols, procedures, and requirements.
+23 (a) The Department of Human Services shall publish and maintain all
+24 protocols, procedures, and requirements used in making adverse decisions on
+25 the website of the department.
+26 (b) The publication shall include:
+27 (1) The current version of each protocol, procedure, or
+28 requirement;
+29 (2) Prior versions of each protocol, manual, or published
+30 requirement maintained in an archive for reference for a period equivalent to
+31 state law and rule regarding retention of medical records; and
+32 (3) An effective date for each version of the protocol, manual,
+33 or published requirement to ensure providers have access to historical and
+34 current policy requirements.
+35 (c)(1) The department shall not use or enforce any policy, protocol,
+36 or requirement that is not publicly disclosed and accessible to providers.
+3 03-19-2025 15:13:17 JMB310
+As Engrossed: H3/19/25 SB257
+1 (2) Any internal, undisclosed, or unpublished protocol,
+2 procedure, or requirement shall be deemed invalid for the purpose of making
+3 an adverse decision.
+4 (3) Subdivisions (c)(1) and (c)(2) of this section do not apply
+5 to:
+6 (A) Any information, protocol, procedure, or requirement
+7 for which disclosure is prohibited by state law or rule or by federal law or
+8 regulation;
+9 (B) Research regarding the latest medical standard of care
+10 or advancement of practice that is conducted by the department on a specific
+11 request for payment or claim; or
+12 (C) Adverse actions associated with licensure or
+13 certification of providers.
+14
+15 20-77-1720. Third-party entity compliance.
+16 A third-party entity shall comply with the requirements in this
+17 subchapter, including appeal periods, notice requirements, and publication of
+18 protocols, procedures, and requirements.
+19
+20 SECTION 6. DO NOT CODIFY. Implementation.
+21 The Department of Human Services shall:
+22 (1) Revise all policies, manuals, and procedural guidelines to
+23 conform with this act; and
+24 (2) Conduct periodic audits to ensure compliance with this act
+25 and publish audit findings under this section annually.
+26
+27 /s/C. Penzo
+28
+29
+30
+31
+32
+33
+34
+35
+36
+4 03-19-2025 15:13:17 JMB310
+[DELETED:  A       A T M I M R F   T E I R N  B   S  (   ( t d   ( d w p   (]
+[DELETED:  S2 0 s p a   ( d c c  ( t   (   ( c p   ( p   ( a   S w t   ( c M   S  2  ( S s   (   ( b   ( d  (]
+[DELETED:  S3 0 a   ( a   ( m    S  2  ( o b o e o  ( t a a   S a  2  ( p t  (   ( r   ( r s   ( o c  ( o]
+[DELETED:  S4 0   ( p a   ( t    ( f r    ( o r    ( c   2  A s p   S  T   ( c   ( a  /         ]
+
+
+================================================================================
+
+Raw Text:
+Stricken language would be deleted from and underlined language would be added to present law.
+1 State of Arkansas As Engrossed: H3/19/25
+A Bill
+2 95th General Assembly
+3 Regular Session, 2025 SENATE BILL 257
+4
+5 By: Senator C. Penzo
+6 By: Representative Lundstrum
+7
+For An Act To Be Entitled
+8
+9 AN ACT TO AMEND THE MEDICAID FAIRNESS ACT; TO EXTEND
+10 THE APPEAL PERIOD FOR PROVIDERS IN THE ARKANSAS
+11 MEDICAID PROGRAM; TO REQUIRE COMPREHENSIVE
+12 INFORMATION IN NOTICES OF ADVERSE DECISIONS; TO
+13 MANDATE PUBLICATION OF ALL POLICIES, PROTOCOLS, AND
+14 REQUIREMENTS USED IN MAKING AN ADVERSE DECISION; AND
+15 FOR OTHER PURPOSES.
+16
+17
+Subtitle
+18
+19 TO AMEND THE MEDICAID FAIRNESS ACT; TO
+20 EXTEND THE APPEAL PERIOD FOR PROVIDERS
+21 IN THE ARKANSAS MEDICAID PROGRAM; AND TO
+22 REQUIRE COMPREHENSIVE INFORMATION IN
+23 NOTICES OF ADVERSE DECISIONS.
+24
+25 BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF ARKANSAS:
+26
+27 SECTION 1. DO NOT CODIFY. Legislative findings and intent.
+28 (a) The General Assembly finds that:
+29 (1) The Department of Human Services currently allows providers
+30 thirty-five (35) days to appeal an adverse determination before the
+31 determination becomes final under 20 CAR § 706-404(a)(5);
+32 (2) The thirty-five (35) day period is overly restrictive and
+33 does not align with the operational realities of providers' business offices,
+34 where adverse determinations arrive via mail and require time to be reviewed,
+35 processed, and responded to appropriately;
+36 (3) The current notice process lacks necessary details,
+*JMB310*
+03-19-2025 15:13:17 JMB310
+
+As Engrossed: H3/19/25 SB257
+1 sometimes failing to include citations to specific policies, protocols, or
+2 procedures, which hinders providers from adequately investigating and
+3 appealing adverse decisions; and
+4 (4) The inefficiency of the current process burdens both the
+5 department and its contracted vendors by increasing unnecessary phone calls,
+6 claims reopenings, and resubmissions which create additional administrative
+7 costs and delays.
+8 (b) It is the intent of the General Assembly to improve efficiency and
+9 transparency in the Medicaid provider appeals process by:
+10 (1) Extending the appeal period for providers;
+11 (2) Requiring that notices of adverse decisions contain
+12 comprehensive information, including citations to applicable policies and
+13 procedures;
+14 (3) Mandating the publication of all policies, protocols, and
+15 procedural requirements utilized in making adverse decisions; and
+16 (4) Ensuring that these requirements apply to the department and
+17 any third-party vendors administering portions of the appeals process.
+18
+19 SECTION 2. Arkansas Code § 20-77-1702, concerning the definitions
+20 within the Medicaid Fairness Act, is amended to add an addition subdivision
+21 to read as follows:
+22 (20) “Third-party entity” means a vendor or other similar entity
+23 contracted by the Department of Human Services to administer any part of the
+24 Medicaid appeals process.
+25
+26 SECTION 3. Arkansas Code § 20-77-1705 is amended to read as follows:
+27 20-77-1705. Explanations for adverse decisions required.
+28 (a) Each denial or other deficiency that the Department of Human
+29 Services makes against a Medicaid provider shall be prepared in writing and
+30 shall specify:
+31 (1) The nature of the adverse decision;
+32 (2) The statutory provision or specific rule alleged to have
+33 been violated; and
+34 (3) The facts and grounds that form the basis for the adverse
+35 decision.
+36 (b) A notice of an adverse decision sent to a provider shall contain
+2 03-19-2025 15:13:17 JMB310
+
+As Engrossed: H3/19/25 SB257
+1 at a minimum:
+2 (1) A clear and detailed explanation of the rationale for the
+3 adverse decision; and
+4 (2) Citations to all specific protocols, procedures, or policy
+5 manual references that were relied upon in making the adverse decision.
+6
+7 SECTION 4. Arkansas Code § 20-77-1712 is amended to read as follows:
+8 20-77-1712. Notices.
+9 (a) When the Department of Human Services sends letters or other forms
+10 of notice with deadlines to providers or recipients, the deadline shall not
+11 begin to run before the next business day following the date of the postmark
+12 on the envelope, the facsimile transmission confirmation sheet, or the
+13 electronic record confirmation, unless otherwise required by federal statute
+14 or regulation.
+15 (b) The Department of Human Services shall allow a provider no less
+16 than sixty-five (65) days from the date of notice to the provider to appeal
+17 an adverse decision, whether through administrative reconsideration,
+18 administrative appeal, or any equivalent process.
+19
+20 SECTION 5. Arkansas Code Title 20, Chapter 77, Subchapter 17, is
+21 amended to add additional sections to read as follows:
+22 20-77-1719. Publication of protocols, procedures, and requirements.
+23 (a) The Department of Human Services shall publish and maintain all
+24 protocols, procedures, and requirements used in making adverse decisions on
+25 the website of the department.
+26 (b) The publication shall include:
+27 (1) The current version of each protocol, procedure, or
+28 requirement;
+29 (2) Prior versions of each protocol, manual, or published
+30 requirement maintained in an archive for reference for a period equivalent to
+31 state law and rule regarding retention of medical records; and
+32 (3) An effective date for each version of the protocol, manual,
+33 or published requirement to ensure providers have access to historical and
+34 current policy requirements.
+35 (c)(1) The department shall not use or enforce any policy, protocol,
+36 or requirement that is not publicly disclosed and accessible to providers.
+3 03-19-2025 15:13:17 JMB310
+
+As Engrossed: H3/19/25 SB257
+1 (2) Any internal, undisclosed, or unpublished protocol,
+2 procedure, or requirement shall be deemed invalid for the purpose of making
+3 an adverse decision.
+4 (3) Subdivisions (c)(1) and (c)(2) of this section do not apply
+5 to:
+6 (A) Any information, protocol, procedure, or requirement
+7 for which disclosure is prohibited by state law or rule or by federal law or
+8 regulation;
+9 (B) Research regarding the latest medical standard of care
+10 or advancement of practice that is conducted by the department on a specific
+11 request for payment or claim; or
+12 (C) Adverse actions associated with licensure or
+13 certification of providers.
+14
+15 20-77-1720. Third-party entity compliance.
+16 A third-party entity shall comply with the requirements in this
+17 subchapter, including appeal periods, notice requirements, and publication of
+18 protocols, procedures, and requirements.
+19
+20 SECTION 6. DO NOT CODIFY. Implementation.
+21 The Department of Human Services shall:
+22 (1) Revise all policies, manuals, and procedural guidelines to
+23 conform with this act; and
+24 (2) Conduct periodic audits to ensure compliance with this act
+25 and publish audit findings under this section annually.
+26
+27 /s/C. Penzo
+28
+29
+30
+31
+32
+33
+34
+35
+36
+4 03-19-2025 15:13:17 JMB310
+
+[DELETED:  A       A T M I M R F   T E I R N  B   S  (   ( t d   ( d w p   (]
+[DELETED:  S2 0 s p a   ( d c c  ( t   (   ( c p   ( p   ( a   S w t   ( c M   S  2  ( S s   (   ( b   ( d  (]
+[DELETED:  S3 0 a   ( a   ( m    S  2  ( o b o e o  ( t a a   S a  2  ( p t  (   ( r   ( r s   ( o c  ( o]
+[DELETED:  S4 0   ( p a   ( t    ( f r    ( o r    ( c   2  A s p   S  T   ( c   ( a  /         ]

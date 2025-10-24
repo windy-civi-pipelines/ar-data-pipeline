@@ -1,0 +1,2866 @@
+Title: Stricken language would be deleted from and underlined language would be added to present law.
+Official Title: Stricken language would be deleted from and underlined language would be added to present law.
+Number of Sections: 1
+Source: versions - HB 1521
+Media Type: application/pdf
+Strikethrough Detection: 36 sections found
+
+================================================================================
+
+Section 1:
+1 State of Arkansas
+A Bill
+2 95th General Assembly
+3 Regular Session, 2025 HOUSE BILL 1521
+4
+5 By: Representative Cavenaugh
+6 By: Senator J. Petty
+7
+For An Act To Be Entitled
+8
+9 AN ACT TO REPEAL CERTAIN TAX INCENTIVES; TO REPEAL
+10 CERTAIN UNUSED, UNDERUSED, OR UNFUNDED TAX
+11 INCENTIVES; TO REPEAL TAX INCENTIVES RELATED TO
+12 CENTERS FOR APPLIED TECHNOLOGY; TO REPEAL THE
+13 ARKANSAS PUBLIC ROADS IMPROVEMENTS CREDIT ACT; TO
+14 REPEAL PROVISIONS OF THE CONSOLIDATED INCENTIVE ACT
+15 OF 2003; TO REPEAL TAX INCENTIVES FOR MAJOR
+16 MAINTENANCE AND IMPROVEMENT PROJECTS; TO REPEAL THE
+17 PUBLIC ROADS INCENTIVE FUND; TO REPEAL INCENTIVES
+18 RELATED TO THE DONATION OR SALE OF EQUIPMENT TO AN
+19 EDUCATIONAL INSTITUTION; TO REPEAL THE SALES AND USE
+20 TAX EXEMPTION FOR THE PARTIAL REPLACEMENT AND REPAIR
+21 OF CERTAIN MACHINERY AND EQUIPMENT; AND FOR OTHER
+22 PURPOSES.
+23
+24
+Subtitle
+25
+26 TO REPEAL CERTAIN UNUSED, UNDERUSED, OR
+27 UNFUNDED TAX INCENTIVES.
+28
+29 BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF ARKANSAS:
+30
+31 SECTION 1. Arkansas Code § 15-3-110(c)–(e), concerning the power of
+32 the Director of the Arkansas Economic Development Commission to promote basic
+33 and applied research at Arkansas colleges and universities, are repealed.
+34 (c)(1) Any moneys lawfully available to the division for the purpose
+35 of supporting basic research at Arkansas colleges and universities shall in
+36 no event defray more than sixty percent (60%) of the total cost of the
+*JLL167*
+02/18/2025 12:26:07 PM JLL167
+HB1521
+1 proposed basic research project being funded.
+2 (2) The remaining forty percent (40%) of the total cost of the
+3 proposed basic research project shall be funded by moneys or in-kind services
+4 provided by the college or university proposing the basic research project.
+5 (d)(1)(A) Any moneys lawfully available to the division for the
+6 purpose of creating applied research partnerships between private industry
+7 and Arkansas colleges and universities shall in no event defray more than
+8 fifty percent (50%) of the total cost of the proposed applied research
+9 project.
+10 (B) However, the contribution of the Director of the
+11 Arkansas Economic Development Commission may defray up to sixty-six and two-
+12 thirds percent (66⅔%) of the total cost of a proposed applied research
+13 project if the Director of the Arkansas Economic Development Commission, with
+14 the advice of the Board of Directors of the Division of Science and
+15 Technology of the Arkansas Economic Development Commission, finds that the
+16 participating private industry is principally located in Arkansas and employs
+17 fifty (50) or fewer persons.
+18 (2) The proposed applied research project shall be submitted by
+19 an Arkansas college or university, and the proposal shall state that a
+20 percentage of the total cost of the proposed applied research project will be
+21 provided by private sources in accordance with the matching provisions of
+22 this subsection.
+23 (3) The Director of the Arkansas Economic Development Commission
+24 shall approve for funding only those proposed applied research projects for
+25 which the Director of the Arkansas Economic Development Commission finds that
+26 enhanced employment opportunity within Arkansas will be a likely result.
+27 (e)(1) Any moneys lawfully available to the division for the purpose
+28 of supporting technology development shall in no event exceed one hundred
+29 thousand dollars ($100,000) per project being funded.
+30 (2) The Director of the Arkansas Economic Development Commission
+31 shall impose a reasonable, nonrefundable fee for the evaluation of the
+32 technological and economic potential of emerging technologies contained in
+33 proposals from nonpublic sources of innovation.
+34 (3) The Director of the Arkansas Economic Development Commission
+35 is authorized to incorporate a royalty provision not to exceed five percent
+36 (5%) of net sales revenue per year for a period of not more than ten (10)
+2 02/18/2025 12:26:07 PM JLL167
+HB1521
+1 years as a condition of award.
+2 (4) The Director of the Arkansas Economic Development Commission
+3 shall approve for funding only those proposed technology development projects
+4 for which the Director of the Arkansas Economic Development Commission finds
+5 that enhanced economic opportunity within Arkansas will be a likely result.
+6
+7 SECTION 2. Arkansas Code §§ 15-3-130 — 15-3-135 are repealed.
+8 15-3-130. Centers for applied technology — Definition.
+9 For the purposes of this section and §§ 15-3-131 — 15-3-134, “center
+10 for applied technology” or “center” means a college or university or
+11 university-affiliated unit, or a consortium of such units, which conducts a
+12 continuing program of basic research and applied research, development, and
+13 technology transfer in one (1) or more technological areas in collaboration
+14 with and through the support of private enterprises.
+15
+16 15-3-131. Centers for applied technology — Authority to designate.
+17 In order to encourage greater collaboration between private enterprises
+18 and Arkansas colleges and universities in the development and application of
+19 new technologies, the Arkansas Economic Development Commission may designate
+20 technological areas as having significant potential for economic growth in
+21 Arkansas or in which the application of new technologies could significantly
+22 enhance the productivity and stability of Arkansas enterprises.
+23
+24 15-3-132. Centers for applied technology — Criteria — Designation.
+25 (a) The Division of Science and Technology of the Arkansas Economic
+26 Development Commission shall:
+27 (1) Identify technological areas for which centers for applied
+28 technology should be designated, including, but not limited to, technological
+29 areas that are related to enterprises with significant potential for economic
+30 growth and development in Arkansas and areas that are related to the
+31 enhancement of productivity in various enterprises in Arkansas;
+32 (2) Establish, in consultation with the Division of Higher
+33 Education, criteria that must be satisfied for designation as a center,
+34 including, but not limited to:
+35 (A) An established record of research, development, and
+36 instruction in the area of technology;
+3 02/18/2025 12:26:07 PM JLL167
+HB1521
+1 (B) The capacity to conduct research and development
+2 activities in collaboration with private enterprises;
+3 (C) The capacity to secure substantial private and other
+4 government funding for the proposed center;
+5 (D) The ability and willingness to cooperate with other
+6 colleges and universities in conducting research and development activities
+7 and in disseminating research results and to work with institutions of higher
+8 learning to enhance the quality of technological education in the area or
+9 areas of technology involved; and
+10 (E) The ability and willingness to cooperate with the
+11 Division of Science and Technology of the Arkansas Economic Development
+12 Commission, the Arkansas Economic Development Council, and other economic
+13 development agencies in promoting the growth and development in Arkansas of
+14 enterprises based upon or benefiting from the areas of technology involved;
+15 and
+16 (3) Designate, using a competitive selection process, those
+17 centers for applied technology to be created in cooperation with colleges and
+18 universities in the state.
+19 (b) The Division of Science and Technology of the Arkansas Economic
+20 Development Commission may not designate technological areas or establish
+21 centers prior to the Division of Science and Technology of the Arkansas
+22 Economic Development Commission's adopting rules to govern the program
+23 authorized under this section, §§ 15-3-130, 15-3-131, 15-3-133, and 15-3-134.
+24
+25 15-3-133. Centers for applied technology — Advisory committees.
+26 (a) In carrying out its functions under this section, §§ 15-3-130 —
+27 15-3-132, and 15-3-134, the Division of Science and Technology of the
+28 Arkansas Economic Development Commission may create such advisory committees
+29 as may be useful in evaluating potential technological areas and centers for
+30 applied technology.
+31 (b) The memberships of these advisory committees may include both
+32 directors and staff members of the division and other persons drawn from
+33 sources other than the division, all of whom shall serve at the pleasure of
+34 the Director of the Arkansas Economic Development Commission.
+35 (c) Members of such advisory committees shall serve without
+36 compensation for their membership on such committees but may receive expense
+4 02/18/2025 12:26:07 PM JLL167
+HB1521
+1 reimbursement in accordance with § 25-16-901 et seq.
+2
+3 15-3-134. Centers for applied technology — Disposition of funds.
+4 Any moneys lawfully available to the Arkansas Economic Development
+5 Commission for the purpose of creating centers for applied technology may be
+6 used for the purchase of equipment and fixtures, employment of faculty and
+7 support staff, provision of graduate fellowships, and other purposes approved
+8 by the commission but may not be used for capital construction.
+9
+10 15-3-135. Promotion of scientific, medical, and technological jobs and
+11 infrastructure enhancements — Definition.
+12 (a) As used in this section, “qualified medical company” means a
+13 corporation engaged in:
+14 (1) Research and development in the medical field; and
+15 (2) Manufacture and distribution of medical products, including
+16 therapeutic and diagnostic products.
+17 (b)(1) All agencies, departments, boards, commissions, and other
+18 instrumentalities of this state and all political subdivisions of this state
+19 and all agencies, departments, boards, commissions, and other
+20 instrumentalities thereof, to the greatest extent possible, shall expedite
+21 the processing of all lawful applications and requests required or permitted
+22 by law which are submitted or made by qualified medical companies and, in
+23 considering all such applications and requests, give due consideration to the
+24 purposes of this section.
+25 (2) To the extent available time, personnel, and other resources
+26 permit, all state-funded colleges and universities shall provide research
+27 assistance to the Arkansas Economic Development Commission to assist with
+28 planning to develop scientific, medical, and technological commercial
+29 infrastructure enhancements to encourage qualified medical companies to
+30 locate in this state.
+31
+32 SECTION 3. Arkansas Code Title 15, Chapter 4, Subchapter 23, is
+33 repealed.
+34 Subchapter 23 — Arkansas Public Roads Improvements Credit Act
+35
+36 15-4-2301. Title.
+5 02/18/2025 12:26:07 PM JLL167
+HB1521
+1 This subchapter may be referred to and cited as the “Arkansas Public
+2 Roads Improvements Credit Act”.
+3
+4 15-4-2302. Legislative intent.
+5 The General Assembly finds and declares that:
+6 (1) The state's program for capital improvements for public
+7 roads projects and the financing of those projects is inadequate;
+8 (2) The economic and other benefits to the state and its people
+9 resulting from capital improvements for public roads projects are essential
+10 to the public health, safety, and welfare of the people of Arkansas; and
+11 (3) Providing tax credits to taxpayers for contributions in aid
+12 of construction of capital improvements for public roads projects will
+13 encourage public and private participation in these capital improvement
+14 projects, will promote the economic welfare of this state and its people, and
+15 is in the public interest.
+16
+17 15-4-2303. Definitions.
+18 As used in this subchapter:
+19 (1) “Capital improvements” means capital improvements for public
+20 roads;
+21 (2) “Commission” means the Arkansas Economic Development
+22 Commission;
+23 (3) “Contribution” means a contribution in aid of construction
+24 of a public roads project made by a taxpayer to the Public Roads Incentive
+25 Fund;
+26 (4) “Council” means the Arkansas Economic Development Council;
+27 (5) “County” means any county in the State of Arkansas;
+28 (6) [Repealed.]
+29 (7) “Fund” means the Public Roads Incentive Fund;
+30 (8) “Governing authority” means the quorum court of a county,
+31 the governing body of a municipality, and the State Highway Commission;
+32 (9) “Municipality” means any city or incorporated town in the
+33 State of Arkansas;
+34 (10) “Project” means all, any combination, or any part of the
+35 capital improvements for public roads which are authorized by a governing
+36 authority and approved by the Director of the Arkansas Economic Development
+6 02/18/2025 12:26:07 PM JLL167
+HB1521
+1 Commission;
+2 (11) “Public roads” means roads maintained by a governing
+3 authority; and
+4 (12) “Taxpayer” includes any individual, fiduciary, or
+5 corporation subject to Arkansas state income tax.
+6
+7 15-4-2304. Approval of projects.
+8 Governing authorities may apply to the Director of the Arkansas
+9 Economic Development Commission for funding assistance for capital
+10 improvement projects for public roads as provided by this subchapter. The
+11 director is authorized to approve capital improvements for funding assistance
+12 upon a finding that a project is in the public interest.
+13
+14 15-4-2305. Public Roads Incentive Fund.
+15 (a) There is established on the books of the Treasurer of State, the
+16 Auditor of State, and the Chief Fiscal Officer of the State a fund to be
+17 known as the “Public Roads Incentive Fund” of the Arkansas Economic
+18 Development Council.
+19 (b) The fund shall consist of contributions made by taxpayers for
+20 public roads projects approved by the Director of the Arkansas Economic
+21 Development Commission and any other funds as are designated or deposited to
+22 the fund by law.
+23 (c)(1) A separate account shall be established for each project, and
+24 contributions for a project shall be applied to provide funding assistance
+25 for such a project.
+26 (2) Any contributions which remain in the fund when a project is
+27 completed or terminated shall be held and applied to other public roads
+28 projects in such manner as the director shall direct.
+29
+30 15-4-2306. Tax credit.
+31 (a) A taxpayer shall be entitled to a credit against any Arkansas
+32 income tax liability which may be imposed on the taxpayer for any tax year
+33 commencing on or after January 1, 1999, for contributions transmitted to the
+34 Treasurer of State pursuant to this subchapter.
+35 (b) The credit shall be determined in the following manner:
+36 (1) The credit shall be calculated as thirty-three percent (33%)
+7 02/18/2025 12:26:07 PM JLL167
+HB1521
+1 of the taxpayer's contribution;
+2 (2) In any one (1) tax year, the credit allowed by this section
+3 shall offset up to one hundred percent (100%) of the net Arkansas state
+4 income tax liability of the taxpayer; and
+5 (3) Any credit in excess of the amount allowed by subdivision
+6 (b)(2) of this section for any one (1) tax year may be carried forward and
+7 applied against any Arkansas state income tax liability for the next-
+8 succeeding tax year and annually thereafter for a total period of ten (10)
+9 years next succeeding the year in which the credit arose, subject to the
+10 provisions of subdivision (b)(2) of this section or until the credit is
+11 exhausted, whichever occurs first.
+12
+13 15-4-2307. Powers and duties of the Arkansas Economic Development
+14 Commission.
+15 The Arkansas Economic Development Commission shall administer the
+16 provisions of this subchapter and shall have the following powers and duties,
+17 in addition to those mentioned in this subchapter and in other laws of this
+18 state:
+19 (1) To monitor the implementation and operation of this
+20 subchapter and to conduct a continuing evaluation of the progress made;
+21 (2) To assist the governing authority in obtaining assistance
+22 from any other department of state government;
+23 (3) To submit an annual written report evaluating the
+24 effectiveness of the program and presenting any suggestions for improving the
+25 program, to be submitted to the Governor no later than March 1 of each year;
+26 and
+27 (4) To promulgate rules in accordance with the Arkansas
+28 Administrative Procedure Act, § 25-15-201 et seq., necessary to carry out the
+29 provisions of this subchapter.
+30
+31 SECTION 4. Arkansas Code § 15-4-2705(h), concerning the job-creation
+32 tax credit, is amended to read as follows:
+33 (h)(1) If a qualified business fails to meet the payroll threshold
+34 within two (2) years after the date of the approved financial incentive
+35 agreement or within the time period established by an extension approved by
+36 the Secretary of the Department of Finance and Administration and the
+8 02/18/2025 12:26:07 PM JLL167
+HB1521
+1 Director of the Arkansas Economic Development Commission, the qualified
+2 business is liable for repayment of all incentives previously received under
+3 § 15-4-2706(d) that were conditioned on an approved financial incentive
+4 agreement under this section for which the payroll threshold has not been
+5 met.
+6 (2) If a qualified business fails to reach the payroll threshold
+7 of this section in a timely manner, the The department shall have two (2)
+8 years to collect incentives previously received by the qualified business or
+9 file a lawsuit to enforce the repayment provisions.
+10
+11 SECTION 5. Arkansas Code § 15-4-2706(b)(7)-(13), concerning investment
+12 tax incentives under the Consolidated Incentive Act of 2003, are repealed.
+13 (7) Technology-based enterprises, as defined by § 14-164-203,
+14 may earn, at the discretion of the director, an income tax credit or sales
+15 and use tax credit based on new investment, provided that the technology-
+16 based enterprise:
+17 (A) Creates a new payroll of at least two hundred fifty
+18 thousand dollars ($250,000); and
+19 (B) Pays an average hourly wage that is at least one
+20 hundred fifty percent (150%) of the lesser of the state or county average
+21 hourly wage for the county in which the business locates or expands.
+22 (8)(A) The income tax credit or sales and use tax credit that
+23 may be earned by a technology-based enterprise is based on the amount of
+24 investment as follows:
+25 (i) The income tax credit or sales and use tax
+26 credit is equal to two percent (2%) of the investment for an investment that
+27 is between two hundred fifty thousand dollars ($250,000) and five hundred
+28 thousand dollars ($500,000);
+29 (ii) The income tax credit or sales and use tax
+30 credit is equal to four percent (4%) of the investment for that part of the
+31 investment that is over five hundred thousand dollars ($500,000) and less
+32 than one million dollars ($1,000,000);
+33 (iii) The income tax credit or sales and use tax
+34 credit is equal to six percent (6%) of the investment for that part of the
+35 investment that is over one million dollars ($1,000,000) and less than two
+36 million dollars ($2,000,000); and
+9 02/18/2025 12:26:07 PM JLL167
+HB1521
+1 (iv) The income tax credit or sales and use tax
+2 credit is equal to eight percent (8%) of the investment for that part of the
+3 investment that is over two million dollars ($2,000,000).
+4 (B) The amount of credit earned is determined based upon
+5 the amount invested, as verified by an audit by the department.
+6 (9) All investments by a technology-based enterprise shall be
+7 made within four (4) years of the date of the approved financial incentive
+8 agreement.
+9 (10) Prior to commission approval of a financial incentive
+10 agreement, the business shall elect to receive the tax credits as either:
+11 (A) A sales and use tax credit; or
+12 (B) An income tax credit.
+13 (11) The income tax credit or sales and use tax credit earned by
+14 a technology-based enterprise may offset income tax liabilities or sales and
+15 use tax liabilities as follows:
+16 (A) A technology-based enterprise that pays at least one
+17 hundred fifty percent (150%) of the lesser of the state or county average
+18 hourly wage for the county in which the business locates or expands may
+19 offset up to fifty percent (50%) of its income tax liability or sales and use
+20 tax liability annually;
+21 (B) A technology-based enterprise that pays at least one
+22 hundred seventy-five percent (175%) of the lesser of the state or county
+23 average hourly wage for the county in which the business locates or expands
+24 may offset up to seventy-five percent (75%) of its income tax liability or
+25 sales and use tax liability annually; and
+26 (C) A technology-based enterprise that pays at least two
+27 hundred percent (200%) of the lesser of the state or county average hourly
+28 wage for the county in which the business locates or expands may offset up to
+29 one hundred percent (100%) of its income tax liability or sales and use tax
+30 liability annually.
+31 (12) After receiving an approved financial incentive agreement
+32 from the commission, a qualified business shall certify to the department the
+33 eligible project costs and average hourly wages annually at the end of each
+34 tax year for the term of the financial incentive agreement.
+35 (13) Unused income tax credits or sales and use tax credits may
+36 be carried forward for up to nine (9) years after the year in which the
+10 02/18/2025 12:26:07 PM JLL167
+HB1521
+1 credit was first earned or until the tax credits are exhausted, whichever
+2 occurs first.
+3
+4 SECTION 6. Arkansas Code § 15-4-2706(d) and (e), concerning investment
+5 tax incentives under the Consolidated Incentive Act of 2003, are repealed.
+6 (d)(1)(A) An application for a state and local sales and use tax
+7 refund for a new or expanding business shall be filed with the commission
+8 contingent upon the approval of an endorsement resolution from the governing
+9 authority of a municipality or county, or both, in whose jurisdiction the
+10 business will be located.
+11 (B) The resolution shall:
+12 (i) Endorse the business's participation in this
+13 sales and use tax refund program; and
+14 (ii) Specify that the department is authorized to
+15 refund local sales taxes to the qualified business.
+16 (C) To qualify for a refund under this subsection, a
+17 qualified business shall meet the minimum investment thresholds for the tier
+18 in which the qualified business expands or locates, as follows:
+19 (i) For tier 1 counties, the minimum investment
+20 threshold is at least five hundred thousand dollars ($500,000);
+21 (ii) For tier 2 counties, the minimum investment
+22 threshold is at least four hundred thousand dollars ($400,000);
+23 (iii) For tier 3 counties, the minimum investment
+24 threshold is at least three hundred thousand dollars ($300,000); and
+25 (iv) For tier 4 counties, the minimum investment
+26 threshold is at least two hundred thousand dollars ($200,000).
+27 (2)(A)(i) The secretary shall authorize a sales and use tax
+28 refund of state and local sales and use taxes, excepting the sales and use
+29 taxes dedicated to the Educational Adequacy Fund and the Conservation Tax
+30 Fund on the purchases of the material used in the construction of a building
+31 or buildings or any addition, modernization, or improvement thereon for
+32 housing any new or expanding qualified business and machinery and equipment
+33 to be located in or in connection with such a building.
+34 (ii) The local sales and use tax may be refunded only
+35 from the municipality or county, or both, in which the qualified business is
+36 located.
+11 02/18/2025 12:26:07 PM JLL167
+HB1521
+1 (B) A refund shall not be authorized for:
+2 (i) Routine operating expenditures; or
+3 (ii) The purchase of replacement items previously
+4 purchased as part of a project under this subsection unless the items
+5 previously purchased are necessary for the implementation or completion of
+6 the project.
+7 (3)(A) Subject to the approval of the commission, a qualified
+8 business may make changes to a project by written amendment to the project
+9 plan filed with the commission.
+10 (B) The commission shall not approve an amendment under
+11 subdivision (d)(3)(A) of this section that results in a cost increase of more
+12 than twenty-five percent (25%) of the initial project plan.
+13 (4) All claims for sales and use tax refunds under this
+14 subsection shall be denied unless they are filed with the department within
+15 three (3) years from the date of the qualified purchase or purchases.
+16 (5)(A)(i) To be eligible for the incentives under this
+17 subsection, a qualified business shall meet all payroll creation requirements
+18 of its approved financial incentive agreement under § 15-4-2705 or § 15-4-
+19 2707.
+20 (ii) However, a business may apply for incentives
+21 under this subsection if:
+22 (a) The business has an existing financial
+23 incentive agreement approved under this subdivision (d)(5)(A) and the
+24 provisions of subdivision (d)(5)(B) of this section have been met within the
+25 previous four (4) years; or
+26 (b) The business has signed a financial
+27 incentive agreement approved under § 15-4-2705 or § 15-4-2707 within the
+28 previous four (4) years.
+29 (B) The financial incentive agreement under § 15-4-2705 or
+30 § 15-4-2707 shall be approved within two (2) years after the financial
+31 incentive agreement under this subsection is approved.
+32 (e)(1) A targeted business may be eligible for a refund of state and
+33 local sales and use taxes for qualified expenditures at the discretion of the
+34 director if:
+35 (A)(i) The annual payroll of the targeted business for
+36 Arkansas taxpayers is greater than one hundred thousand dollars ($100,000)
+12 02/18/2025 12:26:07 PM JLL167
+HB1521
+1 and less than one million dollars ($1,000,000).
+2 (ii) The payroll requirement in subdivision
+3 (e)(1)(A)(i) of this section applies only to the initial eligibility
+4 determination and does not preclude a qualified business from receiving
+5 incentives if, at any time after the financial incentive agreement is
+6 approved, actual payroll does not satisfy the requirements in subdivision
+7 (e)(1)(A)(i) of this section; and
+8 (B) The targeted business shows proof of an equity
+9 investment of at least two hundred fifty thousand dollars ($250,000).
+10 (2)(A) An application for the targeted business state and local
+11 sales and use tax refund program for a new or expanding targeted business
+12 shall be filed with the commission contingent upon the approval of an
+13 endorsement resolution from the governing authority of a municipality or
+14 county, or both, in whose jurisdiction the targeted business will be located.
+15 (B) The resolution shall:
+16 (i) Endorse the business's participation in this
+17 sales and use tax refund program; and
+18 (ii) Specify that the department is authorized to
+19 refund local sales and use taxes to the targeted business.
+20 (3) An approved financial incentive agreement and any other
+21 pertinent documentation shall be forwarded to the secretary.
+22 (4)(A)(i) The secretary shall authorize a sales and use tax
+23 refund of state and local sales and use taxes, excepting the sales and use
+24 taxes dedicated to the Educational Adequacy Fund and the Conservation Tax
+25 Fund on the purchases of the material used in the construction of a building
+26 or buildings or any addition, modernization, or improvement thereon for
+27 housing any new or expanding qualified business and machinery and equipment
+28 to be located in or in connection with such a building.
+29 (ii) The local sales and use tax may be refunded
+30 only from the municipality or county, or both, in which the qualified
+31 business is located.
+32 (B) A refund shall not be authorized for:
+33 (i) Routine operating expenditures; or
+34 (ii) The purchase of replacement items previously
+35 purchased as part of a project under this subsection unless the items
+36 previously purchased are necessary for the implementation or completion of
+13 02/18/2025 12:26:07 PM JLL167
+HB1521
+1 the project.
+2 (5)(A) Subject to the approval of the commission, a qualified
+3 business may make changes to a project by written amendment to the project
+4 plan filed with the commission.
+5 (B) The commission shall not approve an amendment under
+6 subdivision (e)(5)(A) of this section that results in a cost increase of more
+7 than twenty-five percent (25%) of the initial project plan.
+8 (6) All claims for sales and use tax refunds under this
+9 subsection shall be denied unless they are filed with the department within
+10 three (3) years after the date of the qualified purchase or purchases.
+11 (7) If a targeted business plans to apply for benefits under
+12 this subsection and also plans to apply for benefits under § 15-4-2709, the
+13 financial incentive agreement under § 15-4-2709 must be signed within twenty-
+14 four (24) months of signing the financial incentive agreement under this
+15 subsection and comply with the eligibility requirements of the financial
+16 incentive agreements.
+17 (8) To be eligible for the incentives under this subsection, a
+18 targeted business shall meet all payroll creation requirements of an approved
+19 financial incentive agreement under § 15-4-2707 or § 15-4-2709 within two (2)
+20 years of the date of the approved financial incentive agreement under this
+21 subsection or other subsequent date if approved by the director.
+22
+23 SECTION 7. Arkansas Code § 15-4-2707(e), concerning the Economic
+24 Development Incentive Fund and the payroll rebate under the Consolidated
+25 Incentive Act of 2003, is repealed.
+26 (e)(1) Technology-based enterprises, as defined in § 14-164-203, may
+27 earn, at the discretion of the director, a payroll rebate equal to five
+28 percent (5%) of the payroll for new full-time permanent employees for a
+29 period not to exceed ten (10) years.
+30 (2) To qualify for the payroll rebate:
+31 (A) The average hourly wage of the payroll for new full-
+32 time permanent employees must be at least one hundred fifty percent (150%) of
+33 the lesser of the state or county average hourly wage for the county in which
+34 the technology-based enterprise locates or expands;
+35 (B) The payroll for new full-time permanent employees must
+36 exceed two hundred fifty thousand dollars ($250,000); and
+14 02/18/2025 12:26:07 PM JLL167
+HB1521
+1 (C) The payroll rebate authorized by this subsection shall
+2 not be used in combination with the income tax credit based on payroll
+3 authorized by § 15-4-2709.
+4
+5 SECTION 8. Arkansas Code § 15-4-2708(a)(4), concerning research and
+6 development tax credits under the Consolidated Incentive Act of 2003, is
+7 repealed.
+8 (4) A qualified business claiming tax credits earned under this
+9 subsection shall not receive the credit granted by § 26-51-1102(b) for the
+10 same expenditures.
+11
+12 SECTION 9. Arkansas Code § 15-4-2708(b)–(d), concerning research and
+13 development tax credits under the Consolidated Incentive Act of 2003, are
+14 amended to read as follows:
+15 (b)(1) Targeted businesses may qualify for an income tax credit equal
+16 to thirty-three percent (33%) of the amount spent on in-house research per
+17 year for the first five (5) tax years following the targeted business's
+18 signing a financial incentive agreement with the commission.
+19 (2) The credits earned by targeted businesses may be sold as
+20 authorized in § 15-4-2709 under this subsection.
+21 (3) Any unused income tax credits under this subsection may be
+22 carried forward for up to nine (9) years after the year in which the income
+23 tax credit was first earned.
+24 (4)(A) To sell income tax credits earned through incentives
+25 authorized under this subchapter, a targeted business shall apply to the
+26 commission and furnish the information necessary to facilitate the sale of
+27 the income tax credits.
+28 (B)(i) A taxpayer that purchases income tax credits under
+29 this subsection may carry any unused income tax credits forward as provided
+30 in subdivision (b)(3) of this section.
+31 (ii) The purchase of income tax credits under this
+32 subsection does not establish a new carry-forward period for the purchaser.
+33 (5) A targeted business that claims or sells income tax credits
+34 under this subsection shall not receive the income tax credit allowed under §
+35 26-51-1102(b) for the same expenditures.
+36 (c)(1) An Arkansas taxpayer may be offered, at the discretion of the
+15 02/18/2025 12:26:07 PM JLL167
+HB1521
+1 director, an income tax credit equal to thirty-three percent (33%) of the
+2 amount spent on the research for the first five (5) tax years following the
+3 business's signing a financial incentive agreement with the commission,
+4 subject to the limitations established under § 26-51-1103 if the taxpayer
+5 invests in:
+6 (A) In-house research in a strategic research area; or
+7 (B) Projects under the research and development programs
+8 of the Division of Science and Technology of the Arkansas Economic
+9 Development Commission when the projects directly involve an Arkansas
+10 business and are approved by the director with the advice of the Board of
+11 Directors of the Division of Science and Technology of the Arkansas Economic
+12 Development Commission under rules promulgated by the commission for those
+13 programs.
+14 (2) However, the maximum tax credit for a qualified business
+15 engaged in a research area of strategic value or involved in research and
+16 development programs sponsored by the division shall not exceed fifty
+17 thousand dollars ($50,000) per year.
+18 (3) A qualified business claiming tax credits earned under this
+19 subsection shall not receive the credit granted by § 26-51-1102(b) for the
+20 same expenditures.
+21 (4)(A) A qualified business claiming tax credits earned under
+22 this subsection may offset up to one hundred percent (100%) of the business's
+23 Arkansas income tax liability annually.
+24 (B) Any unused income tax credits may be carried forward
+25 for up to nine (9) years after the year in which the credit was first earned
+26 or until exhausted, whichever occurs first.
+27 (d) To claim the credit granted under subsections (a)-(c) (a) and (b)
+28 of this section, the taxpayer shall file with his or her return, as an
+29 attachment to the form prescribed by the Secretary of the Department of
+30 Finance and Administration, copies of documentation to show that the
+31 commission has approved the research expenditure as a part of a qualified in-
+32 house research program or under the research and development programs of the
+33 division Division of Science and Technology of the Arkansas Economic
+34 Development Commission.
+35
+36 SECTION 10. Arkansas Code § 15-4-2709 is repealed.
+16 02/18/2025 12:26:07 PM JLL167
+HB1521
+1 15-4-2709. Targeted business special incentive.
+2 (a) A special incentive based on the payroll of targeted businesses in
+3 the state may be offered, at the discretion of the Director of the Arkansas
+4 Economic Development Commission, to:
+5 (1) Encourage the development of jobs that pay significantly
+6 more than the average hourly wage in the county in which the targeted
+7 business locates or the state average hourly wage if the state average hourly
+8 wage is less than the county average hourly wage; and
+9 (2) Provide an incentive to assist with the start-up of
+10 businesses targeted for growth.
+11 (b) To qualify for the special incentive provided by subsection (c) of
+12 this section, a business shall:
+13 (1) Be identified by the Arkansas Economic Development
+14 Commission as being one of those business sectors targeted for growth under §
+15 15-4-2703;
+16 (2)(A) Have an annual payroll of the business for Arkansas
+17 taxpayers of not less than one hundred thousand dollars ($100,000) or more
+18 than one million dollars ($1,000,000).
+19 (B) The payroll requirement under subdivision (b)(2)(A) of
+20 this section applies only to the initial eligibility determination and does
+21 not preclude qualified businesses from receiving incentives if, at any time
+22 after the financial incentive agreement has been approved, actual payroll
+23 does not satisfy the requirements in subdivision (b)(2)(A) of this section;
+24 (3) Show proof of an equity investment of two hundred fifty
+25 thousand dollars ($250,000) or more; and
+26 (4) Pay average hourly wages in excess of the lesser of one
+27 hundred fifty percent (150%) of the county or state average hourly wage for
+28 the county in which the targeted business locates or expands.
+29 (c)(1) A targeted business may earn an income tax credit equal to ten
+30 percent (10%) of its annual payroll, with the maximum payroll credit not to
+31 exceed one hundred thousand dollars ($100,000) in any year during the term of
+32 the financial incentive agreement.
+33 (2)(A) The term of the financial incentive agreement shall be
+34 established by the director for a period not to exceed five (5) years.
+35 (B) The term of the financial incentive agreement for
+36 targeted businesses earning a tax credit under this subsection shall begin on
+17 02/18/2025 12:26:07 PM JLL167
+HB1521
+1 January 1 of the year following the year in which the financial incentive
+2 agreement was approved.
+3 (C) The director may allow a qualified targeted business
+4 to sell any income tax credits earned through one (1) or more incentives
+5 authorized by this subchapter.
+6 (d)(1) To sell income tax credits earned through incentives authorized
+7 by this subchapter, the targeted business shall apply to the commission and
+8 furnish information necessary to facilitate the sale of income tax credits.
+9 (2)(A) Any unused tax credits may be carried forward for up to
+10 nine (9) years after the year in which the credit was first earned or until
+11 exhausted, whichever occurs first.
+12 (B) Taxpayers purchasing tax credits under this subsection
+13 shall be subject to the same carry-forward provisions as the targeted
+14 business that earned the credits.
+15 (C) The purchase of the tax credits does not establish a
+16 new carry-forward period for the ultimate recipient.
+17 (e) A targeted business claiming or selling tax credits earned under
+18 this section or § 15-4-2708 shall not receive the credit granted by § 26-51-
+19 1102(b) for the same expenditures.
+20
+21 SECTION 11. Arkansas Code § 15-4-2711(c) and (d), concerning the
+22 administration of the incentives provided under the Consolidated Incentive
+23 Act of 2003, are repealed.
+24 (c)(1) All claims for sales and use tax refunds under § 15-4-2706(d)
+25 and (e) shall be filed annually with the Department of Finance and
+26 Administration within three (3) years from the date of the qualified purchase
+27 or purchases.
+28 (2) Claims filed after three (3) years from the date of the
+29 qualified purchase or purchases shall be denied.
+30 (d)(1) The time limitation for § 15-4-2706(d) and (e) for filing
+31 claims shall be tolled if:
+32 (A) A qualified business fails to pay sales tax on an item
+33 that was taxable; and
+34 (B) The applicable tax is subsequently assessed as a
+35 result of an audit by the department.
+36 (2) All claims for sales and use tax refunds relating to an
+18 02/18/2025 12:26:07 PM JLL167
+HB1521
+1 audited purchase are entitled to a refund of interest paid on the amount of
+2 tax assessed on the audited purchase if a refund is approved for the
+3 purchase.
+4
+5 SECTION 12. Arkansas Code § 15-4-2712 is amended to read as follows:
+6 15-4-2712. Restrictions.
+7 (a) Except as provided in subsection (b) of this section, the
+8 incentives established by this subchapter may be combined.
+9 (b)(1) The investment tax credit authorized in § 15-4-2706(c) shall
+10 not be combined with the sales and use tax refund authorized in § 15-4-
+11 2706(d) for the same project.
+12 (2) The following incentives for targeted businesses may be
+13 combined with each other for the same project as long as multiple incentives
+14 are not claimed for the same expenditures but shall not be combined with any
+15 other incentives authorized in this subchapter during the period in which the
+16 qualified business receives incentives under this subchapter:
+17 (A) The investment tax credit authorized under § 15-4-
+18 2706(b)(7) may be combined with:
+19 (i) The research and development income tax credits
+20 authorized under § 15-4-2708(b); and
+21 (ii) Either the:
+22 (a) Payroll rebate program authorized under §
+23 15-4-2707(e); or
+24 (b) Payroll tax credit program authorized
+25 under § 15-4-2709;
+26 (B) The sales and use tax refund authorized under § 15-4-
+27 2706(e) may be combined with:
+28 (i) The research and development income tax credits
+29 authorized under § 15-4-2708(b); and
+30 (ii) Either the:
+31 (a) Payroll rebate program authorized under §
+32 15-4-2707(e); or
+33 (b) Payroll tax credit program authorized
+34 under § 15-4-2709;
+35 (C) The payroll rebate program authorized under § 15-4-
+36 2707(e) may be combined with:
+19 02/18/2025 12:26:07 PM JLL167
+HB1521
+1 (i) The research and development income tax credits
+2 authorized under § 15-4-2708(b); and
+3 (ii) Either the:
+4 (a) Investment tax credit program authorized
+5 under § 15-4-2706(b)(7); or
+6 (b) Sales and use tax refund program
+7 authorized under § 15-4-2706(e);
+8 (D) The payroll income tax credit authorized under § 15-4-
+9 2709 may be combined with:
+10 (i) The research and development income tax credits
+11 authorized under § 15-4-2708(b); and
+12 (ii) Either the:
+13 (a) Investment tax credit authorized under §
+14 15-4-2706(b)(7); or
+15 (b) Sales and use tax refund program
+16 authorized under § 15-4-2706(e); and
+17 (E) The research and development income tax credits
+18 authorized under § 15-4-2708(b) may be combined with:
+19 (i) Either the:
+20 (a) Payroll rebate program authorized under §
+21 15-4-2707(e); or
+22 (b) Payroll tax credit program authorized
+23 under § 15-4-2709; and
+24 (ii) Either the:
+25 (a) Investment tax credit program authorized
+26 under § 15-4-2706(b)(7); or
+27 (b) Sales and use tax refund program
+28 authorized under § 15-4-2706(e).
+29 (3) The investment tax credit authorized in § 15-4-2706(b) shall
+30 not be combined with the sales and use tax credit authorized in § 15-4-
+31 2706(e) for the same project.
+32 (4) The job-creation tax credit authorized in § 15-4-2705 shall
+33 not be combined with the payroll rebate program authorized in § 15-4-2707.
+34 (5) The investment tax credit authorized in § 15-4-2706(b) shall
+35 not be combined with the sales and use tax refund authorized in § 15-4-
+36 2706(d) for the same project.
+20 02/18/2025 12:26:07 PM JLL167
+HB1521
+1 (6)(2) The investment tax credit authorized under § 15-4-2706(b)
+2 shall not be combined with the sales and use tax credit authorized under §
+3 15-4-2706(c) for the same project.
+4 (c) The following are discretionary incentives and are not available
+5 unless offered by the Arkansas Economic Development Commission:
+6 (1) The payroll rebate program authorized in § 15-4-2707;
+7 (2) The job-creation tax credit authorized in § 15-4-2709;
+8 (3) The investment tax credit authorized in § 15-4-2706(b); and
+9 (4) The sales and use tax refund authorized in § 15-4-2706(e);
+10 and
+11 (5)(3) The research and development tax credits authorized in §
+12 15-4-2708(a)-(c) 15-4-2708(a) and (b).
+13
+14 SECTION 13. Arkansas Code Title 15, Chapter 4, Subchapter 35, is
+15 repealed.
+16 Subchapter 35 — Incentives for Major Maintenance and Improvement Projects
+17
+18 15-4-3501. Increased tax refund for major maintenance and improvement
+19 projects.
+20 (a) A taxpayer that is eligible for a refund of excise taxes under §
+21 26-52-447 or § 26-53-149 is eligible for a refund of one hundred percent
+22 (100%) of the sales and use taxes levied in §§ 26-52-301, 26-52-302, 26-53-
+23 106, and 26-53-107 on the tangible personal property and services subject to
+24 §§ 26-52-447 and 26-53-149 for projects that meet the following requirements:
+25 (1) The taxpayer has entered into a financial incentive
+26 agreement with the Arkansas Economic Development Commission for the project;
+27 and
+28 (2) The taxpayer expends at least three million dollars
+29 ($3,000,000) on an approved project that includes the purchase of tangible
+30 personal property and services that are either exempt or subject to a partial
+31 refund of tax under § 26-52-402, § 26-52-447, § 26-53-114, or § 26-53-149.
+32 (b) A taxpayer shall file with the commission an application for the
+33 increased refund for major maintenance and improvement projects provided in
+34 this section.
+35 (c) The increased refund of sales and use taxes for major maintenance
+36 and improvement projects provided in this section is a discretionary
+21 02/18/2025 12:26:07 PM JLL167
+HB1521
+1 incentive and is not available unless offered by the Director of the Arkansas
+2 Economic Development Commission.
+3 (d) The director shall forward the taxpayer's application, financial
+4 incentive agreement, any other pertinent documentation, and a written copy of
+5 the determination under this subsection to the Secretary of the Department of
+6 Finance and Administration if the director:
+7 (1) Determines that the taxpayer is eligible for the increased
+8 refund for major maintenance and improvement projects provided for in this
+9 section;
+10 (2) Determines that the taxpayer has provided reasonable proof
+11 that there will be a positive return on the taxpayer's investment in the
+12 major maintenance and improvement project that is sufficient to offset the
+13 taxes refunded under this section;
+14 (3) Determines that the taxpayer has provided a defined scope,
+15 beginning date, and ending date for the major maintenance and improvement
+16 project;
+17 (4) Determines that the refund is reasonably necessary for the
+18 taxpayer to remain competitive and preserve Arkansas jobs; and
+19 (5) Agrees to provide the incentive under this section.
+20 (e) A taxpayer that has been approved for the increased refund for
+21 major maintenance and improvement projects provided for in this section may
+22 make changes in a major maintenance and improvement project by written
+23 amendment to the project plan filed with the commission as part of the
+24 financial incentive agreement required under this section.
+25 (f) Except as otherwise provided in this section, a refund under this
+26 section is subject to the Arkansas Tax Procedure Act, § 26-18-101 et seq.,
+27 and the Independent Tax Appeals Commission Act, § 26-18-1101 et seq., in the
+28 same manner as other refunds permitted under § 26-18-507.
+29 (g) An expenditure shall not qualify for both the increased refund for
+30 major maintenance and improvement projects under this section and the
+31 retention tax credit provided for in § 15-4-2706(c).
+32 (h) The director and the secretary may promulgate rules necessary to
+33 implement this section.
+34 (i)(1) A taxpayer may apply for an increased refund for major
+35 maintenance and improvement projects under this section through June 30,
+36 2022.
+22 02/18/2025 12:26:07 PM JLL167
+HB1521
+1 (2) An application for an increased refund for major maintenance
+2 and improvement projects under this section shall not be accepted on or after
+3 July 1, 2022.
+4
+5 SECTION 14. Arkansas Code § 19-5-1097 is repealed.
+6 19-5-1097. Public Roads Incentive Fund.
+7 (a) There is established on the books of the Treasurer of State, the
+8 Auditor of State, and the Chief Fiscal Officer of the State a fund to be
+9 known as the “Public Roads Incentive Fund” of the Arkansas Economic
+10 Development Council.
+11 (b) The fund shall consist of contributions made by taxpayers for
+12 public roads projects approved by the Director of the Arkansas Economic
+13 Development Commission and any other funds as are designated or deposited
+14 into the fund by law.
+15 (c)(1) A separate account shall be established for each project, and
+16 contributions for a project shall be applied to provide funding assistance
+17 for that project.
+18 (2) Any contributions which remain in the fund when a project is
+19 completed or terminated shall be held and applied to other public roads
+20 projects in such manner as the director shall direct.
+21
+22 SECTION 15. Arkansas Code Title 26, Chapter 51, Subchapter 11, is
+23 repealed.
+24 Subchapter 11 — Donations or Sales of Equipment to Educational Institutions
+25
+26 26-51-1101. Definitions.
+27 As used in this subchapter:
+28 (1) “Accredited institution of higher education” means a four-
+29 year public college or university that offers bachelor's degrees and is
+30 recognized by the Division of Higher Education for credit;
+31 (2) “Cost” means:
+32 (A) In the case of a donation or sale below cost by a
+33 wholesale or retail business, the amount actually paid by the wholesaler or
+34 retailer to the supplier for the machinery and equipment;
+35 (B) In the case of a donation or sale below cost by a
+36 manufacturer of machinery and equipment, the enhanced value of the materials
+23 02/18/2025 12:26:07 PM JLL167
+HB1521
+1 used to produce the machinery and equipment, which shall be deemed to be the
+2 lowest price at which the manufacturer sells the machinery and equipment; or
+3 (C) In the case of a cash donation by a taxpayer to a
+4 qualified educational institution for the purchase of new machinery and
+5 equipment, the amount actually paid by the qualified educational institution
+6 to the wholesale, retail, or manufacturing business, as documented by
+7 itemized receipts;
+8 (3) “Machinery and equipment” means tangible personal property
+9 used in connection with a qualified education program or a qualified research
+10 program that has been approved for a tax credit under rules prescribed by the
+11 Department of Finance and Administration;
+12 (4) “New” means the machinery and equipment are state-of-the-art
+13 machinery and equipment that have:
+14 (A) Never been used except for normal testing by the
+15 manufacturer to ensure that the machinery or equipment is of a proper quality
+16 and in good working order; or
+17 (B) Been used by the retailer or wholesaler solely for the
+18 purpose of demonstrating the product to customers for sale;
+19 (5) “Qualified education program” means a program conducted by a
+20 qualified educational institution under rules prescribed by the Division of
+21 Higher Education for programs in colleges, universities, or junior colleges,
+22 by the Division of Career and Technical Education for programs in vocational
+23 technical training schools and by the Division of Elementary and Secondary
+24 Education for programs in secondary schools, all of which programs are for
+25 the purpose of promoting the use of new machinery and equipment for
+26 classroom, laboratory, and other educational instruction;
+27 (6) “Qualified educational institution” means:
+28 (A) A public university, college, junior college, or
+29 vocational technical training school located in and supported by the State of
+30 Arkansas;
+31 (B) A private university, college, junior college, or
+32 vocational technical training school located in Arkansas and qualified for
+33 tax-exempt status under the Income Tax Act of 1929, § 26-51-101 et seq.; and
+34 (C) A public secondary school;
+35 (7) “Qualified research expenditures” means the sum of any
+36 amounts that are paid or incurred by a taxpayer during the taxable year in
+24 02/18/2025 12:26:07 PM JLL167
+HB1521
+1 funding a qualified research program that has been approved for tax credit
+2 treatment under rules promulgated by the Department of Finance and
+3 Administration;
+4 (8) “Qualified research program” means a program of applied or
+5 basic research undertaken by a qualified educational institution under rules
+6 jointly promulgated by the Director of the Arkansas Economic Development
+7 Commission and the Division of Higher Education under § 15-3-110;
+8 (9) “Research park authority” means a public entity created
+9 under the Research Park Authority Act, § 14-144-101 et seq., to provide
+10 facilities and support for businesses engaged in research and development in
+11 pursuit of economic development opportunities; and
+12 (10) “State-of-the-art machinery and equipment” means machinery
+13 and equipment that are of the same type, design, and capability as like
+14 machinery and equipment that are currently sold or manufactured by the donee
+15 for sale to customers.
+16
+17 26-51-1102. Credit granted.
+18 (a)(1) There is granted a credit against a taxpayer's Arkansas
+19 corporate income tax or Arkansas individual income tax for the following
+20 types of donations or sales, or both, of new machinery and equipment to a
+21 qualified educational institution in connection with a qualified education
+22 program or a qualified research program:
+23 (A) Donations of new machinery and equipment;
+24 (B) Sales below cost of machinery and equipment; and
+25 (C) Cash donations for the purchase of new machinery and
+26 equipment by a qualified educational institution.
+27 (2) The amount of the credit granted by this section shall be:
+28 (A) In the case of a donation, thirty-three percent (33%)
+29 of the cost of the machinery and equipment donated;
+30 (B) In the case of a sale below cost, thirty-three percent
+31 (33%) of the amount by which the cost is reduced; and
+32 (C) In the case of a cash donation, thirty-three percent
+33 (33%) of the amount of the cash donation used by the qualified educational
+34 institution to purchase new machinery and equipment from a wholesale, retail,
+35 or manufacturing business.
+36 (b) There is granted a credit against a taxpayer's Arkansas corporate
+25 02/18/2025 12:26:07 PM JLL167
+HB1521
+1 income tax or Arkansas individual income tax equal to thirty-three percent
+2 (33%) of the qualified research expenditures of a taxpayer in qualified
+3 research programs.
+4 (c)(1) There is granted a credit against a taxpayer's Arkansas
+5 corporate income tax or Arkansas individual income tax equal to thirty-three
+6 percent (33%) of a donation made to an accredited institution of higher
+7 education to support a research park authority.
+8 (2) In order to claim this credit authorized by subdivision
+9 (c)(1) of this section, a donation made in support of a research park
+10 authority shall:
+11 (A) Be consistent with the research and development plan
+12 approved by the Director of the Arkansas Economic Development Commission with
+13 the advice of the Board of Directors of the Division of Science and
+14 Technology of the Arkansas Economic Development Commission, as evidenced by a
+15 letter of support from the director; and
+16 (B) Support either directly or indirectly research subject
+17 to being funded by one (1) or more federal agencies, as enumerated in § 15-3-
+18 205(1).
+19
+20 26-51-1103. Limit on total credit.
+21 (a) Total credits for qualified research expenditures, donations, and
+22 sales under this subchapter shall be allowed up to one hundred percent (100%)
+23 of the net tax liability of the taxpayer after all other credits and
+24 reductions in tax have been calculated.
+25 (b) The credit shall be claimed in the tax year of the qualified
+26 research expenditure, donation, or sale. However, all or part of any unused
+27 credit may be carried over to and claimed in succeeding tax years until the
+28 credits are exhausted or until the end of the nine (9) tax years succeeding
+29 the tax year of the qualified research expenditure, donation, or sale,
+30 whichever occurs earlier. In no event shall a taxpayer claim a credit under
+31 this subchapter for any tax year in excess of one hundred percent (100%) of
+32 the net tax due after all other credits and reductions in tax have been
+33 calculated.
+34 (c) Any person claiming any credit granted by this subchapter for any
+35 expense or contribution shall not take any deduction under the Arkansas
+36 income tax law for the same expense or contribution.
+26 02/18/2025 12:26:07 PM JLL167
+HB1521
+1
+2 26-51-1104. Documentation required.
+3 (a) To claim the credit granted by § 26-51-1102, the taxpayer shall
+4 provide the following for each piece of machinery and equipment donated, sold
+5 below cost, or purchased by a qualified educational institution with a cash
+6 donation:
+7 (1) An affidavit from the receiving qualified educational
+8 institution that:
+9 (A) The qualified educational institution has received the
+10 machinery and equipment;
+11 (B) The machinery and equipment is new machinery and
+12 equipment within the meaning of this subchapter;
+13 (C) The qualified educational institution received the
+14 machinery and equipment as a donation or, if the qualified educational
+15 institution purchased the machinery and equipment, a statement of the amount
+16 paid for the machinery and equipment; and
+17 (D) The machinery and equipment has been donated,
+18 purchased by the qualified educational institution with a cash donation
+19 provided by a taxpayer, or sold to the qualified educational institution for
+20 use in a qualified education program or a qualified research program; and
+21 (2)(A) In the case of a donation or sale by a retail or
+22 wholesale business, a copy of the invoice from the business' supplier showing
+23 the actual cost of the machinery and equipment.
+24 (B) In the case of a donation or sale below cost by a
+25 manufacturer, a copy of the manufacturer's wholesale price list showing the
+26 lowest price of the machinery and equipment for which credit is claimed.
+27 (C) In the case of a purchase by a qualified educational
+28 institution with a cash donation, itemized receipts documenting the amount of
+29 the cash donation and the purchase costs of the new machinery and equipment.
+30 (b) To claim the credit granted by § 26-51-1102, the taxpayer shall
+31 show that the Director of the Arkansas Economic Development Commission and
+32 the Commissioner of the Division of Higher Education have approved the
+33 qualified research expenditure as a part of a qualified research program.
+34 (c) Copies of each of the above documents shall be filed by the
+35 taxpayer with the Arkansas Economic Development Commission and with his or
+36 her return as an attachment to the form prescribed by the Secretary of the
+27 02/18/2025 12:26:07 PM JLL167
+HB1521
+1 Department of Finance and Administration.
+2
+3 26-51-1105. Rules.
+4 The Secretary of the Department of Finance and Administration, the
+5 Commissioner of the Division of Higher Education, the Director of the
+6 Division of Career and Technical Education, the Secretary of the Department
+7 of Education, and the Director of the Arkansas Economic Development
+8 Commission shall jointly promulgate rules to carry out the purposes of this
+9 subchapter.
+10
+11 26-51-1106. Application for credit approval.
+12 (a) To apply for a credit under this subchapter, a taxpayer shall
+13 submit an original application and one (1) copy to the Director of the
+14 Arkansas Economic Development Commission on the forms prescribed by the
+15 director.
+16 (b) The director shall review each application submitted under this
+17 subchapter and shall either:
+18 (1) Approve the application; or
+19 (2) Reject the application and notify the applicant of the
+20 deficiencies in the application.
+21 (c) An applicant that receives approval from the director under this
+22 section shall sign a financial incentive agreement outlining the terms and
+23 conditions of the credit granted under this subchapter.
+24 (d) An applicant may resubmit a rejected application after addressing
+25 any deficiencies identified by the director.
+26 (e) For an application submitted on or after July 24, 2019, an
+27 expenditure incurred before the approval date of the financial incentive
+28 agreement required under subsection (b) of this section shall be denied a
+29 credit under this subchapter.
+30
+31 SECTION 16. Arkansas Code § 26-52-402(c)(2)(C)(ii), concerning the
+32 items not included in the definition of machinery and equipment “used
+33 directly” in the manufacturing process for purposes of the sales tax
+34 exemption for certain machinery and equipment, is amended to read as follows:
+35 (ii) Except as provided in §§ 26-52-447 and 26-53-
+36 149, machinery Machinery, equipment, and tools used in maintaining and
+28 02/18/2025 12:26:07 PM JLL167
+HB1521
+1 repairing any type of machinery and equipment;
+2
+3 SECTION 17. Arkansas Code § 26-52-447 is repealed.
+4 26-52-447. Partial replacement and repair of certain machinery and
+5 equipment — Definitions.
+6 (a) The taxes levied under §§ 26-52-301 and 26-52-302 on the gross
+7 receipts or gross proceeds from the sale of the following are subject to a
+8 refund or exemption as provided in this section:
+9 (1) Machinery and equipment purchased to modify, replace,
+10 repair, or maintain, either in whole or in part, existing machinery or
+11 equipment used directly in producing, manufacturing, fabricating, assembling,
+12 processing, finishing, or packaging articles of commerce at a manufacturing
+13 or processing plant or facility in this state;
+14 (2) Service relating to the initial installation, alteration,
+15 addition, cleaning, refinishing, replacement, or repair of machinery or
+16 equipment described in subdivision (a)(1) of this section;
+17 (3) Machinery and equipment purchased to modify, replace, or
+18 repair, either in whole or in part, existing molds and dies used directly in
+19 producing, manufacturing, fabricating, assembling, processing, finishing, or
+20 packaging articles of commerce at a manufacturing or processing plant or
+21 facility in this state; and
+22 (4)(A) Except as provided in subdivision (a)(4)(B) of this
+23 section, machinery and equipment purchased for use or possible use by a
+24 taxpayer for a purpose described in subdivisions (a)(1)-(3) of this section
+25 and placed in inventory for later use by the taxpayer for a purpose described
+26 in subdivisions (a)(1)-(3) of this section.
+27 (B)(i) As used in this subdivision (a)(4)(B), “withdrawal
+28 from inventory” means the withdrawal or use of machinery or equipment held
+29 under subdivision (a)(4)(A) of this section by a taxpayer for a purpose that
+30 does not qualify for an exemption under this section or any other applicable
+31 exemption at the time of the withdrawal from inventory.
+32 (ii) A withdrawal from inventory is not eligible for
+33 the exemption provided under this section.
+34 (iii) For purposes of calculating the gross receipts
+35 tax under subdivision (a)(4)(B)(iv) of this section, the gross receipts or
+36 gross proceeds for a withdrawal from inventory is the purchase price of the
+29 02/18/2025 12:26:07 PM JLL167
+HB1521
+1 machinery or equipment withdrawn.
+2 (iv) Tax is due on a withdrawal from inventory at
+3 the time the withdrawal from inventory occurs.
+4 (b)(1) Beginning July 1, 2014, the taxes levied under §§ 26-52-301 and
+5 26-52-302 that are subject to a refund under this section are the taxes in
+6 excess of four and seven-eighths percent (4.875%).
+7 (2) The taxes levied under §§ 26-52-301 and 26-52-302 that are
+8 subject to a refund under this section are the taxes in excess of the
+9 following rates:
+10 (A) Beginning July 1, 2018, three and seven-eighths
+11 percent (3.875%);
+12 (B) Beginning July 1, 2019, two and seven-eighths percent
+13 (2.875%);
+14 (C) Beginning July 1, 2020, one and seven-eighths percent
+15 (1.875%); and
+16 (D) Beginning July 1, 2021, seven-eighths percent
+17 (0.875%).
+18 (3) Beginning July 1, 2022, sales qualifying for the tax refund
+19 under this section are exempt from the taxes levied under this chapter.
+20 (c) The excise tax of one-eighth of one percent (0.125%) levied in
+21 Arkansas Constitution, Amendment 75, the temporary excise tax of one-half
+22 percent (0.5%) levied in Arkansas Constitution, Amendment 91, and the excise
+23 tax of one-half percent (0.5%) levied in Arkansas Constitution, Amendment
+24 101, are not subject to refund under this section.
+25 (d) As used in this section:
+26 (1) “Manufacturing” or “processing” means the same as defined
+27 under § 26-52-402(b) and includes activities described in subsection (a) of
+28 this section, both independently and collectively; and
+29 (2) “Used directly” means the same as defined under § 26-52-
+30 402(c).
+31 (e) All existing excise tax exemptions, including without limitation
+32 exemptions under §§ 26-52-402 and 26-53-114, remain in full force and effect
+33 and are not limited by this section.
+34 (f) A taxpayer may claim the benefit of the tax refund under this
+35 section only by using one (1) of the following methods:
+36 (1)(A) Both:
+30 02/18/2025 12:26:07 PM JLL167
+HB1521
+1 (i) Obtaining a direct pay or a limited direct pay
+2 sales and use tax permit from the Department of Finance and Administration;
+3 and
+4 (ii) Self-refunding:
+5 (a) At the time the taxpayer files his or her
+6 original sales and use tax report; or
+7 (b) By later filing an amended sales or use
+8 tax report with the department.
+9 (B) The statutes of limitation stated in § 26-18-306 apply
+10 to claims made under this subdivision (f)(1).
+11 (C) Interest shall not accrue or be paid on a refund
+12 claimed under this subdivision (f)(1); or
+13 (2)(A) Beginning July 1, 2018, for a taxpayer that does not hold
+14 a direct pay or limited direct pay permit, holds an active Arkansas sales and
+15 use tax permit, and files sales and use tax reports with the department,
+16 filing a claim for a credit or rebate with the department.
+17 (B)(i) The credit or rebate authorized under this
+18 subdivision (f)(2) shall be obtained only by offsetting the amount of the
+19 claimed credit or rebate against the state tax to be remitted with the
+20 taxpayer's sales and use tax reports.
+21 (ii) If the total amount of the credit or rebate
+22 authorized under this subdivision (f)(2) is greater than the amount of the
+23 state tax to be remitted with the taxpayer's sales and use tax reports, the
+24 taxpayer is entitled to a refund of the difference between the amount of the
+25 tax owed and the amount of the credit or rebate authorized under this
+26 subdivision (f)(2).
+27 (C) A taxpayer claiming a credit or rebate under this
+28 subdivision (f)(2) shall electronically file all sales and use tax reports.
+29 (D) A claim for credit or rebate under this subdivision
+30 (f)(2) shall not be paid for a claim filed more than one (1) year following
+31 the date of the qualifying sale or more than one (1) year following the date
+32 of payment, whichever is later.
+33 (E) Interest shall not accrue or be paid on an amount
+34 subject to a claim for a credit or rebate under this subdivision (f)(2).
+35 (g) A claim for a credit or rebate shall not be paid under subdivision
+36 (f)(2) of this section for a sale made before July 1, 2018.
+31 02/18/2025 12:26:07 PM JLL167
+HB1521
+1 (h) A taxpayer shall not claim the benefit of the refund under this
+2 section by filing a verified claim for refund with the department.
+3 (i) The following provisions of the Arkansas Tax Procedure Act, § 26-
+4 18-101 et seq., apply to claims for a refund under this section:
+5 (1) The time limitations that apply to claims for a refund of an
+6 overpayment of state tax; and
+7 (2) The procedures that apply to the disallowance or proposed
+8 disallowance of claims for a refund.
+9
+10 SECTION 18. Arkansas Code § 26-52-509(a), concerning the direct
+11 payment of sales tax by a consumer or user, is amended to read as follows:
+12 (a)(1) The Secretary of the Department of Finance and Administration
+13 by agreement with any consumer or user may:
+14 (A) Permit permit a consumer or user under the agreement
+15 to accrue and remit gross receipts taxes directly to the Department of
+16 Finance and Administration, instead of the taxes being collected and paid by
+17 the seller under § 26-52-508; and
+18 (B)(i) Issue limited direct pay authority to permit a user
+19 or consumer to accrue and remit gross receipts and compensating use taxes on
+20 purchases that include eligible purchases.
+21 (ii)(a) A limited direct pay agreement permits a
+22 consumer or user to accrue and remit gross receipts and compensating use
+23 taxes on purchases that include eligible purchases.
+24 (b) As used in this section, “eligible
+25 purchases” means property or services subject to a refund of tax under §§ 26-
+26 52-447 and 26-53-149.
+27 (iii)(a) A limited direct pay agreement is available
+28 only to a person eligible for a refund of tax under §§ 26-52-447 and 26-53-
+29 149.
+30 (b) A person holding a limited direct pay
+31 permit shall use the permit only to make purchases that include eligible
+32 purchases.
+33 (2)(A) A seller that receives a claim for exemption from a
+34 customer based on a limited direct pay permit shall not collect and remit
+35 gross receipts or compensating use taxes on purchases that include eligible
+36 purchases made by a person holding a limited direct pay permit.
+32 02/18/2025 12:26:07 PM JLL167
+HB1521
+1 (B) However, if a seller collects and remits gross
+2 receipts or compensating use taxes on eligible purchases from a person
+3 holding a limited direct pay permit, a refund may be obtained under § 26-18-
+4 507.
+5 (3) A person who has entered into a limited direct pay agreement
+6 under this section and makes purchases of property or services under the
+7 authority of that agreement without paying the gross receipts or compensating
+8 use taxes due on those purchases is responsible for remitting the proper
+9 amount of tax due to the secretary as required by law.
+10 (4)(A) A seller shall collect and remit gross receipts and
+11 compensating use taxes on purchases made by a person holding a limited direct
+12 pay permit that are not eligible purchases.
+13 (B) If a seller relies on the limited direct pay permit
+14 and fails to properly collect tax on sales other than eligible purchases, the
+15 limited direct pay permit holder shall remit the proper amount of tax to the
+16 state as required under subdivision (a)(3) of this section.
+17 (5) This section does not eliminate the requirement that a
+18 consumer or user self-assess and remit compensating use tax under §§ 26-53-
+19 123 — 26-53-125.
+20
+21 SECTION 19. Arkansas Code § 26-53-149 is repealed.
+22 26-53-149. Partial replacement and repair of certain machinery and
+23 equipment — Definitions.
+24 (a) The taxes levied under §§ 26-53-106 and 26-53-107 on the privilege
+25 of storing, using, distributing, or consuming the following within this state
+26 are subject to a refund or exemption as provided in this section:
+27 (1) Machinery and equipment purchased to modify, replace,
+28 repair, or maintain, either in whole or in part, existing machinery or
+29 equipment used directly in producing, manufacturing, fabricating, assembling,
+30 processing, finishing, or packaging articles of commerce at a manufacturing
+31 or processing plant or facility in this state;
+32 (2) Service relating to the initial installation, alteration,
+33 addition, cleaning, refinishing, replacement, or repair of machinery or
+34 equipment described in subdivision (a)(1) of this section;
+35 (3) Machinery and equipment purchased to modify, replace, or
+36 repair, either in whole or in part, existing molds and dies used directly in
+33 02/18/2025 12:26:07 PM JLL167
+HB1521
+1 producing, manufacturing, fabricating, assembling, processing, finishing, or
+2 packaging articles of commerce at a manufacturing or processing plant or
+3 facility in this state; and
+4 (4)(A) Except as provided in subdivision (a)(4)(B) of this
+5 section, machinery and equipment purchased for use or possible use by a
+6 taxpayer for a purpose described in subdivisions (a)(1)-(3) of this section
+7 and placed in inventory for later use by the taxpayer for a purpose described
+8 in subdivisions (a)(1)-(3) of this section.
+9 (B)(i) As used in this subdivision (a)(4)(B), “withdrawal
+10 from inventory” means the withdrawal or use of machinery or equipment held
+11 under subdivision (a)(4)(A) of this section by a taxpayer for a purpose that
+12 does not qualify for an exemption under this section or any other applicable
+13 exemption at the time of the withdrawal from inventory.
+14 (ii) A withdrawal from inventory is not eligible for
+15 the exemption provided under this section.
+16 (iii) For purposes of calculating the compensating
+17 use tax under subdivision (a)(4)(B)(iv) of this section, the gross receipts
+18 or gross proceeds for a withdrawal from inventory is the purchase price of
+19 the machinery or equipment withdrawn.
+20 (iv) Tax is due on a withdrawal from inventory at
+21 the time the withdrawal from inventory occurs.
+22 (b)(1) Beginning July 1, 2014, the taxes levied under §§ 26-53-106 and
+23 26-53-107 that are subject to a refund under this section are the taxes in
+24 excess of four and seven-eighths percent (4.875%).
+25 (2) The taxes levied under §§ 26-53-106 and 26-53-107 that are
+26 subject to a refund under this section are the taxes in excess of the
+27 following rates:
+28 (A) Beginning July 1, 2018, three and seven-eighths
+29 percent (3.875%);
+30 (B) Beginning July 1, 2019, two and seven-eighths percent
+31 (2.875%);
+32 (C) Beginning July 1, 2020, one and seven-eighths percent
+33 (1.875%); and
+34 (D) Beginning July 1, 2021, seven-eighths percent
+35 (0.875%).
+36 (3) Beginning July 1, 2022, purchases qualifying for the tax
+34 02/18/2025 12:26:07 PM JLL167
+HB1521
+1 refund under this section are exempt from the taxes levied under this
+2 chapter.
+3 (c) The excise tax of one-eighth of one percent (0.125%) levied in
+4 Arkansas Constitution, Amendment 75, the temporary excise tax of one-half
+5 percent (0.5%) levied in Arkansas Constitution, Amendment 91, and the excise
+6 tax of one-half percent (0.5%) levied in Arkansas Constitution, Amendment
+7 101, are not subject to refund under this section.
+8 (d) As used in this section:
+9 (1) “Manufacturing” or “processing” means the same as defined
+10 under § 26-53-114(b) and includes activities described in subsection (a) of
+11 this section, both independently and collectively; and
+12 (2) “Used directly” means the same as defined under § 26-53-
+13 114(c).
+14 (e) All existing excise tax exemptions, including without limitation
+15 exemptions under §§ 26-52-402 and 26-53-114, remain in full force and effect
+16 and are not limited by this section.
+17 (f) A taxpayer may claim the benefit of the tax refund under this
+18 section only by using one (1) of the following methods:
+19 (1)(A) Both:
+20 (i) Obtaining a direct pay or a limited direct pay
+21 sales and use tax permit from the Department of Finance and Administration;
+22 and
+23 (ii) Self-refunding:
+24 (a) At the time the taxpayer files his or her
+25 original sales and use tax report; or
+26 (b) By later filing an amended sales or use
+27 tax report with the department.
+28 (B) The statutes of limitation stated in § 26-18-306 apply
+29 to claims made under this subdivision (f)(1).
+30 (C) Interest shall not accrue or be paid on a refund
+31 claimed under this subdivision (f)(1); or
+32 (2)(A) Beginning July 1, 2018, for a taxpayer that does not hold
+33 a direct pay or limited direct pay permit, holds an active Arkansas sales and
+34 use tax permit, and files sales and use tax reports with the department,
+35 filing a claim for the credit or rebate with the department.
+36 (B)(i) The credit or rebate authorized under this
+35 02/18/2025 12:26:07 PM JLL167
+HB1521
+1 subdivision (f)(2) shall be obtained only by offsetting the amount of the
+2 claimed credit or rebate against the state tax to be remitted with the
+3 taxpayer's sales and use tax reports.
+4 (ii) If the total amount of the credit or rebate
+5 authorized under this subdivision (f)(2) is greater than the amount of the
+6 state tax to be remitted with the taxpayer's sales and use tax reports, the
+7 taxpayer is entitled to a refund of the difference between the amount of the
+8 tax owed and the amount of the credit or rebate authorized under this
+9 subdivision (f)(2).
+10 (C) A taxpayer claiming a credit or rebate under this
+11 subdivision (f)(2) shall electronically file all sales and use tax reports.
+12 (D) A claim for credit or rebate under this subdivision
+13 (f)(2) shall not be paid for a claim filed more than one (1) year following
+14 the date of the qualifying purchase or more than one (1) year following the
+15 date of payment, whichever is later.
+16 (E) Interest shall not accrue or be paid on an amount
+17 subject to a claim for a credit or rebate under this subdivision (f)(2).
+18 (g) A claim for a credit or rebate shall not be paid under subdivision
+19 (f)(2) of this section for a purchase made before July 1, 2018.
+20 (h) A taxpayer shall not claim the benefit of the refund under this
+21 section by filing a verified claim for refund with the department.
+22 (i) The following provisions of the Arkansas Tax Procedure Act, § 26-
+23 18-101 et seq., apply to claims for a refund under this section:
+24 (1) The time limitations that apply to claims for a refund of an
+25 overpayment of state tax; and
+26 (2) The procedures that apply to the disallowance or proposed
+27 disallowance of claims for a refund.
+28
+29 SECTION 20. EFFECTIVE DATE. Sections 1–19 of this act are effective
+30 on and after October 1, 2025.
+31
+32
+33
+34
+35
+36
+36 02/18/2025 12:26:07 PM JLL167
+[DELETED:       A C I C A R O M P R E T O P  T U  B   S t a  ( o n]
+[DELETED: H2 0 p   ( p p  ( p a f p    ( A t6% p t T p f   ( a p p t   ( s w e  ( o t   ( s t p   ( i (]
+[DELETED: H3 0 y   ( s f t   S  1  F f u c t w   1  I a n t A e   1  ( D   ( t a g e   ( E i    ( i]
+[DELETED: H4 0    ( a    ( g    ( c a l a    ( D C d e a   ( c u  ( D c E a   1  ( 1 A a a  ( d s t  ( c]
+[DELETED: H5 0 r   1  A C u s b   1 i  ( c   (   ( t  ( i a i t b c p   ( p a p i l   S r S   1]
+[DELETED: H6 0  T R   1  T   ( r   ( r t   ( o e p i   1  A   ( r   ( C   ( o F   (   (   (   (   ( t   ( S   ( c a]
+[DELETED: H7 0 C   ( a   ( c   1  G E i d u   1  ( A k D  ( p D t  ( c f   ( c p   1  ( i c T  (   (]
+[DELETED: H8 0 o   ( s i   ( ( a s y p e   1 C  T p i s   ( s   ( f   ( e p a   ( A p   S t  ( w a t]
+[DELETED: H9 0 D b § a m   ( o y f   S t   ( m a b    ( t    ( h h   ( m i     ( c i t     ( c i t     ( c i m]
+[DELETED: H1 0     ( c i    ( t   ( m a   ( a    (    (   ( a u    ( h h o t    ( h a m s    ( h w o l   ( f e t   ( b]
+[DELETED: H1 0 c o   S t  ( r c a b    (     ( s     ( r    ( q i     ( t     ( t     ( t     ( t   ( r t F o h t     ( f l]
+[DELETED: H1 0    (     (     ( p p t   ( b p    ( s t   ( s t   ( s o 2     ( u      ( i p p      ( i p    ( § i  ( l d    ( A]
+[DELETED: H1 0 a     ( ( d i a (    ( i   ( s s e c    (     ( s     ( r   ( p   ( r t F o h t     ( o b    (     (     ( p p]
+[DELETED: H1 0 t   ( b p    ( s t   ( s t   ( t f f s i   ( t f y s   S D I  ( e p p   (    ( t t t    ( e]
+[DELETED: H1 0    ( n a   S d r   ( s s   S d a  ( t y s   ( a   ( c t   ( a c t    ( t i     ( s   ( u 2  (]
+[DELETED: H1 0 d a b s i    (    ( o D b D D p   ( e d t   ( s s   ( t A    ( f o  ( o a F c h d D   S]
+[DELETED: H1 0  1  ( t E   ( m b w   ( b  ( t   ( C 1   ( t t    ( t n a d   ( t   ( h t  ( p e t   ( e    ( t]
+[DELETED: H1 0 J a    ( t a  ( b f   ( n e    ( s b    ( n  ( t 1   S a A  ( a A o   ( q  ( c    ( t    ( r   (]
+[DELETED: H1 0 a t p   S  1  ( i  ( n 2   ( c a o q    ( 2     ( a     (      ( 1      ( u    ( 2     ( a     (      ( 1      ( u    ( 2]
+[DELETED: H2 0     ( a     (      ( u      ( a    ( 2     ( a     (      ( 1      ( a    ( a     (      ( 1      ( u     (      ( u      ( a   ( n 2   ( n   ( n 2]
+[DELETED: H2 0   ( s 1  ( u   (   (   (   ( a   ( 1   S r S   1 p  ( 2 ( 1 §   ( a a   ( ( p r  ( i t  ( a]
+[DELETED: H2 0 i E  ( i t F   ( r s   ( t m t   ( b p   ( t   (  ( m m a f  ( s a s  ( m r  ( i  ( m 2]
+[DELETED: H2 0   ( a J   S  1  ( A k D  ( p D i  ( c f   ( c p   S r S   2  A   ( y r   (    ( w r    ( m]
+[DELETED: H2 0 u l    ( q e t i   ( u p D   ( m    ( m a    ( p   ( q H b t E t c   (    ( v A    ( v t    (   ( a]
+[DELETED: H2 0 f t A   ( b j C   ( u f p   ( a m f   2  ( c t q p    (    (    ( e   (    ( o    ( (    ( ( i o  (]
+[DELETED: H2 0 i ( r  ( c p e   ( ( a    ( a t T l    ( t 2   2  ( s o r  ( r c c t w t t c  ( e i]
+[DELETED: H2 0   2  ( p b d   ( i    ( m    ( e    ( m i p    ( p p u   ( w t    ( m l    ( i t  ( s t q  ( t h]
+[DELETED: H2 0 D   2  T C D o C s   2  ( s A d  ( s   (   ( d  ( s c  ( a  ( e a c   S i d e     ( 1]
+[DELETED: H2 0 r   S  2 e  ( r r   ( r e p o   ( a e   ( r p p f   ( s t a i    ( f u d e     ( t     ( t g]
+[DELETED: H3 0 m     ( t  ( 2 e   ( s f    ( p    ( (    ( (    ( (   ( u  ( A p t 1  (   ( u t   ( 4  ( e a  ( s   (]
+[DELETED: H3 0     ( s a     (      ( o      ( t    ( t    ( c   ( a u f    ( s c t     ( a s t t s    ( s    ( ( t o    ( s  ( (]
+[DELETED: H3 0  ( s  ( 1   ( o   ( d   S p  ( b    ( t F t    ( o p     ( c t      ( p 5     ( o 1      ( p p   ( c g p]
+[DELETED: H3 0    ( r h 5   ( u a u a   ( c p    ( a l s   ( c 1   S  2 e  ( o a   ( r e p o   ( a e   ( r]
+[DELETED: H3 0 p p f   ( s t a i    ( f u d e     ( t     ( u o t     ( t  ( 2 e   ( s f    ( p    ( (    ( (    ( (   (]
+[DELETED: H3 0 r c  ( A p t 1  (   ( u t   ( 1  ( e a  ( s   (     ( s a     (      ( o      ( t    ( t    ( c   ( a u f    (]
+[DELETED: H3 0 s c t     ( a s t t s    ( s    ( ( t d    ( s  ( (  ( s  ( 1   ( o   ( d   S o]
+
+
+================================================================================
+
+Raw Text:
+Stricken language would be deleted from and underlined language would be added to present law.
+1 State of Arkansas
+A Bill
+2 95th General Assembly
+3 Regular Session, 2025 HOUSE BILL 1521
+4
+5 By: Representative Cavenaugh
+6 By: Senator J. Petty
+7
+For An Act To Be Entitled
+8
+9 AN ACT TO REPEAL CERTAIN TAX INCENTIVES; TO REPEAL
+10 CERTAIN UNUSED, UNDERUSED, OR UNFUNDED TAX
+11 INCENTIVES; TO REPEAL TAX INCENTIVES RELATED TO
+12 CENTERS FOR APPLIED TECHNOLOGY; TO REPEAL THE
+13 ARKANSAS PUBLIC ROADS IMPROVEMENTS CREDIT ACT; TO
+14 REPEAL PROVISIONS OF THE CONSOLIDATED INCENTIVE ACT
+15 OF 2003; TO REPEAL TAX INCENTIVES FOR MAJOR
+16 MAINTENANCE AND IMPROVEMENT PROJECTS; TO REPEAL THE
+17 PUBLIC ROADS INCENTIVE FUND; TO REPEAL INCENTIVES
+18 RELATED TO THE DONATION OR SALE OF EQUIPMENT TO AN
+19 EDUCATIONAL INSTITUTION; TO REPEAL THE SALES AND USE
+20 TAX EXEMPTION FOR THE PARTIAL REPLACEMENT AND REPAIR
+21 OF CERTAIN MACHINERY AND EQUIPMENT; AND FOR OTHER
+22 PURPOSES.
+23
+24
+Subtitle
+25
+26 TO REPEAL CERTAIN UNUSED, UNDERUSED, OR
+27 UNFUNDED TAX INCENTIVES.
+28
+29 BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF ARKANSAS:
+30
+31 SECTION 1. Arkansas Code § 15-3-110(c)–(e), concerning the power of
+32 the Director of the Arkansas Economic Development Commission to promote basic
+33 and applied research at Arkansas colleges and universities, are repealed.
+34 (c)(1) Any moneys lawfully available to the division for the purpose
+35 of supporting basic research at Arkansas colleges and universities shall in
+36 no event defray more than sixty percent (60%) of the total cost of the
+*JLL167*
+02/18/2025 12:26:07 PM JLL167
+
+HB1521
+1 proposed basic research project being funded.
+2 (2) The remaining forty percent (40%) of the total cost of the
+3 proposed basic research project shall be funded by moneys or in-kind services
+4 provided by the college or university proposing the basic research project.
+5 (d)(1)(A) Any moneys lawfully available to the division for the
+6 purpose of creating applied research partnerships between private industry
+7 and Arkansas colleges and universities shall in no event defray more than
+8 fifty percent (50%) of the total cost of the proposed applied research
+9 project.
+10 (B) However, the contribution of the Director of the
+11 Arkansas Economic Development Commission may defray up to sixty-six and two-
+12 thirds percent (66⅔%) of the total cost of a proposed applied research
+13 project if the Director of the Arkansas Economic Development Commission, with
+14 the advice of the Board of Directors of the Division of Science and
+15 Technology of the Arkansas Economic Development Commission, finds that the
+16 participating private industry is principally located in Arkansas and employs
+17 fifty (50) or fewer persons.
+18 (2) The proposed applied research project shall be submitted by
+19 an Arkansas college or university, and the proposal shall state that a
+20 percentage of the total cost of the proposed applied research project will be
+21 provided by private sources in accordance with the matching provisions of
+22 this subsection.
+23 (3) The Director of the Arkansas Economic Development Commission
+24 shall approve for funding only those proposed applied research projects for
+25 which the Director of the Arkansas Economic Development Commission finds that
+26 enhanced employment opportunity within Arkansas will be a likely result.
+27 (e)(1) Any moneys lawfully available to the division for the purpose
+28 of supporting technology development shall in no event exceed one hundred
+29 thousand dollars ($100,000) per project being funded.
+30 (2) The Director of the Arkansas Economic Development Commission
+31 shall impose a reasonable, nonrefundable fee for the evaluation of the
+32 technological and economic potential of emerging technologies contained in
+33 proposals from nonpublic sources of innovation.
+34 (3) The Director of the Arkansas Economic Development Commission
+35 is authorized to incorporate a royalty provision not to exceed five percent
+36 (5%) of net sales revenue per year for a period of not more than ten (10)
+2 02/18/2025 12:26:07 PM JLL167
+
+HB1521
+1 years as a condition of award.
+2 (4) The Director of the Arkansas Economic Development Commission
+3 shall approve for funding only those proposed technology development projects
+4 for which the Director of the Arkansas Economic Development Commission finds
+5 that enhanced economic opportunity within Arkansas will be a likely result.
+6
+7 SECTION 2. Arkansas Code §§ 15-3-130 — 15-3-135 are repealed.
+8 15-3-130. Centers for applied technology — Definition.
+9 For the purposes of this section and §§ 15-3-131 — 15-3-134, “center
+10 for applied technology” or “center” means a college or university or
+11 university-affiliated unit, or a consortium of such units, which conducts a
+12 continuing program of basic research and applied research, development, and
+13 technology transfer in one (1) or more technological areas in collaboration
+14 with and through the support of private enterprises.
+15
+16 15-3-131. Centers for applied technology — Authority to designate.
+17 In order to encourage greater collaboration between private enterprises
+18 and Arkansas colleges and universities in the development and application of
+19 new technologies, the Arkansas Economic Development Commission may designate
+20 technological areas as having significant potential for economic growth in
+21 Arkansas or in which the application of new technologies could significantly
+22 enhance the productivity and stability of Arkansas enterprises.
+23
+24 15-3-132. Centers for applied technology — Criteria — Designation.
+25 (a) The Division of Science and Technology of the Arkansas Economic
+26 Development Commission shall:
+27 (1) Identify technological areas for which centers for applied
+28 technology should be designated, including, but not limited to, technological
+29 areas that are related to enterprises with significant potential for economic
+30 growth and development in Arkansas and areas that are related to the
+31 enhancement of productivity in various enterprises in Arkansas;
+32 (2) Establish, in consultation with the Division of Higher
+33 Education, criteria that must be satisfied for designation as a center,
+34 including, but not limited to:
+35 (A) An established record of research, development, and
+36 instruction in the area of technology;
+3 02/18/2025 12:26:07 PM JLL167
+
+HB1521
+1 (B) The capacity to conduct research and development
+2 activities in collaboration with private enterprises;
+3 (C) The capacity to secure substantial private and other
+4 government funding for the proposed center;
+5 (D) The ability and willingness to cooperate with other
+6 colleges and universities in conducting research and development activities
+7 and in disseminating research results and to work with institutions of higher
+8 learning to enhance the quality of technological education in the area or
+9 areas of technology involved; and
+10 (E) The ability and willingness to cooperate with the
+11 Division of Science and Technology of the Arkansas Economic Development
+12 Commission, the Arkansas Economic Development Council, and other economic
+13 development agencies in promoting the growth and development in Arkansas of
+14 enterprises based upon or benefiting from the areas of technology involved;
+15 and
+16 (3) Designate, using a competitive selection process, those
+17 centers for applied technology to be created in cooperation with colleges and
+18 universities in the state.
+19 (b) The Division of Science and Technology of the Arkansas Economic
+20 Development Commission may not designate technological areas or establish
+21 centers prior to the Division of Science and Technology of the Arkansas
+22 Economic Development Commission's adopting rules to govern the program
+23 authorized under this section, §§ 15-3-130, 15-3-131, 15-3-133, and 15-3-134.
+24
+25 15-3-133. Centers for applied technology — Advisory committees.
+26 (a) In carrying out its functions under this section, §§ 15-3-130 —
+27 15-3-132, and 15-3-134, the Division of Science and Technology of the
+28 Arkansas Economic Development Commission may create such advisory committees
+29 as may be useful in evaluating potential technological areas and centers for
+30 applied technology.
+31 (b) The memberships of these advisory committees may include both
+32 directors and staff members of the division and other persons drawn from
+33 sources other than the division, all of whom shall serve at the pleasure of
+34 the Director of the Arkansas Economic Development Commission.
+35 (c) Members of such advisory committees shall serve without
+36 compensation for their membership on such committees but may receive expense
+4 02/18/2025 12:26:07 PM JLL167
+
+HB1521
+1 reimbursement in accordance with § 25-16-901 et seq.
+2
+3 15-3-134. Centers for applied technology — Disposition of funds.
+4 Any moneys lawfully available to the Arkansas Economic Development
+5 Commission for the purpose of creating centers for applied technology may be
+6 used for the purchase of equipment and fixtures, employment of faculty and
+7 support staff, provision of graduate fellowships, and other purposes approved
+8 by the commission but may not be used for capital construction.
+9
+10 15-3-135. Promotion of scientific, medical, and technological jobs and
+11 infrastructure enhancements — Definition.
+12 (a) As used in this section, “qualified medical company” means a
+13 corporation engaged in:
+14 (1) Research and development in the medical field; and
+15 (2) Manufacture and distribution of medical products, including
+16 therapeutic and diagnostic products.
+17 (b)(1) All agencies, departments, boards, commissions, and other
+18 instrumentalities of this state and all political subdivisions of this state
+19 and all agencies, departments, boards, commissions, and other
+20 instrumentalities thereof, to the greatest extent possible, shall expedite
+21 the processing of all lawful applications and requests required or permitted
+22 by law which are submitted or made by qualified medical companies and, in
+23 considering all such applications and requests, give due consideration to the
+24 purposes of this section.
+25 (2) To the extent available time, personnel, and other resources
+26 permit, all state-funded colleges and universities shall provide research
+27 assistance to the Arkansas Economic Development Commission to assist with
+28 planning to develop scientific, medical, and technological commercial
+29 infrastructure enhancements to encourage qualified medical companies to
+30 locate in this state.
+31
+32 SECTION 3. Arkansas Code Title 15, Chapter 4, Subchapter 23, is
+33 repealed.
+34 Subchapter 23 — Arkansas Public Roads Improvements Credit Act
+35
+36 15-4-2301. Title.
+5 02/18/2025 12:26:07 PM JLL167
+
+HB1521
+1 This subchapter may be referred to and cited as the “Arkansas Public
+2 Roads Improvements Credit Act”.
+3
+4 15-4-2302. Legislative intent.
+5 The General Assembly finds and declares that:
+6 (1) The state's program for capital improvements for public
+7 roads projects and the financing of those projects is inadequate;
+8 (2) The economic and other benefits to the state and its people
+9 resulting from capital improvements for public roads projects are essential
+10 to the public health, safety, and welfare of the people of Arkansas; and
+11 (3) Providing tax credits to taxpayers for contributions in aid
+12 of construction of capital improvements for public roads projects will
+13 encourage public and private participation in these capital improvement
+14 projects, will promote the economic welfare of this state and its people, and
+15 is in the public interest.
+16
+17 15-4-2303. Definitions.
+18 As used in this subchapter:
+19 (1) “Capital improvements” means capital improvements for public
+20 roads;
+21 (2) “Commission” means the Arkansas Economic Development
+22 Commission;
+23 (3) “Contribution” means a contribution in aid of construction
+24 of a public roads project made by a taxpayer to the Public Roads Incentive
+25 Fund;
+26 (4) “Council” means the Arkansas Economic Development Council;
+27 (5) “County” means any county in the State of Arkansas;
+28 (6) [Repealed.]
+29 (7) “Fund” means the Public Roads Incentive Fund;
+30 (8) “Governing authority” means the quorum court of a county,
+31 the governing body of a municipality, and the State Highway Commission;
+32 (9) “Municipality” means any city or incorporated town in the
+33 State of Arkansas;
+34 (10) “Project” means all, any combination, or any part of the
+35 capital improvements for public roads which are authorized by a governing
+36 authority and approved by the Director of the Arkansas Economic Development
+6 02/18/2025 12:26:07 PM JLL167
+
+HB1521
+1 Commission;
+2 (11) “Public roads” means roads maintained by a governing
+3 authority; and
+4 (12) “Taxpayer” includes any individual, fiduciary, or
+5 corporation subject to Arkansas state income tax.
+6
+7 15-4-2304. Approval of projects.
+8 Governing authorities may apply to the Director of the Arkansas
+9 Economic Development Commission for funding assistance for capital
+10 improvement projects for public roads as provided by this subchapter. The
+11 director is authorized to approve capital improvements for funding assistance
+12 upon a finding that a project is in the public interest.
+13
+14 15-4-2305. Public Roads Incentive Fund.
+15 (a) There is established on the books of the Treasurer of State, the
+16 Auditor of State, and the Chief Fiscal Officer of the State a fund to be
+17 known as the “Public Roads Incentive Fund” of the Arkansas Economic
+18 Development Council.
+19 (b) The fund shall consist of contributions made by taxpayers for
+20 public roads projects approved by the Director of the Arkansas Economic
+21 Development Commission and any other funds as are designated or deposited to
+22 the fund by law.
+23 (c)(1) A separate account shall be established for each project, and
+24 contributions for a project shall be applied to provide funding assistance
+25 for such a project.
+26 (2) Any contributions which remain in the fund when a project is
+27 completed or terminated shall be held and applied to other public roads
+28 projects in such manner as the director shall direct.
+29
+30 15-4-2306. Tax credit.
+31 (a) A taxpayer shall be entitled to a credit against any Arkansas
+32 income tax liability which may be imposed on the taxpayer for any tax year
+33 commencing on or after January 1, 1999, for contributions transmitted to the
+34 Treasurer of State pursuant to this subchapter.
+35 (b) The credit shall be determined in the following manner:
+36 (1) The credit shall be calculated as thirty-three percent (33%)
+7 02/18/2025 12:26:07 PM JLL167
+
+HB1521
+1 of the taxpayer's contribution;
+2 (2) In any one (1) tax year, the credit allowed by this section
+3 shall offset up to one hundred percent (100%) of the net Arkansas state
+4 income tax liability of the taxpayer; and
+5 (3) Any credit in excess of the amount allowed by subdivision
+6 (b)(2) of this section for any one (1) tax year may be carried forward and
+7 applied against any Arkansas state income tax liability for the next-
+8 succeeding tax year and annually thereafter for a total period of ten (10)
+9 years next succeeding the year in which the credit arose, subject to the
+10 provisions of subdivision (b)(2) of this section or until the credit is
+11 exhausted, whichever occurs first.
+12
+13 15-4-2307. Powers and duties of the Arkansas Economic Development
+14 Commission.
+15 The Arkansas Economic Development Commission shall administer the
+16 provisions of this subchapter and shall have the following powers and duties,
+17 in addition to those mentioned in this subchapter and in other laws of this
+18 state:
+19 (1) To monitor the implementation and operation of this
+20 subchapter and to conduct a continuing evaluation of the progress made;
+21 (2) To assist the governing authority in obtaining assistance
+22 from any other department of state government;
+23 (3) To submit an annual written report evaluating the
+24 effectiveness of the program and presenting any suggestions for improving the
+25 program, to be submitted to the Governor no later than March 1 of each year;
+26 and
+27 (4) To promulgate rules in accordance with the Arkansas
+28 Administrative Procedure Act, § 25-15-201 et seq., necessary to carry out the
+29 provisions of this subchapter.
+30
+31 SECTION 4. Arkansas Code § 15-4-2705(h), concerning the job-creation
+32 tax credit, is amended to read as follows:
+33 (h)(1) If a qualified business fails to meet the payroll threshold
+34 within two (2) years after the date of the approved financial incentive
+35 agreement or within the time period established by an extension approved by
+36 the Secretary of the Department of Finance and Administration and the
+8 02/18/2025 12:26:07 PM JLL167
+
+HB1521
+1 Director of the Arkansas Economic Development Commission, the qualified
+2 business is liable for repayment of all incentives previously received under
+3 § 15-4-2706(d) that were conditioned on an approved financial incentive
+4 agreement under this section for which the payroll threshold has not been
+5 met.
+6 (2) If a qualified business fails to reach the payroll threshold
+7 of this section in a timely manner, the The department shall have two (2)
+8 years to collect incentives previously received by the qualified business or
+9 file a lawsuit to enforce the repayment provisions.
+10
+11 SECTION 5. Arkansas Code § 15-4-2706(b)(7)-(13), concerning investment
+12 tax incentives under the Consolidated Incentive Act of 2003, are repealed.
+13 (7) Technology-based enterprises, as defined by § 14-164-203,
+14 may earn, at the discretion of the director, an income tax credit or sales
+15 and use tax credit based on new investment, provided that the technology-
+16 based enterprise:
+17 (A) Creates a new payroll of at least two hundred fifty
+18 thousand dollars ($250,000); and
+19 (B) Pays an average hourly wage that is at least one
+20 hundred fifty percent (150%) of the lesser of the state or county average
+21 hourly wage for the county in which the business locates or expands.
+22 (8)(A) The income tax credit or sales and use tax credit that
+23 may be earned by a technology-based enterprise is based on the amount of
+24 investment as follows:
+25 (i) The income tax credit or sales and use tax
+26 credit is equal to two percent (2%) of the investment for an investment that
+27 is between two hundred fifty thousand dollars ($250,000) and five hundred
+28 thousand dollars ($500,000);
+29 (ii) The income tax credit or sales and use tax
+30 credit is equal to four percent (4%) of the investment for that part of the
+31 investment that is over five hundred thousand dollars ($500,000) and less
+32 than one million dollars ($1,000,000);
+33 (iii) The income tax credit or sales and use tax
+34 credit is equal to six percent (6%) of the investment for that part of the
+35 investment that is over one million dollars ($1,000,000) and less than two
+36 million dollars ($2,000,000); and
+9 02/18/2025 12:26:07 PM JLL167
+
+HB1521
+1 (iv) The income tax credit or sales and use tax
+2 credit is equal to eight percent (8%) of the investment for that part of the
+3 investment that is over two million dollars ($2,000,000).
+4 (B) The amount of credit earned is determined based upon
+5 the amount invested, as verified by an audit by the department.
+6 (9) All investments by a technology-based enterprise shall be
+7 made within four (4) years of the date of the approved financial incentive
+8 agreement.
+9 (10) Prior to commission approval of a financial incentive
+10 agreement, the business shall elect to receive the tax credits as either:
+11 (A) A sales and use tax credit; or
+12 (B) An income tax credit.
+13 (11) The income tax credit or sales and use tax credit earned by
+14 a technology-based enterprise may offset income tax liabilities or sales and
+15 use tax liabilities as follows:
+16 (A) A technology-based enterprise that pays at least one
+17 hundred fifty percent (150%) of the lesser of the state or county average
+18 hourly wage for the county in which the business locates or expands may
+19 offset up to fifty percent (50%) of its income tax liability or sales and use
+20 tax liability annually;
+21 (B) A technology-based enterprise that pays at least one
+22 hundred seventy-five percent (175%) of the lesser of the state or county
+23 average hourly wage for the county in which the business locates or expands
+24 may offset up to seventy-five percent (75%) of its income tax liability or
+25 sales and use tax liability annually; and
+26 (C) A technology-based enterprise that pays at least two
+27 hundred percent (200%) of the lesser of the state or county average hourly
+28 wage for the county in which the business locates or expands may offset up to
+29 one hundred percent (100%) of its income tax liability or sales and use tax
+30 liability annually.
+31 (12) After receiving an approved financial incentive agreement
+32 from the commission, a qualified business shall certify to the department the
+33 eligible project costs and average hourly wages annually at the end of each
+34 tax year for the term of the financial incentive agreement.
+35 (13) Unused income tax credits or sales and use tax credits may
+36 be carried forward for up to nine (9) years after the year in which the
+10 02/18/2025 12:26:07 PM JLL167
+
+HB1521
+1 credit was first earned or until the tax credits are exhausted, whichever
+2 occurs first.
+3
+4 SECTION 6. Arkansas Code § 15-4-2706(d) and (e), concerning investment
+5 tax incentives under the Consolidated Incentive Act of 2003, are repealed.
+6 (d)(1)(A) An application for a state and local sales and use tax
+7 refund for a new or expanding business shall be filed with the commission
+8 contingent upon the approval of an endorsement resolution from the governing
+9 authority of a municipality or county, or both, in whose jurisdiction the
+10 business will be located.
+11 (B) The resolution shall:
+12 (i) Endorse the business's participation in this
+13 sales and use tax refund program; and
+14 (ii) Specify that the department is authorized to
+15 refund local sales taxes to the qualified business.
+16 (C) To qualify for a refund under this subsection, a
+17 qualified business shall meet the minimum investment thresholds for the tier
+18 in which the qualified business expands or locates, as follows:
+19 (i) For tier 1 counties, the minimum investment
+20 threshold is at least five hundred thousand dollars ($500,000);
+21 (ii) For tier 2 counties, the minimum investment
+22 threshold is at least four hundred thousand dollars ($400,000);
+23 (iii) For tier 3 counties, the minimum investment
+24 threshold is at least three hundred thousand dollars ($300,000); and
+25 (iv) For tier 4 counties, the minimum investment
+26 threshold is at least two hundred thousand dollars ($200,000).
+27 (2)(A)(i) The secretary shall authorize a sales and use tax
+28 refund of state and local sales and use taxes, excepting the sales and use
+29 taxes dedicated to the Educational Adequacy Fund and the Conservation Tax
+30 Fund on the purchases of the material used in the construction of a building
+31 or buildings or any addition, modernization, or improvement thereon for
+32 housing any new or expanding qualified business and machinery and equipment
+33 to be located in or in connection with such a building.
+34 (ii) The local sales and use tax may be refunded only
+35 from the municipality or county, or both, in which the qualified business is
+36 located.
+11 02/18/2025 12:26:07 PM JLL167
+
+HB1521
+1 (B) A refund shall not be authorized for:
+2 (i) Routine operating expenditures; or
+3 (ii) The purchase of replacement items previously
+4 purchased as part of a project under this subsection unless the items
+5 previously purchased are necessary for the implementation or completion of
+6 the project.
+7 (3)(A) Subject to the approval of the commission, a qualified
+8 business may make changes to a project by written amendment to the project
+9 plan filed with the commission.
+10 (B) The commission shall not approve an amendment under
+11 subdivision (d)(3)(A) of this section that results in a cost increase of more
+12 than twenty-five percent (25%) of the initial project plan.
+13 (4) All claims for sales and use tax refunds under this
+14 subsection shall be denied unless they are filed with the department within
+15 three (3) years from the date of the qualified purchase or purchases.
+16 (5)(A)(i) To be eligible for the incentives under this
+17 subsection, a qualified business shall meet all payroll creation requirements
+18 of its approved financial incentive agreement under § 15-4-2705 or § 15-4-
+19 2707.
+20 (ii) However, a business may apply for incentives
+21 under this subsection if:
+22 (a) The business has an existing financial
+23 incentive agreement approved under this subdivision (d)(5)(A) and the
+24 provisions of subdivision (d)(5)(B) of this section have been met within the
+25 previous four (4) years; or
+26 (b) The business has signed a financial
+27 incentive agreement approved under § 15-4-2705 or § 15-4-2707 within the
+28 previous four (4) years.
+29 (B) The financial incentive agreement under § 15-4-2705 or
+30 § 15-4-2707 shall be approved within two (2) years after the financial
+31 incentive agreement under this subsection is approved.
+32 (e)(1) A targeted business may be eligible for a refund of state and
+33 local sales and use taxes for qualified expenditures at the discretion of the
+34 director if:
+35 (A)(i) The annual payroll of the targeted business for
+36 Arkansas taxpayers is greater than one hundred thousand dollars ($100,000)
+12 02/18/2025 12:26:07 PM JLL167
+
+HB1521
+1 and less than one million dollars ($1,000,000).
+2 (ii) The payroll requirement in subdivision
+3 (e)(1)(A)(i) of this section applies only to the initial eligibility
+4 determination and does not preclude a qualified business from receiving
+5 incentives if, at any time after the financial incentive agreement is
+6 approved, actual payroll does not satisfy the requirements in subdivision
+7 (e)(1)(A)(i) of this section; and
+8 (B) The targeted business shows proof of an equity
+9 investment of at least two hundred fifty thousand dollars ($250,000).
+10 (2)(A) An application for the targeted business state and local
+11 sales and use tax refund program for a new or expanding targeted business
+12 shall be filed with the commission contingent upon the approval of an
+13 endorsement resolution from the governing authority of a municipality or
+14 county, or both, in whose jurisdiction the targeted business will be located.
+15 (B) The resolution shall:
+16 (i) Endorse the business's participation in this
+17 sales and use tax refund program; and
+18 (ii) Specify that the department is authorized to
+19 refund local sales and use taxes to the targeted business.
+20 (3) An approved financial incentive agreement and any other
+21 pertinent documentation shall be forwarded to the secretary.
+22 (4)(A)(i) The secretary shall authorize a sales and use tax
+23 refund of state and local sales and use taxes, excepting the sales and use
+24 taxes dedicated to the Educational Adequacy Fund and the Conservation Tax
+25 Fund on the purchases of the material used in the construction of a building
+26 or buildings or any addition, modernization, or improvement thereon for
+27 housing any new or expanding qualified business and machinery and equipment
+28 to be located in or in connection with such a building.
+29 (ii) The local sales and use tax may be refunded
+30 only from the municipality or county, or both, in which the qualified
+31 business is located.
+32 (B) A refund shall not be authorized for:
+33 (i) Routine operating expenditures; or
+34 (ii) The purchase of replacement items previously
+35 purchased as part of a project under this subsection unless the items
+36 previously purchased are necessary for the implementation or completion of
+13 02/18/2025 12:26:07 PM JLL167
+
+HB1521
+1 the project.
+2 (5)(A) Subject to the approval of the commission, a qualified
+3 business may make changes to a project by written amendment to the project
+4 plan filed with the commission.
+5 (B) The commission shall not approve an amendment under
+6 subdivision (e)(5)(A) of this section that results in a cost increase of more
+7 than twenty-five percent (25%) of the initial project plan.
+8 (6) All claims for sales and use tax refunds under this
+9 subsection shall be denied unless they are filed with the department within
+10 three (3) years after the date of the qualified purchase or purchases.
+11 (7) If a targeted business plans to apply for benefits under
+12 this subsection and also plans to apply for benefits under § 15-4-2709, the
+13 financial incentive agreement under § 15-4-2709 must be signed within twenty-
+14 four (24) months of signing the financial incentive agreement under this
+15 subsection and comply with the eligibility requirements of the financial
+16 incentive agreements.
+17 (8) To be eligible for the incentives under this subsection, a
+18 targeted business shall meet all payroll creation requirements of an approved
+19 financial incentive agreement under § 15-4-2707 or § 15-4-2709 within two (2)
+20 years of the date of the approved financial incentive agreement under this
+21 subsection or other subsequent date if approved by the director.
+22
+23 SECTION 7. Arkansas Code § 15-4-2707(e), concerning the Economic
+24 Development Incentive Fund and the payroll rebate under the Consolidated
+25 Incentive Act of 2003, is repealed.
+26 (e)(1) Technology-based enterprises, as defined in § 14-164-203, may
+27 earn, at the discretion of the director, a payroll rebate equal to five
+28 percent (5%) of the payroll for new full-time permanent employees for a
+29 period not to exceed ten (10) years.
+30 (2) To qualify for the payroll rebate:
+31 (A) The average hourly wage of the payroll for new full-
+32 time permanent employees must be at least one hundred fifty percent (150%) of
+33 the lesser of the state or county average hourly wage for the county in which
+34 the technology-based enterprise locates or expands;
+35 (B) The payroll for new full-time permanent employees must
+36 exceed two hundred fifty thousand dollars ($250,000); and
+14 02/18/2025 12:26:07 PM JLL167
+
+HB1521
+1 (C) The payroll rebate authorized by this subsection shall
+2 not be used in combination with the income tax credit based on payroll
+3 authorized by § 15-4-2709.
+4
+5 SECTION 8. Arkansas Code § 15-4-2708(a)(4), concerning research and
+6 development tax credits under the Consolidated Incentive Act of 2003, is
+7 repealed.
+8 (4) A qualified business claiming tax credits earned under this
+9 subsection shall not receive the credit granted by § 26-51-1102(b) for the
+10 same expenditures.
+11
+12 SECTION 9. Arkansas Code § 15-4-2708(b)–(d), concerning research and
+13 development tax credits under the Consolidated Incentive Act of 2003, are
+14 amended to read as follows:
+15 (b)(1) Targeted businesses may qualify for an income tax credit equal
+16 to thirty-three percent (33%) of the amount spent on in-house research per
+17 year for the first five (5) tax years following the targeted business's
+18 signing a financial incentive agreement with the commission.
+19 (2) The credits earned by targeted businesses may be sold as
+20 authorized in § 15-4-2709 under this subsection.
+21 (3) Any unused income tax credits under this subsection may be
+22 carried forward for up to nine (9) years after the year in which the income
+23 tax credit was first earned.
+24 (4)(A) To sell income tax credits earned through incentives
+25 authorized under this subchapter, a targeted business shall apply to the
+26 commission and furnish the information necessary to facilitate the sale of
+27 the income tax credits.
+28 (B)(i) A taxpayer that purchases income tax credits under
+29 this subsection may carry any unused income tax credits forward as provided
+30 in subdivision (b)(3) of this section.
+31 (ii) The purchase of income tax credits under this
+32 subsection does not establish a new carry-forward period for the purchaser.
+33 (5) A targeted business that claims or sells income tax credits
+34 under this subsection shall not receive the income tax credit allowed under §
+35 26-51-1102(b) for the same expenditures.
+36 (c)(1) An Arkansas taxpayer may be offered, at the discretion of the
+15 02/18/2025 12:26:07 PM JLL167
+
+HB1521
+1 director, an income tax credit equal to thirty-three percent (33%) of the
+2 amount spent on the research for the first five (5) tax years following the
+3 business's signing a financial incentive agreement with the commission,
+4 subject to the limitations established under § 26-51-1103 if the taxpayer
+5 invests in:
+6 (A) In-house research in a strategic research area; or
+7 (B) Projects under the research and development programs
+8 of the Division of Science and Technology of the Arkansas Economic
+9 Development Commission when the projects directly involve an Arkansas
+10 business and are approved by the director with the advice of the Board of
+11 Directors of the Division of Science and Technology of the Arkansas Economic
+12 Development Commission under rules promulgated by the commission for those
+13 programs.
+14 (2) However, the maximum tax credit for a qualified business
+15 engaged in a research area of strategic value or involved in research and
+16 development programs sponsored by the division shall not exceed fifty
+17 thousand dollars ($50,000) per year.
+18 (3) A qualified business claiming tax credits earned under this
+19 subsection shall not receive the credit granted by § 26-51-1102(b) for the
+20 same expenditures.
+21 (4)(A) A qualified business claiming tax credits earned under
+22 this subsection may offset up to one hundred percent (100%) of the business's
+23 Arkansas income tax liability annually.
+24 (B) Any unused income tax credits may be carried forward
+25 for up to nine (9) years after the year in which the credit was first earned
+26 or until exhausted, whichever occurs first.
+27 (d) To claim the credit granted under subsections (a)-(c) (a) and (b)
+28 of this section, the taxpayer shall file with his or her return, as an
+29 attachment to the form prescribed by the Secretary of the Department of
+30 Finance and Administration, copies of documentation to show that the
+31 commission has approved the research expenditure as a part of a qualified in-
+32 house research program or under the research and development programs of the
+33 division Division of Science and Technology of the Arkansas Economic
+34 Development Commission.
+35
+36 SECTION 10. Arkansas Code § 15-4-2709 is repealed.
+16 02/18/2025 12:26:07 PM JLL167
+
+HB1521
+1 15-4-2709. Targeted business special incentive.
+2 (a) A special incentive based on the payroll of targeted businesses in
+3 the state may be offered, at the discretion of the Director of the Arkansas
+4 Economic Development Commission, to:
+5 (1) Encourage the development of jobs that pay significantly
+6 more than the average hourly wage in the county in which the targeted
+7 business locates or the state average hourly wage if the state average hourly
+8 wage is less than the county average hourly wage; and
+9 (2) Provide an incentive to assist with the start-up of
+10 businesses targeted for growth.
+11 (b) To qualify for the special incentive provided by subsection (c) of
+12 this section, a business shall:
+13 (1) Be identified by the Arkansas Economic Development
+14 Commission as being one of those business sectors targeted for growth under §
+15 15-4-2703;
+16 (2)(A) Have an annual payroll of the business for Arkansas
+17 taxpayers of not less than one hundred thousand dollars ($100,000) or more
+18 than one million dollars ($1,000,000).
+19 (B) The payroll requirement under subdivision (b)(2)(A) of
+20 this section applies only to the initial eligibility determination and does
+21 not preclude qualified businesses from receiving incentives if, at any time
+22 after the financial incentive agreement has been approved, actual payroll
+23 does not satisfy the requirements in subdivision (b)(2)(A) of this section;
+24 (3) Show proof of an equity investment of two hundred fifty
+25 thousand dollars ($250,000) or more; and
+26 (4) Pay average hourly wages in excess of the lesser of one
+27 hundred fifty percent (150%) of the county or state average hourly wage for
+28 the county in which the targeted business locates or expands.
+29 (c)(1) A targeted business may earn an income tax credit equal to ten
+30 percent (10%) of its annual payroll, with the maximum payroll credit not to
+31 exceed one hundred thousand dollars ($100,000) in any year during the term of
+32 the financial incentive agreement.
+33 (2)(A) The term of the financial incentive agreement shall be
+34 established by the director for a period not to exceed five (5) years.
+35 (B) The term of the financial incentive agreement for
+36 targeted businesses earning a tax credit under this subsection shall begin on
+17 02/18/2025 12:26:07 PM JLL167
+
+HB1521
+1 January 1 of the year following the year in which the financial incentive
+2 agreement was approved.
+3 (C) The director may allow a qualified targeted business
+4 to sell any income tax credits earned through one (1) or more incentives
+5 authorized by this subchapter.
+6 (d)(1) To sell income tax credits earned through incentives authorized
+7 by this subchapter, the targeted business shall apply to the commission and
+8 furnish information necessary to facilitate the sale of income tax credits.
+9 (2)(A) Any unused tax credits may be carried forward for up to
+10 nine (9) years after the year in which the credit was first earned or until
+11 exhausted, whichever occurs first.
+12 (B) Taxpayers purchasing tax credits under this subsection
+13 shall be subject to the same carry-forward provisions as the targeted
+14 business that earned the credits.
+15 (C) The purchase of the tax credits does not establish a
+16 new carry-forward period for the ultimate recipient.
+17 (e) A targeted business claiming or selling tax credits earned under
+18 this section or § 15-4-2708 shall not receive the credit granted by § 26-51-
+19 1102(b) for the same expenditures.
+20
+21 SECTION 11. Arkansas Code § 15-4-2711(c) and (d), concerning the
+22 administration of the incentives provided under the Consolidated Incentive
+23 Act of 2003, are repealed.
+24 (c)(1) All claims for sales and use tax refunds under § 15-4-2706(d)
+25 and (e) shall be filed annually with the Department of Finance and
+26 Administration within three (3) years from the date of the qualified purchase
+27 or purchases.
+28 (2) Claims filed after three (3) years from the date of the
+29 qualified purchase or purchases shall be denied.
+30 (d)(1) The time limitation for § 15-4-2706(d) and (e) for filing
+31 claims shall be tolled if:
+32 (A) A qualified business fails to pay sales tax on an item
+33 that was taxable; and
+34 (B) The applicable tax is subsequently assessed as a
+35 result of an audit by the department.
+36 (2) All claims for sales and use tax refunds relating to an
+18 02/18/2025 12:26:07 PM JLL167
+
+HB1521
+1 audited purchase are entitled to a refund of interest paid on the amount of
+2 tax assessed on the audited purchase if a refund is approved for the
+3 purchase.
+4
+5 SECTION 12. Arkansas Code § 15-4-2712 is amended to read as follows:
+6 15-4-2712. Restrictions.
+7 (a) Except as provided in subsection (b) of this section, the
+8 incentives established by this subchapter may be combined.
+9 (b)(1) The investment tax credit authorized in § 15-4-2706(c) shall
+10 not be combined with the sales and use tax refund authorized in § 15-4-
+11 2706(d) for the same project.
+12 (2) The following incentives for targeted businesses may be
+13 combined with each other for the same project as long as multiple incentives
+14 are not claimed for the same expenditures but shall not be combined with any
+15 other incentives authorized in this subchapter during the period in which the
+16 qualified business receives incentives under this subchapter:
+17 (A) The investment tax credit authorized under § 15-4-
+18 2706(b)(7) may be combined with:
+19 (i) The research and development income tax credits
+20 authorized under § 15-4-2708(b); and
+21 (ii) Either the:
+22 (a) Payroll rebate program authorized under §
+23 15-4-2707(e); or
+24 (b) Payroll tax credit program authorized
+25 under § 15-4-2709;
+26 (B) The sales and use tax refund authorized under § 15-4-
+27 2706(e) may be combined with:
+28 (i) The research and development income tax credits
+29 authorized under § 15-4-2708(b); and
+30 (ii) Either the:
+31 (a) Payroll rebate program authorized under §
+32 15-4-2707(e); or
+33 (b) Payroll tax credit program authorized
+34 under § 15-4-2709;
+35 (C) The payroll rebate program authorized under § 15-4-
+36 2707(e) may be combined with:
+19 02/18/2025 12:26:07 PM JLL167
+
+HB1521
+1 (i) The research and development income tax credits
+2 authorized under § 15-4-2708(b); and
+3 (ii) Either the:
+4 (a) Investment tax credit program authorized
+5 under § 15-4-2706(b)(7); or
+6 (b) Sales and use tax refund program
+7 authorized under § 15-4-2706(e);
+8 (D) The payroll income tax credit authorized under § 15-4-
+9 2709 may be combined with:
+10 (i) The research and development income tax credits
+11 authorized under § 15-4-2708(b); and
+12 (ii) Either the:
+13 (a) Investment tax credit authorized under §
+14 15-4-2706(b)(7); or
+15 (b) Sales and use tax refund program
+16 authorized under § 15-4-2706(e); and
+17 (E) The research and development income tax credits
+18 authorized under § 15-4-2708(b) may be combined with:
+19 (i) Either the:
+20 (a) Payroll rebate program authorized under §
+21 15-4-2707(e); or
+22 (b) Payroll tax credit program authorized
+23 under § 15-4-2709; and
+24 (ii) Either the:
+25 (a) Investment tax credit program authorized
+26 under § 15-4-2706(b)(7); or
+27 (b) Sales and use tax refund program
+28 authorized under § 15-4-2706(e).
+29 (3) The investment tax credit authorized in § 15-4-2706(b) shall
+30 not be combined with the sales and use tax credit authorized in § 15-4-
+31 2706(e) for the same project.
+32 (4) The job-creation tax credit authorized in § 15-4-2705 shall
+33 not be combined with the payroll rebate program authorized in § 15-4-2707.
+34 (5) The investment tax credit authorized in § 15-4-2706(b) shall
+35 not be combined with the sales and use tax refund authorized in § 15-4-
+36 2706(d) for the same project.
+20 02/18/2025 12:26:07 PM JLL167
+
+HB1521
+1 (6)(2) The investment tax credit authorized under § 15-4-2706(b)
+2 shall not be combined with the sales and use tax credit authorized under §
+3 15-4-2706(c) for the same project.
+4 (c) The following are discretionary incentives and are not available
+5 unless offered by the Arkansas Economic Development Commission:
+6 (1) The payroll rebate program authorized in § 15-4-2707;
+7 (2) The job-creation tax credit authorized in § 15-4-2709;
+8 (3) The investment tax credit authorized in § 15-4-2706(b); and
+9 (4) The sales and use tax refund authorized in § 15-4-2706(e);
+10 and
+11 (5)(3) The research and development tax credits authorized in §
+12 15-4-2708(a)-(c) 15-4-2708(a) and (b).
+13
+14 SECTION 13. Arkansas Code Title 15, Chapter 4, Subchapter 35, is
+15 repealed.
+16 Subchapter 35 — Incentives for Major Maintenance and Improvement Projects
+17
+18 15-4-3501. Increased tax refund for major maintenance and improvement
+19 projects.
+20 (a) A taxpayer that is eligible for a refund of excise taxes under §
+21 26-52-447 or § 26-53-149 is eligible for a refund of one hundred percent
+22 (100%) of the sales and use taxes levied in §§ 26-52-301, 26-52-302, 26-53-
+23 106, and 26-53-107 on the tangible personal property and services subject to
+24 §§ 26-52-447 and 26-53-149 for projects that meet the following requirements:
+25 (1) The taxpayer has entered into a financial incentive
+26 agreement with the Arkansas Economic Development Commission for the project;
+27 and
+28 (2) The taxpayer expends at least three million dollars
+29 ($3,000,000) on an approved project that includes the purchase of tangible
+30 personal property and services that are either exempt or subject to a partial
+31 refund of tax under § 26-52-402, § 26-52-447, § 26-53-114, or § 26-53-149.
+32 (b) A taxpayer shall file with the commission an application for the
+33 increased refund for major maintenance and improvement projects provided in
+34 this section.
+35 (c) The increased refund of sales and use taxes for major maintenance
+36 and improvement projects provided in this section is a discretionary
+21 02/18/2025 12:26:07 PM JLL167
+
+HB1521
+1 incentive and is not available unless offered by the Director of the Arkansas
+2 Economic Development Commission.
+3 (d) The director shall forward the taxpayer's application, financial
+4 incentive agreement, any other pertinent documentation, and a written copy of
+5 the determination under this subsection to the Secretary of the Department of
+6 Finance and Administration if the director:
+7 (1) Determines that the taxpayer is eligible for the increased
+8 refund for major maintenance and improvement projects provided for in this
+9 section;
+10 (2) Determines that the taxpayer has provided reasonable proof
+11 that there will be a positive return on the taxpayer's investment in the
+12 major maintenance and improvement project that is sufficient to offset the
+13 taxes refunded under this section;
+14 (3) Determines that the taxpayer has provided a defined scope,
+15 beginning date, and ending date for the major maintenance and improvement
+16 project;
+17 (4) Determines that the refund is reasonably necessary for the
+18 taxpayer to remain competitive and preserve Arkansas jobs; and
+19 (5) Agrees to provide the incentive under this section.
+20 (e) A taxpayer that has been approved for the increased refund for
+21 major maintenance and improvement projects provided for in this section may
+22 make changes in a major maintenance and improvement project by written
+23 amendment to the project plan filed with the commission as part of the
+24 financial incentive agreement required under this section.
+25 (f) Except as otherwise provided in this section, a refund under this
+26 section is subject to the Arkansas Tax Procedure Act, § 26-18-101 et seq.,
+27 and the Independent Tax Appeals Commission Act, § 26-18-1101 et seq., in the
+28 same manner as other refunds permitted under § 26-18-507.
+29 (g) An expenditure shall not qualify for both the increased refund for
+30 major maintenance and improvement projects under this section and the
+31 retention tax credit provided for in § 15-4-2706(c).
+32 (h) The director and the secretary may promulgate rules necessary to
+33 implement this section.
+34 (i)(1) A taxpayer may apply for an increased refund for major
+35 maintenance and improvement projects under this section through June 30,
+36 2022.
+22 02/18/2025 12:26:07 PM JLL167
+
+HB1521
+1 (2) An application for an increased refund for major maintenance
+2 and improvement projects under this section shall not be accepted on or after
+3 July 1, 2022.
+4
+5 SECTION 14. Arkansas Code § 19-5-1097 is repealed.
+6 19-5-1097. Public Roads Incentive Fund.
+7 (a) There is established on the books of the Treasurer of State, the
+8 Auditor of State, and the Chief Fiscal Officer of the State a fund to be
+9 known as the “Public Roads Incentive Fund” of the Arkansas Economic
+10 Development Council.
+11 (b) The fund shall consist of contributions made by taxpayers for
+12 public roads projects approved by the Director of the Arkansas Economic
+13 Development Commission and any other funds as are designated or deposited
+14 into the fund by law.
+15 (c)(1) A separate account shall be established for each project, and
+16 contributions for a project shall be applied to provide funding assistance
+17 for that project.
+18 (2) Any contributions which remain in the fund when a project is
+19 completed or terminated shall be held and applied to other public roads
+20 projects in such manner as the director shall direct.
+21
+22 SECTION 15. Arkansas Code Title 26, Chapter 51, Subchapter 11, is
+23 repealed.
+24 Subchapter 11 — Donations or Sales of Equipment to Educational Institutions
+25
+26 26-51-1101. Definitions.
+27 As used in this subchapter:
+28 (1) “Accredited institution of higher education” means a four-
+29 year public college or university that offers bachelor's degrees and is
+30 recognized by the Division of Higher Education for credit;
+31 (2) “Cost” means:
+32 (A) In the case of a donation or sale below cost by a
+33 wholesale or retail business, the amount actually paid by the wholesaler or
+34 retailer to the supplier for the machinery and equipment;
+35 (B) In the case of a donation or sale below cost by a
+36 manufacturer of machinery and equipment, the enhanced value of the materials
+23 02/18/2025 12:26:07 PM JLL167
+
+HB1521
+1 used to produce the machinery and equipment, which shall be deemed to be the
+2 lowest price at which the manufacturer sells the machinery and equipment; or
+3 (C) In the case of a cash donation by a taxpayer to a
+4 qualified educational institution for the purchase of new machinery and
+5 equipment, the amount actually paid by the qualified educational institution
+6 to the wholesale, retail, or manufacturing business, as documented by
+7 itemized receipts;
+8 (3) “Machinery and equipment” means tangible personal property
+9 used in connection with a qualified education program or a qualified research
+10 program that has been approved for a tax credit under rules prescribed by the
+11 Department of Finance and Administration;
+12 (4) “New” means the machinery and equipment are state-of-the-art
+13 machinery and equipment that have:
+14 (A) Never been used except for normal testing by the
+15 manufacturer to ensure that the machinery or equipment is of a proper quality
+16 and in good working order; or
+17 (B) Been used by the retailer or wholesaler solely for the
+18 purpose of demonstrating the product to customers for sale;
+19 (5) “Qualified education program” means a program conducted by a
+20 qualified educational institution under rules prescribed by the Division of
+21 Higher Education for programs in colleges, universities, or junior colleges,
+22 by the Division of Career and Technical Education for programs in vocational
+23 technical training schools and by the Division of Elementary and Secondary
+24 Education for programs in secondary schools, all of which programs are for
+25 the purpose of promoting the use of new machinery and equipment for
+26 classroom, laboratory, and other educational instruction;
+27 (6) “Qualified educational institution” means:
+28 (A) A public university, college, junior college, or
+29 vocational technical training school located in and supported by the State of
+30 Arkansas;
+31 (B) A private university, college, junior college, or
+32 vocational technical training school located in Arkansas and qualified for
+33 tax-exempt status under the Income Tax Act of 1929, § 26-51-101 et seq.; and
+34 (C) A public secondary school;
+35 (7) “Qualified research expenditures” means the sum of any
+36 amounts that are paid or incurred by a taxpayer during the taxable year in
+24 02/18/2025 12:26:07 PM JLL167
+
+HB1521
+1 funding a qualified research program that has been approved for tax credit
+2 treatment under rules promulgated by the Department of Finance and
+3 Administration;
+4 (8) “Qualified research program” means a program of applied or
+5 basic research undertaken by a qualified educational institution under rules
+6 jointly promulgated by the Director of the Arkansas Economic Development
+7 Commission and the Division of Higher Education under § 15-3-110;
+8 (9) “Research park authority” means a public entity created
+9 under the Research Park Authority Act, § 14-144-101 et seq., to provide
+10 facilities and support for businesses engaged in research and development in
+11 pursuit of economic development opportunities; and
+12 (10) “State-of-the-art machinery and equipment” means machinery
+13 and equipment that are of the same type, design, and capability as like
+14 machinery and equipment that are currently sold or manufactured by the donee
+15 for sale to customers.
+16
+17 26-51-1102. Credit granted.
+18 (a)(1) There is granted a credit against a taxpayer's Arkansas
+19 corporate income tax or Arkansas individual income tax for the following
+20 types of donations or sales, or both, of new machinery and equipment to a
+21 qualified educational institution in connection with a qualified education
+22 program or a qualified research program:
+23 (A) Donations of new machinery and equipment;
+24 (B) Sales below cost of machinery and equipment; and
+25 (C) Cash donations for the purchase of new machinery and
+26 equipment by a qualified educational institution.
+27 (2) The amount of the credit granted by this section shall be:
+28 (A) In the case of a donation, thirty-three percent (33%)
+29 of the cost of the machinery and equipment donated;
+30 (B) In the case of a sale below cost, thirty-three percent
+31 (33%) of the amount by which the cost is reduced; and
+32 (C) In the case of a cash donation, thirty-three percent
+33 (33%) of the amount of the cash donation used by the qualified educational
+34 institution to purchase new machinery and equipment from a wholesale, retail,
+35 or manufacturing business.
+36 (b) There is granted a credit against a taxpayer's Arkansas corporate
+25 02/18/2025 12:26:07 PM JLL167
+
+HB1521
+1 income tax or Arkansas individual income tax equal to thirty-three percent
+2 (33%) of the qualified research expenditures of a taxpayer in qualified
+3 research programs.
+4 (c)(1) There is granted a credit against a taxpayer's Arkansas
+5 corporate income tax or Arkansas individual income tax equal to thirty-three
+6 percent (33%) of a donation made to an accredited institution of higher
+7 education to support a research park authority.
+8 (2) In order to claim this credit authorized by subdivision
+9 (c)(1) of this section, a donation made in support of a research park
+10 authority shall:
+11 (A) Be consistent with the research and development plan
+12 approved by the Director of the Arkansas Economic Development Commission with
+13 the advice of the Board of Directors of the Division of Science and
+14 Technology of the Arkansas Economic Development Commission, as evidenced by a
+15 letter of support from the director; and
+16 (B) Support either directly or indirectly research subject
+17 to being funded by one (1) or more federal agencies, as enumerated in § 15-3-
+18 205(1).
+19
+20 26-51-1103. Limit on total credit.
+21 (a) Total credits for qualified research expenditures, donations, and
+22 sales under this subchapter shall be allowed up to one hundred percent (100%)
+23 of the net tax liability of the taxpayer after all other credits and
+24 reductions in tax have been calculated.
+25 (b) The credit shall be claimed in the tax year of the qualified
+26 research expenditure, donation, or sale. However, all or part of any unused
+27 credit may be carried over to and claimed in succeeding tax years until the
+28 credits are exhausted or until the end of the nine (9) tax years succeeding
+29 the tax year of the qualified research expenditure, donation, or sale,
+30 whichever occurs earlier. In no event shall a taxpayer claim a credit under
+31 this subchapter for any tax year in excess of one hundred percent (100%) of
+32 the net tax due after all other credits and reductions in tax have been
+33 calculated.
+34 (c) Any person claiming any credit granted by this subchapter for any
+35 expense or contribution shall not take any deduction under the Arkansas
+36 income tax law for the same expense or contribution.
+26 02/18/2025 12:26:07 PM JLL167
+
+HB1521
+1
+2 26-51-1104. Documentation required.
+3 (a) To claim the credit granted by § 26-51-1102, the taxpayer shall
+4 provide the following for each piece of machinery and equipment donated, sold
+5 below cost, or purchased by a qualified educational institution with a cash
+6 donation:
+7 (1) An affidavit from the receiving qualified educational
+8 institution that:
+9 (A) The qualified educational institution has received the
+10 machinery and equipment;
+11 (B) The machinery and equipment is new machinery and
+12 equipment within the meaning of this subchapter;
+13 (C) The qualified educational institution received the
+14 machinery and equipment as a donation or, if the qualified educational
+15 institution purchased the machinery and equipment, a statement of the amount
+16 paid for the machinery and equipment; and
+17 (D) The machinery and equipment has been donated,
+18 purchased by the qualified educational institution with a cash donation
+19 provided by a taxpayer, or sold to the qualified educational institution for
+20 use in a qualified education program or a qualified research program; and
+21 (2)(A) In the case of a donation or sale by a retail or
+22 wholesale business, a copy of the invoice from the business' supplier showing
+23 the actual cost of the machinery and equipment.
+24 (B) In the case of a donation or sale below cost by a
+25 manufacturer, a copy of the manufacturer's wholesale price list showing the
+26 lowest price of the machinery and equipment for which credit is claimed.
+27 (C) In the case of a purchase by a qualified educational
+28 institution with a cash donation, itemized receipts documenting the amount of
+29 the cash donation and the purchase costs of the new machinery and equipment.
+30 (b) To claim the credit granted by § 26-51-1102, the taxpayer shall
+31 show that the Director of the Arkansas Economic Development Commission and
+32 the Commissioner of the Division of Higher Education have approved the
+33 qualified research expenditure as a part of a qualified research program.
+34 (c) Copies of each of the above documents shall be filed by the
+35 taxpayer with the Arkansas Economic Development Commission and with his or
+36 her return as an attachment to the form prescribed by the Secretary of the
+27 02/18/2025 12:26:07 PM JLL167
+
+HB1521
+1 Department of Finance and Administration.
+2
+3 26-51-1105. Rules.
+4 The Secretary of the Department of Finance and Administration, the
+5 Commissioner of the Division of Higher Education, the Director of the
+6 Division of Career and Technical Education, the Secretary of the Department
+7 of Education, and the Director of the Arkansas Economic Development
+8 Commission shall jointly promulgate rules to carry out the purposes of this
+9 subchapter.
+10
+11 26-51-1106. Application for credit approval.
+12 (a) To apply for a credit under this subchapter, a taxpayer shall
+13 submit an original application and one (1) copy to the Director of the
+14 Arkansas Economic Development Commission on the forms prescribed by the
+15 director.
+16 (b) The director shall review each application submitted under this
+17 subchapter and shall either:
+18 (1) Approve the application; or
+19 (2) Reject the application and notify the applicant of the
+20 deficiencies in the application.
+21 (c) An applicant that receives approval from the director under this
+22 section shall sign a financial incentive agreement outlining the terms and
+23 conditions of the credit granted under this subchapter.
+24 (d) An applicant may resubmit a rejected application after addressing
+25 any deficiencies identified by the director.
+26 (e) For an application submitted on or after July 24, 2019, an
+27 expenditure incurred before the approval date of the financial incentive
+28 agreement required under subsection (b) of this section shall be denied a
+29 credit under this subchapter.
+30
+31 SECTION 16. Arkansas Code § 26-52-402(c)(2)(C)(ii), concerning the
+32 items not included in the definition of machinery and equipment “used
+33 directly” in the manufacturing process for purposes of the sales tax
+34 exemption for certain machinery and equipment, is amended to read as follows:
+35 (ii) Except as provided in §§ 26-52-447 and 26-53-
+36 149, machinery Machinery, equipment, and tools used in maintaining and
+28 02/18/2025 12:26:07 PM JLL167
+
+HB1521
+1 repairing any type of machinery and equipment;
+2
+3 SECTION 17. Arkansas Code § 26-52-447 is repealed.
+4 26-52-447. Partial replacement and repair of certain machinery and
+5 equipment — Definitions.
+6 (a) The taxes levied under §§ 26-52-301 and 26-52-302 on the gross
+7 receipts or gross proceeds from the sale of the following are subject to a
+8 refund or exemption as provided in this section:
+9 (1) Machinery and equipment purchased to modify, replace,
+10 repair, or maintain, either in whole or in part, existing machinery or
+11 equipment used directly in producing, manufacturing, fabricating, assembling,
+12 processing, finishing, or packaging articles of commerce at a manufacturing
+13 or processing plant or facility in this state;
+14 (2) Service relating to the initial installation, alteration,
+15 addition, cleaning, refinishing, replacement, or repair of machinery or
+16 equipment described in subdivision (a)(1) of this section;
+17 (3) Machinery and equipment purchased to modify, replace, or
+18 repair, either in whole or in part, existing molds and dies used directly in
+19 producing, manufacturing, fabricating, assembling, processing, finishing, or
+20 packaging articles of commerce at a manufacturing or processing plant or
+21 facility in this state; and
+22 (4)(A) Except as provided in subdivision (a)(4)(B) of this
+23 section, machinery and equipment purchased for use or possible use by a
+24 taxpayer for a purpose described in subdivisions (a)(1)-(3) of this section
+25 and placed in inventory for later use by the taxpayer for a purpose described
+26 in subdivisions (a)(1)-(3) of this section.
+27 (B)(i) As used in this subdivision (a)(4)(B), “withdrawal
+28 from inventory” means the withdrawal or use of machinery or equipment held
+29 under subdivision (a)(4)(A) of this section by a taxpayer for a purpose that
+30 does not qualify for an exemption under this section or any other applicable
+31 exemption at the time of the withdrawal from inventory.
+32 (ii) A withdrawal from inventory is not eligible for
+33 the exemption provided under this section.
+34 (iii) For purposes of calculating the gross receipts
+35 tax under subdivision (a)(4)(B)(iv) of this section, the gross receipts or
+36 gross proceeds for a withdrawal from inventory is the purchase price of the
+29 02/18/2025 12:26:07 PM JLL167
+
+HB1521
+1 machinery or equipment withdrawn.
+2 (iv) Tax is due on a withdrawal from inventory at
+3 the time the withdrawal from inventory occurs.
+4 (b)(1) Beginning July 1, 2014, the taxes levied under §§ 26-52-301 and
+5 26-52-302 that are subject to a refund under this section are the taxes in
+6 excess of four and seven-eighths percent (4.875%).
+7 (2) The taxes levied under §§ 26-52-301 and 26-52-302 that are
+8 subject to a refund under this section are the taxes in excess of the
+9 following rates:
+10 (A) Beginning July 1, 2018, three and seven-eighths
+11 percent (3.875%);
+12 (B) Beginning July 1, 2019, two and seven-eighths percent
+13 (2.875%);
+14 (C) Beginning July 1, 2020, one and seven-eighths percent
+15 (1.875%); and
+16 (D) Beginning July 1, 2021, seven-eighths percent
+17 (0.875%).
+18 (3) Beginning July 1, 2022, sales qualifying for the tax refund
+19 under this section are exempt from the taxes levied under this chapter.
+20 (c) The excise tax of one-eighth of one percent (0.125%) levied in
+21 Arkansas Constitution, Amendment 75, the temporary excise tax of one-half
+22 percent (0.5%) levied in Arkansas Constitution, Amendment 91, and the excise
+23 tax of one-half percent (0.5%) levied in Arkansas Constitution, Amendment
+24 101, are not subject to refund under this section.
+25 (d) As used in this section:
+26 (1) “Manufacturing” or “processing” means the same as defined
+27 under § 26-52-402(b) and includes activities described in subsection (a) of
+28 this section, both independently and collectively; and
+29 (2) “Used directly” means the same as defined under § 26-52-
+30 402(c).
+31 (e) All existing excise tax exemptions, including without limitation
+32 exemptions under §§ 26-52-402 and 26-53-114, remain in full force and effect
+33 and are not limited by this section.
+34 (f) A taxpayer may claim the benefit of the tax refund under this
+35 section only by using one (1) of the following methods:
+36 (1)(A) Both:
+30 02/18/2025 12:26:07 PM JLL167
+
+HB1521
+1 (i) Obtaining a direct pay or a limited direct pay
+2 sales and use tax permit from the Department of Finance and Administration;
+3 and
+4 (ii) Self-refunding:
+5 (a) At the time the taxpayer files his or her
+6 original sales and use tax report; or
+7 (b) By later filing an amended sales or use
+8 tax report with the department.
+9 (B) The statutes of limitation stated in § 26-18-306 apply
+10 to claims made under this subdivision (f)(1).
+11 (C) Interest shall not accrue or be paid on a refund
+12 claimed under this subdivision (f)(1); or
+13 (2)(A) Beginning July 1, 2018, for a taxpayer that does not hold
+14 a direct pay or limited direct pay permit, holds an active Arkansas sales and
+15 use tax permit, and files sales and use tax reports with the department,
+16 filing a claim for a credit or rebate with the department.
+17 (B)(i) The credit or rebate authorized under this
+18 subdivision (f)(2) shall be obtained only by offsetting the amount of the
+19 claimed credit or rebate against the state tax to be remitted with the
+20 taxpayer's sales and use tax reports.
+21 (ii) If the total amount of the credit or rebate
+22 authorized under this subdivision (f)(2) is greater than the amount of the
+23 state tax to be remitted with the taxpayer's sales and use tax reports, the
+24 taxpayer is entitled to a refund of the difference between the amount of the
+25 tax owed and the amount of the credit or rebate authorized under this
+26 subdivision (f)(2).
+27 (C) A taxpayer claiming a credit or rebate under this
+28 subdivision (f)(2) shall electronically file all sales and use tax reports.
+29 (D) A claim for credit or rebate under this subdivision
+30 (f)(2) shall not be paid for a claim filed more than one (1) year following
+31 the date of the qualifying sale or more than one (1) year following the date
+32 of payment, whichever is later.
+33 (E) Interest shall not accrue or be paid on an amount
+34 subject to a claim for a credit or rebate under this subdivision (f)(2).
+35 (g) A claim for a credit or rebate shall not be paid under subdivision
+36 (f)(2) of this section for a sale made before July 1, 2018.
+31 02/18/2025 12:26:07 PM JLL167
+
+HB1521
+1 (h) A taxpayer shall not claim the benefit of the refund under this
+2 section by filing a verified claim for refund with the department.
+3 (i) The following provisions of the Arkansas Tax Procedure Act, § 26-
+4 18-101 et seq., apply to claims for a refund under this section:
+5 (1) The time limitations that apply to claims for a refund of an
+6 overpayment of state tax; and
+7 (2) The procedures that apply to the disallowance or proposed
+8 disallowance of claims for a refund.
+9
+10 SECTION 18. Arkansas Code § 26-52-509(a), concerning the direct
+11 payment of sales tax by a consumer or user, is amended to read as follows:
+12 (a)(1) The Secretary of the Department of Finance and Administration
+13 by agreement with any consumer or user may:
+14 (A) Permit permit a consumer or user under the agreement
+15 to accrue and remit gross receipts taxes directly to the Department of
+16 Finance and Administration, instead of the taxes being collected and paid by
+17 the seller under § 26-52-508; and
+18 (B)(i) Issue limited direct pay authority to permit a user
+19 or consumer to accrue and remit gross receipts and compensating use taxes on
+20 purchases that include eligible purchases.
+21 (ii)(a) A limited direct pay agreement permits a
+22 consumer or user to accrue and remit gross receipts and compensating use
+23 taxes on purchases that include eligible purchases.
+24 (b) As used in this section, “eligible
+25 purchases” means property or services subject to a refund of tax under §§ 26-
+26 52-447 and 26-53-149.
+27 (iii)(a) A limited direct pay agreement is available
+28 only to a person eligible for a refund of tax under §§ 26-52-447 and 26-53-
+29 149.
+30 (b) A person holding a limited direct pay
+31 permit shall use the permit only to make purchases that include eligible
+32 purchases.
+33 (2)(A) A seller that receives a claim for exemption from a
+34 customer based on a limited direct pay permit shall not collect and remit
+35 gross receipts or compensating use taxes on purchases that include eligible
+36 purchases made by a person holding a limited direct pay permit.
+32 02/18/2025 12:26:07 PM JLL167
+
+HB1521
+1 (B) However, if a seller collects and remits gross
+2 receipts or compensating use taxes on eligible purchases from a person
+3 holding a limited direct pay permit, a refund may be obtained under § 26-18-
+4 507.
+5 (3) A person who has entered into a limited direct pay agreement
+6 under this section and makes purchases of property or services under the
+7 authority of that agreement without paying the gross receipts or compensating
+8 use taxes due on those purchases is responsible for remitting the proper
+9 amount of tax due to the secretary as required by law.
+10 (4)(A) A seller shall collect and remit gross receipts and
+11 compensating use taxes on purchases made by a person holding a limited direct
+12 pay permit that are not eligible purchases.
+13 (B) If a seller relies on the limited direct pay permit
+14 and fails to properly collect tax on sales other than eligible purchases, the
+15 limited direct pay permit holder shall remit the proper amount of tax to the
+16 state as required under subdivision (a)(3) of this section.
+17 (5) This section does not eliminate the requirement that a
+18 consumer or user self-assess and remit compensating use tax under §§ 26-53-
+19 123 — 26-53-125.
+20
+21 SECTION 19. Arkansas Code § 26-53-149 is repealed.
+22 26-53-149. Partial replacement and repair of certain machinery and
+23 equipment — Definitions.
+24 (a) The taxes levied under §§ 26-53-106 and 26-53-107 on the privilege
+25 of storing, using, distributing, or consuming the following within this state
+26 are subject to a refund or exemption as provided in this section:
+27 (1) Machinery and equipment purchased to modify, replace,
+28 repair, or maintain, either in whole or in part, existing machinery or
+29 equipment used directly in producing, manufacturing, fabricating, assembling,
+30 processing, finishing, or packaging articles of commerce at a manufacturing
+31 or processing plant or facility in this state;
+32 (2) Service relating to the initial installation, alteration,
+33 addition, cleaning, refinishing, replacement, or repair of machinery or
+34 equipment described in subdivision (a)(1) of this section;
+35 (3) Machinery and equipment purchased to modify, replace, or
+36 repair, either in whole or in part, existing molds and dies used directly in
+33 02/18/2025 12:26:07 PM JLL167
+
+HB1521
+1 producing, manufacturing, fabricating, assembling, processing, finishing, or
+2 packaging articles of commerce at a manufacturing or processing plant or
+3 facility in this state; and
+4 (4)(A) Except as provided in subdivision (a)(4)(B) of this
+5 section, machinery and equipment purchased for use or possible use by a
+6 taxpayer for a purpose described in subdivisions (a)(1)-(3) of this section
+7 and placed in inventory for later use by the taxpayer for a purpose described
+8 in subdivisions (a)(1)-(3) of this section.
+9 (B)(i) As used in this subdivision (a)(4)(B), “withdrawal
+10 from inventory” means the withdrawal or use of machinery or equipment held
+11 under subdivision (a)(4)(A) of this section by a taxpayer for a purpose that
+12 does not qualify for an exemption under this section or any other applicable
+13 exemption at the time of the withdrawal from inventory.
+14 (ii) A withdrawal from inventory is not eligible for
+15 the exemption provided under this section.
+16 (iii) For purposes of calculating the compensating
+17 use tax under subdivision (a)(4)(B)(iv) of this section, the gross receipts
+18 or gross proceeds for a withdrawal from inventory is the purchase price of
+19 the machinery or equipment withdrawn.
+20 (iv) Tax is due on a withdrawal from inventory at
+21 the time the withdrawal from inventory occurs.
+22 (b)(1) Beginning July 1, 2014, the taxes levied under §§ 26-53-106 and
+23 26-53-107 that are subject to a refund under this section are the taxes in
+24 excess of four and seven-eighths percent (4.875%).
+25 (2) The taxes levied under §§ 26-53-106 and 26-53-107 that are
+26 subject to a refund under this section are the taxes in excess of the
+27 following rates:
+28 (A) Beginning July 1, 2018, three and seven-eighths
+29 percent (3.875%);
+30 (B) Beginning July 1, 2019, two and seven-eighths percent
+31 (2.875%);
+32 (C) Beginning July 1, 2020, one and seven-eighths percent
+33 (1.875%); and
+34 (D) Beginning July 1, 2021, seven-eighths percent
+35 (0.875%).
+36 (3) Beginning July 1, 2022, purchases qualifying for the tax
+34 02/18/2025 12:26:07 PM JLL167
+
+HB1521
+1 refund under this section are exempt from the taxes levied under this
+2 chapter.
+3 (c) The excise tax of one-eighth of one percent (0.125%) levied in
+4 Arkansas Constitution, Amendment 75, the temporary excise tax of one-half
+5 percent (0.5%) levied in Arkansas Constitution, Amendment 91, and the excise
+6 tax of one-half percent (0.5%) levied in Arkansas Constitution, Amendment
+7 101, are not subject to refund under this section.
+8 (d) As used in this section:
+9 (1) “Manufacturing” or “processing” means the same as defined
+10 under § 26-53-114(b) and includes activities described in subsection (a) of
+11 this section, both independently and collectively; and
+12 (2) “Used directly” means the same as defined under § 26-53-
+13 114(c).
+14 (e) All existing excise tax exemptions, including without limitation
+15 exemptions under §§ 26-52-402 and 26-53-114, remain in full force and effect
+16 and are not limited by this section.
+17 (f) A taxpayer may claim the benefit of the tax refund under this
+18 section only by using one (1) of the following methods:
+19 (1)(A) Both:
+20 (i) Obtaining a direct pay or a limited direct pay
+21 sales and use tax permit from the Department of Finance and Administration;
+22 and
+23 (ii) Self-refunding:
+24 (a) At the time the taxpayer files his or her
+25 original sales and use tax report; or
+26 (b) By later filing an amended sales or use
+27 tax report with the department.
+28 (B) The statutes of limitation stated in § 26-18-306 apply
+29 to claims made under this subdivision (f)(1).
+30 (C) Interest shall not accrue or be paid on a refund
+31 claimed under this subdivision (f)(1); or
+32 (2)(A) Beginning July 1, 2018, for a taxpayer that does not hold
+33 a direct pay or limited direct pay permit, holds an active Arkansas sales and
+34 use tax permit, and files sales and use tax reports with the department,
+35 filing a claim for the credit or rebate with the department.
+36 (B)(i) The credit or rebate authorized under this
+35 02/18/2025 12:26:07 PM JLL167
+
+HB1521
+1 subdivision (f)(2) shall be obtained only by offsetting the amount of the
+2 claimed credit or rebate against the state tax to be remitted with the
+3 taxpayer's sales and use tax reports.
+4 (ii) If the total amount of the credit or rebate
+5 authorized under this subdivision (f)(2) is greater than the amount of the
+6 state tax to be remitted with the taxpayer's sales and use tax reports, the
+7 taxpayer is entitled to a refund of the difference between the amount of the
+8 tax owed and the amount of the credit or rebate authorized under this
+9 subdivision (f)(2).
+10 (C) A taxpayer claiming a credit or rebate under this
+11 subdivision (f)(2) shall electronically file all sales and use tax reports.
+12 (D) A claim for credit or rebate under this subdivision
+13 (f)(2) shall not be paid for a claim filed more than one (1) year following
+14 the date of the qualifying purchase or more than one (1) year following the
+15 date of payment, whichever is later.
+16 (E) Interest shall not accrue or be paid on an amount
+17 subject to a claim for a credit or rebate under this subdivision (f)(2).
+18 (g) A claim for a credit or rebate shall not be paid under subdivision
+19 (f)(2) of this section for a purchase made before July 1, 2018.
+20 (h) A taxpayer shall not claim the benefit of the refund under this
+21 section by filing a verified claim for refund with the department.
+22 (i) The following provisions of the Arkansas Tax Procedure Act, § 26-
+23 18-101 et seq., apply to claims for a refund under this section:
+24 (1) The time limitations that apply to claims for a refund of an
+25 overpayment of state tax; and
+26 (2) The procedures that apply to the disallowance or proposed
+27 disallowance of claims for a refund.
+28
+29 SECTION 20. EFFECTIVE DATE. Sections 1–19 of this act are effective
+30 on and after October 1, 2025.
+31
+32
+33
+34
+35
+36
+36 02/18/2025 12:26:07 PM JLL167
+
+[DELETED:       A C I C A R O M P R E T O P  T U  B   S t a  ( o n]
+[DELETED: H2 0 p   ( p p  ( p a f p    ( A t6% p t T p f   ( a p p t   ( s w e  ( o t   ( s t p   ( i (]
+[DELETED: H3 0 y   ( s f t   S  1  F f u c t w   1  I a n t A e   1  ( D   ( t a g e   ( E i    ( i]
+[DELETED: H4 0    ( a    ( g    ( c a l a    ( D C d e a   ( c u  ( D c E a   1  ( 1 A a a  ( d s t  ( c]
+[DELETED: H5 0 r   1  A C u s b   1 i  ( c   (   ( t  ( i a i t b c p   ( p a p i l   S r S   1]
+[DELETED: H6 0  T R   1  T   ( r   ( r t   ( o e p i   1  A   ( r   ( C   ( o F   (   (   (   (   ( t   ( S   ( c a]
+[DELETED: H7 0 C   ( a   ( c   1  G E i d u   1  ( A k D  ( p D t  ( c f   ( c p   1  ( i c T  (   (]
+[DELETED: H8 0 o   ( s i   ( ( a s y p e   1 C  T p i s   ( s   ( f   ( e p a   ( A p   S t  ( w a t]
+[DELETED: H9 0 D b § a m   ( o y f   S t   ( m a b    ( t    ( h h   ( m i     ( c i t     ( c i t     ( c i m]
+[DELETED: H1 0     ( c i    ( t   ( m a   ( a    (    (   ( a u    ( h h o t    ( h a m s    ( h w o l   ( f e t   ( b]
+[DELETED: H1 0 c o   S t  ( r c a b    (     ( s     ( r    ( q i     ( t     ( t     ( t     ( t   ( r t F o h t     ( f l]
+[DELETED: H1 0    (     (     ( p p t   ( b p    ( s t   ( s t   ( s o 2     ( u      ( i p p      ( i p    ( § i  ( l d    ( A]
+[DELETED: H1 0 a     ( ( d i a (    ( i   ( s s e c    (     ( s     ( r   ( p   ( r t F o h t     ( o b    (     (     ( p p]
+[DELETED: H1 0 t   ( b p    ( s t   ( s t   ( t f f s i   ( t f y s   S D I  ( e p p   (    ( t t t    ( e]
+[DELETED: H1 0    ( n a   S d r   ( s s   S d a  ( t y s   ( a   ( c t   ( a c t    ( t i     ( s   ( u 2  (]
+[DELETED: H1 0 d a b s i    (    ( o D b D D p   ( e d t   ( s s   ( t A    ( f o  ( o a F c h d D   S]
+[DELETED: H1 0  1  ( t E   ( m b w   ( b  ( t   ( C 1   ( t t    ( t n a d   ( t   ( h t  ( p e t   ( e    ( t]
+[DELETED: H1 0 J a    ( t a  ( b f   ( n e    ( s b    ( n  ( t 1   S a A  ( a A o   ( q  ( c    ( t    ( r   (]
+[DELETED: H1 0 a t p   S  1  ( i  ( n 2   ( c a o q    ( 2     ( a     (      ( 1      ( u    ( 2     ( a     (      ( 1      ( u    ( 2]
+[DELETED: H2 0     ( a     (      ( u      ( a    ( 2     ( a     (      ( 1      ( a    ( a     (      ( 1      ( u     (      ( u      ( a   ( n 2   ( n   ( n 2]
+[DELETED: H2 0   ( s 1  ( u   (   (   (   ( a   ( 1   S r S   1 p  ( 2 ( 1 §   ( a a   ( ( p r  ( i t  ( a]
+[DELETED: H2 0 i E  ( i t F   ( r s   ( t m t   ( b p   ( t   (  ( m m a f  ( s a s  ( m r  ( i  ( m 2]
+[DELETED: H2 0   ( a J   S  1  ( A k D  ( p D i  ( c f   ( c p   S r S   2  A   ( y r   (    ( w r    ( m]
+[DELETED: H2 0 u l    ( q e t i   ( u p D   ( m    ( m a    ( p   ( q H b t E t c   (    ( v A    ( v t    (   ( a]
+[DELETED: H2 0 f t A   ( b j C   ( u f p   ( a m f   2  ( c t q p    (    (    ( e   (    ( o    ( (    ( ( i o  (]
+[DELETED: H2 0 i ( r  ( c p e   ( ( a    ( a t T l    ( t 2   2  ( s o r  ( r c c t w t t c  ( e i]
+[DELETED: H2 0   2  ( p b d   ( i    ( m    ( e    ( m i p    ( p p u   ( w t    ( m l    ( i t  ( s t q  ( t h]
+[DELETED: H2 0 D   2  T C D o C s   2  ( s A d  ( s   (   ( d  ( s c  ( a  ( e a c   S i d e     ( 1]
+[DELETED: H2 0 r   S  2 e  ( r r   ( r e p o   ( a e   ( r p p f   ( s t a i    ( f u d e     ( t     ( t g]
+[DELETED: H3 0 m     ( t  ( 2 e   ( s f    ( p    ( (    ( (    ( (   ( u  ( A p t 1  (   ( u t   ( 4  ( e a  ( s   (]
+[DELETED: H3 0     ( s a     (      ( o      ( t    ( t    ( c   ( a u f    ( s c t     ( a s t t s    ( s    ( ( t o    ( s  ( (]
+[DELETED: H3 0  ( s  ( 1   ( o   ( d   S p  ( b    ( t F t    ( o p     ( c t      ( p 5     ( o 1      ( p p   ( c g p]
+[DELETED: H3 0    ( r h 5   ( u a u a   ( c p    ( a l s   ( c 1   S  2 e  ( o a   ( r e p o   ( a e   ( r]
+[DELETED: H3 0 p p f   ( s t a i    ( f u d e     ( t     ( u o t     ( t  ( 2 e   ( s f    ( p    ( (    ( (    ( (   (]
+[DELETED: H3 0 r c  ( A p t 1  (   ( u t   ( 1  ( e a  ( s   (     ( s a     (      ( o      ( t    ( t    ( c   ( a u f    (]
+[DELETED: H3 0 s c t     ( a s t t s    ( s    ( ( t d    ( s  ( (  ( s  ( 1   ( o   ( d   S o]

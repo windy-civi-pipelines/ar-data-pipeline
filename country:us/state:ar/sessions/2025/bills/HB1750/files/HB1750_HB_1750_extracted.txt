@@ -1,0 +1,1128 @@
+Title: Stricken language would be deleted from and underlined language would be added to present law.
+Official Title: Stricken language would be deleted from and underlined language would be added to present law.
+Number of Sections: 1
+Source: versions - HB 1750
+Media Type: application/pdf
+Strikethrough Detection: 14 sections found
+
+================================================================================
+
+Section 1:
+1 State of Arkansas As Engrossed: H3/17/25
+A Bill
+2 95th General Assembly
+3 Regular Session, 2025 HOUSE BILL 1750
+4
+5 By: Representative Cavenaugh
+6 By: Senator Crowell
+7
+8
+For An Act To Be Entitled
+9 AN ACT TO AMEND THE LAW CONCERNING THE CORPORATE
+10 FRANCHISE TAX; TO REPEAL THE ARKANSAS CORPORATE
+11 FRANCHISE TAX ACT OF 1979; TO MAKE CONFORMING
+12 CHANGES; AND FOR OTHER PURPOSES.
+13
+14
+15
+Subtitle
+16 TO REPEAL THE ARKANSAS CORPORATE
+17 FRANCHISE TAX ACT OF 1979; AND TO MAKE
+18 CONFORMING CHANGES.
+19
+20 BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF ARKANSAS:
+21
+22 SECTION 1. DO NOT CODIFY. Legislative findings.
+23 The General Assembly finds that:
+24 (1) The corporate franchise tax is a form of corporate taxation
+25 on capital stock rather than revenue or profit and is levied regardless of
+26 whether a business makes a profit, which makes the corporate franchise tax
+27 burdensome on new businesses, low-profit-margin businesses, and businesses
+28 suffering economic or industry downturn; and
+29 (2) Arkansas is in the minority with only sixteen (16) states
+30 imposing a similar type of franchise tax.
+31
+32 SECTION 2. Arkansas Code § 4-27-128(b)(4), concerning the certificate
+33 of existence for a domestic corporation, is repealed.
+34 (4) that its most recent annual franchise tax report required by
+35 § 4-27-1622 has been delivered to the Secretary of State;
+36
+*JLL219*
+03-17-2025 11:42:27 JLL219
+As Engrossed: H3/17/25 HB1750
+1 SECTION 3. Arkansas Code § 4-27-1601(e)(7), concerning corporate
+2 records, is repealed.
+3 (7) its most recent annual franchise tax report delivered to the
+4 Secretary of State under § 4-27-1622.
+5
+6 SECTION 4. Arkansas Code § 4-27-1622 is repealed.
+7 4-27-1622. Annual franchise tax report for Secretary of State.
+8 (a) Each domestic corporation, and each foreign corporation authorized
+9 to transact business in this state, shall deliver to the Secretary of State
+10 for filing an annual franchise tax report that sets forth:
+11 (1) the name of the corporation;
+12 (2) the jurisdiction under which the corporation is
+13 incorporated;
+14 (3) the information required by § 4-20-105(a);
+15 (4) the address of its principal office, as defined in § 4-27-
+16 140, wherever it is located;
+17 (5) the names of its principal officers;
+18 (6) the total number of authorized shares, itemized by class and
+19 series, if any, within each class;
+20 (7) the total number of issued and outstanding shares, itemized
+21 by class and series, if any, within each class; and
+22 (8) such other information as the Secretary of State may specify
+23 in a form promulgated under § 4-27-121(a).
+24 (b) The requirements as to the applicability, use, and filing of the
+25 annual franchise tax report shall be as set forth in the Arkansas Corporate
+26 Franchise Tax Act of 1979, § 26-54-101 et seq.
+27
+28 SECTION 5. Arkansas Code § 4-36-401(a)(1), concerning the annual
+29 reports due under the Arkansas Benefit Corporation Act, is amended to read as
+30 follows:
+31 (a)(1) A benefit corporation shall prepare an annual benefit report
+32 and an annual franchise tax report under § 26-54-104.
+33
+34 SECTION 6. Arkansas Code § 4-36-401(b), concerning the annual reports
+35 due under the Arkansas Benefit Corporation Act, is amended to read as
+36 follows:
+2 03-17-2025 11:42:27 JLL219
+As Engrossed: H3/17/25 HB1750
+1 (b) A benefit corporation shall send a benefit report to each
+2 shareholder annually:
+3 (1) Before the stated due date of an annual franchise tax under
+4 § 26-54-104 May 1; or
+5 (2) When the benefit corporation delivers an annual financial
+6 report to its shareholders.
+7
+8 SECTION 7. Arkansas Code § 4-37-205(a), concerning the certificate of
+9 good standing for a protected series under the Uniform Protected Series Act,
+10 is amended to read as follows:
+11 (a) On request of any person, the Secretary of State shall issue a
+12 certificate of good standing for a protected series of a series limited
+13 liability company or a certificate of registration for a foreign protected
+14 series if:
+15 (1) in the case of a protected series:,
+16 (A) no statement of dissolution, termination, or
+17 relocation pertaining to the protected series has been filed; and
+18 (B) the company has delivered to the Secretary of State
+19 for filing the most recent annual report required by § 26-54-105 and the
+20 report includes the name of the protected series, unless:
+21 (i) when the company delivered the report for
+22 filing, the protected series designation pertaining to the protected series
+23 had not yet taken effect; or
+24 (ii) after the company delivered the report for
+25 filing, the company delivered to the Secretary of State for filing a
+26 statement of designation change changing the name of the protected series; or
+27 (2) in the case of a foreign protected series, it is registered
+28 to do business in this state.
+29
+30 SECTION 8. Arkansas Code § 4-37-206 is repealed.
+31 4-37-206. Information required in annual report — Effect of failure to
+32 provide.
+33 (a) In the annual report required by § 26-54-105, a series limited
+34 liability company shall include the name of each protected series of the
+35 company:
+36 (1) for which the company has previously delivered to the
+3 03-17-2025 11:42:27 JLL219
+As Engrossed: H3/17/25 HB1750
+1 Secretary of State for filing a protected series designation; and
+2 (2) which has not dissolved and completed winding up.
+3 (b) A failure by a series limited liability company to comply with
+4 subsection (a) with regard to a protected series prevents issuance of a
+5 certificate of good standing pertaining to the protected series but does not
+6 otherwise affect the protected series.
+7
+8 SECTION 9. Arkansas Code § 4-38-212(f), concerning a limited liability
+9 company's annual report for the Secretary of State, is repealed.
+10 (f) A limited liability company has satisfied the annual report
+11 requirements under this section if the requirements under the Arkansas
+12 Corporate Franchise Tax Act of 1979, § 26-54-101 et seq., have been met.
+13
+14 SECTION 10. Arkansas Code § 19-5-1227(b), concerning the Educational
+15 Adequacy Fund, is amended to read as follows:
+16 (b) After the Treasurer of State has made deductions from the revenues
+17 under § 19-5-203(b)(2)(A), the Educational Adequacy Fund shall consist of:
+18 (1) All net revenues collected due to enactments of the Eighty-
+19 Fourth General Assembly meeting in Second Extraordinary Session, unless a
+20 different distribution of those additional net revenues is otherwise provided
+21 in the act creating those additional net revenues;
+22 (2) The revenues credited to the Educational Adequacy Fund under
+23 § 26-54-113(b)(2);
+24 (3) The revenues generated by § 26-52-302(d), § 26-52-316, § 26-
+25 52-317(c)(1)(C), § 26-52-319(a)(2)(C), § 26-53-107(d), § 26-53-145(c)(1)(C),
+26 § 26-53-148(a)(2)(C), § 26-56-224(c)(3), and § 26-57-1002(d)(1)(A)(ii); and
+27 (4)(3) Other revenues as provided by law.
+28
+29 SECTION 11. Arkansas Code § 19-6-201(3), concerning the enumeration of
+30 general revenues, is repealed.
+31 (3) Corporation franchise taxes, as enacted by Acts 1979,
+32 No. 889, known as the “Arkansas Corporate Franchise Tax Act of 1979”, and all
+33 laws amendatory thereto, § 26-54-101 et seq.;
+34
+35 SECTION 12. Arkansas Code Title 26, Chapter 54, is repealed.
+36 Chapter 54 — Arkansas Corporate Franchise Tax Act of 1979
+4 03-17-2025 11:42:27 JLL219
+As Engrossed: H3/17/25 HB1750
+1
+2 26-54-101. Title.
+3 This chapter shall be known and may be cited as the “Arkansas Corporate
+4 Franchise Tax Act of 1979”.
+5
+6 26-54-102. Definition.
+7 (a) As used in this chapter, “corporation” means any corporation or
+8 limited liability company, domestic and foreign, active and inactive, which
+9 is organized in or qualified under the laws of the State of Arkansas and
+10 includes, but is not limited to, any person or group of persons, any
+11 association, joint-stock company, business trust, or other organizations with
+12 or without charter constituting a separate legal entity of relationship with
+13 the purpose of obtaining some corporate privilege or franchise which is not
+14 allowed to them as individuals and which is exercising, or attempting to
+15 exercise, corporate-type acts, whether or not existing by virtue of a
+16 particular statute.
+17 (b) However, “corporation” does not include:
+18 (1) Nonprofit corporations;
+19 (2) Corporations which are organizations exempt from the federal
+20 income tax; or
+21 (3) Organizations formed under or governed by the Uniform
+22 Partnership Act (1996), § 4-46-101 et seq., or the Uniform Limited
+23 Partnership Act (2001), § 4-47-101 et seq.
+24
+25 26-54-103. Effect upon prior rights, etc.
+26 This chapter does not affect rights or duties that matured, liabilities
+27 or penalties that were incurred, or proceedings begun before January 1, 1980.
+28
+29 26-54-104. Annual franchise tax.
+30 (a) Unless exempted under § 26-54-105, every corporation shall file an
+31 annual franchise tax report and pay an annual franchise tax as follows:
+32 (1)(A) Each life, fire, accident, surety, liability, steam
+33 boiler, tornado, health, or other kind of insurance company of whatever
+34 nature, having an outstanding capital stock of less than five hundred
+35 thousand dollars ($500,000) shall pay three hundred dollars ($300).
+36 (B) Each company having an outstanding capital stock of
+5 03-17-2025 11:42:27 JLL219
+As Engrossed: H3/17/25 HB1750
+1 five hundred thousand dollars ($500,000) or more shall pay four hundred
+2 dollars ($400);
+3 (2)(A) Each legal reserve mutual insurance corporation having
+4 assets of less than one hundred million dollars ($100,000,000) shall pay
+5 three hundred dollars ($300).
+6 (B) Each corporation having assets of one hundred million
+7 dollars ($100,000,000) or more shall pay four hundred dollars ($400);
+8 (3) Each mutual assessment insurance corporation shall pay three
+9 hundred dollars ($300);
+10 (4)(A) Each mortgage loan corporation shall pay an amount
+11 equivalent to three-tenths of one percent (0.3%) of that proportion of the
+12 par value of its outstanding capital stock that its aggregate outstanding
+13 loans made in Arkansas bears to the total aggregate outstanding loans made in
+14 all states.
+15 (B) No corporation shall pay an annual tax of less than
+16 three hundred dollars ($300);
+17 (5) Each corporation, other than those in subdivisions (2)-(4)
+18 of this section, without authorized capital stock shall pay three hundred
+19 dollars ($300);
+20 (6)(A) Each corporation, other than those in subdivisions (1)-
+21 (5) of this section, shall pay an amount equivalent to three-tenths of one
+22 percent (0.3%) of that proportion of the par value of its outstanding capital
+23 stock that the value of its real and personal property in Arkansas bears to
+24 the total value of the real and personal property of the corporation.
+25 (B) No corporation shall pay an annual tax of less than
+26 one hundred fifty dollars ($150);
+27 (7) Each corporation actually and actively in the process of
+28 liquidation and which does not rent or lease its property but which retains
+29 its corporate charter or authority for the sole purpose of winding up its
+30 affairs shall pay an annual tax as provided in subdivision (6) of this
+31 section or an amount equivalent to three-tenths of one percent (0.3%) of the
+32 value of its real and tangible personal property in Arkansas, whichever is
+33 smaller, but in no instance shall the tax be less than one hundred fifty
+34 dollars ($150); and
+35 (8) An organization formed pursuant to the Uniform Limited
+36 Liability Company Act, § 4-38-101 et seq., shall pay the minimum franchise
+6 03-17-2025 11:42:27 JLL219
+As Engrossed: H3/17/25 HB1750
+1 tax.
+2 (b)(1) In addition to the filing fees prescribed by law, the Secretary
+3 of State shall collect a processing fee for each document required under this
+4 chapter when delivered by electronic means.
+5 (2) The processing fee collected by the Secretary of State under
+6 subdivision (b)(1) of this section shall be:
+7 (A) Four dollars ($4.00) when the filing fee is fifty
+8 dollars ($50.00) or less;
+9 (B) Five dollars ($5.00) when the filing fee is between
+10 fifty-one dollars ($51.00) and one hundred sixty-seven dollars ($167); and
+11 (C) Three percent (3%) of the total amount of the filing
+12 fee if the filing fee is more than one hundred sixty-seven dollars ($167).
+13
+14 26-54-105. Franchise tax reports.
+15 (a)(1) The Secretary of State shall furnish notice to each corporation
+16 subject to this chapter by mailing or emailing the notice to the
+17 corporation's current agent for service or other person identified by the
+18 corporation.
+19 (2) When filing the franchise tax report, a corporation may
+20 state who is to receive a franchise tax form the following year if that
+21 person is different from the agent for service on file for the corporation at
+22 that time.
+23 (b) A corporation that fails to receive the notice under subdivision
+24 (a)(1) of this section by March 20 of the reporting year shall make written
+25 request for the notice to the Secretary of State on or before March 31.
+26 (c)(1) Each corporation subject to the requirements of this chapter
+27 shall file a franchise tax report with the Secretary of State that shows the
+28 condition and status of the corporation as of the close of business on the
+29 last day of the corporation's preceding calendar year and other information
+30 required by the Secretary of State.
+31 (2)(A) The franchise tax as computed on the report shall be
+32 remitted with the franchise tax report.
+33 (B) The franchise tax as computed on the report shall be
+34 remitted with the franchise tax report on or before May 1 of the reporting
+35 year for franchise tax due.
+36 (d)(1) Every corporation that dissolves shall be required to pay at
+7 03-17-2025 11:42:27 JLL219
+As Engrossed: H3/17/25 HB1750
+1 the time of dissolution the franchise tax for the prior calendar year and pay
+2 at the time of dissolution the minimum franchise tax for the year in which
+3 dissolved or withdrawn.
+4 (2) Any newly formed corporation shall not be required to file a
+5 franchise tax report until the calendar year immediately following the
+6 calendar year of incorporation.
+7 (e)(1) When the par value of the shares of a corporation is required
+8 to be stated in any franchise tax report and the shares of the corporation
+9 are without par value, the number of shares shall be stated.
+10 (2) For the purpose of computing the franchise tax prescribed by
+11 this chapter, shares of no par value shall be considered to be of the par
+12 value of twenty-five dollars ($25.00) per share.
+13 (f) Each corporation which pays its tax computed by the full
+14 assessment of capital stock or property shall not be required to report the
+15 value of its real and personal property within or without this state.
+16 (g)(1) Every franchise tax report shall contain the following
+17 statement:
+18 “I declare, under the penalties of perjury, that the foregoing
+19 statements are true to the best of my knowledge and belief.”
+20 (2) The statement shall be signed by the president, vice
+21 president, secretary, treasurer, or controller of the corporation or any
+22 other authorized person individual as determined by the Secretary of State.
+23 (h)(1) Only the following information contained in a franchise tax
+24 report shall be available for public inspection:
+25 (A) The name and address of the corporation;
+26 (B) The name of the corporation's president, vice
+27 president, secretary, treasurer, and controller;
+28 (C) The total authorized capital stock with par value;
+29 (D) The total issued and outstanding capital stock with
+30 par value; and
+31 (E) The state of incorporation.
+32 (2) In the case of a franchise tax report filed by an
+33 organization formed under the Uniform Limited Liability Company Act, § 4-38-
+34 101 et seq., the names of members, except those designated in the
+35 organizations' franchise tax report as a manager, president, vice president,
+36 secretary, treasurer, or controller of the organization, shall be
+8 03-17-2025 11:42:27 JLL219
+As Engrossed: H3/17/25 HB1750
+1 confidential and not available for public inspection unless the organization
+2 has no registered agent for service of process.
+3
+4 26-54-107. Computation of tax — Penalty — Relief.
+5 (a) Using the information reported on the franchise tax report under §
+6 26-54-105 and any other information received by him or her bearing upon the
+7 subject, the Secretary of State shall compute the amount of tax of each
+8 corporation at the rate or rates provided by this chapter.
+9 (b)(1)(A) If the taxpayer fails to comply with the filing and
+10 remittance requirements under § 26-54-105(c), the Secretary of State shall
+11 assess the corporation a penalty of twenty-five dollars ($25.00) plus
+12 interest on the tax and penalty from the date due until paid at the rate of
+13 ten percent (10%) per year.
+14 (B) However, the franchise tax, penalty, and interest for
+15 any tax year shall not exceed two (2) times the corporation's tax owed.
+16 (2) On or before November 1 of each year, the Secretary of State
+17 shall mail notice to the corporation at its last known address stating that
+18 the corporation is subject to revocation of its corporate charter under § 26-
+19 54-111 for the failure to pay corporate franchise tax.
+20 (c) The Secretary of State or his or her designee may agree to settle
+21 or compromise a dispute concerning interest or penalties associated with
+22 corporate franchise taxes if the taxpayer:
+23 (1) Disputes the proposed amount; or
+24 (2) Is insolvent or bankrupt.
+25 (d)(1) The Secretary of State may waive any accrued interest or
+26 assessed penalties imposed on a taxpayer due to a failure to remit corporate
+27 franchise taxes under § 26-54-105(c), if:
+28 (A) The taxpayer is reasonably mistaken about the
+29 application of this chapter or the computation of the franchise tax to the
+30 corporation; or
+31 (B) A taxpayer cannot pay the accrued interest or assessed
+32 penalties because of the taxpayer's insolvency or bankruptcy.
+33 (2) The Secretary of State may waive any fees that a taxpayer
+34 owes if the taxpayer desires to dissolve the corporation.
+35 (3) If a taxpayer demonstrates that a corporation was not doing
+36 business in the state for the period for which penalties and interest are
+9 03-17-2025 11:42:27 JLL219
+As Engrossed: H3/17/25 HB1750
+1 owed under this section, the Secretary of State shall waive the amount due
+2 under this section if the taxpayer demonstrates that the taxpayer intends to
+3 dissolve the corporation.
+4 (e) If the parties cannot resolve the dispute, the parties may pursue
+5 any other remedy available to them, including without limitation remedies
+6 available under the Arkansas Administrative Procedure Act, § 25-15-201 et
+7 seq.
+8 (f) The Secretary of State shall develop guidelines to assist a
+9 taxpayer in resolving a corporate franchise tax dispute.
+10
+11 26-54-108. Taxes and penalties as lien.
+12 The taxes and penalties required to be paid by this chapter shall be a
+13 first lien on all property of the corporation, whether or not the property is
+14 employed by the corporation in the prosecution of its business or is in the
+15 hands of an assignee, receiver, or trustee.
+16
+17 26-54-109. Lists of corporations to be prepared.
+18 (a)(1) The Bank Commissioner, Insurance Commissioner, and any other
+19 officer or agency of the state authorized to issue corporate permits or
+20 authorities to do business in this state shall prepare and maintain a correct
+21 list of all corporations organizing or qualifying through their respective
+22 offices or agencies.
+23 (2) Each official or agency shall file with the Secretary of
+24 State a monthly report showing:
+25 (A) The name and address of each new corporation organized
+26 or qualified;
+27 (B) The authorized and outstanding capital stock;
+28 (C) The name changes, mergers, charter forfeitures, or
+29 withdrawals;
+30 (D) The name and address of each corporation that has
+31 provided official notification regarding the dissolution of the corporation;
+32 and
+33 (E) All other information concerning the corporation
+34 required by the Secretary of State.
+35 (b) Upon request of the Secretary of State, each official or agency
+36 shall prepare and certify to the Secretary of State a complete list of the
+10 03-17-2025 11:42:27 JLL219
+As Engrossed: H3/17/25 HB1750
+1 names and addresses of all corporations that have organized or qualified
+2 through their respective office or agency and that are subject to the
+3 provisions of this chapter.
+4 (c) Officials or agencies of the state, county, or municipalities
+5 authorized to issue permits shall notify each corporation receiving a permit
+6 of the requirements to register the corporation with the Secretary of State
+7 before conducting business in Arkansas.
+8 (d)(1) A corporation filing instruments providing for the organization
+9 of any common law or statutory trust or similar organization with any county
+10 clerk, or other clerk of the various counties of this state, shall file them
+11 in duplicate.
+12 (2) The clerk receiving the documents for filing or recordation
+13 shall file mark them and forward the file-marked duplicate to the Secretary
+14 of State.
+15 (e)(1) The Secretary of the Department of Finance and Administration
+16 shall provide the Secretary of State a list of corporations doing business in
+17 this state and filing tax reports with the Department of Finance and
+18 Administration.
+19 (2) However, the Secretary of the Department of Finance and
+20 Administration shall not include any information deemed confidential by any
+21 other law.
+22
+23 26-54-110. Dissolution or withdrawal by corporations.
+24 Applications for dissolution or withdrawal by a corporation,
+25 association, or organization cannot be accepted by the authority that
+26 initially authorized or granted an authority to the corporation to do
+27 business in Arkansas until receipt of a statement verified by the Secretary
+28 of State that the franchise tax due has been paid.
+29
+30 26-54-111. Charter revocation for failure to pay tax — Procedure.
+31 (a) On or before January 31 of each year, the Secretary of State shall
+32 proclaim as revoked the corporate charters or authorities of all
+33 corporations, both domestic and foreign, that according to the Secretary of
+34 State's records are delinquent in the payment of the annual franchise tax for
+35 a prior year.
+36 (b)(1) A copy of the proclamation under subsection (a) of this
+11 03-17-2025 11:42:27 JLL219
+As Engrossed: H3/17/25 HB1750
+1 section, or applicable portion thereof, shall be furnished to each other
+2 official or agency of the state that is authorized to issue corporation
+3 charters or authorities.
+4 (2) Upon their receipt of the proclamation, the several
+5 officials shall at once correct their respective records in accordance with
+6 the proclamation.
+7
+8 26-54-112. Reinstatement of corporations.
+9 (a)(1)(A)(i) A corporation whose charter or permit authority to do
+10 business in the state has been declared revoked by proclamation of the
+11 Governor or the Secretary of State may be reinstated to all its rights,
+12 powers, and property.
+13 (ii) Reinstatement shall be retroactive to the time
+14 that the corporation's authority to do business in the state was declared
+15 revoked.
+16 (B) The reinstatement shall be made after the filing of
+17 all delinquent franchise tax reports satisfactory to the Secretary of State
+18 and the payment of all taxes and penalties due for each year of delinquency.
+19 (2) However, reinstatement is not allowed after five (5) years
+20 from the date the charter or permit authority to do business in the state if
+21 the corporation is declared:
+22 (A) Revoked by proclamation of the Governor or the
+23 Secretary of State; and
+24 (B) A forfeited charter.
+25 (b) If the Secretary of State issued the original corporate charter,
+26 permit, or authority, the Secretary of State shall reinstate the corporation
+27 upon payment by the corporation of all amounts due, as provided in subsection
+28 (a) of this section.
+29 (c)(1) If the original corporate charter, permit, or authority was
+30 issued by an official other than the Secretary of State, the official shall
+31 reinstate the corporation upon the corporation's filing with the official the
+32 receipt of the Secretary of State showing payment of all amounts due, as
+33 provided in subsection (a) of this section.
+34 (2) Thereafter, the corporation shall stand in all respects as
+35 though its name had never been declared revoked.
+36
+12 03-17-2025 11:42:27 JLL219
+As Engrossed: H3/17/25 HB1750
+1 26-54-113. Disposition of funds.
+2 (a) All taxes and penalties collected under the provisions of this
+3 chapter each month shall be deposited into the State Treasury to the credit
+4 of the Revenue Holding Fund Account of the State Apportionment Fund.
+5 (b)(1) On or before the fifth day of the following month, the
+6 Treasurer of State shall allocate and transfer the taxes and penalties
+7 collected to the General Revenue Fund Account of the State Apportionment Fund
+8 until a total of eight million dollars ($8,000,000) has been transferred
+9 during a fiscal year.
+10 (2) After the transfers required by subdivision (b)(1) of this
+11 section have been made, the taxes and penalties collected under this chapter
+12 during the remainder of the fiscal year shall be special revenues, and the
+13 Treasurer of State shall transfer the taxes and penalties collected to the
+14 Educational Adequacy Fund after making the deductions required by § 19-5-
+15 203(b)(2).
+16
+17 26-54-114. Nonpayment of franchise taxes — Definitions.
+18 (a) A corporation or limited liability company owing past-due
+19 franchise taxes to the Secretary of State may not:
+20 (1) File forms or documents related to that corporation or
+21 limited liability company;
+22 (2) Create a new legal entity in this state; or
+23 (3) Obtain authority to do business in this state.
+24 (b) A person or individual substantially connected to any corporation
+25 or limited liability company that owes past-due franchise taxes to the
+26 Secretary of State may not:
+27 (1) File forms or documents related to that corporation or
+28 limited liability company;
+29 (2) Create a new legal entity in this state; or
+30 (3) Obtain authority to do business in this state.
+31 (c) As used in this section:
+32 (1) “Past-due franchise taxes” means only those taxes owed three
+33 (3) years prior to the year in which the current filing is presented;
+34 (2) “Past officer or director” means a person or individual who
+35 was associated with the corporation or limited liability company at any time
+36 during its charter that the corporation or limited liability company was
+13 03-17-2025 11:42:27 JLL219
+As Engrossed: H3/17/25 HB1750
+1 responsible for nonpayment of franchise taxes; and
+2 (3) “Substantially connected” means a present officer, director,
+3 member, or manager or a past officer, director, member, or manager of a
+4 corporation.
+5 (d) An individual who is an incorporator or organizer of a corporation
+6 or limited liability company shall not be considered to be substantially
+7 connected to a corporation or limited liability company that owes past-due
+8 franchise taxes to the Secretary of State.
+9 (e) Each corporation, subject to this chapter, shall file with its
+10 original articles of incorporation or certificate of organization the name of
+11 at least one (1) individual who is substantially connected to the corporation
+12 and is responsible for payment of franchise taxes.
+13 (f) Any current or past officer or director that has been added to a
+14 corporation without his or her permission shall be removed as an officer or
+15 director of the corporation by the Secretary of State and not held
+16 responsible for past-due franchise taxes, if the officer or director submits:
+17 (1) A copy of a report filed with a local, state, or federal law
+18 enforcement entity that states the officer or director has been fraudulently
+19 added to the corporation; and
+20 (2) A statement, prescribed by the Secretary of State, signed by
+21 the officer or director, that states the officer or director was added to the
+22 corporation without his or her permission, with the following declaration:
+23 “I declare, under the penalties of perjury, that the foregoing
+24 statements are true to the best of my knowledge and belief.”
+25
+26 26-54-116. Powers of Secretary of State.
+27 The Secretary of State is authorized to perform any of the duties that
+28 are required of him or her under this chapter.
+29
+30 /s/Cavenaugh
+31
+32
+33
+34
+35
+36
+14 03-17-2025 11:42:27 JLL219
+[DELETED:  A  EBL1       A F F C   T F C  B   S  T   ( o w b s   ( i   S o   ( § ]
+[DELETED:  H2 0  S r   ( S   S  4  ( t f   (   ( i   (   ( 1   (   ( s   ( b   ( i  ( a F     S r f  ( a   S d f]
+[DELETED:  H3 0  ( s   ( §   ( r   S g i  ( c l s   (    ( r    ( f r     ( f h     ( f s   ( t   S  4 p  ( l c   (]
+[DELETED:  H4 0 S   (  ( s c o   S c  ( r C   S A  ( u   ( F d i   ( §   ( 5 §   (   S g    ( N l   S C]
+[DELETED:  H5 0   2  T F   2  ( l i i a o t a e p  (   (   ( i   ( P P   2  T o   2  ( a   ( b n t    (]
+[DELETED:  H6 0 f d   ( a t    ( d   ( h   ( e p l a    ( t   ( o d   ( ( p s t    ( o   ( l i a s v s d   ( L]
+[DELETED:  H7 0 t  ( o c   ( s    ( d    ( f    ( f   2  ( s c c   ( s p t  ( ( r  ( s c l r   ( r    ( r y  (]
+[DELETED:  H8 0 t a d   ( f c  ( t a   ( t v  ( a v  ( s   “ s   ( p o  ( r    (    ( p    (    ( p    (   ( o 1 o s]
+[DELETED:  H9 0 c h   2  ( 2 s c  ( r a i t    ( a   ( s t 5  ( o c   (   (  ( a f    ( a c    ( p   ( o   ( b]
+[DELETED:  H1 0 o u d  ( a a s  ( t   2  T f e h   2  ( o a l o   ( S    ( o    (    ( w    ( p a    ( r  ( s]
+[DELETED:  H1 0 n t p  ( a o b  ( o c i   ( s o  ( s t A   ( A o   2  A a i b o   2  ( p c S a  (]
+[DELETED:  H1 0 s o c   ( o t   2  ( b G p     ( t r    ( a a   ( f t    ( S    (  ( p u (  ( i r r p   ( t ]
+[DELETED:  H1 0  2  ( c o  ( T c u d   ( s d T E 2   2  ( f   ( l   (   (  ( o S   ( l   (   (  (   ( (   ( w d]
+[DELETED:  H1 0 r   ( m c  ( o c f  ( o a a  ( c d r   ( e a   ( t c   “ s   2  T a  /      ]
+
+
+================================================================================
+
+Raw Text:
+Stricken language would be deleted from and underlined language would be added to present law.
+1 State of Arkansas As Engrossed: H3/17/25
+A Bill
+2 95th General Assembly
+3 Regular Session, 2025 HOUSE BILL 1750
+4
+5 By: Representative Cavenaugh
+6 By: Senator Crowell
+7
+8
+For An Act To Be Entitled
+9 AN ACT TO AMEND THE LAW CONCERNING THE CORPORATE
+10 FRANCHISE TAX; TO REPEAL THE ARKANSAS CORPORATE
+11 FRANCHISE TAX ACT OF 1979; TO MAKE CONFORMING
+12 CHANGES; AND FOR OTHER PURPOSES.
+13
+14
+15
+Subtitle
+16 TO REPEAL THE ARKANSAS CORPORATE
+17 FRANCHISE TAX ACT OF 1979; AND TO MAKE
+18 CONFORMING CHANGES.
+19
+20 BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF ARKANSAS:
+21
+22 SECTION 1. DO NOT CODIFY. Legislative findings.
+23 The General Assembly finds that:
+24 (1) The corporate franchise tax is a form of corporate taxation
+25 on capital stock rather than revenue or profit and is levied regardless of
+26 whether a business makes a profit, which makes the corporate franchise tax
+27 burdensome on new businesses, low-profit-margin businesses, and businesses
+28 suffering economic or industry downturn; and
+29 (2) Arkansas is in the minority with only sixteen (16) states
+30 imposing a similar type of franchise tax.
+31
+32 SECTION 2. Arkansas Code § 4-27-128(b)(4), concerning the certificate
+33 of existence for a domestic corporation, is repealed.
+34 (4) that its most recent annual franchise tax report required by
+35 § 4-27-1622 has been delivered to the Secretary of State;
+36
+*JLL219*
+03-17-2025 11:42:27 JLL219
+
+As Engrossed: H3/17/25 HB1750
+1 SECTION 3. Arkansas Code § 4-27-1601(e)(7), concerning corporate
+2 records, is repealed.
+3 (7) its most recent annual franchise tax report delivered to the
+4 Secretary of State under § 4-27-1622.
+5
+6 SECTION 4. Arkansas Code § 4-27-1622 is repealed.
+7 4-27-1622. Annual franchise tax report for Secretary of State.
+8 (a) Each domestic corporation, and each foreign corporation authorized
+9 to transact business in this state, shall deliver to the Secretary of State
+10 for filing an annual franchise tax report that sets forth:
+11 (1) the name of the corporation;
+12 (2) the jurisdiction under which the corporation is
+13 incorporated;
+14 (3) the information required by § 4-20-105(a);
+15 (4) the address of its principal office, as defined in § 4-27-
+16 140, wherever it is located;
+17 (5) the names of its principal officers;
+18 (6) the total number of authorized shares, itemized by class and
+19 series, if any, within each class;
+20 (7) the total number of issued and outstanding shares, itemized
+21 by class and series, if any, within each class; and
+22 (8) such other information as the Secretary of State may specify
+23 in a form promulgated under § 4-27-121(a).
+24 (b) The requirements as to the applicability, use, and filing of the
+25 annual franchise tax report shall be as set forth in the Arkansas Corporate
+26 Franchise Tax Act of 1979, § 26-54-101 et seq.
+27
+28 SECTION 5. Arkansas Code § 4-36-401(a)(1), concerning the annual
+29 reports due under the Arkansas Benefit Corporation Act, is amended to read as
+30 follows:
+31 (a)(1) A benefit corporation shall prepare an annual benefit report
+32 and an annual franchise tax report under § 26-54-104.
+33
+34 SECTION 6. Arkansas Code § 4-36-401(b), concerning the annual reports
+35 due under the Arkansas Benefit Corporation Act, is amended to read as
+36 follows:
+2 03-17-2025 11:42:27 JLL219
+
+As Engrossed: H3/17/25 HB1750
+1 (b) A benefit corporation shall send a benefit report to each
+2 shareholder annually:
+3 (1) Before the stated due date of an annual franchise tax under
+4 § 26-54-104 May 1; or
+5 (2) When the benefit corporation delivers an annual financial
+6 report to its shareholders.
+7
+8 SECTION 7. Arkansas Code § 4-37-205(a), concerning the certificate of
+9 good standing for a protected series under the Uniform Protected Series Act,
+10 is amended to read as follows:
+11 (a) On request of any person, the Secretary of State shall issue a
+12 certificate of good standing for a protected series of a series limited
+13 liability company or a certificate of registration for a foreign protected
+14 series if:
+15 (1) in the case of a protected series:,
+16 (A) no statement of dissolution, termination, or
+17 relocation pertaining to the protected series has been filed; and
+18 (B) the company has delivered to the Secretary of State
+19 for filing the most recent annual report required by § 26-54-105 and the
+20 report includes the name of the protected series, unless:
+21 (i) when the company delivered the report for
+22 filing, the protected series designation pertaining to the protected series
+23 had not yet taken effect; or
+24 (ii) after the company delivered the report for
+25 filing, the company delivered to the Secretary of State for filing a
+26 statement of designation change changing the name of the protected series; or
+27 (2) in the case of a foreign protected series, it is registered
+28 to do business in this state.
+29
+30 SECTION 8. Arkansas Code § 4-37-206 is repealed.
+31 4-37-206. Information required in annual report — Effect of failure to
+32 provide.
+33 (a) In the annual report required by § 26-54-105, a series limited
+34 liability company shall include the name of each protected series of the
+35 company:
+36 (1) for which the company has previously delivered to the
+3 03-17-2025 11:42:27 JLL219
+
+As Engrossed: H3/17/25 HB1750
+1 Secretary of State for filing a protected series designation; and
+2 (2) which has not dissolved and completed winding up.
+3 (b) A failure by a series limited liability company to comply with
+4 subsection (a) with regard to a protected series prevents issuance of a
+5 certificate of good standing pertaining to the protected series but does not
+6 otherwise affect the protected series.
+7
+8 SECTION 9. Arkansas Code § 4-38-212(f), concerning a limited liability
+9 company's annual report for the Secretary of State, is repealed.
+10 (f) A limited liability company has satisfied the annual report
+11 requirements under this section if the requirements under the Arkansas
+12 Corporate Franchise Tax Act of 1979, § 26-54-101 et seq., have been met.
+13
+14 SECTION 10. Arkansas Code § 19-5-1227(b), concerning the Educational
+15 Adequacy Fund, is amended to read as follows:
+16 (b) After the Treasurer of State has made deductions from the revenues
+17 under § 19-5-203(b)(2)(A), the Educational Adequacy Fund shall consist of:
+18 (1) All net revenues collected due to enactments of the Eighty-
+19 Fourth General Assembly meeting in Second Extraordinary Session, unless a
+20 different distribution of those additional net revenues is otherwise provided
+21 in the act creating those additional net revenues;
+22 (2) The revenues credited to the Educational Adequacy Fund under
+23 § 26-54-113(b)(2);
+24 (3) The revenues generated by § 26-52-302(d), § 26-52-316, § 26-
+25 52-317(c)(1)(C), § 26-52-319(a)(2)(C), § 26-53-107(d), § 26-53-145(c)(1)(C),
+26 § 26-53-148(a)(2)(C), § 26-56-224(c)(3), and § 26-57-1002(d)(1)(A)(ii); and
+27 (4)(3) Other revenues as provided by law.
+28
+29 SECTION 11. Arkansas Code § 19-6-201(3), concerning the enumeration of
+30 general revenues, is repealed.
+31 (3) Corporation franchise taxes, as enacted by Acts 1979,
+32 No. 889, known as the “Arkansas Corporate Franchise Tax Act of 1979”, and all
+33 laws amendatory thereto, § 26-54-101 et seq.;
+34
+35 SECTION 12. Arkansas Code Title 26, Chapter 54, is repealed.
+36 Chapter 54 — Arkansas Corporate Franchise Tax Act of 1979
+4 03-17-2025 11:42:27 JLL219
+
+As Engrossed: H3/17/25 HB1750
+1
+2 26-54-101. Title.
+3 This chapter shall be known and may be cited as the “Arkansas Corporate
+4 Franchise Tax Act of 1979”.
+5
+6 26-54-102. Definition.
+7 (a) As used in this chapter, “corporation” means any corporation or
+8 limited liability company, domestic and foreign, active and inactive, which
+9 is organized in or qualified under the laws of the State of Arkansas and
+10 includes, but is not limited to, any person or group of persons, any
+11 association, joint-stock company, business trust, or other organizations with
+12 or without charter constituting a separate legal entity of relationship with
+13 the purpose of obtaining some corporate privilege or franchise which is not
+14 allowed to them as individuals and which is exercising, or attempting to
+15 exercise, corporate-type acts, whether or not existing by virtue of a
+16 particular statute.
+17 (b) However, “corporation” does not include:
+18 (1) Nonprofit corporations;
+19 (2) Corporations which are organizations exempt from the federal
+20 income tax; or
+21 (3) Organizations formed under or governed by the Uniform
+22 Partnership Act (1996), § 4-46-101 et seq., or the Uniform Limited
+23 Partnership Act (2001), § 4-47-101 et seq.
+24
+25 26-54-103. Effect upon prior rights, etc.
+26 This chapter does not affect rights or duties that matured, liabilities
+27 or penalties that were incurred, or proceedings begun before January 1, 1980.
+28
+29 26-54-104. Annual franchise tax.
+30 (a) Unless exempted under § 26-54-105, every corporation shall file an
+31 annual franchise tax report and pay an annual franchise tax as follows:
+32 (1)(A) Each life, fire, accident, surety, liability, steam
+33 boiler, tornado, health, or other kind of insurance company of whatever
+34 nature, having an outstanding capital stock of less than five hundred
+35 thousand dollars ($500,000) shall pay three hundred dollars ($300).
+36 (B) Each company having an outstanding capital stock of
+5 03-17-2025 11:42:27 JLL219
+
+As Engrossed: H3/17/25 HB1750
+1 five hundred thousand dollars ($500,000) or more shall pay four hundred
+2 dollars ($400);
+3 (2)(A) Each legal reserve mutual insurance corporation having
+4 assets of less than one hundred million dollars ($100,000,000) shall pay
+5 three hundred dollars ($300).
+6 (B) Each corporation having assets of one hundred million
+7 dollars ($100,000,000) or more shall pay four hundred dollars ($400);
+8 (3) Each mutual assessment insurance corporation shall pay three
+9 hundred dollars ($300);
+10 (4)(A) Each mortgage loan corporation shall pay an amount
+11 equivalent to three-tenths of one percent (0.3%) of that proportion of the
+12 par value of its outstanding capital stock that its aggregate outstanding
+13 loans made in Arkansas bears to the total aggregate outstanding loans made in
+14 all states.
+15 (B) No corporation shall pay an annual tax of less than
+16 three hundred dollars ($300);
+17 (5) Each corporation, other than those in subdivisions (2)-(4)
+18 of this section, without authorized capital stock shall pay three hundred
+19 dollars ($300);
+20 (6)(A) Each corporation, other than those in subdivisions (1)-
+21 (5) of this section, shall pay an amount equivalent to three-tenths of one
+22 percent (0.3%) of that proportion of the par value of its outstanding capital
+23 stock that the value of its real and personal property in Arkansas bears to
+24 the total value of the real and personal property of the corporation.
+25 (B) No corporation shall pay an annual tax of less than
+26 one hundred fifty dollars ($150);
+27 (7) Each corporation actually and actively in the process of
+28 liquidation and which does not rent or lease its property but which retains
+29 its corporate charter or authority for the sole purpose of winding up its
+30 affairs shall pay an annual tax as provided in subdivision (6) of this
+31 section or an amount equivalent to three-tenths of one percent (0.3%) of the
+32 value of its real and tangible personal property in Arkansas, whichever is
+33 smaller, but in no instance shall the tax be less than one hundred fifty
+34 dollars ($150); and
+35 (8) An organization formed pursuant to the Uniform Limited
+36 Liability Company Act, § 4-38-101 et seq., shall pay the minimum franchise
+6 03-17-2025 11:42:27 JLL219
+
+As Engrossed: H3/17/25 HB1750
+1 tax.
+2 (b)(1) In addition to the filing fees prescribed by law, the Secretary
+3 of State shall collect a processing fee for each document required under this
+4 chapter when delivered by electronic means.
+5 (2) The processing fee collected by the Secretary of State under
+6 subdivision (b)(1) of this section shall be:
+7 (A) Four dollars ($4.00) when the filing fee is fifty
+8 dollars ($50.00) or less;
+9 (B) Five dollars ($5.00) when the filing fee is between
+10 fifty-one dollars ($51.00) and one hundred sixty-seven dollars ($167); and
+11 (C) Three percent (3%) of the total amount of the filing
+12 fee if the filing fee is more than one hundred sixty-seven dollars ($167).
+13
+14 26-54-105. Franchise tax reports.
+15 (a)(1) The Secretary of State shall furnish notice to each corporation
+16 subject to this chapter by mailing or emailing the notice to the
+17 corporation's current agent for service or other person identified by the
+18 corporation.
+19 (2) When filing the franchise tax report, a corporation may
+20 state who is to receive a franchise tax form the following year if that
+21 person is different from the agent for service on file for the corporation at
+22 that time.
+23 (b) A corporation that fails to receive the notice under subdivision
+24 (a)(1) of this section by March 20 of the reporting year shall make written
+25 request for the notice to the Secretary of State on or before March 31.
+26 (c)(1) Each corporation subject to the requirements of this chapter
+27 shall file a franchise tax report with the Secretary of State that shows the
+28 condition and status of the corporation as of the close of business on the
+29 last day of the corporation's preceding calendar year and other information
+30 required by the Secretary of State.
+31 (2)(A) The franchise tax as computed on the report shall be
+32 remitted with the franchise tax report.
+33 (B) The franchise tax as computed on the report shall be
+34 remitted with the franchise tax report on or before May 1 of the reporting
+35 year for franchise tax due.
+36 (d)(1) Every corporation that dissolves shall be required to pay at
+7 03-17-2025 11:42:27 JLL219
+
+As Engrossed: H3/17/25 HB1750
+1 the time of dissolution the franchise tax for the prior calendar year and pay
+2 at the time of dissolution the minimum franchise tax for the year in which
+3 dissolved or withdrawn.
+4 (2) Any newly formed corporation shall not be required to file a
+5 franchise tax report until the calendar year immediately following the
+6 calendar year of incorporation.
+7 (e)(1) When the par value of the shares of a corporation is required
+8 to be stated in any franchise tax report and the shares of the corporation
+9 are without par value, the number of shares shall be stated.
+10 (2) For the purpose of computing the franchise tax prescribed by
+11 this chapter, shares of no par value shall be considered to be of the par
+12 value of twenty-five dollars ($25.00) per share.
+13 (f) Each corporation which pays its tax computed by the full
+14 assessment of capital stock or property shall not be required to report the
+15 value of its real and personal property within or without this state.
+16 (g)(1) Every franchise tax report shall contain the following
+17 statement:
+18 “I declare, under the penalties of perjury, that the foregoing
+19 statements are true to the best of my knowledge and belief.”
+20 (2) The statement shall be signed by the president, vice
+21 president, secretary, treasurer, or controller of the corporation or any
+22 other authorized person individual as determined by the Secretary of State.
+23 (h)(1) Only the following information contained in a franchise tax
+24 report shall be available for public inspection:
+25 (A) The name and address of the corporation;
+26 (B) The name of the corporation's president, vice
+27 president, secretary, treasurer, and controller;
+28 (C) The total authorized capital stock with par value;
+29 (D) The total issued and outstanding capital stock with
+30 par value; and
+31 (E) The state of incorporation.
+32 (2) In the case of a franchise tax report filed by an
+33 organization formed under the Uniform Limited Liability Company Act, § 4-38-
+34 101 et seq., the names of members, except those designated in the
+35 organizations' franchise tax report as a manager, president, vice president,
+36 secretary, treasurer, or controller of the organization, shall be
+8 03-17-2025 11:42:27 JLL219
+
+As Engrossed: H3/17/25 HB1750
+1 confidential and not available for public inspection unless the organization
+2 has no registered agent for service of process.
+3
+4 26-54-107. Computation of tax — Penalty — Relief.
+5 (a) Using the information reported on the franchise tax report under §
+6 26-54-105 and any other information received by him or her bearing upon the
+7 subject, the Secretary of State shall compute the amount of tax of each
+8 corporation at the rate or rates provided by this chapter.
+9 (b)(1)(A) If the taxpayer fails to comply with the filing and
+10 remittance requirements under § 26-54-105(c), the Secretary of State shall
+11 assess the corporation a penalty of twenty-five dollars ($25.00) plus
+12 interest on the tax and penalty from the date due until paid at the rate of
+13 ten percent (10%) per year.
+14 (B) However, the franchise tax, penalty, and interest for
+15 any tax year shall not exceed two (2) times the corporation's tax owed.
+16 (2) On or before November 1 of each year, the Secretary of State
+17 shall mail notice to the corporation at its last known address stating that
+18 the corporation is subject to revocation of its corporate charter under § 26-
+19 54-111 for the failure to pay corporate franchise tax.
+20 (c) The Secretary of State or his or her designee may agree to settle
+21 or compromise a dispute concerning interest or penalties associated with
+22 corporate franchise taxes if the taxpayer:
+23 (1) Disputes the proposed amount; or
+24 (2) Is insolvent or bankrupt.
+25 (d)(1) The Secretary of State may waive any accrued interest or
+26 assessed penalties imposed on a taxpayer due to a failure to remit corporate
+27 franchise taxes under § 26-54-105(c), if:
+28 (A) The taxpayer is reasonably mistaken about the
+29 application of this chapter or the computation of the franchise tax to the
+30 corporation; or
+31 (B) A taxpayer cannot pay the accrued interest or assessed
+32 penalties because of the taxpayer's insolvency or bankruptcy.
+33 (2) The Secretary of State may waive any fees that a taxpayer
+34 owes if the taxpayer desires to dissolve the corporation.
+35 (3) If a taxpayer demonstrates that a corporation was not doing
+36 business in the state for the period for which penalties and interest are
+9 03-17-2025 11:42:27 JLL219
+
+As Engrossed: H3/17/25 HB1750
+1 owed under this section, the Secretary of State shall waive the amount due
+2 under this section if the taxpayer demonstrates that the taxpayer intends to
+3 dissolve the corporation.
+4 (e) If the parties cannot resolve the dispute, the parties may pursue
+5 any other remedy available to them, including without limitation remedies
+6 available under the Arkansas Administrative Procedure Act, § 25-15-201 et
+7 seq.
+8 (f) The Secretary of State shall develop guidelines to assist a
+9 taxpayer in resolving a corporate franchise tax dispute.
+10
+11 26-54-108. Taxes and penalties as lien.
+12 The taxes and penalties required to be paid by this chapter shall be a
+13 first lien on all property of the corporation, whether or not the property is
+14 employed by the corporation in the prosecution of its business or is in the
+15 hands of an assignee, receiver, or trustee.
+16
+17 26-54-109. Lists of corporations to be prepared.
+18 (a)(1) The Bank Commissioner, Insurance Commissioner, and any other
+19 officer or agency of the state authorized to issue corporate permits or
+20 authorities to do business in this state shall prepare and maintain a correct
+21 list of all corporations organizing or qualifying through their respective
+22 offices or agencies.
+23 (2) Each official or agency shall file with the Secretary of
+24 State a monthly report showing:
+25 (A) The name and address of each new corporation organized
+26 or qualified;
+27 (B) The authorized and outstanding capital stock;
+28 (C) The name changes, mergers, charter forfeitures, or
+29 withdrawals;
+30 (D) The name and address of each corporation that has
+31 provided official notification regarding the dissolution of the corporation;
+32 and
+33 (E) All other information concerning the corporation
+34 required by the Secretary of State.
+35 (b) Upon request of the Secretary of State, each official or agency
+36 shall prepare and certify to the Secretary of State a complete list of the
+10 03-17-2025 11:42:27 JLL219
+
+As Engrossed: H3/17/25 HB1750
+1 names and addresses of all corporations that have organized or qualified
+2 through their respective office or agency and that are subject to the
+3 provisions of this chapter.
+4 (c) Officials or agencies of the state, county, or municipalities
+5 authorized to issue permits shall notify each corporation receiving a permit
+6 of the requirements to register the corporation with the Secretary of State
+7 before conducting business in Arkansas.
+8 (d)(1) A corporation filing instruments providing for the organization
+9 of any common law or statutory trust or similar organization with any county
+10 clerk, or other clerk of the various counties of this state, shall file them
+11 in duplicate.
+12 (2) The clerk receiving the documents for filing or recordation
+13 shall file mark them and forward the file-marked duplicate to the Secretary
+14 of State.
+15 (e)(1) The Secretary of the Department of Finance and Administration
+16 shall provide the Secretary of State a list of corporations doing business in
+17 this state and filing tax reports with the Department of Finance and
+18 Administration.
+19 (2) However, the Secretary of the Department of Finance and
+20 Administration shall not include any information deemed confidential by any
+21 other law.
+22
+23 26-54-110. Dissolution or withdrawal by corporations.
+24 Applications for dissolution or withdrawal by a corporation,
+25 association, or organization cannot be accepted by the authority that
+26 initially authorized or granted an authority to the corporation to do
+27 business in Arkansas until receipt of a statement verified by the Secretary
+28 of State that the franchise tax due has been paid.
+29
+30 26-54-111. Charter revocation for failure to pay tax — Procedure.
+31 (a) On or before January 31 of each year, the Secretary of State shall
+32 proclaim as revoked the corporate charters or authorities of all
+33 corporations, both domestic and foreign, that according to the Secretary of
+34 State's records are delinquent in the payment of the annual franchise tax for
+35 a prior year.
+36 (b)(1) A copy of the proclamation under subsection (a) of this
+11 03-17-2025 11:42:27 JLL219
+
+As Engrossed: H3/17/25 HB1750
+1 section, or applicable portion thereof, shall be furnished to each other
+2 official or agency of the state that is authorized to issue corporation
+3 charters or authorities.
+4 (2) Upon their receipt of the proclamation, the several
+5 officials shall at once correct their respective records in accordance with
+6 the proclamation.
+7
+8 26-54-112. Reinstatement of corporations.
+9 (a)(1)(A)(i) A corporation whose charter or permit authority to do
+10 business in the state has been declared revoked by proclamation of the
+11 Governor or the Secretary of State may be reinstated to all its rights,
+12 powers, and property.
+13 (ii) Reinstatement shall be retroactive to the time
+14 that the corporation's authority to do business in the state was declared
+15 revoked.
+16 (B) The reinstatement shall be made after the filing of
+17 all delinquent franchise tax reports satisfactory to the Secretary of State
+18 and the payment of all taxes and penalties due for each year of delinquency.
+19 (2) However, reinstatement is not allowed after five (5) years
+20 from the date the charter or permit authority to do business in the state if
+21 the corporation is declared:
+22 (A) Revoked by proclamation of the Governor or the
+23 Secretary of State; and
+24 (B) A forfeited charter.
+25 (b) If the Secretary of State issued the original corporate charter,
+26 permit, or authority, the Secretary of State shall reinstate the corporation
+27 upon payment by the corporation of all amounts due, as provided in subsection
+28 (a) of this section.
+29 (c)(1) If the original corporate charter, permit, or authority was
+30 issued by an official other than the Secretary of State, the official shall
+31 reinstate the corporation upon the corporation's filing with the official the
+32 receipt of the Secretary of State showing payment of all amounts due, as
+33 provided in subsection (a) of this section.
+34 (2) Thereafter, the corporation shall stand in all respects as
+35 though its name had never been declared revoked.
+36
+12 03-17-2025 11:42:27 JLL219
+
+As Engrossed: H3/17/25 HB1750
+1 26-54-113. Disposition of funds.
+2 (a) All taxes and penalties collected under the provisions of this
+3 chapter each month shall be deposited into the State Treasury to the credit
+4 of the Revenue Holding Fund Account of the State Apportionment Fund.
+5 (b)(1) On or before the fifth day of the following month, the
+6 Treasurer of State shall allocate and transfer the taxes and penalties
+7 collected to the General Revenue Fund Account of the State Apportionment Fund
+8 until a total of eight million dollars ($8,000,000) has been transferred
+9 during a fiscal year.
+10 (2) After the transfers required by subdivision (b)(1) of this
+11 section have been made, the taxes and penalties collected under this chapter
+12 during the remainder of the fiscal year shall be special revenues, and the
+13 Treasurer of State shall transfer the taxes and penalties collected to the
+14 Educational Adequacy Fund after making the deductions required by § 19-5-
+15 203(b)(2).
+16
+17 26-54-114. Nonpayment of franchise taxes — Definitions.
+18 (a) A corporation or limited liability company owing past-due
+19 franchise taxes to the Secretary of State may not:
+20 (1) File forms or documents related to that corporation or
+21 limited liability company;
+22 (2) Create a new legal entity in this state; or
+23 (3) Obtain authority to do business in this state.
+24 (b) A person or individual substantially connected to any corporation
+25 or limited liability company that owes past-due franchise taxes to the
+26 Secretary of State may not:
+27 (1) File forms or documents related to that corporation or
+28 limited liability company;
+29 (2) Create a new legal entity in this state; or
+30 (3) Obtain authority to do business in this state.
+31 (c) As used in this section:
+32 (1) “Past-due franchise taxes” means only those taxes owed three
+33 (3) years prior to the year in which the current filing is presented;
+34 (2) “Past officer or director” means a person or individual who
+35 was associated with the corporation or limited liability company at any time
+36 during its charter that the corporation or limited liability company was
+13 03-17-2025 11:42:27 JLL219
+
+As Engrossed: H3/17/25 HB1750
+1 responsible for nonpayment of franchise taxes; and
+2 (3) “Substantially connected” means a present officer, director,
+3 member, or manager or a past officer, director, member, or manager of a
+4 corporation.
+5 (d) An individual who is an incorporator or organizer of a corporation
+6 or limited liability company shall not be considered to be substantially
+7 connected to a corporation or limited liability company that owes past-due
+8 franchise taxes to the Secretary of State.
+9 (e) Each corporation, subject to this chapter, shall file with its
+10 original articles of incorporation or certificate of organization the name of
+11 at least one (1) individual who is substantially connected to the corporation
+12 and is responsible for payment of franchise taxes.
+13 (f) Any current or past officer or director that has been added to a
+14 corporation without his or her permission shall be removed as an officer or
+15 director of the corporation by the Secretary of State and not held
+16 responsible for past-due franchise taxes, if the officer or director submits:
+17 (1) A copy of a report filed with a local, state, or federal law
+18 enforcement entity that states the officer or director has been fraudulently
+19 added to the corporation; and
+20 (2) A statement, prescribed by the Secretary of State, signed by
+21 the officer or director, that states the officer or director was added to the
+22 corporation without his or her permission, with the following declaration:
+23 “I declare, under the penalties of perjury, that the foregoing
+24 statements are true to the best of my knowledge and belief.”
+25
+26 26-54-116. Powers of Secretary of State.
+27 The Secretary of State is authorized to perform any of the duties that
+28 are required of him or her under this chapter.
+29
+30 /s/Cavenaugh
+31
+32
+33
+34
+35
+36
+14 03-17-2025 11:42:27 JLL219
+
+[DELETED:  A  EBL1       A F F C   T F C  B   S  T   ( o w b s   ( i   S o   ( § ]
+[DELETED:  H2 0  S r   ( S   S  4  ( t f   (   ( i   (   ( 1   (   ( s   ( b   ( i  ( a F     S r f  ( a   S d f]
+[DELETED:  H3 0  ( s   ( §   ( r   S g i  ( c l s   (    ( r    ( f r     ( f h     ( f s   ( t   S  4 p  ( l c   (]
+[DELETED:  H4 0 S   (  ( s c o   S c  ( r C   S A  ( u   ( F d i   ( §   ( 5 §   (   S g    ( N l   S C]
+[DELETED:  H5 0   2  T F   2  ( l i i a o t a e p  (   (   ( i   ( P P   2  T o   2  ( a   ( b n t    (]
+[DELETED:  H6 0 f d   ( a t    ( d   ( h   ( e p l a    ( t   ( o d   ( ( p s t    ( o   ( l i a s v s d   ( L]
+[DELETED:  H7 0 t  ( o c   ( s    ( d    ( f    ( f   2  ( s c c   ( s p t  ( ( r  ( s c l r   ( r    ( r y  (]
+[DELETED:  H8 0 t a d   ( f c  ( t a   ( t v  ( a v  ( s   “ s   ( p o  ( r    (    ( p    (    ( p    (   ( o 1 o s]
+[DELETED:  H9 0 c h   2  ( 2 s c  ( r a i t    ( a   ( s t 5  ( o c   (   (  ( a f    ( a c    ( p   ( o   ( b]
+[DELETED:  H1 0 o u d  ( a a s  ( t   2  T f e h   2  ( o a l o   ( S    ( o    (    ( w    ( p a    ( r  ( s]
+[DELETED:  H1 0 n t p  ( a o b  ( o c i   ( s o  ( s t A   ( A o   2  A a i b o   2  ( p c S a  (]
+[DELETED:  H1 0 s o c   ( o t   2  ( b G p     ( t r    ( a a   ( f t    ( S    (  ( p u (  ( i r r p   ( t ]
+[DELETED:  H1 0  2  ( c o  ( T c u d   ( s d T E 2   2  ( f   ( l   (   (  ( o S   ( l   (   (  (   ( (   ( w d]
+[DELETED:  H1 0 r   ( m c  ( o c f  ( o a a  ( c d r   ( e a   ( t c   “ s   2  T a  /      ]

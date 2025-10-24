@@ -1,0 +1,101 @@
+Title: Stricken language would be deleted from and underlined language would be added to present law.
+Official Title: Stricken language would be deleted from and underlined language would be added to present law.
+Number of Sections: 1
+Source: versions - HB 1046
+Media Type: application/pdf
+Strikethrough Detection: 1 sections found
+
+================================================================================
+
+Section 1:
+1 State of Arkansas
+A Bill
+2 95th General Assembly
+3 Regular Session, 2025 HOUSE BILL 1046
+4
+5 By: Representative Pilkington
+6 By: Senator B. Davis
+7
+For An Act To Be Entitled
+8
+9 AN ACT TO ESTABLISH A BLUE ENVELOPE PROGRAM; AND FOR
+10 OTHER PURPOSES.
+11
+12
+Subtitle
+13
+14 TO ESTABLISH A BLUE ENVELOPE PROGRAM.
+15
+16 BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF ARKANSAS:
+17
+18 SECTION 1. Arkansas Code Title 27, Chapter 15, Subchapter 1, is
+19 amended to add an additional section to read as follows:
+20 27-15-102. Legislative intent — Blue Envelope Program.
+21 (a) The General Assembly intends to establish a Blue Envelope Program
+22 to ease communication between an individual with autism spectrum disorder and
+23 law enforcement during a motor vehicle-related interaction.
+24 (b)(1) By January 1, 2026, the Department of Finance and
+25 Administration shall develop and make available a specially designed blue
+26 envelope that will hold a driver’s essential documents, including without
+27 limitation a driver’s license, vehicle registration, and contact card.
+28 (2) The blue envelope developed under subsection (b)(2) of this
+29 section shall include communication guidelines on its exterior that are
+30 specifically tailored to assist a law enforcement officer in recognizing and
+31 adapting his or her approach when interacting with a driver with autism
+32 spectrum disorder.
+33 (c) Beginning January 1, 2026, an individual with autism spectrum
+34 disorder who would like to obtain a blue envelope may request a blue envelope
+35 at his or her local department office.
+36
+*CRH023*
+11/20/2024 12:57:55 PM CRH023
+[DELETED:         A O   T  B   S a  2  ( t l  ( A e l   ( s s a s  ( d a ]
+
+
+================================================================================
+
+Raw Text:
+Stricken language would be deleted from and underlined language would be added to present law.
+1 State of Arkansas
+A Bill
+2 95th General Assembly
+3 Regular Session, 2025 HOUSE BILL 1046
+4
+5 By: Representative Pilkington
+6 By: Senator B. Davis
+7
+For An Act To Be Entitled
+8
+9 AN ACT TO ESTABLISH A BLUE ENVELOPE PROGRAM; AND FOR
+10 OTHER PURPOSES.
+11
+12
+Subtitle
+13
+14 TO ESTABLISH A BLUE ENVELOPE PROGRAM.
+15
+16 BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF ARKANSAS:
+17
+18 SECTION 1. Arkansas Code Title 27, Chapter 15, Subchapter 1, is
+19 amended to add an additional section to read as follows:
+20 27-15-102. Legislative intent — Blue Envelope Program.
+21 (a) The General Assembly intends to establish a Blue Envelope Program
+22 to ease communication between an individual with autism spectrum disorder and
+23 law enforcement during a motor vehicle-related interaction.
+24 (b)(1) By January 1, 2026, the Department of Finance and
+25 Administration shall develop and make available a specially designed blue
+26 envelope that will hold a driver’s essential documents, including without
+27 limitation a driver’s license, vehicle registration, and contact card.
+28 (2) The blue envelope developed under subsection (b)(2) of this
+29 section shall include communication guidelines on its exterior that are
+30 specifically tailored to assist a law enforcement officer in recognizing and
+31 adapting his or her approach when interacting with a driver with autism
+32 spectrum disorder.
+33 (c) Beginning January 1, 2026, an individual with autism spectrum
+34 disorder who would like to obtain a blue envelope may request a blue envelope
+35 at his or her local department office.
+36
+*CRH023*
+11/20/2024 12:57:55 PM CRH023
+
+[DELETED:         A O   T  B   S a  2  ( t l  ( A e l   ( s s a s  ( d a ]

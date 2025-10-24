@@ -1,0 +1,1128 @@
+Title: Stricken language would be deleted from and underlined language would be added to present law.
+Official Title: Stricken language would be deleted from and underlined language would be added to present law.
+Number of Sections: 1
+Source: versions - SB 613
+Media Type: application/pdf
+Strikethrough Detection: 14 sections found
+
+================================================================================
+
+Section 1:
+1 State of Arkansas
+A Bill
+2 95th General Assembly
+3 Regular Session, 2025 SENATE BILL 613
+4
+5 By: Senators C. Penzo, B. King
+6 By: Representatives Duffield, Pilkington
+7
+For An Act To Be Entitled
+8
+9 AN ACT TO CREATE AN ELECTION PROCEDURE TO DETERMINE
+10 FLUORIDATION OF A PUBLIC WATER SYSTEM; AND FOR OTHER
+11 PURPOSES.
+12
+13
+Subtitle
+14
+15 TO CREATE AN ELECTION PROCEDURE TO
+16 DETERMINE FLUORIDATION OF A PUBLIC WATER
+17 SYSTEM.
+18
+19 BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF ARKANSAS:
+20
+21 SECTION 1. Arkansas Code Title 14, Chapter 116, is amended to add an
+22 additional subchapter to read as follows:
+23
+24 Subchapter 9 - Fluoridation Election
+25
+26 14-116-901. Definitions.
+27 As used in this subchapter:
+28 (1) “Canvasser” means a person who circulates a fluoridation
+29 election petition or a petition part to obtain the signatures of petitioners;
+30 (2) “Paid canvasser” means a canvasser who is paid or with whom
+31 there is an agreement to pay money or anything of value before or after a
+32 signature on a fluoridation election petition is solicited in exchange for
+33 soliciting or obtaining a signature on a fluoridation election petition;
+34 (3) “Petition part” means a petition signature sheet containing
+35 the information required under this subchapter;
+36 (4) “Petitioner” means a person who signs a petition requesting
+*SSS296*
+04/02/2025 4:12:25 PM SSS296
+SB613
+1 a fluoridation election;
+2 (5) "Public water system" means a facility, including without
+3 limitation a parent system, consecutive system, or other system, that holds,
+4 treats, and supplies water directly or through a consecutive system or
+5 consecutive systems to five thousand (5,000) persons or more;
+6 (6) “Registered voter” means a person who is registered at the
+7 time of signing the petition under Arkansas Constitution, Amendment 51; and
+8 (7) “Sponsor” means a person who arranges for the circulation of
+9 a fluoridation election petition or who files a fluoridation election
+10 petition with the official charged with verifying the signatures on the
+11 fluoridation election petition.
+12
+13 14-116-902. Petition to determine fluoridation of water in public
+14 water system.
+15 (a) An election to determine fluoridation of water in a public water
+16 system shall be called by a petition signed by registered voters supplied by
+17 the public water system in a number equal to thirty-eight percent (38%) of
+18 the registered voters supplied by the public water system.
+19 (b) A fluoridation election petition under subsection (a) of this
+20 section shall be filed with the county clerk of the county where the public
+21 water system is domiciled at least one hundred twenty (120) days before:
+22 (1) In even-numbered years, the preferential primary election or
+23 the general election; and
+24 (2) In odd-numbered years, the date of the special election as
+25 provided under § 14-116-913.
+26 (c) The county clerk of the county where the public water system is
+27 domiciled shall:
+28 (1) Coordinate with the county clerks of other counties supplied
+29 by the public water system to verify the signatures on a petition filed under
+30 subsection (b) of this section; and
+31 (2) Determine the sufficiency of a petition filed under
+32 subsection (b) of this section no later than ten (10) days after the petition
+33 is submitted.
+34 (d) The total number of registered voters as certified by the county
+35 clerk to the Secretary of State by June 1 of each year under Arkansas
+36 Constitution, Amendment 51, is the basis on which the required number of
+2 04/02/2025 4:12:25 PM SSS296
+SB613
+1 signatures of qualified electors on a petition filed under this section shall
+2 be computed.
+3 (e)(1) The sponsor shall request that the board of the public water
+4 system provide an accurate boundary map by parcel for the purpose of counting
+5 signatures and conducting the election to the county clerk of the county
+6 where the public water system is domiciled.
+7 (2) The public water system shall provide the boundary map
+8 requested under subdivision (e)(1) of this section to the county clerk of the
+9 county where the public water system is domiciled at or before the time for
+10 filing the petition.
+11
+12 14-116-903. Duties of election officers — Penalty for failure to
+13 perform.
+14 (a) The duties imposed by this subchapter on members of the State
+15 Board of Election Commissioners, members of the county boards of election
+16 commissioners, election officials, and other officers expressly named in this
+17 subchapter shall be performed:
+18 (1) In good faith;
+19 (2) Within the time provided by this subchapter; and
+20 (3) In the manner provided by this subchapter.
+21 (b) If a member of a county board of election commissioners, an
+22 election official, or another officer charged with a duty under this
+23 subchapter knowingly fails to perform that duty, upon conviction he or she
+24 shall be guilty of a violation and shall be:
+25 (1) Fined not less than one hundred dollars ($100) nor more than
+26 one thousand dollars ($1,000); and
+27 (2) Removed from his or her position or office.
+28
+29 14-116-904. Hiring and training of paid canvassers.
+30 (a)(1) A person shall not provide money or anything of value to
+31 another person for obtaining signatures on a fluoridation election petition
+32 unless the person receiving the money or item of value meets the requirements
+33 of this section.
+34 (2) Before a signature is solicited by a paid canvasser, the
+35 sponsor shall:
+36 (A) Explain the Arkansas law applicable to obtaining
+3 04/02/2025 4:12:25 PM SSS296
+SB613
+1 signatures on a fluoridation election petition to the paid canvasser; and
+2 (B)(i) Provide a complete list under subdivision
+3 (a)(2)(B)(i) of this section of all paid canvassers' names and current
+4 residential addresses to the county clerk.
+5 (ii) If additional paid canvassers agree to solicit
+6 signatures on behalf of a sponsor after the complete list is provided, the
+7 sponsor shall provide an updated list of all paid canvassers' names and
+8 current residential addresses to the county clerk.
+9 (b) Before obtaining a signature on a fluoridation election petition
+10 as a paid canvasser, a person shall submit in person or by mail to the
+11 sponsor:
+12 (1) The full name and any assumed name of the person;
+13 (2) The current residence address of the person and the person's
+14 permanent domicile address if the person's permanent domicile address is
+15 different from the person's current residence address;
+16 (3) A signed statement taken under oath or solemn affirmation
+17 that states that the person has not pleaded guilty or nolo contendere to or
+18 been found guilty of a criminal offense involving a violation of the election
+19 laws, fraud, forgery, or identification theft in any state;
+20 (4) A signed statement that the person has read and understands
+21 the Arkansas law applicable to obtaining signatures on a fluoridation
+22 election petition; and
+23 (5) A photograph of the person taken within ninety (90) days of
+24 the submission of the information required under this section.
+25 (c) A sponsor shall maintain the information required under this
+26 section for each paid canvasser for three (3) years after the general
+27 election or special election in which the fluoridation election is called.
+28
+29 14-116-905. Signing of petition — Penalty for falsification — Notice
+30 of suspected forgery.
+31 (a)(1) A person signing a petition under this subchapter shall:
+32 (A) Be a registered voter supplied by the public water
+33 system; and
+34 (B) After reading the ballot title of the petition in the
+35 presence of the canvasser or having the ballot title of the petition read
+36 aloud to him or her in the presence of the canvasser, sign his or her own
+4 04/02/2025 4:12:25 PM SSS296
+SB613
+1 name and in his or her own handwriting print his or her own name, address,
+2 and birthdate and the date of signing on a petition.
+3 (2) If a person signing a petition under subdivision (a)(1) of
+4 this section requires assistance due to a disability, another person:
+5 (A) May print the person's name, address, and birthdate
+6 and the date of signing; and
+7 (B) Shall sign and print his or her own name in the margin
+8 of the petition.
+9 (3) A person who is under eighteen (18) years of age shall not
+10 act as a canvasser.
+11 (4) A person acting as a canvasser shall not obtain a signature
+12 for a petition without disclosing to the potential petitioner that petition
+13 fraud is a criminal offense before the potential petitioner signs the
+14 petition in the custody of the canvasser by:
+15 (A) Verbal notification; or
+16 (B) If verbal notification is impossible, written
+17 notification with a document that is provided separately from all other
+18 petition materials.
+19 (b) A person commits a Class A misdemeanor if the person, acting as a
+20 canvasser, notary, sponsor, or agent of a sponsor knowingly:
+21 (1) Signs a name other than his or her own to a petition;
+22 (2) Prints a name, address, or birthdate other than his or her
+23 own on a petition unless the petitioner requires assistance due to a
+24 disability and the person complies with this section;
+25 (3) Solicits or obtains a signature to a petition knowing that
+26 the petitioner is not qualified to sign the petition;
+27 (4) Pays a person any form of compensation in exchange for
+28 signing a petition as a petitioner;
+29 (5) Accepts or pays money or anything of value for obtaining
+30 signatures on a petition when the person acting as a canvasser, sponsor, or
+31 agent of a sponsor knows that the name or address of the person acting as a
+32 canvasser is not included on the sponsor's list filed with the county clerk;
+33 (6) As a sponsor, files a petition part with the official
+34 charged with verifying the signatures knowing that the petition part contains
+35 one (1) or more false or fraudulent signatures unless each false or
+36 fraudulent signature is clearly stricken by the sponsor before filing;
+5 04/02/2025 4:12:25 PM SSS296
+SB613
+1 (7) As a canvasser, knowingly accepts a signature when the
+2 person signing the petition has not read the ballot title of the petition in
+3 the presence of the canvasser or the ballot title of the petition has not
+4 been read aloud to the person in the presence of the canvasser; or
+5 (8) As a canvasser, fails to disclose to a potential petitioner
+6 that petition fraud is a criminal offense before the potential petitioner
+7 signs the petition in the custody of the canvasser under subdivision (a)(4)
+8 of this section.
+9 (c) When the county clerk charged with verifying the signatures has
+10 reasonable grounds to believe that one (1) or more signatures on a petition
+11 is forged, the county clerk shall report the suspected forgery and the basis
+12 for suspecting forgery to the prosecuting attorney of the county.
+13 (d)(1) The county clerk shall not count signatures collected and
+14 witnessed by a canvasser if the county clerk finds by a preponderance of the
+15 evidence that the canvasser has violated Arkansas laws regarding canvassing,
+16 perjury, forgery, or fraudulent practices in the procurement of petition
+17 signatures or any provision of the Arkansas Constitution applicable to the
+18 collection of signatures on a fluoridation election petition during the
+19 current election cycle.
+20 (2) This subsection shall not constrain the duties and authority
+21 of the county clerk as set forth in Arkansas law.
+22
+23 14-116-906. Form of initiative petition — Sufficiency of signatures.
+24 (a) The petition for an ordinance, act, or amendment proposed by
+25 initiative under this subchapter shall be on substantially the following
+26 form:
+27 “PETITION FOR FLUORIDATION ELECTION
+28 To the Honorable_____________,
+29 County Clerk
+30 We, the undersigned registered voters of the State of Arkansas, of
+31 _____________ County, Arkansas, respectfully request that an election be held
+32 to determine fluoridation of the water in the public water system in the
+33 district described below, to the end that the same may be adopted, enacted,
+34 or rejected by the vote of the registered voters supplied by the public water
+35 system. Each of us for himself or herself says:
+36 I have personally signed this petition; I am a registered voter of
+6 04/02/2025 4:12:25 PM SSS296
+SB613
+1 _____________ County, Arkansas, and my printed name, date of birth,
+2 residence, and city or town of residence and the date of signing this
+3 petition are correctly written after my signature.
+4 (Here insert a description of the public water system in which the
+5 election shall be held.)”.
+6 (b)(1) The information provided by the petitioner under this
+7 subchapter may be used as evidence of the validity or invalidity of the
+8 signature.
+9 (2) If a signature of a registered voter on a petition under
+10 this subchapter is sufficient to verify the registered voter's name, then it
+11 shall not be adjudged invalid for failure to sign the name or write the
+12 residence and city or town of residence exactly as it appears on voter
+13 registration records, for failure to print the name in the space provided,
+14 for failure to provide the correct date of birth, nor for failure to provide
+15 the correct date of signing the petition, all the information being an aid to
+16 verification rather than a mandatory requirement to perfect the validity of
+17 the signature of the petitioner.
+18 (c) Additional sheets of petitioner signatures shall not be attached
+19 to a petition under this subchapter unless the sheets contain the full
+20 language of the petition.
+21 (d)(1) The signature section of a petition under this subchapter shall
+22 be formatted and shall contain the number of signature lines prescribed by
+23 the county clerk.
+24 (2) Before the circulation of a petition for signatures under
+25 this subchapter, the sponsor shall file a printed petition part with the
+26 county clerk in the form that will be used for obtaining signatures.
+27
+28 14-116-907. Procedure for circulation of petition.
+29 (a)(1) Each petition under this subchapter for an election to be held
+30 for a public water system that includes more than one (1) county shall be
+31 prepared and circulated in a petition part, and each petition part shall be
+32 an exact copy of all other petition parts on which signatures of petitioners
+33 are to be solicited.
+34 (2) When a sufficient number of petition parts are signed by the
+35 requisite number of registered voters and are filed and certified by the
+36 county clerk, they shall be treated and considered as one (1) petition.
+7 04/02/2025 4:12:25 PM SSS296
+SB613
+1 (b) Each petition part under this subchapter shall have attached to it
+2 the affidavit of the canvasser who collected the signatures on the petition
+3 part stating that:
+4 (1) The canvasser's current residence address appearing on the
+5 verification is correct;
+6 (2) All signatures appearing on the petition part were made in
+7 the presence of the canvasser; and
+8 (3) To the best of the canvasser's knowledge and belief each
+9 signature is genuine and each person signing is a registered voter.
+10 (c) A petition part under this section shall not contain signatures of
+11 petitioners from more than one (1) county.
+12
+13 14-116-908. Form of verification — Penalty for false statement.
+14 (a) Each petition under this subchapter that contains signatures shall
+15 be verified in substantially the following form by the canvasser's affidavit
+16 on the petition as a part of the petition:
+17 “State of Arkansas, County of _____________
+18 I, _____________ (print name of canvasser) _____________, being duly
+19 sworn, state that each of the foregoing persons signed his or her own name to
+20 this sheet of the petition in my presence. To the best of my knowledge and
+21 belief, each signature is genuine and each signer is a registered voter of
+22 _____________ County. At all times during the circulation of this signature
+23 sheet, an exact copy of the popular name, ballot title, and text was attached
+24 to the signature sheet, and each signer read the ballot title of the petition
+25 or had the ballot title of the petition read to the signer in my presence. My
+26 current residence address is correctly stated below.
+27 Signature_____________
+28 Residence _____________
+29 Indicate one: _____________ Paid Canvasser _____________
+30 Volunteer/Unpaid Canvasser
+31 Subscribed and sworn to before me this _____________day of
+32 _____________, 20_____________
+33 Signature_____________
+34 Clerk, Notary, Judge, or Justice of the Peace
+35 Seal_____________ ”.
+36 (b)(1) If the form provided under subsection (a) of this section is
+8 04/02/2025 4:12:25 PM SSS296
+SB613
+1 substantially followed in a petition, the form is sufficient.
+2 (2) A form provided under this section shall not be held
+3 insufficient for clerical and merely technical errors.
+4 (c)(1) A petition under this subchapter shall not be disqualified due
+5 to clerical or technical errors made by a clerk, notary, judge, or justice of
+6 the peace when verifying a canvasser's signature.
+7 (2) A petition under this subchapter shall not be disqualified
+8 for the failure of a clerk, notary, judge, or justice of the peace to sign
+9 exactly as his or her name appears on his or her seal if the signature of a
+10 clerk, notary, judge, or justice of the peace is sufficient to verify his or
+11 her name.
+12 (d) A canvasser who knowingly makes a false statement on a petition
+13 verification form required by this section upon conviction is guilty of a
+14 Class D felony.
+15 (e)(1) A canvasser who witnesses signatures on a petition part shall
+16 view a copy of a potential petitioner's photo identification to verify the
+17 identity of the potential petitioner before obtaining the signature.
+18 (2) If a canvasser cannot verify the identity of the potential
+19 petitioner, the canvasser shall not obtain a signature from the potential
+20 petitioner.
+21 (3) A canvasser who submits a canvasser affidavit under
+22 subsection (a) of this section swearing that to the best of the canvasser's
+23 knowledge and belief each signature is genuine and that the person signing is
+24 a registered voter, but does not comply with the requirements under
+25 subdivision (e)(1) of this section, makes a false statement on the petition
+26 verification form.
+27 (4) As used in this subsection, "photo identification" means a
+28 document or identification card permitted under § 7-1-101(40).
+29
+30 14-116-909. Failure to act on petition — Mandamus — Injunction.
+31 (a) If a county clerk does not examine and certify a petition under
+32 this subchapter within the time prescribed in § 14-116-902, the sponsor may
+33 apply to the circuit court with jurisdiction for appropriate relief.
+34 (b) If the circuit court decides that the petition under this
+35 subchapter is legally sufficient, the circuit court shall order the county
+36 clerk to certify the sufficiency of the petition and set an election date.
+9 04/02/2025 4:12:25 PM SSS296
+SB613
+1 (c) On a proper showing that a petition under this subchapter is not
+2 sufficient, the circuit court may enjoin the county clerk from:
+3 (1) Certifying the sufficiency of the petition; or
+4 (2) Setting an election date.
+5
+6 14-116-910. Preservation of records.
+7 (a) All petitions, notices, certificates, or other documentary
+8 evidence of procedural steps taken under this subchapter shall be filed and
+9 preserved.
+10 (b) A petition under this subchapter with signatures shall be retained
+11 for two (2) years after submission to the county clerk.
+12
+13 14-116-911. Count of signatures.
+14 (a) Upon the initial filing of a petition under this subchapter, the
+15 county clerk charged with verifying the signatures shall:
+16 (1) Perform an initial count of the signatures; and
+17 (2) Determine whether the petition contains, on its face and
+18 before verification of the signatures of registered voters, the designated
+19 number of signatures required by the Arkansas Constitution and this
+20 subchapter in order to call an election.
+21 (b) A petition part and all signatures appearing on the petition part
+22 shall not be counted for any purpose by the official charged with verifying
+23 the signatures, including the initial count of signatures, if one (1) or more
+24 of the following is true:
+25 (1) The petition is not an original petition, including without
+26 limitation a petition that is a photocopy or a fax;
+27 (2) The petition lacks the signature, printed name, and
+28 residence address of the canvasser or is signed by more than one (1)
+29 canvasser;
+30 (3) The canvasser is a paid canvasser whose name and the
+31 information required under § 14-116-904 were not submitted by the sponsor to
+32 the county clerk before the petitioner signed the petition;
+33 (4) The canvasser verification is not notarized, is notarized by
+34 more than one (1) notary, or lacks a notary signature or a notary seal;
+35 (5) The canvasser verification is dated earlier than the date on
+36 which a petitioner signed the petition;
+10 04/02/2025 4:12:25 PM SSS296
+SB613
+1 (6) The petition part clearly contains signatures of petitioners
+2 from more than one (1) county unless each signature of a petitioner from
+3 another county is clearly stricken before the filing of the petition with the
+4 county clerk; or
+5 (7) The petition part has a material defect that, on its face,
+6 renders the petition part invalid.
+7 (c) The following signatures shall not be counted by the official
+8 charged with verifying the signatures, including the initial count of
+9 signatures:
+10 (1) A signature that is not an original signature;
+11 (2) A signature that is obviously not that of the purported
+12 petitioner;
+13 (3) A signature that is illegible and is accompanied by no
+14 personally identifying information;
+15 (4) A signature for which the corresponding printed name,
+16 address, or birthdate is written by someone other than the petitioner except
+17 under circumstances of disability of the signer;
+18 (5) A signature that has any other material defect that, on its
+19 face, renders the signature invalid; and
+20 (6) A signature submitted by a canvasser who has not filed a
+21 true affidavit with the county clerk as required under subdivision (d)(1) of
+22 this section certifying that the canvasser has complied with the Arkansas
+23 Constitution and all Arkansas laws regarding canvassing, perjury, forgery,
+24 and fraudulent practices in the procurement of petition signatures during the
+25 current election cycle.
+26 (d)(1) Except as provided under subdivision (d)(4) of this section, a
+27 canvasser shall file a true affidavit with the county clerk certifying that
+28 the canvasser has complied with the Arkansas Constitution and all Arkansas
+29 laws regarding canvassing, perjury, forgery, and fraudulent practices in the
+30 procurement of petition signatures during the current election cycle.
+31 (2) The county clerk shall not count the signatures submitted by
+32 a canvasser until a true affidavit is submitted by the canvasser under
+33 subdivision (d)(1) of this section.
+34 (3) A true affidavit submitted under subdivision (d)(1) of this
+35 section shall have no bearing to establish the genuineness or falsity of the
+36 signatures obtained by the canvasser.
+11 04/02/2025 4:12:25 PM SSS296
+SB613
+1 (4)(A) The inability of a canvasser to submit an affidavit due
+2 to death or medical disability shall not disqualify the signatures gathered
+3 by the canvasser.
+4 (B) Subdivision (d)(4)(A) of this section does not excuse
+5 a canvasser from filing the affidavit required under § 14-116-908.
+6 (e) A canvasser who has filed a true affidavit under subsection (d) of
+7 this section shall not collect additional signatures unless the county clerk
+8 determines that the sponsor of the fluoridation election petition is eligible
+9 to solicit and add additional signatures to the petition under § 14–14–
+10 915(e).
+11
+12 14-116-912. Notification of election.
+13 (a) Notice of an election under this subchapter shall be given by the
+14 secretary of the board of directors of the public water system at least
+15 thirty (30) days before the date fixed for the election by publication of a
+16 notice for at least two (2) consecutive weekly insertions in a newspaper
+17 published and having a bona fide circulation in each of the counties supplied
+18 by the public water system.
+19 (b) The notice of election shall be in substantially the following
+20 form:
+21 “NOTICE OF ELECTION
+22 Notice is hereby given that an election will be held in ............. County,
+23 Arkansas, on the ............. day of ............., 20............., for the
+24 purpose of determining whether the Board of Directors of the .............
+25 Public Water System shall be authorized to change the status of water
+26 fluoridation in the public water system, and whether the Board of Directors
+27 of the public water system shall be authorized to exercise the powers
+28 conferred on the public water system under Arkansas Code § 14-116-901 et seq.
+29 to carry out the results of the election. The voting places in .............
+30 County, Arkansas, for this election shall be as follows: (Here will be
+31 inserted the various voting places of the county in which the particular
+32 notice is published.)”.
+33 (c) The notice required under this section shall be dated and signed
+34 by the secretary of the board of directors of the public water system.
+35
+36 14-116-913. Conduct of election.
+12 04/02/2025 4:12:25 PM SSS296
+SB613
+1 (a)(1)(A) The county board of election commissioners of the particular
+2 county shall cause the question of a change in status of the water
+3 fluoridation in a public water system to be placed on the ballot:
+4 (i) In even-numbered years, at the general election
+5 or preferential primary election; or
+6 (ii) In odd-numbered years, at the special election
+7 that shall be held on the second Tuesday of March or November.
+8 (B) An election held under subdivision (a)(1)(A)(ii) of
+9 this section that is scheduled to occur in a month in which the second
+10 Tuesday is a legal holiday shall be held on the third Tuesday of the month.
+11 (2) The question shall be presented in the following form:
+12 " FOR THE FLUORIDATION OF WATER IN [DESCRIPTION OF THE
+13 PUBLIC WATER SYSTEM]
+14 AGAINST THE FLUORIDATION OF WATER IN [DESCRIPTION OF
+15 THE PUBLIC WATER SYSTEM].".
+16 (3) Each elector shall be instructed on the ballot to vote "FOR"
+17 or "AGAINST" the question by placing an appropriate mark.
+18 (b) The county board of election commissioners shall count the votes
+19 cast on the question submitted to the voters under this section to determine
+20 the fluoridation of water in the public water system and shall deliver its
+21 certificate declaring the result of the election, together with the election
+22 returns, within three (3) days after the date of the election to the county
+23 clerk of the county.
+24 (c) Upon petition of twenty-five (25) interested registered voters in
+25 the territory affected, within ten (10) days after the date of an election
+26 under this section, the county board of election commissioners shall
+27 immediately recount the votes and declare the result of the election as
+28 determined by the recount.
+29 (d) Within twenty (20) days after an election under this section, the
+30 county court shall make and have entered on record its order declaring the
+31 result of the election.
+32 (e)(1) The costs of an election held under this subchapter shall be
+33 paid by the board of directors of the public water system.
+34 (2) The county clerk of each county holding an election to
+35 determine the fluoridation of the water in the public water system shall
+36 provide an invoice to the board of directors of the public water system for
+13 04/02/2025 4:12:25 PM SSS296
+SB613
+1 any expenses incurred by the county in connection with an election under this
+2 subchapter.
+3
+4 14-116-914. Results of election.
+5 (a) If a majority of the registered voters supplied by the public
+6 water system elect to prohibit fluoridation of water under this subchapter,
+7 the public water system shall cease fluoridation of the water within thirty
+8 (30) days of the certification of the election results.
+9 (b) A subsequent election in the public water system under this
+10 subchapter shall not be held earlier than four (4) years after an election is
+11 held under this subchapter.
+12
+13 SECTION 2. Arkansas Code § 20-7-136(b), concerning a statewide
+14 fluoridation program, is amended to read as follows:
+15 (b) The Unless prohibited by the results of an election under § 14-
+16 116-901 et seq., the company, corporation, municipality, county, government
+17 agency, or other entity that owns or controls a water system shall control
+18 the quantity of fluoride in the water so as to maintain a fluoride content
+19 established by the Department of Health.
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+14 04/02/2025 4:12:25 PM SSS296
+[DELETED:       A F P  T D S  B   S a     S   1  A   ( e   ( t s s   ( t   (]
+[DELETED: S2 0 a   ( l t c   ( t   ( a p f   1 w  ( s t t  ( s w   ( t   ( p  ( d   ( b s   ( s i  ( c C]
+[DELETED: S3 0 s b  ( s s w   ( r c f   1 p  ( B c s   (   (   (  ( e s s   ( o   (   1  ( a u o   ( s    (]
+[DELETED: S4 0 s    ( ( r     ( s s c  ( a s   (   ( p d   ( t b l   ( t e   ( t  ( s e   1 o  (    ( s    ( p a]
+[DELETED: S5 0 n a   ( t    ( a    ( o   ( a   ( f f p    (    ( n p  ( c   (   ( o d   ( t   ( s   ( s a c   ( c o f]
+[DELETED: S6 0   ( p t b   ( t s o  ( r i f  ( w e p s c c   ( o   1  ( i f  “  T  C  W _ t d o s  I]
+[DELETED: S7 0 _ r p  ( e  ( s s   ( t s r r f t v t  ( t l  ( b t   ( t c   1  ( f p a a   ( r c]
+[DELETED: S8 0  ( t p   ( v   ( t   ( s  ( p   1  ( b o  “  I s t b _ s t o c  S  R  I V  S _  S  C  S  (]
+[DELETED: S9 0 s   ( i  ( t t   ( f e c h  ( v C  ( v i   ( p p   ( s k a s v   ( d   1  ( t a  ( s c]
+[DELETED: S1 0  ( s   (   (   1  ( e p  ( f   1  ( c   (   ( b n s  ( s t o   ( l   ( r c   ( i t   ( m   ( w]
+[DELETED: S1 0   ( f a c   ( r  ( c s   (   ( p   ( p   ( a u   ( f   ( t t C a c  ( c t l p   ( a s   ( s s]
+[DELETED: S1 0   ( t b    ( a  ( t d t 9   1  ( s t n p b  ( f     “ N A p P f o c t C i n  ( b   1]
+[DELETED: S1 0  ( c f     ( o     ( t    ( t T   (    " P      T   ( o  ( c t c r c  ( t u i d  ( c r  ( p   ( d p]
+[DELETED: S1 0 a s   1  ( w t (  ( s h   S f  ( 1 a t e]
+
+
+================================================================================
+
+Raw Text:
+Stricken language would be deleted from and underlined language would be added to present law.
+1 State of Arkansas
+A Bill
+2 95th General Assembly
+3 Regular Session, 2025 SENATE BILL 613
+4
+5 By: Senators C. Penzo, B. King
+6 By: Representatives Duffield, Pilkington
+7
+For An Act To Be Entitled
+8
+9 AN ACT TO CREATE AN ELECTION PROCEDURE TO DETERMINE
+10 FLUORIDATION OF A PUBLIC WATER SYSTEM; AND FOR OTHER
+11 PURPOSES.
+12
+13
+Subtitle
+14
+15 TO CREATE AN ELECTION PROCEDURE TO
+16 DETERMINE FLUORIDATION OF A PUBLIC WATER
+17 SYSTEM.
+18
+19 BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF ARKANSAS:
+20
+21 SECTION 1. Arkansas Code Title 14, Chapter 116, is amended to add an
+22 additional subchapter to read as follows:
+23
+24 Subchapter 9 - Fluoridation Election
+25
+26 14-116-901. Definitions.
+27 As used in this subchapter:
+28 (1) “Canvasser” means a person who circulates a fluoridation
+29 election petition or a petition part to obtain the signatures of petitioners;
+30 (2) “Paid canvasser” means a canvasser who is paid or with whom
+31 there is an agreement to pay money or anything of value before or after a
+32 signature on a fluoridation election petition is solicited in exchange for
+33 soliciting or obtaining a signature on a fluoridation election petition;
+34 (3) “Petition part” means a petition signature sheet containing
+35 the information required under this subchapter;
+36 (4) “Petitioner” means a person who signs a petition requesting
+*SSS296*
+04/02/2025 4:12:25 PM SSS296
+
+SB613
+1 a fluoridation election;
+2 (5) "Public water system" means a facility, including without
+3 limitation a parent system, consecutive system, or other system, that holds,
+4 treats, and supplies water directly or through a consecutive system or
+5 consecutive systems to five thousand (5,000) persons or more;
+6 (6) “Registered voter” means a person who is registered at the
+7 time of signing the petition under Arkansas Constitution, Amendment 51; and
+8 (7) “Sponsor” means a person who arranges for the circulation of
+9 a fluoridation election petition or who files a fluoridation election
+10 petition with the official charged with verifying the signatures on the
+11 fluoridation election petition.
+12
+13 14-116-902. Petition to determine fluoridation of water in public
+14 water system.
+15 (a) An election to determine fluoridation of water in a public water
+16 system shall be called by a petition signed by registered voters supplied by
+17 the public water system in a number equal to thirty-eight percent (38%) of
+18 the registered voters supplied by the public water system.
+19 (b) A fluoridation election petition under subsection (a) of this
+20 section shall be filed with the county clerk of the county where the public
+21 water system is domiciled at least one hundred twenty (120) days before:
+22 (1) In even-numbered years, the preferential primary election or
+23 the general election; and
+24 (2) In odd-numbered years, the date of the special election as
+25 provided under § 14-116-913.
+26 (c) The county clerk of the county where the public water system is
+27 domiciled shall:
+28 (1) Coordinate with the county clerks of other counties supplied
+29 by the public water system to verify the signatures on a petition filed under
+30 subsection (b) of this section; and
+31 (2) Determine the sufficiency of a petition filed under
+32 subsection (b) of this section no later than ten (10) days after the petition
+33 is submitted.
+34 (d) The total number of registered voters as certified by the county
+35 clerk to the Secretary of State by June 1 of each year under Arkansas
+36 Constitution, Amendment 51, is the basis on which the required number of
+2 04/02/2025 4:12:25 PM SSS296
+
+SB613
+1 signatures of qualified electors on a petition filed under this section shall
+2 be computed.
+3 (e)(1) The sponsor shall request that the board of the public water
+4 system provide an accurate boundary map by parcel for the purpose of counting
+5 signatures and conducting the election to the county clerk of the county
+6 where the public water system is domiciled.
+7 (2) The public water system shall provide the boundary map
+8 requested under subdivision (e)(1) of this section to the county clerk of the
+9 county where the public water system is domiciled at or before the time for
+10 filing the petition.
+11
+12 14-116-903. Duties of election officers — Penalty for failure to
+13 perform.
+14 (a) The duties imposed by this subchapter on members of the State
+15 Board of Election Commissioners, members of the county boards of election
+16 commissioners, election officials, and other officers expressly named in this
+17 subchapter shall be performed:
+18 (1) In good faith;
+19 (2) Within the time provided by this subchapter; and
+20 (3) In the manner provided by this subchapter.
+21 (b) If a member of a county board of election commissioners, an
+22 election official, or another officer charged with a duty under this
+23 subchapter knowingly fails to perform that duty, upon conviction he or she
+24 shall be guilty of a violation and shall be:
+25 (1) Fined not less than one hundred dollars ($100) nor more than
+26 one thousand dollars ($1,000); and
+27 (2) Removed from his or her position or office.
+28
+29 14-116-904. Hiring and training of paid canvassers.
+30 (a)(1) A person shall not provide money or anything of value to
+31 another person for obtaining signatures on a fluoridation election petition
+32 unless the person receiving the money or item of value meets the requirements
+33 of this section.
+34 (2) Before a signature is solicited by a paid canvasser, the
+35 sponsor shall:
+36 (A) Explain the Arkansas law applicable to obtaining
+3 04/02/2025 4:12:25 PM SSS296
+
+SB613
+1 signatures on a fluoridation election petition to the paid canvasser; and
+2 (B)(i) Provide a complete list under subdivision
+3 (a)(2)(B)(i) of this section of all paid canvassers' names and current
+4 residential addresses to the county clerk.
+5 (ii) If additional paid canvassers agree to solicit
+6 signatures on behalf of a sponsor after the complete list is provided, the
+7 sponsor shall provide an updated list of all paid canvassers' names and
+8 current residential addresses to the county clerk.
+9 (b) Before obtaining a signature on a fluoridation election petition
+10 as a paid canvasser, a person shall submit in person or by mail to the
+11 sponsor:
+12 (1) The full name and any assumed name of the person;
+13 (2) The current residence address of the person and the person's
+14 permanent domicile address if the person's permanent domicile address is
+15 different from the person's current residence address;
+16 (3) A signed statement taken under oath or solemn affirmation
+17 that states that the person has not pleaded guilty or nolo contendere to or
+18 been found guilty of a criminal offense involving a violation of the election
+19 laws, fraud, forgery, or identification theft in any state;
+20 (4) A signed statement that the person has read and understands
+21 the Arkansas law applicable to obtaining signatures on a fluoridation
+22 election petition; and
+23 (5) A photograph of the person taken within ninety (90) days of
+24 the submission of the information required under this section.
+25 (c) A sponsor shall maintain the information required under this
+26 section for each paid canvasser for three (3) years after the general
+27 election or special election in which the fluoridation election is called.
+28
+29 14-116-905. Signing of petition — Penalty for falsification — Notice
+30 of suspected forgery.
+31 (a)(1) A person signing a petition under this subchapter shall:
+32 (A) Be a registered voter supplied by the public water
+33 system; and
+34 (B) After reading the ballot title of the petition in the
+35 presence of the canvasser or having the ballot title of the petition read
+36 aloud to him or her in the presence of the canvasser, sign his or her own
+4 04/02/2025 4:12:25 PM SSS296
+
+SB613
+1 name and in his or her own handwriting print his or her own name, address,
+2 and birthdate and the date of signing on a petition.
+3 (2) If a person signing a petition under subdivision (a)(1) of
+4 this section requires assistance due to a disability, another person:
+5 (A) May print the person's name, address, and birthdate
+6 and the date of signing; and
+7 (B) Shall sign and print his or her own name in the margin
+8 of the petition.
+9 (3) A person who is under eighteen (18) years of age shall not
+10 act as a canvasser.
+11 (4) A person acting as a canvasser shall not obtain a signature
+12 for a petition without disclosing to the potential petitioner that petition
+13 fraud is a criminal offense before the potential petitioner signs the
+14 petition in the custody of the canvasser by:
+15 (A) Verbal notification; or
+16 (B) If verbal notification is impossible, written
+17 notification with a document that is provided separately from all other
+18 petition materials.
+19 (b) A person commits a Class A misdemeanor if the person, acting as a
+20 canvasser, notary, sponsor, or agent of a sponsor knowingly:
+21 (1) Signs a name other than his or her own to a petition;
+22 (2) Prints a name, address, or birthdate other than his or her
+23 own on a petition unless the petitioner requires assistance due to a
+24 disability and the person complies with this section;
+25 (3) Solicits or obtains a signature to a petition knowing that
+26 the petitioner is not qualified to sign the petition;
+27 (4) Pays a person any form of compensation in exchange for
+28 signing a petition as a petitioner;
+29 (5) Accepts or pays money or anything of value for obtaining
+30 signatures on a petition when the person acting as a canvasser, sponsor, or
+31 agent of a sponsor knows that the name or address of the person acting as a
+32 canvasser is not included on the sponsor's list filed with the county clerk;
+33 (6) As a sponsor, files a petition part with the official
+34 charged with verifying the signatures knowing that the petition part contains
+35 one (1) or more false or fraudulent signatures unless each false or
+36 fraudulent signature is clearly stricken by the sponsor before filing;
+5 04/02/2025 4:12:25 PM SSS296
+
+SB613
+1 (7) As a canvasser, knowingly accepts a signature when the
+2 person signing the petition has not read the ballot title of the petition in
+3 the presence of the canvasser or the ballot title of the petition has not
+4 been read aloud to the person in the presence of the canvasser; or
+5 (8) As a canvasser, fails to disclose to a potential petitioner
+6 that petition fraud is a criminal offense before the potential petitioner
+7 signs the petition in the custody of the canvasser under subdivision (a)(4)
+8 of this section.
+9 (c) When the county clerk charged with verifying the signatures has
+10 reasonable grounds to believe that one (1) or more signatures on a petition
+11 is forged, the county clerk shall report the suspected forgery and the basis
+12 for suspecting forgery to the prosecuting attorney of the county.
+13 (d)(1) The county clerk shall not count signatures collected and
+14 witnessed by a canvasser if the county clerk finds by a preponderance of the
+15 evidence that the canvasser has violated Arkansas laws regarding canvassing,
+16 perjury, forgery, or fraudulent practices in the procurement of petition
+17 signatures or any provision of the Arkansas Constitution applicable to the
+18 collection of signatures on a fluoridation election petition during the
+19 current election cycle.
+20 (2) This subsection shall not constrain the duties and authority
+21 of the county clerk as set forth in Arkansas law.
+22
+23 14-116-906. Form of initiative petition — Sufficiency of signatures.
+24 (a) The petition for an ordinance, act, or amendment proposed by
+25 initiative under this subchapter shall be on substantially the following
+26 form:
+27 “PETITION FOR FLUORIDATION ELECTION
+28 To the Honorable_____________,
+29 County Clerk
+30 We, the undersigned registered voters of the State of Arkansas, of
+31 _____________ County, Arkansas, respectfully request that an election be held
+32 to determine fluoridation of the water in the public water system in the
+33 district described below, to the end that the same may be adopted, enacted,
+34 or rejected by the vote of the registered voters supplied by the public water
+35 system. Each of us for himself or herself says:
+36 I have personally signed this petition; I am a registered voter of
+6 04/02/2025 4:12:25 PM SSS296
+
+SB613
+1 _____________ County, Arkansas, and my printed name, date of birth,
+2 residence, and city or town of residence and the date of signing this
+3 petition are correctly written after my signature.
+4 (Here insert a description of the public water system in which the
+5 election shall be held.)”.
+6 (b)(1) The information provided by the petitioner under this
+7 subchapter may be used as evidence of the validity or invalidity of the
+8 signature.
+9 (2) If a signature of a registered voter on a petition under
+10 this subchapter is sufficient to verify the registered voter's name, then it
+11 shall not be adjudged invalid for failure to sign the name or write the
+12 residence and city or town of residence exactly as it appears on voter
+13 registration records, for failure to print the name in the space provided,
+14 for failure to provide the correct date of birth, nor for failure to provide
+15 the correct date of signing the petition, all the information being an aid to
+16 verification rather than a mandatory requirement to perfect the validity of
+17 the signature of the petitioner.
+18 (c) Additional sheets of petitioner signatures shall not be attached
+19 to a petition under this subchapter unless the sheets contain the full
+20 language of the petition.
+21 (d)(1) The signature section of a petition under this subchapter shall
+22 be formatted and shall contain the number of signature lines prescribed by
+23 the county clerk.
+24 (2) Before the circulation of a petition for signatures under
+25 this subchapter, the sponsor shall file a printed petition part with the
+26 county clerk in the form that will be used for obtaining signatures.
+27
+28 14-116-907. Procedure for circulation of petition.
+29 (a)(1) Each petition under this subchapter for an election to be held
+30 for a public water system that includes more than one (1) county shall be
+31 prepared and circulated in a petition part, and each petition part shall be
+32 an exact copy of all other petition parts on which signatures of petitioners
+33 are to be solicited.
+34 (2) When a sufficient number of petition parts are signed by the
+35 requisite number of registered voters and are filed and certified by the
+36 county clerk, they shall be treated and considered as one (1) petition.
+7 04/02/2025 4:12:25 PM SSS296
+
+SB613
+1 (b) Each petition part under this subchapter shall have attached to it
+2 the affidavit of the canvasser who collected the signatures on the petition
+3 part stating that:
+4 (1) The canvasser's current residence address appearing on the
+5 verification is correct;
+6 (2) All signatures appearing on the petition part were made in
+7 the presence of the canvasser; and
+8 (3) To the best of the canvasser's knowledge and belief each
+9 signature is genuine and each person signing is a registered voter.
+10 (c) A petition part under this section shall not contain signatures of
+11 petitioners from more than one (1) county.
+12
+13 14-116-908. Form of verification — Penalty for false statement.
+14 (a) Each petition under this subchapter that contains signatures shall
+15 be verified in substantially the following form by the canvasser's affidavit
+16 on the petition as a part of the petition:
+17 “State of Arkansas, County of _____________
+18 I, _____________ (print name of canvasser) _____________, being duly
+19 sworn, state that each of the foregoing persons signed his or her own name to
+20 this sheet of the petition in my presence. To the best of my knowledge and
+21 belief, each signature is genuine and each signer is a registered voter of
+22 _____________ County. At all times during the circulation of this signature
+23 sheet, an exact copy of the popular name, ballot title, and text was attached
+24 to the signature sheet, and each signer read the ballot title of the petition
+25 or had the ballot title of the petition read to the signer in my presence. My
+26 current residence address is correctly stated below.
+27 Signature_____________
+28 Residence _____________
+29 Indicate one: _____________ Paid Canvasser _____________
+30 Volunteer/Unpaid Canvasser
+31 Subscribed and sworn to before me this _____________day of
+32 _____________, 20_____________
+33 Signature_____________
+34 Clerk, Notary, Judge, or Justice of the Peace
+35 Seal_____________ ”.
+36 (b)(1) If the form provided under subsection (a) of this section is
+8 04/02/2025 4:12:25 PM SSS296
+
+SB613
+1 substantially followed in a petition, the form is sufficient.
+2 (2) A form provided under this section shall not be held
+3 insufficient for clerical and merely technical errors.
+4 (c)(1) A petition under this subchapter shall not be disqualified due
+5 to clerical or technical errors made by a clerk, notary, judge, or justice of
+6 the peace when verifying a canvasser's signature.
+7 (2) A petition under this subchapter shall not be disqualified
+8 for the failure of a clerk, notary, judge, or justice of the peace to sign
+9 exactly as his or her name appears on his or her seal if the signature of a
+10 clerk, notary, judge, or justice of the peace is sufficient to verify his or
+11 her name.
+12 (d) A canvasser who knowingly makes a false statement on a petition
+13 verification form required by this section upon conviction is guilty of a
+14 Class D felony.
+15 (e)(1) A canvasser who witnesses signatures on a petition part shall
+16 view a copy of a potential petitioner's photo identification to verify the
+17 identity of the potential petitioner before obtaining the signature.
+18 (2) If a canvasser cannot verify the identity of the potential
+19 petitioner, the canvasser shall not obtain a signature from the potential
+20 petitioner.
+21 (3) A canvasser who submits a canvasser affidavit under
+22 subsection (a) of this section swearing that to the best of the canvasser's
+23 knowledge and belief each signature is genuine and that the person signing is
+24 a registered voter, but does not comply with the requirements under
+25 subdivision (e)(1) of this section, makes a false statement on the petition
+26 verification form.
+27 (4) As used in this subsection, "photo identification" means a
+28 document or identification card permitted under § 7-1-101(40).
+29
+30 14-116-909. Failure to act on petition — Mandamus — Injunction.
+31 (a) If a county clerk does not examine and certify a petition under
+32 this subchapter within the time prescribed in § 14-116-902, the sponsor may
+33 apply to the circuit court with jurisdiction for appropriate relief.
+34 (b) If the circuit court decides that the petition under this
+35 subchapter is legally sufficient, the circuit court shall order the county
+36 clerk to certify the sufficiency of the petition and set an election date.
+9 04/02/2025 4:12:25 PM SSS296
+
+SB613
+1 (c) On a proper showing that a petition under this subchapter is not
+2 sufficient, the circuit court may enjoin the county clerk from:
+3 (1) Certifying the sufficiency of the petition; or
+4 (2) Setting an election date.
+5
+6 14-116-910. Preservation of records.
+7 (a) All petitions, notices, certificates, or other documentary
+8 evidence of procedural steps taken under this subchapter shall be filed and
+9 preserved.
+10 (b) A petition under this subchapter with signatures shall be retained
+11 for two (2) years after submission to the county clerk.
+12
+13 14-116-911. Count of signatures.
+14 (a) Upon the initial filing of a petition under this subchapter, the
+15 county clerk charged with verifying the signatures shall:
+16 (1) Perform an initial count of the signatures; and
+17 (2) Determine whether the petition contains, on its face and
+18 before verification of the signatures of registered voters, the designated
+19 number of signatures required by the Arkansas Constitution and this
+20 subchapter in order to call an election.
+21 (b) A petition part and all signatures appearing on the petition part
+22 shall not be counted for any purpose by the official charged with verifying
+23 the signatures, including the initial count of signatures, if one (1) or more
+24 of the following is true:
+25 (1) The petition is not an original petition, including without
+26 limitation a petition that is a photocopy or a fax;
+27 (2) The petition lacks the signature, printed name, and
+28 residence address of the canvasser or is signed by more than one (1)
+29 canvasser;
+30 (3) The canvasser is a paid canvasser whose name and the
+31 information required under § 14-116-904 were not submitted by the sponsor to
+32 the county clerk before the petitioner signed the petition;
+33 (4) The canvasser verification is not notarized, is notarized by
+34 more than one (1) notary, or lacks a notary signature or a notary seal;
+35 (5) The canvasser verification is dated earlier than the date on
+36 which a petitioner signed the petition;
+10 04/02/2025 4:12:25 PM SSS296
+
+SB613
+1 (6) The petition part clearly contains signatures of petitioners
+2 from more than one (1) county unless each signature of a petitioner from
+3 another county is clearly stricken before the filing of the petition with the
+4 county clerk; or
+5 (7) The petition part has a material defect that, on its face,
+6 renders the petition part invalid.
+7 (c) The following signatures shall not be counted by the official
+8 charged with verifying the signatures, including the initial count of
+9 signatures:
+10 (1) A signature that is not an original signature;
+11 (2) A signature that is obviously not that of the purported
+12 petitioner;
+13 (3) A signature that is illegible and is accompanied by no
+14 personally identifying information;
+15 (4) A signature for which the corresponding printed name,
+16 address, or birthdate is written by someone other than the petitioner except
+17 under circumstances of disability of the signer;
+18 (5) A signature that has any other material defect that, on its
+19 face, renders the signature invalid; and
+20 (6) A signature submitted by a canvasser who has not filed a
+21 true affidavit with the county clerk as required under subdivision (d)(1) of
+22 this section certifying that the canvasser has complied with the Arkansas
+23 Constitution and all Arkansas laws regarding canvassing, perjury, forgery,
+24 and fraudulent practices in the procurement of petition signatures during the
+25 current election cycle.
+26 (d)(1) Except as provided under subdivision (d)(4) of this section, a
+27 canvasser shall file a true affidavit with the county clerk certifying that
+28 the canvasser has complied with the Arkansas Constitution and all Arkansas
+29 laws regarding canvassing, perjury, forgery, and fraudulent practices in the
+30 procurement of petition signatures during the current election cycle.
+31 (2) The county clerk shall not count the signatures submitted by
+32 a canvasser until a true affidavit is submitted by the canvasser under
+33 subdivision (d)(1) of this section.
+34 (3) A true affidavit submitted under subdivision (d)(1) of this
+35 section shall have no bearing to establish the genuineness or falsity of the
+36 signatures obtained by the canvasser.
+11 04/02/2025 4:12:25 PM SSS296
+
+SB613
+1 (4)(A) The inability of a canvasser to submit an affidavit due
+2 to death or medical disability shall not disqualify the signatures gathered
+3 by the canvasser.
+4 (B) Subdivision (d)(4)(A) of this section does not excuse
+5 a canvasser from filing the affidavit required under § 14-116-908.
+6 (e) A canvasser who has filed a true affidavit under subsection (d) of
+7 this section shall not collect additional signatures unless the county clerk
+8 determines that the sponsor of the fluoridation election petition is eligible
+9 to solicit and add additional signatures to the petition under § 14–14–
+10 915(e).
+11
+12 14-116-912. Notification of election.
+13 (a) Notice of an election under this subchapter shall be given by the
+14 secretary of the board of directors of the public water system at least
+15 thirty (30) days before the date fixed for the election by publication of a
+16 notice for at least two (2) consecutive weekly insertions in a newspaper
+17 published and having a bona fide circulation in each of the counties supplied
+18 by the public water system.
+19 (b) The notice of election shall be in substantially the following
+20 form:
+21 “NOTICE OF ELECTION
+22 Notice is hereby given that an election will be held in ............. County,
+23 Arkansas, on the ............. day of ............., 20............., for the
+24 purpose of determining whether the Board of Directors of the .............
+25 Public Water System shall be authorized to change the status of water
+26 fluoridation in the public water system, and whether the Board of Directors
+27 of the public water system shall be authorized to exercise the powers
+28 conferred on the public water system under Arkansas Code § 14-116-901 et seq.
+29 to carry out the results of the election. The voting places in .............
+30 County, Arkansas, for this election shall be as follows: (Here will be
+31 inserted the various voting places of the county in which the particular
+32 notice is published.)”.
+33 (c) The notice required under this section shall be dated and signed
+34 by the secretary of the board of directors of the public water system.
+35
+36 14-116-913. Conduct of election.
+12 04/02/2025 4:12:25 PM SSS296
+
+SB613
+1 (a)(1)(A) The county board of election commissioners of the particular
+2 county shall cause the question of a change in status of the water
+3 fluoridation in a public water system to be placed on the ballot:
+4 (i) In even-numbered years, at the general election
+5 or preferential primary election; or
+6 (ii) In odd-numbered years, at the special election
+7 that shall be held on the second Tuesday of March or November.
+8 (B) An election held under subdivision (a)(1)(A)(ii) of
+9 this section that is scheduled to occur in a month in which the second
+10 Tuesday is a legal holiday shall be held on the third Tuesday of the month.
+11 (2) The question shall be presented in the following form:
+12 " FOR THE FLUORIDATION OF WATER IN [DESCRIPTION OF THE
+13 PUBLIC WATER SYSTEM]
+14 AGAINST THE FLUORIDATION OF WATER IN [DESCRIPTION OF
+15 THE PUBLIC WATER SYSTEM].".
+16 (3) Each elector shall be instructed on the ballot to vote "FOR"
+17 or "AGAINST" the question by placing an appropriate mark.
+18 (b) The county board of election commissioners shall count the votes
+19 cast on the question submitted to the voters under this section to determine
+20 the fluoridation of water in the public water system and shall deliver its
+21 certificate declaring the result of the election, together with the election
+22 returns, within three (3) days after the date of the election to the county
+23 clerk of the county.
+24 (c) Upon petition of twenty-five (25) interested registered voters in
+25 the territory affected, within ten (10) days after the date of an election
+26 under this section, the county board of election commissioners shall
+27 immediately recount the votes and declare the result of the election as
+28 determined by the recount.
+29 (d) Within twenty (20) days after an election under this section, the
+30 county court shall make and have entered on record its order declaring the
+31 result of the election.
+32 (e)(1) The costs of an election held under this subchapter shall be
+33 paid by the board of directors of the public water system.
+34 (2) The county clerk of each county holding an election to
+35 determine the fluoridation of the water in the public water system shall
+36 provide an invoice to the board of directors of the public water system for
+13 04/02/2025 4:12:25 PM SSS296
+
+SB613
+1 any expenses incurred by the county in connection with an election under this
+2 subchapter.
+3
+4 14-116-914. Results of election.
+5 (a) If a majority of the registered voters supplied by the public
+6 water system elect to prohibit fluoridation of water under this subchapter,
+7 the public water system shall cease fluoridation of the water within thirty
+8 (30) days of the certification of the election results.
+9 (b) A subsequent election in the public water system under this
+10 subchapter shall not be held earlier than four (4) years after an election is
+11 held under this subchapter.
+12
+13 SECTION 2. Arkansas Code § 20-7-136(b), concerning a statewide
+14 fluoridation program, is amended to read as follows:
+15 (b) The Unless prohibited by the results of an election under § 14-
+16 116-901 et seq., the company, corporation, municipality, county, government
+17 agency, or other entity that owns or controls a water system shall control
+18 the quantity of fluoride in the water so as to maintain a fluoride content
+19 established by the Department of Health.
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+14 04/02/2025 4:12:25 PM SSS296
+
+[DELETED:       A F P  T D S  B   S a     S   1  A   ( e   ( t s s   ( t   (]
+[DELETED: S2 0 a   ( l t c   ( t   ( a p f   1 w  ( s t t  ( s w   ( t   ( p  ( d   ( b s   ( s i  ( c C]
+[DELETED: S3 0 s b  ( s s w   ( r c f   1 p  ( B c s   (   (   (  ( e s s   ( o   (   1  ( a u o   ( s    (]
+[DELETED: S4 0 s    ( ( r     ( s s c  ( a s   (   ( p d   ( t b l   ( t e   ( t  ( s e   1 o  (    ( s    ( p a]
+[DELETED: S5 0 n a   ( t    ( a    ( o   ( a   ( f f p    (    ( n p  ( c   (   ( o d   ( t   ( s   ( s a c   ( c o f]
+[DELETED: S6 0   ( p t b   ( t s o  ( r i f  ( w e p s c c   ( o   1  ( i f  “  T  C  W _ t d o s  I]
+[DELETED: S7 0 _ r p  ( e  ( s s   ( t s r r f t v t  ( t l  ( b t   ( t c   1  ( f p a a   ( r c]
+[DELETED: S8 0  ( t p   ( v   ( t   ( s  ( p   1  ( b o  “  I s t b _ s t o c  S  R  I V  S _  S  C  S  (]
+[DELETED: S9 0 s   ( i  ( t t   ( f e c h  ( v C  ( v i   ( p p   ( s k a s v   ( d   1  ( t a  ( s c]
+[DELETED: S1 0  ( s   (   (   1  ( e p  ( f   1  ( c   (   ( b n s  ( s t o   ( l   ( r c   ( i t   ( m   ( w]
+[DELETED: S1 0   ( f a c   ( r  ( c s   (   ( p   ( p   ( a u   ( f   ( t t C a c  ( c t l p   ( a s   ( s s]
+[DELETED: S1 0   ( t b    ( a  ( t d t 9   1  ( s t n p b  ( f     “ N A p P f o c t C i n  ( b   1]
+[DELETED: S1 0  ( c f     ( o     ( t    ( t T   (    " P      T   ( o  ( c t c r c  ( t u i d  ( c r  ( p   ( d p]
+[DELETED: S1 0 a s   1  ( w t (  ( s h   S f  ( 1 a t e]

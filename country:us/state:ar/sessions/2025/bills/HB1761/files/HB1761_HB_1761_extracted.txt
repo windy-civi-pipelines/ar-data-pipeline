@@ -1,0 +1,259 @@
+Title: Stricken language would be deleted from and underlined language would be added to present law.
+Official Title: Stricken language would be deleted from and underlined language would be added to present law.
+Number of Sections: 1
+Source: versions - HB 1761
+Media Type: application/pdf
+Strikethrough Detection: 3 sections found
+
+================================================================================
+
+Section 1:
+1 State of Arkansas
+A Bill
+2 95th General Assembly
+3 Regular Session, 2025 HOUSE BILL 1761
+4
+5 By: Representative D. Garner
+6
+7
+For An Act To Be Entitled
+8
+9 AN ACT TO INCREASE FISCAL RESPONSIBILITY THROUGH THE
+10 ESTABLISHMENT OF INCOME LIMITS FOR STUDENTS ELIGIBLE
+11 FOR EDUCATIONAL FREEDOM ACCOUNTS IN THE 2025-2026
+12 SCHOOL YEAR AND THEREAFTER; AND FOR OTHER PURPOSES.
+13
+14
+Subtitle
+15
+16 TO INCREASE FISCAL RESPONSIBILITY
+17 THROUGH THE ESTABLISHMENT OF INCOME
+18 LIMITS FOR STUDENTS ELIGIBLE FOR
+19 EDUCATIONAL FREEDOM ACCOUNTS IN THE
+20 2025-2026 SCHOOL YEAR AND THEREAFTER.
+21
+22 BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF ARKANSAS:
+23
+24 SECTION 1. Arkansas Code § 6-18-2506(a)(3)(A)(i)(e)-(g), concerning
+25 student eligibility for the Arkansas Children's Educational Freedom Account
+26 Program, is amended to read as follows:
+27 (e) A child of active-duty uniformed service
+28 personnel, as identified under Title 10, Title 32, Title 33, or Title 42 of
+29 the United States Code; or
+30 (f) A student who was enrolled in the previous
+31 school year in a:
+32 (1) Public school that has a rating of
+33 “F” under §§ 6-15-2105 and 6-15-2106 and State Board of Education rules; or
+34 (2) Public school district classified as
+35 in need of Level 5 — Intensive support under § 6-15-2913 or § 6-15-2915; or
+36 (g) A student who is enrolling in kindergarten
+*TNL271*
+03/12/2025 7:43:51 AM TNL271
+HB1761
+1 for the first time.
+2
+3 SECTION 2. Arkansas Code § 6-18-2506(a)(3)(C) is amended to read as
+4 follows:
+5 (C)(i) For the 2025-2026 school year and each year
+6 thereafter, any resident of this state who is eligible to enroll in a public
+7 elementary or secondary school shall be eligible student eligibility shall
+8 include students who meet at least one (1) of the following:
+9 (i) A student who is eligible under subdivision
+10 (a)(3)(B)(i) of this section;
+11 (ii) A student who is continuing to participate in
+12 the Arkansas Children's Educational Freedom Account Program from the 2024-
+13 2025 school year; or
+14 (iii) A resident of this state who is eligible to
+15 enroll in a public elementary or secondary school if:
+16 (a) His or her family has a gross family
+17 income not exceeding two hundred fifty percent (250%) of the federal poverty
+18 level;
+19 (b)(1) His or her family has a gross family
+20 income exceeding two hundred fifty percent (250%) of the federal poverty
+21 level but not exceeding three hundred fifty percent (350%) of the federal
+22 poverty level.
+23 (2) However, a student eligible for an
+24 account under subdivision (a)(3)(C)(iii)(b)(1) of this section shall receive
+25 only fifty percent (50%) of the prior year's statewide foundation funding
+26 allocated per student under § 6-20-2305; or
+27 (c)(1) His or her family has a gross family
+28 income exceeding three hundred fifty percent (350%) of the federal poverty
+29 level but not exceeding four hundred percent (400%) of the federal poverty
+30 level.
+31 (2) However, a student eligible for an
+32 account under subdivision (a)(3)(C)(iii)(c)(1) of this section shall receive
+33 only twenty-five percent (25%) of the prior year's statewide foundation
+34 funding allocated per student under § 6-20-2305.
+35 (ii) Beginning with the 2025-2026 school year, there
+36 shall be no limitation on student participation in the Arkansas Children's
+2 03/12/2025 7:43:51 AM TNL271
+HB1761
+1 Educational Freedom Account Program.
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+3 03/12/2025 7:43:51 AM TNL271
+[DELETED:          A E F S   T T L E 2  B   S s P      ( p t      ( s       ( “       ( i      (]
+[DELETED: H2 0 f   S f    ( t e i     ( (     ( t 2     ( e      ( i l      ( i l p       ( a o a      ( i l l       ( a o f     ( s]
+[DELETED: H3 0 E]
+
+
+================================================================================
+
+Raw Text:
+Stricken language would be deleted from and underlined language would be added to present law.
+1 State of Arkansas
+A Bill
+2 95th General Assembly
+3 Regular Session, 2025 HOUSE BILL 1761
+4
+5 By: Representative D. Garner
+6
+7
+For An Act To Be Entitled
+8
+9 AN ACT TO INCREASE FISCAL RESPONSIBILITY THROUGH THE
+10 ESTABLISHMENT OF INCOME LIMITS FOR STUDENTS ELIGIBLE
+11 FOR EDUCATIONAL FREEDOM ACCOUNTS IN THE 2025-2026
+12 SCHOOL YEAR AND THEREAFTER; AND FOR OTHER PURPOSES.
+13
+14
+Subtitle
+15
+16 TO INCREASE FISCAL RESPONSIBILITY
+17 THROUGH THE ESTABLISHMENT OF INCOME
+18 LIMITS FOR STUDENTS ELIGIBLE FOR
+19 EDUCATIONAL FREEDOM ACCOUNTS IN THE
+20 2025-2026 SCHOOL YEAR AND THEREAFTER.
+21
+22 BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF ARKANSAS:
+23
+24 SECTION 1. Arkansas Code § 6-18-2506(a)(3)(A)(i)(e)-(g), concerning
+25 student eligibility for the Arkansas Children's Educational Freedom Account
+26 Program, is amended to read as follows:
+27 (e) A child of active-duty uniformed service
+28 personnel, as identified under Title 10, Title 32, Title 33, or Title 42 of
+29 the United States Code; or
+30 (f) A student who was enrolled in the previous
+31 school year in a:
+32 (1) Public school that has a rating of
+33 “F” under §§ 6-15-2105 and 6-15-2106 and State Board of Education rules; or
+34 (2) Public school district classified as
+35 in need of Level 5 — Intensive support under § 6-15-2913 or § 6-15-2915; or
+36 (g) A student who is enrolling in kindergarten
+*TNL271*
+03/12/2025 7:43:51 AM TNL271
+
+HB1761
+1 for the first time.
+2
+3 SECTION 2. Arkansas Code § 6-18-2506(a)(3)(C) is amended to read as
+4 follows:
+5 (C)(i) For the 2025-2026 school year and each year
+6 thereafter, any resident of this state who is eligible to enroll in a public
+7 elementary or secondary school shall be eligible student eligibility shall
+8 include students who meet at least one (1) of the following:
+9 (i) A student who is eligible under subdivision
+10 (a)(3)(B)(i) of this section;
+11 (ii) A student who is continuing to participate in
+12 the Arkansas Children's Educational Freedom Account Program from the 2024-
+13 2025 school year; or
+14 (iii) A resident of this state who is eligible to
+15 enroll in a public elementary or secondary school if:
+16 (a) His or her family has a gross family
+17 income not exceeding two hundred fifty percent (250%) of the federal poverty
+18 level;
+19 (b)(1) His or her family has a gross family
+20 income exceeding two hundred fifty percent (250%) of the federal poverty
+21 level but not exceeding three hundred fifty percent (350%) of the federal
+22 poverty level.
+23 (2) However, a student eligible for an
+24 account under subdivision (a)(3)(C)(iii)(b)(1) of this section shall receive
+25 only fifty percent (50%) of the prior year's statewide foundation funding
+26 allocated per student under § 6-20-2305; or
+27 (c)(1) His or her family has a gross family
+28 income exceeding three hundred fifty percent (350%) of the federal poverty
+29 level but not exceeding four hundred percent (400%) of the federal poverty
+30 level.
+31 (2) However, a student eligible for an
+32 account under subdivision (a)(3)(C)(iii)(c)(1) of this section shall receive
+33 only twenty-five percent (25%) of the prior year's statewide foundation
+34 funding allocated per student under § 6-20-2305.
+35 (ii) Beginning with the 2025-2026 school year, there
+36 shall be no limitation on student participation in the Arkansas Children's
+2 03/12/2025 7:43:51 AM TNL271
+
+HB1761
+1 Educational Freedom Account Program.
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+3 03/12/2025 7:43:51 AM TNL271
+
+[DELETED:          A E F S   T T L E 2  B   S s P      ( p t      ( s       ( “       ( i      (]
+[DELETED: H2 0 f   S f    ( t e i     ( (     ( t 2     ( e      ( i l      ( i l p       ( a o a      ( i l l       ( a o f     ( s]
+[DELETED: H3 0 E]
