@@ -1,0 +1,812 @@
+Title: Stricken language would be deleted from and underlined language would be added to present law.
+Official Title: Stricken language would be deleted from and underlined language would be added to present law.
+Number of Sections: 1
+Source: versions - HB 1028
+Media Type: application/pdf
+Strikethrough Detection: 10 sections found
+
+================================================================================
+
+Section 1:
+1 State of Arkansas As Engrossed: H1/16/25
+A Bill
+2 95th General Assembly
+3 Regular Session, 2025 HOUSE BILL 1028
+4
+5 Representatives A. Collins, Springer
+6
+7
+For An Act To Be Entitled
+8
+9 AN ACT TO AMEND THE LAW CONCERNING LIBRARIES; TO
+10 AMEND THE LAW CONCERNING MATERIALS MADE AVAILABLE BY
+11 LIBRARIES; TO REPEAL PROVISIONS OF THE LAW CONCERNING
+12 THE PROCESS FOR CHALLENGING MATERIALS INCLUDED IN A
+13 LIBRARY; TO REPEAL THE OFFENSE OF FURNISHING A
+14 HARMFUL ITEM TO A MINOR; TO AMEND PROVISIONS IN THE
+15 CRIMINAL CODE CONCERNING OBSCENITY; TO REQUIRE A
+16 LIBRARY TO HAVE A WRITTEN POLICY PROHIBITING BOOK
+17 BANNING IN ORDER TO RECEIVE STATE FUNDING; TO AMEND
+18 THE LAW CONCERNING THE INFORMATION THAT A LIBRARY MAY
+19 DISCLOSE; AND FOR OTHER PURPOSES.
+20
+21
+Subtitle
+22
+23 TO AMEND PROVISIONS OF THE LAW
+24 CONCERNING OBSCENITY AND THE PROCESS FOR
+25 CHALLENGING MATERIALS INCLUDED IN A
+26 LIBRARY; AND TO REQUIRE A LIBRARY TO
+27 HAVE A POLICY PROHIBITING BOOK BANNING
+28 IN ORDER TO RECEIVE STATE FUNDING.
+29
+30 BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF ARKANSAS:
+31
+32 SECTION 1. Arkansas Code § 5-27-212 is repealed.
+33 5-27-212. Furnishing a harmful item to a minor.
+34 (a) As used in this section:
+35 (1) “Harmful to minors” means the same as defined in § 5-68-501;
+36 (2) “Internet” means the combination of computer facilities and
+*JLL006*
+01-16-2025 15:11:35 JLL006
+As Engrossed: H1/16/25 HB1028
+1 electromagnetic transmission media, and related equipment and software,
+2 comprising the interconnected worldwide network of computer networks that
+3 employ the Transmission Control Protocol/Internet Protocol (TCP/IP) or any
+4 successor protocol to transmit information;
+5 (3) “Internet website” means a location where material placed in
+6 a computer server-based file archive is publicly accessible over the internet
+7 using hypertext transfer protocol or any successor protocol; and
+8 (4)(A) “Item” means a material or performance that depicts or
+9 describes nudity, sexual conduct, sexual excitement, or sadomasochistic
+10 abuse, as those terms are defined in § 5-68-501.
+11 (B) “Item” includes without limitation:
+12 (i) A book, leaflet, pamphlet, magazine, booklet,
+13 picture, drawing, photograph, film, negative, slide, motion picture, figure,
+14 object, article, novelty device, recording, transcription, live or recorded
+15 telephone message, or other similar item whether tangible or intangible;
+16 (ii) A performance, exhibition, transmission, or
+17 dissemination of any of the items listed in subdivision (a)(4)(B)(i) of this
+18 section; and
+19 (iii) A live performance or exhibition that depicts
+20 nudity, sexual conduct, sexual excitement, or sadomasochistic abuse, as those
+21 terms are defined in § 5-68-501, to the public or an audience of one (1) or
+22 more persons.
+23 (b) A person commits furnishing a harmful item to a minor if, knowing
+24 the character of the item involved, the person knowingly:
+25 (1) Furnishes, presents, provides, makes available, gives,
+26 lends, shows, advertises, or distributes to a minor an item that is harmful
+27 to minors; or
+28 (2) Transmits or sends to a person that he or she believes to be
+29 a minor by means of electronic mail, personal messaging, or any other direct
+30 internet communication an item that is harmful to minors when the person
+31 knows or believes at the time of the transmission that a minor in this state
+32 will receive the item.
+33 (c)(1) Subdivision (b)(1) of this section does not apply to the
+34 transmission or sending of items over the internet.
+35 (2) Subdivision (b)(2) of this section does not apply to:
+36 (A) Posting material on an internet website, bulletin
+2 01-16-2025 15:11:35 JLL006
+As Engrossed: H1/16/25 HB1028
+1 board, or newsgroup; or
+2 (B) Sending material via a mailing list, listserv, or
+3 other method of internet communication in which a message is sent to an
+4 internet address and then retransmitted to one (1) or more subscribers, that
+5 is not administered by the sender.
+6 (d) Furnishing a harmful item to a minor is a Class A misdemeanor.
+7
+8 SECTION 2. Arkansas Code § 5-68-308(c), concerning defenses to state
+9 standards that define and regulate obscenity, is amended to read as follows:
+10 (c) No employee, director, or trustee of a bona fide school, museum,
+11 or public library, acting within the scope of his or her regular employment,
+12 is liable to prosecution for a violation of this subchapter for disseminating
+13 a writing, film, slide, drawing, or other visual reproduction that is claimed
+14 to be obscene.
+15
+16 SECTION 3. Arkansas Code § 5-68-405(a), concerning the possession,
+17 sale, or distribution of obscenity, is amended to read as follows:
+18 (a) A person that knowingly sends or causes to be sent or brings or
+19 causes to be brought into this state for sale or commercial distribution, or
+20 in this state prepares, publishes, sells, exhibits, loans at a library, or
+21 commercially distributes, or gives away or offers to give away or has in the
+22 person's possession with the purpose to sell or commercially distribute or to
+23 exhibit or to give away, obscene printed or written matter or material other
+24 than mailable matter, or any mailable matter known by the person to have been
+25 judicially found to be obscene under this subchapter, or that knowingly
+26 informs another of when, where, how, or from whom or by what means any of
+27 these things can be purchased or obtained, upon conviction is guilty of a
+28 Class D felony.
+29
+30 SECTION 4. Arkansas Code § 6-25-105 is amended to read as follows:
+31 6-25-105. Establishment of guidelines for selection, relocation
+32 removal, and retention of materials.
+33 (a) Media centers shall have written policies to establish guidelines
+34 for the selection, relocation removal, and retention of physical materials
+35 that are available to the public.
+36 (b) The school district shall have a written policy for addressing
+3 01-16-2025 15:11:35 JLL006
+As Engrossed: H1/16/25 HB1028
+1 challenged material that is physically present in the library and available
+2 to the public and meets the requirements stated in subsection (c) of this
+3 section.
+4 (c) A written policy adopted by a school district under subsection (b)
+5 of this section shall provide, at a minimum, the following:
+6 (1) A parent or guardian of a student affected by the material
+7 to be challenged or an employee of the school district may challenge the
+8 appropriateness of material available in the school district's media center;
+9 (2) The school district shall decide if material being
+10 challenged shall remain available throughout the challenge process;
+11 (3) Before a person can file a challenge, the person shall
+12 request a conference through the principal's office with a licensed media
+13 center employee;
+14 (4) Before a conference under subdivision (c)(3) of this section
+15 occurs, the school district shall provide a copy of the following to a person
+16 who requests a conference under subdivision (c)(3) of this section:
+17 (A) The written policy adopted by a school district under
+18 subsection (b) of this section; and
+19 (B) A form or other method by which a person may request a
+20 reconsideration of the appropriateness of the material being challenged;
+21 (5) After the conference requested under subdivision (c)(3) of
+22 this section occurs, if the person who requested the conference wants to
+23 formally challenge the appropriateness of the material that was the subject
+24 of the conference, the person shall complete and submit the request for
+25 reconsideration using the form or other method provided under subdivision
+26 (c)(4)(B) of this section to challenge the material that was the subject of
+27 the conference;
+28 (6)(A) In conducting a review of material being challenged, the
+29 principal of the school district shall select a committee of licensed
+30 personnel.
+31 (B) The principal or his or her designee shall be a member
+32 of the committee and may serve as the chair of the committee established
+33 under subdivision (c)(6)(A) of this section.
+34 (C) At least one (1) member of the committee established
+35 under subdivision (c)(6)(A) of this section shall be a media specialist.
+36 (D) The committee members who are not the principal or a
+4 01-16-2025 15:11:35 JLL006
+As Engrossed: H1/16/25 HB1028
+1 media specialist shall be licensed personnel with curriculum knowledge
+2 appropriate for the material being challenged and be representative of
+3 diverse viewpoints;
+4 (7)(A) The committee established under subdivision (c)(6)(A) of
+5 this section shall determine if the material being challenged meets the
+6 criteria of selection.
+7 (B) Material being challenged:
+8 (i) Shall not be withdrawn solely for the viewpoints
+9 expressed within the material; and
+10 (ii) Shall be reviewed in its entirety and shall not
+11 have selected portions taken out of context;
+12 (8) The school district shall convene a meeting of the committee
+13 established under subdivision (c)(6)(A) of this section after allowing a
+14 reasonable time for the committee members to adequately review the material
+15 being challenged and the request submitted under subdivision (c)(5) of this
+16 section by the person challenging the appropriateness of the material;
+17 (9) The committee established under subdivision (c)(6)(A) of
+18 this section shall allow the person who submitted the request under
+19 subdivision (c)(5) of this section to present his or her request to the
+20 committee;
+21 (10) After hearing from the person who submitted the request
+22 under subdivision (c)(5) of this section, the committee established under
+23 subdivision (c)(6)(A) of this section shall meet to discuss the material
+24 being challenged;
+25 (11)(A) The committee established under subdivision (c)(6)(A) of
+26 this section shall vote to determine whether the material being challenged
+27 shall be relocated within the media center's collection to an area that is
+28 not accessible to minors under eighteen (18) years of age.
+29 (B) A member of the committee established under
+30 subdivision (c)(6)(A) of this section who votes with the majority under
+31 subdivision (c)(11)(A) of this section shall write a summary of the reasons
+32 for the majority's decision.
+33 (C) Notice of the committee's decision under subdivision
+34 (c)(11)(A) of this section and the summary prepared under subdivision
+35 (c)(11)(B) of this section shall be given by hand or by certified mail to the
+36 person who submitted the request under subdivision (c)(5) of this section;
+5 01-16-2025 15:11:35 JLL006
+As Engrossed: H1/16/25 HB1028
+1 (12)(A) If the committee established under subdivision (c)(6)(A)
+2 of this section decides not to relocate the material being challenged, the
+3 person who submitted the request under subdivision (c)(5) of this section may
+4 appeal the committee's decision to the board of directors for the school
+5 district by filing a written appeal to the superintendent within five (5)
+6 working days of the committee's decision or written receipt of the
+7 committee's decision.
+8 (B)(i) If a person appeals the decision of a committee
+9 under this subdivision (c)(12), the superintendent shall present the material
+10 being challenged, the request submitted by the person under subdivision
+11 (c)(5) of this section, the committee's decision under subdivision (c)(11)(A)
+12 of this section, and the summary prepared under subdivision (c)(11)(B) of
+13 this section to the board of directors within fifteen (15) days of the
+14 committee's decision.
+15 (ii) In addition to the information required to be
+16 provided under subdivision (c)(12)(B)(i) of this section, the superintendent
+17 may also include the administration's recommendation regarding the appeal
+18 submitted under this subdivision (c)(12).
+19 (C)(i) The members of the board of directors shall review
+20 the information submitted to them under this subdivision (c)(12) and shall
+21 make a decision on the appeal within thirty (30) days of receiving the
+22 information.
+23 (ii) The decision of a board of directors under
+24 subdivision (c)(12)(C)(i) of this section is final; and
+25 (13) A meeting held regarding a challenge or an appeal submitted
+26 under a written policy adopted by a school district under subsection (b) of
+27 this section shall be a public meeting and the records submitted and
+28 considered at a meeting shall be public records under the Freedom of
+29 Information Act of 1967, § 25-19-101 et seq.
+30
+31 SECTION 5. Arkansas Code § 13-2-106 is repealed.
+32 13-2-106. Establishment of guidelines for selection, relocation, and
+33 retention of materials — Definitions.
+34 (a) Each county or municipal library shall have a written policy to
+35 establish guidelines for the selection, relocation, and retention of physical
+36 materials that are available to the public.
+6 01-16-2025 15:11:35 JLL006
+As Engrossed: H1/16/25 HB1028
+1 (b) A county or municipal library shall have a written policy for
+2 addressing challenged material that is physically present in the library and
+3 available to the public and meets the requirements stated in subsection (c)
+4 of this section.
+5 (c) A written policy adopted by a county or municipal library under
+6 subsection (b) of this section shall provide, at a minimum, the following:
+7 (1) A person affected by the material to be challenged or an
+8 employee of the county or municipal library may challenge the appropriateness
+9 of material available in the county or municipal library;
+10 (2) The county or municipal library shall decide if material
+11 being challenged shall remain available throughout the challenge process;
+12 (3) Before a person can file a challenge, the person shall
+13 request a meeting with the librarian of the county or municipal library;
+14 (4) Before a meeting under subdivision (c)(3) of this section
+15 occurs, the county or municipal library shall provide a copy of the following
+16 to a person who requests a meeting under subdivision (c)(3) of this section:
+17 (A) The written policy adopted by the county or municipal
+18 library under subsection (b) of this section; and
+19 (B) A form or other method by which a person may request a
+20 reconsideration of the appropriateness of the material being challenged;
+21 (5) After the meeting requested under subdivision (c)(3) of this
+22 section occurs, if the person who requested the meeting wants to formally
+23 challenge the appropriateness of the material that was the subject of the
+24 meeting, the person shall complete and submit the request for reconsideration
+25 using the form or other method provided under subdivision (c)(4)(B) of this
+26 section to challenge the material that was the subject of the meeting;
+27 (6)(A) In conducting a review of material being challenged, the
+28 librarian of the county or municipal library shall select a committee of
+29 library personnel.
+30 (B) The librarian or his or her designee shall be a member
+31 of the committee and may serve as the chair of the committee established
+32 under subdivision (c)(6)(A) of this section.
+33 (C) The committee members who are not the librarian shall
+34 have knowledge appropriate for the material being challenged and be
+35 representative of diverse viewpoints;
+36 (7)(A) The committee established under subdivision (c)(6)(A) of
+7 01-16-2025 15:11:35 JLL006
+As Engrossed: H1/16/25 HB1028
+1 this section shall determine if the material being challenged meets the
+2 criteria of selection.
+3 (B) Material being challenged:
+4 (i) Shall not be withdrawn solely for the viewpoints
+5 expressed within the material; and
+6 (ii) Shall be reviewed in its entirety and shall not
+7 have selected portions taken out of context;
+8 (8) The county or municipal library shall convene a meeting of
+9 the committee established under subdivision (c)(6)(A) of this section after
+10 allowing a reasonable time for the committee members to adequately review the
+11 material being challenged and the request submitted under subdivision (c)(5)
+12 of this section by the person challenging the appropriateness of the
+13 material;
+14 (9) The committee established under subdivision (c)(6)(A) of
+15 this section shall allow the person who submitted the request under
+16 subdivision (c)(5) of this section to present his or her request to the
+17 committee;
+18 (10) After hearing from the person who submitted the request
+19 under subdivision (c)(5) of this section, the committee established under
+20 subdivision (c)(6)(A) of this section shall meet to discuss the material
+21 being challenged;
+22 (11)(A) The committee established under subdivision (c)(6)(A) of
+23 this section shall vote to determine whether the material being challenged
+24 shall be relocated within the library's collection to an area that is not
+25 accessible to minors under eighteen (18) years of age.
+26 (B) A member of the committee established under
+27 subdivision (c)(6)(A) of this section who votes with the majority under
+28 subdivision (c)(11)(A) of this section shall write a summary of the reasons
+29 for the majority's decision.
+30 (C) Notice of the committee's decision under subdivision
+31 (c)(11)(A) of this section and the summary prepared under subdivision
+32 (c)(11)(B) of this section shall be given by hand or by certified mail to the
+33 person who submitted the request under subdivision (c)(5) of this section;
+34 (12)(A) If the committee established under subdivision (c)(6)(A)
+35 of this section decides not to relocate the material being challenged, the
+36 person who submitted the request under subdivision (c)(5) of this section may
+8 01-16-2025 15:11:35 JLL006
+As Engrossed: H1/16/25 HB1028
+1 appeal the committee's decision to the governing body of the county or city
+2 by filing a written appeal to the executive head of the governing body of the
+3 county or city within five (5) working days of the committee's decision or
+4 written receipt of the committee's decision.
+5 (B)(i) If a person appeals the decision of a committee
+6 under this subdivision (c)(12), the executive head of the county or city
+7 shall present the material being challenged, the request submitted by the
+8 person under subdivision (c)(5) of this section, the committee's decision
+9 under subdivision (c)(11)(A) of this section, and the summary prepared under
+10 subdivision (c)(11)(B) of this section to the governing body of the county or
+11 city within fifteen (15) days of the committee's decision.
+12 (ii) In addition to the information required to be
+13 provided under subdivision (c)(12)(B)(i) of this section, the executive head
+14 of the county or city may also include his or her recommendation regarding
+15 the appeal submitted under this subdivision (c)(12).
+16 (C)(i) The members of the governing body of the county or
+17 city shall review the information submitted to them under this subdivision
+18 (c)(12) and shall make a decision on the appeal within thirty (30) days of
+19 receiving the information.
+20 (ii) The decision of the governing body of the
+21 county or city under subdivision (c)(12)(C)(i) of this section is final; and
+22 (13) A meeting held regarding a challenge or an appeal submitted
+23 under a written policy adopted by a county or city library under subsection
+24 (b) of this section shall be a public meeting and the records submitted and
+25 considered at a meeting shall be public records under the Freedom of
+26 Information Act of 1967, § 25-19-101 et seq.
+27 (d) As used in this section:
+28 (1) “Executive head of the county or city” means:
+29 (A) For a county library, the executive head of the
+30 county;
+31 (B) For a city library, the executive head of the city;
+32 and
+33 (C) For a library that is funded by both a county and a
+34 city, the executive head of the county or city that provides the majority of
+35 the funding for the library; and
+36 (2) “Governing body of the county or city” means:
+9 01-16-2025 15:11:35 JLL006
+As Engrossed: H1/16/25 HB1028
+1 (A) For a county library, the county;
+2 (B) For a city library, the city; and
+3 (C) For a library that is funded by both a county and a
+4 city, the county or city that provides the majority of the funding for the
+5 library.
+6
+7 SECTION 6. Arkansas Code Title 13, Chapter 2, Subchapter 2, is amended
+8 to add an additional section to read as follows:
+9 13-2-215. Administration of state programs of aid.
+10 In determining a public library's eligibility to receive funding from
+11 state programs of aid, the Arkansas State Library shall provide state funding
+12 to a library only if the public library has a written policy prohibiting the
+13 practice of banning books or other materials because of partisan or doctrinal
+14 disapproval.
+15
+16 SECTION 7. Arkansas Code § 13-2-704(b), concerning the disclosure of
+17 information permitted by a library, is repealed.
+18 (b) A library may disclose confidential library records to:
+19 (1) The patron; and
+20 (2) The parent or legal guardian of a patron who is younger than
+21 eighteen (18) years of age.
+22
+23 /s/A. Collins
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+10 01-16-2025 15:11:35 JLL006
+[DELETED:  A       A A L T L H C L B T D   T C C L H I  B   S  5  (   (   (]
+[DELETED:  H2 0 e c e s   ( a u   ( d a    (     ( p o t     ( d s     ( n t m  ( t   ( l t   ( a i k w  ( t   (    (]
+[DELETED:  H3 0 b    ( o i i  (   S s  ( o i a t   S s  ( c i c p e t j i t C   S  6 r  ( f t  (]
+[DELETED:  H4 0 c t s  ( o   ( t a   ( c   ( r c   ( o w    ( s    ( r   ( t f o r ( t   ( p p    ( o u    ( u    (]
+[DELETED:  H5 0 m a d   ( t c    (     ( e     ( h   ( e r b s   ( t s c   ( u s b   ( t s n    ( s s f    ( ( ( p]
+[DELETED:  H6 0   ( o p a d w c    ( u b ( o t c     ( p m s    ( t m i     ( s   ( u t c I   S  1 r  ( e m]
+[DELETED:  H7 0  ( a a o  ( s   ( e o   ( b   ( r   ( o t    ( l    ( r   ( s c m u s   ( l l    ( o u    ( h r   (]
+[DELETED:  H8 0 t c    (     ( e     ( h   ( t a m o m   ( t s c   ( u s b   ( t s a    ( s s f    ( ( ( p   ( o p]
+[DELETED:  H9 0 a b c w    ( u s p u s c     ( p o t    ( c ( r     ( c   ( u ( c I  (   (    ( c    ( a    ( c t   (]
+[DELETED:  H1 0    (    (    ( c l   S t  1  I s t p d   S i  (   (   ( e  /             ]
+
+
+================================================================================
+
+Raw Text:
+Stricken language would be deleted from and underlined language would be added to present law.
+1 State of Arkansas As Engrossed: H1/16/25
+A Bill
+2 95th General Assembly
+3 Regular Session, 2025 HOUSE BILL 1028
+4
+5 Representatives A. Collins, Springer
+6
+7
+For An Act To Be Entitled
+8
+9 AN ACT TO AMEND THE LAW CONCERNING LIBRARIES; TO
+10 AMEND THE LAW CONCERNING MATERIALS MADE AVAILABLE BY
+11 LIBRARIES; TO REPEAL PROVISIONS OF THE LAW CONCERNING
+12 THE PROCESS FOR CHALLENGING MATERIALS INCLUDED IN A
+13 LIBRARY; TO REPEAL THE OFFENSE OF FURNISHING A
+14 HARMFUL ITEM TO A MINOR; TO AMEND PROVISIONS IN THE
+15 CRIMINAL CODE CONCERNING OBSCENITY; TO REQUIRE A
+16 LIBRARY TO HAVE A WRITTEN POLICY PROHIBITING BOOK
+17 BANNING IN ORDER TO RECEIVE STATE FUNDING; TO AMEND
+18 THE LAW CONCERNING THE INFORMATION THAT A LIBRARY MAY
+19 DISCLOSE; AND FOR OTHER PURPOSES.
+20
+21
+Subtitle
+22
+23 TO AMEND PROVISIONS OF THE LAW
+24 CONCERNING OBSCENITY AND THE PROCESS FOR
+25 CHALLENGING MATERIALS INCLUDED IN A
+26 LIBRARY; AND TO REQUIRE A LIBRARY TO
+27 HAVE A POLICY PROHIBITING BOOK BANNING
+28 IN ORDER TO RECEIVE STATE FUNDING.
+29
+30 BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF ARKANSAS:
+31
+32 SECTION 1. Arkansas Code § 5-27-212 is repealed.
+33 5-27-212. Furnishing a harmful item to a minor.
+34 (a) As used in this section:
+35 (1) “Harmful to minors” means the same as defined in § 5-68-501;
+36 (2) “Internet” means the combination of computer facilities and
+*JLL006*
+01-16-2025 15:11:35 JLL006
+
+As Engrossed: H1/16/25 HB1028
+1 electromagnetic transmission media, and related equipment and software,
+2 comprising the interconnected worldwide network of computer networks that
+3 employ the Transmission Control Protocol/Internet Protocol (TCP/IP) or any
+4 successor protocol to transmit information;
+5 (3) “Internet website” means a location where material placed in
+6 a computer server-based file archive is publicly accessible over the internet
+7 using hypertext transfer protocol or any successor protocol; and
+8 (4)(A) “Item” means a material or performance that depicts or
+9 describes nudity, sexual conduct, sexual excitement, or sadomasochistic
+10 abuse, as those terms are defined in § 5-68-501.
+11 (B) “Item” includes without limitation:
+12 (i) A book, leaflet, pamphlet, magazine, booklet,
+13 picture, drawing, photograph, film, negative, slide, motion picture, figure,
+14 object, article, novelty device, recording, transcription, live or recorded
+15 telephone message, or other similar item whether tangible or intangible;
+16 (ii) A performance, exhibition, transmission, or
+17 dissemination of any of the items listed in subdivision (a)(4)(B)(i) of this
+18 section; and
+19 (iii) A live performance or exhibition that depicts
+20 nudity, sexual conduct, sexual excitement, or sadomasochistic abuse, as those
+21 terms are defined in § 5-68-501, to the public or an audience of one (1) or
+22 more persons.
+23 (b) A person commits furnishing a harmful item to a minor if, knowing
+24 the character of the item involved, the person knowingly:
+25 (1) Furnishes, presents, provides, makes available, gives,
+26 lends, shows, advertises, or distributes to a minor an item that is harmful
+27 to minors; or
+28 (2) Transmits or sends to a person that he or she believes to be
+29 a minor by means of electronic mail, personal messaging, or any other direct
+30 internet communication an item that is harmful to minors when the person
+31 knows or believes at the time of the transmission that a minor in this state
+32 will receive the item.
+33 (c)(1) Subdivision (b)(1) of this section does not apply to the
+34 transmission or sending of items over the internet.
+35 (2) Subdivision (b)(2) of this section does not apply to:
+36 (A) Posting material on an internet website, bulletin
+2 01-16-2025 15:11:35 JLL006
+
+As Engrossed: H1/16/25 HB1028
+1 board, or newsgroup; or
+2 (B) Sending material via a mailing list, listserv, or
+3 other method of internet communication in which a message is sent to an
+4 internet address and then retransmitted to one (1) or more subscribers, that
+5 is not administered by the sender.
+6 (d) Furnishing a harmful item to a minor is a Class A misdemeanor.
+7
+8 SECTION 2. Arkansas Code § 5-68-308(c), concerning defenses to state
+9 standards that define and regulate obscenity, is amended to read as follows:
+10 (c) No employee, director, or trustee of a bona fide school, museum,
+11 or public library, acting within the scope of his or her regular employment,
+12 is liable to prosecution for a violation of this subchapter for disseminating
+13 a writing, film, slide, drawing, or other visual reproduction that is claimed
+14 to be obscene.
+15
+16 SECTION 3. Arkansas Code § 5-68-405(a), concerning the possession,
+17 sale, or distribution of obscenity, is amended to read as follows:
+18 (a) A person that knowingly sends or causes to be sent or brings or
+19 causes to be brought into this state for sale or commercial distribution, or
+20 in this state prepares, publishes, sells, exhibits, loans at a library, or
+21 commercially distributes, or gives away or offers to give away or has in the
+22 person's possession with the purpose to sell or commercially distribute or to
+23 exhibit or to give away, obscene printed or written matter or material other
+24 than mailable matter, or any mailable matter known by the person to have been
+25 judicially found to be obscene under this subchapter, or that knowingly
+26 informs another of when, where, how, or from whom or by what means any of
+27 these things can be purchased or obtained, upon conviction is guilty of a
+28 Class D felony.
+29
+30 SECTION 4. Arkansas Code § 6-25-105 is amended to read as follows:
+31 6-25-105. Establishment of guidelines for selection, relocation
+32 removal, and retention of materials.
+33 (a) Media centers shall have written policies to establish guidelines
+34 for the selection, relocation removal, and retention of physical materials
+35 that are available to the public.
+36 (b) The school district shall have a written policy for addressing
+3 01-16-2025 15:11:35 JLL006
+
+As Engrossed: H1/16/25 HB1028
+1 challenged material that is physically present in the library and available
+2 to the public and meets the requirements stated in subsection (c) of this
+3 section.
+4 (c) A written policy adopted by a school district under subsection (b)
+5 of this section shall provide, at a minimum, the following:
+6 (1) A parent or guardian of a student affected by the material
+7 to be challenged or an employee of the school district may challenge the
+8 appropriateness of material available in the school district's media center;
+9 (2) The school district shall decide if material being
+10 challenged shall remain available throughout the challenge process;
+11 (3) Before a person can file a challenge, the person shall
+12 request a conference through the principal's office with a licensed media
+13 center employee;
+14 (4) Before a conference under subdivision (c)(3) of this section
+15 occurs, the school district shall provide a copy of the following to a person
+16 who requests a conference under subdivision (c)(3) of this section:
+17 (A) The written policy adopted by a school district under
+18 subsection (b) of this section; and
+19 (B) A form or other method by which a person may request a
+20 reconsideration of the appropriateness of the material being challenged;
+21 (5) After the conference requested under subdivision (c)(3) of
+22 this section occurs, if the person who requested the conference wants to
+23 formally challenge the appropriateness of the material that was the subject
+24 of the conference, the person shall complete and submit the request for
+25 reconsideration using the form or other method provided under subdivision
+26 (c)(4)(B) of this section to challenge the material that was the subject of
+27 the conference;
+28 (6)(A) In conducting a review of material being challenged, the
+29 principal of the school district shall select a committee of licensed
+30 personnel.
+31 (B) The principal or his or her designee shall be a member
+32 of the committee and may serve as the chair of the committee established
+33 under subdivision (c)(6)(A) of this section.
+34 (C) At least one (1) member of the committee established
+35 under subdivision (c)(6)(A) of this section shall be a media specialist.
+36 (D) The committee members who are not the principal or a
+4 01-16-2025 15:11:35 JLL006
+
+As Engrossed: H1/16/25 HB1028
+1 media specialist shall be licensed personnel with curriculum knowledge
+2 appropriate for the material being challenged and be representative of
+3 diverse viewpoints;
+4 (7)(A) The committee established under subdivision (c)(6)(A) of
+5 this section shall determine if the material being challenged meets the
+6 criteria of selection.
+7 (B) Material being challenged:
+8 (i) Shall not be withdrawn solely for the viewpoints
+9 expressed within the material; and
+10 (ii) Shall be reviewed in its entirety and shall not
+11 have selected portions taken out of context;
+12 (8) The school district shall convene a meeting of the committee
+13 established under subdivision (c)(6)(A) of this section after allowing a
+14 reasonable time for the committee members to adequately review the material
+15 being challenged and the request submitted under subdivision (c)(5) of this
+16 section by the person challenging the appropriateness of the material;
+17 (9) The committee established under subdivision (c)(6)(A) of
+18 this section shall allow the person who submitted the request under
+19 subdivision (c)(5) of this section to present his or her request to the
+20 committee;
+21 (10) After hearing from the person who submitted the request
+22 under subdivision (c)(5) of this section, the committee established under
+23 subdivision (c)(6)(A) of this section shall meet to discuss the material
+24 being challenged;
+25 (11)(A) The committee established under subdivision (c)(6)(A) of
+26 this section shall vote to determine whether the material being challenged
+27 shall be relocated within the media center's collection to an area that is
+28 not accessible to minors under eighteen (18) years of age.
+29 (B) A member of the committee established under
+30 subdivision (c)(6)(A) of this section who votes with the majority under
+31 subdivision (c)(11)(A) of this section shall write a summary of the reasons
+32 for the majority's decision.
+33 (C) Notice of the committee's decision under subdivision
+34 (c)(11)(A) of this section and the summary prepared under subdivision
+35 (c)(11)(B) of this section shall be given by hand or by certified mail to the
+36 person who submitted the request under subdivision (c)(5) of this section;
+5 01-16-2025 15:11:35 JLL006
+
+As Engrossed: H1/16/25 HB1028
+1 (12)(A) If the committee established under subdivision (c)(6)(A)
+2 of this section decides not to relocate the material being challenged, the
+3 person who submitted the request under subdivision (c)(5) of this section may
+4 appeal the committee's decision to the board of directors for the school
+5 district by filing a written appeal to the superintendent within five (5)
+6 working days of the committee's decision or written receipt of the
+7 committee's decision.
+8 (B)(i) If a person appeals the decision of a committee
+9 under this subdivision (c)(12), the superintendent shall present the material
+10 being challenged, the request submitted by the person under subdivision
+11 (c)(5) of this section, the committee's decision under subdivision (c)(11)(A)
+12 of this section, and the summary prepared under subdivision (c)(11)(B) of
+13 this section to the board of directors within fifteen (15) days of the
+14 committee's decision.
+15 (ii) In addition to the information required to be
+16 provided under subdivision (c)(12)(B)(i) of this section, the superintendent
+17 may also include the administration's recommendation regarding the appeal
+18 submitted under this subdivision (c)(12).
+19 (C)(i) The members of the board of directors shall review
+20 the information submitted to them under this subdivision (c)(12) and shall
+21 make a decision on the appeal within thirty (30) days of receiving the
+22 information.
+23 (ii) The decision of a board of directors under
+24 subdivision (c)(12)(C)(i) of this section is final; and
+25 (13) A meeting held regarding a challenge or an appeal submitted
+26 under a written policy adopted by a school district under subsection (b) of
+27 this section shall be a public meeting and the records submitted and
+28 considered at a meeting shall be public records under the Freedom of
+29 Information Act of 1967, § 25-19-101 et seq.
+30
+31 SECTION 5. Arkansas Code § 13-2-106 is repealed.
+32 13-2-106. Establishment of guidelines for selection, relocation, and
+33 retention of materials — Definitions.
+34 (a) Each county or municipal library shall have a written policy to
+35 establish guidelines for the selection, relocation, and retention of physical
+36 materials that are available to the public.
+6 01-16-2025 15:11:35 JLL006
+
+As Engrossed: H1/16/25 HB1028
+1 (b) A county or municipal library shall have a written policy for
+2 addressing challenged material that is physically present in the library and
+3 available to the public and meets the requirements stated in subsection (c)
+4 of this section.
+5 (c) A written policy adopted by a county or municipal library under
+6 subsection (b) of this section shall provide, at a minimum, the following:
+7 (1) A person affected by the material to be challenged or an
+8 employee of the county or municipal library may challenge the appropriateness
+9 of material available in the county or municipal library;
+10 (2) The county or municipal library shall decide if material
+11 being challenged shall remain available throughout the challenge process;
+12 (3) Before a person can file a challenge, the person shall
+13 request a meeting with the librarian of the county or municipal library;
+14 (4) Before a meeting under subdivision (c)(3) of this section
+15 occurs, the county or municipal library shall provide a copy of the following
+16 to a person who requests a meeting under subdivision (c)(3) of this section:
+17 (A) The written policy adopted by the county or municipal
+18 library under subsection (b) of this section; and
+19 (B) A form or other method by which a person may request a
+20 reconsideration of the appropriateness of the material being challenged;
+21 (5) After the meeting requested under subdivision (c)(3) of this
+22 section occurs, if the person who requested the meeting wants to formally
+23 challenge the appropriateness of the material that was the subject of the
+24 meeting, the person shall complete and submit the request for reconsideration
+25 using the form or other method provided under subdivision (c)(4)(B) of this
+26 section to challenge the material that was the subject of the meeting;
+27 (6)(A) In conducting a review of material being challenged, the
+28 librarian of the county or municipal library shall select a committee of
+29 library personnel.
+30 (B) The librarian or his or her designee shall be a member
+31 of the committee and may serve as the chair of the committee established
+32 under subdivision (c)(6)(A) of this section.
+33 (C) The committee members who are not the librarian shall
+34 have knowledge appropriate for the material being challenged and be
+35 representative of diverse viewpoints;
+36 (7)(A) The committee established under subdivision (c)(6)(A) of
+7 01-16-2025 15:11:35 JLL006
+
+As Engrossed: H1/16/25 HB1028
+1 this section shall determine if the material being challenged meets the
+2 criteria of selection.
+3 (B) Material being challenged:
+4 (i) Shall not be withdrawn solely for the viewpoints
+5 expressed within the material; and
+6 (ii) Shall be reviewed in its entirety and shall not
+7 have selected portions taken out of context;
+8 (8) The county or municipal library shall convene a meeting of
+9 the committee established under subdivision (c)(6)(A) of this section after
+10 allowing a reasonable time for the committee members to adequately review the
+11 material being challenged and the request submitted under subdivision (c)(5)
+12 of this section by the person challenging the appropriateness of the
+13 material;
+14 (9) The committee established under subdivision (c)(6)(A) of
+15 this section shall allow the person who submitted the request under
+16 subdivision (c)(5) of this section to present his or her request to the
+17 committee;
+18 (10) After hearing from the person who submitted the request
+19 under subdivision (c)(5) of this section, the committee established under
+20 subdivision (c)(6)(A) of this section shall meet to discuss the material
+21 being challenged;
+22 (11)(A) The committee established under subdivision (c)(6)(A) of
+23 this section shall vote to determine whether the material being challenged
+24 shall be relocated within the library's collection to an area that is not
+25 accessible to minors under eighteen (18) years of age.
+26 (B) A member of the committee established under
+27 subdivision (c)(6)(A) of this section who votes with the majority under
+28 subdivision (c)(11)(A) of this section shall write a summary of the reasons
+29 for the majority's decision.
+30 (C) Notice of the committee's decision under subdivision
+31 (c)(11)(A) of this section and the summary prepared under subdivision
+32 (c)(11)(B) of this section shall be given by hand or by certified mail to the
+33 person who submitted the request under subdivision (c)(5) of this section;
+34 (12)(A) If the committee established under subdivision (c)(6)(A)
+35 of this section decides not to relocate the material being challenged, the
+36 person who submitted the request under subdivision (c)(5) of this section may
+8 01-16-2025 15:11:35 JLL006
+
+As Engrossed: H1/16/25 HB1028
+1 appeal the committee's decision to the governing body of the county or city
+2 by filing a written appeal to the executive head of the governing body of the
+3 county or city within five (5) working days of the committee's decision or
+4 written receipt of the committee's decision.
+5 (B)(i) If a person appeals the decision of a committee
+6 under this subdivision (c)(12), the executive head of the county or city
+7 shall present the material being challenged, the request submitted by the
+8 person under subdivision (c)(5) of this section, the committee's decision
+9 under subdivision (c)(11)(A) of this section, and the summary prepared under
+10 subdivision (c)(11)(B) of this section to the governing body of the county or
+11 city within fifteen (15) days of the committee's decision.
+12 (ii) In addition to the information required to be
+13 provided under subdivision (c)(12)(B)(i) of this section, the executive head
+14 of the county or city may also include his or her recommendation regarding
+15 the appeal submitted under this subdivision (c)(12).
+16 (C)(i) The members of the governing body of the county or
+17 city shall review the information submitted to them under this subdivision
+18 (c)(12) and shall make a decision on the appeal within thirty (30) days of
+19 receiving the information.
+20 (ii) The decision of the governing body of the
+21 county or city under subdivision (c)(12)(C)(i) of this section is final; and
+22 (13) A meeting held regarding a challenge or an appeal submitted
+23 under a written policy adopted by a county or city library under subsection
+24 (b) of this section shall be a public meeting and the records submitted and
+25 considered at a meeting shall be public records under the Freedom of
+26 Information Act of 1967, § 25-19-101 et seq.
+27 (d) As used in this section:
+28 (1) “Executive head of the county or city” means:
+29 (A) For a county library, the executive head of the
+30 county;
+31 (B) For a city library, the executive head of the city;
+32 and
+33 (C) For a library that is funded by both a county and a
+34 city, the executive head of the county or city that provides the majority of
+35 the funding for the library; and
+36 (2) “Governing body of the county or city” means:
+9 01-16-2025 15:11:35 JLL006
+
+As Engrossed: H1/16/25 HB1028
+1 (A) For a county library, the county;
+2 (B) For a city library, the city; and
+3 (C) For a library that is funded by both a county and a
+4 city, the county or city that provides the majority of the funding for the
+5 library.
+6
+7 SECTION 6. Arkansas Code Title 13, Chapter 2, Subchapter 2, is amended
+8 to add an additional section to read as follows:
+9 13-2-215. Administration of state programs of aid.
+10 In determining a public library's eligibility to receive funding from
+11 state programs of aid, the Arkansas State Library shall provide state funding
+12 to a library only if the public library has a written policy prohibiting the
+13 practice of banning books or other materials because of partisan or doctrinal
+14 disapproval.
+15
+16 SECTION 7. Arkansas Code § 13-2-704(b), concerning the disclosure of
+17 information permitted by a library, is repealed.
+18 (b) A library may disclose confidential library records to:
+19 (1) The patron; and
+20 (2) The parent or legal guardian of a patron who is younger than
+21 eighteen (18) years of age.
+22
+23 /s/A. Collins
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+10 01-16-2025 15:11:35 JLL006
+
+[DELETED:  A       A A L T L H C L B T D   T C C L H I  B   S  5  (   (   (]
+[DELETED:  H2 0 e c e s   ( a u   ( d a    (     ( p o t     ( d s     ( n t m  ( t   ( l t   ( a i k w  ( t   (    (]
+[DELETED:  H3 0 b    ( o i i  (   S s  ( o i a t   S s  ( c i c p e t j i t C   S  6 r  ( f t  (]
+[DELETED:  H4 0 c t s  ( o   ( t a   ( c   ( r c   ( o w    ( s    ( r   ( t f o r ( t   ( p p    ( o u    ( u    (]
+[DELETED:  H5 0 m a d   ( t c    (     ( e     ( h   ( e r b s   ( t s c   ( u s b   ( t s n    ( s s f    ( ( ( p]
+[DELETED:  H6 0   ( o p a d w c    ( u b ( o t c     ( p m s    ( t m i     ( s   ( u t c I   S  1 r  ( e m]
+[DELETED:  H7 0  ( a a o  ( s   ( e o   ( b   ( r   ( o t    ( l    ( r   ( s c m u s   ( l l    ( o u    ( h r   (]
+[DELETED:  H8 0 t c    (     ( e     ( h   ( t a m o m   ( t s c   ( u s b   ( t s a    ( s s f    ( ( ( p   ( o p]
+[DELETED:  H9 0 a b c w    ( u s p u s c     ( p o t    ( c ( r     ( c   ( u ( c I  (   (    ( c    ( a    ( c t   (]
+[DELETED:  H1 0    (    (    ( c l   S t  1  I s t p d   S i  (   (   ( e  /             ]

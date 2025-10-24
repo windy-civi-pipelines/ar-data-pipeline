@@ -1,0 +1,575 @@
+Title: Stricken language would be deleted from and underlined language would be added to present law.
+Official Title: Stricken language would be deleted from and underlined language would be added to present law.
+Number of Sections: 1
+Source: versions - SB 316
+Media Type: application/pdf
+Strikethrough Detection: 7 sections found
+
+================================================================================
+
+Section 1:
+1 State of Arkansas
+A Bill
+2 95th General Assembly
+3 Regular Session, 2025 SENATE BILL 316
+4
+5 By: Senator B. Johnson
+6 By: Representative Beaty Jr.
+7
+For An Act To Be Entitled
+8
+9 AN ACT TO AMEND THE SALES AND USE TAX LAWS CONCERNING
+10 REBATES; TO REQUIRE THAT SALES AND USE TAX REBATES BE
+11 ADMINISTERED AS REFUNDS; AND FOR OTHER PURPOSES.
+12
+13
+Subtitle
+14
+15 TO AMEND THE SALES AND USE TAX LAWS
+16 CONCERNING REBATES; AND TO REQUIRE THAT
+17 SALES AND USE TAX REBATES BE
+18 ADMINISTERED AS REFUNDS.
+19
+20 BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF ARKANSAS:
+21
+22 SECTION 1. Arkansas Code Title 26, Chapter 52, Subchapter 1, is
+23 amended to add an additional section to read as follows:
+24 26-52-112. Refunds.
+25 Except as otherwise provided by law, a refund provided under this
+26 chapter or the Arkansas Compensating Tax Act of 1949, § 26-53-101 et seq.
+27 shall be automatically provided to the taxpayer entitled to the refund.
+28
+29 SECTION 2. Arkansas Code § 26-52-427 is amended to read as follows:
+30 26-52-427. Property purchased for use in performance of construction
+31 contract — Definition.
+32 (a) A contractor that purchases tangible personal property which
+33 becomes a recognizable part of a completed structure or improvement to real
+34 property and which is purchased for use or consumption in the performance of
+35 construction contracts shall be entitled to a rebate on refund of any
+36 additional gross receipts tax or compensating use tax levied by the state or
+*JLL240*
+02/26/2025 12:00:48 PM JLL240
+SB316
+1 any city or county if:
+2 (1) The construction contract for which the tangible personal
+3 property was purchased is entered into prior to the effective date of the
+4 levy of the additional state, city, or county gross receipts tax or
+5 compensating use tax; and
+6 (2) The contractor paid the additional gross receipts or
+7 compensating use tax to the seller.
+8 (b) As used in this section, “construction contract” means a contract
+9 to construct, manage, or supervise the construction, erection, or substantial
+10 modification of a building or other improvement or structure affixed to real
+11 property. “Construction contract” shall not mean a contract to produce
+12 tangible personal property.
+13 (c) The rebate refund provided by this section shall apply to tangible
+14 personal property purchased within five (5) years from the effective date of
+15 the levy of the additional state, city, or county gross receipts tax or
+16 compensating use tax.
+17 (d) The rebate refund provided by this section shall not apply to
+18 cost-plus contracts which allow the contractor to pass any additional tax on
+19 to the principal as a part of the contractor's costs.
+20 (e) Interest shall not accrue or be paid on an amount subject to a
+21 claim for rebate pursuant to refund under this section.
+22 (f) The Secretary of the Department of Finance and Administration
+23 shall promulgate rules and prescribe forms for claiming a rebate as provided
+24 by the method of providing a refund under this section.
+25
+26 SECTION 3. Arkansas Code § 26-52-447(f)-(i), concerning the sales tax
+27 exemption related to the partial replacement and repair of certain machinery
+28 and equipment, are repealed.
+29 (f) A taxpayer may claim the benefit of the tax refund under this
+30 section only by using one (1) of the following methods:
+31 (1)(A) Both:
+32 (i) Obtaining a direct pay or a limited direct pay
+33 sales and use tax permit from the Department of Finance and Administration;
+34 and
+35 (ii) Self-refunding:
+36 (a) At the time the taxpayer files his or her
+2 02/26/2025 12:00:48 PM JLL240
+SB316
+1 original sales and use tax report; or
+2 (b) By later filing an amended sales or use
+3 tax report with the department.
+4 (B) The statutes of limitation stated in § 26-18-306 apply
+5 to claims made under this subdivision (f)(1).
+6 (C) Interest shall not accrue or be paid on a refund
+7 claimed under this subdivision (f)(1); or
+8 (2)(A) Beginning July 1, 2018, for a taxpayer that does not hold
+9 a direct pay or limited direct pay permit, holds an active Arkansas sales and
+10 use tax permit, and files sales and use tax reports with the department,
+11 filing a claim for a credit or rebate with the department.
+12 (B)(i) The credit or rebate authorized under this
+13 subdivision (f)(2) shall be obtained only by offsetting the amount of the
+14 claimed credit or rebate against the state tax to be remitted with the
+15 taxpayer's sales and use tax reports.
+16 (ii) If the total amount of the credit or rebate
+17 authorized under this subdivision (f)(2) is greater than the amount of the
+18 state tax to be remitted with the taxpayer's sales and use tax reports, the
+19 taxpayer is entitled to a refund of the difference between the amount of the
+20 tax owed and the amount of the credit or rebate authorized under this
+21 subdivision (f)(2).
+22 (C) A taxpayer claiming a credit or rebate under this
+23 subdivision (f)(2) shall electronically file all sales and use tax reports.
+24 (D) A claim for credit or rebate under this subdivision
+25 (f)(2) shall not be paid for a claim filed more than one (1) year following
+26 the date of the qualifying sale or more than one (1) year following the date
+27 of payment, whichever is later.
+28 (E) Interest shall not accrue or be paid on an amount
+29 subject to a claim for a credit or rebate under this subdivision (f)(2).
+30 (g) A claim for a credit or rebate shall not be paid under subdivision
+31 (f)(2) of this section for a sale made before July 1, 2018.
+32 (h) A taxpayer shall not claim the benefit of the refund under this
+33 section by filing a verified claim for refund with the department.
+34 (i) The following provisions of the Arkansas Tax Procedure Act, § 26-
+35 18-101 et seq., apply to claims for a refund under this section:
+36 (1) The time limitations that apply to claims for a refund of an
+3 02/26/2025 12:00:48 PM JLL240
+SB316
+1 overpayment of state tax; and
+2 (2) The procedures that apply to the disallowance or proposed
+3 disallowance of claims for a refund.
+4
+5 SECTION 4. Arkansas Code § 26-52-523(b)-(g), concerning the credit or
+6 rebate on local sales and use tax, are amended to read as follows:
+7 (b)(1) A purchaser that pays any municipal sales or use tax in excess
+8 of the tax due on the first two thousand five hundred dollars ($2,500) of
+9 gross receipts or gross proceeds from the purchase of a travel trailer or
+10 from a qualifying purchase of tangible personal property, specified digital
+11 products, a digital code, or a taxable service in a single transaction is
+12 entitled to a credit or rebate refund of the excess amount of municipal sales
+13 or use tax paid on each single transaction.
+14 (2) A purchaser that pays any county sales or use tax in excess
+15 of the tax due on the first two thousand five hundred dollars ($2,500) of
+16 gross receipts or gross proceeds from the purchase of a travel trailer or
+17 from a qualifying purchase of tangible personal property, specified digital
+18 products, a digital code, or a taxable service in a single transaction is
+19 entitled to a credit or rebate refund of the excess amount of county sales or
+20 use tax paid on each single transaction.
+21 (c)(1) A purchaser that is required by § 26-52-501, § 26-52-509, or §
+22 26-53-125 to file a sales or use tax return may file a claim for a credit or
+23 rebate refund under this section with the Secretary of the Department of
+24 Finance and Administration in connection with the sales or use tax return and
+25 offset the amount of credit or rebate refund claimed against any municipal or
+26 county sales or use tax due to be remitted with the return.
+27 (2) A The secretary shall automatically issue a refund to a
+28 purchaser that qualifies for a credit or rebate refund under this section and
+29 is not required to file a sales or use tax return as provided in subdivision
+30 (c)(1) of this section may file a claim for a credit or rebate under this
+31 section with the secretary.
+32 (3) If a rebate refund would be due under this section as a
+33 result of the purchase of a travel trailer and if the gross receipts or
+34 compensating use tax on the travel trailer is collected directly from the
+35 purchaser by the Department of Finance and Administration under § 26-52-510
+36 or § 26-53-126, then the department shall collect only the amount of tax due
+4 02/26/2025 12:00:48 PM JLL240
+SB316
+1 less the amount to which the purchaser would be entitled under the rebate
+2 refund provisions of this section.
+3 (d) A credit or rebate under this section shall not be paid for a
+4 claim filed more than one (1) year following the date of the qualifying
+5 purchase or more than one (1) year following the date of payment, if later.
+6 (e) A claim for a credit or rebate under this section shall be filed
+7 with the local taxing jurisdiction if, at the time the claim is filed, the
+8 local sales or use tax that is the subject of the claim has been out of
+9 existence for more than sixty (60) days.
+10 (f) No interest shall accrue or be paid on an amount subject to a
+11 claim for a credit or rebate refund under this section.
+12 (g)(e) The secretary may promulgate rules to administer this section,
+13 including without limitation providing an administratively feasible method
+14 for filing a claim for a credit or rebate providing refunds and any necessary
+15 forms.
+16
+17 SECTION 5. Arkansas Code § 26-53-138 is amended to read as follows:
+18 26-53-138. Exemption for property purchased for use in performance of
+19 construction contract — Definition.
+20 (a) A contractor that purchases tangible personal property which
+21 becomes a recognizable part of a completed structure or improvement to real
+22 property and which is purchased for use or consumption in the performance of
+23 construction contracts shall be entitled to a rebate on refund of any
+24 additional gross receipts tax or compensating use tax levied by the state or
+25 any city or county if:
+26 (1) The construction contract for which the tangible personal
+27 property was purchased is entered into prior to the effective date of the
+28 levy of the additional state, city, or county gross receipts tax or
+29 compensating use tax; and
+30 (2) The contractor paid the additional gross receipts or
+31 compensating use tax to the seller.
+32 (b) As used in this section, “construction contract” means a contract
+33 to construct, manage, or supervise the construction, erection, or substantial
+34 modification of a building or other improvement or structure affixed to real
+35 property. “Construction contract” shall not mean a contract to produce
+36 tangible personal property.
+5 02/26/2025 12:00:48 PM JLL240
+SB316
+1 (c) The rebate refund provided by this section shall apply to tangible
+2 personal property purchased within five (5) years from the effective date of
+3 the levy of the additional state, city, or county gross receipts tax or
+4 compensating use tax.
+5 (d) The rebate refund provided by this section shall not apply to
+6 cost-plus contracts which allow the contractor to pass any additional tax on
+7 to the principal as a part of the contractor's costs.
+8 (e) Interest shall not accrue or be paid on an amount subject to a
+9 claim for rebate pursuant to refund under this section.
+10 (f) The Secretary of the Department of Finance and Administration
+11 shall promulgate rules and prescribe forms for claiming a rebate as provided
+12 by the method of providing a refund under this section.
+13
+14 SECTION 6. Arkansas Code § 26-53-149(f)-(i), concerning the use tax
+15 exemption related to the partial replacement and repair of certain machinery
+16 and equipment, are repealed.
+17 (f) A taxpayer may claim the benefit of the tax refund under this
+18 section only by using one (1) of the following methods:
+19 (1)(A) Both:
+20 (i) Obtaining a direct pay or a limited direct pay
+21 sales and use tax permit from the Department of Finance and Administration;
+22 and
+23 (ii) Self-refunding:
+24 (a) At the time the taxpayer files his or her
+25 original sales and use tax report; or
+26 (b) By later filing an amended sales or use
+27 tax report with the department.
+28 (B) The statutes of limitation stated in § 26-18-306 apply
+29 to claims made under this subdivision (f)(1).
+30 (C) Interest shall not accrue or be paid on a refund
+31 claimed under this subdivision (f)(1); or
+32 (2)(A) Beginning July 1, 2018, for a taxpayer that does not hold
+33 a direct pay or limited direct pay permit, holds an active Arkansas sales and
+34 use tax permit, and files sales and use tax reports with the department,
+35 filing a claim for the credit or rebate with the department.
+36 (B)(i) The credit or rebate authorized under this
+6 02/26/2025 12:00:48 PM JLL240
+SB316
+1 subdivision (f)(2) shall be obtained only by offsetting the amount of the
+2 claimed credit or rebate against the state tax to be remitted with the
+3 taxpayer's sales and use tax reports.
+4 (ii) If the total amount of the credit or rebate
+5 authorized under this subdivision (f)(2) is greater than the amount of the
+6 state tax to be remitted with the taxpayer's sales and use tax reports, the
+7 taxpayer is entitled to a refund of the difference between the amount of the
+8 tax owed and the amount of the credit or rebate authorized under this
+9 subdivision (f)(2).
+10 (C) A taxpayer claiming a credit or rebate under this
+11 subdivision (f)(2) shall electronically file all sales and use tax reports.
+12 (D) A claim for credit or rebate under this subdivision
+13 (f)(2) shall not be paid for a claim filed more than one (1) year following
+14 the date of the qualifying purchase or more than one (1) year following the
+15 date of payment, whichever is later.
+16 (E) Interest shall not accrue or be paid on an amount
+17 subject to a claim for a credit or rebate under this subdivision (f)(2).
+18 (g) A claim for a credit or rebate shall not be paid under subdivision
+19 (f)(2) of this section for a purchase made before July 1, 2018.
+20 (h) A taxpayer shall not claim the benefit of the refund under this
+21 section by filing a verified claim for refund with the department.
+22 (i) The following provisions of the Arkansas Tax Procedure Act, § 26-
+23 18-101 et seq., apply to claims for a refund under this section:
+24 (1) The time limitations that apply to claims for a refund of an
+25 overpayment of state tax; and
+26 (2) The procedures that apply to the disallowance or proposed
+27 disallowance of claims for a refund.
+28
+29 SECTION 7. EFFECTIVE DATE. Sections 1-6 of this act are effective on
+30 the first day of the calendar quarter following the effective date of this
+31 act.
+32
+33
+34
+35
+36
+7 02/26/2025 12:00:48 PM JLL240
+[DELETED:       A R A  T C S A  B   S a  2  E c s   S  2 c  ( b p c a]
+[DELETED: S2 0 a   ( p l c   ( c  ( t m p t  ( p t c  ( c t  ( c  ( s b   S e a  ( s   (     ( s a     (      (]
+[DELETED: S3 0 o      ( t    ( t    ( c   ( a u f    ( s c t     ( a s t t s    ( s    ( ( t o    ( s  ( (  ( s  ( 1   (]
+[DELETED: S4 0 o   ( d   S r  ( o g f p e o   ( o g f p e u  ( 2 r F o c   ( p i ( s   ( r c p o]
+[DELETED: S5 0 l r  ( c p  ( w l e  ( c  ( i f f   S  2 c  ( b p c a a   ( p l c   ( c  ( t m p t]
+[DELETED: S6 0  ( p t c  ( c t  ( c  ( s b   S e a  ( s   (     ( s a     (      ( o      ( t    ( t    ( c   ( a u f    (]
+[DELETED: S7 0 s c t     ( a s t t s    ( s    ( ( t d    ( s  ( (  ( s  ( 1   ( o   ( d   S t a     ]
+
+
+================================================================================
+
+Raw Text:
+Stricken language would be deleted from and underlined language would be added to present law.
+1 State of Arkansas
+A Bill
+2 95th General Assembly
+3 Regular Session, 2025 SENATE BILL 316
+4
+5 By: Senator B. Johnson
+6 By: Representative Beaty Jr.
+7
+For An Act To Be Entitled
+8
+9 AN ACT TO AMEND THE SALES AND USE TAX LAWS CONCERNING
+10 REBATES; TO REQUIRE THAT SALES AND USE TAX REBATES BE
+11 ADMINISTERED AS REFUNDS; AND FOR OTHER PURPOSES.
+12
+13
+Subtitle
+14
+15 TO AMEND THE SALES AND USE TAX LAWS
+16 CONCERNING REBATES; AND TO REQUIRE THAT
+17 SALES AND USE TAX REBATES BE
+18 ADMINISTERED AS REFUNDS.
+19
+20 BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF ARKANSAS:
+21
+22 SECTION 1. Arkansas Code Title 26, Chapter 52, Subchapter 1, is
+23 amended to add an additional section to read as follows:
+24 26-52-112. Refunds.
+25 Except as otherwise provided by law, a refund provided under this
+26 chapter or the Arkansas Compensating Tax Act of 1949, § 26-53-101 et seq.
+27 shall be automatically provided to the taxpayer entitled to the refund.
+28
+29 SECTION 2. Arkansas Code § 26-52-427 is amended to read as follows:
+30 26-52-427. Property purchased for use in performance of construction
+31 contract — Definition.
+32 (a) A contractor that purchases tangible personal property which
+33 becomes a recognizable part of a completed structure or improvement to real
+34 property and which is purchased for use or consumption in the performance of
+35 construction contracts shall be entitled to a rebate on refund of any
+36 additional gross receipts tax or compensating use tax levied by the state or
+*JLL240*
+02/26/2025 12:00:48 PM JLL240
+
+SB316
+1 any city or county if:
+2 (1) The construction contract for which the tangible personal
+3 property was purchased is entered into prior to the effective date of the
+4 levy of the additional state, city, or county gross receipts tax or
+5 compensating use tax; and
+6 (2) The contractor paid the additional gross receipts or
+7 compensating use tax to the seller.
+8 (b) As used in this section, “construction contract” means a contract
+9 to construct, manage, or supervise the construction, erection, or substantial
+10 modification of a building or other improvement or structure affixed to real
+11 property. “Construction contract” shall not mean a contract to produce
+12 tangible personal property.
+13 (c) The rebate refund provided by this section shall apply to tangible
+14 personal property purchased within five (5) years from the effective date of
+15 the levy of the additional state, city, or county gross receipts tax or
+16 compensating use tax.
+17 (d) The rebate refund provided by this section shall not apply to
+18 cost-plus contracts which allow the contractor to pass any additional tax on
+19 to the principal as a part of the contractor's costs.
+20 (e) Interest shall not accrue or be paid on an amount subject to a
+21 claim for rebate pursuant to refund under this section.
+22 (f) The Secretary of the Department of Finance and Administration
+23 shall promulgate rules and prescribe forms for claiming a rebate as provided
+24 by the method of providing a refund under this section.
+25
+26 SECTION 3. Arkansas Code § 26-52-447(f)-(i), concerning the sales tax
+27 exemption related to the partial replacement and repair of certain machinery
+28 and equipment, are repealed.
+29 (f) A taxpayer may claim the benefit of the tax refund under this
+30 section only by using one (1) of the following methods:
+31 (1)(A) Both:
+32 (i) Obtaining a direct pay or a limited direct pay
+33 sales and use tax permit from the Department of Finance and Administration;
+34 and
+35 (ii) Self-refunding:
+36 (a) At the time the taxpayer files his or her
+2 02/26/2025 12:00:48 PM JLL240
+
+SB316
+1 original sales and use tax report; or
+2 (b) By later filing an amended sales or use
+3 tax report with the department.
+4 (B) The statutes of limitation stated in § 26-18-306 apply
+5 to claims made under this subdivision (f)(1).
+6 (C) Interest shall not accrue or be paid on a refund
+7 claimed under this subdivision (f)(1); or
+8 (2)(A) Beginning July 1, 2018, for a taxpayer that does not hold
+9 a direct pay or limited direct pay permit, holds an active Arkansas sales and
+10 use tax permit, and files sales and use tax reports with the department,
+11 filing a claim for a credit or rebate with the department.
+12 (B)(i) The credit or rebate authorized under this
+13 subdivision (f)(2) shall be obtained only by offsetting the amount of the
+14 claimed credit or rebate against the state tax to be remitted with the
+15 taxpayer's sales and use tax reports.
+16 (ii) If the total amount of the credit or rebate
+17 authorized under this subdivision (f)(2) is greater than the amount of the
+18 state tax to be remitted with the taxpayer's sales and use tax reports, the
+19 taxpayer is entitled to a refund of the difference between the amount of the
+20 tax owed and the amount of the credit or rebate authorized under this
+21 subdivision (f)(2).
+22 (C) A taxpayer claiming a credit or rebate under this
+23 subdivision (f)(2) shall electronically file all sales and use tax reports.
+24 (D) A claim for credit or rebate under this subdivision
+25 (f)(2) shall not be paid for a claim filed more than one (1) year following
+26 the date of the qualifying sale or more than one (1) year following the date
+27 of payment, whichever is later.
+28 (E) Interest shall not accrue or be paid on an amount
+29 subject to a claim for a credit or rebate under this subdivision (f)(2).
+30 (g) A claim for a credit or rebate shall not be paid under subdivision
+31 (f)(2) of this section for a sale made before July 1, 2018.
+32 (h) A taxpayer shall not claim the benefit of the refund under this
+33 section by filing a verified claim for refund with the department.
+34 (i) The following provisions of the Arkansas Tax Procedure Act, § 26-
+35 18-101 et seq., apply to claims for a refund under this section:
+36 (1) The time limitations that apply to claims for a refund of an
+3 02/26/2025 12:00:48 PM JLL240
+
+SB316
+1 overpayment of state tax; and
+2 (2) The procedures that apply to the disallowance or proposed
+3 disallowance of claims for a refund.
+4
+5 SECTION 4. Arkansas Code § 26-52-523(b)-(g), concerning the credit or
+6 rebate on local sales and use tax, are amended to read as follows:
+7 (b)(1) A purchaser that pays any municipal sales or use tax in excess
+8 of the tax due on the first two thousand five hundred dollars ($2,500) of
+9 gross receipts or gross proceeds from the purchase of a travel trailer or
+10 from a qualifying purchase of tangible personal property, specified digital
+11 products, a digital code, or a taxable service in a single transaction is
+12 entitled to a credit or rebate refund of the excess amount of municipal sales
+13 or use tax paid on each single transaction.
+14 (2) A purchaser that pays any county sales or use tax in excess
+15 of the tax due on the first two thousand five hundred dollars ($2,500) of
+16 gross receipts or gross proceeds from the purchase of a travel trailer or
+17 from a qualifying purchase of tangible personal property, specified digital
+18 products, a digital code, or a taxable service in a single transaction is
+19 entitled to a credit or rebate refund of the excess amount of county sales or
+20 use tax paid on each single transaction.
+21 (c)(1) A purchaser that is required by § 26-52-501, § 26-52-509, or §
+22 26-53-125 to file a sales or use tax return may file a claim for a credit or
+23 rebate refund under this section with the Secretary of the Department of
+24 Finance and Administration in connection with the sales or use tax return and
+25 offset the amount of credit or rebate refund claimed against any municipal or
+26 county sales or use tax due to be remitted with the return.
+27 (2) A The secretary shall automatically issue a refund to a
+28 purchaser that qualifies for a credit or rebate refund under this section and
+29 is not required to file a sales or use tax return as provided in subdivision
+30 (c)(1) of this section may file a claim for a credit or rebate under this
+31 section with the secretary.
+32 (3) If a rebate refund would be due under this section as a
+33 result of the purchase of a travel trailer and if the gross receipts or
+34 compensating use tax on the travel trailer is collected directly from the
+35 purchaser by the Department of Finance and Administration under § 26-52-510
+36 or § 26-53-126, then the department shall collect only the amount of tax due
+4 02/26/2025 12:00:48 PM JLL240
+
+SB316
+1 less the amount to which the purchaser would be entitled under the rebate
+2 refund provisions of this section.
+3 (d) A credit or rebate under this section shall not be paid for a
+4 claim filed more than one (1) year following the date of the qualifying
+5 purchase or more than one (1) year following the date of payment, if later.
+6 (e) A claim for a credit or rebate under this section shall be filed
+7 with the local taxing jurisdiction if, at the time the claim is filed, the
+8 local sales or use tax that is the subject of the claim has been out of
+9 existence for more than sixty (60) days.
+10 (f) No interest shall accrue or be paid on an amount subject to a
+11 claim for a credit or rebate refund under this section.
+12 (g)(e) The secretary may promulgate rules to administer this section,
+13 including without limitation providing an administratively feasible method
+14 for filing a claim for a credit or rebate providing refunds and any necessary
+15 forms.
+16
+17 SECTION 5. Arkansas Code § 26-53-138 is amended to read as follows:
+18 26-53-138. Exemption for property purchased for use in performance of
+19 construction contract — Definition.
+20 (a) A contractor that purchases tangible personal property which
+21 becomes a recognizable part of a completed structure or improvement to real
+22 property and which is purchased for use or consumption in the performance of
+23 construction contracts shall be entitled to a rebate on refund of any
+24 additional gross receipts tax or compensating use tax levied by the state or
+25 any city or county if:
+26 (1) The construction contract for which the tangible personal
+27 property was purchased is entered into prior to the effective date of the
+28 levy of the additional state, city, or county gross receipts tax or
+29 compensating use tax; and
+30 (2) The contractor paid the additional gross receipts or
+31 compensating use tax to the seller.
+32 (b) As used in this section, “construction contract” means a contract
+33 to construct, manage, or supervise the construction, erection, or substantial
+34 modification of a building or other improvement or structure affixed to real
+35 property. “Construction contract” shall not mean a contract to produce
+36 tangible personal property.
+5 02/26/2025 12:00:48 PM JLL240
+
+SB316
+1 (c) The rebate refund provided by this section shall apply to tangible
+2 personal property purchased within five (5) years from the effective date of
+3 the levy of the additional state, city, or county gross receipts tax or
+4 compensating use tax.
+5 (d) The rebate refund provided by this section shall not apply to
+6 cost-plus contracts which allow the contractor to pass any additional tax on
+7 to the principal as a part of the contractor's costs.
+8 (e) Interest shall not accrue or be paid on an amount subject to a
+9 claim for rebate pursuant to refund under this section.
+10 (f) The Secretary of the Department of Finance and Administration
+11 shall promulgate rules and prescribe forms for claiming a rebate as provided
+12 by the method of providing a refund under this section.
+13
+14 SECTION 6. Arkansas Code § 26-53-149(f)-(i), concerning the use tax
+15 exemption related to the partial replacement and repair of certain machinery
+16 and equipment, are repealed.
+17 (f) A taxpayer may claim the benefit of the tax refund under this
+18 section only by using one (1) of the following methods:
+19 (1)(A) Both:
+20 (i) Obtaining a direct pay or a limited direct pay
+21 sales and use tax permit from the Department of Finance and Administration;
+22 and
+23 (ii) Self-refunding:
+24 (a) At the time the taxpayer files his or her
+25 original sales and use tax report; or
+26 (b) By later filing an amended sales or use
+27 tax report with the department.
+28 (B) The statutes of limitation stated in § 26-18-306 apply
+29 to claims made under this subdivision (f)(1).
+30 (C) Interest shall not accrue or be paid on a refund
+31 claimed under this subdivision (f)(1); or
+32 (2)(A) Beginning July 1, 2018, for a taxpayer that does not hold
+33 a direct pay or limited direct pay permit, holds an active Arkansas sales and
+34 use tax permit, and files sales and use tax reports with the department,
+35 filing a claim for the credit or rebate with the department.
+36 (B)(i) The credit or rebate authorized under this
+6 02/26/2025 12:00:48 PM JLL240
+
+SB316
+1 subdivision (f)(2) shall be obtained only by offsetting the amount of the
+2 claimed credit or rebate against the state tax to be remitted with the
+3 taxpayer's sales and use tax reports.
+4 (ii) If the total amount of the credit or rebate
+5 authorized under this subdivision (f)(2) is greater than the amount of the
+6 state tax to be remitted with the taxpayer's sales and use tax reports, the
+7 taxpayer is entitled to a refund of the difference between the amount of the
+8 tax owed and the amount of the credit or rebate authorized under this
+9 subdivision (f)(2).
+10 (C) A taxpayer claiming a credit or rebate under this
+11 subdivision (f)(2) shall electronically file all sales and use tax reports.
+12 (D) A claim for credit or rebate under this subdivision
+13 (f)(2) shall not be paid for a claim filed more than one (1) year following
+14 the date of the qualifying purchase or more than one (1) year following the
+15 date of payment, whichever is later.
+16 (E) Interest shall not accrue or be paid on an amount
+17 subject to a claim for a credit or rebate under this subdivision (f)(2).
+18 (g) A claim for a credit or rebate shall not be paid under subdivision
+19 (f)(2) of this section for a purchase made before July 1, 2018.
+20 (h) A taxpayer shall not claim the benefit of the refund under this
+21 section by filing a verified claim for refund with the department.
+22 (i) The following provisions of the Arkansas Tax Procedure Act, § 26-
+23 18-101 et seq., apply to claims for a refund under this section:
+24 (1) The time limitations that apply to claims for a refund of an
+25 overpayment of state tax; and
+26 (2) The procedures that apply to the disallowance or proposed
+27 disallowance of claims for a refund.
+28
+29 SECTION 7. EFFECTIVE DATE. Sections 1-6 of this act are effective on
+30 the first day of the calendar quarter following the effective date of this
+31 act.
+32
+33
+34
+35
+36
+7 02/26/2025 12:00:48 PM JLL240
+
+[DELETED:       A R A  T C S A  B   S a  2  E c s   S  2 c  ( b p c a]
+[DELETED: S2 0 a   ( p l c   ( c  ( t m p t  ( p t c  ( c t  ( c  ( s b   S e a  ( s   (     ( s a     (      (]
+[DELETED: S3 0 o      ( t    ( t    ( c   ( a u f    ( s c t     ( a s t t s    ( s    ( ( t o    ( s  ( (  ( s  ( 1   (]
+[DELETED: S4 0 o   ( d   S r  ( o g f p e o   ( o g f p e u  ( 2 r F o c   ( p i ( s   ( r c p o]
+[DELETED: S5 0 l r  ( c p  ( w l e  ( c  ( i f f   S  2 c  ( b p c a a   ( p l c   ( c  ( t m p t]
+[DELETED: S6 0  ( p t c  ( c t  ( c  ( s b   S e a  ( s   (     ( s a     (      ( o      ( t    ( t    ( c   ( a u f    (]
+[DELETED: S7 0 s c t     ( a s t t s    ( s    ( ( t d    ( s  ( (  ( s  ( 1   ( o   ( d   S t a     ]

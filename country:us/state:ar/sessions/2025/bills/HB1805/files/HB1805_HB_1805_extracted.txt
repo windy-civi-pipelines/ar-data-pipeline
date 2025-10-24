@@ -1,0 +1,180 @@
+Title: Stricken language would be deleted from and underlined language would be added to present law.
+Official Title: Stricken language would be deleted from and underlined language would be added to present law.
+Number of Sections: 1
+Source: versions - HB 1805
+Media Type: application/pdf
+Strikethrough Detection: 2 sections found
+
+================================================================================
+
+Section 1:
+1 State of Arkansas
+A Bill
+2 95th General Assembly
+3 Regular Session, 2025 HOUSE BILL 1805
+4
+5 By: Representatives Childress, Hawk
+6 By: Senator K. Hammer
+7
+For An Act To Be Entitled
+8
+9 AN ACT TO AMEND THE DEFINITION OF "BULLYING" WITH
+10 RESPECT TO PUBLIC SCHOOL ANTIBULLYING POLICIES; TO
+11 CREATE A PROCESS WHEREBY A PUBLIC SCHOOL MAY CONDUCT
+12 MULTIPLE, SIMULTANEOUS INVESTIGATIONS INTO THE SAME
+13 ALLEGATION OF BULLYING UNDER CERTAIN CIRCUMSTANCES;
+14 AND FOR OTHER PURPOSES.
+15
+16
+Subtitle
+17
+18 TO AMEND THE DEFINITION OF "BULLYING";
+19 AND TO CREATE A PROCESS WHEREBY A PUBLIC
+20 SCHOOL MAY CONDUCT MULTIPLE,
+21 SIMULTANEOUS INVESTIGATIONS INTO THE
+22 SAME ALLEGATION OF BULLYING UNDER
+23 CERTAIN CIRCUMSTANCES.
+24
+25 BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF ARKANSAS:
+26
+27 SECTION 1. Arkansas Code § 6-18-514(b)(2)(A), concerning the
+28 definition of "bullying" as it pertains to school antibullying policies, is
+29 amended to read as follows:
+30 (2)(A) “Bullying” means the intentional harassment,
+31 intimidation, humiliation, ridicule, defamation, or threat or incitement of
+32 violence by a student against another student or public school employee by a
+33 written, verbal, electronic, or physical act that may:
+34 (i) May address an attribute of the other student,
+35 public school employee, or person with whom the other student or public
+36 school employee is associated and that causes or creates actual or reasonably
+*TNL245*
+03/11/2025 3:01:17 PM TNL245
+HB1805
+1 foreseeable:;
+2 (ii) Involves an actual or reasonably perceived
+3 power imbalance;
+4 (iii) Is repeated or has a high likelihood of
+5 repetition; and
+6 (iv) Causes or creates actual or reasonably
+7 foreseeable:
+8 (i)(a) Physical harm to a public school
+9 employee or student or damage to the public school employee's or student's
+10 property;
+11 (ii)(b) Substantial interference with a
+12 student's education or with a public school employee's role in education;
+13 (iii)(c) A hostile educational environment for
+14 one (1) or more students or public school employees due to the severity,
+15 persistence, or pervasiveness of the act; or
+16 (iv)(d) Substantial disruption of the orderly
+17 operation of the public school or educational environment.
+18
+19 SECTION 2. Arkansas Code § 6-18-514, concerning school antibullying
+20 policies, is amended to add additional subsections to read as follows:
+21 (m) To prevent multiple, simultaneous investigations into the same
+22 alleged conduct, if the facts that support an alleged incident of bullying
+23 under this section may also constitute a violation of another state law or
+24 rule or federal law or regulation, nothing in this section shall be construed
+25 to prevent a public school or public school district from investigating and
+26 disposing of the alleged incident of bullying in accordance with the other
+27 applicable state law or rule or federal law or regulation in lieu of the
+28 requirements of this section.
+29 (n) A public school or public school district shall complete the
+30 manner of process or investigation selected by the public school or public
+31 school district under subsection (m) of this section.
+32 (o) This section does not excuse a public school or public school
+33 district from complying with applicable obligations under federal law or
+34 regulations or state law or rules.
+35
+36
+2 03/11/2025 3:01:17 PM TNL245
+[DELETED:       A R C M A A  T A S S S C  B   S d a   ( i v w     ( p s]
+[DELETED: H2 0 f     ( p     ( r     ( f      ( e p      ( s      ( o p      ( o   S p  ( a u r t d a r  ( m s  ( d r  ]
+
+
+================================================================================
+
+Raw Text:
+Stricken language would be deleted from and underlined language would be added to present law.
+1 State of Arkansas
+A Bill
+2 95th General Assembly
+3 Regular Session, 2025 HOUSE BILL 1805
+4
+5 By: Representatives Childress, Hawk
+6 By: Senator K. Hammer
+7
+For An Act To Be Entitled
+8
+9 AN ACT TO AMEND THE DEFINITION OF "BULLYING" WITH
+10 RESPECT TO PUBLIC SCHOOL ANTIBULLYING POLICIES; TO
+11 CREATE A PROCESS WHEREBY A PUBLIC SCHOOL MAY CONDUCT
+12 MULTIPLE, SIMULTANEOUS INVESTIGATIONS INTO THE SAME
+13 ALLEGATION OF BULLYING UNDER CERTAIN CIRCUMSTANCES;
+14 AND FOR OTHER PURPOSES.
+15
+16
+Subtitle
+17
+18 TO AMEND THE DEFINITION OF "BULLYING";
+19 AND TO CREATE A PROCESS WHEREBY A PUBLIC
+20 SCHOOL MAY CONDUCT MULTIPLE,
+21 SIMULTANEOUS INVESTIGATIONS INTO THE
+22 SAME ALLEGATION OF BULLYING UNDER
+23 CERTAIN CIRCUMSTANCES.
+24
+25 BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF ARKANSAS:
+26
+27 SECTION 1. Arkansas Code § 6-18-514(b)(2)(A), concerning the
+28 definition of "bullying" as it pertains to school antibullying policies, is
+29 amended to read as follows:
+30 (2)(A) “Bullying” means the intentional harassment,
+31 intimidation, humiliation, ridicule, defamation, or threat or incitement of
+32 violence by a student against another student or public school employee by a
+33 written, verbal, electronic, or physical act that may:
+34 (i) May address an attribute of the other student,
+35 public school employee, or person with whom the other student or public
+36 school employee is associated and that causes or creates actual or reasonably
+*TNL245*
+03/11/2025 3:01:17 PM TNL245
+
+HB1805
+1 foreseeable:;
+2 (ii) Involves an actual or reasonably perceived
+3 power imbalance;
+4 (iii) Is repeated or has a high likelihood of
+5 repetition; and
+6 (iv) Causes or creates actual or reasonably
+7 foreseeable:
+8 (i)(a) Physical harm to a public school
+9 employee or student or damage to the public school employee's or student's
+10 property;
+11 (ii)(b) Substantial interference with a
+12 student's education or with a public school employee's role in education;
+13 (iii)(c) A hostile educational environment for
+14 one (1) or more students or public school employees due to the severity,
+15 persistence, or pervasiveness of the act; or
+16 (iv)(d) Substantial disruption of the orderly
+17 operation of the public school or educational environment.
+18
+19 SECTION 2. Arkansas Code § 6-18-514, concerning school antibullying
+20 policies, is amended to add additional subsections to read as follows:
+21 (m) To prevent multiple, simultaneous investigations into the same
+22 alleged conduct, if the facts that support an alleged incident of bullying
+23 under this section may also constitute a violation of another state law or
+24 rule or federal law or regulation, nothing in this section shall be construed
+25 to prevent a public school or public school district from investigating and
+26 disposing of the alleged incident of bullying in accordance with the other
+27 applicable state law or rule or federal law or regulation in lieu of the
+28 requirements of this section.
+29 (n) A public school or public school district shall complete the
+30 manner of process or investigation selected by the public school or public
+31 school district under subsection (m) of this section.
+32 (o) This section does not excuse a public school or public school
+33 district from complying with applicable obligations under federal law or
+34 regulations or state law or rules.
+35
+36
+2 03/11/2025 3:01:17 PM TNL245
+
+[DELETED:       A R C M A A  T A S S S C  B   S d a   ( i v w     ( p s]
+[DELETED: H2 0 f     ( p     ( r     ( f      ( e p      ( s      ( o p      ( o   S p  ( a u r t d a r  ( m s  ( d r  ]

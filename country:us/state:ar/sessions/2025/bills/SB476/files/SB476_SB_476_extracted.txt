@@ -1,0 +1,180 @@
+Title: Stricken language would be deleted from and underlined language would be added to present law.
+Official Title: Stricken language would be deleted from and underlined language would be added to present law.
+Number of Sections: 1
+Source: versions - SB 476
+Media Type: application/pdf
+Strikethrough Detection: 2 sections found
+
+================================================================================
+
+Section 1:
+1 State of Arkansas
+A Bill
+2 95th General Assembly
+3 Regular Session, 2025 SENATE BILL 476
+4
+5 By: Senator J. Scott
+6
+7
+For An Act To Be Entitled
+8
+9 AN ACT TO ALLOW LEAVE FOR ORGAN DONATION FOR CERTAIN
+10 STATE EMPLOYEES; TO PROHIBIT DISCRIMINATION AGAINST
+11 INDIVIDUALS APPLYING FOR LIFE INSURANCE WHO ARE ORGAN
+12 DONORS; AND FOR OTHER PURPOSES.
+13
+14
+Subtitle
+15
+16 TO ALLOW LEAVE FOR ORGAN DONATION FOR
+17 CERTAIN STATE EMPLOYEES; AND TO PROHIBIT
+18 DISCRIMINATION AGAINST INDIVIDUALS
+19 APPLYING FOR LIFE INSURANCE WHO ARE
+20 ORGAN DONORS.
+21
+22 BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF ARKANSAS:
+23
+24 SECTION 1. Arkansas Code Title 21, Chapter 4, Subchapter 1, is amended
+25 to add an additional section to read as follows:
+26 21-4-108. Leave for organ donation.
+27 (a) As used in this section:
+28 (1) "Living organ donor" means an individual who has donated all
+29 or part of an organ and is not deceased;
+30 (2) "Organ" means a human organ that is capable of being
+31 transferred from the body of one (1) person to the body of another person;
+32 (3) "State agency" means a department, agency, bureau, board, or
+33 commission of any branch of state government; and
+34 (4)(A) "State employee" means a full-time employee of a state
+35 agency who has been employed with the state agency for at least twelve (12)
+36 months.
+*ANS240*
+03/17/2025 1:35:24 PM ANS240
+SB476
+1 (B) "State employee" does not include:
+2 (i) A member of the General Assembly;
+3 (ii) An employee of the Secretary of State; or
+4 (iii) An employee of the Treasurer of State.
+5 (b)(1) A state employee shall be granted absence from work for a
+6 period of time equal to twelve (12) weeks for recovery from surgery related
+7 to a living organ donation.
+8 (2) If the state employee learns of his or her surgery date to
+9 be a living organ donor less than thirty (30) days in advance, then the state
+10 employee shall give notice to the state agency as soon as reasonably
+11 possible.
+12 (3) For the purpose of calculating career service anniversary
+13 dates, an absence under subdivision (b)(1) of this section is considered
+14 full-time employment.
+15
+16 SECTION 2. Arkansas Code Title 23, Chapter 81, Subchapter 1, is
+17 amended to add an additional section to read as follows:
+18 23-81-138. Application for life insurance — Discrimination based on
+19 organ donor status prohibited — Definitions.
+20 (a) As used in this section:
+21 (1)(A) "Life insurer" means an entity that enters into a
+22 contract that incorporates mortality risk, including an annuity contract.
+23 (B) "Life insurer" includes without limitation an insurer
+24 issuing life insurance contracts that grant additional benefits in the event
+25 of an insured's disability; and
+26 (2) "Living organ donor" means an individual who has donated all
+27 or part of an organ and is not deceased.
+28 (b) A life insurer authorized to transact the business of insurance in
+29 this state shall not cancel, limit, or deny life insurance coverage or
+30 establish any differential in premium rates based on an individual's status
+31 as a living organ donor.
+32 (c) A life insurer shall not consider an individual's decision to be a
+33 living organ donor for any insurance purpose.
+34
+35
+36
+2 03/17/2025 1:35:24 PM ANS240
+[DELETED:       A S I D  T C D A O  B   S t  2  (   ( o   ( t   ( c   ( a m]
+[DELETED: S2 0    (     (     (     (  ( p t   ( b e p   ( d f   S a  2 o  (   ( c    ( i o   ( o  ( t e a  ( l]
+
+
+================================================================================
+
+Raw Text:
+Stricken language would be deleted from and underlined language would be added to present law.
+1 State of Arkansas
+A Bill
+2 95th General Assembly
+3 Regular Session, 2025 SENATE BILL 476
+4
+5 By: Senator J. Scott
+6
+7
+For An Act To Be Entitled
+8
+9 AN ACT TO ALLOW LEAVE FOR ORGAN DONATION FOR CERTAIN
+10 STATE EMPLOYEES; TO PROHIBIT DISCRIMINATION AGAINST
+11 INDIVIDUALS APPLYING FOR LIFE INSURANCE WHO ARE ORGAN
+12 DONORS; AND FOR OTHER PURPOSES.
+13
+14
+Subtitle
+15
+16 TO ALLOW LEAVE FOR ORGAN DONATION FOR
+17 CERTAIN STATE EMPLOYEES; AND TO PROHIBIT
+18 DISCRIMINATION AGAINST INDIVIDUALS
+19 APPLYING FOR LIFE INSURANCE WHO ARE
+20 ORGAN DONORS.
+21
+22 BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF ARKANSAS:
+23
+24 SECTION 1. Arkansas Code Title 21, Chapter 4, Subchapter 1, is amended
+25 to add an additional section to read as follows:
+26 21-4-108. Leave for organ donation.
+27 (a) As used in this section:
+28 (1) "Living organ donor" means an individual who has donated all
+29 or part of an organ and is not deceased;
+30 (2) "Organ" means a human organ that is capable of being
+31 transferred from the body of one (1) person to the body of another person;
+32 (3) "State agency" means a department, agency, bureau, board, or
+33 commission of any branch of state government; and
+34 (4)(A) "State employee" means a full-time employee of a state
+35 agency who has been employed with the state agency for at least twelve (12)
+36 months.
+*ANS240*
+03/17/2025 1:35:24 PM ANS240
+
+SB476
+1 (B) "State employee" does not include:
+2 (i) A member of the General Assembly;
+3 (ii) An employee of the Secretary of State; or
+4 (iii) An employee of the Treasurer of State.
+5 (b)(1) A state employee shall be granted absence from work for a
+6 period of time equal to twelve (12) weeks for recovery from surgery related
+7 to a living organ donation.
+8 (2) If the state employee learns of his or her surgery date to
+9 be a living organ donor less than thirty (30) days in advance, then the state
+10 employee shall give notice to the state agency as soon as reasonably
+11 possible.
+12 (3) For the purpose of calculating career service anniversary
+13 dates, an absence under subdivision (b)(1) of this section is considered
+14 full-time employment.
+15
+16 SECTION 2. Arkansas Code Title 23, Chapter 81, Subchapter 1, is
+17 amended to add an additional section to read as follows:
+18 23-81-138. Application for life insurance — Discrimination based on
+19 organ donor status prohibited — Definitions.
+20 (a) As used in this section:
+21 (1)(A) "Life insurer" means an entity that enters into a
+22 contract that incorporates mortality risk, including an annuity contract.
+23 (B) "Life insurer" includes without limitation an insurer
+24 issuing life insurance contracts that grant additional benefits in the event
+25 of an insured's disability; and
+26 (2) "Living organ donor" means an individual who has donated all
+27 or part of an organ and is not deceased.
+28 (b) A life insurer authorized to transact the business of insurance in
+29 this state shall not cancel, limit, or deny life insurance coverage or
+30 establish any differential in premium rates based on an individual's status
+31 as a living organ donor.
+32 (c) A life insurer shall not consider an individual's decision to be a
+33 living organ donor for any insurance purpose.
+34
+35
+36
+2 03/17/2025 1:35:24 PM ANS240
+
+[DELETED:       A S I D  T C D A O  B   S t  2  (   ( o   ( t   ( c   ( a m]
+[DELETED: S2 0    (     (     (     (  ( p t   ( b e p   ( d f   S a  2 o  (   ( c    ( i o   ( o  ( t e a  ( l]

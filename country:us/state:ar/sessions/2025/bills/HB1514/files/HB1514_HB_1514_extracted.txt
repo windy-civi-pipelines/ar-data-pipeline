@@ -1,0 +1,101 @@
+Title: Stricken language would be deleted from and underlined language would be added to present law.
+Official Title: Stricken language would be deleted from and underlined language would be added to present law.
+Number of Sections: 1
+Source: versions - HB 1514
+Media Type: application/pdf
+Strikethrough Detection: 1 sections found
+
+================================================================================
+
+Section 1:
+1 State of Arkansas
+A Bill
+2 95th General Assembly
+3 Regular Session, 2025 HOUSE BILL 1514
+4
+5 By: Representatives Painter, Ray
+6 By: Senator Crowell
+7
+For An Act To Be Entitled
+8
+9 AN ACT TO AMEND THE UNIFORM ATTENDANCE AND LEAVE
+10 POLICY ACT; TO AMEND THE DEFINITION OF A "CRITICAL-
+11 NEED EMPLOYEE"; AND FOR OTHER PURPOSES.
+12
+13
+Subtitle
+14
+15 TO AMEND THE UNIFORM ATTENDANCE AND
+16 LEAVE POLICY ACT; AND TO AMEND THE
+17 DEFINITION OF A "CRITICAL-NEED
+18 EMPLOYEE".
+19
+20 BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF ARKANSAS:
+21
+22 SECTION 1. Arkansas Code § 21-4-203(7)(A), concerning definitions to
+23 be used under the Uniform Attendance and Leave Policy Act, is amended to read
+24 as follows:
+25 (7)(A) “Critical-need employee” means a person employed by any
+26 of the following state agencies in a position or classification that is
+27 required to be staffed by the state agency twenty-four (24) hours a day and
+28 seven (7) days a week:
+29 (i) The Department of Corrections;
+30 (ii) The Department of Health;
+31 (iii) The Department of Human Services;
+32 (iv) The Division of Emergency Management;
+33 (v) The Division of Arkansas State Police;
+34 (vi) The Department of Veterans Affairs; or
+35 (vii) The Department of Agriculture; or
+36 (viii) The Department of the Military.
+*ZRC018*
+02/18/2025 9:20:45 AM ZRC018
+[DELETED:       A P N  T L D E  B   S b a   ( o r s     (     (     (     (     (     (     (     (]
+
+
+================================================================================
+
+Raw Text:
+Stricken language would be deleted from and underlined language would be added to present law.
+1 State of Arkansas
+A Bill
+2 95th General Assembly
+3 Regular Session, 2025 HOUSE BILL 1514
+4
+5 By: Representatives Painter, Ray
+6 By: Senator Crowell
+7
+For An Act To Be Entitled
+8
+9 AN ACT TO AMEND THE UNIFORM ATTENDANCE AND LEAVE
+10 POLICY ACT; TO AMEND THE DEFINITION OF A "CRITICAL-
+11 NEED EMPLOYEE"; AND FOR OTHER PURPOSES.
+12
+13
+Subtitle
+14
+15 TO AMEND THE UNIFORM ATTENDANCE AND
+16 LEAVE POLICY ACT; AND TO AMEND THE
+17 DEFINITION OF A "CRITICAL-NEED
+18 EMPLOYEE".
+19
+20 BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF ARKANSAS:
+21
+22 SECTION 1. Arkansas Code § 21-4-203(7)(A), concerning definitions to
+23 be used under the Uniform Attendance and Leave Policy Act, is amended to read
+24 as follows:
+25 (7)(A) “Critical-need employee” means a person employed by any
+26 of the following state agencies in a position or classification that is
+27 required to be staffed by the state agency twenty-four (24) hours a day and
+28 seven (7) days a week:
+29 (i) The Department of Corrections;
+30 (ii) The Department of Health;
+31 (iii) The Department of Human Services;
+32 (iv) The Division of Emergency Management;
+33 (v) The Division of Arkansas State Police;
+34 (vi) The Department of Veterans Affairs; or
+35 (vii) The Department of Agriculture; or
+36 (viii) The Department of the Military.
+*ZRC018*
+02/18/2025 9:20:45 AM ZRC018
+
+[DELETED:       A P N  T L D E  B   S b a   ( o r s     (     (     (     (     (     (     (     (]

@@ -1,0 +1,180 @@
+Title: Stricken language would be deleted from and underlined language would be added to present law.
+Official Title: Stricken language would be deleted from and underlined language would be added to present law.
+Number of Sections: 1
+Source: versions - SB 614
+Media Type: application/pdf
+Strikethrough Detection: 2 sections found
+
+================================================================================
+
+Section 1:
+1 State of Arkansas As Engrossed: S4/9/25 S4/9/25
+A Bill
+2 95th General Assembly
+3 Regular Session, 2025 SENATE BILL 614
+4
+5 By: Senator C. Tucker
+6 By: Representative Gazaway
+7
+For An Act To Be Entitled
+8
+9 AN ACT TO AMEND THE FREEDOM OF INFORMATION ACT OF
+10 1967; TO AMEND THE LAW CONCERNING OPEN PUBLIC
+11 MEETINGS; AND FOR OTHER PURPOSES.
+12
+13
+Subtitle
+14
+15 TO AMEND THE FREEDOM OF INFORMATION ACT
+16 OF 1967; AND TO AMEND THE LAW CONCERNING
+17 OPEN PUBLIC MEETINGS.
+18
+19 BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF ARKANSAS:
+20
+21 SECTION 1. Arkansas Code § 25-19-106, as amended by SB227 of 2025, is
+22 amended to add an additional subsection to read as follows:
+23 (j)(1) Notwithstanding any provision to the contrary, if a circuit
+24 court finds that a governing body or a member of a governing body violated
+25 this section concerning the issuance of bonds, the circuit court may only
+26 invalidate the action by the governing body authorizing the issuance of bonds
+27 within thirty (30) days of the date the action occurred.
+28 (2) If a circuit court makes a finding described under
+29 subdivision (j)(1) of this section more than thirty (30) days after the
+30 action by the governing body authorizing the issuance of the bonds:
+31 (A) The governing body shall cure the violation within
+32 thirty (30) days after the finding of the circuit court by:
+33 (i) Providing notice of the violation in compliance
+34 with subsection (b) of this section;
+35 (ii) Disclosing the violation at a public meeting;
+36 and
+*LGL195*
+04-09-2025 13:21:51 LGL195
+As Engrossed: S4/9/25 S4/9/25 SB614
+1 (iii) Authorizing the action in question at the
+2 public meeting in compliance with subdivision (a)(5) of this section; or
+3 (B)(i) The circuit court shall impose a civil penalty of
+4 one thousand dollars ($1,000) on each individual member of the governing
+5 body, up to the entire membership of the governing body, who the circuit
+6 court finds committed or was otherwise responsible for the violation.
+7 (ii) The civil penalty under subdivision
+8 (j)(2)(B)(i) of this section shall:
+9 (a) Be paid to the claimant asserting the
+10 claim in circuit court within thirty (30) days of the finding of the circuit
+11 court under subdivision (j)(1) of this section; and
+12 (b) Not be satisfied by public funds.
+13 (3) The remedies under subdivision (j)(2) of this section are
+14 supplemental to all other remedies available under this chapter within the
+15 applicable statute of limitations.
+16 (4) As used in this subsection, "bonds" means bonds and other
+17 debt-related instruments, including without limitation a short-term financing
+18 obligation, under Arkansas Constitution, Amendment 78.
+19
+20 SECTION 2. DO NOT CODIFY. Contingency.
+21 (a) Section 1 of this act shall become effective only if SB227 of the
+22 Ninety-Fifth General Assembly is enacted by the General Assembly and becomes
+23 an act.
+24 (b) If SB227 of the Ninety-Fifth General Assembly does not become an
+25 act, Section 1 of this act shall not become effective.
+26
+27 /s/C. Tucker
+28
+29
+30
+31
+32
+33
+34
+35
+36
+2 04-09-2025 13:21:51 LGL195
+[DELETED:  A   EBL6     A 1 M   T O O  B   S a  ( c t i w   ( s a    ( t     ( w     ( a]
+[DELETED:  S2 0     ( p    ( o b c     ( (      ( c c      (   ( s a   ( d o   S  ( N a  ( a  /         ]
+
+
+================================================================================
+
+Raw Text:
+Stricken language would be deleted from and underlined language would be added to present law.
+1 State of Arkansas As Engrossed: S4/9/25 S4/9/25
+A Bill
+2 95th General Assembly
+3 Regular Session, 2025 SENATE BILL 614
+4
+5 By: Senator C. Tucker
+6 By: Representative Gazaway
+7
+For An Act To Be Entitled
+8
+9 AN ACT TO AMEND THE FREEDOM OF INFORMATION ACT OF
+10 1967; TO AMEND THE LAW CONCERNING OPEN PUBLIC
+11 MEETINGS; AND FOR OTHER PURPOSES.
+12
+13
+Subtitle
+14
+15 TO AMEND THE FREEDOM OF INFORMATION ACT
+16 OF 1967; AND TO AMEND THE LAW CONCERNING
+17 OPEN PUBLIC MEETINGS.
+18
+19 BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF ARKANSAS:
+20
+21 SECTION 1. Arkansas Code § 25-19-106, as amended by SB227 of 2025, is
+22 amended to add an additional subsection to read as follows:
+23 (j)(1) Notwithstanding any provision to the contrary, if a circuit
+24 court finds that a governing body or a member of a governing body violated
+25 this section concerning the issuance of bonds, the circuit court may only
+26 invalidate the action by the governing body authorizing the issuance of bonds
+27 within thirty (30) days of the date the action occurred.
+28 (2) If a circuit court makes a finding described under
+29 subdivision (j)(1) of this section more than thirty (30) days after the
+30 action by the governing body authorizing the issuance of the bonds:
+31 (A) The governing body shall cure the violation within
+32 thirty (30) days after the finding of the circuit court by:
+33 (i) Providing notice of the violation in compliance
+34 with subsection (b) of this section;
+35 (ii) Disclosing the violation at a public meeting;
+36 and
+*LGL195*
+04-09-2025 13:21:51 LGL195
+
+As Engrossed: S4/9/25 S4/9/25 SB614
+1 (iii) Authorizing the action in question at the
+2 public meeting in compliance with subdivision (a)(5) of this section; or
+3 (B)(i) The circuit court shall impose a civil penalty of
+4 one thousand dollars ($1,000) on each individual member of the governing
+5 body, up to the entire membership of the governing body, who the circuit
+6 court finds committed or was otherwise responsible for the violation.
+7 (ii) The civil penalty under subdivision
+8 (j)(2)(B)(i) of this section shall:
+9 (a) Be paid to the claimant asserting the
+10 claim in circuit court within thirty (30) days of the finding of the circuit
+11 court under subdivision (j)(1) of this section; and
+12 (b) Not be satisfied by public funds.
+13 (3) The remedies under subdivision (j)(2) of this section are
+14 supplemental to all other remedies available under this chapter within the
+15 applicable statute of limitations.
+16 (4) As used in this subsection, "bonds" means bonds and other
+17 debt-related instruments, including without limitation a short-term financing
+18 obligation, under Arkansas Constitution, Amendment 78.
+19
+20 SECTION 2. DO NOT CODIFY. Contingency.
+21 (a) Section 1 of this act shall become effective only if SB227 of the
+22 Ninety-Fifth General Assembly is enacted by the General Assembly and becomes
+23 an act.
+24 (b) If SB227 of the Ninety-Fifth General Assembly does not become an
+25 act, Section 1 of this act shall not become effective.
+26
+27 /s/C. Tucker
+28
+29
+30
+31
+32
+33
+34
+35
+36
+2 04-09-2025 13:21:51 LGL195
+
+[DELETED:  A   EBL6     A 1 M   T O O  B   S a  ( c t i w   ( s a    ( t     ( w     ( a]
+[DELETED:  S2 0     ( p    ( o b c     ( (      ( c c      (   ( s a   ( d o   S  ( N a  ( a  /         ]

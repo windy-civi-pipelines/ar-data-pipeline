@@ -1,0 +1,417 @@
+Title: Stricken language would be deleted from and underlined language would be added to present law.
+Official Title: Stricken language would be deleted from and underlined language would be added to present law.
+Number of Sections: 1
+Source: versions - HB 1153
+Media Type: application/pdf
+Strikethrough Detection: 5 sections found
+
+================================================================================
+
+Section 1:
+1 State of Arkansas
+A Bill
+2 95th General Assembly
+3 Regular Session, 2025 HOUSE BILL 1153
+4
+5 By: Joint Budget Committee
+6
+7
+For An Act To Be Entitled
+8
+9 AN ACT TO MAKE AN APPROPRIATION FOR OPERATING,
+10 RESEARCH AND DEVELOPMENT EXPENSES FOR THE DEPARTMENT
+11 OF AGRICULTURE - PROMOTION BOARDS FOR THE FISCAL YEAR
+12 ENDING JUNE 30, 2026; AND FOR OTHER PURPOSES.
+13
+14
+Subtitle
+15
+16 AN ACT FOR THE DEPARTMENT OF AGRICULTURE
+17 - PROMOTION BOARDS APPROPRIATION FOR THE
+18 2025-2026 FISCAL YEAR.
+19
+20
+21 BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF ARKANSAS:
+22
+23 SECTION 1. APPROPRIATION - BEEF COUNCIL. There is hereby appropriated,
+24 to the Department of Agriculture, to be payable from the Beef Council Fund,
+25 for operating, research and development expenses of the Department of
+26 Agriculture - Arkansas Beef Council for the fiscal year ending June 30, 2026,
+27 the following:
+28
+29 ITEM FISCAL YEAR
+30 NO. 2025-2026
+31 (01) MAINT. & GEN. OPERATION
+32 (A) OPER. EXPENSE $22,076
+33 (B) CONF. & TRAVEL 5,000
+34 (C) PROF. FEES 3,000
+35 (D) CAP. OUTLAY 0
+36 (E) DATA PROC. 0
+*BSS003*
+01/14/2025 3:13:10 PM BSS003
+HB1153
+1 (02) RESEARCH & DEVELOPMENT 1,037,000
+2 TOTAL AMOUNT APPROPRIATED $1,067,076
+3
+4 SECTION 2. APPROPRIATION - CATFISH PROMOTION BOARD. There is hereby
+5 appropriated, to the Department of Agriculture, to be payable from the
+6 Arkansas Catfish Promotion Fund, for operating expenses, research, promotion
+7 and consumer activities of the Department of Agriculture - Arkansas Catfish
+8 Promotion Board for the fiscal year ending June 30, 2026, the following:
+9
+10 ITEM FISCAL YEAR
+11 NO. 2025-2026
+12 (01) MAINT. & GEN. OPERATION
+13 (A) OPER. EXPENSE $1,000
+14 (B) CONF. & TRAVEL 0
+15 (C) PROF. FEES 0
+16 (D) CAP. OUTLAY 0
+17 (E) DATA PROC. 0
+18 (02) PROMOTIONAL ITEMS 25,000
+19 (03) RESEARCH DEVELOPMENT 94,000
+20 TOTAL AMOUNT APPROPRIATED $120,000
+21
+22 SECTION 3. APPROPRIATION - CORN AND GRAIN SORGHUM PROMOTION BOARD.
+23 There is hereby appropriated, to the Department of Agriculture, to be payable
+24 from the Arkansas Corn and Grain Sorghum Promotion Board Fund, for operating,
+25 research and development expenses of the Department of Agriculture - Arkansas
+26 Corn and Grain Sorghum Promotion Board for the fiscal year ending June 30,
+27 2026, the following:
+28
+29 ITEM FISCAL YEAR
+30 NO. 2025-2026
+31 (01) MAINT. & GEN. OPERATION
+32 (A) OPER. EXPENSE $25,000
+33 (B) CONF. & TRAVEL 0
+34 (C) PROF. FEES 0
+35 (D) CAP. OUTLAY 0
+36 (E) DATA PROC. 0
+2 01/14/2025 3:13:10 PM BSS003
+HB1153
+1 (02) RESEARCH/DEVELOPMENT 1,975,000
+2 TOTAL AMOUNT APPROPRIATED $2,000,000
+3
+4 SECTION 4. APPROPRIATION - RICE RESEARCH AND PROMOTION BOARD. There is
+5 hereby appropriated, to the Department of Agriculture, to be payable from the
+6 Arkansas Rice Research and Promotion Fund, for operating, research and
+7 development expenses of the Department of Agriculture - Arkansas Rice
+8 Research and Promotion Board for the fiscal year ending June 30, 2026, the
+9 following:
+10
+11 ITEM FISCAL YEAR
+12 NO. 2025-2026
+13 (01) MAINT. & GEN. OPERATION
+14 (A) OPER. EXPENSE $14,200
+15 (B) CONF. & TRAVEL 0
+16 (C) PROF. FEES 0
+17 (D) CAP. OUTLAY 0
+18 (E) DATA PROC. 0
+19 (02) RESEARCH/DEVELOPMENT 6,966,496
+20 TOTAL AMOUNT APPROPRIATED $6,980,696
+21
+22 SECTION 5. APPROPRIATION - RICE RESEARCH AND PROMOTION BOARD - CASH.
+23 There is hereby appropriated, to the Department of Agriculture, to be payable
+24 from the cash funds as defined by Arkansas Code 19-4-801, for rice research
+25 and development of the Department of Agriculture - Arkansas Rice Research and
+26 Promotion Board for the fiscal year ending June 30, 2026, the following:
+27
+28 ITEM FISCAL YEAR
+29 NO. 2025-2026
+30 (01) RESEARCH & DEVELOPMENT $15,000,000
+31
+32 SECTION 6. APPROPRIATION - SOYBEAN PROMOTION BOARD. There is hereby
+33 appropriated, to the Department of Agriculture, to be payable from the
+34 Soybean Promotion Fund, for operating, research and development expenses of
+35 the Department of Agriculture - Arkansas Soybean Promotion Board for the
+36 fiscal year ending June 30, 2026, the following:
+3 01/14/2025 3:13:10 PM BSS003
+HB1153
+1
+2 ITEM FISCAL YEAR
+3 NO. 2025-2026
+4 (01) MAINT. & GEN. OPERATION
+5 (A) OPER. EXPENSE $60,500
+6 (B) CONF. & TRAVEL 0
+7 (C) PROF. FEES 2,000
+8 (D) CAP. OUTLAY 0
+9 (E) DATA PROC. 0
+10 (02) RESEARCH/DEVELOPMENT 8,537,500
+11 TOTAL AMOUNT APPROPRIATED $8,600,000
+12
+13 SECTION 7. APPROPRIATION - WHEAT PROMOTION BOARD. There is hereby
+14 appropriated, to the Department of Agriculture, to be payable from the
+15 Arkansas Wheat Promotion Fund, for operating, research and development
+16 expenses of the Department of Agriculture - Arkansas Wheat Promotion Board
+17 for the fiscal year ending June 30, 2026, the following:
+18
+19 ITEM FISCAL YEAR
+20 NO. 2025-2026
+21 (01) MAINT. & GEN. OPERATION
+22 (A) OPER. EXPENSE $3,599
+23 (B) CONF. & TRAVEL 0
+24 (C) PROF. FEES 0
+25 (D) CAP. OUTLAY 0
+26 (E) DATA PROC. 0
+27 (02) RESEARCH/DEVELOPMENT 440,895
+28 TOTAL AMOUNT APPROPRIATED $444,494
+29
+30 SECTION 8. COMPLIANCE WITH OTHER LAWS. Disbursement of funds
+31 authorized by this act shall be limited to the appropriation for such agency
+32 and funds made available by law for the support of such appropriations; and
+33 the restrictions of the State Procurement Law, the General Accounting and
+34 Budgetary Procedures Law, the Revenue Stabilization Law, the Regular Salary
+35 Procedures and Restrictions Act, or their successors, and other fiscal
+36 control laws of this State, where applicable, and regulations promulgated by
+4 01/14/2025 3:13:10 PM BSS003
+HB1153
+1 the Department of Finance and Administration, as authorized by law, shall be
+2 strictly complied with in disbursement of said funds.
+3
+4 SECTION 9. LEGISLATIVE INTENT. It is the intent of the General
+5 Assembly that any funds disbursed under the authority of the appropriations
+6 contained in this act shall be in compliance with the stated reasons for
+7 which this act was adopted, as evidenced by the Agency Requests, Executive
+8 Recommendations and Legislative Recommendations contained in the budget
+9 manuals prepared by the Department of Finance and Administration, letters, or
+10 summarized oral testimony in the official minutes of the Arkansas Legislative
+11 Council or Joint Budget Committee which relate to its passage and adoption.
+12
+13 SECTION 10. EMERGENCY CLAUSE. It is found and determined by the
+14 General Assembly, that the Constitution of the State of Arkansas prohibits
+15 the appropriation of funds for more than a one (1) year period; that the
+16 effectiveness of this Act on July 1, 2025 is essential to the operation of
+17 the agency for which the appropriations in this Act are provided, and that in
+18 the event of an extension of the legislative session, the delay in the
+19 effective date of this Act beyond July 1, 2025 could work irreparable harm
+20 upon the proper administration and provision of essential governmental
+21 programs. Therefore, an emergency is hereby declared to exist and this Act
+22 being necessary for the immediate preservation of the public peace, health
+23 and safety shall be in full force and effect from and after July 1, 2025.
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+5 01/14/2025 3:13:10 PM BSS003
+[DELETED:      H A R O E  A - 2    B   S t f A t  I   (          ]
+[DELETED: H2 0 (     S a A a P  I   (           ( (     S T f r C 2  I   (          ]
+[DELETED: H3 0 (      S h A d R f  I   (           (     S T f a P  I   (   S a S t f]
+[DELETED: H4 0  I   (           (     S a A e f  I   (           (     S a a t B P c]
+[DELETED: H5 0 t s   S A c w R m s C   S G t e t t e u p b a             ]
+
+
+================================================================================
+
+Raw Text:
+Stricken language would be deleted from and underlined language would be added to present law.
+1 State of Arkansas
+A Bill
+2 95th General Assembly
+3 Regular Session, 2025 HOUSE BILL 1153
+4
+5 By: Joint Budget Committee
+6
+7
+For An Act To Be Entitled
+8
+9 AN ACT TO MAKE AN APPROPRIATION FOR OPERATING,
+10 RESEARCH AND DEVELOPMENT EXPENSES FOR THE DEPARTMENT
+11 OF AGRICULTURE - PROMOTION BOARDS FOR THE FISCAL YEAR
+12 ENDING JUNE 30, 2026; AND FOR OTHER PURPOSES.
+13
+14
+Subtitle
+15
+16 AN ACT FOR THE DEPARTMENT OF AGRICULTURE
+17 - PROMOTION BOARDS APPROPRIATION FOR THE
+18 2025-2026 FISCAL YEAR.
+19
+20
+21 BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF ARKANSAS:
+22
+23 SECTION 1. APPROPRIATION - BEEF COUNCIL. There is hereby appropriated,
+24 to the Department of Agriculture, to be payable from the Beef Council Fund,
+25 for operating, research and development expenses of the Department of
+26 Agriculture - Arkansas Beef Council for the fiscal year ending June 30, 2026,
+27 the following:
+28
+29 ITEM FISCAL YEAR
+30 NO. 2025-2026
+31 (01) MAINT. & GEN. OPERATION
+32 (A) OPER. EXPENSE $22,076
+33 (B) CONF. & TRAVEL 5,000
+34 (C) PROF. FEES 3,000
+35 (D) CAP. OUTLAY 0
+36 (E) DATA PROC. 0
+*BSS003*
+01/14/2025 3:13:10 PM BSS003
+
+HB1153
+1 (02) RESEARCH & DEVELOPMENT 1,037,000
+2 TOTAL AMOUNT APPROPRIATED $1,067,076
+3
+4 SECTION 2. APPROPRIATION - CATFISH PROMOTION BOARD. There is hereby
+5 appropriated, to the Department of Agriculture, to be payable from the
+6 Arkansas Catfish Promotion Fund, for operating expenses, research, promotion
+7 and consumer activities of the Department of Agriculture - Arkansas Catfish
+8 Promotion Board for the fiscal year ending June 30, 2026, the following:
+9
+10 ITEM FISCAL YEAR
+11 NO. 2025-2026
+12 (01) MAINT. & GEN. OPERATION
+13 (A) OPER. EXPENSE $1,000
+14 (B) CONF. & TRAVEL 0
+15 (C) PROF. FEES 0
+16 (D) CAP. OUTLAY 0
+17 (E) DATA PROC. 0
+18 (02) PROMOTIONAL ITEMS 25,000
+19 (03) RESEARCH DEVELOPMENT 94,000
+20 TOTAL AMOUNT APPROPRIATED $120,000
+21
+22 SECTION 3. APPROPRIATION - CORN AND GRAIN SORGHUM PROMOTION BOARD.
+23 There is hereby appropriated, to the Department of Agriculture, to be payable
+24 from the Arkansas Corn and Grain Sorghum Promotion Board Fund, for operating,
+25 research and development expenses of the Department of Agriculture - Arkansas
+26 Corn and Grain Sorghum Promotion Board for the fiscal year ending June 30,
+27 2026, the following:
+28
+29 ITEM FISCAL YEAR
+30 NO. 2025-2026
+31 (01) MAINT. & GEN. OPERATION
+32 (A) OPER. EXPENSE $25,000
+33 (B) CONF. & TRAVEL 0
+34 (C) PROF. FEES 0
+35 (D) CAP. OUTLAY 0
+36 (E) DATA PROC. 0
+2 01/14/2025 3:13:10 PM BSS003
+
+HB1153
+1 (02) RESEARCH/DEVELOPMENT 1,975,000
+2 TOTAL AMOUNT APPROPRIATED $2,000,000
+3
+4 SECTION 4. APPROPRIATION - RICE RESEARCH AND PROMOTION BOARD. There is
+5 hereby appropriated, to the Department of Agriculture, to be payable from the
+6 Arkansas Rice Research and Promotion Fund, for operating, research and
+7 development expenses of the Department of Agriculture - Arkansas Rice
+8 Research and Promotion Board for the fiscal year ending June 30, 2026, the
+9 following:
+10
+11 ITEM FISCAL YEAR
+12 NO. 2025-2026
+13 (01) MAINT. & GEN. OPERATION
+14 (A) OPER. EXPENSE $14,200
+15 (B) CONF. & TRAVEL 0
+16 (C) PROF. FEES 0
+17 (D) CAP. OUTLAY 0
+18 (E) DATA PROC. 0
+19 (02) RESEARCH/DEVELOPMENT 6,966,496
+20 TOTAL AMOUNT APPROPRIATED $6,980,696
+21
+22 SECTION 5. APPROPRIATION - RICE RESEARCH AND PROMOTION BOARD - CASH.
+23 There is hereby appropriated, to the Department of Agriculture, to be payable
+24 from the cash funds as defined by Arkansas Code 19-4-801, for rice research
+25 and development of the Department of Agriculture - Arkansas Rice Research and
+26 Promotion Board for the fiscal year ending June 30, 2026, the following:
+27
+28 ITEM FISCAL YEAR
+29 NO. 2025-2026
+30 (01) RESEARCH & DEVELOPMENT $15,000,000
+31
+32 SECTION 6. APPROPRIATION - SOYBEAN PROMOTION BOARD. There is hereby
+33 appropriated, to the Department of Agriculture, to be payable from the
+34 Soybean Promotion Fund, for operating, research and development expenses of
+35 the Department of Agriculture - Arkansas Soybean Promotion Board for the
+36 fiscal year ending June 30, 2026, the following:
+3 01/14/2025 3:13:10 PM BSS003
+
+HB1153
+1
+2 ITEM FISCAL YEAR
+3 NO. 2025-2026
+4 (01) MAINT. & GEN. OPERATION
+5 (A) OPER. EXPENSE $60,500
+6 (B) CONF. & TRAVEL 0
+7 (C) PROF. FEES 2,000
+8 (D) CAP. OUTLAY 0
+9 (E) DATA PROC. 0
+10 (02) RESEARCH/DEVELOPMENT 8,537,500
+11 TOTAL AMOUNT APPROPRIATED $8,600,000
+12
+13 SECTION 7. APPROPRIATION - WHEAT PROMOTION BOARD. There is hereby
+14 appropriated, to the Department of Agriculture, to be payable from the
+15 Arkansas Wheat Promotion Fund, for operating, research and development
+16 expenses of the Department of Agriculture - Arkansas Wheat Promotion Board
+17 for the fiscal year ending June 30, 2026, the following:
+18
+19 ITEM FISCAL YEAR
+20 NO. 2025-2026
+21 (01) MAINT. & GEN. OPERATION
+22 (A) OPER. EXPENSE $3,599
+23 (B) CONF. & TRAVEL 0
+24 (C) PROF. FEES 0
+25 (D) CAP. OUTLAY 0
+26 (E) DATA PROC. 0
+27 (02) RESEARCH/DEVELOPMENT 440,895
+28 TOTAL AMOUNT APPROPRIATED $444,494
+29
+30 SECTION 8. COMPLIANCE WITH OTHER LAWS. Disbursement of funds
+31 authorized by this act shall be limited to the appropriation for such agency
+32 and funds made available by law for the support of such appropriations; and
+33 the restrictions of the State Procurement Law, the General Accounting and
+34 Budgetary Procedures Law, the Revenue Stabilization Law, the Regular Salary
+35 Procedures and Restrictions Act, or their successors, and other fiscal
+36 control laws of this State, where applicable, and regulations promulgated by
+4 01/14/2025 3:13:10 PM BSS003
+
+HB1153
+1 the Department of Finance and Administration, as authorized by law, shall be
+2 strictly complied with in disbursement of said funds.
+3
+4 SECTION 9. LEGISLATIVE INTENT. It is the intent of the General
+5 Assembly that any funds disbursed under the authority of the appropriations
+6 contained in this act shall be in compliance with the stated reasons for
+7 which this act was adopted, as evidenced by the Agency Requests, Executive
+8 Recommendations and Legislative Recommendations contained in the budget
+9 manuals prepared by the Department of Finance and Administration, letters, or
+10 summarized oral testimony in the official minutes of the Arkansas Legislative
+11 Council or Joint Budget Committee which relate to its passage and adoption.
+12
+13 SECTION 10. EMERGENCY CLAUSE. It is found and determined by the
+14 General Assembly, that the Constitution of the State of Arkansas prohibits
+15 the appropriation of funds for more than a one (1) year period; that the
+16 effectiveness of this Act on July 1, 2025 is essential to the operation of
+17 the agency for which the appropriations in this Act are provided, and that in
+18 the event of an extension of the legislative session, the delay in the
+19 effective date of this Act beyond July 1, 2025 could work irreparable harm
+20 upon the proper administration and provision of essential governmental
+21 programs. Therefore, an emergency is hereby declared to exist and this Act
+22 being necessary for the immediate preservation of the public peace, health
+23 and safety shall be in full force and effect from and after July 1, 2025.
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+5 01/14/2025 3:13:10 PM BSS003
+
+[DELETED:      H A R O E  A - 2    B   S t f A t  I   (          ]
+[DELETED: H2 0 (     S a A a P  I   (           ( (     S T f r C 2  I   (          ]
+[DELETED: H3 0 (      S h A d R f  I   (           (     S T f a P  I   (   S a S t f]
+[DELETED: H4 0  I   (           (     S a A e f  I   (           (     S a a t B P c]
+[DELETED: H5 0 t s   S A c w R m s C   S G t e t t e u p b a             ]

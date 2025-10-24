@@ -1,0 +1,2629 @@
+Title: Stricken language would be deleted from and underlined language would be added to present law.
+Official Title: Stricken language would be deleted from and underlined language would be added to present law.
+Number of Sections: 1
+Source: versions - HB 1466
+Media Type: application/pdf
+Strikethrough Detection: 33 sections found
+
+================================================================================
+
+Section 1:
+1 State of Arkansas
+A Bill
+2 95th General Assembly
+3 Regular Session, 2025 HOUSE BILL 1466
+4
+5 By: Representative Achor
+6 By: Senator J. Boyd
+7
+For An Act To Be Entitled
+8
+9 AN ACT TO AMEND THE FAIR MORTGAGE LENDING ACT; AND
+10 FOR OTHER PURPOSES.
+11
+12
+Subtitle
+13
+14 TO AMEND THE FAIR MORTGAGE LENDING ACT.
+15
+16 BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF ARKANSAS:
+17
+18 SECTION 1. Arkansas Code § 23-39-502 is amended to read as follows:
+19 23-39-502. Definitions.
+20 As used in this subchapter:
+21 (1) "Affiliate" means a person that directly or indirectly
+22 through one (1) or more intermediaries controls, is controlled by, or is
+23 under common control with the person;
+24 (2)(A) "Allowable assets for liquidity" means assets that may be
+25 used to satisfy liquidity requirements under this subchapter.
+26 (B) "Allowable assets for liquidity" includes without
+27 limitation:
+28 (i) Unrestricted cash and cash equivalents; and
+29 (ii) Unencumbered investment-grade assets held for
+30 sale or trade;
+31 (3) "Applicant" means a person that has applied to become
+32 licensed under this subchapter as a loan officer, transitional loan officer,
+33 mortgage broker, mortgage banker, or mortgage servicer;
+34 (4) "Authorized user" means an employee, contractor, agent, or
+35 other person that participates in a financial institution’s business
+36 operations and is authorized to access and use a financial institution’s
+*ANS120*
+02/12/2025 2:18:59 PM ANS120
+HB1466
+1 information systems and data;
+2 (5) "Board of directors" means a formal body that is responsible
+3 for corporate governance and compliance with this subchapter;
+4 (2)(6) "Branch manager" means the individual who is in charge of
+5 the business operations of one (1) or more branch offices of a mortgage
+6 broker, mortgage banker, or mortgage servicer;
+7 (3)(7) "Branch office" means a location that is separate and
+8 distinct from the licensee's principal place of business and includes any
+9 location from which business is conducted under the license or in the name of
+10 the mortgage broker, mortgage banker, or mortgage servicer:
+11 (A) The address of which appears on business cards,
+12 stationery, or advertising used by the licensee in connection with business
+13 conducted under this subchapter at the branch office;
+14 (B) At which the licensee's name, advertising, promotional
+15 materials, or signage suggests that mortgage loans are originated, solicited,
+16 accepted, negotiated, funded, or serviced or from which mortgage loan
+17 commitments or interest rate guarantee agreements are issued; or
+18 (C) Which, due to the actions of any employee, associate,
+19 loan officer, or transitional loan officer of the licensee, may be construed
+20 by the public as a branch office of the licensee where mortgage loans are
+21 originated, solicited, accepted, negotiated, funded, or serviced or from
+22 which mortgage loan commitments or interest rate guarantee agreements are
+23 issued;
+24 (4)(8) "Commissioner" means the Securities Commissioner and
+25 includes the commissioner's designees;
+26 (9) "Consumer" means an individual or that individual's legal
+27 representative who obtains or has obtained a financial product or service
+28 from a financial institution that is to be used primarily for personal,
+29 family, or household purposes;
+30 (5)(A)(10)(A) “Control” means the power, directly or indirectly,
+31 to direct the management or policies of a company, whether through ownership
+32 of securities, by contract, or otherwise.
+33 (B) A person is presumed to control a company if the
+34 person:
+35 (i) Is a director, general partner, or executive
+36 officer of the company;
+2 02/12/2025 2:18:59 PM ANS120
+HB1466
+1 (ii) Directly or indirectly has the right to vote
+2 twenty-five percent (25%) or more of a class of a voting security of the
+3 company or has the power to sell or direct the sale of twenty-five percent
+4 (25%) or more of a class of voting securities of the company;
+5 (iii) In the case of a limited liability company, is
+6 a managing member of the limited liability company; or
+7 (iv) In the case of a partnership, has the right to
+8 receive upon dissolution or has contributed ten percent (10%) or more of the
+9 capital of the partnership;
+10 (6)(11) “Control affiliate” means a partnership, corporation,
+11 trust, limited liability company, or other organization that directly or
+12 indirectly controls or is controlled by the applicant;
+13 (7)(12) “Control person” means an individual who directly or
+14 indirectly exercises control over the applicant;
+15 (13)(A) "Corporate governance" means the structure of and how
+16 the licensee is managed.
+17 (B) "Corporate governance" includes the corporate rules,
+18 policies, processes, and practices used to oversee and manage a licensee;
+19 (14)(A) "Covered institution servicer” means a nonbank mortgage
+20 servicer that:
+21 (i) As reported in the mortgage call report,
+22 services:
+23 (a) Portfolios of two thousand (2,000) or more
+24 of one (1) to four (4) unit residential mortgage loans serviced or
+25 subserviced for others, excluding whole loans owned; and
+26 (b) Loans being interim serviced before sale
+27 as of the most recent calendar year end; and
+28 (ii) Operates in two (2) or more states, districts,
+29 or territories of the United States either currently or as of the prior
+30 calendar year end.
+31 (B) "Covered institution servicer" does not include:
+32 (i) A person exempt from mortgage servicer licensing
+33 requirements under this subchapter;
+34 (ii) A mortgage servicer that has the status of a
+35 tax-exempt organization under 26 U.S.C. § 501(c)(3), as in effect on January
+36 1, 2025; or
+3 02/12/2025 2:18:59 PM ANS120
+HB1466
+1 (iii) A mortgage servicer solely owning or conducting
+2 reverse mortgage servicing, or both, or the reverse mortgage portfolio
+3 administered by a large mortgage servicer;
+4 (15) "Customer" means a consumer who has a customer relationship
+5 with a financial institution;
+6 (16) "Customer information" means a record containing nonpublic
+7 personal information about a customer of a financial institution, whether in
+8 paper, electronic, or other form, that is handled or maintained by or on
+9 behalf of a financial institution or the financial institution’s affiliates;
+10 (17) "Customer relationship" means a continuing relationship
+11 between a consumer and a financial institution under which the financial
+12 institution provides to the consumer one (1) or more financial products or
+13 services that are used primarily for personal, family, or household purposes;
+14 (8)(18) "Employee" means an individual who is licensed with or
+15 employed by a mortgage broker, mortgage banker, or mortgage servicer, whether
+16 by employment contract, agency, or other arrangement and regardless of
+17 whether the individual is treated as an employee for purposes of compliance
+18 with the federal income tax laws;
+19 (19) "Encryption" means the transformation of data into a form
+20 that results in a low probability of assigning meaning without the use of a
+21 protective process or key, consistent with current cryptographic standards
+22 and accompanied by appropriate safeguards for cryptographic key material;
+23 (9)(A)(20)(A) “Exempt person” means a person not required to be
+24 licensed as a mortgage broker, mortgage banker, mortgage servicer, loan
+25 officer, or transitional loan officer under this subchapter.
+26 (B) “Exempt person” includes any of the following:
+27 (i) An employee of a licensee whose responsibilities
+28 are limited to clerical and administrative tasks for his or her employer and
+29 who does not solicit borrowers, accept applications, or negotiate the terms
+30 of loans on behalf of the employer;
+31 (ii) An agency or corporate instrumentality of the
+32 federal government or any state, county, or municipal government granting
+33 mortgage loans under specific authority of the laws of any state or of the
+34 United States;
+35 (iii) A trust company or industrial loan company
+36 chartered under the laws of Arkansas;
+4 02/12/2025 2:18:59 PM ANS120
+HB1466
+1 (iv) A small-business investment corporation licensed
+2 under the Small Business Investment Act of 1958, 15 U.S.C. § 661 et seq., as
+3 it existed on January 1, 2011 January 1, 2025;
+4 (v) A real estate investment trust as defined in 26
+5 U.S.C. § 856, as it existed on January 1, 2011 January 1, 2025;
+6 (vi) A state or federally chartered bank, an
+7 operating subsidiary of a state-chartered bank regulated by the State Bank
+8 Department, a savings bank, a savings and loan association, or a credit
+9 union, the accounts of which are insured by the Federal Deposit Insurance
+10 Corporation or the National Credit Union Administration;
+11 (vii) An agricultural loan organization that is
+12 subject to licensing, supervision, or auditing by the United States Farm
+13 Service Agency, Commodity Credit Corporation, Rural Development Housing and
+14 Community Facilities Programs United States Department of Agriculture Rural
+15 Development, United States Farm Credit Administration, or the United States
+16 Department of Agriculture;
+17 (viii) A nonprofit corporation that:
+18 (a) Qualifies as a nonprofit entity under §
+19 501(c)(3) of the Internal Revenue Code;
+20 (b) Is not primarily in the business of
+21 soliciting or brokering mortgage loans; and
+22 (c) Makes or services mortgage loans to
+23 promote home ownership or home improvements for the disadvantaged;
+24 (ix)(a) A licensed real estate agent or broker who
+25 is performing those activities subject to the regulation of the Arkansas Real
+26 Estate Commission.
+27 (b) Notwithstanding subdivision (9)(B)(ix)(a)
+28 subdivision (20)(B)(ix)(a) of this section, "exempt person" does not include
+29 a real estate agent or broker who receives compensation of any kind in
+30 connection with the referral, placement, or origination of a mortgage loan;
+31 (x) A person who engages in seller-financed
+32 transactions or who as a seller of real property receives mortgages, deeds of
+33 trust, or other security instruments on real estate as security for a
+34 purchase money obligation if:
+35 (a) The person does not receive from or hold
+36 on behalf of the borrower any funds for the payment of insurance or taxes on
+5 02/12/2025 2:18:59 PM ANS120
+HB1466
+1 the real property; and
+2 (b) The seller does not sell the liens or
+3 mortgages in the secondary market other than to affiliated or subsidiary
+4 persons;
+5 (xi) An individual or husband and wife married
+6 couple who provide funds for investment in loans secured by a lien on real
+7 property on his or her or their own account and who do not:
+8 (a) Charge a fee or cause a fee to be paid for
+9 any service other than the normal and scheduled rates for escrow, title
+10 insurance, and recording services; and
+11 (b) Collect funds to be used for the payment
+12 of any taxes or insurance premiums on the property securing the loans;
+13 (xii) An attorney licensed in Arkansas rendering
+14 legal services to his or her client, when the conduct that would subject the
+15 attorney to the jurisdiction of this subchapter is ancillary to the provision
+16 of the legal services offered;
+17 (xiii) A person performing any act under order of
+18 any court;
+19 (xiv) A person acting as a mortgage broker, mortgage
+20 banker, or mortgage servicer for any person located in Arkansas, if the
+21 mortgage broker, mortgage banker, or mortgage servicer has no office or
+22 employee in Arkansas and the real property that is the subject of the
+23 mortgage is located outside of Arkansas;
+24 (xv) An officer or employee of an exempt person
+25 described in subdivisions (9)(B)(ii)-(xiv) subdivisions (20)(B)(ii)-(xiv) of
+26 this section if acting in the scope of employment for the exempt person; and
+27 (xvi) A manufactured or modular home retailer and
+28 its employees if:
+29 (a) The manufactured or modular home retailer
+30 or its employees perform only administrative or clerical tasks on behalf of a
+31 person required to be licensed under this subchapter; or
+32 (b) The manufactured or modular home retailer
+33 and its employees:
+34 (1) Do not receive compensation or
+35 financial gain for engaging in loan officer activities that exceeds the
+36 amount of compensation or financial gain that could be received in a
+6 02/12/2025 2:18:59 PM ANS120
+HB1466
+1 comparable cash transaction for a manufactured home;
+2 (2) Disclose to the consumer in writing
+3 any corporate affiliation with a mortgage banker;
+4 (3) Provide referral information for at
+5 least one (1) unaffiliated creditor if the manufactured or modular home
+6 retailer has a corporate affiliation with a mortgage banker and the mortgage
+7 banker offers a recommendation; and
+8 (4)(A) Do not directly negotiate loan
+9 terms with the consumer or lender.
+10 (B) As used in subdivision
+11 (9)(B)(xvi)(b)(4)(A) subdivision (20)(B)(xvi)(b)(4)(A) of this section, “loan
+12 terms” includes rates, fees, and other costs;
+13 (21) "External audit" means a formal report prepared by an
+14 independent certified public accountant expressing an opinion on whether
+15 financial statements are:
+16 (A) Presented fairly, in all material aspects, according
+17 to the applicable financial reporting framework; and
+18 (B) Inclusive of an evaluation of the adequacy of a
+19 company’s internal control structure;
+20 (22) "Financial institution" means a mortgage broker, mortgage
+21 banker, or mortgage servicer licensed under this subchapter;
+22 (23)(A) "Financial product or service" means a product or
+23 service that a financial holding company could offer by engaging in a
+24 financial activity under section 4(k) of the Bank Holding Company Act of
+25 1956, 12 U.S.C. § 1843(k), as it existed on January 1, 2025.
+26 (B) "Financial product or service" includes a financial
+27 institution’s evaluation or brokerage of information that a financial
+28 institution collects in connection with a request or an application from a
+29 consumer for a financial product or service;
+30 (24) "Information security program" means the administrative,
+31 technical, or physical safeguards a financial institution uses to access,
+32 collect, distribute, process, protect, store, use, transmit, dispose of, or
+33 otherwise handle customer information;
+34 (25) "Information system" means a discrete set of electronic
+35 information resources organized for the collection, processing, maintenance,
+36 use, sharing, dissemination, or disposition of electronic information,
+7 02/12/2025 2:18:59 PM ANS120
+HB1466
+1 including any specialized system, such as industrial controls system or a
+2 process controls system, a telephone switching and private branch exchange
+3 system, and an environmental control system, that contain customer
+4 information or that is connected to a system that contains customer
+5 information;
+6 (26) "Interim serviced before sale" means the activity of
+7 collecting a limited number of contractual mortgage payments immediately
+8 after origination on loans held for sale but before the loans have been sold
+9 into the secondary market;
+10 (27) "Internal audit" means the internal activity of performing
+11 independent, objective assurance, and consulting to evaluate and improve the
+12 effectiveness of company operations, risk management, internal controls, and
+13 governance processes;
+14 (28)(A) "Key individual" means an individual who is ultimately
+15 responsible for establishing or directing policies and procedures of a
+16 licensee.
+17 (B) "Key individual" includes without limitation:
+18 (i) An executive officer;
+19 (ii) A manager;
+20 (iii) A director;
+21 (iv) A trustee; or
+22 (v) A control person;
+23 (10)(29) “Licensee” means a loan officer, transitional loan
+24 officer, mortgage broker, mortgage banker, or mortgage servicer that is
+25 licensed under this subchapter;
+26 (11)(A)(30)(A) "Loan officer" means an individual other than an
+27 exempt person described in subdivision (9) subdivision (20) of this section
+28 who in exchange for compensation as an employee of or who otherwise receives
+29 compensation or remuneration from a mortgage broker or a mortgage banker:
+30 (i) Solicits or offers to solicit an application for
+31 a mortgage loan;
+32 (ii) Accepts or offers to accept an application for
+33 a mortgage loan;
+34 (iii) Negotiates or offers to negotiate the terms or
+35 conditions of a mortgage loan;
+36 (iv) Issues or offers to issue a mortgage loan
+8 02/12/2025 2:18:59 PM ANS120
+HB1466
+1 commitment or interest rate guarantee agreement; or
+2 (v) Provides or offers to provide modification of a
+3 mortgage loan.
+4 (B) “Loan officer” does not include:
+5 (i) An individual who performs clerical or
+6 administrative tasks in the processing of a mortgage loan at the direction of
+7 and subject to the supervision and instruction of a licensed loan officer;
+8 (ii) An underwriter if the individual performs no
+9 activities under subdivision (11)(A) subdivision (30)(A) of this section; or
+10 (iii) An individual who is solely involved in
+11 extensions of credit relating to timeshare plans, as that term is defined in
+12 11 U.S.C. § 101(53D), as it existed on January 1, 2011 January 1, 2025;
+13 (12)(31) "Make a mortgage loan" means to close a mortgage loan,
+14 to advance funds, to offer to advance funds, or to make a commitment to
+15 advance funds to a borrower under a mortgage loan;
+16 (13)(A)(32)(A) "Managing principal" means a person who meets the
+17 requirements of § 23-39-508 and who agrees to be primarily responsible for
+18 the operations of a licensed mortgage broker, mortgage banker, or mortgage
+19 servicer.
+20 (B) "Managing principal" includes a qualifying individual;
+21 (14)(33) "Mortgage banker" means a person who engages in the
+22 business of making mortgage loans for compensation or other gain;
+23 (15)(34) "Mortgage broker" means a person who for compensation
+24 or other gain or in the expectation of compensation or other gain and,
+25 regardless of whether the acts are done directly or indirectly, through
+26 contact by telephone, by electronic means, by mail, or in person with the
+27 borrowers or potential borrowers:
+28 (A) Accepts or offers to accept an application for a
+29 mortgage loan;
+30 (B) Solicits or offers to solicit an application for a
+31 mortgage loan;
+32 (C) Negotiates or offers to negotiate the terms or
+33 conditions of a mortgage loan; or
+34 (D) Issues or offers to issue mortgage loan commitments or
+35 interest rate guarantee agreements to borrowers;
+36 (35) "Mortgage call report" means a quarterly or annual report
+9 02/12/2025 2:18:59 PM ANS120
+HB1466
+1 of residential real estate loan origination, servicing, and financial
+2 information completed by a company licensed through the Nationwide Multistate
+3 Licensing System and Registry;
+4 (16)(36)(A) "Mortgage loan" means a loan primarily for personal,
+5 family, or household use that is secured by a mortgage, deed of trust,
+6 reverse mortgage, or other equivalent consensual security interest
+7 encumbering:
+8 (A)(i) A dwelling as defined in section 1602(w) of
+9 the Truth in Lending Act, 15 U.S.C. § 1601 et seq., as it existed on January
+10 1, 2011 January 1, 2025; or
+11 (B)(ii) Residential real estate upon which is
+12 constructed or intended to be constructed a dwelling.
+13 (B) "Mortgage loan" includes a residential mortgage loan;
+14 (17)(A)(37)(A) “Mortgage servicer” means:
+15 (i) An entity performing the routine administration
+16 of a residential mortgage loan on behalf of an owner of the related mortgage
+17 under the terms of a servicing contract; or
+18 (ii) a A person that receives or has the right to
+19 receive from or on behalf of a borrower:
+20 (i)(a) Funds or credits in payment for a
+21 mortgage loan; or
+22 (ii)(b) The taxes or insurance associated with
+23 a mortgage loan.
+24 (B) In the case of a home equity conversion mortgage or a
+25 reverse mortgage, "mortgage servicer" includes a person that makes a payment
+26 to the borrower;
+27 (38) "Mortgage servicing rights" means the contractual right to
+28 service residential mortgage loans on behalf of the owner of the associated
+29 mortgage in exchange for specified compensation according to a servicing
+30 contract;
+31 (39) "Multifactor authentication" means authentication through
+32 verification of at least two (2) of the following types of authentication
+33 factors:
+34 (A) Knowledge factors, including without limitation a
+35 password;
+36 (B) Possession factors, including without limitation a
+10 02/12/2025 2:18:59 PM ANS120
+HB1466
+1 token; or
+2 (C) Inherence factors, including without limitation
+3 biometric characteristics;
+4 (40)(A) "Nonpublic personal information" means:
+5 (i) Personally identifiable financial information;
+6 and
+7 (ii) A list, description, or other grouping of
+8 consumers, and publicly available information pertaining to a consumer, that
+9 is derived using personally identifiable financial information that is not
+10 publicly available.
+11 (B) "Nonpublic personal information" includes without
+12 limitation a list of individuals’ names and street addresses that is derived
+13 in whole or in part using personally identifiable financial information that
+14 is not publicly available.
+15 (C) "Nonpublic personal information" does not include:
+16 (i) Publicly available information except as
+17 included on a list described in subdivision (40)(A)(ii) of this section;
+18 (ii) A list, description, or other grouping of
+19 consumers, and publicly available information pertaining to the list,
+20 description, or other grouping of consumers, that is derived without using
+21 personally identifiable financial information that is not publicly available;
+22 or
+23 (iii) A list of individuals’ names and addresses
+24 that contains only publicly available information and is not:
+25 (a) Derived, in whole or in part, using
+26 personally identifiable financial information that is not publicly available;
+27 and
+28 (b) Disclosed in a manner that indicates that
+29 any of the individuals on the list is a consumer of a financial institution;
+30 (41)(A) "Notification event" means acquisition of unencrypted
+31 customer information without the authorization of the customer to which the
+32 information pertains.
+33 (B) For purposes of subdivision (41)(A) of this section:
+34 (i) Customer information is considered unencrypted
+35 if the encryption key was accessed by an unauthorized person; and
+36 (ii) Unauthorized acquisition is presumed to include
+11 02/12/2025 2:18:59 PM ANS120
+HB1466
+1 unauthorized access to unencrypted customer information unless a financial
+2 institution has reliable evidence showing that there has not been, or could
+3 not reasonably have been, unauthorized acquisition of the customer
+4 information;
+5 (42) "Operating liquidity" means the funds necessary to perform
+6 normal business operations, including payment of rent, salaries, interest
+7 expense, and other typical expenses associated with operating an entity;
+8 (18)(43) "Operating subsidiary" means a separate corporation,
+9 limited liability company, or similar entity in which a national or state
+10 bank, savings and loan association, or credit union, the accounts of which
+11 are insured by the Federal Deposit Insurance Corporation or the National
+12 Credit Union Administration, maintains more than fifty percent (50%) voting
+13 rights, a controlling interest, or otherwise controls the subsidiary and no
+14 other party controls more than fifty percent (50%) of the voting rights or a
+15 controlling interest in the subsidiary;
+16 (44) "Penetration testing" means a test methodology in which
+17 assessors attempt to circumvent or defeat the security features of an
+18 information system by attempting penetration of databases or controls from
+19 outside or inside a financial institution’s information system;
+20 (19)(45) "Person" means an individual, partnership, limited
+21 liability company, limited partnership, corporation, association, or other
+22 group engaged in joint business activities, however organized;
+23 (46)(A) "Personally identifiable financial information" means
+24 information:
+25 (i) A consumer provides to a financial institution
+26 to obtain a financial product or service from a financial institution;
+27 (ii) About a consumer resulting from a transaction
+28 involving a financial product or service between a financial institution and
+29 a consumer; or
+30 (iii) A financial institution otherwise obtains
+31 about a consumer in connection with providing a financial product or service
+32 to that consumer.
+33 (B) "Personally identifiable financial information"
+34 includes:
+35 (i) Information a consumer provides to a financial
+36 institution on an application to obtain a loan, credit card, or other
+12 02/12/2025 2:18:59 PM ANS120
+HB1466
+1 financial product or service;
+2 (ii) Account balance information, payment history,
+3 overdraft history, and credit or debit card purchase information;
+4 (iii) The fact that an individual is or has been a
+5 financial institution's customer or has obtained a financial product or
+6 service from a financial institution;
+7 (iv) Information about a financial institution’s
+8 consumer if the information is disclosed in a manner that indicates that the
+9 individual is or has been the financial institution’s consumer;
+10 (v) Information that a consumer provides to a
+11 financial institution or that a financial institution or a financial
+12 institution’s agent otherwise obtains in connection with collecting on or
+13 servicing a credit account;
+14 (vi) Information a financial institution collects
+15 through an internet cookie or an information collecting device from a
+16 computer server; and
+17 (vii) Information from a consumer report.
+18 (C) "Personally identifiable financial information" does
+19 not include:
+20 (i) A list of names and addresses of customers of an
+21 entity that is not a financial institution; and
+22 (ii) Information that does not identify a consumer,
+23 including aggregate information or blind data that does not contain personal
+24 identifiers such as account numbers, names, or addresses;
+25 (20)(47) "Principal place of business" means a stationary
+26 construction consisting of at least one (1) enclosed room or building in
+27 which negotiations of mortgage loan transactions of others may be conducted
+28 in private or in which the primary business functions of the licensee are
+29 conducted;
+30 (48)(A) "Publicly available information" means information that
+31 a financial institution has a reasonable basis to believe is lawfully made
+32 available to the public from:
+33 (i) Federal, state, or local government records;
+34 (ii) Widely distributed media; or
+35 (iii) Disclosures to the public that are required to
+36 be made by federal, state, or local law.
+13 02/12/2025 2:18:59 PM ANS120
+HB1466
+1 (B) "Publicly available information" includes without
+2 limitation:
+3 (i) Information in government records, including
+4 information in government real estate records and security interest filings;
+5 and
+6 (ii)(a) Information from widely distributed media,
+7 including information from a telephone book, television or radio program,
+8 newspaper, or website that is available to the public on an unrestricted
+9 basis.
+10 (b) A website is not restricted under
+11 subdivision (48)(B)(ii)(a) of this section merely because an internet service
+12 provider or a site operator requires a fee or a password, so long as access
+13 is available to the public.
+14 (C) For purposes of this subdivision (48), a financial
+15 institution has a reasonable basis to believe that:
+16 (i) Information is lawfully made available to the
+17 public if the financial institution has taken steps to determine:
+18 (a) That the information is of the type that
+19 is available to the public; and
+20 (b) Whether an individual can direct that the
+21 information not be made available to the public and, if so, that the
+22 financial institution’s consumer has not directed that the information not be
+23 made available to the public;
+24 (ii) Mortgage information is lawfully made available
+25 to the public if the financial institution determines that the information is
+26 of the type included on the public record in the jurisdiction where the
+27 mortgage would be recorded; and
+28 (iii) An individual’s telephone number is lawfully
+29 made available to the public if the financial institution has located the
+30 telephone number in a telephone directory or the consumer has informed the
+31 financial institution that the telephone number is not unlisted;
+32 (49) "Qualified individual" means an individual designated by a
+33 financial institution to oversee, implement, and enforce the financial
+34 institution’s information security program;
+35 (50) "Residential mortgage loans serviced" means a specific
+36 portfolio or portfolios of residential mortgage loans for which a licensee is
+14 02/12/2025 2:18:59 PM ANS120
+HB1466
+1 contractually responsible to the owner or owners of the mortgage loans for
+2 the defined servicing activities;
+3 (21)(51) "Reverse mortgage" means a nonrecourse loan that pays a
+4 homeowner loan proceeds drawn from accumulated home equity;
+5 (52) "Risk management assessment" means the functional
+6 evaluations performed under the risk management program and reports provided
+7 to a board of directors under a relevant governance protocol;
+8 (53) "Risk management program" means the policies and procedures
+9 designed to identify, measure, monitor, and mitigate risk sufficient for the
+10 level of sophistication of a covered institution servicer;
+11 (54) "Security event" means an event resulting in unauthorized
+12 access to, or disruption or misuse of:
+13 (A) An information system or information stored on the
+14 information system; or
+15 (B) Customer information held in physical form;
+16 (55) "Service provider" means a person or entity that receives,
+17 maintains, processes, or otherwise is permitted access to customer
+18 information through its provision of services directly to a financial
+19 institution that is subject to this subchapter;
+20 (56) "Servicing liquidity" means the financial resources
+21 necessary to manage liquidity risk arising from servicing functions required
+22 in acquiring and financing mortgage servicing rights, hedging costs, and
+23 margin calls associated with the mortgage servicing rights asset and
+24 financing facilities and advances or costs of advance financing for
+25 principal, interest, taxes, insurance, and any other servicing related
+26 advances;
+27 (22)(57) "Sponsor" means a mortgage broker or mortgage banker
+28 licensed under this subchapter that has assumed the responsibility for and
+29 agrees to supervise the actions of a loan officer or transitional loan
+30 officer;
+31 (58) "Tangible net worth" means the total equity less:
+32 (A) The receivables due from related entities;
+33 (B) Goodwill and other intangibles; and
+34 (C) Pledged assets;
+35 (23)(59) "Transitional loan officer" means an individual who, in
+36 exchange for compensation as an employee of, or who otherwise receives
+15 02/12/2025 2:18:59 PM ANS120
+HB1466
+1 compensation or remuneration from, a mortgage broker or a mortgage banker, is
+2 authorized to act as a loan officer subject to a transitional loan officer
+3 license;
+4 (24)(60) "Transitional loan officer license" means a license
+5 that:
+6 (A) Is issued to an individual who is employed and
+7 sponsored by a mortgage banker or mortgage broker licensed under this
+8 subchapter;
+9 (B) Is limited to a term of no more than one hundred
+10 twenty (120) days; and
+11 (C) Is not subject to reapplication, renewal, or extension
+12 by the commissioner; and
+13 (25)(61) "Unique identifier" means a number or other identifier
+14 assigned by protocols established by the automated licensing system approved
+15 by the commissioner; and
+16 (62) "Whole loans" mean those loans in which a mortgage and the
+17 underlying credit risk is owned and held on the balance sheet of an entity
+18 with all ownership rights.
+19
+20 SECTION 2. Arkansas Code § 23-39-504 is amended to read as follows:
+21 23-39-504. Rulemaking authority Authority.
+22 (a) The Securities Commissioner may adopt any rules that he or she
+23 deems necessary to:
+24 (1) Carry out the provisions of this subchapter;
+25 (2) Provide for the protection of the borrowing public; and
+26 (3) Provide any requirements necessary for the State of Arkansas
+27 to participate in a multistate automated licensing system; and
+28 (4) Instruct mortgage brokers, mortgage bankers, mortgage
+29 servicers, loan officers, and transitional loan officers in interpreting this
+30 subchapter.
+31 (b) The commissioner may:
+32 (1) If risk is determined by a formal review of a specific
+33 covered institution servicer to be extremely high, order or direct the
+34 covered institution servicer to satisfy additional conditions necessary to
+35 ensure that the covered institution servicer will continue to operate in a
+36 safe and sound manner and be able to continue to service loans in compliance
+16 02/12/2025 2:18:59 PM ANS120
+HB1466
+1 with state law or rule and federal law or regulations;
+2 (2) If risk is determined by a formal review of a specific
+3 covered institution servicer to be extremely low, provide notice that all or
+4 part of this subchapter is not applicable to the covered institution
+5 servicer; and
+6 (3) If economic, environmental, or societal events are
+7 determined to be of severity to warrant a temporary suspension of all or
+8 certain sections of this subchapter, provide public notice of the temporary
+9 suspension.
+10
+11 SECTION 3. Arkansas Code § 23-39-505(f), concerning the surety bond
+12 under the Fair Mortgage Lending Act, is amended to read as follows:
+13 (f)(1) Each mortgage broker, mortgage banker, and mortgage servicer
+14 shall post a surety bond in an amount:
+15 (A) Based upon loan activity during the previous year;
+16 (B) Not less than one hundred thousand dollars ($100,000);
+17 and
+18 (C) As prescribed by rule or order of the commissioner.
+19 (2) The surety bond shall:
+20 (A) be Be in a form satisfactory to the commissioner; and
+21 (B) Run to the State of Arkansas for benefit of a claimant
+22 against the licensee to secure the faithful performance of the obligations of
+23 the licensee under this subchapter.
+24 (3)(A) A party having a claim against a licensee may bring suit
+25 directly on the surety bond of the licensee under this subsection or the
+26 commissioner may bring suit on behalf of a claimant in one (1) action or in
+27 successive actions.
+28 (B) A consumer claim shall be given priority in recovering
+29 from the surety bond.
+30 (C) Every bond shall provide for suit on the bond by any
+31 person who has a cause of action under this subchapter.
+32 (4) The aggregate liability of the surety shall not exceed the
+33 principal sum of the bond.
+34 (5) A surety bond shall cover claims for at least five (5) years
+35 after the licensee ceases to provide mortgage services in this state or
+36 longer if required by the commissioner.
+17 02/12/2025 2:18:59 PM ANS120
+HB1466
+1 (6)(A) A surety bond shall remain in effect until cancellation.
+2 (B) The cancellation of a surety bond shall occur only
+3 after sixty (60) days' written notice to the commissioner.
+4 (C) The cancellation of a surety bond shall not affect
+5 liability incurred or accrued during the sixty-day period under subdivision
+6 (f)(6)(B) of this section.
+7 (7)(A) If an action is commenced on a licensee's surety bond,
+8 the commissioner may require the filing of a new surety bond.
+9 (B) If a new surety bond is required under subdivision
+10 (f)(7)(A) of this section, the licensee shall file a replacement surety bond
+11 in the required amount specified under subdivision (f)(1)(B) of this section
+12 within thirty (30) days.
+13 (C) Immediately upon recovery of an action on the surety
+14 bond, the licensee shall file a new surety bond.
+15
+16 SECTION 4. Arkansas Code § 23-39-505(g), concerning audited financial
+17 statements under the Fair Mortgage Lending Act, is amended to read as
+18 follows:
+19 (g)(1) An applicant filing for licensure as a mortgage banker or
+20 mortgage servicer shall file with the commissioner as part of his or her
+21 application audited financial statements that reflect that the applicant has
+22 a net worth of at least twenty-five thousand dollars ($25,000) and are:.
+23 (1) Prepared by an independent certified public accountant:
+24 (2) Prepared according to:
+25 (A) Generally accepted accounting principles as
+26 promulgated by the Financial Accounting Standards Board; or
+27 (B) International financial reporting standards
+28 promulgated by the International Financial Reporting Standards Foundation and
+29 the International Accounting Standards Board;
+30 (3) Accompanied by an opinion acceptable to the commissioner;
+31 and
+32 (4) For purposes of complying with subdivision (g)(1) of this
+33 section, the financial statement shall be:
+34 (A) Determined according to:
+35 (i) Generally accepted accounting principles as
+36 promulgated by the Financial Accounting Standards Board; or
+18 02/12/2025 2:18:59 PM ANS120
+HB1466
+1 (ii) The international financial reporting standards
+2 promulgated by the International Financial Reporting Standards Foundation and
+3 the International Accounting Standards Board; and
+4 (B) Accompanied by an opinion acceptable to the
+5 commissioner;
+6 (C) Dated within fifteen (15) months preceding the date on
+7 which the application is filed.
+8
+9 SECTION 5. Arkansas Code § 23-39-505, concerning qualifications for a
+10 license under the Fair Mortgage Lending Act, is amended to add additional
+11 subsections to read as follows:
+12 (p)(1) An applicant filing for licensure as a mortgage servicer but
+13 that does not operate as a covered institution servicer shall file with the
+14 commissioner as part of his or her application audited financial statements
+15 that reflect that the applicant has a net worth of at least one hundred
+16 thousand dollars ($100,000).
+17 (2) For the purposes of complying with subdivision (p)(1) of
+18 this section, the financial statement shall be:
+19 (A) Determined according to:
+20 (i) Generally accepted accounting principles as
+21 promulgated by the Financial Accounting Standards Board; or
+22 (ii) The international financial reporting standards
+23 promulgated by the International Financial Reporting Standards Foundation and
+24 the International Accounting Standards Board;
+25 (B) Accompanied by an opinion acceptable to the
+26 commissioner; and
+27 (C) Dated within fifteen (15) months preceding the date on
+28 which the application is filed.
+29 (3)(A) An applicant applying to service Arkansas residential
+30 mortgage loans may apply to the commissioner to waive or adjust one (1) or
+31 more of the net worth requirements under subdivision (p)(1) or subdivision
+32 (p)(2) of this section.
+33 (B)(i) In reviewing a request to waive or adjust one (1)
+34 or more of the net worth requirements under subdivision (p)(1) or subdivision
+35 (p)(2) of this section, the commissioner may consider the number and types of
+36 loans being serviced and whether the licensee has a positive net worth and
+19 02/12/2025 2:18:59 PM ANS120
+HB1466
+1 adequate operating reserves.
+2 (ii) As used in this subdivision (p)(3)(B),
+3 “operating reserves” means the funds set aside in anticipation of future
+4 payments or obligations and are included in servicing liquidity.
+5 (q)(1) An applicant filing for licensure as a mortgage servicer that
+6 operates as a covered institution servicer shall file with the commissioner
+7 as part of his or her application proof that the applicant is in compliance
+8 with:
+9 (A) The Federal Housing Finance Agency's Eligibility
+10 Requirements for Enterprise Single-Family Seller/Servicers for minimum
+11 capital ratio; and
+12 (B) The net worth and servicing liquidity requirements,
+13 whether or not the mortgage servicer is approved for government-sponsored
+14 enterprise servicing.
+15 (2) For the purposes of complying with subdivision (q)(1) of
+16 this section, the financial data shall be:
+17 (A) Determined according to:
+18 (i) Generally accepted accounting principles as
+19 promulgated by the Financial Accounting Standards Board; or
+20 (ii) The international financial reporting standards
+21 promulgated by the International Financial Reporting Standards Foundation and
+22 the International Accounting Standards Board;
+23 (B) Accompanied by an opinion acceptable to the
+24 commissioner; and
+25 (C) Dated within fifteen (15) months preceding the date on
+26 which the application is filed.
+27
+28 SECTION 6. Arkansas Code § 23-39-506(f), concerning audited financial
+29 statements under the Fair Mortgage Lending Act, is amended to read as
+30 follows:
+31 (f)(1) A mortgage banker or a mortgage servicer shall submit audited
+32 financial statements to the commissioner within ninety (90) days after the
+33 end of the mortgage banker's or mortgage servicer's fiscal year.
+34 (2) The audited financial statements submitted to the
+35 commissioner under subdivision (f)(1) of this section shall:
+36 (A) Reflect that the mortgage banker or mortgage servicer
+20 02/12/2025 2:18:59 PM ANS120
+HB1466
+1 has a net worth of at least twenty-five thousand dollars ($25,000); and
+2 (B) Comply with the requirements of § 23-39-505(g)(1)-(3).
+3 (3)(A) Failure to timely submit audited financial statements to
+4 the commissioner shall result in a late fee of two hundred fifty dollars
+5 ($250).
+6 (B) All or part of the late fee may be waived by the
+7 commissioner for good cause.
+8
+9 SECTION 7. Arkansas Code § 23-39-506, concerning license renewal under
+10 the Fair Mortgage Lending Act, is amended to add additional subsections to
+11 read as follows:
+12 (g)(1) A mortgage servicer subject to § 23-39-505(p) or § 23-39-505(q)
+13 shall submit audited financial statements to the commissioner within ninety
+14 (90) days after the end of the mortgage servicer's fiscal year.
+15 (2) The audited financial statements submitted to the
+16 commissioner under subdivision (g)(1) of this section shall reflect that the
+17 mortgage servicer has a net worth that remains in compliance with § 23-39-
+18 505(p) or § 23-39-505(q), as applicable.
+19 (3)(A) A licensee servicing Arkansas residential mortgage loans,
+20 other than a covered institution servicer, may apply to the commissioner to
+21 waive or adjust one (1) or more of the net worth requirements.
+22 (B) In considering a request to waive or adjust one (1) or
+23 more of the net worth requirements, the commissioner shall consider the
+24 number and types of loans being serviced and whether the licensee has a
+25 positive net worth and adequate operating reserves.
+26 (C) For purposes of this section, “operating reserves”
+27 means the funds set aside in anticipation of future payments or obligations
+28 and are included in liquidity.
+29 (4)(A) Failure to timely submit audited financial statements to
+30 the commissioner shall result in a late fee of two hundred fifty dollars
+31 ($250).
+32 (B) All or part of the late fee may be waived by the
+33 commissioner for good cause.
+34 (h) A covered institution servicer shall remain in compliance with the
+35 requirements of § 23-39-505(q) and § 23-39-519.
+36
+21 02/12/2025 2:18:59 PM ANS120
+HB1466
+1 SECTION 8. Arkansas Code Title 23, Chapter 39, Subchapter 5, is
+2 amended to add additional sections to read as follows:
+3 23-39-519. Prudential standards for covered institution servicers —
+4 Financial condition.
+5 (a) A covered institution servicer shall meet or exceed the minimum
+6 financial requirements of the Federal Housing Finance Agency's Eligibility
+7 Requirements for Enterprise Single-Family Seller/Servicers in order to
+8 maintain the capital and servicing liquidity as required by this section and
+9 § 23-39-505(q).
+10 (b) All financial data shall be determined according to generally
+11 accepted accounting principles or the international financial reporting
+12 standards promulgated by the International Financial Reporting Standards
+13 Foundation and the International Accounting Standards Board.
+14 (c) A covered institution servicer that meets the Federal Housing
+15 Finance Agency's Eligibility Requirements for Enterprise Single-Family
+16 Seller/Servicers for capital, net worth ratio, and servicing liquidity,
+17 whether or not the servicer is approved for government-sponsored enterprises
+18 servicing, or Federal National Mortgage Association servicing, or Federal
+19 Home Loan Mortgage Corporation servicing, satisfies the requirements of
+20 subsection (a) and subsection (b) of this section.
+21 (d)(1) A covered institution servicer shall maintain written policies
+22 and procedures implementing the capital and servicing liquidity requirements.
+23 (2) The policies and procedures under subdivision (d)(1) of this
+24 section shall include a sustainable written methodology for satisfying the
+25 requirements of subsection (a) of this section and be available to the
+26 Securities Commissioner upon request.
+27 (e)(1) A covered institution servicer under this subchapter shall:
+28 (A) Maintain sufficient allowable assets for liquidity in
+29 addition to the amounts required for servicing liquidity to cover normal
+30 business operations; and
+31 (B) Have in place sound cash management and business
+32 operating plans that match the size and sophistication of the covered
+33 institution servicer to ensure normal business operations.
+34 (2)(A) The management or key individual of a covered institution
+35 servicer shall develop, establish, and implement plans, policies, and
+36 procedures for maintaining operating liquidity sufficient for the ongoing
+22 02/12/2025 2:18:59 PM ANS120
+HB1466
+1 needs of the covered institution servicer.
+2 (B) The plans, policies, and procedures under subdivision
+3 (e)(2)(A) of this section shall:
+4 (i) Contain sustainable, written methodologies for
+5 maintaining sufficient operating liquidity; and
+6 (ii) Be available to the commissioner upon request.
+7
+8 23-39-520. Corporate governance for covered institution servicers.
+9 (a) A covered institution servicer shall establish and maintain a
+10 board of directors who are responsible for the oversight of the covered
+11 institution servicer.
+12 (b) For a covered institution servicer that is not approved to service
+13 loans by a government-sponsored enterprise, the Federal National Mortgage
+14 Association and the Federal Home Loan Mortgage Corporation, or the Government
+15 National Mortgage Association, or when these federal agencies have granted
+16 approval for a board alternative, a covered institution servicer may
+17 establish a similar body constituted to exercise oversight and fulfill the
+18 board of directors’ responsibilities under subsection (c) of this section.
+19 (c) The board of directors shall be responsible for:
+20 (1) Establishing a written corporate governance framework,
+21 including appropriate internal controls designed to monitor corporate
+22 governance and assess compliance with the corporate governance framework,
+23 available to the Securities Commissioner upon request;
+24 (2) Monitoring and ensuring the covered institution servicer's
+25 compliance with the corporate governance framework and this subchapter; and
+26 (3) Accurate and timely regulatory reporting, including without
+27 limitation the requirements for filing the mortgage call report.
+28 (d)(1) The board of directors shall establish internal audit
+29 requirements that are appropriate for the size, complexity, and risk profile
+30 of the covered institution servicer, with appropriate independence to provide
+31 a reliable evaluation of the covered institution servicer’s internal control
+32 structure, risk management, and governance.
+33 (2) Internal audit requirements established by the board of
+34 directors and the results of internal audits shall be made available to the
+35 commissioner upon request.
+36 (e)(1) A covered institution servicer shall receive an external audit,
+23 02/12/2025 2:18:59 PM ANS120
+HB1466
+1 including audited financial statements and audit reports, conducted by an
+2 independent certified public accountant annually.
+3 (2) The external audit required under subdivision (e)(1) of this
+4 section shall:
+5 (A) Be available to the commissioner upon request; and
+6 (B) Include at a minimum:
+7 (i) Annual financial statements including a balance
+8 sheet, statement of operations income statement and cash flows, notes, and
+9 supplemental schedules, prepared according to generally accepted accounting
+10 principles;
+11 (ii) An assessment of the internal control
+12 structure;
+13 (iii) A computation of tangible net worth;
+14 (iv) Validation of mortgage servicing rights
+15 valuation and reserve methodology, if applicable;
+16 (v) Verification of adequate fidelity and errors and
+17 omissions insurance; and
+18 (vi) Testing of controls related to risk management
+19 activities, including compliance and stress testing, if applicable.
+20 (f)(1) A covered institution servicer shall establish a risk
+21 management program under the oversight of the board of directors that is
+22 available to the commissioner upon request that identifies, measures,
+23 monitors, and controls risk sufficient for the level of sophistication of the
+24 covered institution servicer.
+25 (2) The risk management program required under subdivision
+26 (f)(1) of this section shall:
+27 (A) Have appropriate processes and models in place to
+28 measure, monitor, and mitigate financial risks and changes to the risk
+29 profile of the covered institution servicer and assets being serviced; and
+30 (B) Be scaled to the complexity of the covered institution
+31 servicer, but be sufficiently robust to manage risks in several areas,
+32 including without limitation:
+33 (i) Credit risk, including the potential that a
+34 borrower or counterparty will fail to perform on an obligation;
+35 (ii) Servicing liquidity risk, including the
+36 potential that the covered institution servicer will be unable to meet the
+24 02/12/2025 2:18:59 PM ANS120
+HB1466
+1 covered institution servicer's obligations as the obligations come due
+2 because of an inability to liquidate assets or obtain adequate funding or
+3 that it cannot easily unwind or offset specific exposures;
+4 (iii) Operational risk, including the risk resulting
+5 from inadequate or failed internal processes, people, and systems or from
+6 external events;
+7 (iv) Market risk, including the risk to the covered
+8 institution servicer’s condition resulting from adverse movements in market
+9 rates or prices;
+10 (v) Compliance risk, including the risk of
+11 regulatory sanctions, fines, penalties, or losses resulting from failure to
+12 comply with laws, rules, regulations, or other supervisory requirements
+13 applicable to a covered institution servicer;
+14 (vi) Legal risk, including the potential that
+15 actions against the covered institution servicer that result in unenforceable
+16 contracts, lawsuits, legal sanctions, or adverse judgments can disrupt or
+17 otherwise negatively affect the operations or condition of the covered
+18 institution servicer; and
+19 (vii) Reputation risk, including the risk to
+20 earnings and capital arising from negative publicity regarding the covered
+21 institution servicer’s business practices.
+22 (g)(1) A covered institution servicer shall conduct a risk management
+23 assessment on an annual basis concluding with a formal report to the board of
+24 directors and be available to the commissioner upon request.
+25 (2) Evidence of risk management activities throughout the year
+26 shall be maintained and made part of the report, including findings of issues
+27 and the response to address the findings made in the report.
+28
+29 23-39-521. Standards for safeguarding customer information.
+30 (a) A financial institution shall develop, implement, and maintain a
+31 comprehensive information security program.
+32 (b) The information security program under subsection (a) of this
+33 section shall:
+34 (1) Be written in one (1) or more readily accessible parts; and
+35 (2) Contain administrative, technical, and physical safeguards
+36 that are appropriate to the financial institution’s size and complexity, the
+25 02/12/2025 2:18:59 PM ANS120
+HB1466
+1 nature and scope of the financial institution’s activities, and the
+2 sensitivity of any customer information at issue.
+3 (c) The information security program shall include the information
+4 required under § 23-39-522.
+5
+6 23-39-522. Information security program required elements.
+7 (a) In order for a financial institution to develop, implement, and
+8 maintain an information security program, the financial institution shall
+9 comply with this section.
+10 (b)(1) A financial institution shall designate a qualified individual
+11 responsible for overseeing and implementing the financial institution’s
+12 information security program and enforcing an information security program.
+13 (2)(A) The qualified individual may be employed by the financial
+14 institution, an affiliate, or a service provider.
+15 (B) If a financial institution designates an individual
+16 employed by an affiliate or a service provider, the financial institution
+17 shall:
+18 (i) Retain responsibility for compliance with this
+19 section;
+20 (ii) Designate a senior member of the financial
+21 institution’s personnel to be responsible for direction and oversight of the
+22 qualified individual; and
+23 (iii) Require the service provider or affiliate to
+24 maintain an information security program that protects the financial
+25 institution in accordance with the requirements of this section.
+26 (c)(1) A financial institution shall base the financial institution’s
+27 information security program on a risk assessment that:
+28 (A) Identifies reasonably foreseeable internal and
+29 external risks to the security, confidentiality, and integrity of customer
+30 information that could result in the unauthorized disclosure, misuse,
+31 alteration, destruction, or other compromise of the information; and
+32 (B) Assesses the sufficiency of any safeguards in place to
+33 control these risks.
+34 (2) The risk assessment shall be written and include:
+35 (A) Criteria for the evaluation and categorization of
+36 identified security risks or threats the financial institution faces;
+26 02/12/2025 2:18:59 PM ANS120
+HB1466
+1 (B) Criteria for the assessment of the confidentiality,
+2 integrity, and availability of the financial institution’s information
+3 systems and customer information, including the adequacy of the existing
+4 controls in the context of the identified risks or threats the financial
+5 institution faces; and
+6 (C) Requirements describing how identified risks will be
+7 mitigated or accepted based on the risk assessment and how the information
+8 security program will address the risks.
+9 (3) A financial institution shall periodically perform
+10 additional risk assessments that:
+11 (A) Reexamine the reasonably foreseeable internal and
+12 external risks to the security, confidentiality, and integrity of customer
+13 information that could result in the unauthorized disclosure, misuse,
+14 alteration, destruction, or other compromise of the customer information; and
+15 (B) Reassess the sufficiency of any safeguards in place to
+16 control these risks.
+17 (d) A financial institution shall design and implement safeguards to
+18 control the risks the financial institution identifies through the risk
+19 assessment as required under subsection (c) of this section, including
+20 without limitation:
+21 (1) Implementing and periodically reviewing access controls,
+22 including technical and, as appropriate, physical controls, to:
+23 (A) Authenticate and permit access only to authorized
+24 users to protect against the unauthorized acquisition of customer
+25 information; and
+26 (B) Limit authorized users’ access only to customer
+27 information that the authorized user needs to perform the authorized user’s
+28 duties and functions, or in the case of customers, to access the customer’s
+29 own customer information;
+30 (2) Identifying and managing the data, personnel, devices,
+31 systems, and facilities that enable the financial institution to achieve
+32 business purposes according to the financial institution's relative
+33 importance to business objectives and the financial institution’s risk
+34 strategy;
+35 (3)(A) Protecting by encryption all customer information held or
+36 transmitted by the financial institution both in transit over external
+27 02/12/2025 2:18:59 PM ANS120
+HB1466
+1 networks and at rest.
+2 (B) To the extent the financial institution determines
+3 that encryption of customer information, either in transit over external
+4 networks or at rest, is infeasible, the financial institution may instead
+5 secure the customer information using effective alternative compensating
+6 controls reviewed and approved by the financial institution’s qualified
+7 individual;
+8 (4) Adopting secure development practices for in-house developed
+9 applications utilized by the financial institution for transmitting,
+10 accessing, or storing customer information and procedures for evaluating,
+11 assessing, or testing the security of externally developed applications the
+12 financial institution utilizes to transmit, access, or store customer
+13 information;
+14 (5) Implementing multifactor authentication for an individual
+15 accessing an information system, unless the financial institution’s qualified
+16 individual has approved in writing the use of reasonably equivalent or more
+17 secure access controls;
+18 (6) Developing, implementing, and maintaining procedures for the
+19 secure disposal of customer information in any format no later than two (2)
+20 years after the last date the customer information is used in connection with
+21 the provision of a financial product or service to the customer, unless the
+22 customer information is:
+23 (A) Necessary for business operations or for other
+24 legitimate business purposes;
+25 (B) Otherwise required to be retained by state law or
+26 rule, or federal law or regulation; or
+27 (C) Where targeted disposal is not reasonably feasible due
+28 to the manner in which the information is maintained;
+29 (7) Periodically reviewing the financial institution’s data
+30 retention policy to minimize the unnecessary retention of data;
+31 (8) Adopting procedures for change management; and
+32 (9) Implementing policies, procedures, and controls designed to
+33 monitor and log the activity of authorized users and detect unauthorized
+34 access or use of, or tampering with, customer information by these users.
+35 (e)(1) A financial institution shall regularly test or otherwise
+36 monitor the effectiveness of the safeguards' key controls, systems, and
+28 02/12/2025 2:18:59 PM ANS120
+HB1466
+1 procedures of the safeguards' required under this section, including those to
+2 detect actual and attempted attacks on, or intrusions into, information
+3 systems.
+4 (2)(A) For information systems, monitoring and testing shall
+5 include continuous monitoring or periodic penetration testing and
+6 vulnerability assessments.
+7 (B) Absent effective continuous monitoring or other
+8 systems to detect, on an ongoing basis, changes in information systems that
+9 may create vulnerabilities, the financial institution shall conduct:
+10 (i) Annual penetration testing of a financial
+11 institution’s information systems determined each given year based on
+12 relevant identified risks according to the risk assessment; and
+13 (ii) Vulnerability assessments, including a systemic
+14 scan or review of an information system reasonably designed to identify
+15 publicly known security vulnerabilities in the financial institution’s
+16 information systems based on the risk assessment, at least every six (6)
+17 months, and whenever there are:
+18 (a) Material changes to the financial
+19 institution’s operations or business arrangements; and
+20 (b) Circumstances the financial institution
+21 knows or has reason to know may have a material impact on the financial
+22 institution’s information security program.
+23 (f) A financial institution shall implement policies and procedures to
+24 ensure that personnel are able to enact the financial institution’s
+25 information security program by:
+26 (1) Providing the financial institution’s personnel with
+27 security awareness training that is updated as necessary to reflect risks
+28 identified by the risk assessment;
+29 (2) Utilizing qualified information security personnel employed
+30 by the financial institution or an affiliate or a service provider sufficient
+31 to manage the financial institution’s information security risks and to
+32 perform or oversee the information security program;
+33 (3) Providing information security personnel with security
+34 updates and training sufficient to address relevant security risks; and
+35 (4) Verifying that key information security personnel take steps
+36 to maintain current knowledge of changing information security threats and
+29 02/12/2025 2:18:59 PM ANS120
+HB1466
+1 countermeasures.
+2 (g) A financial institution shall oversee service providers by:
+3 (1) Taking reasonable steps to select and retain service
+4 providers that are capable of maintaining appropriate safeguards for the
+5 customer information at issue;
+6 (2) Requiring the financial institution’s service providers by
+7 contract to implement and maintain the safeguards referenced under
+8 subdivision (g)(1) of this section; and
+9 (3) Periodically assessing the financial institution’s service
+10 providers based on the risk they present and the continued adequacy of their
+11 safeguards.
+12 (h) A financial institution shall evaluate and adjust the financial
+13 institution’s information security program to reflect:
+14 (1) The results of the testing and monitoring required by
+15 subsection (e) of this section;
+16 (2) Any material change to the financial institution’s
+17 operations or business arrangements or other circumstances;
+18 (3) The results of risk assessments performed under subdivision
+19 (c)(3) of this section; and
+20 (4) Any other circumstances that the financial institution knows
+21 or has reason to know may have a material impact on the financial
+22 institution's information security program.
+23 (i)(1) A financial institution shall establish a written incident
+24 response plan designed to promptly respond to, and recover from, any security
+25 event materially affecting the confidentiality, integrity, or availability of
+26 customer information in the financial institution’s control.
+27 (2) The incident response plan under subdivision (i)(1) of this
+28 section shall address:
+29 (A) The goals of the incident response plan;
+30 (B) The internal processes for responding to a security
+31 event;
+32 (C) The definition of clear roles, responsibilities, and
+33 levels of decision-making authority;
+34 (D) External and internal communications and information
+35 sharing;
+36 (E) Identification of requirements for the remediation of
+30 02/12/2025 2:18:59 PM ANS120
+HB1466
+1 any identified weaknesses in information systems and associated controls;
+2 (F) Documentation and reporting regarding security events
+3 and related incident response activities; and
+4 (G) The evaluation and revision as necessary of the
+5 incident response plan following a security event.
+6 (j)(1) The financial institution’s qualified individual shall report
+7 in writing at least annually, to the financial institution’s board of
+8 directors or equivalent governing body.
+9 (2) If a board of directors or equivalent governing body does
+10 not exist, the report required under subdivision (j)(1) of this section shall
+11 be timely presented to a senior officer responsible for the financial
+12 institution’s information security program.
+13 (3) The report required under subdivision (j)(1) of this section
+14 shall include:
+15 (A) The overall status of the information security program
+16 and the financial institution’s compliance with this section and associated
+17 rules; and
+18 (B) Material matters related to the information security
+19 program, addressing issues such as risk assessment, risk management and
+20 control decisions, service provider arrangements, results of testing,
+21 security events or violations and management’s responses to security events
+22 or violations, and recommendations for changes in the information security
+23 program.
+24 (k) A financial institution shall provide notice to the Securities
+25 Commissioner about notification events according to subdivisions (l)(1) and
+26 (2) of this section.
+27 (l)(1) Upon discovery of a notification event as described in
+28 subdivision (l)(3) of this section, if the notification event involves the
+29 information of any consumers in this state, the financial institution shall
+30 notify the commissioner as soon as possible and no later forty-five (45) days
+31 after discovery of the notification event.
+32 (2) The notice required under subdivision (l)(1) of this section
+33 shall:
+34 (A) Be made in a format specified by the commissioner; and
+35 (B) Include the following information:
+36 (i) The name and contact information of the
+31 02/12/2025 2:18:59 PM ANS120
+HB1466
+1 reporting financial institution;
+2 (ii)(a) A description of the types of information
+3 that were involved in the notification event.
+4 (b) If the information is possible to
+5 determine under subdivision (l)(2)(B)(ii)(a) of this section, the notice
+6 required under subdivision (l)(1) of this section shall contain the date or
+7 date range of the notification event;
+8 (iii) The number of consumers affected or
+9 potentially affected by the notification event;
+10 (iv) A general description of the notification
+11 event; and
+12 (v)(a) Whether a law enforcement official has
+13 provided the financial institution with a written determination that
+14 notifying the public of the notification event would impede a criminal
+15 investigation or cause damage to national security, and a means for the
+16 commissioner to contact the law enforcement official.
+17 (b) A law enforcement official under
+18 subdivision (l)(2)(B)(v)(a) of this section may request an initial delay of
+19 up to thirty (30) days following the date when notice was provided to the
+20 commissioner.
+21 (c) The delay under subdivision
+22 (l)(2)(B)(v)(b) of this section may be extended for an additional period of
+23 up to sixty (60) days if the law enforcement official seeks an extension in
+24 writing.
+25 (d) An additional delay beyond the delay under
+26 subdivision (l)(2)(B)(v)(b) of this section may be permitted only if the
+27 State Securities Department determines that public disclosure of a
+28 notification event continues to impede a criminal investigation or cause
+29 damage to national security.
+30 (3)(A) A notification event under this section shall be treated
+31 as discovered as of the first day on which the notification event is known to
+32 the financial institution.
+33 (B) The financial institution under subdivision (l)(3)(A)
+34 of this section shall be deemed to have knowledge of a notification event if
+35 the notification event is known to a person, other than the person committing
+36 the notification event, who is the financial institution’s employee, officer,
+32 02/12/2025 2:18:59 PM ANS120
+HB1466
+1 or other agent.
+2 (m) A financial institution shall establish a written plan addressing
+3 business continuity and disaster recovery.
+4
+5 23-39-523. Exceptions.
+6 This subchapter does not apply to a financial institution that
+7 maintains customer information concerning fewer than five thousand (5,000)
+8 consumers.
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+33 02/12/2025 2:18:59 PM ANS120
+[DELETED:       A F  T  B   S  2  A   ( t u   ( u    ( l     (     ( s   ( l m   ( o o]
+[DELETED: H2 0 i   ( f   ( t b   ( d l t    ( s c    ( m a c    ( l b o w i   ( i   ( r f f   ( t o    ( p     ( o]
+[DELETED: H3 0     ( t c (     ( a     ( r c   ( t i   ( i   ( t    ( p   ( s     ( s      ( o s      ( a     ( o c    (     ( r     ( t 1]
+[DELETED: H4 0    ( r a   ( w   ( p p b   ( b i s   ( e b w w   ( t p a   ( l o    (     ( a w o     ( f m U     ( c]
+[DELETED: H5 0     ( u i     ( U     ( o D u C     ( s S C D D     (      ( 5      ( s      ( p     ( i E      ( s a c     ( t t p      ( o]
+[DELETED: H6 0 t      ( m p     ( c p      ( a i      ( o     ( l a o     ( a     ( b m e m     ( d t     ( i      ( o p      ( a       ( f a]
+[DELETED: H7 0 c       ( a       ( l r b       ( t        ( ( t   ( i f    ( t    ( c   ( b   ( s f 1    ( i i c   ( t c o   ( i u]
+[DELETED: H8 0 i p s i i   ( c a i   ( i e g   ( r l    (     (     (     (     (     (   ( o l   ( e w c     ( a     ( a     ( c     (]
+[DELETED: H9 0 c     ( m    (     ( a a     ( a     ( e 1   ( t a   ( r t s    (   ( b   ( o r c b    ( m    ( m    ( c    ( i   (]
+[DELETED: H1 0 o i L   ( f r e     ( t 1     ( c    (   (     ( o u     ( r      ( m      ( a    ( r t   ( s m c   ( v f    ( p    (]
+[DELETED: H1 0 t    ( b   (     ( a     ( c i p    ( l i i    (     ( i     ( c d p o     ( t      ( p a      ( a   ( c i    (     ( i     (]
+[DELETED: H1 0 u i n i   ( n e   ( l b a C r o c   ( a i o   ( l g   ( i     ( t     ( i a     ( a t    ( i     ( i]
+[DELETED: H1 0 f     ( o     ( f s     ( c i     ( f i s     ( t c     (    ( n     ( e     ( i i   ( c w i c   ( a a     (     (     ( b]
+[DELETED: H1 0    ( l     ( i a     ( i n b      ( s p i    ( i     ( p      ( i      ( i f m     ( t o m     ( m t f   ( f i   ( p]
+[DELETED: H1 0 c t   ( h   ( e t   ( d l   ( a    ( i    (   ( m i i   ( n i m f p a   ( l a o   (    (    (    (   ( e]
+[DELETED: H1 0 c a l   ( t    ( s s    ( t    ( b   ( a b   ( u w   S  2  ( d   (   (   ( t   ( s s  (   ( c c e s]
+[DELETED: H1 0 w   ( c p s   ( d c s   S u  ( s    (    ( a    (   (    (    ( a t   ( d c s    ( f    ( p   ( p   ( a l]
+[DELETED: H1 0   (    ( a    ( l (   ( t    ( ( i w    ( b   S s f  ( m a a   (   (    ( p    ( p t   ( a   ( s    (     ( p]
+[DELETED: H1 0     ( p t    ( c    ( w   S l s  ( t c t t   ( t    (     ( p     ( p t    ( c    ( w   ( m m (    ( o ( l]
+[DELETED: H2 0 a     ( “ p  ( o a w    ( R c    ( w e   ( t    (     ( p     ( p t    ( c    ( w   S s f  ( f e   ( c    (]
+[DELETED: H2 0 h    (   ( t (    ( c   S t r  ( s (   ( c m 5   ( o w    ( m n p    ( m a   ( t (    ( c  ( r ]
+[DELETED: H2 0  S a  2 F  ( f R m §  ( a s F  ( F S w s H s  ( a   ( s r S  (    ( a b    ( o i   ( s p]
+[DELETED: H2 0 n    ( (     ( m     (   2  ( b i  ( l A N a e b  (   ( i g a   ( c   ( l  ( r o a s   ( d c  (]
+[DELETED: H2 0 i i   ( s    (    (     ( s s p     ( s     (     ( v     ( o     ( a  ( m a m c   ( (    ( m p    ( s i     ( b     ( p]
+[DELETED: H2 0 c b t     ( f e     ( i r     ( r c a     ( a c o i     ( e i  ( a d   ( s a   2  ( c  ( s   (   ( t]
+[DELETED: H2 0 n s  ( r   2  ( m c  ( r i   ( i    ( e s     ( s     ( i q     ( m i  ( i    ( e i a    ( c   (    ( i]
+[DELETED: H2 0    ( i s c i    ( m s   ( a    ( e i a    ( c  ( c a w   ( i    ( u i    ( i d o   ( s b i s   ( t]
+[DELETED: H2 0 n    ( t n s c i   ( a a a f i   ( a i s   ( s y t c    ( l    ( r    ( t   ( r   (   ( m a  ( m]
+[DELETED: H2 0 p d s   ( i v    ( s m     ( i r     ( s p i m      ( i      ( k i  ( e i   ( s i   ( b t p   ( u   ( t]
+[DELETED: H3 0 c  (   ( p c   ( c s   ( p s  ( i   ( s   ( o   ( (   ( o i  ( r e c   ( s    (    ( e    ( l    ( s    (]
+[DELETED: H3 0 a    ( a    ( i  ( i d   ( n b i   ( s    ( a r    ( p c s o p  ( C (  ( s i n a   ( s    (    (     (]
+[DELETED: H3 0 r     ( t      ( d r d     ( p     ( e     ( p n i c      ( s u c      ( ( u w      ( s S n d   ( a t    ( o t t]
+[DELETED: H3 0 o  ( b   2  T m c]
+
+
+================================================================================
+
+Raw Text:
+Stricken language would be deleted from and underlined language would be added to present law.
+1 State of Arkansas
+A Bill
+2 95th General Assembly
+3 Regular Session, 2025 HOUSE BILL 1466
+4
+5 By: Representative Achor
+6 By: Senator J. Boyd
+7
+For An Act To Be Entitled
+8
+9 AN ACT TO AMEND THE FAIR MORTGAGE LENDING ACT; AND
+10 FOR OTHER PURPOSES.
+11
+12
+Subtitle
+13
+14 TO AMEND THE FAIR MORTGAGE LENDING ACT.
+15
+16 BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF ARKANSAS:
+17
+18 SECTION 1. Arkansas Code § 23-39-502 is amended to read as follows:
+19 23-39-502. Definitions.
+20 As used in this subchapter:
+21 (1) "Affiliate" means a person that directly or indirectly
+22 through one (1) or more intermediaries controls, is controlled by, or is
+23 under common control with the person;
+24 (2)(A) "Allowable assets for liquidity" means assets that may be
+25 used to satisfy liquidity requirements under this subchapter.
+26 (B) "Allowable assets for liquidity" includes without
+27 limitation:
+28 (i) Unrestricted cash and cash equivalents; and
+29 (ii) Unencumbered investment-grade assets held for
+30 sale or trade;
+31 (3) "Applicant" means a person that has applied to become
+32 licensed under this subchapter as a loan officer, transitional loan officer,
+33 mortgage broker, mortgage banker, or mortgage servicer;
+34 (4) "Authorized user" means an employee, contractor, agent, or
+35 other person that participates in a financial institution’s business
+36 operations and is authorized to access and use a financial institution’s
+*ANS120*
+02/12/2025 2:18:59 PM ANS120
+
+HB1466
+1 information systems and data;
+2 (5) "Board of directors" means a formal body that is responsible
+3 for corporate governance and compliance with this subchapter;
+4 (2)(6) "Branch manager" means the individual who is in charge of
+5 the business operations of one (1) or more branch offices of a mortgage
+6 broker, mortgage banker, or mortgage servicer;
+7 (3)(7) "Branch office" means a location that is separate and
+8 distinct from the licensee's principal place of business and includes any
+9 location from which business is conducted under the license or in the name of
+10 the mortgage broker, mortgage banker, or mortgage servicer:
+11 (A) The address of which appears on business cards,
+12 stationery, or advertising used by the licensee in connection with business
+13 conducted under this subchapter at the branch office;
+14 (B) At which the licensee's name, advertising, promotional
+15 materials, or signage suggests that mortgage loans are originated, solicited,
+16 accepted, negotiated, funded, or serviced or from which mortgage loan
+17 commitments or interest rate guarantee agreements are issued; or
+18 (C) Which, due to the actions of any employee, associate,
+19 loan officer, or transitional loan officer of the licensee, may be construed
+20 by the public as a branch office of the licensee where mortgage loans are
+21 originated, solicited, accepted, negotiated, funded, or serviced or from
+22 which mortgage loan commitments or interest rate guarantee agreements are
+23 issued;
+24 (4)(8) "Commissioner" means the Securities Commissioner and
+25 includes the commissioner's designees;
+26 (9) "Consumer" means an individual or that individual's legal
+27 representative who obtains or has obtained a financial product or service
+28 from a financial institution that is to be used primarily for personal,
+29 family, or household purposes;
+30 (5)(A)(10)(A) “Control” means the power, directly or indirectly,
+31 to direct the management or policies of a company, whether through ownership
+32 of securities, by contract, or otherwise.
+33 (B) A person is presumed to control a company if the
+34 person:
+35 (i) Is a director, general partner, or executive
+36 officer of the company;
+2 02/12/2025 2:18:59 PM ANS120
+
+HB1466
+1 (ii) Directly or indirectly has the right to vote
+2 twenty-five percent (25%) or more of a class of a voting security of the
+3 company or has the power to sell or direct the sale of twenty-five percent
+4 (25%) or more of a class of voting securities of the company;
+5 (iii) In the case of a limited liability company, is
+6 a managing member of the limited liability company; or
+7 (iv) In the case of a partnership, has the right to
+8 receive upon dissolution or has contributed ten percent (10%) or more of the
+9 capital of the partnership;
+10 (6)(11) “Control affiliate” means a partnership, corporation,
+11 trust, limited liability company, or other organization that directly or
+12 indirectly controls or is controlled by the applicant;
+13 (7)(12) “Control person” means an individual who directly or
+14 indirectly exercises control over the applicant;
+15 (13)(A) "Corporate governance" means the structure of and how
+16 the licensee is managed.
+17 (B) "Corporate governance" includes the corporate rules,
+18 policies, processes, and practices used to oversee and manage a licensee;
+19 (14)(A) "Covered institution servicer” means a nonbank mortgage
+20 servicer that:
+21 (i) As reported in the mortgage call report,
+22 services:
+23 (a) Portfolios of two thousand (2,000) or more
+24 of one (1) to four (4) unit residential mortgage loans serviced or
+25 subserviced for others, excluding whole loans owned; and
+26 (b) Loans being interim serviced before sale
+27 as of the most recent calendar year end; and
+28 (ii) Operates in two (2) or more states, districts,
+29 or territories of the United States either currently or as of the prior
+30 calendar year end.
+31 (B) "Covered institution servicer" does not include:
+32 (i) A person exempt from mortgage servicer licensing
+33 requirements under this subchapter;
+34 (ii) A mortgage servicer that has the status of a
+35 tax-exempt organization under 26 U.S.C. § 501(c)(3), as in effect on January
+36 1, 2025; or
+3 02/12/2025 2:18:59 PM ANS120
+
+HB1466
+1 (iii) A mortgage servicer solely owning or conducting
+2 reverse mortgage servicing, or both, or the reverse mortgage portfolio
+3 administered by a large mortgage servicer;
+4 (15) "Customer" means a consumer who has a customer relationship
+5 with a financial institution;
+6 (16) "Customer information" means a record containing nonpublic
+7 personal information about a customer of a financial institution, whether in
+8 paper, electronic, or other form, that is handled or maintained by or on
+9 behalf of a financial institution or the financial institution’s affiliates;
+10 (17) "Customer relationship" means a continuing relationship
+11 between a consumer and a financial institution under which the financial
+12 institution provides to the consumer one (1) or more financial products or
+13 services that are used primarily for personal, family, or household purposes;
+14 (8)(18) "Employee" means an individual who is licensed with or
+15 employed by a mortgage broker, mortgage banker, or mortgage servicer, whether
+16 by employment contract, agency, or other arrangement and regardless of
+17 whether the individual is treated as an employee for purposes of compliance
+18 with the federal income tax laws;
+19 (19) "Encryption" means the transformation of data into a form
+20 that results in a low probability of assigning meaning without the use of a
+21 protective process or key, consistent with current cryptographic standards
+22 and accompanied by appropriate safeguards for cryptographic key material;
+23 (9)(A)(20)(A) “Exempt person” means a person not required to be
+24 licensed as a mortgage broker, mortgage banker, mortgage servicer, loan
+25 officer, or transitional loan officer under this subchapter.
+26 (B) “Exempt person” includes any of the following:
+27 (i) An employee of a licensee whose responsibilities
+28 are limited to clerical and administrative tasks for his or her employer and
+29 who does not solicit borrowers, accept applications, or negotiate the terms
+30 of loans on behalf of the employer;
+31 (ii) An agency or corporate instrumentality of the
+32 federal government or any state, county, or municipal government granting
+33 mortgage loans under specific authority of the laws of any state or of the
+34 United States;
+35 (iii) A trust company or industrial loan company
+36 chartered under the laws of Arkansas;
+4 02/12/2025 2:18:59 PM ANS120
+
+HB1466
+1 (iv) A small-business investment corporation licensed
+2 under the Small Business Investment Act of 1958, 15 U.S.C. § 661 et seq., as
+3 it existed on January 1, 2011 January 1, 2025;
+4 (v) A real estate investment trust as defined in 26
+5 U.S.C. § 856, as it existed on January 1, 2011 January 1, 2025;
+6 (vi) A state or federally chartered bank, an
+7 operating subsidiary of a state-chartered bank regulated by the State Bank
+8 Department, a savings bank, a savings and loan association, or a credit
+9 union, the accounts of which are insured by the Federal Deposit Insurance
+10 Corporation or the National Credit Union Administration;
+11 (vii) An agricultural loan organization that is
+12 subject to licensing, supervision, or auditing by the United States Farm
+13 Service Agency, Commodity Credit Corporation, Rural Development Housing and
+14 Community Facilities Programs United States Department of Agriculture Rural
+15 Development, United States Farm Credit Administration, or the United States
+16 Department of Agriculture;
+17 (viii) A nonprofit corporation that:
+18 (a) Qualifies as a nonprofit entity under §
+19 501(c)(3) of the Internal Revenue Code;
+20 (b) Is not primarily in the business of
+21 soliciting or brokering mortgage loans; and
+22 (c) Makes or services mortgage loans to
+23 promote home ownership or home improvements for the disadvantaged;
+24 (ix)(a) A licensed real estate agent or broker who
+25 is performing those activities subject to the regulation of the Arkansas Real
+26 Estate Commission.
+27 (b) Notwithstanding subdivision (9)(B)(ix)(a)
+28 subdivision (20)(B)(ix)(a) of this section, "exempt person" does not include
+29 a real estate agent or broker who receives compensation of any kind in
+30 connection with the referral, placement, or origination of a mortgage loan;
+31 (x) A person who engages in seller-financed
+32 transactions or who as a seller of real property receives mortgages, deeds of
+33 trust, or other security instruments on real estate as security for a
+34 purchase money obligation if:
+35 (a) The person does not receive from or hold
+36 on behalf of the borrower any funds for the payment of insurance or taxes on
+5 02/12/2025 2:18:59 PM ANS120
+
+HB1466
+1 the real property; and
+2 (b) The seller does not sell the liens or
+3 mortgages in the secondary market other than to affiliated or subsidiary
+4 persons;
+5 (xi) An individual or husband and wife married
+6 couple who provide funds for investment in loans secured by a lien on real
+7 property on his or her or their own account and who do not:
+8 (a) Charge a fee or cause a fee to be paid for
+9 any service other than the normal and scheduled rates for escrow, title
+10 insurance, and recording services; and
+11 (b) Collect funds to be used for the payment
+12 of any taxes or insurance premiums on the property securing the loans;
+13 (xii) An attorney licensed in Arkansas rendering
+14 legal services to his or her client, when the conduct that would subject the
+15 attorney to the jurisdiction of this subchapter is ancillary to the provision
+16 of the legal services offered;
+17 (xiii) A person performing any act under order of
+18 any court;
+19 (xiv) A person acting as a mortgage broker, mortgage
+20 banker, or mortgage servicer for any person located in Arkansas, if the
+21 mortgage broker, mortgage banker, or mortgage servicer has no office or
+22 employee in Arkansas and the real property that is the subject of the
+23 mortgage is located outside of Arkansas;
+24 (xv) An officer or employee of an exempt person
+25 described in subdivisions (9)(B)(ii)-(xiv) subdivisions (20)(B)(ii)-(xiv) of
+26 this section if acting in the scope of employment for the exempt person; and
+27 (xvi) A manufactured or modular home retailer and
+28 its employees if:
+29 (a) The manufactured or modular home retailer
+30 or its employees perform only administrative or clerical tasks on behalf of a
+31 person required to be licensed under this subchapter; or
+32 (b) The manufactured or modular home retailer
+33 and its employees:
+34 (1) Do not receive compensation or
+35 financial gain for engaging in loan officer activities that exceeds the
+36 amount of compensation or financial gain that could be received in a
+6 02/12/2025 2:18:59 PM ANS120
+
+HB1466
+1 comparable cash transaction for a manufactured home;
+2 (2) Disclose to the consumer in writing
+3 any corporate affiliation with a mortgage banker;
+4 (3) Provide referral information for at
+5 least one (1) unaffiliated creditor if the manufactured or modular home
+6 retailer has a corporate affiliation with a mortgage banker and the mortgage
+7 banker offers a recommendation; and
+8 (4)(A) Do not directly negotiate loan
+9 terms with the consumer or lender.
+10 (B) As used in subdivision
+11 (9)(B)(xvi)(b)(4)(A) subdivision (20)(B)(xvi)(b)(4)(A) of this section, “loan
+12 terms” includes rates, fees, and other costs;
+13 (21) "External audit" means a formal report prepared by an
+14 independent certified public accountant expressing an opinion on whether
+15 financial statements are:
+16 (A) Presented fairly, in all material aspects, according
+17 to the applicable financial reporting framework; and
+18 (B) Inclusive of an evaluation of the adequacy of a
+19 company’s internal control structure;
+20 (22) "Financial institution" means a mortgage broker, mortgage
+21 banker, or mortgage servicer licensed under this subchapter;
+22 (23)(A) "Financial product or service" means a product or
+23 service that a financial holding company could offer by engaging in a
+24 financial activity under section 4(k) of the Bank Holding Company Act of
+25 1956, 12 U.S.C. § 1843(k), as it existed on January 1, 2025.
+26 (B) "Financial product or service" includes a financial
+27 institution’s evaluation or brokerage of information that a financial
+28 institution collects in connection with a request or an application from a
+29 consumer for a financial product or service;
+30 (24) "Information security program" means the administrative,
+31 technical, or physical safeguards a financial institution uses to access,
+32 collect, distribute, process, protect, store, use, transmit, dispose of, or
+33 otherwise handle customer information;
+34 (25) "Information system" means a discrete set of electronic
+35 information resources organized for the collection, processing, maintenance,
+36 use, sharing, dissemination, or disposition of electronic information,
+7 02/12/2025 2:18:59 PM ANS120
+
+HB1466
+1 including any specialized system, such as industrial controls system or a
+2 process controls system, a telephone switching and private branch exchange
+3 system, and an environmental control system, that contain customer
+4 information or that is connected to a system that contains customer
+5 information;
+6 (26) "Interim serviced before sale" means the activity of
+7 collecting a limited number of contractual mortgage payments immediately
+8 after origination on loans held for sale but before the loans have been sold
+9 into the secondary market;
+10 (27) "Internal audit" means the internal activity of performing
+11 independent, objective assurance, and consulting to evaluate and improve the
+12 effectiveness of company operations, risk management, internal controls, and
+13 governance processes;
+14 (28)(A) "Key individual" means an individual who is ultimately
+15 responsible for establishing or directing policies and procedures of a
+16 licensee.
+17 (B) "Key individual" includes without limitation:
+18 (i) An executive officer;
+19 (ii) A manager;
+20 (iii) A director;
+21 (iv) A trustee; or
+22 (v) A control person;
+23 (10)(29) “Licensee” means a loan officer, transitional loan
+24 officer, mortgage broker, mortgage banker, or mortgage servicer that is
+25 licensed under this subchapter;
+26 (11)(A)(30)(A) "Loan officer" means an individual other than an
+27 exempt person described in subdivision (9) subdivision (20) of this section
+28 who in exchange for compensation as an employee of or who otherwise receives
+29 compensation or remuneration from a mortgage broker or a mortgage banker:
+30 (i) Solicits or offers to solicit an application for
+31 a mortgage loan;
+32 (ii) Accepts or offers to accept an application for
+33 a mortgage loan;
+34 (iii) Negotiates or offers to negotiate the terms or
+35 conditions of a mortgage loan;
+36 (iv) Issues or offers to issue a mortgage loan
+8 02/12/2025 2:18:59 PM ANS120
+
+HB1466
+1 commitment or interest rate guarantee agreement; or
+2 (v) Provides or offers to provide modification of a
+3 mortgage loan.
+4 (B) “Loan officer” does not include:
+5 (i) An individual who performs clerical or
+6 administrative tasks in the processing of a mortgage loan at the direction of
+7 and subject to the supervision and instruction of a licensed loan officer;
+8 (ii) An underwriter if the individual performs no
+9 activities under subdivision (11)(A) subdivision (30)(A) of this section; or
+10 (iii) An individual who is solely involved in
+11 extensions of credit relating to timeshare plans, as that term is defined in
+12 11 U.S.C. § 101(53D), as it existed on January 1, 2011 January 1, 2025;
+13 (12)(31) "Make a mortgage loan" means to close a mortgage loan,
+14 to advance funds, to offer to advance funds, or to make a commitment to
+15 advance funds to a borrower under a mortgage loan;
+16 (13)(A)(32)(A) "Managing principal" means a person who meets the
+17 requirements of § 23-39-508 and who agrees to be primarily responsible for
+18 the operations of a licensed mortgage broker, mortgage banker, or mortgage
+19 servicer.
+20 (B) "Managing principal" includes a qualifying individual;
+21 (14)(33) "Mortgage banker" means a person who engages in the
+22 business of making mortgage loans for compensation or other gain;
+23 (15)(34) "Mortgage broker" means a person who for compensation
+24 or other gain or in the expectation of compensation or other gain and,
+25 regardless of whether the acts are done directly or indirectly, through
+26 contact by telephone, by electronic means, by mail, or in person with the
+27 borrowers or potential borrowers:
+28 (A) Accepts or offers to accept an application for a
+29 mortgage loan;
+30 (B) Solicits or offers to solicit an application for a
+31 mortgage loan;
+32 (C) Negotiates or offers to negotiate the terms or
+33 conditions of a mortgage loan; or
+34 (D) Issues or offers to issue mortgage loan commitments or
+35 interest rate guarantee agreements to borrowers;
+36 (35) "Mortgage call report" means a quarterly or annual report
+9 02/12/2025 2:18:59 PM ANS120
+
+HB1466
+1 of residential real estate loan origination, servicing, and financial
+2 information completed by a company licensed through the Nationwide Multistate
+3 Licensing System and Registry;
+4 (16)(36)(A) "Mortgage loan" means a loan primarily for personal,
+5 family, or household use that is secured by a mortgage, deed of trust,
+6 reverse mortgage, or other equivalent consensual security interest
+7 encumbering:
+8 (A)(i) A dwelling as defined in section 1602(w) of
+9 the Truth in Lending Act, 15 U.S.C. § 1601 et seq., as it existed on January
+10 1, 2011 January 1, 2025; or
+11 (B)(ii) Residential real estate upon which is
+12 constructed or intended to be constructed a dwelling.
+13 (B) "Mortgage loan" includes a residential mortgage loan;
+14 (17)(A)(37)(A) “Mortgage servicer” means:
+15 (i) An entity performing the routine administration
+16 of a residential mortgage loan on behalf of an owner of the related mortgage
+17 under the terms of a servicing contract; or
+18 (ii) a A person that receives or has the right to
+19 receive from or on behalf of a borrower:
+20 (i)(a) Funds or credits in payment for a
+21 mortgage loan; or
+22 (ii)(b) The taxes or insurance associated with
+23 a mortgage loan.
+24 (B) In the case of a home equity conversion mortgage or a
+25 reverse mortgage, "mortgage servicer" includes a person that makes a payment
+26 to the borrower;
+27 (38) "Mortgage servicing rights" means the contractual right to
+28 service residential mortgage loans on behalf of the owner of the associated
+29 mortgage in exchange for specified compensation according to a servicing
+30 contract;
+31 (39) "Multifactor authentication" means authentication through
+32 verification of at least two (2) of the following types of authentication
+33 factors:
+34 (A) Knowledge factors, including without limitation a
+35 password;
+36 (B) Possession factors, including without limitation a
+10 02/12/2025 2:18:59 PM ANS120
+
+HB1466
+1 token; or
+2 (C) Inherence factors, including without limitation
+3 biometric characteristics;
+4 (40)(A) "Nonpublic personal information" means:
+5 (i) Personally identifiable financial information;
+6 and
+7 (ii) A list, description, or other grouping of
+8 consumers, and publicly available information pertaining to a consumer, that
+9 is derived using personally identifiable financial information that is not
+10 publicly available.
+11 (B) "Nonpublic personal information" includes without
+12 limitation a list of individuals’ names and street addresses that is derived
+13 in whole or in part using personally identifiable financial information that
+14 is not publicly available.
+15 (C) "Nonpublic personal information" does not include:
+16 (i) Publicly available information except as
+17 included on a list described in subdivision (40)(A)(ii) of this section;
+18 (ii) A list, description, or other grouping of
+19 consumers, and publicly available information pertaining to the list,
+20 description, or other grouping of consumers, that is derived without using
+21 personally identifiable financial information that is not publicly available;
+22 or
+23 (iii) A list of individuals’ names and addresses
+24 that contains only publicly available information and is not:
+25 (a) Derived, in whole or in part, using
+26 personally identifiable financial information that is not publicly available;
+27 and
+28 (b) Disclosed in a manner that indicates that
+29 any of the individuals on the list is a consumer of a financial institution;
+30 (41)(A) "Notification event" means acquisition of unencrypted
+31 customer information without the authorization of the customer to which the
+32 information pertains.
+33 (B) For purposes of subdivision (41)(A) of this section:
+34 (i) Customer information is considered unencrypted
+35 if the encryption key was accessed by an unauthorized person; and
+36 (ii) Unauthorized acquisition is presumed to include
+11 02/12/2025 2:18:59 PM ANS120
+
+HB1466
+1 unauthorized access to unencrypted customer information unless a financial
+2 institution has reliable evidence showing that there has not been, or could
+3 not reasonably have been, unauthorized acquisition of the customer
+4 information;
+5 (42) "Operating liquidity" means the funds necessary to perform
+6 normal business operations, including payment of rent, salaries, interest
+7 expense, and other typical expenses associated with operating an entity;
+8 (18)(43) "Operating subsidiary" means a separate corporation,
+9 limited liability company, or similar entity in which a national or state
+10 bank, savings and loan association, or credit union, the accounts of which
+11 are insured by the Federal Deposit Insurance Corporation or the National
+12 Credit Union Administration, maintains more than fifty percent (50%) voting
+13 rights, a controlling interest, or otherwise controls the subsidiary and no
+14 other party controls more than fifty percent (50%) of the voting rights or a
+15 controlling interest in the subsidiary;
+16 (44) "Penetration testing" means a test methodology in which
+17 assessors attempt to circumvent or defeat the security features of an
+18 information system by attempting penetration of databases or controls from
+19 outside or inside a financial institution’s information system;
+20 (19)(45) "Person" means an individual, partnership, limited
+21 liability company, limited partnership, corporation, association, or other
+22 group engaged in joint business activities, however organized;
+23 (46)(A) "Personally identifiable financial information" means
+24 information:
+25 (i) A consumer provides to a financial institution
+26 to obtain a financial product or service from a financial institution;
+27 (ii) About a consumer resulting from a transaction
+28 involving a financial product or service between a financial institution and
+29 a consumer; or
+30 (iii) A financial institution otherwise obtains
+31 about a consumer in connection with providing a financial product or service
+32 to that consumer.
+33 (B) "Personally identifiable financial information"
+34 includes:
+35 (i) Information a consumer provides to a financial
+36 institution on an application to obtain a loan, credit card, or other
+12 02/12/2025 2:18:59 PM ANS120
+
+HB1466
+1 financial product or service;
+2 (ii) Account balance information, payment history,
+3 overdraft history, and credit or debit card purchase information;
+4 (iii) The fact that an individual is or has been a
+5 financial institution's customer or has obtained a financial product or
+6 service from a financial institution;
+7 (iv) Information about a financial institution’s
+8 consumer if the information is disclosed in a manner that indicates that the
+9 individual is or has been the financial institution’s consumer;
+10 (v) Information that a consumer provides to a
+11 financial institution or that a financial institution or a financial
+12 institution’s agent otherwise obtains in connection with collecting on or
+13 servicing a credit account;
+14 (vi) Information a financial institution collects
+15 through an internet cookie or an information collecting device from a
+16 computer server; and
+17 (vii) Information from a consumer report.
+18 (C) "Personally identifiable financial information" does
+19 not include:
+20 (i) A list of names and addresses of customers of an
+21 entity that is not a financial institution; and
+22 (ii) Information that does not identify a consumer,
+23 including aggregate information or blind data that does not contain personal
+24 identifiers such as account numbers, names, or addresses;
+25 (20)(47) "Principal place of business" means a stationary
+26 construction consisting of at least one (1) enclosed room or building in
+27 which negotiations of mortgage loan transactions of others may be conducted
+28 in private or in which the primary business functions of the licensee are
+29 conducted;
+30 (48)(A) "Publicly available information" means information that
+31 a financial institution has a reasonable basis to believe is lawfully made
+32 available to the public from:
+33 (i) Federal, state, or local government records;
+34 (ii) Widely distributed media; or
+35 (iii) Disclosures to the public that are required to
+36 be made by federal, state, or local law.
+13 02/12/2025 2:18:59 PM ANS120
+
+HB1466
+1 (B) "Publicly available information" includes without
+2 limitation:
+3 (i) Information in government records, including
+4 information in government real estate records and security interest filings;
+5 and
+6 (ii)(a) Information from widely distributed media,
+7 including information from a telephone book, television or radio program,
+8 newspaper, or website that is available to the public on an unrestricted
+9 basis.
+10 (b) A website is not restricted under
+11 subdivision (48)(B)(ii)(a) of this section merely because an internet service
+12 provider or a site operator requires a fee or a password, so long as access
+13 is available to the public.
+14 (C) For purposes of this subdivision (48), a financial
+15 institution has a reasonable basis to believe that:
+16 (i) Information is lawfully made available to the
+17 public if the financial institution has taken steps to determine:
+18 (a) That the information is of the type that
+19 is available to the public; and
+20 (b) Whether an individual can direct that the
+21 information not be made available to the public and, if so, that the
+22 financial institution’s consumer has not directed that the information not be
+23 made available to the public;
+24 (ii) Mortgage information is lawfully made available
+25 to the public if the financial institution determines that the information is
+26 of the type included on the public record in the jurisdiction where the
+27 mortgage would be recorded; and
+28 (iii) An individual’s telephone number is lawfully
+29 made available to the public if the financial institution has located the
+30 telephone number in a telephone directory or the consumer has informed the
+31 financial institution that the telephone number is not unlisted;
+32 (49) "Qualified individual" means an individual designated by a
+33 financial institution to oversee, implement, and enforce the financial
+34 institution’s information security program;
+35 (50) "Residential mortgage loans serviced" means a specific
+36 portfolio or portfolios of residential mortgage loans for which a licensee is
+14 02/12/2025 2:18:59 PM ANS120
+
+HB1466
+1 contractually responsible to the owner or owners of the mortgage loans for
+2 the defined servicing activities;
+3 (21)(51) "Reverse mortgage" means a nonrecourse loan that pays a
+4 homeowner loan proceeds drawn from accumulated home equity;
+5 (52) "Risk management assessment" means the functional
+6 evaluations performed under the risk management program and reports provided
+7 to a board of directors under a relevant governance protocol;
+8 (53) "Risk management program" means the policies and procedures
+9 designed to identify, measure, monitor, and mitigate risk sufficient for the
+10 level of sophistication of a covered institution servicer;
+11 (54) "Security event" means an event resulting in unauthorized
+12 access to, or disruption or misuse of:
+13 (A) An information system or information stored on the
+14 information system; or
+15 (B) Customer information held in physical form;
+16 (55) "Service provider" means a person or entity that receives,
+17 maintains, processes, or otherwise is permitted access to customer
+18 information through its provision of services directly to a financial
+19 institution that is subject to this subchapter;
+20 (56) "Servicing liquidity" means the financial resources
+21 necessary to manage liquidity risk arising from servicing functions required
+22 in acquiring and financing mortgage servicing rights, hedging costs, and
+23 margin calls associated with the mortgage servicing rights asset and
+24 financing facilities and advances or costs of advance financing for
+25 principal, interest, taxes, insurance, and any other servicing related
+26 advances;
+27 (22)(57) "Sponsor" means a mortgage broker or mortgage banker
+28 licensed under this subchapter that has assumed the responsibility for and
+29 agrees to supervise the actions of a loan officer or transitional loan
+30 officer;
+31 (58) "Tangible net worth" means the total equity less:
+32 (A) The receivables due from related entities;
+33 (B) Goodwill and other intangibles; and
+34 (C) Pledged assets;
+35 (23)(59) "Transitional loan officer" means an individual who, in
+36 exchange for compensation as an employee of, or who otherwise receives
+15 02/12/2025 2:18:59 PM ANS120
+
+HB1466
+1 compensation or remuneration from, a mortgage broker or a mortgage banker, is
+2 authorized to act as a loan officer subject to a transitional loan officer
+3 license;
+4 (24)(60) "Transitional loan officer license" means a license
+5 that:
+6 (A) Is issued to an individual who is employed and
+7 sponsored by a mortgage banker or mortgage broker licensed under this
+8 subchapter;
+9 (B) Is limited to a term of no more than one hundred
+10 twenty (120) days; and
+11 (C) Is not subject to reapplication, renewal, or extension
+12 by the commissioner; and
+13 (25)(61) "Unique identifier" means a number or other identifier
+14 assigned by protocols established by the automated licensing system approved
+15 by the commissioner; and
+16 (62) "Whole loans" mean those loans in which a mortgage and the
+17 underlying credit risk is owned and held on the balance sheet of an entity
+18 with all ownership rights.
+19
+20 SECTION 2. Arkansas Code § 23-39-504 is amended to read as follows:
+21 23-39-504. Rulemaking authority Authority.
+22 (a) The Securities Commissioner may adopt any rules that he or she
+23 deems necessary to:
+24 (1) Carry out the provisions of this subchapter;
+25 (2) Provide for the protection of the borrowing public; and
+26 (3) Provide any requirements necessary for the State of Arkansas
+27 to participate in a multistate automated licensing system; and
+28 (4) Instruct mortgage brokers, mortgage bankers, mortgage
+29 servicers, loan officers, and transitional loan officers in interpreting this
+30 subchapter.
+31 (b) The commissioner may:
+32 (1) If risk is determined by a formal review of a specific
+33 covered institution servicer to be extremely high, order or direct the
+34 covered institution servicer to satisfy additional conditions necessary to
+35 ensure that the covered institution servicer will continue to operate in a
+36 safe and sound manner and be able to continue to service loans in compliance
+16 02/12/2025 2:18:59 PM ANS120
+
+HB1466
+1 with state law or rule and federal law or regulations;
+2 (2) If risk is determined by a formal review of a specific
+3 covered institution servicer to be extremely low, provide notice that all or
+4 part of this subchapter is not applicable to the covered institution
+5 servicer; and
+6 (3) If economic, environmental, or societal events are
+7 determined to be of severity to warrant a temporary suspension of all or
+8 certain sections of this subchapter, provide public notice of the temporary
+9 suspension.
+10
+11 SECTION 3. Arkansas Code § 23-39-505(f), concerning the surety bond
+12 under the Fair Mortgage Lending Act, is amended to read as follows:
+13 (f)(1) Each mortgage broker, mortgage banker, and mortgage servicer
+14 shall post a surety bond in an amount:
+15 (A) Based upon loan activity during the previous year;
+16 (B) Not less than one hundred thousand dollars ($100,000);
+17 and
+18 (C) As prescribed by rule or order of the commissioner.
+19 (2) The surety bond shall:
+20 (A) be Be in a form satisfactory to the commissioner; and
+21 (B) Run to the State of Arkansas for benefit of a claimant
+22 against the licensee to secure the faithful performance of the obligations of
+23 the licensee under this subchapter.
+24 (3)(A) A party having a claim against a licensee may bring suit
+25 directly on the surety bond of the licensee under this subsection or the
+26 commissioner may bring suit on behalf of a claimant in one (1) action or in
+27 successive actions.
+28 (B) A consumer claim shall be given priority in recovering
+29 from the surety bond.
+30 (C) Every bond shall provide for suit on the bond by any
+31 person who has a cause of action under this subchapter.
+32 (4) The aggregate liability of the surety shall not exceed the
+33 principal sum of the bond.
+34 (5) A surety bond shall cover claims for at least five (5) years
+35 after the licensee ceases to provide mortgage services in this state or
+36 longer if required by the commissioner.
+17 02/12/2025 2:18:59 PM ANS120
+
+HB1466
+1 (6)(A) A surety bond shall remain in effect until cancellation.
+2 (B) The cancellation of a surety bond shall occur only
+3 after sixty (60) days' written notice to the commissioner.
+4 (C) The cancellation of a surety bond shall not affect
+5 liability incurred or accrued during the sixty-day period under subdivision
+6 (f)(6)(B) of this section.
+7 (7)(A) If an action is commenced on a licensee's surety bond,
+8 the commissioner may require the filing of a new surety bond.
+9 (B) If a new surety bond is required under subdivision
+10 (f)(7)(A) of this section, the licensee shall file a replacement surety bond
+11 in the required amount specified under subdivision (f)(1)(B) of this section
+12 within thirty (30) days.
+13 (C) Immediately upon recovery of an action on the surety
+14 bond, the licensee shall file a new surety bond.
+15
+16 SECTION 4. Arkansas Code § 23-39-505(g), concerning audited financial
+17 statements under the Fair Mortgage Lending Act, is amended to read as
+18 follows:
+19 (g)(1) An applicant filing for licensure as a mortgage banker or
+20 mortgage servicer shall file with the commissioner as part of his or her
+21 application audited financial statements that reflect that the applicant has
+22 a net worth of at least twenty-five thousand dollars ($25,000) and are:.
+23 (1) Prepared by an independent certified public accountant:
+24 (2) Prepared according to:
+25 (A) Generally accepted accounting principles as
+26 promulgated by the Financial Accounting Standards Board; or
+27 (B) International financial reporting standards
+28 promulgated by the International Financial Reporting Standards Foundation and
+29 the International Accounting Standards Board;
+30 (3) Accompanied by an opinion acceptable to the commissioner;
+31 and
+32 (4) For purposes of complying with subdivision (g)(1) of this
+33 section, the financial statement shall be:
+34 (A) Determined according to:
+35 (i) Generally accepted accounting principles as
+36 promulgated by the Financial Accounting Standards Board; or
+18 02/12/2025 2:18:59 PM ANS120
+
+HB1466
+1 (ii) The international financial reporting standards
+2 promulgated by the International Financial Reporting Standards Foundation and
+3 the International Accounting Standards Board; and
+4 (B) Accompanied by an opinion acceptable to the
+5 commissioner;
+6 (C) Dated within fifteen (15) months preceding the date on
+7 which the application is filed.
+8
+9 SECTION 5. Arkansas Code § 23-39-505, concerning qualifications for a
+10 license under the Fair Mortgage Lending Act, is amended to add additional
+11 subsections to read as follows:
+12 (p)(1) An applicant filing for licensure as a mortgage servicer but
+13 that does not operate as a covered institution servicer shall file with the
+14 commissioner as part of his or her application audited financial statements
+15 that reflect that the applicant has a net worth of at least one hundred
+16 thousand dollars ($100,000).
+17 (2) For the purposes of complying with subdivision (p)(1) of
+18 this section, the financial statement shall be:
+19 (A) Determined according to:
+20 (i) Generally accepted accounting principles as
+21 promulgated by the Financial Accounting Standards Board; or
+22 (ii) The international financial reporting standards
+23 promulgated by the International Financial Reporting Standards Foundation and
+24 the International Accounting Standards Board;
+25 (B) Accompanied by an opinion acceptable to the
+26 commissioner; and
+27 (C) Dated within fifteen (15) months preceding the date on
+28 which the application is filed.
+29 (3)(A) An applicant applying to service Arkansas residential
+30 mortgage loans may apply to the commissioner to waive or adjust one (1) or
+31 more of the net worth requirements under subdivision (p)(1) or subdivision
+32 (p)(2) of this section.
+33 (B)(i) In reviewing a request to waive or adjust one (1)
+34 or more of the net worth requirements under subdivision (p)(1) or subdivision
+35 (p)(2) of this section, the commissioner may consider the number and types of
+36 loans being serviced and whether the licensee has a positive net worth and
+19 02/12/2025 2:18:59 PM ANS120
+
+HB1466
+1 adequate operating reserves.
+2 (ii) As used in this subdivision (p)(3)(B),
+3 “operating reserves” means the funds set aside in anticipation of future
+4 payments or obligations and are included in servicing liquidity.
+5 (q)(1) An applicant filing for licensure as a mortgage servicer that
+6 operates as a covered institution servicer shall file with the commissioner
+7 as part of his or her application proof that the applicant is in compliance
+8 with:
+9 (A) The Federal Housing Finance Agency's Eligibility
+10 Requirements for Enterprise Single-Family Seller/Servicers for minimum
+11 capital ratio; and
+12 (B) The net worth and servicing liquidity requirements,
+13 whether or not the mortgage servicer is approved for government-sponsored
+14 enterprise servicing.
+15 (2) For the purposes of complying with subdivision (q)(1) of
+16 this section, the financial data shall be:
+17 (A) Determined according to:
+18 (i) Generally accepted accounting principles as
+19 promulgated by the Financial Accounting Standards Board; or
+20 (ii) The international financial reporting standards
+21 promulgated by the International Financial Reporting Standards Foundation and
+22 the International Accounting Standards Board;
+23 (B) Accompanied by an opinion acceptable to the
+24 commissioner; and
+25 (C) Dated within fifteen (15) months preceding the date on
+26 which the application is filed.
+27
+28 SECTION 6. Arkansas Code § 23-39-506(f), concerning audited financial
+29 statements under the Fair Mortgage Lending Act, is amended to read as
+30 follows:
+31 (f)(1) A mortgage banker or a mortgage servicer shall submit audited
+32 financial statements to the commissioner within ninety (90) days after the
+33 end of the mortgage banker's or mortgage servicer's fiscal year.
+34 (2) The audited financial statements submitted to the
+35 commissioner under subdivision (f)(1) of this section shall:
+36 (A) Reflect that the mortgage banker or mortgage servicer
+20 02/12/2025 2:18:59 PM ANS120
+
+HB1466
+1 has a net worth of at least twenty-five thousand dollars ($25,000); and
+2 (B) Comply with the requirements of § 23-39-505(g)(1)-(3).
+3 (3)(A) Failure to timely submit audited financial statements to
+4 the commissioner shall result in a late fee of two hundred fifty dollars
+5 ($250).
+6 (B) All or part of the late fee may be waived by the
+7 commissioner for good cause.
+8
+9 SECTION 7. Arkansas Code § 23-39-506, concerning license renewal under
+10 the Fair Mortgage Lending Act, is amended to add additional subsections to
+11 read as follows:
+12 (g)(1) A mortgage servicer subject to § 23-39-505(p) or § 23-39-505(q)
+13 shall submit audited financial statements to the commissioner within ninety
+14 (90) days after the end of the mortgage servicer's fiscal year.
+15 (2) The audited financial statements submitted to the
+16 commissioner under subdivision (g)(1) of this section shall reflect that the
+17 mortgage servicer has a net worth that remains in compliance with § 23-39-
+18 505(p) or § 23-39-505(q), as applicable.
+19 (3)(A) A licensee servicing Arkansas residential mortgage loans,
+20 other than a covered institution servicer, may apply to the commissioner to
+21 waive or adjust one (1) or more of the net worth requirements.
+22 (B) In considering a request to waive or adjust one (1) or
+23 more of the net worth requirements, the commissioner shall consider the
+24 number and types of loans being serviced and whether the licensee has a
+25 positive net worth and adequate operating reserves.
+26 (C) For purposes of this section, “operating reserves”
+27 means the funds set aside in anticipation of future payments or obligations
+28 and are included in liquidity.
+29 (4)(A) Failure to timely submit audited financial statements to
+30 the commissioner shall result in a late fee of two hundred fifty dollars
+31 ($250).
+32 (B) All or part of the late fee may be waived by the
+33 commissioner for good cause.
+34 (h) A covered institution servicer shall remain in compliance with the
+35 requirements of § 23-39-505(q) and § 23-39-519.
+36
+21 02/12/2025 2:18:59 PM ANS120
+
+HB1466
+1 SECTION 8. Arkansas Code Title 23, Chapter 39, Subchapter 5, is
+2 amended to add additional sections to read as follows:
+3 23-39-519. Prudential standards for covered institution servicers —
+4 Financial condition.
+5 (a) A covered institution servicer shall meet or exceed the minimum
+6 financial requirements of the Federal Housing Finance Agency's Eligibility
+7 Requirements for Enterprise Single-Family Seller/Servicers in order to
+8 maintain the capital and servicing liquidity as required by this section and
+9 § 23-39-505(q).
+10 (b) All financial data shall be determined according to generally
+11 accepted accounting principles or the international financial reporting
+12 standards promulgated by the International Financial Reporting Standards
+13 Foundation and the International Accounting Standards Board.
+14 (c) A covered institution servicer that meets the Federal Housing
+15 Finance Agency's Eligibility Requirements for Enterprise Single-Family
+16 Seller/Servicers for capital, net worth ratio, and servicing liquidity,
+17 whether or not the servicer is approved for government-sponsored enterprises
+18 servicing, or Federal National Mortgage Association servicing, or Federal
+19 Home Loan Mortgage Corporation servicing, satisfies the requirements of
+20 subsection (a) and subsection (b) of this section.
+21 (d)(1) A covered institution servicer shall maintain written policies
+22 and procedures implementing the capital and servicing liquidity requirements.
+23 (2) The policies and procedures under subdivision (d)(1) of this
+24 section shall include a sustainable written methodology for satisfying the
+25 requirements of subsection (a) of this section and be available to the
+26 Securities Commissioner upon request.
+27 (e)(1) A covered institution servicer under this subchapter shall:
+28 (A) Maintain sufficient allowable assets for liquidity in
+29 addition to the amounts required for servicing liquidity to cover normal
+30 business operations; and
+31 (B) Have in place sound cash management and business
+32 operating plans that match the size and sophistication of the covered
+33 institution servicer to ensure normal business operations.
+34 (2)(A) The management or key individual of a covered institution
+35 servicer shall develop, establish, and implement plans, policies, and
+36 procedures for maintaining operating liquidity sufficient for the ongoing
+22 02/12/2025 2:18:59 PM ANS120
+
+HB1466
+1 needs of the covered institution servicer.
+2 (B) The plans, policies, and procedures under subdivision
+3 (e)(2)(A) of this section shall:
+4 (i) Contain sustainable, written methodologies for
+5 maintaining sufficient operating liquidity; and
+6 (ii) Be available to the commissioner upon request.
+7
+8 23-39-520. Corporate governance for covered institution servicers.
+9 (a) A covered institution servicer shall establish and maintain a
+10 board of directors who are responsible for the oversight of the covered
+11 institution servicer.
+12 (b) For a covered institution servicer that is not approved to service
+13 loans by a government-sponsored enterprise, the Federal National Mortgage
+14 Association and the Federal Home Loan Mortgage Corporation, or the Government
+15 National Mortgage Association, or when these federal agencies have granted
+16 approval for a board alternative, a covered institution servicer may
+17 establish a similar body constituted to exercise oversight and fulfill the
+18 board of directors’ responsibilities under subsection (c) of this section.
+19 (c) The board of directors shall be responsible for:
+20 (1) Establishing a written corporate governance framework,
+21 including appropriate internal controls designed to monitor corporate
+22 governance and assess compliance with the corporate governance framework,
+23 available to the Securities Commissioner upon request;
+24 (2) Monitoring and ensuring the covered institution servicer's
+25 compliance with the corporate governance framework and this subchapter; and
+26 (3) Accurate and timely regulatory reporting, including without
+27 limitation the requirements for filing the mortgage call report.
+28 (d)(1) The board of directors shall establish internal audit
+29 requirements that are appropriate for the size, complexity, and risk profile
+30 of the covered institution servicer, with appropriate independence to provide
+31 a reliable evaluation of the covered institution servicer’s internal control
+32 structure, risk management, and governance.
+33 (2) Internal audit requirements established by the board of
+34 directors and the results of internal audits shall be made available to the
+35 commissioner upon request.
+36 (e)(1) A covered institution servicer shall receive an external audit,
+23 02/12/2025 2:18:59 PM ANS120
+
+HB1466
+1 including audited financial statements and audit reports, conducted by an
+2 independent certified public accountant annually.
+3 (2) The external audit required under subdivision (e)(1) of this
+4 section shall:
+5 (A) Be available to the commissioner upon request; and
+6 (B) Include at a minimum:
+7 (i) Annual financial statements including a balance
+8 sheet, statement of operations income statement and cash flows, notes, and
+9 supplemental schedules, prepared according to generally accepted accounting
+10 principles;
+11 (ii) An assessment of the internal control
+12 structure;
+13 (iii) A computation of tangible net worth;
+14 (iv) Validation of mortgage servicing rights
+15 valuation and reserve methodology, if applicable;
+16 (v) Verification of adequate fidelity and errors and
+17 omissions insurance; and
+18 (vi) Testing of controls related to risk management
+19 activities, including compliance and stress testing, if applicable.
+20 (f)(1) A covered institution servicer shall establish a risk
+21 management program under the oversight of the board of directors that is
+22 available to the commissioner upon request that identifies, measures,
+23 monitors, and controls risk sufficient for the level of sophistication of the
+24 covered institution servicer.
+25 (2) The risk management program required under subdivision
+26 (f)(1) of this section shall:
+27 (A) Have appropriate processes and models in place to
+28 measure, monitor, and mitigate financial risks and changes to the risk
+29 profile of the covered institution servicer and assets being serviced; and
+30 (B) Be scaled to the complexity of the covered institution
+31 servicer, but be sufficiently robust to manage risks in several areas,
+32 including without limitation:
+33 (i) Credit risk, including the potential that a
+34 borrower or counterparty will fail to perform on an obligation;
+35 (ii) Servicing liquidity risk, including the
+36 potential that the covered institution servicer will be unable to meet the
+24 02/12/2025 2:18:59 PM ANS120
+
+HB1466
+1 covered institution servicer's obligations as the obligations come due
+2 because of an inability to liquidate assets or obtain adequate funding or
+3 that it cannot easily unwind or offset specific exposures;
+4 (iii) Operational risk, including the risk resulting
+5 from inadequate or failed internal processes, people, and systems or from
+6 external events;
+7 (iv) Market risk, including the risk to the covered
+8 institution servicer’s condition resulting from adverse movements in market
+9 rates or prices;
+10 (v) Compliance risk, including the risk of
+11 regulatory sanctions, fines, penalties, or losses resulting from failure to
+12 comply with laws, rules, regulations, or other supervisory requirements
+13 applicable to a covered institution servicer;
+14 (vi) Legal risk, including the potential that
+15 actions against the covered institution servicer that result in unenforceable
+16 contracts, lawsuits, legal sanctions, or adverse judgments can disrupt or
+17 otherwise negatively affect the operations or condition of the covered
+18 institution servicer; and
+19 (vii) Reputation risk, including the risk to
+20 earnings and capital arising from negative publicity regarding the covered
+21 institution servicer’s business practices.
+22 (g)(1) A covered institution servicer shall conduct a risk management
+23 assessment on an annual basis concluding with a formal report to the board of
+24 directors and be available to the commissioner upon request.
+25 (2) Evidence of risk management activities throughout the year
+26 shall be maintained and made part of the report, including findings of issues
+27 and the response to address the findings made in the report.
+28
+29 23-39-521. Standards for safeguarding customer information.
+30 (a) A financial institution shall develop, implement, and maintain a
+31 comprehensive information security program.
+32 (b) The information security program under subsection (a) of this
+33 section shall:
+34 (1) Be written in one (1) or more readily accessible parts; and
+35 (2) Contain administrative, technical, and physical safeguards
+36 that are appropriate to the financial institution’s size and complexity, the
+25 02/12/2025 2:18:59 PM ANS120
+
+HB1466
+1 nature and scope of the financial institution’s activities, and the
+2 sensitivity of any customer information at issue.
+3 (c) The information security program shall include the information
+4 required under § 23-39-522.
+5
+6 23-39-522. Information security program required elements.
+7 (a) In order for a financial institution to develop, implement, and
+8 maintain an information security program, the financial institution shall
+9 comply with this section.
+10 (b)(1) A financial institution shall designate a qualified individual
+11 responsible for overseeing and implementing the financial institution’s
+12 information security program and enforcing an information security program.
+13 (2)(A) The qualified individual may be employed by the financial
+14 institution, an affiliate, or a service provider.
+15 (B) If a financial institution designates an individual
+16 employed by an affiliate or a service provider, the financial institution
+17 shall:
+18 (i) Retain responsibility for compliance with this
+19 section;
+20 (ii) Designate a senior member of the financial
+21 institution’s personnel to be responsible for direction and oversight of the
+22 qualified individual; and
+23 (iii) Require the service provider or affiliate to
+24 maintain an information security program that protects the financial
+25 institution in accordance with the requirements of this section.
+26 (c)(1) A financial institution shall base the financial institution’s
+27 information security program on a risk assessment that:
+28 (A) Identifies reasonably foreseeable internal and
+29 external risks to the security, confidentiality, and integrity of customer
+30 information that could result in the unauthorized disclosure, misuse,
+31 alteration, destruction, or other compromise of the information; and
+32 (B) Assesses the sufficiency of any safeguards in place to
+33 control these risks.
+34 (2) The risk assessment shall be written and include:
+35 (A) Criteria for the evaluation and categorization of
+36 identified security risks or threats the financial institution faces;
+26 02/12/2025 2:18:59 PM ANS120
+
+HB1466
+1 (B) Criteria for the assessment of the confidentiality,
+2 integrity, and availability of the financial institution’s information
+3 systems and customer information, including the adequacy of the existing
+4 controls in the context of the identified risks or threats the financial
+5 institution faces; and
+6 (C) Requirements describing how identified risks will be
+7 mitigated or accepted based on the risk assessment and how the information
+8 security program will address the risks.
+9 (3) A financial institution shall periodically perform
+10 additional risk assessments that:
+11 (A) Reexamine the reasonably foreseeable internal and
+12 external risks to the security, confidentiality, and integrity of customer
+13 information that could result in the unauthorized disclosure, misuse,
+14 alteration, destruction, or other compromise of the customer information; and
+15 (B) Reassess the sufficiency of any safeguards in place to
+16 control these risks.
+17 (d) A financial institution shall design and implement safeguards to
+18 control the risks the financial institution identifies through the risk
+19 assessment as required under subsection (c) of this section, including
+20 without limitation:
+21 (1) Implementing and periodically reviewing access controls,
+22 including technical and, as appropriate, physical controls, to:
+23 (A) Authenticate and permit access only to authorized
+24 users to protect against the unauthorized acquisition of customer
+25 information; and
+26 (B) Limit authorized users’ access only to customer
+27 information that the authorized user needs to perform the authorized user’s
+28 duties and functions, or in the case of customers, to access the customer’s
+29 own customer information;
+30 (2) Identifying and managing the data, personnel, devices,
+31 systems, and facilities that enable the financial institution to achieve
+32 business purposes according to the financial institution's relative
+33 importance to business objectives and the financial institution’s risk
+34 strategy;
+35 (3)(A) Protecting by encryption all customer information held or
+36 transmitted by the financial institution both in transit over external
+27 02/12/2025 2:18:59 PM ANS120
+
+HB1466
+1 networks and at rest.
+2 (B) To the extent the financial institution determines
+3 that encryption of customer information, either in transit over external
+4 networks or at rest, is infeasible, the financial institution may instead
+5 secure the customer information using effective alternative compensating
+6 controls reviewed and approved by the financial institution’s qualified
+7 individual;
+8 (4) Adopting secure development practices for in-house developed
+9 applications utilized by the financial institution for transmitting,
+10 accessing, or storing customer information and procedures for evaluating,
+11 assessing, or testing the security of externally developed applications the
+12 financial institution utilizes to transmit, access, or store customer
+13 information;
+14 (5) Implementing multifactor authentication for an individual
+15 accessing an information system, unless the financial institution’s qualified
+16 individual has approved in writing the use of reasonably equivalent or more
+17 secure access controls;
+18 (6) Developing, implementing, and maintaining procedures for the
+19 secure disposal of customer information in any format no later than two (2)
+20 years after the last date the customer information is used in connection with
+21 the provision of a financial product or service to the customer, unless the
+22 customer information is:
+23 (A) Necessary for business operations or for other
+24 legitimate business purposes;
+25 (B) Otherwise required to be retained by state law or
+26 rule, or federal law or regulation; or
+27 (C) Where targeted disposal is not reasonably feasible due
+28 to the manner in which the information is maintained;
+29 (7) Periodically reviewing the financial institution’s data
+30 retention policy to minimize the unnecessary retention of data;
+31 (8) Adopting procedures for change management; and
+32 (9) Implementing policies, procedures, and controls designed to
+33 monitor and log the activity of authorized users and detect unauthorized
+34 access or use of, or tampering with, customer information by these users.
+35 (e)(1) A financial institution shall regularly test or otherwise
+36 monitor the effectiveness of the safeguards' key controls, systems, and
+28 02/12/2025 2:18:59 PM ANS120
+
+HB1466
+1 procedures of the safeguards' required under this section, including those to
+2 detect actual and attempted attacks on, or intrusions into, information
+3 systems.
+4 (2)(A) For information systems, monitoring and testing shall
+5 include continuous monitoring or periodic penetration testing and
+6 vulnerability assessments.
+7 (B) Absent effective continuous monitoring or other
+8 systems to detect, on an ongoing basis, changes in information systems that
+9 may create vulnerabilities, the financial institution shall conduct:
+10 (i) Annual penetration testing of a financial
+11 institution’s information systems determined each given year based on
+12 relevant identified risks according to the risk assessment; and
+13 (ii) Vulnerability assessments, including a systemic
+14 scan or review of an information system reasonably designed to identify
+15 publicly known security vulnerabilities in the financial institution’s
+16 information systems based on the risk assessment, at least every six (6)
+17 months, and whenever there are:
+18 (a) Material changes to the financial
+19 institution’s operations or business arrangements; and
+20 (b) Circumstances the financial institution
+21 knows or has reason to know may have a material impact on the financial
+22 institution’s information security program.
+23 (f) A financial institution shall implement policies and procedures to
+24 ensure that personnel are able to enact the financial institution’s
+25 information security program by:
+26 (1) Providing the financial institution’s personnel with
+27 security awareness training that is updated as necessary to reflect risks
+28 identified by the risk assessment;
+29 (2) Utilizing qualified information security personnel employed
+30 by the financial institution or an affiliate or a service provider sufficient
+31 to manage the financial institution’s information security risks and to
+32 perform or oversee the information security program;
+33 (3) Providing information security personnel with security
+34 updates and training sufficient to address relevant security risks; and
+35 (4) Verifying that key information security personnel take steps
+36 to maintain current knowledge of changing information security threats and
+29 02/12/2025 2:18:59 PM ANS120
+
+HB1466
+1 countermeasures.
+2 (g) A financial institution shall oversee service providers by:
+3 (1) Taking reasonable steps to select and retain service
+4 providers that are capable of maintaining appropriate safeguards for the
+5 customer information at issue;
+6 (2) Requiring the financial institution’s service providers by
+7 contract to implement and maintain the safeguards referenced under
+8 subdivision (g)(1) of this section; and
+9 (3) Periodically assessing the financial institution’s service
+10 providers based on the risk they present and the continued adequacy of their
+11 safeguards.
+12 (h) A financial institution shall evaluate and adjust the financial
+13 institution’s information security program to reflect:
+14 (1) The results of the testing and monitoring required by
+15 subsection (e) of this section;
+16 (2) Any material change to the financial institution’s
+17 operations or business arrangements or other circumstances;
+18 (3) The results of risk assessments performed under subdivision
+19 (c)(3) of this section; and
+20 (4) Any other circumstances that the financial institution knows
+21 or has reason to know may have a material impact on the financial
+22 institution's information security program.
+23 (i)(1) A financial institution shall establish a written incident
+24 response plan designed to promptly respond to, and recover from, any security
+25 event materially affecting the confidentiality, integrity, or availability of
+26 customer information in the financial institution’s control.
+27 (2) The incident response plan under subdivision (i)(1) of this
+28 section shall address:
+29 (A) The goals of the incident response plan;
+30 (B) The internal processes for responding to a security
+31 event;
+32 (C) The definition of clear roles, responsibilities, and
+33 levels of decision-making authority;
+34 (D) External and internal communications and information
+35 sharing;
+36 (E) Identification of requirements for the remediation of
+30 02/12/2025 2:18:59 PM ANS120
+
+HB1466
+1 any identified weaknesses in information systems and associated controls;
+2 (F) Documentation and reporting regarding security events
+3 and related incident response activities; and
+4 (G) The evaluation and revision as necessary of the
+5 incident response plan following a security event.
+6 (j)(1) The financial institution’s qualified individual shall report
+7 in writing at least annually, to the financial institution’s board of
+8 directors or equivalent governing body.
+9 (2) If a board of directors or equivalent governing body does
+10 not exist, the report required under subdivision (j)(1) of this section shall
+11 be timely presented to a senior officer responsible for the financial
+12 institution’s information security program.
+13 (3) The report required under subdivision (j)(1) of this section
+14 shall include:
+15 (A) The overall status of the information security program
+16 and the financial institution’s compliance with this section and associated
+17 rules; and
+18 (B) Material matters related to the information security
+19 program, addressing issues such as risk assessment, risk management and
+20 control decisions, service provider arrangements, results of testing,
+21 security events or violations and management’s responses to security events
+22 or violations, and recommendations for changes in the information security
+23 program.
+24 (k) A financial institution shall provide notice to the Securities
+25 Commissioner about notification events according to subdivisions (l)(1) and
+26 (2) of this section.
+27 (l)(1) Upon discovery of a notification event as described in
+28 subdivision (l)(3) of this section, if the notification event involves the
+29 information of any consumers in this state, the financial institution shall
+30 notify the commissioner as soon as possible and no later forty-five (45) days
+31 after discovery of the notification event.
+32 (2) The notice required under subdivision (l)(1) of this section
+33 shall:
+34 (A) Be made in a format specified by the commissioner; and
+35 (B) Include the following information:
+36 (i) The name and contact information of the
+31 02/12/2025 2:18:59 PM ANS120
+
+HB1466
+1 reporting financial institution;
+2 (ii)(a) A description of the types of information
+3 that were involved in the notification event.
+4 (b) If the information is possible to
+5 determine under subdivision (l)(2)(B)(ii)(a) of this section, the notice
+6 required under subdivision (l)(1) of this section shall contain the date or
+7 date range of the notification event;
+8 (iii) The number of consumers affected or
+9 potentially affected by the notification event;
+10 (iv) A general description of the notification
+11 event; and
+12 (v)(a) Whether a law enforcement official has
+13 provided the financial institution with a written determination that
+14 notifying the public of the notification event would impede a criminal
+15 investigation or cause damage to national security, and a means for the
+16 commissioner to contact the law enforcement official.
+17 (b) A law enforcement official under
+18 subdivision (l)(2)(B)(v)(a) of this section may request an initial delay of
+19 up to thirty (30) days following the date when notice was provided to the
+20 commissioner.
+21 (c) The delay under subdivision
+22 (l)(2)(B)(v)(b) of this section may be extended for an additional period of
+23 up to sixty (60) days if the law enforcement official seeks an extension in
+24 writing.
+25 (d) An additional delay beyond the delay under
+26 subdivision (l)(2)(B)(v)(b) of this section may be permitted only if the
+27 State Securities Department determines that public disclosure of a
+28 notification event continues to impede a criminal investigation or cause
+29 damage to national security.
+30 (3)(A) A notification event under this section shall be treated
+31 as discovered as of the first day on which the notification event is known to
+32 the financial institution.
+33 (B) The financial institution under subdivision (l)(3)(A)
+34 of this section shall be deemed to have knowledge of a notification event if
+35 the notification event is known to a person, other than the person committing
+36 the notification event, who is the financial institution’s employee, officer,
+32 02/12/2025 2:18:59 PM ANS120
+
+HB1466
+1 or other agent.
+2 (m) A financial institution shall establish a written plan addressing
+3 business continuity and disaster recovery.
+4
+5 23-39-523. Exceptions.
+6 This subchapter does not apply to a financial institution that
+7 maintains customer information concerning fewer than five thousand (5,000)
+8 consumers.
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+33 02/12/2025 2:18:59 PM ANS120
+
+[DELETED:       A F  T  B   S  2  A   ( t u   ( u    ( l     (     ( s   ( l m   ( o o]
+[DELETED: H2 0 i   ( f   ( t b   ( d l t    ( s c    ( m a c    ( l b o w i   ( i   ( r f f   ( t o    ( p     ( o]
+[DELETED: H3 0     ( t c (     ( a     ( r c   ( t i   ( i   ( t    ( p   ( s     ( s      ( o s      ( a     ( o c    (     ( r     ( t 1]
+[DELETED: H4 0    ( r a   ( w   ( p p b   ( b i s   ( e b w w   ( t p a   ( l o    (     ( a w o     ( f m U     ( c]
+[DELETED: H5 0     ( u i     ( U     ( o D u C     ( s S C D D     (      ( 5      ( s      ( p     ( i E      ( s a c     ( t t p      ( o]
+[DELETED: H6 0 t      ( m p     ( c p      ( a i      ( o     ( l a o     ( a     ( b m e m     ( d t     ( i      ( o p      ( a       ( f a]
+[DELETED: H7 0 c       ( a       ( l r b       ( t        ( ( t   ( i f    ( t    ( c   ( b   ( s f 1    ( i i c   ( t c o   ( i u]
+[DELETED: H8 0 i p s i i   ( c a i   ( i e g   ( r l    (     (     (     (     (     (   ( o l   ( e w c     ( a     ( a     ( c     (]
+[DELETED: H9 0 c     ( m    (     ( a a     ( a     ( e 1   ( t a   ( r t s    (   ( b   ( o r c b    ( m    ( m    ( c    ( i   (]
+[DELETED: H1 0 o i L   ( f r e     ( t 1     ( c    (   (     ( o u     ( r      ( m      ( a    ( r t   ( s m c   ( v f    ( p    (]
+[DELETED: H1 0 t    ( b   (     ( a     ( c i p    ( l i i    (     ( i     ( c d p o     ( t      ( p a      ( a   ( c i    (     ( i     (]
+[DELETED: H1 0 u i n i   ( n e   ( l b a C r o c   ( a i o   ( l g   ( i     ( t     ( i a     ( a t    ( i     ( i]
+[DELETED: H1 0 f     ( o     ( f s     ( c i     ( f i s     ( t c     (    ( n     ( e     ( i i   ( c w i c   ( a a     (     (     ( b]
+[DELETED: H1 0    ( l     ( i a     ( i n b      ( s p i    ( i     ( p      ( i      ( i f m     ( t o m     ( m t f   ( f i   ( p]
+[DELETED: H1 0 c t   ( h   ( e t   ( d l   ( a    ( i    (   ( m i i   ( n i m f p a   ( l a o   (    (    (    (   ( e]
+[DELETED: H1 0 c a l   ( t    ( s s    ( t    ( b   ( a b   ( u w   S  2  ( d   (   (   ( t   ( s s  (   ( c c e s]
+[DELETED: H1 0 w   ( c p s   ( d c s   S u  ( s    (    ( a    (   (    (    ( a t   ( d c s    ( f    ( p   ( p   ( a l]
+[DELETED: H1 0   (    ( a    ( l (   ( t    ( ( i w    ( b   S s f  ( m a a   (   (    ( p    ( p t   ( a   ( s    (     ( p]
+[DELETED: H1 0     ( p t    ( c    ( w   S l s  ( t c t t   ( t    (     ( p     ( p t    ( c    ( w   ( m m (    ( o ( l]
+[DELETED: H2 0 a     ( “ p  ( o a w    ( R c    ( w e   ( t    (     ( p     ( p t    ( c    ( w   S s f  ( f e   ( c    (]
+[DELETED: H2 0 h    (   ( t (    ( c   S t r  ( s (   ( c m 5   ( o w    ( m n p    ( m a   ( t (    ( c  ( r ]
+[DELETED: H2 0  S a  2 F  ( f R m §  ( a s F  ( F S w s H s  ( a   ( s r S  (    ( a b    ( o i   ( s p]
+[DELETED: H2 0 n    ( (     ( m     (   2  ( b i  ( l A N a e b  (   ( i g a   ( c   ( l  ( r o a s   ( d c  (]
+[DELETED: H2 0 i i   ( s    (    (     ( s s p     ( s     (     ( v     ( o     ( a  ( m a m c   ( (    ( m p    ( s i     ( b     ( p]
+[DELETED: H2 0 c b t     ( f e     ( i r     ( r c a     ( a c o i     ( e i  ( a d   ( s a   2  ( c  ( s   (   ( t]
+[DELETED: H2 0 n s  ( r   2  ( m c  ( r i   ( i    ( e s     ( s     ( i q     ( m i  ( i    ( e i a    ( c   (    ( i]
+[DELETED: H2 0    ( i s c i    ( m s   ( a    ( e i a    ( c  ( c a w   ( i    ( u i    ( i d o   ( s b i s   ( t]
+[DELETED: H2 0 n    ( t n s c i   ( a a a f i   ( a i s   ( s y t c    ( l    ( r    ( t   ( r   (   ( m a  ( m]
+[DELETED: H2 0 p d s   ( i v    ( s m     ( i r     ( s p i m      ( i      ( k i  ( e i   ( s i   ( b t p   ( u   ( t]
+[DELETED: H3 0 c  (   ( p c   ( c s   ( p s  ( i   ( s   ( o   ( (   ( o i  ( r e c   ( s    (    ( e    ( l    ( s    (]
+[DELETED: H3 0 a    ( a    ( i  ( i d   ( n b i   ( s    ( a r    ( p c s o p  ( C (  ( s i n a   ( s    (    (     (]
+[DELETED: H3 0 r     ( t      ( d r d     ( p     ( e     ( p n i c      ( s u c      ( ( u w      ( s S n d   ( a t    ( o t t]
+[DELETED: H3 0 o  ( b   2  T m c]

@@ -1,0 +1,338 @@
+Title: Stricken language would be deleted from and underlined language would be added to present law.
+Official Title: Stricken language would be deleted from and underlined language would be added to present law.
+Number of Sections: 1
+Source: versions - SB 587
+Media Type: application/pdf
+Strikethrough Detection: 4 sections found
+
+================================================================================
+
+Section 1:
+1 State of Arkansas
+A Bill
+2 95th General Assembly
+3 Regular Session, 2025 SENATE BILL 587
+4
+5 By: Senator G. Leding
+6 By: Representative Gazaway
+7
+For An Act To Be Entitled
+8
+9 AN ACT TO CREATE THE PARENTS' PEACE OF MIND ACT; TO
+10 ESTABLISH AUTHORIZATION FOR AND USE OF A MONITORING
+11 DEVICE IN A LONG-TERM CARE FACILITY; TO PROVIDE FOR
+12 WAIVERS; TO PROVIDE FOR ENFORCEMENT AND PENALTIES;
+13 AND FOR OTHER PURPOSES.
+14
+15
+Subtitle
+16
+17 TO CREATE THE PARENTS' PEACE OF MIND
+18 ACT; TO ESTABLISH AUTHORIZATION FOR AND
+19 USE OF A MONITORING DEVICE IN A LONG-
+20 TERM CARE FACILITY; TO PROVIDE FOR
+21 WAIVERS; AND TO PROVIDE FOR ENFORCEMENT
+22 AND PENALTIES.
+23
+24 BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF ARKANSAS:
+25
+26 SECTION 1. Arkansas Code Title 20, Chapter 10 is amended to add an
+27 additional subchapter to read as follows:
+28 Subchapter 26 — Parents' Peace of Mind Act
+29
+30 20-10-2601. Title.
+31 This subchapter shall be known and may be cited as the "Parents' Peace
+32 of Mind Act".
+33
+34 20-10-2602. Definitions.
+35 As used in this subchapter:
+36 (1) "Authorized electronic monitoring" means the placement of
+*JMB021*
+03/31/2025 1:06:58 PM JMB021
+SB587
+1 electronic monitoring devices in the common areas or room of a resident of a
+2 facility and the recordings from such devices under this subchapter;
+3 (2) "Authorized electronic monitoring devices" means:
+4 (A) Video surveillance cameras installed in the common
+5 areas or room of a resident of a facility under this subchapter; or
+6 (B) Audio devices installed in the room of a resident
+7 under this subchapter that are designed to acquire or record communications
+8 or other sounds occurring in the room;
+9 (3) “Facility” means a long-term care facility that is required
+10 to be licensed under § 20-10-224;
+11 (4) "Representative" means the representative of a resident or
+12 guardian of a resident appointed by a court; and
+13 (5) "Resident” means a person who is a resident of a facility.
+14
+15 20-10-2603. Required notice.
+16 (a) A facility shall provide written notice to each resident or to his
+17 or her representative that authorized electronic monitoring of a resident’s
+18 room conducted under this subchapter is not compulsory and shall only be
+19 conducted with the written consent of the resident or his or her
+20 representative.
+21 (b) A facility shall not refuse to admit an individual to the facility
+22 and shall not remove a resident from a facility because the individual,
+23 resident, or his or her representative does not authorize electronic
+24 monitoring of the resident’s room.
+25 (c) A facility shall post at or near its main entrances a sign that
+26 clearly states that authorized electronic monitoring devices may be in use in
+27 the facility.
+28
+29 20-10-2604. Prohibition on tampering or destruction.
+30 (a) A person or entity shall not purposefully obstruct, tamper with,
+31 or destroy an authorized electronic monitoring device installed in a
+32 facility.
+33 (b) A person or entity that purposefully obstructs, tampers with, or
+34 destroys a recording or an authorized electronic monitoring device installed
+35 in a facility upon conviction is guilty of a Class D felony.
+36 (c) A person or entity shall not intercept a communication or disclose
+2 03/31/2025 1:06:58 PM JMB021
+SB587
+1 or use an intercepted communication of an authorized electronic monitoring
+2 device placed or installed in a common area of a facility without the express
+3 written consent of the facility, or, for an authorized electronic monitoring
+4 device installed in a room of the resident, the express written consent of
+5 the resident or his or her representative.
+6
+7 20-10-2605. Authorized electronic monitoring device in private room of
+8 resident.
+9 (a) A resident or his or her representative may install an authorized
+10 electronic monitoring device under this subchapter in his or her private room
+11 at the resident's or representative's own expense.
+12 (b) Notice of the authorized electronic monitoring device shall be
+13 posted at the entrance of the resident's room that the room is being
+14 monitored by an authorized electronic monitoring device.
+15
+16 20-10-2606. Authorized electronic monitoring device in a shared room.
+17 (a)(1) A resident of a shared room or his or her representative may
+18 install an authorized electronic monitoring device under this subchapter in
+19 the shared quarters only with the written consent of each roommate or his or
+20 her representative.
+21 (2) The written consent in subdivision (a)(1) of this section
+22 shall be on a form prescribed by the Office of Long-Term Care and shall be
+23 placed on file with the administrator of the facility.
+24 (3) The office may include other information as deemed
+25 appropriate by the office on the form described in subdivision (a)(2) of this
+26 section.
+27 (b) If a resident residing in a shared room or his or her
+28 representative does not consent to the use or installation of an authorized
+29 electronic monitoring device, the facility shall accommodate the resident or
+30 the representative by moving one or more of the residents to different rooms
+31 within a reasonable amount of time following a request for a room change.
+32 (c) Consent may be limited in the following manner:
+33 (1) That a video surveillance camera be pointed away from the
+34 consenting roommate or his or her portion of the shared room; and
+35 (2) That use of audio or video recordings produced by the
+36 authorized electronic monitoring device that depict the voice or likeness of
+3 03/31/2025 1:06:58 PM JMB021
+SB587
+1 the consenting roommate shall not be shared without further consent of the
+2 consenting roommate or his or her representative.
+3 (d) Consent by a roommate or his or her representative under this
+4 section may be revoked at any time.
+5 (e) If authorized electronic monitoring is being conducted in the room
+6 of a resident, another resident may not be moved into the room unless the
+7 resident or his or her representative has consented to the use of existing
+8 authorized electronic monitoring.
+9 (f) Notice of the authorized electronic monitoring device shall be
+10 posted at the entrance of the resident's room that the shared room is being
+11 monitored by an authorized electronic monitoring device.
+12
+13 SECTION 2. DO NOT CODIFY. Authorized electronic monitoring device —
+14 Compliance.
+15 (a) The Office of Long-Term Care shall prepare and make available the
+16 written consent forms required by this act sufficiently in advance of the
+17 effective date to be accessible on the website of the office.
+18 (b) A resident or his or her representative presently using an
+19 electronic monitoring device before the effective date of this act shall
+20 comply with all consent and disclosure requirements of this act by the
+21 effective date of this act.
+22
+23 SECTION 3. EFFECTIVE DATE.
+24 This act is effective on and after November 1, 2025.
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+4 03/31/2025 1:06:58 PM JMB021
+[DELETED:          A E D W A   T A U T W A  B   S a S   2  T o   2  A   (]
+[DELETED: S2 0 e f   (    ( a    ( u o   ( t   ( g   (   2  ( o r c r  ( a r m  ( c t   2  ( o f  ( d i  (]
+[DELETED: S3 0 o d w d t   2 r  ( e a  ( p m   2  ( i t h   ( s p   ( a s  ( r e t w  (   ( c   ( a]
+[DELETED: S4 0 t c  ( s  ( o r a  ( p m   S C  ( w e  ( e c e   S  T]
+
+
+================================================================================
+
+Raw Text:
+Stricken language would be deleted from and underlined language would be added to present law.
+1 State of Arkansas
+A Bill
+2 95th General Assembly
+3 Regular Session, 2025 SENATE BILL 587
+4
+5 By: Senator G. Leding
+6 By: Representative Gazaway
+7
+For An Act To Be Entitled
+8
+9 AN ACT TO CREATE THE PARENTS' PEACE OF MIND ACT; TO
+10 ESTABLISH AUTHORIZATION FOR AND USE OF A MONITORING
+11 DEVICE IN A LONG-TERM CARE FACILITY; TO PROVIDE FOR
+12 WAIVERS; TO PROVIDE FOR ENFORCEMENT AND PENALTIES;
+13 AND FOR OTHER PURPOSES.
+14
+15
+Subtitle
+16
+17 TO CREATE THE PARENTS' PEACE OF MIND
+18 ACT; TO ESTABLISH AUTHORIZATION FOR AND
+19 USE OF A MONITORING DEVICE IN A LONG-
+20 TERM CARE FACILITY; TO PROVIDE FOR
+21 WAIVERS; AND TO PROVIDE FOR ENFORCEMENT
+22 AND PENALTIES.
+23
+24 BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF ARKANSAS:
+25
+26 SECTION 1. Arkansas Code Title 20, Chapter 10 is amended to add an
+27 additional subchapter to read as follows:
+28 Subchapter 26 — Parents' Peace of Mind Act
+29
+30 20-10-2601. Title.
+31 This subchapter shall be known and may be cited as the "Parents' Peace
+32 of Mind Act".
+33
+34 20-10-2602. Definitions.
+35 As used in this subchapter:
+36 (1) "Authorized electronic monitoring" means the placement of
+*JMB021*
+03/31/2025 1:06:58 PM JMB021
+
+SB587
+1 electronic monitoring devices in the common areas or room of a resident of a
+2 facility and the recordings from such devices under this subchapter;
+3 (2) "Authorized electronic monitoring devices" means:
+4 (A) Video surveillance cameras installed in the common
+5 areas or room of a resident of a facility under this subchapter; or
+6 (B) Audio devices installed in the room of a resident
+7 under this subchapter that are designed to acquire or record communications
+8 or other sounds occurring in the room;
+9 (3) “Facility” means a long-term care facility that is required
+10 to be licensed under § 20-10-224;
+11 (4) "Representative" means the representative of a resident or
+12 guardian of a resident appointed by a court; and
+13 (5) "Resident” means a person who is a resident of a facility.
+14
+15 20-10-2603. Required notice.
+16 (a) A facility shall provide written notice to each resident or to his
+17 or her representative that authorized electronic monitoring of a resident’s
+18 room conducted under this subchapter is not compulsory and shall only be
+19 conducted with the written consent of the resident or his or her
+20 representative.
+21 (b) A facility shall not refuse to admit an individual to the facility
+22 and shall not remove a resident from a facility because the individual,
+23 resident, or his or her representative does not authorize electronic
+24 monitoring of the resident’s room.
+25 (c) A facility shall post at or near its main entrances a sign that
+26 clearly states that authorized electronic monitoring devices may be in use in
+27 the facility.
+28
+29 20-10-2604. Prohibition on tampering or destruction.
+30 (a) A person or entity shall not purposefully obstruct, tamper with,
+31 or destroy an authorized electronic monitoring device installed in a
+32 facility.
+33 (b) A person or entity that purposefully obstructs, tampers with, or
+34 destroys a recording or an authorized electronic monitoring device installed
+35 in a facility upon conviction is guilty of a Class D felony.
+36 (c) A person or entity shall not intercept a communication or disclose
+2 03/31/2025 1:06:58 PM JMB021
+
+SB587
+1 or use an intercepted communication of an authorized electronic monitoring
+2 device placed or installed in a common area of a facility without the express
+3 written consent of the facility, or, for an authorized electronic monitoring
+4 device installed in a room of the resident, the express written consent of
+5 the resident or his or her representative.
+6
+7 20-10-2605. Authorized electronic monitoring device in private room of
+8 resident.
+9 (a) A resident or his or her representative may install an authorized
+10 electronic monitoring device under this subchapter in his or her private room
+11 at the resident's or representative's own expense.
+12 (b) Notice of the authorized electronic monitoring device shall be
+13 posted at the entrance of the resident's room that the room is being
+14 monitored by an authorized electronic monitoring device.
+15
+16 20-10-2606. Authorized electronic monitoring device in a shared room.
+17 (a)(1) A resident of a shared room or his or her representative may
+18 install an authorized electronic monitoring device under this subchapter in
+19 the shared quarters only with the written consent of each roommate or his or
+20 her representative.
+21 (2) The written consent in subdivision (a)(1) of this section
+22 shall be on a form prescribed by the Office of Long-Term Care and shall be
+23 placed on file with the administrator of the facility.
+24 (3) The office may include other information as deemed
+25 appropriate by the office on the form described in subdivision (a)(2) of this
+26 section.
+27 (b) If a resident residing in a shared room or his or her
+28 representative does not consent to the use or installation of an authorized
+29 electronic monitoring device, the facility shall accommodate the resident or
+30 the representative by moving one or more of the residents to different rooms
+31 within a reasonable amount of time following a request for a room change.
+32 (c) Consent may be limited in the following manner:
+33 (1) That a video surveillance camera be pointed away from the
+34 consenting roommate or his or her portion of the shared room; and
+35 (2) That use of audio or video recordings produced by the
+36 authorized electronic monitoring device that depict the voice or likeness of
+3 03/31/2025 1:06:58 PM JMB021
+
+SB587
+1 the consenting roommate shall not be shared without further consent of the
+2 consenting roommate or his or her representative.
+3 (d) Consent by a roommate or his or her representative under this
+4 section may be revoked at any time.
+5 (e) If authorized electronic monitoring is being conducted in the room
+6 of a resident, another resident may not be moved into the room unless the
+7 resident or his or her representative has consented to the use of existing
+8 authorized electronic monitoring.
+9 (f) Notice of the authorized electronic monitoring device shall be
+10 posted at the entrance of the resident's room that the shared room is being
+11 monitored by an authorized electronic monitoring device.
+12
+13 SECTION 2. DO NOT CODIFY. Authorized electronic monitoring device —
+14 Compliance.
+15 (a) The Office of Long-Term Care shall prepare and make available the
+16 written consent forms required by this act sufficiently in advance of the
+17 effective date to be accessible on the website of the office.
+18 (b) A resident or his or her representative presently using an
+19 electronic monitoring device before the effective date of this act shall
+20 comply with all consent and disclosure requirements of this act by the
+21 effective date of this act.
+22
+23 SECTION 3. EFFECTIVE DATE.
+24 This act is effective on and after November 1, 2025.
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+4 03/31/2025 1:06:58 PM JMB021
+
+[DELETED:          A E D W A   T A U T W A  B   S a S   2  T o   2  A   (]
+[DELETED: S2 0 e f   (    ( a    ( u o   ( t   ( g   (   2  ( o r c r  ( a r m  ( c t   2  ( o f  ( d i  (]
+[DELETED: S3 0 o d w d t   2 r  ( e a  ( p m   2  ( i t h   ( s p   ( a s  ( r e t w  (   ( c   ( a]
+[DELETED: S4 0 t c  ( s  ( o r a  ( p m   S C  ( w e  ( e c e   S  T]

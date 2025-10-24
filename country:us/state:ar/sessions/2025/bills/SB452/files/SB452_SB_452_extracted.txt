@@ -1,0 +1,180 @@
+Title: Stricken language would be deleted from and underlined language would be added to present law.
+Official Title: Stricken language would be deleted from and underlined language would be added to present law.
+Number of Sections: 1
+Source: versions - SB 452
+Media Type: application/pdf
+Strikethrough Detection: 2 sections found
+
+================================================================================
+
+Section 1:
+1 State of Arkansas
+A Bill
+2 95th General Assembly
+3 Regular Session, 2025 SENATE BILL 452
+4
+5 By: Senator B. King
+6
+7
+For An Act To Be Entitled
+8
+9 AN ACT CONCERNING CERTAIN CONTRACTS FOR MAINTENANCE
+10 OR RECYCLING OF WIND TURBINES UNDER CERTAIN
+11 CIRCUMSTANCES; AND FOR OTHER PURPOSES.
+12
+13
+Subtitle
+14
+15 CONCERNING CERTAIN CONTRACTS FOR
+16 MAINTENANCE OR RECYCLING OF WIND
+17 TURBINES UNDER CERTAIN CIRCUMSTANCES.
+18
+19 BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF ARKANSAS:
+20
+21 SECTION 1. Arkansas Code Title 4, Chapter 75, is amended to add an
+22 additional subchapter to read as follows:
+23 Subchapter 15 — Contracts Involving Maintenance or Recycling of Wind Turbines
+24
+25 4-75-1501. Purpose.
+26 The purpose of this subchapter is to ensure that a contract between an
+27 entity and a property owner contains a provision addressing the maintenance
+28 and recycling of a wind turbine.
+29
+30 4-75-1502. Definitions.
+31 (a) As used in this subchapter:
+32 (1) "Maintenance" means the machinery or equipment used to keep
+33 an existing wind turbine in a condition that approaches or equates to the
+34 wind turbine's original condition;
+35 (2) "Recycling" means the collection, decontamination, and
+36 return of materials used to construct, maintain, and deconstruct a wind
+*ANS247*
+03/13/2025 9:40:59 AM ANS247
+SB452
+1 turbine; and
+2 (3)(A) "Wind turbine" means an apparatus over two hundred feet
+3 (200') that is used to convert the kinetic energy of wind into electricity.
+4 (B) "Wind turbine" includes a turbine, blade, tower, base,
+5 and pad transformer, if any.
+6
+7 4-75-1503. Maintenance and recycling wind turbines.
+8 (a) On and after January 1, 2026, a contract between an entity and an
+9 owner of real property for the installation of a wind turbine on real
+10 property in this state is required to include a provision that addresses:
+11 (1) The proper maintenance and recycling of a wind turbine; and
+12 (2) The disposition of the wind turbine if the entity installing
+13 or maintaining the wind turbine is dissolved, declares bankruptcy, or is no
+14 longer able to maintain the wind turbine.
+15 (b) An entity shall agree to assume joint and several liability for
+16 any damages, interest, and penalties that accrue on the part of the owner of
+17 real property for failure to properly maintain and recycle a wind turbine or
+18 to dispose of the wind turbine if the entity is dissolved, declares
+19 bankruptcy, or is no longer able to maintain the wind turbine as part of the
+20 consideration for the contract described under subsection (a) of this
+21 section.
+22
+23 4-75-1504. Enforcement.
+24 (a) A violation of this subchapter shall constitute an unfair or
+25 deceptive act or practice as defined by the Deceptive Trade Practices Act, §
+26 4-88-101 et seq.
+27 (b) All remedies, penalties, and authority granted to the Attorney
+28 General under the Deceptive Trade Practices Act, § 4-88-101 et seq., shall be
+29 available to the Attorney General for the enforcement of this subchapter.
+30
+31
+32
+33
+34
+35
+36
+2 03/13/2025 9:40:59 AM ANS247
+[DELETED:       A O C  C M T  B   S a S   4  T e a   4  (   ( a w   ( r]
+[DELETED: S2 0 t   ( (    ( a   4  ( o p   (   ( o l  ( a r t b c s   4  ( d 4  ( G a       ]
+
+
+================================================================================
+
+Raw Text:
+Stricken language would be deleted from and underlined language would be added to present law.
+1 State of Arkansas
+A Bill
+2 95th General Assembly
+3 Regular Session, 2025 SENATE BILL 452
+4
+5 By: Senator B. King
+6
+7
+For An Act To Be Entitled
+8
+9 AN ACT CONCERNING CERTAIN CONTRACTS FOR MAINTENANCE
+10 OR RECYCLING OF WIND TURBINES UNDER CERTAIN
+11 CIRCUMSTANCES; AND FOR OTHER PURPOSES.
+12
+13
+Subtitle
+14
+15 CONCERNING CERTAIN CONTRACTS FOR
+16 MAINTENANCE OR RECYCLING OF WIND
+17 TURBINES UNDER CERTAIN CIRCUMSTANCES.
+18
+19 BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF ARKANSAS:
+20
+21 SECTION 1. Arkansas Code Title 4, Chapter 75, is amended to add an
+22 additional subchapter to read as follows:
+23 Subchapter 15 — Contracts Involving Maintenance or Recycling of Wind Turbines
+24
+25 4-75-1501. Purpose.
+26 The purpose of this subchapter is to ensure that a contract between an
+27 entity and a property owner contains a provision addressing the maintenance
+28 and recycling of a wind turbine.
+29
+30 4-75-1502. Definitions.
+31 (a) As used in this subchapter:
+32 (1) "Maintenance" means the machinery or equipment used to keep
+33 an existing wind turbine in a condition that approaches or equates to the
+34 wind turbine's original condition;
+35 (2) "Recycling" means the collection, decontamination, and
+36 return of materials used to construct, maintain, and deconstruct a wind
+*ANS247*
+03/13/2025 9:40:59 AM ANS247
+
+SB452
+1 turbine; and
+2 (3)(A) "Wind turbine" means an apparatus over two hundred feet
+3 (200') that is used to convert the kinetic energy of wind into electricity.
+4 (B) "Wind turbine" includes a turbine, blade, tower, base,
+5 and pad transformer, if any.
+6
+7 4-75-1503. Maintenance and recycling wind turbines.
+8 (a) On and after January 1, 2026, a contract between an entity and an
+9 owner of real property for the installation of a wind turbine on real
+10 property in this state is required to include a provision that addresses:
+11 (1) The proper maintenance and recycling of a wind turbine; and
+12 (2) The disposition of the wind turbine if the entity installing
+13 or maintaining the wind turbine is dissolved, declares bankruptcy, or is no
+14 longer able to maintain the wind turbine.
+15 (b) An entity shall agree to assume joint and several liability for
+16 any damages, interest, and penalties that accrue on the part of the owner of
+17 real property for failure to properly maintain and recycle a wind turbine or
+18 to dispose of the wind turbine if the entity is dissolved, declares
+19 bankruptcy, or is no longer able to maintain the wind turbine as part of the
+20 consideration for the contract described under subsection (a) of this
+21 section.
+22
+23 4-75-1504. Enforcement.
+24 (a) A violation of this subchapter shall constitute an unfair or
+25 deceptive act or practice as defined by the Deceptive Trade Practices Act, §
+26 4-88-101 et seq.
+27 (b) All remedies, penalties, and authority granted to the Attorney
+28 General under the Deceptive Trade Practices Act, § 4-88-101 et seq., shall be
+29 available to the Attorney General for the enforcement of this subchapter.
+30
+31
+32
+33
+34
+35
+36
+2 03/13/2025 9:40:59 AM ANS247
+
+[DELETED:       A O C  C M T  B   S a S   4  T e a   4  (   ( a w   ( r]
+[DELETED: S2 0 t   ( (    ( a   4  ( o p   (   ( o l  ( a r t b c s   4  ( d 4  ( G a       ]

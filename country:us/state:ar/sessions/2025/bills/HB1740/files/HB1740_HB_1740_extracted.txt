@@ -1,0 +1,101 @@
+Title: Stricken language would be deleted from and underlined language would be added to present law.
+Official Title: Stricken language would be deleted from and underlined language would be added to present law.
+Number of Sections: 1
+Source: versions - HB 1740
+Media Type: application/pdf
+Strikethrough Detection: 1 sections found
+
+================================================================================
+
+Section 1:
+1 State of Arkansas
+A Bill
+2 95th General Assembly
+3 Regular Session, 2025 HOUSE BILL 1740
+4
+5 By: Representatives K. Moore, Breaux, C. Cooper, Cozart, Hall, Jean, Lynch, McNair, J. Moore, Puryear,
+6 Richmond, Steele, Unger, Vaught, Walker, D. Whitaker
+7 By: Senator Crowell
+8
+For An Act To Be Entitled
+9
+10 AN ACT TO AMEND THE LAW REGARDING AGRICULTURE; TO
+11 EXEMPT CERTAIN AGRICULTURAL INFORMATION FROM THE
+12 FREEDOM OF INFORMATION ACT OF 1967; AND FOR OTHER
+13 PURPOSES.
+14
+15
+Subtitle
+16
+17 TO EXEMPT CERTAIN AGRICULTURAL
+18 INFORMATION FROM THE FREEDOM OF
+19 INFORMATION ACT OF 1967.
+20
+21 BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF ARKANSAS:
+22
+23 SECTION 1. Arkansas Code Title 2, Chapter 33, Subchapter 1, is amended
+24 to add an additional section to read as follows:
+25 2-33-117. Exemption from disclosure.
+26 The following items received by or in the custody of the Department of
+27 Agriculture are not public records and are exempt from examination or
+28 disclosure under the Freedom of Information Act of 1967, § 25-19-101 et seq.:
+29 (1) A certificate of veterinary inspection as defined in § 2-40-
+30 801; and
+31 (2) Personal information obtained from or associated with any
+32 animal electronic identification tag.
+33
+34
+35
+36
+*CRH237*
+03/11/2025 10:02:36 AM CRH237
+[DELETED:       A E F P  T I I  B   S t  2  T A d   ( 8   ( a]
+
+
+================================================================================
+
+Raw Text:
+Stricken language would be deleted from and underlined language would be added to present law.
+1 State of Arkansas
+A Bill
+2 95th General Assembly
+3 Regular Session, 2025 HOUSE BILL 1740
+4
+5 By: Representatives K. Moore, Breaux, C. Cooper, Cozart, Hall, Jean, Lynch, McNair, J. Moore, Puryear,
+6 Richmond, Steele, Unger, Vaught, Walker, D. Whitaker
+7 By: Senator Crowell
+8
+For An Act To Be Entitled
+9
+10 AN ACT TO AMEND THE LAW REGARDING AGRICULTURE; TO
+11 EXEMPT CERTAIN AGRICULTURAL INFORMATION FROM THE
+12 FREEDOM OF INFORMATION ACT OF 1967; AND FOR OTHER
+13 PURPOSES.
+14
+15
+Subtitle
+16
+17 TO EXEMPT CERTAIN AGRICULTURAL
+18 INFORMATION FROM THE FREEDOM OF
+19 INFORMATION ACT OF 1967.
+20
+21 BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF ARKANSAS:
+22
+23 SECTION 1. Arkansas Code Title 2, Chapter 33, Subchapter 1, is amended
+24 to add an additional section to read as follows:
+25 2-33-117. Exemption from disclosure.
+26 The following items received by or in the custody of the Department of
+27 Agriculture are not public records and are exempt from examination or
+28 disclosure under the Freedom of Information Act of 1967, § 25-19-101 et seq.:
+29 (1) A certificate of veterinary inspection as defined in § 2-40-
+30 801; and
+31 (2) Personal information obtained from or associated with any
+32 animal electronic identification tag.
+33
+34
+35
+36
+*CRH237*
+03/11/2025 10:02:36 AM CRH237
+
+[DELETED:       A E F P  T I I  B   S t  2  T A d   ( 8   ( a]

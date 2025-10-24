@@ -1,0 +1,891 @@
+Title: Stricken language would be deleted from and underlined language would be added to present law.
+Official Title: Stricken language would be deleted from and underlined language would be added to present law.
+Number of Sections: 1
+Source: versions - SB 492
+Media Type: application/pdf
+Strikethrough Detection: 11 sections found
+
+================================================================================
+
+Section 1:
+1 State of Arkansas As Engrossed: S4/7/25
+A Bill
+2 95th General Assembly
+3 Regular Session, 2025 SENATE BILL 492
+4
+5 By: Senator J. Bryant
+6 By: Representative Lundstrum
+7
+For An Act To Be Entitled
+8
+9 AN ACT TO AMEND THE LAW CONCERNING THE RELOCATION OF
+10 UTILITY FACILITIES; TO AMEND THE LAW CONCERNING THE
+11 ACQUISITION, CONDEMNATION, AND DISPOSITION OF REAL
+12 PROPERTY BY THE STATE HIGHWAY COMMISSION; TO
+13 ESTABLISH A PROCESS FOR THE RELOCATION OF A UTILITY
+14 FACILITY LOCATED ON A PUBLIC RIGHT OF WAY; AND FOR
+15 OTHER PURPOSES.
+16
+17
+Subtitle
+18
+19 TO AMEND THE LAW CONCERNING THE
+20 RELOCATION OF UTILITY FACILITIES; AND TO
+21 AMEND THE LAW CONCERNING THE
+22 ACQUISITION, CONDEMNATION, AND
+23 DISPOSITION OF REAL PROPERTY BY THE
+24 STATE HIGHWAY COMMISSION.
+25
+26 BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF ARKANSAS:
+27
+28 SECTION 1. Arkansas Code Title 27, Chapter 67, Subchapter 3, is
+29 amended to add additional sections to read as follows:
+30 27-67-325. Relocation of utility facility — Definitions.
+31 (a) As used in this section and § 27-67-326:
+32 (1) "Extraordinary event" means:
+33 (A) An event beyond the reasonable control of a utility;
+34 or
+35 (B) A change of plans that causes a delay in the work of a
+36 utility required under a relocation agreement;
+*ZRC016*
+04-07-2025 20:00:57 ZRC016
+As Engrossed: S4/7/25 SB492
+1 (2)(A) "Municipal utility system" means a utility system owned
+2 or operated by a municipality that provides or removes at least one (1) of
+3 the following:
+4 (i) Electricity;
+5 (ii) Water;
+6 (iii) Wastewater;
+7 (iv) Gas;
+8 (v) Cable television; or
+9 (vi) Broadband service.
+10 (B) "Municipal utility system" includes without limitation
+11 a:
+12 (i) Consolidated waterworks system under the
+13 Consolidated Waterworks Authorization Act, § 25-20-301 et seq.;
+14 (ii) Utility system managed or operated by a
+15 nonprofit corporation under § 14-199-701 et seq.; and
+16 (iii) Utility system owned or operated by a
+17 municipality or by a consolidated utility district under the General
+18 Consolidated Public Utility System Improvement District Law, § 14-217-101 et
+19 seq.;
+20 (3)(A) “Public transportation facility” means a transportation
+21 facility and a right-of-way that serves the public.
+22 (B) "Public transportation facility" includes without
+23 limitation a:
+24 (i) Highway, interstate, freeway, street, or other
+25 road;
+26 (ii) Trail;
+27 (iii) Bicycle trail; and
+28 (iv) Sidewalk or other pedestrian facility;
+29 (4)(A) “Relocation” means the adjustment, removal, or relocation
+30 of a utility facility determined by the Arkansas Department of Transportation
+31 to be necessary or appropriate in connection with the construction or
+32 reconstruction of a public transportation facility.
+33 (B) "Relocation" includes without limitation:
+34 (i) Removing and reinstalling a utility facility,
+35 including a necessary temporary utility facility;
+36 (ii) Moving, rearranging, or changing the type of
+2 04-07-2025 20:00:57 ZRC016
+As Engrossed: S4/7/25 SB492
+1 existing utility facility;
+2 (iii) Taking necessary safety and protective
+3 measures; and
+4 (iv) Constructing a replacement utility facility
+5 that is functionally equivalent to an existing utility facility and necessary
+6 for the continuous operation of the utility service, the project economy, or
+7 the sequence of public transportation facility construction;
+8 (5) "Relocation agreement" means a written agreement between the
+9 department and a utility concerning a specific relocation;
+10 (6) "Relocation proposal" means a formal written submission
+11 prepared by a utility in response to a request from the department concerning
+12 a specific relocation;
+13 (7)(A) “Utility” means a private, public, or cooperative utility
+14 that transmits or distributes communications, including without limitation
+15 cable service and broadband service, electricity, gas, liquids, steam, or
+16 sewerage by means of a utility facility.
+17 (B) "Utility" does not include a railway or railroad
+18 engaged in interstate commerce;
+19 (8) “Utility accommodation rules” means the rules adopted by the
+20 State Highway Commission and administered by the department that:
+21 (A) Address the processes and procedures for a utility to
+22 receive reimbursement for a relocation on public transportation facilities of
+23 the commission; and
+24 (B) Establish the process for permits for the placement of
+25 utility facilities on public transportation facilities of the commission; and
+26 (9) "Utility facility" means a line, facility, or system of a
+27 utility that is used, is available for use, or was formerly used to transmit
+28 or distribute communications, including without limitation cable service and
+29 broadband service, electricity, gas, liquids, steam, water, or sewerage to
+30 the public.
+31 (b)(1) When a utility facility located on a public transportation
+32 facility must be removed, relocated, or adjusted to accommodate a change to a
+33 public transportation facility, the department and the utility shall
+34 negotiate a relocation agreement establishing the reasonable schedule for
+35 relocation and the duties of the department and the utility concerning the
+36 relocation.
+3 04-07-2025 20:00:57 ZRC016
+As Engrossed: S4/7/25 SB492
+1 (2) When negotiating the relocation agreement under subdivision
+2 (b)(1) of this section, the:
+3 (A) Department shall:
+4 (i) Provide written notice to the utility of the
+5 need for the relocation located on the public transportation facility that
+6 shall include:
+7 (a) Plans that clearly identify all known
+8 utilities that own a utility facility that is subject to relocation;
+9 (b) The area of the public transportation
+10 facility the department or commission intends to acquire for the project; and
+11 (c) The proposed right-of-way acquisition and
+12 timeline;
+13 (ii) Provide to the utility the construction plans
+14 for the project that demonstrate the need for the relocation;
+15 (iii) Establish a reasonable date for the submission
+16 of a relocation proposal;
+17 (iv) Coordinate a relocation agreement for the work
+18 to be performed by the utility, including a schedule for the relocation; and
+19 (v) Issue a notice to proceed to the utility to
+20 begin the relocation upon execution of a relocation agreement; and
+21 (B) Utility shall:
+22 (i) Submit to the department a relocation proposal
+23 in accordance with the utility accommodation rules that includes without
+24 limitation:
+25 (a) A plan for the relocation in accordance
+26 with the construction plans for the project provided by the department as
+27 required under subdivision (b)(2)(A)(ii);
+28 (b) A reasonable schedule for the completion
+29 of the relocation;
+30 (c) Reasonable cost estimates for the
+31 relocation; and
+32 (d) A final date all work will be complete for
+33 the relocation;
+34 (ii) Begin and complete the relocation within the
+35 time frame specified in the relocation agreement negotiated under subdivision
+36 (b)(1) of this section; and
+4 04-07-2025 20:00:57 ZRC016
+As Engrossed: S4/7/25 SB492
+1 (iii) Submit a progress report every two (2) months
+2 to the department regarding the status of the relocation after a notice to
+3 proceed is issued under subdivision (c)(1) of this section until the
+4 relocation is complete.
+5 (c)(1) After a relocation agreement is executed under this section,
+6 the department shall issue a notice to proceed with the relocation to the
+7 owner of the utility facility that is the subject of the relocation
+8 agreement.
+9 (2) A notice to proceed issued under subdivision (c)(1) of this
+10 section serves as the formal authorization for the utility to commence work
+11 on the relocation in accordance with terms of the relocation agreement.
+12 (d)(1) If a utility other than a municipal utility system fails to
+13 follow the process established in the utility accommodation rules or the
+14 relocation agreement to complete the relocation within the time period stated
+15 in the relocation agreement, the department may assess and collect a civil
+16 penalty from a utility other than a municipal utility system after:
+17 (A) The department provides notice to the utility under
+18 subdivision (e)(2)(A) of this section; and
+19 (B) The expiration of a thirty-day time period for the
+20 utility to comply with the requirements stated in the utility accommodation
+21 rules or the relocation agreement.
+22 (2) The civil penalty authorized under subdivision (d)(1) of
+23 this section shall be five hundred dollars ($500) for each business day the
+24 utility fails to:
+25 (A) Respond to the written notice to the utility of the
+26 need for the relocation located on the public transportation facility
+27 provided under subdivision (b)(2)(A)(i) of this section;
+28 (B) Enter into negotiations for a relocation agreement
+29 between the department and the utility; or
+30 (C)(i) Comply with a relocation agreement to which the
+31 utility is a party, including completing the work according to the schedule
+32 in the relocation agreement.
+33 (ii) A civil penalty shall not be assessed under
+34 this subdivision (d)(2)(C) if the utility does not meet the agreed-upon
+35 schedule but meets the final relocation completion date in the relocation
+36 agreement.
+5 04-07-2025 20:00:57 ZRC016
+As Engrossed: S4/7/25 SB492
+1 (iii) A civil penalty may be assessed under this
+2 subdivision (d)(2)(C) if a utility fails to:
+3 (a) Act in good faith to comply with the
+4 relocation agreement; or
+5 (b) Request a reasonable modification of the
+6 schedule.
+7 (e)(1) A civil penalty shall not be assessed under subsection (d) for
+8 a delay that is the result of:
+9 (A) An extraordinary event;
+10 (B) Excavation that damages an underground utility
+11 facility for which:
+12 (i) The owner of the utility facility was not
+13 provided notice of the intent to excavate; or
+14 (ii) The utility facility was not located and marked
+15 properly under the Arkansas Underground Facilities Damage Prevention Act, §
+16 14-271-101 et seq.; or
+17 (C) A delay in acquiring right-of-way after a good faith
+18 effort by the utility to complete the acquisition of the right-of-way.
+19 (2)(A) The department shall give a utility written notice of the
+20 intent to assess a civil penalty under this subsection and an opportunity to
+21 appeal the department’s decision and show cause why the civil penalty should
+22 not be assessed.
+23 (B) Upon a finding that a civil penalty should be assessed
+24 under subsection (d) of this section, the department shall issue an
+25 appropriate order to the utility.
+26 (C) If a civil penalty has not been paid in full within
+27 ninety (90) days after the entry of an order under subdivision (e)(3)(B) of
+28 this section, the civil penalty may be:
+29 (i) Deducted from the final reimbursement payment by
+30 the department to the utility; or
+31 (ii) Subject to a collection action.
+32 (3) An appeal of a decision to assess a civil penalty under this
+33 subsection (e) shall be in accordance with the utility accommodation rules
+34 and the Arkansas Administrative Procedure Act, § 25-15-201 et seq.
+35 (4) Moneys collected as civil penalties under this subsection
+36 (e) shall be paid into the State Highway and Transportation Department Fund
+6 04-07-2025 20:00:57 ZRC016
+As Engrossed: S4/7/25 SB492
+1 and designated for use in a utility relocation grant and loan program to be
+2 established by the department for the purpose of providing a grant or loan to
+3 a small utility for a relocation that is nonreimbursable.
+4 (f)(1) If a municipal utility system fails to follow the process
+5 established in the utility accommodation rules or the relocation agreement to
+6 complete a relocation within the time period stated in the relocation
+7 agreement, the department may relocate the utility facility that is the
+8 subject of the relocation agreement.
+9 (2) If the department relocates a utility facility under
+10 subdivision (f)(1) of this section, the department may enter into a contract
+11 to complete the engineering, relocation, or other work required to relocate
+12 the utility facility of a municipal utility system after providing written
+13 notice to the municipal utility system.
+14 (3)(A)(i) If within ten (10) days of the receipt of written
+15 notice from the department under subdivision (f)(2) of this section, the
+16 municipal utility system provides the department with a list of three (3) or
+17 more approved engineers and three (3) or more approved contractors to perform
+18 the relocation or design specifications for the utility facility that is to
+19 be relocated, the department shall enter into a contract only with an
+20 engineer or contractor contained in the list to perform the relocation.
+21 (ii) The department shall not enter into a contract
+22 with an engineer or contractor who does not comply with the procurement
+23 process of the department.
+24 (B) If within ten (10) days of the receipt of written
+25 notice from the department under subdivision (f)(2) of this section, the
+26 municipal utility system provides the department with design specifications
+27 for the utility facility that is to be relocated, then the department shall
+28 require compliance with the design specifications in the contract for the
+29 relocation.
+30 (4) A contract entered into by the department to relocate a
+31 utility facility of a municipal utility system under this subsection shall
+32 identify the municipal utility system as the beneficiary of the contract.
+33 (5) A municipal utility system that has entered into a contract
+34 with the department to relocate a utility system of the municipal utility
+35 system under this subsection may:
+36 (A) Inspect the relocation of the utility facility;
+7 04-07-2025 20:00:57 ZRC016
+As Engrossed: S4/7/25 SB492
+1 (B) Inspect an underground utility facility before it is
+2 covered; and
+3 (C) Pursue a claim against a person or entity other than
+4 the department based on the relocation of the utility facility whether
+5 provided under the contract with the department or by law.
+6 (6) Within ninety (90) days of the receipt of a written invoice
+7 from the department for the cost of a relocation under this subsection, a
+8 municipal utility system shall:
+9 (A) Pay to the department the non-reimbursable portion of
+10 the cost of the relocation that the municipal utility system does not
+11 dispute; and
+12 (B) Enter into a dispute resolution process with the
+13 department for any disputed portion of the invoice.
+14 (7) If a municipal utility system fails to comply with
+15 subdivision (f)(6) of this section, the department may offset and collect the
+16 amount owed by the municipal utility system from any funds administered by
+17 the department for disbursement to the municipality, including without
+18 limitation turnback and state aid street funds that may be lawfully applied
+19 to the relocation costs.
+20 (g) A municipal utility system may agree to the relocation of a
+21 utility facility of the municipal utility system by the department using the
+22 process provided in subsection (f) of this section.
+23 (h)(1) The department shall not act under subsection (d) or subsection
+24 (f) of this section if an extraordinary event prevents the completion of a
+25 relocation within the time frame specified in the relocation agreement.
+26 (2) If an extraordinary event occurs under subdivision (h)(1) of
+27 this section, the utility shall provide the department with a:
+28 (A) Written notice of the extraordinary event; and
+29 (B) Revised relocation proposal and schedule under
+30 subdivision (b)(2)(B)(i) of this section.
+31 (3) Upon receipt of a written notice under subdivision (h)(2) of
+32 this section, the department shall issue a modification to the relocation
+33 agreement reflecting a new date for the completion of the relocation as
+34 determined by the department.
+35 (i) The department shall promulgate rules for the implementation of
+36 this section.
+8 04-07-2025 20:00:57 ZRC016
+As Engrossed: S4/7/25 SB492
+1
+2 27-67-326. Relocation of utility facility — Rules.
+3 (a)(1) Utility accommodation rules adopted by the State Highway
+4 Commission concerning relocation under § 27-67-325 shall include without
+5 limitation the relocation coordination process between the Arkansas
+6 Department of Transportation and the utility.
+7 (2) Rules concerning the relocation coordination process between
+8 the department and the utility shall include without limitation that:
+9 (A) The department shall schedule a meeting with the owner
+10 of the utility facility at a time mutually convenient for both parties; and
+11 (B) Before a meeting under subdivision (a)(2)(A) of this
+12 section, the department shall provide the owner of the utility facility with
+13 plans for a proposed relocation.
+14 (3) The plans for a proposed relocation under subdivision
+15 (a)(2)(B) of this section shall:
+16 (A) Clearly indicate:
+17 (i) All identified existing utilities affected by
+18 the relocation; and
+19 (ii) The right-of-way the department intends to
+20 acquire for the relocation; and
+21 (B) Use criteria that satisfy Subsurface Utility
+22 Engineering Quality Level C or better.
+23 (4) During a meeting under subdivision (a)(2)(A) of this
+24 section, the department and the owner of the utility facility shall:
+25 (A) Identify the scope of utility facilities that will be
+26 subject to relocation;
+27 (B) Discuss:
+28 (i) Proposed arrangements for the relocation,
+29 including any right-of-way provided by the department for relocation;
+30 (ii) The expected cost of the relocation; and
+31 (iii) A deadline by which the owner of the utility
+32 facility shall submit a relocation proposal to the department; and
+33 (C) Agree upon the number of days required for the
+34 relocation.
+35 (5)(A) The department shall provide the utility with a written
+36 report summarizing the decisions made and agreements reached during the
+9 04-07-2025 20:00:57 ZRC016
+As Engrossed: S4/7/25 SB492
+1 meeting held under subdivision (a)(2)(A) of this section.
+2 (B) The report provided under subdivision (a)(5)(A) of
+3 this section shall serve as the basis for the relocation proposal.
+4 (b)(1) The rules promulgated by the department concerning a relocation
+5 under § 27-67-325 shall include without limitation:
+6 (A) The process for the creation of a relocation proposal
+7 and relocation agreement; and
+8 (B) The procedure for the reimbursement of the costs of a
+9 relocation.
+10 (2) The rules for a relocation proposal shall include without
+11 limitation that a relocation proposal:
+12 (A) Be provided to each party in written form;
+13 (B) Be signed by the authorized representatives of the
+14 department and the utility; and
+15 (C) Include:
+16 (i) The plan for the relocation;
+17 (ii) The schedule for the utility to complete the
+18 relocation;
+19 (iii) A cost estimate for the relocation;
+20 (iv) Deadlines for the commencement and completion
+21 of the relocation; and
+22 (v) The estimated cost of reimbursement by the
+23 department for the relocation.
+24 (3)(A) The rules for a relocation agreement shall include that a
+25 relocation agreement may be modified if:
+26 (i) An extraordinary event occurs; and
+27 (ii) Either party requests a modification to the
+28 relocation agreement.
+29 (B) The modification of a relocation agreement shall:
+30 (i) Be documented in writing;
+31 (ii) Include updated timelines, costs, or other
+32 relevant terms; and
+33 (iii) Be approved by both parties.
+34 (4) Rules for the reimbursement of the costs for a relocation
+35 shall include without limitation that the:
+36 (A) Utility owner may submit an invoice for the
+10 04-07-2025 20:00:57 ZRC016
+As Engrossed: S4/7/25 SB492
+1 reimbursement of costs to the department upon completion of the relocation;
+2 (B) Invoice for the reimbursement of costs for the
+3 relocation shall reflect all costs and expenses incurred by the utility for
+4 the relocation; and
+5 (C) Department shall pay a complete invoice submitted
+6 under subdivision (b)(4)(A) of this section within ninety (90) days of
+7 receipt of the complete invoice by the department.
+8
+9 /s/J. Bryant
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+11 04-07-2025 20:00:57 ZRC016
+[DELETED:  A   EBL4     A U A P E F O   T R A A D S  B   S a  2  (   (    ( o    ( u]
+[DELETED:  S2 0   ( o t     (     (     (     (     (     (    ( a     ( C     ( n     ( m C s   ( f    ( l     ( r     (     (     (   ( o t r    (     ( i     (]
+[DELETED:  S3 0 e     ( m     ( t f t   ( d   ( p a   ( t c s    ( e   ( S    ( r t    ( u   ( u o b t  ( f p n r r]
+[DELETED:  S4 0   ( (    (     ( n s      ( u      ( f      ( t     ( f     ( o     ( t     ( b    (     ( i l      ( w r      ( o      ( r      ( t     ( t (]
+[DELETED:  S5 0     ( t p r  ( t o a   ( s o  ( f r i p    ( s    ( u r   ( t u    ( n p    ( b    ( u i     ( t s a]
+[DELETED:  S6 0     ( s      ( r      ( s  ( a    (    ( f     ( p     ( p 1    ( e   ( i a n    ( u a    ( n t     ( t     (   ( s a   ( (]
+[DELETED:  S7 0 a e a  ( e c a s   ( s t t n   ( n m m t b e     ( w p    ( n m f r r   ( u i   ( w s    (]
+[DELETED:  S8 0    ( c    ( t p   ( f m    ( t d    ( d   ( s a t l t  ( u p  ( ( r   ( t    (    ( s   ( t a d  ( t]
+[DELETED:  S9 0   2  ( C l D   ( t    ( o    ( s p   ( (    (     ( t     ( a    ( E   ( s    ( s    (     ( i     (     ( f    ( r   ( r]
+[DELETED:  S1 0 m    ( t  ( u    ( a    ( r   ( l    (    ( d    (     (     ( r     (     ( o     ( d   ( r     (     ( r    (     (     ( r     (   ( s    (]
+[DELETED:  S1 0 r    ( r t    ( u r  /                           ]
+
+
+================================================================================
+
+Raw Text:
+Stricken language would be deleted from and underlined language would be added to present law.
+1 State of Arkansas As Engrossed: S4/7/25
+A Bill
+2 95th General Assembly
+3 Regular Session, 2025 SENATE BILL 492
+4
+5 By: Senator J. Bryant
+6 By: Representative Lundstrum
+7
+For An Act To Be Entitled
+8
+9 AN ACT TO AMEND THE LAW CONCERNING THE RELOCATION OF
+10 UTILITY FACILITIES; TO AMEND THE LAW CONCERNING THE
+11 ACQUISITION, CONDEMNATION, AND DISPOSITION OF REAL
+12 PROPERTY BY THE STATE HIGHWAY COMMISSION; TO
+13 ESTABLISH A PROCESS FOR THE RELOCATION OF A UTILITY
+14 FACILITY LOCATED ON A PUBLIC RIGHT OF WAY; AND FOR
+15 OTHER PURPOSES.
+16
+17
+Subtitle
+18
+19 TO AMEND THE LAW CONCERNING THE
+20 RELOCATION OF UTILITY FACILITIES; AND TO
+21 AMEND THE LAW CONCERNING THE
+22 ACQUISITION, CONDEMNATION, AND
+23 DISPOSITION OF REAL PROPERTY BY THE
+24 STATE HIGHWAY COMMISSION.
+25
+26 BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF ARKANSAS:
+27
+28 SECTION 1. Arkansas Code Title 27, Chapter 67, Subchapter 3, is
+29 amended to add additional sections to read as follows:
+30 27-67-325. Relocation of utility facility — Definitions.
+31 (a) As used in this section and § 27-67-326:
+32 (1) "Extraordinary event" means:
+33 (A) An event beyond the reasonable control of a utility;
+34 or
+35 (B) A change of plans that causes a delay in the work of a
+36 utility required under a relocation agreement;
+*ZRC016*
+04-07-2025 20:00:57 ZRC016
+
+As Engrossed: S4/7/25 SB492
+1 (2)(A) "Municipal utility system" means a utility system owned
+2 or operated by a municipality that provides or removes at least one (1) of
+3 the following:
+4 (i) Electricity;
+5 (ii) Water;
+6 (iii) Wastewater;
+7 (iv) Gas;
+8 (v) Cable television; or
+9 (vi) Broadband service.
+10 (B) "Municipal utility system" includes without limitation
+11 a:
+12 (i) Consolidated waterworks system under the
+13 Consolidated Waterworks Authorization Act, § 25-20-301 et seq.;
+14 (ii) Utility system managed or operated by a
+15 nonprofit corporation under § 14-199-701 et seq.; and
+16 (iii) Utility system owned or operated by a
+17 municipality or by a consolidated utility district under the General
+18 Consolidated Public Utility System Improvement District Law, § 14-217-101 et
+19 seq.;
+20 (3)(A) “Public transportation facility” means a transportation
+21 facility and a right-of-way that serves the public.
+22 (B) "Public transportation facility" includes without
+23 limitation a:
+24 (i) Highway, interstate, freeway, street, or other
+25 road;
+26 (ii) Trail;
+27 (iii) Bicycle trail; and
+28 (iv) Sidewalk or other pedestrian facility;
+29 (4)(A) “Relocation” means the adjustment, removal, or relocation
+30 of a utility facility determined by the Arkansas Department of Transportation
+31 to be necessary or appropriate in connection with the construction or
+32 reconstruction of a public transportation facility.
+33 (B) "Relocation" includes without limitation:
+34 (i) Removing and reinstalling a utility facility,
+35 including a necessary temporary utility facility;
+36 (ii) Moving, rearranging, or changing the type of
+2 04-07-2025 20:00:57 ZRC016
+
+As Engrossed: S4/7/25 SB492
+1 existing utility facility;
+2 (iii) Taking necessary safety and protective
+3 measures; and
+4 (iv) Constructing a replacement utility facility
+5 that is functionally equivalent to an existing utility facility and necessary
+6 for the continuous operation of the utility service, the project economy, or
+7 the sequence of public transportation facility construction;
+8 (5) "Relocation agreement" means a written agreement between the
+9 department and a utility concerning a specific relocation;
+10 (6) "Relocation proposal" means a formal written submission
+11 prepared by a utility in response to a request from the department concerning
+12 a specific relocation;
+13 (7)(A) “Utility” means a private, public, or cooperative utility
+14 that transmits or distributes communications, including without limitation
+15 cable service and broadband service, electricity, gas, liquids, steam, or
+16 sewerage by means of a utility facility.
+17 (B) "Utility" does not include a railway or railroad
+18 engaged in interstate commerce;
+19 (8) “Utility accommodation rules” means the rules adopted by the
+20 State Highway Commission and administered by the department that:
+21 (A) Address the processes and procedures for a utility to
+22 receive reimbursement for a relocation on public transportation facilities of
+23 the commission; and
+24 (B) Establish the process for permits for the placement of
+25 utility facilities on public transportation facilities of the commission; and
+26 (9) "Utility facility" means a line, facility, or system of a
+27 utility that is used, is available for use, or was formerly used to transmit
+28 or distribute communications, including without limitation cable service and
+29 broadband service, electricity, gas, liquids, steam, water, or sewerage to
+30 the public.
+31 (b)(1) When a utility facility located on a public transportation
+32 facility must be removed, relocated, or adjusted to accommodate a change to a
+33 public transportation facility, the department and the utility shall
+34 negotiate a relocation agreement establishing the reasonable schedule for
+35 relocation and the duties of the department and the utility concerning the
+36 relocation.
+3 04-07-2025 20:00:57 ZRC016
+
+As Engrossed: S4/7/25 SB492
+1 (2) When negotiating the relocation agreement under subdivision
+2 (b)(1) of this section, the:
+3 (A) Department shall:
+4 (i) Provide written notice to the utility of the
+5 need for the relocation located on the public transportation facility that
+6 shall include:
+7 (a) Plans that clearly identify all known
+8 utilities that own a utility facility that is subject to relocation;
+9 (b) The area of the public transportation
+10 facility the department or commission intends to acquire for the project; and
+11 (c) The proposed right-of-way acquisition and
+12 timeline;
+13 (ii) Provide to the utility the construction plans
+14 for the project that demonstrate the need for the relocation;
+15 (iii) Establish a reasonable date for the submission
+16 of a relocation proposal;
+17 (iv) Coordinate a relocation agreement for the work
+18 to be performed by the utility, including a schedule for the relocation; and
+19 (v) Issue a notice to proceed to the utility to
+20 begin the relocation upon execution of a relocation agreement; and
+21 (B) Utility shall:
+22 (i) Submit to the department a relocation proposal
+23 in accordance with the utility accommodation rules that includes without
+24 limitation:
+25 (a) A plan for the relocation in accordance
+26 with the construction plans for the project provided by the department as
+27 required under subdivision (b)(2)(A)(ii);
+28 (b) A reasonable schedule for the completion
+29 of the relocation;
+30 (c) Reasonable cost estimates for the
+31 relocation; and
+32 (d) A final date all work will be complete for
+33 the relocation;
+34 (ii) Begin and complete the relocation within the
+35 time frame specified in the relocation agreement negotiated under subdivision
+36 (b)(1) of this section; and
+4 04-07-2025 20:00:57 ZRC016
+
+As Engrossed: S4/7/25 SB492
+1 (iii) Submit a progress report every two (2) months
+2 to the department regarding the status of the relocation after a notice to
+3 proceed is issued under subdivision (c)(1) of this section until the
+4 relocation is complete.
+5 (c)(1) After a relocation agreement is executed under this section,
+6 the department shall issue a notice to proceed with the relocation to the
+7 owner of the utility facility that is the subject of the relocation
+8 agreement.
+9 (2) A notice to proceed issued under subdivision (c)(1) of this
+10 section serves as the formal authorization for the utility to commence work
+11 on the relocation in accordance with terms of the relocation agreement.
+12 (d)(1) If a utility other than a municipal utility system fails to
+13 follow the process established in the utility accommodation rules or the
+14 relocation agreement to complete the relocation within the time period stated
+15 in the relocation agreement, the department may assess and collect a civil
+16 penalty from a utility other than a municipal utility system after:
+17 (A) The department provides notice to the utility under
+18 subdivision (e)(2)(A) of this section; and
+19 (B) The expiration of a thirty-day time period for the
+20 utility to comply with the requirements stated in the utility accommodation
+21 rules or the relocation agreement.
+22 (2) The civil penalty authorized under subdivision (d)(1) of
+23 this section shall be five hundred dollars ($500) for each business day the
+24 utility fails to:
+25 (A) Respond to the written notice to the utility of the
+26 need for the relocation located on the public transportation facility
+27 provided under subdivision (b)(2)(A)(i) of this section;
+28 (B) Enter into negotiations for a relocation agreement
+29 between the department and the utility; or
+30 (C)(i) Comply with a relocation agreement to which the
+31 utility is a party, including completing the work according to the schedule
+32 in the relocation agreement.
+33 (ii) A civil penalty shall not be assessed under
+34 this subdivision (d)(2)(C) if the utility does not meet the agreed-upon
+35 schedule but meets the final relocation completion date in the relocation
+36 agreement.
+5 04-07-2025 20:00:57 ZRC016
+
+As Engrossed: S4/7/25 SB492
+1 (iii) A civil penalty may be assessed under this
+2 subdivision (d)(2)(C) if a utility fails to:
+3 (a) Act in good faith to comply with the
+4 relocation agreement; or
+5 (b) Request a reasonable modification of the
+6 schedule.
+7 (e)(1) A civil penalty shall not be assessed under subsection (d) for
+8 a delay that is the result of:
+9 (A) An extraordinary event;
+10 (B) Excavation that damages an underground utility
+11 facility for which:
+12 (i) The owner of the utility facility was not
+13 provided notice of the intent to excavate; or
+14 (ii) The utility facility was not located and marked
+15 properly under the Arkansas Underground Facilities Damage Prevention Act, §
+16 14-271-101 et seq.; or
+17 (C) A delay in acquiring right-of-way after a good faith
+18 effort by the utility to complete the acquisition of the right-of-way.
+19 (2)(A) The department shall give a utility written notice of the
+20 intent to assess a civil penalty under this subsection and an opportunity to
+21 appeal the department’s decision and show cause why the civil penalty should
+22 not be assessed.
+23 (B) Upon a finding that a civil penalty should be assessed
+24 under subsection (d) of this section, the department shall issue an
+25 appropriate order to the utility.
+26 (C) If a civil penalty has not been paid in full within
+27 ninety (90) days after the entry of an order under subdivision (e)(3)(B) of
+28 this section, the civil penalty may be:
+29 (i) Deducted from the final reimbursement payment by
+30 the department to the utility; or
+31 (ii) Subject to a collection action.
+32 (3) An appeal of a decision to assess a civil penalty under this
+33 subsection (e) shall be in accordance with the utility accommodation rules
+34 and the Arkansas Administrative Procedure Act, § 25-15-201 et seq.
+35 (4) Moneys collected as civil penalties under this subsection
+36 (e) shall be paid into the State Highway and Transportation Department Fund
+6 04-07-2025 20:00:57 ZRC016
+
+As Engrossed: S4/7/25 SB492
+1 and designated for use in a utility relocation grant and loan program to be
+2 established by the department for the purpose of providing a grant or loan to
+3 a small utility for a relocation that is nonreimbursable.
+4 (f)(1) If a municipal utility system fails to follow the process
+5 established in the utility accommodation rules or the relocation agreement to
+6 complete a relocation within the time period stated in the relocation
+7 agreement, the department may relocate the utility facility that is the
+8 subject of the relocation agreement.
+9 (2) If the department relocates a utility facility under
+10 subdivision (f)(1) of this section, the department may enter into a contract
+11 to complete the engineering, relocation, or other work required to relocate
+12 the utility facility of a municipal utility system after providing written
+13 notice to the municipal utility system.
+14 (3)(A)(i) If within ten (10) days of the receipt of written
+15 notice from the department under subdivision (f)(2) of this section, the
+16 municipal utility system provides the department with a list of three (3) or
+17 more approved engineers and three (3) or more approved contractors to perform
+18 the relocation or design specifications for the utility facility that is to
+19 be relocated, the department shall enter into a contract only with an
+20 engineer or contractor contained in the list to perform the relocation.
+21 (ii) The department shall not enter into a contract
+22 with an engineer or contractor who does not comply with the procurement
+23 process of the department.
+24 (B) If within ten (10) days of the receipt of written
+25 notice from the department under subdivision (f)(2) of this section, the
+26 municipal utility system provides the department with design specifications
+27 for the utility facility that is to be relocated, then the department shall
+28 require compliance with the design specifications in the contract for the
+29 relocation.
+30 (4) A contract entered into by the department to relocate a
+31 utility facility of a municipal utility system under this subsection shall
+32 identify the municipal utility system as the beneficiary of the contract.
+33 (5) A municipal utility system that has entered into a contract
+34 with the department to relocate a utility system of the municipal utility
+35 system under this subsection may:
+36 (A) Inspect the relocation of the utility facility;
+7 04-07-2025 20:00:57 ZRC016
+
+As Engrossed: S4/7/25 SB492
+1 (B) Inspect an underground utility facility before it is
+2 covered; and
+3 (C) Pursue a claim against a person or entity other than
+4 the department based on the relocation of the utility facility whether
+5 provided under the contract with the department or by law.
+6 (6) Within ninety (90) days of the receipt of a written invoice
+7 from the department for the cost of a relocation under this subsection, a
+8 municipal utility system shall:
+9 (A) Pay to the department the non-reimbursable portion of
+10 the cost of the relocation that the municipal utility system does not
+11 dispute; and
+12 (B) Enter into a dispute resolution process with the
+13 department for any disputed portion of the invoice.
+14 (7) If a municipal utility system fails to comply with
+15 subdivision (f)(6) of this section, the department may offset and collect the
+16 amount owed by the municipal utility system from any funds administered by
+17 the department for disbursement to the municipality, including without
+18 limitation turnback and state aid street funds that may be lawfully applied
+19 to the relocation costs.
+20 (g) A municipal utility system may agree to the relocation of a
+21 utility facility of the municipal utility system by the department using the
+22 process provided in subsection (f) of this section.
+23 (h)(1) The department shall not act under subsection (d) or subsection
+24 (f) of this section if an extraordinary event prevents the completion of a
+25 relocation within the time frame specified in the relocation agreement.
+26 (2) If an extraordinary event occurs under subdivision (h)(1) of
+27 this section, the utility shall provide the department with a:
+28 (A) Written notice of the extraordinary event; and
+29 (B) Revised relocation proposal and schedule under
+30 subdivision (b)(2)(B)(i) of this section.
+31 (3) Upon receipt of a written notice under subdivision (h)(2) of
+32 this section, the department shall issue a modification to the relocation
+33 agreement reflecting a new date for the completion of the relocation as
+34 determined by the department.
+35 (i) The department shall promulgate rules for the implementation of
+36 this section.
+8 04-07-2025 20:00:57 ZRC016
+
+As Engrossed: S4/7/25 SB492
+1
+2 27-67-326. Relocation of utility facility — Rules.
+3 (a)(1) Utility accommodation rules adopted by the State Highway
+4 Commission concerning relocation under § 27-67-325 shall include without
+5 limitation the relocation coordination process between the Arkansas
+6 Department of Transportation and the utility.
+7 (2) Rules concerning the relocation coordination process between
+8 the department and the utility shall include without limitation that:
+9 (A) The department shall schedule a meeting with the owner
+10 of the utility facility at a time mutually convenient for both parties; and
+11 (B) Before a meeting under subdivision (a)(2)(A) of this
+12 section, the department shall provide the owner of the utility facility with
+13 plans for a proposed relocation.
+14 (3) The plans for a proposed relocation under subdivision
+15 (a)(2)(B) of this section shall:
+16 (A) Clearly indicate:
+17 (i) All identified existing utilities affected by
+18 the relocation; and
+19 (ii) The right-of-way the department intends to
+20 acquire for the relocation; and
+21 (B) Use criteria that satisfy Subsurface Utility
+22 Engineering Quality Level C or better.
+23 (4) During a meeting under subdivision (a)(2)(A) of this
+24 section, the department and the owner of the utility facility shall:
+25 (A) Identify the scope of utility facilities that will be
+26 subject to relocation;
+27 (B) Discuss:
+28 (i) Proposed arrangements for the relocation,
+29 including any right-of-way provided by the department for relocation;
+30 (ii) The expected cost of the relocation; and
+31 (iii) A deadline by which the owner of the utility
+32 facility shall submit a relocation proposal to the department; and
+33 (C) Agree upon the number of days required for the
+34 relocation.
+35 (5)(A) The department shall provide the utility with a written
+36 report summarizing the decisions made and agreements reached during the
+9 04-07-2025 20:00:57 ZRC016
+
+As Engrossed: S4/7/25 SB492
+1 meeting held under subdivision (a)(2)(A) of this section.
+2 (B) The report provided under subdivision (a)(5)(A) of
+3 this section shall serve as the basis for the relocation proposal.
+4 (b)(1) The rules promulgated by the department concerning a relocation
+5 under § 27-67-325 shall include without limitation:
+6 (A) The process for the creation of a relocation proposal
+7 and relocation agreement; and
+8 (B) The procedure for the reimbursement of the costs of a
+9 relocation.
+10 (2) The rules for a relocation proposal shall include without
+11 limitation that a relocation proposal:
+12 (A) Be provided to each party in written form;
+13 (B) Be signed by the authorized representatives of the
+14 department and the utility; and
+15 (C) Include:
+16 (i) The plan for the relocation;
+17 (ii) The schedule for the utility to complete the
+18 relocation;
+19 (iii) A cost estimate for the relocation;
+20 (iv) Deadlines for the commencement and completion
+21 of the relocation; and
+22 (v) The estimated cost of reimbursement by the
+23 department for the relocation.
+24 (3)(A) The rules for a relocation agreement shall include that a
+25 relocation agreement may be modified if:
+26 (i) An extraordinary event occurs; and
+27 (ii) Either party requests a modification to the
+28 relocation agreement.
+29 (B) The modification of a relocation agreement shall:
+30 (i) Be documented in writing;
+31 (ii) Include updated timelines, costs, or other
+32 relevant terms; and
+33 (iii) Be approved by both parties.
+34 (4) Rules for the reimbursement of the costs for a relocation
+35 shall include without limitation that the:
+36 (A) Utility owner may submit an invoice for the
+10 04-07-2025 20:00:57 ZRC016
+
+As Engrossed: S4/7/25 SB492
+1 reimbursement of costs to the department upon completion of the relocation;
+2 (B) Invoice for the reimbursement of costs for the
+3 relocation shall reflect all costs and expenses incurred by the utility for
+4 the relocation; and
+5 (C) Department shall pay a complete invoice submitted
+6 under subdivision (b)(4)(A) of this section within ninety (90) days of
+7 receipt of the complete invoice by the department.
+8
+9 /s/J. Bryant
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+11 04-07-2025 20:00:57 ZRC016
+
+[DELETED:  A   EBL4     A U A P E F O   T R A A D S  B   S a  2  (   (    ( o    ( u]
+[DELETED:  S2 0   ( o t     (     (     (     (     (     (    ( a     ( C     ( n     ( m C s   ( f    ( l     ( r     (     (     (   ( o t r    (     ( i     (]
+[DELETED:  S3 0 e     ( m     ( t f t   ( d   ( p a   ( t c s    ( e   ( S    ( r t    ( u   ( u o b t  ( f p n r r]
+[DELETED:  S4 0   ( (    (     ( n s      ( u      ( f      ( t     ( f     ( o     ( t     ( b    (     ( i l      ( w r      ( o      ( r      ( t     ( t (]
+[DELETED:  S5 0     ( t p r  ( t o a   ( s o  ( f r i p    ( s    ( u r   ( t u    ( n p    ( b    ( u i     ( t s a]
+[DELETED:  S6 0     ( s      ( r      ( s  ( a    (    ( f     ( p     ( p 1    ( e   ( i a n    ( u a    ( n t     ( t     (   ( s a   ( (]
+[DELETED:  S7 0 a e a  ( e c a s   ( s t t n   ( n m m t b e     ( w p    ( n m f r r   ( u i   ( w s    (]
+[DELETED:  S8 0    ( c    ( t p   ( f m    ( t d    ( d   ( s a t l t  ( u p  ( ( r   ( t    (    ( s   ( t a d  ( t]
+[DELETED:  S9 0   2  ( C l D   ( t    ( o    ( s p   ( (    (     ( t     ( a    ( E   ( s    ( s    (     ( i     (     ( f    ( r   ( r]
+[DELETED:  S1 0 m    ( t  ( u    ( a    ( r   ( l    (    ( d    (     (     ( r     (     ( o     ( d   ( r     (     ( r    (     (     ( r     (   ( s    (]
+[DELETED:  S1 0 r    ( r t    ( u r  /                           ]

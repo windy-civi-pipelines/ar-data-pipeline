@@ -1,0 +1,57 @@
+Title: ______________________________________________________________________
+Official Title: ______________________________________________________________________
+Number of Sections: 1
+Source: versions - Amendment H1
+Media Type: application/pdf
+Strikethrough Detection: 1 sections found
+
+================================================================================
+
+Section 1:
+Hall of the House of Representatives
+95th General Assembly - Regular Session, 2025
+Amendment Form
+Subtitle of House Bill 1275
+TO PROHIBIT PRIOR AUTHORIZATIONS FOR HEALTHCARE SERVICES PROVIDED
+FOR TREATMENT OF A MENTAL HEALTH CRISIS.
+______________________________________________________________________
+Amendment No. 1 to House Bill 1275
+Amend House Bill 1275 as originally introduced:
+Page 2, delete lines 21 and 22, and substitute the following:
+"(A) At a crisis stabilization unit or any other program
+designed to provide immediate crisis services; or
+(B) By a healthcare provider in an emergency department;
+and"
+*.ANS289*
+The Amendment was read ________________________________________________________________________________
+By: Representative Cavenaugh
+ANS/ANS - 02-24-2025 12:42:56 _________________________
+ANS289 Chief Clerk
+[DELETED:  _ CA    "  (]
+
+
+================================================================================
+
+Raw Text:
+Hall of the House of Representatives
+95th General Assembly - Regular Session, 2025
+Amendment Form
+______________________________________________________________________
+Subtitle of House Bill 1275
+TO PROHIBIT PRIOR AUTHORIZATIONS FOR HEALTHCARE SERVICES PROVIDED
+FOR TREATMENT OF A MENTAL HEALTH CRISIS.
+______________________________________________________________________
+Amendment No. 1 to House Bill 1275
+Amend House Bill 1275 as originally introduced:
+Page 2, delete lines 21 and 22, and substitute the following:
+"(A) At a crisis stabilization unit or any other program
+designed to provide immediate crisis services; or
+(B) By a healthcare provider in an emergency department;
+and"
+*.ANS289*
+The Amendment was read ________________________________________________________________________________
+By: Representative Cavenaugh
+ANS/ANS - 02-24-2025 12:42:56 _________________________
+ANS289 Chief Clerk
+
+[DELETED:  _ CA    "  (]

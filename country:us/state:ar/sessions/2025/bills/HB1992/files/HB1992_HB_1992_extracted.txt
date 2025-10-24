@@ -1,0 +1,654 @@
+Title: Stricken language would be deleted from and underlined language would be added to present law.
+Official Title: Stricken language would be deleted from and underlined language would be added to present law.
+Number of Sections: 1
+Source: versions - HB 1992
+Media Type: application/pdf
+Strikethrough Detection: 8 sections found
+
+================================================================================
+
+Section 1:
+1 State of Arkansas
+A Bill
+2 95th General Assembly
+3 Regular Session, 2025 HOUSE BILL 1992
+4
+5 By: Representative McAlindon
+6
+7
+For An Act To Be Entitled
+8
+9 AN ACT TO REQUIRE A CERTIFICATE OF REGISTRATION FOR
+10 DANGEROUS DOGS AND VICIOUS DOGS; AND FOR OTHER
+11 PURPOSES.
+12
+13
+Subtitle
+14
+15 TO REQUIRE A CERTIFICATE OF REGISTRATION
+16 FOR DANGEROUS DOGS AND VICIOUS DOGS; AND
+17 FOR OTHER PURPOSES.
+18
+19 BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF ARKANSAS:
+20
+21 SECTION 1. Arkansas Code Title 14, Chapter 1, is amended to add an
+22 additional subchapter to read as follows:
+23
+24 Subchapter 7 —— Dangerous Dogs and Vicious Dogs
+25
+26 14-1-701. Definitions.
+27 As used in this subchapter:
+28 (1) “Animal control officer” means an officer employed by or
+29 under contract with an agency of a local government that is responsible for
+30 animal control operations in the jurisdiction of the local government;
+31 (2)(A) “Bite injury” means contact between an animal's mouth and
+32 teeth and the skin of a bite victim that causes visible trauma, including
+33 without limitation:
+34 (i) A puncture wound;
+35 (ii) A laceration; or
+36 (iii) Other piercing of the skin.
+*SSS254*
+04/04/2025 9:34:26 AM SSS254
+HB1992
+1 (B) "Bite injury" does not include a nip, scratch, or
+2 abrasion;
+3 (3) “Dangerous dog” means a dog that:
+4 (A) Causes a bite injury and is not a vicious dog; or
+5 (B)(i) While off the owner’s property, kills a pet animal.
+6 (ii) Subdivision (3)(B)(i) of this section does not
+7 apply when the:
+8 (a) Death of the pet animal is caused by a dog
+9 that is working or training as a:
+10 (1) Hunting dog;
+11 (2) Herding dog; or
+12 (3) Predator control dog; or
+13 (b) Pet animal killed was tormenting or
+14 attacking the dog;
+15 (4) “Law enforcement officer” means a public servant vested by
+16 law with a duty to maintain public order or to make an arrest for an offense;
+17 (5) "Local government" means:
+18 (A) A county;
+19 (B) A city of the first class;
+20 (C) A city of the second class; or
+21 (D) An incorporated town;
+22 (6) “Owner” means a person that:
+23 (A) Has a right of property or title in an animal;
+24 (B) Keeps or harbors an animal;
+25 (C) Has an animal in the person's care;
+26 (D) Acts as an animal's custodian; or
+27 (E) Knowingly permits an animal to remain on or about a
+28 premises occupied by the person;
+29 (7) “Person” means an individual, company, partnership, limited
+30 liability company, joint venture, joint agreement, mutual association or
+31 other, corporation, estate, trust, business trust, receiver, trustee,
+32 syndicate, or any other private entity;
+33 (8) "Reckless dog owner" means a person:
+34 (A) Convicted of a violation under this subchapter three
+35 (3) or more times in a twenty-four-month period; or
+36 (B) Who is the owner of a dog who:
+2 04/04/2025 9:34:26 AM SSS254
+HB1992
+1 (i) Had prior knowledge that his or her dog is a
+2 dangerous dog or a vicious dog; and
+3 (ii) Failed to prevent an unprovoked attack on a
+4 person that causes a bite injury;
+5 (9) “Serious physical injury” means disfigurement, protracted
+6 impairment of health, or impairment of the function of a bodily organ; and
+7 (10) “Vicious dog” means a dog that:
+8 (A) Without provocation or justification:
+9 (i) Bites or attacks a person; and
+10 (ii) Causes serious physical injury or death; or
+11 (B) Is declared a vicious dog under this subchapter.
+12
+13 14-1-702. Reports of dangerous dogs or vicious dogs.
+14 (a) Upon receiving a report of a dog believed to be a dangerous dog or
+15 a vicious dog within the jurisdiction of an animal control officer, the
+16 animal control officer shall make investigations as necessary to determine
+17 whether the dog is a dangerous dog or a vicious dog.
+18 (b)(1) The animal control officer may find and declare a dog to be a
+19 dangerous dog or a vicious dog if the animal control officer has probable
+20 cause to believe that the dog is a dangerous dog or a vicious dog.
+21 (2) Findings by an animal control officer under subdivision
+22 (b)(1) of this section shall be based upon:
+23 (A) The written complaint of a person who is willing to
+24 testify that the animal has acted in a manner proving the dog to be a
+25 dangerous dog or a vicious dog;
+26 (B) A dog bite report;
+27 (C) Actions of the dog witnessed by an animal control
+28 officer or a law enforcement officer; or
+29 (D) Other substantial evidence admissible in court.
+30 (c)(1) A declaration issued by an animal control officer under
+31 subdivision (b)(1) of this section shall contain the following information:
+32 (A)(i) The name and address of the owner.
+33 (ii) If the whereabouts or the identity of the owner
+34 is not known, that information shall be contained in the declaration;
+35 (B) A description of the dog;
+36 (C) The whereabouts of the dog;
+3 04/04/2025 9:34:26 AM SSS254
+HB1992
+1 (D) The facts upon which the declaration is based;
+2 (E) Restrictions placed on the owner regarding the dog;
+3 (F) If the identity of the owner is not known, the
+4 intended disposition of the dog;
+5 (G) Penalties for violation of the restrictions under
+6 subdivision (c)(1)(E) of this section, including without limitation the
+7 possibility of:
+8 (i) Destruction of the dog; or
+9 (ii) A fine, imprisonment, or both of the owner; and
+10 (H) The availability of a hearing to contest the
+11 declaration by submitting a written request to the authority authorized to
+12 hear appeals within fifteen (15) days of receipt of the declaration or, if
+13 notice is given by publication or posting, within fifteen (15) days of the
+14 earlier of the date the notice first appears in the newspaper or the property
+15 is posted.
+16 (2) The declaration issued under subdivision (b)(1) of this
+17 section shall be in writing and shall be served by the animal control
+18 officer:
+19 (A) On the owner, if known, using one (1) of the following
+20 methods:
+21 (i) Regular mail to the owner’s last known address;
+22 (ii) Certified mail directed to the owner at the
+23 owner’s last known address; or
+24 (iii) In person;
+25 (B) If the owner cannot be located under subdivision
+26 (c)(2)(A) of this section, the declaration shall be:
+27 (i) By publication of the declaration in a newspaper
+28 of general circulation; and
+29 (ii) By posting the declaration on the property of
+30 the owner; or
+31 (C) If the identity of the owner is unknown, the
+32 declaration shall be published in a newspaper of general circulation.
+33 (3)(A) When notice is given by regular mail to the owner’s last
+34 known address under subdivision (c)(2)(A)(i) of this section, notice is
+35 effective on the third day after the notice was placed in the mail with
+36 postage prepaid to the owner’s last known address.
+4 04/04/2025 9:34:26 AM SSS254
+HB1992
+1 (B)(i) When notice is given by certified mail under
+2 subdivision (c)(2)(A)(ii) of this section, notice is effective when received.
+3 (ii) If certified mail delivery under subdivision
+4 (c)(2)(A)(ii) of this section is refused, notice is effective by publication
+5 or posting, and whenever notice is accomplished by publication or posting,
+6 the notice is effective and deemed received on the earlier of the day the
+7 property is posted or the newspaper is published.
+8 (d) A dog shall not be declared a dangerous dog or vicious dog:
+9 (1) For actions that occur while the dog is being used by a law
+10 enforcement officer or military officer to carry out the official duties of
+11 the law enforcement officer or military officer;
+12 (2) If the person who sustained a bite injury or serious
+13 physical injury was a person who:
+14 (A) At the time the bite injury or serious physical injury
+15 was sustained, was:
+16 (i) Committing a willful trespass or other tort upon
+17 the premises legally occupied by the owner of the dog; or
+18 (ii) Tormenting, abusing, provoking, or assaulting
+19 the dog; or
+20 (B) Has been observed or reported to have tormented,
+21 abused, provoked, or assaulted the dog in the past;
+22 (3) If the person injured was committing or attempting to commit
+23 an offense under Arkansas Code Title 5, Subtitle 2. Offenses Against the
+24 Person; or
+25 (4) Based on:
+26 (A) Breed;
+27 (B) Perceived breed; or
+28 (C) Appearance.
+29
+30 14-1-703. Certification of registration for dangerous dog or vicious
+31 dog.
+32 (a) It shall be unlawful for an owner to have or possess a dangerous
+33 dog or a vicious dog without a certificate of registration issued under this
+34 subchapter.
+35 (b) A certificate of registration shall be nontransferable and shall
+36 only be issued to a person eighteen (18) years of age or older.
+5 04/04/2025 9:34:26 AM SSS254
+HB1992
+1 (c) No more than one (1) certificate of registration shall be issued
+2 per domicile.
+3 (d) A certificate of registration for a dangerous dog or a vicious dog
+4 shall be issued if the animal control officer determines that the following
+5 requirements have been met:
+6 (1) The owner maintains and can provide proof of general or
+7 specific liability insurance in the amount of at least fifty thousand dollars
+8 ($50,000) issued by an insurer authorized to transact business in this state
+9 insuring the owner against liability for any bodily injury or property damage
+10 caused by the dangerous dog or the vicious dog;
+11 (2) A microchip containing an identification number and capable
+12 of being scanned has been injected under the skin between the shoulder blades
+13 of the dangerous dog or the vicious dog;
+14 (3) The owner provides proof that the dangerous dog or the
+15 vicious dog was spayed or neutered within ten (10) days of the notice under §
+16 14-1-703(c) if the dangerous dog or vicious dog was sexually intact at the
+17 time of notice; and
+18 (4)(A) Except as otherwise provided in subdivision (d)(4)(B) of
+19 this section, the owner of the dangerous dog or the vicious dog agrees to
+20 confine the dangerous dog or the vicious dog to the owner’s property.
+21 (B) The owner may permit the dog to be off the owner's
+22 premises if:
+23 (i) The dangerous dog or the vicious dog is
+24 restrained by a leash not to exceed six (6) feet in length and is under the
+25 immediate physical control of a person capable of preventing the dangerous
+26 dog or the vicious dog from engaging with another human or animal when
+27 necessary;
+28 (ii) The dangerous dog or the vicious dog is
+29 contained in a closed and locked cage or crate; or
+30 (iii) The dangerous dog or the vicious dog is
+31 working or training as a:
+32 (a) Hunting dog;
+33 (b) Herding dog; or
+34 (c) Predator control dog.
+35
+36 14-1-704. Continuation of declaration of dangerous dog or vicious dog.
+6 04/04/2025 9:34:26 AM SSS254
+HB1992
+1 (a) A dog that is declared a dangerous dog or a vicious dog by an
+2 animal control officer under § 14-54-1802 is subject to the provisions of
+3 this section.
+4 (b) The owner shall notify the local government of the address at
+5 which the dangerous dog or the vicious dog is located and conditions of
+6 maintenance within ten (10) days of moving the dangerous dog or the vicious
+7 dog.
+8 (c) The restrictions and conditions of maintenance of a dangerous dog
+9 or a vicious dog shall remain in force while the dog remains under the
+10 authority of the local government.
+11 (d) A dog that is declared a potentially dangerous dog or vicious dog
+12 by any other designation agency or local government based only on size,
+13 breed, mix of breeds, or appearance shall be subject to this section.
+14
+15 14-1-705. Reckless dog owners.
+16 (a) Upon receiving a report of a person believed to be a reckless dog
+17 owner within the jurisdiction of the director of animal control, the director
+18 of animal control shall make investigations as necessary to determine whether
+19 the person is a reckless dog owner.
+20 (b)(1) If the director of animal control determines that a person is a
+21 reckless dog owner, the director shall issue a notification declaring the
+22 person to be a reckless dog owner.
+23 (2) The notification of the declaration shall include the
+24 following:
+25 (A) The name and address of the person subject to the
+26 declaration;
+27 (B) A description of the violation that led to the
+28 declaration;
+29 (C) The name, description, and license number of the
+30 dangerous dog or the vicious dog subject to the effects of the declaration;
+31 and
+32 (D) Instructions on appealing the declaration.
+33 (c) Once declared a reckless dog owner, the certificates of
+34 registration for all dangerous dogs or vicious dogs owned by the person shall
+35 be revoked, and the person shall not own, keep, possess, or harbor a
+36 dangerous dog or a vicious dog for a period of five (5) years from the date
+7 04/04/2025 9:34:26 AM SSS254
+HB1992
+1 of the declaration.
+2
+3 14-1-706. Failure to comply.
+4 (a)(1) It shall be a violation to fail to comply with the provisions
+5 of this subchapter.
+6 (2) An owner in violation of this subchapter shall be subject to
+7 immediate seizure and impoundment of the dangerous dog or the vicious dog
+8 under this section.
+9 (3) Failure to comply with the requirements under this
+10 subchapter shall result in the revocation of the certificate of registration
+11 for the dangerous dog or the vicious dog.
+12 (b)(1)(A) A dangerous dog or a vicious dog that has been seized by an
+13 animal control officer under this subchapter shall remain at the appropriate
+14 place of custody for a period of at least fifteen (15) consecutive days,
+15 including weekends and holidays, after written notice is received by the
+16 owner.
+17 (B) The written notice shall:
+18 (i) Be left at the last known address of the owner;
+19 and
+20 (ii) Contain a description of the dangerous dog or
+21 the vicious dog seized, the date seized, the name and contact information of
+22 the law enforcement officer or animal control officer seizing the dangerous
+23 dog or the vicious dog, the location of the dangerous dog or the vicious dog,
+24 and the reason for the seizure.
+25 (2) A person in violation of this subchapter shall pay all
+26 expenses related to a bite injury or serious physical injury, including
+27 without limitation:
+28 (A) Shelter, food, and veterinary expenses for boarding
+29 incurred by a pet animal victim from an attack by a dangerous dog;
+30 (B) Veterinary expenses necessitated by the impoundment of
+31 the dog;
+32 (C) Medical expenses incurred by a victim; and
+33 (D) Other expenses required for the destruction of the
+34 dog.
+35
+36
+8 04/04/2025 9:34:26 AM SSS254
+[DELETED:          A D P   T F F  B   S a     S   1  A   ( u a   ( t w     (     (     (]
+[DELETED: H2 0    ( a   (    (    (     ( a      ( t       (       (       (      ( a   ( l   (    (  (    (    (   (    (    (    (    (    ( p   ( l o s   (    ( (    (]
+[DELETED: H3 0     ( d     ( p   ( i   (    (     (     (    (   1  ( a a w  ( d c   ( (    ( t d    (    ( o    (  ( s    (     ( i    (    (]
+[DELETED: H4 0    (    (    ( i    ( s p     (     (    ( d h n e i   ( s o    ( m     (     ( o     (    ( (     ( o     ( t    ( d   ( k e p]
+[DELETED: H5 0    ( s     ( ( o t p  (   ( e t   ( p    ( w     ( t     ( t    ( a   ( a P   (    (    (    (   1 d  ( d s  ( o]
+[DELETED: H6 0  ( p  ( s r   ( s ( i c   ( o o   ( v 1 t   ( t c    ( p     ( r i d n     ( c     ( w      (      (      (   1]
+[DELETED: H7 0  ( a t  ( w m d  ( o a  ( b b   1  ( o o t  ( r p   ( f    ( d    ( d    ( d a    (  ( r b d]
+[DELETED: H8 0 o   1  ( o   ( i u   ( s f  ( a p i o    (     ( a     ( t t d a   ( e w    ( i    ( t    (    ( d  ]
+
+
+================================================================================
+
+Raw Text:
+Stricken language would be deleted from and underlined language would be added to present law.
+1 State of Arkansas
+A Bill
+2 95th General Assembly
+3 Regular Session, 2025 HOUSE BILL 1992
+4
+5 By: Representative McAlindon
+6
+7
+For An Act To Be Entitled
+8
+9 AN ACT TO REQUIRE A CERTIFICATE OF REGISTRATION FOR
+10 DANGEROUS DOGS AND VICIOUS DOGS; AND FOR OTHER
+11 PURPOSES.
+12
+13
+Subtitle
+14
+15 TO REQUIRE A CERTIFICATE OF REGISTRATION
+16 FOR DANGEROUS DOGS AND VICIOUS DOGS; AND
+17 FOR OTHER PURPOSES.
+18
+19 BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF ARKANSAS:
+20
+21 SECTION 1. Arkansas Code Title 14, Chapter 1, is amended to add an
+22 additional subchapter to read as follows:
+23
+24 Subchapter 7 —— Dangerous Dogs and Vicious Dogs
+25
+26 14-1-701. Definitions.
+27 As used in this subchapter:
+28 (1) “Animal control officer” means an officer employed by or
+29 under contract with an agency of a local government that is responsible for
+30 animal control operations in the jurisdiction of the local government;
+31 (2)(A) “Bite injury” means contact between an animal's mouth and
+32 teeth and the skin of a bite victim that causes visible trauma, including
+33 without limitation:
+34 (i) A puncture wound;
+35 (ii) A laceration; or
+36 (iii) Other piercing of the skin.
+*SSS254*
+04/04/2025 9:34:26 AM SSS254
+
+HB1992
+1 (B) "Bite injury" does not include a nip, scratch, or
+2 abrasion;
+3 (3) “Dangerous dog” means a dog that:
+4 (A) Causes a bite injury and is not a vicious dog; or
+5 (B)(i) While off the owner’s property, kills a pet animal.
+6 (ii) Subdivision (3)(B)(i) of this section does not
+7 apply when the:
+8 (a) Death of the pet animal is caused by a dog
+9 that is working or training as a:
+10 (1) Hunting dog;
+11 (2) Herding dog; or
+12 (3) Predator control dog; or
+13 (b) Pet animal killed was tormenting or
+14 attacking the dog;
+15 (4) “Law enforcement officer” means a public servant vested by
+16 law with a duty to maintain public order or to make an arrest for an offense;
+17 (5) "Local government" means:
+18 (A) A county;
+19 (B) A city of the first class;
+20 (C) A city of the second class; or
+21 (D) An incorporated town;
+22 (6) “Owner” means a person that:
+23 (A) Has a right of property or title in an animal;
+24 (B) Keeps or harbors an animal;
+25 (C) Has an animal in the person's care;
+26 (D) Acts as an animal's custodian; or
+27 (E) Knowingly permits an animal to remain on or about a
+28 premises occupied by the person;
+29 (7) “Person” means an individual, company, partnership, limited
+30 liability company, joint venture, joint agreement, mutual association or
+31 other, corporation, estate, trust, business trust, receiver, trustee,
+32 syndicate, or any other private entity;
+33 (8) "Reckless dog owner" means a person:
+34 (A) Convicted of a violation under this subchapter three
+35 (3) or more times in a twenty-four-month period; or
+36 (B) Who is the owner of a dog who:
+2 04/04/2025 9:34:26 AM SSS254
+
+HB1992
+1 (i) Had prior knowledge that his or her dog is a
+2 dangerous dog or a vicious dog; and
+3 (ii) Failed to prevent an unprovoked attack on a
+4 person that causes a bite injury;
+5 (9) “Serious physical injury” means disfigurement, protracted
+6 impairment of health, or impairment of the function of a bodily organ; and
+7 (10) “Vicious dog” means a dog that:
+8 (A) Without provocation or justification:
+9 (i) Bites or attacks a person; and
+10 (ii) Causes serious physical injury or death; or
+11 (B) Is declared a vicious dog under this subchapter.
+12
+13 14-1-702. Reports of dangerous dogs or vicious dogs.
+14 (a) Upon receiving a report of a dog believed to be a dangerous dog or
+15 a vicious dog within the jurisdiction of an animal control officer, the
+16 animal control officer shall make investigations as necessary to determine
+17 whether the dog is a dangerous dog or a vicious dog.
+18 (b)(1) The animal control officer may find and declare a dog to be a
+19 dangerous dog or a vicious dog if the animal control officer has probable
+20 cause to believe that the dog is a dangerous dog or a vicious dog.
+21 (2) Findings by an animal control officer under subdivision
+22 (b)(1) of this section shall be based upon:
+23 (A) The written complaint of a person who is willing to
+24 testify that the animal has acted in a manner proving the dog to be a
+25 dangerous dog or a vicious dog;
+26 (B) A dog bite report;
+27 (C) Actions of the dog witnessed by an animal control
+28 officer or a law enforcement officer; or
+29 (D) Other substantial evidence admissible in court.
+30 (c)(1) A declaration issued by an animal control officer under
+31 subdivision (b)(1) of this section shall contain the following information:
+32 (A)(i) The name and address of the owner.
+33 (ii) If the whereabouts or the identity of the owner
+34 is not known, that information shall be contained in the declaration;
+35 (B) A description of the dog;
+36 (C) The whereabouts of the dog;
+3 04/04/2025 9:34:26 AM SSS254
+
+HB1992
+1 (D) The facts upon which the declaration is based;
+2 (E) Restrictions placed on the owner regarding the dog;
+3 (F) If the identity of the owner is not known, the
+4 intended disposition of the dog;
+5 (G) Penalties for violation of the restrictions under
+6 subdivision (c)(1)(E) of this section, including without limitation the
+7 possibility of:
+8 (i) Destruction of the dog; or
+9 (ii) A fine, imprisonment, or both of the owner; and
+10 (H) The availability of a hearing to contest the
+11 declaration by submitting a written request to the authority authorized to
+12 hear appeals within fifteen (15) days of receipt of the declaration or, if
+13 notice is given by publication or posting, within fifteen (15) days of the
+14 earlier of the date the notice first appears in the newspaper or the property
+15 is posted.
+16 (2) The declaration issued under subdivision (b)(1) of this
+17 section shall be in writing and shall be served by the animal control
+18 officer:
+19 (A) On the owner, if known, using one (1) of the following
+20 methods:
+21 (i) Regular mail to the owner’s last known address;
+22 (ii) Certified mail directed to the owner at the
+23 owner’s last known address; or
+24 (iii) In person;
+25 (B) If the owner cannot be located under subdivision
+26 (c)(2)(A) of this section, the declaration shall be:
+27 (i) By publication of the declaration in a newspaper
+28 of general circulation; and
+29 (ii) By posting the declaration on the property of
+30 the owner; or
+31 (C) If the identity of the owner is unknown, the
+32 declaration shall be published in a newspaper of general circulation.
+33 (3)(A) When notice is given by regular mail to the owner’s last
+34 known address under subdivision (c)(2)(A)(i) of this section, notice is
+35 effective on the third day after the notice was placed in the mail with
+36 postage prepaid to the owner’s last known address.
+4 04/04/2025 9:34:26 AM SSS254
+
+HB1992
+1 (B)(i) When notice is given by certified mail under
+2 subdivision (c)(2)(A)(ii) of this section, notice is effective when received.
+3 (ii) If certified mail delivery under subdivision
+4 (c)(2)(A)(ii) of this section is refused, notice is effective by publication
+5 or posting, and whenever notice is accomplished by publication or posting,
+6 the notice is effective and deemed received on the earlier of the day the
+7 property is posted or the newspaper is published.
+8 (d) A dog shall not be declared a dangerous dog or vicious dog:
+9 (1) For actions that occur while the dog is being used by a law
+10 enforcement officer or military officer to carry out the official duties of
+11 the law enforcement officer or military officer;
+12 (2) If the person who sustained a bite injury or serious
+13 physical injury was a person who:
+14 (A) At the time the bite injury or serious physical injury
+15 was sustained, was:
+16 (i) Committing a willful trespass or other tort upon
+17 the premises legally occupied by the owner of the dog; or
+18 (ii) Tormenting, abusing, provoking, or assaulting
+19 the dog; or
+20 (B) Has been observed or reported to have tormented,
+21 abused, provoked, or assaulted the dog in the past;
+22 (3) If the person injured was committing or attempting to commit
+23 an offense under Arkansas Code Title 5, Subtitle 2. Offenses Against the
+24 Person; or
+25 (4) Based on:
+26 (A) Breed;
+27 (B) Perceived breed; or
+28 (C) Appearance.
+29
+30 14-1-703. Certification of registration for dangerous dog or vicious
+31 dog.
+32 (a) It shall be unlawful for an owner to have or possess a dangerous
+33 dog or a vicious dog without a certificate of registration issued under this
+34 subchapter.
+35 (b) A certificate of registration shall be nontransferable and shall
+36 only be issued to a person eighteen (18) years of age or older.
+5 04/04/2025 9:34:26 AM SSS254
+
+HB1992
+1 (c) No more than one (1) certificate of registration shall be issued
+2 per domicile.
+3 (d) A certificate of registration for a dangerous dog or a vicious dog
+4 shall be issued if the animal control officer determines that the following
+5 requirements have been met:
+6 (1) The owner maintains and can provide proof of general or
+7 specific liability insurance in the amount of at least fifty thousand dollars
+8 ($50,000) issued by an insurer authorized to transact business in this state
+9 insuring the owner against liability for any bodily injury or property damage
+10 caused by the dangerous dog or the vicious dog;
+11 (2) A microchip containing an identification number and capable
+12 of being scanned has been injected under the skin between the shoulder blades
+13 of the dangerous dog or the vicious dog;
+14 (3) The owner provides proof that the dangerous dog or the
+15 vicious dog was spayed or neutered within ten (10) days of the notice under §
+16 14-1-703(c) if the dangerous dog or vicious dog was sexually intact at the
+17 time of notice; and
+18 (4)(A) Except as otherwise provided in subdivision (d)(4)(B) of
+19 this section, the owner of the dangerous dog or the vicious dog agrees to
+20 confine the dangerous dog or the vicious dog to the owner’s property.
+21 (B) The owner may permit the dog to be off the owner's
+22 premises if:
+23 (i) The dangerous dog or the vicious dog is
+24 restrained by a leash not to exceed six (6) feet in length and is under the
+25 immediate physical control of a person capable of preventing the dangerous
+26 dog or the vicious dog from engaging with another human or animal when
+27 necessary;
+28 (ii) The dangerous dog or the vicious dog is
+29 contained in a closed and locked cage or crate; or
+30 (iii) The dangerous dog or the vicious dog is
+31 working or training as a:
+32 (a) Hunting dog;
+33 (b) Herding dog; or
+34 (c) Predator control dog.
+35
+36 14-1-704. Continuation of declaration of dangerous dog or vicious dog.
+6 04/04/2025 9:34:26 AM SSS254
+
+HB1992
+1 (a) A dog that is declared a dangerous dog or a vicious dog by an
+2 animal control officer under § 14-54-1802 is subject to the provisions of
+3 this section.
+4 (b) The owner shall notify the local government of the address at
+5 which the dangerous dog or the vicious dog is located and conditions of
+6 maintenance within ten (10) days of moving the dangerous dog or the vicious
+7 dog.
+8 (c) The restrictions and conditions of maintenance of a dangerous dog
+9 or a vicious dog shall remain in force while the dog remains under the
+10 authority of the local government.
+11 (d) A dog that is declared a potentially dangerous dog or vicious dog
+12 by any other designation agency or local government based only on size,
+13 breed, mix of breeds, or appearance shall be subject to this section.
+14
+15 14-1-705. Reckless dog owners.
+16 (a) Upon receiving a report of a person believed to be a reckless dog
+17 owner within the jurisdiction of the director of animal control, the director
+18 of animal control shall make investigations as necessary to determine whether
+19 the person is a reckless dog owner.
+20 (b)(1) If the director of animal control determines that a person is a
+21 reckless dog owner, the director shall issue a notification declaring the
+22 person to be a reckless dog owner.
+23 (2) The notification of the declaration shall include the
+24 following:
+25 (A) The name and address of the person subject to the
+26 declaration;
+27 (B) A description of the violation that led to the
+28 declaration;
+29 (C) The name, description, and license number of the
+30 dangerous dog or the vicious dog subject to the effects of the declaration;
+31 and
+32 (D) Instructions on appealing the declaration.
+33 (c) Once declared a reckless dog owner, the certificates of
+34 registration for all dangerous dogs or vicious dogs owned by the person shall
+35 be revoked, and the person shall not own, keep, possess, or harbor a
+36 dangerous dog or a vicious dog for a period of five (5) years from the date
+7 04/04/2025 9:34:26 AM SSS254
+
+HB1992
+1 of the declaration.
+2
+3 14-1-706. Failure to comply.
+4 (a)(1) It shall be a violation to fail to comply with the provisions
+5 of this subchapter.
+6 (2) An owner in violation of this subchapter shall be subject to
+7 immediate seizure and impoundment of the dangerous dog or the vicious dog
+8 under this section.
+9 (3) Failure to comply with the requirements under this
+10 subchapter shall result in the revocation of the certificate of registration
+11 for the dangerous dog or the vicious dog.
+12 (b)(1)(A) A dangerous dog or a vicious dog that has been seized by an
+13 animal control officer under this subchapter shall remain at the appropriate
+14 place of custody for a period of at least fifteen (15) consecutive days,
+15 including weekends and holidays, after written notice is received by the
+16 owner.
+17 (B) The written notice shall:
+18 (i) Be left at the last known address of the owner;
+19 and
+20 (ii) Contain a description of the dangerous dog or
+21 the vicious dog seized, the date seized, the name and contact information of
+22 the law enforcement officer or animal control officer seizing the dangerous
+23 dog or the vicious dog, the location of the dangerous dog or the vicious dog,
+24 and the reason for the seizure.
+25 (2) A person in violation of this subchapter shall pay all
+26 expenses related to a bite injury or serious physical injury, including
+27 without limitation:
+28 (A) Shelter, food, and veterinary expenses for boarding
+29 incurred by a pet animal victim from an attack by a dangerous dog;
+30 (B) Veterinary expenses necessitated by the impoundment of
+31 the dog;
+32 (C) Medical expenses incurred by a victim; and
+33 (D) Other expenses required for the destruction of the
+34 dog.
+35
+36
+8 04/04/2025 9:34:26 AM SSS254
+
+[DELETED:          A D P   T F F  B   S a     S   1  A   ( u a   ( t w     (     (     (]
+[DELETED: H2 0    ( a   (    (    (     ( a      ( t       (       (       (      ( a   ( l   (    (  (    (    (   (    (    (    (    (    ( p   ( l o s   (    ( (    (]
+[DELETED: H3 0     ( d     ( p   ( i   (    (     (     (    (   1  ( a a w  ( d c   ( (    ( t d    (    ( o    (  ( s    (     ( i    (    (]
+[DELETED: H4 0    (    (    ( i    ( s p     (     (    ( d h n e i   ( s o    ( m     (     ( o     (    ( (     ( o     ( t    ( d   ( k e p]
+[DELETED: H5 0    ( s     ( ( o t p  (   ( e t   ( p    ( w     ( t     ( t    ( a   ( a P   (    (    (    (   1 d  ( d s  ( o]
+[DELETED: H6 0  ( p  ( s r   ( s ( i c   ( o o   ( v 1 t   ( t c    ( p     ( r i d n     ( c     ( w      (      (      (   1]
+[DELETED: H7 0  ( a t  ( w m d  ( o a  ( b b   1  ( o o t  ( r p   ( f    ( d    ( d    ( d a    (  ( r b d]
+[DELETED: H8 0 o   1  ( o   ( i u   ( s f  ( a p i o    (     ( a     ( t t d a   ( e w    ( i    ( t    (    ( d  ]

@@ -1,0 +1,496 @@
+Title: Stricken language would be deleted from and underlined language would be added to present law.
+Official Title: Stricken language would be deleted from and underlined language would be added to present law.
+Number of Sections: 1
+Source: versions - HB 1517
+Media Type: application/pdf
+Strikethrough Detection: 6 sections found
+
+================================================================================
+
+Section 1:
+1 State of Arkansas As Engrossed: H3/4/25 H3/6/25
+A Bill
+2 95th General Assembly
+3 Regular Session, 2025 HOUSE BILL 1517
+4
+5 By: Representative Ray
+6 By: Senator Gilmore
+7
+For An Act To Be Entitled
+8
+9 AN ACT TO ESTABLISH THE EARNED WAGE ACCESS SERVICES
+10 ACT; AND FOR OTHER PURPOSES.
+11
+12
+Subtitle
+13
+14 TO ESTABLISH THE EARNED WAGE ACCESS
+15 SERVICES ACT.
+16
+17 BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF ARKANSAS:
+18
+19 SECTION 1. Arkansas Code Title 23, is amended to add an additional
+20 chapter to read as follows:
+21
+22 CHAPTER 52
+23 CONSUMER PROTECTION
+24
+25 Subchapter 1 — General Provisions
+26 [Reserved.]
+27
+28 Subchapter 2 — Earned Wage Access Services Act
+29
+30 23-52-201. Title.
+31 This subchapter shall be known and may be cited as the "Earned Wage Access
+32 Services Act".
+33
+34 23-52-202. Definitions.
+35 As used in this subchapter:
+36 (1) "Consumer" means a natural person residing in this state;
+*ANS261*
+03-06-2025 13:38:41 ANS261
+As Engrossed: H3/4/25 H3/6/25 HB1517
+1 (2) "Consumer-directed earned wage access services" means the
+2 business of delivering to a consumer access to earned but unpaid income based
+3 on the consumer’s representation and the provider’s reasonable determination
+4 of the consumer’s earned but unpaid income;
+5 (3)(A) "Earned but unpaid income" means salary, wages,
+6 compensation, or other income that a consumer or an employer has represented,
+7 and that a provider has reasonably determined, has been earned or has accrued
+8 to the benefit of the consumer in exchange for the consumer’s provision of
+9 services to an employer or on behalf of an employer.
+10 (B) "Earned but unpaid income" includes:
+11 (i) Services provided on an hourly, project-based,
+12 piecework, or other basis; and
+13 (ii) If the consumer is acting as an independent
+14 contractor of the employer, income that has not at the time of the payment of
+15 proceeds been paid to the consumer by the employer;
+16 (4) "Earned wage access services" means consumer-directed earned
+17 wage access services, employer-integrated earned wage access services, or
+18 both;
+19 (5)(A) "Employer" means a person who employs a consumer or any
+20 other person who is contractually obligated to pay a consumer earned but
+21 unpaid income in exchange for a consumer’s provision of services to the
+22 person or on behalf of the person, including on an hourly, project-based,
+23 piecework, or other basis, and including when the consumer acts as an
+24 independent contractor with respect to the person.
+25 (B) "Employer" does not include a customer of an employer
+26 or any other person whose obligation to make a payment of salary, wages,
+27 compensation, or other income to a consumer is not based on the provision of
+28 services by the consumer for or on behalf of the person;
+29 (6) "Employer-integrated earned wage access services" means the
+30 business of delivering to a consumer access to earned but unpaid income that
+31 is based on employment, income, and attendance data obtained directly or
+32 indirectly from an employer, including without limitation an employer’s
+33 payroll service provider;
+34 (7)(A) "Fee" means a charge imposed by a provider for delivery
+35 or expedited delivery of proceeds to a consumer, a subscription or membership
+36 charge imposed by a provider for a bona fide group of services that include
+2 03-06-2025 13:38:41 ANS261
+As Engrossed: H3/4/25 H3/6/25 HB1517
+1 earned wage access services, or an amount paid by an employer to a provider
+2 on a consumer’s behalf that entitles the consumer to receive proceeds at
+3 reduced or no cost to the consumer.
+4 (B) "Fee" does not mean a voluntary tip, gratuity, or
+5 donation;
+6 (8) "Outstanding proceeds" means a payment of proceeds to a
+7 consumer by a provider that has not yet been repaid to that provider;
+8 (9) "Proceeds” means a payment of funds to a consumer by a
+9 provider that is based on earned but unpaid income; and
+10 (10)(A) "Provider" means a person that is engaged in the
+11 business of offering and providing earned wage access services to a consumer.
+12 (B) "Provider" does not include:
+13 (i) A service provider, including a payroll service
+14 provider, whose role may include verifying the available earnings but who is
+15 not contractually obligated to fund proceeds delivered as part of an earned
+16 wage access service;
+17 (ii) An employer that offers a portion of salary,
+18 wages, or compensation directly to an employee or an independent contractor
+19 before the normally scheduled pay date; or
+20 (iii) An entity that offers or provides earned wage access
+21 services and reports a consumer's payment or nonpayment of outstanding
+22 proceeds or fees, voluntary tips, gratuities, or other donations in
+23 connection with the earned wage access services to a consumer reporting
+24 agency, as defined in the Fair Credit Reporting Act, 15 U.S.C. § 1681 et
+25 seq., as it existed on January 1, 2025.
+26
+27 23-52-203. Provider earned wage access services — Prohibited practices.
+28 (a) A provider may use the mailing address provided by a consumer to
+29 determine the consumer’s state of residence for purposes of this subchapter.
+30 (b) A provider shall not be deemed to be engaging in lending, money
+31 transmission, or debt collection in this state, or in violation of the laws
+32 of this state governing the sale of, assignment of, or an order for earned
+33 but unpaid income, if the provider:
+34 (1) Complies with the requirements of this section;
+35 (2) Develops and implements policies and procedures to respond
+36 to questions raised by a consumer;
+3 03-06-2025 13:38:41 ANS261
+As Engrossed: H3/4/25 H3/6/25 HB1517
+1 (3) Addresses a complaint from a consumer in an expedient
+2 manner;
+3 (4) Offers to a consumer at least one (1) reasonable option to
+4 obtain proceeds at no cost to the consumer and clearly explains how to elect
+5 the no-cost option under this subdivision (b)(4) whenever it offers a
+6 consumer the option to receive proceeds for a fee;
+7 (5) Before entering into an agreement with a consumer for the
+8 provision of earned wage access services:
+9 (A) Informs the consumer of the consumer's rights under
+10 the agreement; and
+11 (B) Fully and clearly discloses all fees associated with
+12 the earned wage access services;
+13 (6) Informs a consumer of a material change to the terms and
+14 conditions of the earned wage access services before implementing the changes
+15 for the consumer;
+16 (7) Allows a consumer to cancel use of the provider’s earned
+17 wage access services at any time without incurring a cancellation fee imposed
+18 by the provider;
+19 (8) Complies with all applicable local, state, and federal
+20 privacy and information security laws; and
+21 (9) Provides proceeds to a consumer by any means mutually agreed
+22 upon by the consumer and the provider.
+23 (c) If a provider solicits, charges, or receives a tip, gratuity, or
+24 other donation from a consumer, the provider shall clearly and conspicuously
+25 disclose:
+26 (1) To the consumer immediately before each transaction that a
+27 tip, gratuity, or other donation amount may be zero and is voluntary; and
+28 (2) In its service contract with the consumer and elsewhere that
+29 tips, gratuities, or donations are voluntary and that the offering of earned
+30 wage access services, including the amount of proceeds a consumer is eligible
+31 to request and the frequency with which proceeds are provided to a consumer,
+32 is not contingent on whether the consumer pays a tip, gratuity, or other
+33 donation or on the size of the tip, gratuity, or other donation.
+34 (d) If a provider seeks repayment of outstanding proceeds or payment
+35 of fees or other amounts owed, including voluntary tips, gratuities, or other
+36 donations, in connection with the activities covered by this subchapter, from
+4 03-06-2025 13:38:41 ANS261
+As Engrossed: H3/4/25 H3/6/25 HB1517
+1 a consumer’s account at a depository institution, including by means of
+2 electronic fund transfer, the provider shall:
+3 (1) Comply with applicable provisions of the Electronic Fund
+4 Transfer Act, 15 U.S.C. 1693 et seq., as it existed on January 1, 2025, and
+5 regulations adopted under the the Electronic Fund Transfer Act, 15 U.S.C.
+6 1693 et seq., as it existed on January 1, 2025; and
+7 (2)(A) Reimburse the consumer for the full amount of any
+8 overdraft or nonsufficient funds fees imposed on a consumer by the consumer’s
+9 depository institution that were caused by the provider's attempting to seek
+10 payment of any outstanding proceeds, fees, or other payments, in connection
+11 with the activities covered by this subchapter, including voluntary tips,
+12 gratuities, or other donations, on a date before, or in an incorrect amount
+13 from, the date or amount disclosed to the consumer.
+14 (B) The provider is not subject to the requirements under
+15 subdivision (d)(2)(A) of this section with respect to payments of outstanding
+16 proceeds or fees incurred by a consumer through fraudulent or other unlawful
+17 means.
+18 (e) A provider shall not:
+19 (1) Share with an employer a portion of any fees, voluntary
+20 tips, gratuities, or other donations that were received from or charged to a
+21 consumer for earned wage access services;
+22 (2) Require a consumer’s credit report or a credit score
+23 provided or issued by a consumer reporting agency to determine a consumer’s
+24 eligibility for earned wage access services;
+25 (3) Accept payment of outstanding proceeds, fees, voluntary
+26 tips, gratuities, or other donations from a consumer by means of a credit
+27 card or charge card;
+28 (4) Charge a consumer a late fee, deferral fee, interest, or any
+29 other penalty or charge for failure to pay outstanding proceeds, fees,
+30 voluntary tips, gratuities, or other donations;
+31 (5) Compel or attempt to compel payment by a consumer of
+32 outstanding proceeds, fees, voluntary tips, gratuities, or other donations to
+33 the provider by:
+34 (A) A suit against the consumer in a court of competent
+35 jurisdiction;
+36 (B) Use of a third party to pursue collection from the
+5 03-06-2025 13:38:41 ANS261
+As Engrossed: H3/4/25 H3/6/25 HB1517
+1 consumer on the provider’s behalf; or
+2 (C) Sale of outstanding proceeds, fees, voluntary tips,
+3 gratuities, or other donations to a third-party collector or debt buyer for
+4 collection from a consumer;
+5 (6) Mislead or deceive a consumer about the voluntary nature of
+6 the tips, gratuities, or donations or represent that the tip, gratuity, or
+7 other donation will benefit a specific individual or group of individuals if
+8 the provider solicits, charges, or receives tips, gratuities, or other
+9 donations from a consumer; and
+10 (7) Advertise, print, display, publish, distribute, or broadcast
+11 or cause to be advertised, printed, displayed, published, distributed, or
+12 broadcast, in any manner, any statement or representation with regard to the
+13 earned wage access services offered by the provider that:
+14 (A) Is false, misleading, or deceptive; or
+15 (B) Omits material information that is necessary to make
+16 the statement or representation not false, misleading, or deceptive.
+17
+18 23-52-204. Applicability.
+19 This subchapter does not apply to a corporation organized under the
+20 general banking laws, savings and loan laws, or credit union laws of this
+21 state, any other state, or the United States Government.
+22
+23 /s/Ray
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+6 03-06-2025 13:38:41 ANS261
+[DELETED:  A   EBL1     A A   T S  B   S c  C C  S [  S   2  T S   2  A   (]
+[DELETED:  H2 0   ( b o o   ( c a t s    (     ( p     ( c p   ( w b   ( o u p p i    ( o c s   ( b i i p   ( o c]
+[DELETED:  H3 0 e o r    ( d   ( c   ( p   ( b    (     ( p n w     ( w b    ( s p c a s   2  ( d  ( t o b   (   ( t]
+[DELETED:  H4 0   ( m   ( o t c   ( p    ( t    ( t   ( c f   ( w b   ( p   ( u  ( o d   ( t   ( t w t i d  ( o d]
+[DELETED:  H5 0 a e   ( T r 1   ( o d p w g f    ( s p m  (   ( t c   ( p e   ( t c   ( o v   ( o t    ( j    (]
+[DELETED:  H6 0 c    ( g c   ( t o t d   ( o b e    (    ( t   2  T g s  /             ]
+
+
+================================================================================
+
+Raw Text:
+Stricken language would be deleted from and underlined language would be added to present law.
+1 State of Arkansas As Engrossed: H3/4/25 H3/6/25
+A Bill
+2 95th General Assembly
+3 Regular Session, 2025 HOUSE BILL 1517
+4
+5 By: Representative Ray
+6 By: Senator Gilmore
+7
+For An Act To Be Entitled
+8
+9 AN ACT TO ESTABLISH THE EARNED WAGE ACCESS SERVICES
+10 ACT; AND FOR OTHER PURPOSES.
+11
+12
+Subtitle
+13
+14 TO ESTABLISH THE EARNED WAGE ACCESS
+15 SERVICES ACT.
+16
+17 BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF ARKANSAS:
+18
+19 SECTION 1. Arkansas Code Title 23, is amended to add an additional
+20 chapter to read as follows:
+21
+22 CHAPTER 52
+23 CONSUMER PROTECTION
+24
+25 Subchapter 1 — General Provisions
+26 [Reserved.]
+27
+28 Subchapter 2 — Earned Wage Access Services Act
+29
+30 23-52-201. Title.
+31 This subchapter shall be known and may be cited as the "Earned Wage Access
+32 Services Act".
+33
+34 23-52-202. Definitions.
+35 As used in this subchapter:
+36 (1) "Consumer" means a natural person residing in this state;
+*ANS261*
+03-06-2025 13:38:41 ANS261
+
+As Engrossed: H3/4/25 H3/6/25 HB1517
+1 (2) "Consumer-directed earned wage access services" means the
+2 business of delivering to a consumer access to earned but unpaid income based
+3 on the consumer’s representation and the provider’s reasonable determination
+4 of the consumer’s earned but unpaid income;
+5 (3)(A) "Earned but unpaid income" means salary, wages,
+6 compensation, or other income that a consumer or an employer has represented,
+7 and that a provider has reasonably determined, has been earned or has accrued
+8 to the benefit of the consumer in exchange for the consumer’s provision of
+9 services to an employer or on behalf of an employer.
+10 (B) "Earned but unpaid income" includes:
+11 (i) Services provided on an hourly, project-based,
+12 piecework, or other basis; and
+13 (ii) If the consumer is acting as an independent
+14 contractor of the employer, income that has not at the time of the payment of
+15 proceeds been paid to the consumer by the employer;
+16 (4) "Earned wage access services" means consumer-directed earned
+17 wage access services, employer-integrated earned wage access services, or
+18 both;
+19 (5)(A) "Employer" means a person who employs a consumer or any
+20 other person who is contractually obligated to pay a consumer earned but
+21 unpaid income in exchange for a consumer’s provision of services to the
+22 person or on behalf of the person, including on an hourly, project-based,
+23 piecework, or other basis, and including when the consumer acts as an
+24 independent contractor with respect to the person.
+25 (B) "Employer" does not include a customer of an employer
+26 or any other person whose obligation to make a payment of salary, wages,
+27 compensation, or other income to a consumer is not based on the provision of
+28 services by the consumer for or on behalf of the person;
+29 (6) "Employer-integrated earned wage access services" means the
+30 business of delivering to a consumer access to earned but unpaid income that
+31 is based on employment, income, and attendance data obtained directly or
+32 indirectly from an employer, including without limitation an employer’s
+33 payroll service provider;
+34 (7)(A) "Fee" means a charge imposed by a provider for delivery
+35 or expedited delivery of proceeds to a consumer, a subscription or membership
+36 charge imposed by a provider for a bona fide group of services that include
+2 03-06-2025 13:38:41 ANS261
+
+As Engrossed: H3/4/25 H3/6/25 HB1517
+1 earned wage access services, or an amount paid by an employer to a provider
+2 on a consumer’s behalf that entitles the consumer to receive proceeds at
+3 reduced or no cost to the consumer.
+4 (B) "Fee" does not mean a voluntary tip, gratuity, or
+5 donation;
+6 (8) "Outstanding proceeds" means a payment of proceeds to a
+7 consumer by a provider that has not yet been repaid to that provider;
+8 (9) "Proceeds” means a payment of funds to a consumer by a
+9 provider that is based on earned but unpaid income; and
+10 (10)(A) "Provider" means a person that is engaged in the
+11 business of offering and providing earned wage access services to a consumer.
+12 (B) "Provider" does not include:
+13 (i) A service provider, including a payroll service
+14 provider, whose role may include verifying the available earnings but who is
+15 not contractually obligated to fund proceeds delivered as part of an earned
+16 wage access service;
+17 (ii) An employer that offers a portion of salary,
+18 wages, or compensation directly to an employee or an independent contractor
+19 before the normally scheduled pay date; or
+20 (iii) An entity that offers or provides earned wage access
+21 services and reports a consumer's payment or nonpayment of outstanding
+22 proceeds or fees, voluntary tips, gratuities, or other donations in
+23 connection with the earned wage access services to a consumer reporting
+24 agency, as defined in the Fair Credit Reporting Act, 15 U.S.C. § 1681 et
+25 seq., as it existed on January 1, 2025.
+26
+27 23-52-203. Provider earned wage access services — Prohibited practices.
+28 (a) A provider may use the mailing address provided by a consumer to
+29 determine the consumer’s state of residence for purposes of this subchapter.
+30 (b) A provider shall not be deemed to be engaging in lending, money
+31 transmission, or debt collection in this state, or in violation of the laws
+32 of this state governing the sale of, assignment of, or an order for earned
+33 but unpaid income, if the provider:
+34 (1) Complies with the requirements of this section;
+35 (2) Develops and implements policies and procedures to respond
+36 to questions raised by a consumer;
+3 03-06-2025 13:38:41 ANS261
+
+As Engrossed: H3/4/25 H3/6/25 HB1517
+1 (3) Addresses a complaint from a consumer in an expedient
+2 manner;
+3 (4) Offers to a consumer at least one (1) reasonable option to
+4 obtain proceeds at no cost to the consumer and clearly explains how to elect
+5 the no-cost option under this subdivision (b)(4) whenever it offers a
+6 consumer the option to receive proceeds for a fee;
+7 (5) Before entering into an agreement with a consumer for the
+8 provision of earned wage access services:
+9 (A) Informs the consumer of the consumer's rights under
+10 the agreement; and
+11 (B) Fully and clearly discloses all fees associated with
+12 the earned wage access services;
+13 (6) Informs a consumer of a material change to the terms and
+14 conditions of the earned wage access services before implementing the changes
+15 for the consumer;
+16 (7) Allows a consumer to cancel use of the provider’s earned
+17 wage access services at any time without incurring a cancellation fee imposed
+18 by the provider;
+19 (8) Complies with all applicable local, state, and federal
+20 privacy and information security laws; and
+21 (9) Provides proceeds to a consumer by any means mutually agreed
+22 upon by the consumer and the provider.
+23 (c) If a provider solicits, charges, or receives a tip, gratuity, or
+24 other donation from a consumer, the provider shall clearly and conspicuously
+25 disclose:
+26 (1) To the consumer immediately before each transaction that a
+27 tip, gratuity, or other donation amount may be zero and is voluntary; and
+28 (2) In its service contract with the consumer and elsewhere that
+29 tips, gratuities, or donations are voluntary and that the offering of earned
+30 wage access services, including the amount of proceeds a consumer is eligible
+31 to request and the frequency with which proceeds are provided to a consumer,
+32 is not contingent on whether the consumer pays a tip, gratuity, or other
+33 donation or on the size of the tip, gratuity, or other donation.
+34 (d) If a provider seeks repayment of outstanding proceeds or payment
+35 of fees or other amounts owed, including voluntary tips, gratuities, or other
+36 donations, in connection with the activities covered by this subchapter, from
+4 03-06-2025 13:38:41 ANS261
+
+As Engrossed: H3/4/25 H3/6/25 HB1517
+1 a consumer’s account at a depository institution, including by means of
+2 electronic fund transfer, the provider shall:
+3 (1) Comply with applicable provisions of the Electronic Fund
+4 Transfer Act, 15 U.S.C. 1693 et seq., as it existed on January 1, 2025, and
+5 regulations adopted under the the Electronic Fund Transfer Act, 15 U.S.C.
+6 1693 et seq., as it existed on January 1, 2025; and
+7 (2)(A) Reimburse the consumer for the full amount of any
+8 overdraft or nonsufficient funds fees imposed on a consumer by the consumer’s
+9 depository institution that were caused by the provider's attempting to seek
+10 payment of any outstanding proceeds, fees, or other payments, in connection
+11 with the activities covered by this subchapter, including voluntary tips,
+12 gratuities, or other donations, on a date before, or in an incorrect amount
+13 from, the date or amount disclosed to the consumer.
+14 (B) The provider is not subject to the requirements under
+15 subdivision (d)(2)(A) of this section with respect to payments of outstanding
+16 proceeds or fees incurred by a consumer through fraudulent or other unlawful
+17 means.
+18 (e) A provider shall not:
+19 (1) Share with an employer a portion of any fees, voluntary
+20 tips, gratuities, or other donations that were received from or charged to a
+21 consumer for earned wage access services;
+22 (2) Require a consumer’s credit report or a credit score
+23 provided or issued by a consumer reporting agency to determine a consumer’s
+24 eligibility for earned wage access services;
+25 (3) Accept payment of outstanding proceeds, fees, voluntary
+26 tips, gratuities, or other donations from a consumer by means of a credit
+27 card or charge card;
+28 (4) Charge a consumer a late fee, deferral fee, interest, or any
+29 other penalty or charge for failure to pay outstanding proceeds, fees,
+30 voluntary tips, gratuities, or other donations;
+31 (5) Compel or attempt to compel payment by a consumer of
+32 outstanding proceeds, fees, voluntary tips, gratuities, or other donations to
+33 the provider by:
+34 (A) A suit against the consumer in a court of competent
+35 jurisdiction;
+36 (B) Use of a third party to pursue collection from the
+5 03-06-2025 13:38:41 ANS261
+
+As Engrossed: H3/4/25 H3/6/25 HB1517
+1 consumer on the provider’s behalf; or
+2 (C) Sale of outstanding proceeds, fees, voluntary tips,
+3 gratuities, or other donations to a third-party collector or debt buyer for
+4 collection from a consumer;
+5 (6) Mislead or deceive a consumer about the voluntary nature of
+6 the tips, gratuities, or donations or represent that the tip, gratuity, or
+7 other donation will benefit a specific individual or group of individuals if
+8 the provider solicits, charges, or receives tips, gratuities, or other
+9 donations from a consumer; and
+10 (7) Advertise, print, display, publish, distribute, or broadcast
+11 or cause to be advertised, printed, displayed, published, distributed, or
+12 broadcast, in any manner, any statement or representation with regard to the
+13 earned wage access services offered by the provider that:
+14 (A) Is false, misleading, or deceptive; or
+15 (B) Omits material information that is necessary to make
+16 the statement or representation not false, misleading, or deceptive.
+17
+18 23-52-204. Applicability.
+19 This subchapter does not apply to a corporation organized under the
+20 general banking laws, savings and loan laws, or credit union laws of this
+21 state, any other state, or the United States Government.
+22
+23 /s/Ray
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+6 03-06-2025 13:38:41 ANS261
+
+[DELETED:  A   EBL1     A A   T S  B   S c  C C  S [  S   2  T S   2  A   (]
+[DELETED:  H2 0   ( b o o   ( c a t s    (     ( p     ( c p   ( w b   ( o u p p i    ( o c s   ( b i i p   ( o c]
+[DELETED:  H3 0 e o r    ( d   ( c   ( p   ( b    (     ( p n w     ( w b    ( s p c a s   2  ( d  ( t o b   (   ( t]
+[DELETED:  H4 0   ( m   ( o t c   ( p    ( t    ( t   ( c f   ( w b   ( p   ( u  ( o d   ( t   ( t w t i d  ( o d]
+[DELETED:  H5 0 a e   ( T r 1   ( o d p w g f    ( s p m  (   ( t c   ( p e   ( t c   ( o v   ( o t    ( j    (]
+[DELETED:  H6 0 c    ( g c   ( t o t d   ( o b e    (    ( t   2  T g s  /             ]

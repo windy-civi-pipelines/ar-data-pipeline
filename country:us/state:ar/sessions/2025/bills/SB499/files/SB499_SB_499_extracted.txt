@@ -1,0 +1,417 @@
+Title: Stricken language would be deleted from and underlined language would be added to present law.
+Official Title: Stricken language would be deleted from and underlined language would be added to present law.
+Number of Sections: 1
+Source: versions - SB 499
+Media Type: application/pdf
+Strikethrough Detection: 5 sections found
+
+================================================================================
+
+Section 1:
+1 State of Arkansas
+A Bill
+2 95th General Assembly
+3 Regular Session, 2025 SENATE BILL 499
+4
+5 By: Senators Irvin, J. Dismang, Gilmore, Hester, M. McKee, Stone, Hill, J. Petty, Flippo, B. Davis, J.
+6 Boyd, K. Hammer, J. English
+7 By: Representative J. Moore
+8
+For An Act To Be Entitled
+9
+10 AN ACT TO REPEAL CERTAIN REPORTING REQUIREMENTS FOR
+11 THE STATE INSURANCE DEPARTMENT AND THE STATE
+12 SECURITIES DEPARTMENT; TO REVISE CERTAIN REPORTING
+13 REQUIREMENTS FOR THE STATE INSURANCE DEPARTMENT; AND
+14 FOR OTHER PURPOSES.
+15
+16
+Subtitle
+17
+18 TO REPEAL CERTAIN REPORTING REQUIREMENTS
+19 FOR THE STATE INSURANCE DEPARTMENT AND
+20 THE STATE SECURITIES DEPARTMENT; AND TO
+21 REVISE CERTAIN REPORTING REQUIREMENTS
+22 FOR THE STATE INSURANCE DEPARTMENT.
+23
+24 BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF ARKANSAS:
+25
+26 SECTION 1. Arkansas Code § 23-42-111 is repealed.
+27 23-42-111. Quarterly reports.
+28 (a) The State Securities Department shall provide to the Legislative
+29 Council, or to the Joint Budget Committee if the General Assembly is in
+30 session, on a quarterly basis a report of all funds received or any external
+31 fund transactions recognized or required through court orders or settlement
+32 agreements.
+33 (b) The report required under subsection (a) of this section shall
+34 include:
+35 (1) The case name of the court order or settlement agreement;
+36 (2) The amount of funds received or transaction recognized or
+*ANS387*
+03/18/2025 11:39:54 AM ANS387
+SB499
+1 required by the department for each court order or settlement agreement;
+2 (3)(A) A plan for disbursement of the received funds.
+3 (B) If funds received from a court order or settlement
+4 agreement are expended for any purpose, including investor education and
+5 enforcement activities, the report shall itemize specific activities subject
+6 to the exclusions provided in § 25-1-403(1)(B);
+7 (4) An itemization of the specific investor education and
+8 enforcement activities funded for the department;
+9 (5) An explanation of whether the funds received or transactions
+10 recognized or required from a court order or settlement agreement are
+11 directed to a specific entity, and if so, the department shall provide a
+12 summary of input regarding the drafting of the court order or settlement
+13 agreement;
+14 (6) A report of the rationale for disbursing funds to a specific
+15 entity if the department receives funds from a court order or settlement
+16 agreement that does not require disbursement of funds to a specific entity;
+17 and
+18 (7) A report of current balances of all unappropriated fund
+19 holdings the department received from a court order or settlement agreement.
+20 (c) The department shall provide the reports required under this
+21 section no later than the fifteenth day of the month immediately following
+22 the end of each quarter.
+23
+24 SECTION 2. Arkansas Code § 23-61-112(a), concerning the information
+25 required in the annual report of the State Insurance Department, is amended
+26 to read as follows:
+27 (a) As early in the calendar year as reasonably possible, the
+28 Insurance Commissioner annually shall prepare and deliver a report to the
+29 Secretary of the Department of Commerce showing, with respect to the
+30 preceding calendar year:
+31 (1) Names of the authorized insurers transacting insurance in
+32 this state, with a summary of their financial statements that the
+33 commissioner considers proper;
+34 (2) Names of admitted insurers that closed during the year or
+35 entered liquidation, a concise statement concerning the cause for each
+36 proceeding, and the amount of assets and liabilities as ascertainable;
+2 03/18/2025 11:39:54 AM ANS387
+SB499
+1 (3) The total receipts and expenses of the State Insurance
+2 Department for the year; and
+3 (4) A summary of the department's activities to investigate and
+4 combat health insurance fraud, including without limitation information
+5 regarding:
+6 (A) Referrals received;
+7 (B) Investigations initiated;
+8 (C) Investigations completed; and
+9 (D) Other material necessary or desirable to evaluate the
+10 department's efforts to investigate and combat health insurance fraud; and
+11 (5) Other pertinent information and matters the commissioner
+12 considers proper.
+13
+14 SECTION 3. Arkansas Code § 23-61-116 is repealed.
+15 23-61-116. Annual report on health insurance fraud.
+16 Annually on or before March 1, the Insurance Commissioner shall submit
+17 to the Secretary of the Department of Commerce, the President Pro Tempore of
+18 the Senate, the Speaker of the House of Representatives, and the Attorney
+19 General a report summarizing the State Insurance Department's activities to
+20 investigate and combat health insurance fraud, including without limitation
+21 information regarding:
+22 (1) Referrals received;
+23 (2) Investigations initiated;
+24 (3) Investigations completed; and
+25 (4) Other material necessary or desirable to evaluate the
+26 department's efforts under this section.
+27
+28 SECTION 4. Arkansas Code § 23-61-610 is repealed.
+29 23-61-610. Annual report.
+30 The Administrator of the Risk Management Division shall report annually
+31 to the Governor and the Legislative Council on his or her findings and
+32 recommendations.
+33
+34 SECTION 5. Arkansas Code § 23-61-805(a), concerning reports of the
+35 assessment and user fee under the Arkansas Health Insurance Marketplace, is
+36 amended to read as follows:
+3 03/18/2025 11:39:54 AM ANS387
+SB499
+1 (a)(1) The General Assembly shall establish a reasonable initial
+2 assessment or user fee and reasonable increases or decreases in the amount of
+3 future assessments or user fees and penalties and interest charges for
+4 nonpayment of an assessment or user fee charged to participating health
+5 insurers for the efficient operation of the Arkansas Health Insurance
+6 Marketplace.
+7 (2) Annually by October 1, the State Insurance Department shall
+8 report to the Legislative Council in the manner and format that the
+9 Legislative Council requires the recommendations of the department for the
+10 initial assessment or user fee and increases or decreases in the amount of
+11 future assessments or user fees and penalties and interest charges for
+12 nonpayment of an assessment or user fee charged to participating health
+13 insurers.
+14 (3) Annually by December 1, the Legislative Council shall review
+15 the recommendations of the department under subdivision (a)(2) of this
+16 section and report to the President Pro Tempore of the Senate and the Speaker
+17 of the House of Representatives the recommendations of the Legislative
+18 Council for the initial assessment or user fee and future increases or
+19 decreases in the amount of assessments or user fees and penalties and
+20 interest charges for nonpayment of an assessment or user fee charged to
+21 participating health insurers.
+22
+23 SECTION 6. Arkansas Code § 23-67-313(b) and (c), concerning the report
+24 of the Arkansas Workers' Compensation Insurance Plan and servicing carriers,
+25 are amended to read as follows:
+26 (b) The commissioner shall review the plan operations to ensure
+27 compliance with this act. The commissioner shall review and report to the
+28 Legislative Council and the Senate Committee on Insurance and Commerce and
+29 the House Committee on Insurance and Commerce by September 1 of each year,
+30 with the first report to be submitted no later than September 1, 1997,
+31 including, but not limited to, the following information:
+32 (1) Competitive selection of the administrator and servicing
+33 carriers;
+34 (2) Plan operating performance and service in accordance with
+35 the intent of this act, including performance reviews of the administrator,
+36 servicing carriers, and plan rules;
+4 03/18/2025 11:39:54 AM ANS387
+SB499
+1 (3) Proper authority and independence of the Arkansas office to
+2 properly perform and secure prompt, fair, and reasonable service as required
+3 by this act; and
+4 (4) Coverage provided by the plan in other states, including
+5 evidence providing that carriers promptly provide coverage for employees of
+6 Arkansas employers working in other states as provided in this act.
+7 (c) The commissioner is encouraged to hold public hearings as needed
+8 to assist in achieving the objectives of this act and to assist with the
+9 review and report provided to the Legislative Council and the Senate
+10 Committee on Insurance and Commerce and the House Committee on Insurance and
+11 Commerce.
+12
+13 SECTION 7. Arkansas Code § 23-79-1503(c), concerning the rules and
+14 reporting requirements under Wendelyn's Craniofacial Law — Craniofacial
+15 Coverage, is amended to read as follows:
+16 (c) The department shall submit biannual reports a report to the Chair
+17 of the House Committee on Insurance and Commerce and the Chair of the Senate
+18 Committee on Insurance and Commerce upon receipt of a request from:
+19 (1) A cochair of the House Committee on Insurance and Commerce;
+20 or
+21 (2) A cochair of the Senate Committee on Insurance and Commerce.
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+5 03/18/2025 11:39:54 AM ANS387
+[DELETED:       A T S R F  T F T R F  B   S  2  ( C s f a  ( i   (   (]
+[DELETED: S2 0 r   (    ( a e t   ( e   ( r d s a   ( e a a   ( h  ( s t   S r t  ( I S p   ( t c   ( e p]
+[DELETED: S3 0   ( D   ( c r    (    (    (    ( d   ( c   S  2  A t t G i i   (   (   (   ( d   S  2  T t r   S a a]
+[DELETED: S4 0  ( a f n i M   ( r L i f n i   ( t s o C d i p   S o a  ( c L t w i   ( c   ( t s]
+[DELETED: S5 0   ( p b   ( e A  ( t r C C   S r C  ( o C   ( o   (]
+
+
+================================================================================
+
+Raw Text:
+Stricken language would be deleted from and underlined language would be added to present law.
+1 State of Arkansas
+A Bill
+2 95th General Assembly
+3 Regular Session, 2025 SENATE BILL 499
+4
+5 By: Senators Irvin, J. Dismang, Gilmore, Hester, M. McKee, Stone, Hill, J. Petty, Flippo, B. Davis, J.
+6 Boyd, K. Hammer, J. English
+7 By: Representative J. Moore
+8
+For An Act To Be Entitled
+9
+10 AN ACT TO REPEAL CERTAIN REPORTING REQUIREMENTS FOR
+11 THE STATE INSURANCE DEPARTMENT AND THE STATE
+12 SECURITIES DEPARTMENT; TO REVISE CERTAIN REPORTING
+13 REQUIREMENTS FOR THE STATE INSURANCE DEPARTMENT; AND
+14 FOR OTHER PURPOSES.
+15
+16
+Subtitle
+17
+18 TO REPEAL CERTAIN REPORTING REQUIREMENTS
+19 FOR THE STATE INSURANCE DEPARTMENT AND
+20 THE STATE SECURITIES DEPARTMENT; AND TO
+21 REVISE CERTAIN REPORTING REQUIREMENTS
+22 FOR THE STATE INSURANCE DEPARTMENT.
+23
+24 BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF ARKANSAS:
+25
+26 SECTION 1. Arkansas Code § 23-42-111 is repealed.
+27 23-42-111. Quarterly reports.
+28 (a) The State Securities Department shall provide to the Legislative
+29 Council, or to the Joint Budget Committee if the General Assembly is in
+30 session, on a quarterly basis a report of all funds received or any external
+31 fund transactions recognized or required through court orders or settlement
+32 agreements.
+33 (b) The report required under subsection (a) of this section shall
+34 include:
+35 (1) The case name of the court order or settlement agreement;
+36 (2) The amount of funds received or transaction recognized or
+*ANS387*
+03/18/2025 11:39:54 AM ANS387
+
+SB499
+1 required by the department for each court order or settlement agreement;
+2 (3)(A) A plan for disbursement of the received funds.
+3 (B) If funds received from a court order or settlement
+4 agreement are expended for any purpose, including investor education and
+5 enforcement activities, the report shall itemize specific activities subject
+6 to the exclusions provided in § 25-1-403(1)(B);
+7 (4) An itemization of the specific investor education and
+8 enforcement activities funded for the department;
+9 (5) An explanation of whether the funds received or transactions
+10 recognized or required from a court order or settlement agreement are
+11 directed to a specific entity, and if so, the department shall provide a
+12 summary of input regarding the drafting of the court order or settlement
+13 agreement;
+14 (6) A report of the rationale for disbursing funds to a specific
+15 entity if the department receives funds from a court order or settlement
+16 agreement that does not require disbursement of funds to a specific entity;
+17 and
+18 (7) A report of current balances of all unappropriated fund
+19 holdings the department received from a court order or settlement agreement.
+20 (c) The department shall provide the reports required under this
+21 section no later than the fifteenth day of the month immediately following
+22 the end of each quarter.
+23
+24 SECTION 2. Arkansas Code § 23-61-112(a), concerning the information
+25 required in the annual report of the State Insurance Department, is amended
+26 to read as follows:
+27 (a) As early in the calendar year as reasonably possible, the
+28 Insurance Commissioner annually shall prepare and deliver a report to the
+29 Secretary of the Department of Commerce showing, with respect to the
+30 preceding calendar year:
+31 (1) Names of the authorized insurers transacting insurance in
+32 this state, with a summary of their financial statements that the
+33 commissioner considers proper;
+34 (2) Names of admitted insurers that closed during the year or
+35 entered liquidation, a concise statement concerning the cause for each
+36 proceeding, and the amount of assets and liabilities as ascertainable;
+2 03/18/2025 11:39:54 AM ANS387
+
+SB499
+1 (3) The total receipts and expenses of the State Insurance
+2 Department for the year; and
+3 (4) A summary of the department's activities to investigate and
+4 combat health insurance fraud, including without limitation information
+5 regarding:
+6 (A) Referrals received;
+7 (B) Investigations initiated;
+8 (C) Investigations completed; and
+9 (D) Other material necessary or desirable to evaluate the
+10 department's efforts to investigate and combat health insurance fraud; and
+11 (5) Other pertinent information and matters the commissioner
+12 considers proper.
+13
+14 SECTION 3. Arkansas Code § 23-61-116 is repealed.
+15 23-61-116. Annual report on health insurance fraud.
+16 Annually on or before March 1, the Insurance Commissioner shall submit
+17 to the Secretary of the Department of Commerce, the President Pro Tempore of
+18 the Senate, the Speaker of the House of Representatives, and the Attorney
+19 General a report summarizing the State Insurance Department's activities to
+20 investigate and combat health insurance fraud, including without limitation
+21 information regarding:
+22 (1) Referrals received;
+23 (2) Investigations initiated;
+24 (3) Investigations completed; and
+25 (4) Other material necessary or desirable to evaluate the
+26 department's efforts under this section.
+27
+28 SECTION 4. Arkansas Code § 23-61-610 is repealed.
+29 23-61-610. Annual report.
+30 The Administrator of the Risk Management Division shall report annually
+31 to the Governor and the Legislative Council on his or her findings and
+32 recommendations.
+33
+34 SECTION 5. Arkansas Code § 23-61-805(a), concerning reports of the
+35 assessment and user fee under the Arkansas Health Insurance Marketplace, is
+36 amended to read as follows:
+3 03/18/2025 11:39:54 AM ANS387
+
+SB499
+1 (a)(1) The General Assembly shall establish a reasonable initial
+2 assessment or user fee and reasonable increases or decreases in the amount of
+3 future assessments or user fees and penalties and interest charges for
+4 nonpayment of an assessment or user fee charged to participating health
+5 insurers for the efficient operation of the Arkansas Health Insurance
+6 Marketplace.
+7 (2) Annually by October 1, the State Insurance Department shall
+8 report to the Legislative Council in the manner and format that the
+9 Legislative Council requires the recommendations of the department for the
+10 initial assessment or user fee and increases or decreases in the amount of
+11 future assessments or user fees and penalties and interest charges for
+12 nonpayment of an assessment or user fee charged to participating health
+13 insurers.
+14 (3) Annually by December 1, the Legislative Council shall review
+15 the recommendations of the department under subdivision (a)(2) of this
+16 section and report to the President Pro Tempore of the Senate and the Speaker
+17 of the House of Representatives the recommendations of the Legislative
+18 Council for the initial assessment or user fee and future increases or
+19 decreases in the amount of assessments or user fees and penalties and
+20 interest charges for nonpayment of an assessment or user fee charged to
+21 participating health insurers.
+22
+23 SECTION 6. Arkansas Code § 23-67-313(b) and (c), concerning the report
+24 of the Arkansas Workers' Compensation Insurance Plan and servicing carriers,
+25 are amended to read as follows:
+26 (b) The commissioner shall review the plan operations to ensure
+27 compliance with this act. The commissioner shall review and report to the
+28 Legislative Council and the Senate Committee on Insurance and Commerce and
+29 the House Committee on Insurance and Commerce by September 1 of each year,
+30 with the first report to be submitted no later than September 1, 1997,
+31 including, but not limited to, the following information:
+32 (1) Competitive selection of the administrator and servicing
+33 carriers;
+34 (2) Plan operating performance and service in accordance with
+35 the intent of this act, including performance reviews of the administrator,
+36 servicing carriers, and plan rules;
+4 03/18/2025 11:39:54 AM ANS387
+
+SB499
+1 (3) Proper authority and independence of the Arkansas office to
+2 properly perform and secure prompt, fair, and reasonable service as required
+3 by this act; and
+4 (4) Coverage provided by the plan in other states, including
+5 evidence providing that carriers promptly provide coverage for employees of
+6 Arkansas employers working in other states as provided in this act.
+7 (c) The commissioner is encouraged to hold public hearings as needed
+8 to assist in achieving the objectives of this act and to assist with the
+9 review and report provided to the Legislative Council and the Senate
+10 Committee on Insurance and Commerce and the House Committee on Insurance and
+11 Commerce.
+12
+13 SECTION 7. Arkansas Code § 23-79-1503(c), concerning the rules and
+14 reporting requirements under Wendelyn's Craniofacial Law — Craniofacial
+15 Coverage, is amended to read as follows:
+16 (c) The department shall submit biannual reports a report to the Chair
+17 of the House Committee on Insurance and Commerce and the Chair of the Senate
+18 Committee on Insurance and Commerce upon receipt of a request from:
+19 (1) A cochair of the House Committee on Insurance and Commerce;
+20 or
+21 (2) A cochair of the Senate Committee on Insurance and Commerce.
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+5 03/18/2025 11:39:54 AM ANS387
+
+[DELETED:       A T S R F  T F T R F  B   S  2  ( C s f a  ( i   (   (]
+[DELETED: S2 0 r   (    ( a e t   ( e   ( r d s a   ( e a a   ( h  ( s t   S r t  ( I S p   ( t c   ( e p]
+[DELETED: S3 0   ( D   ( c r    (    (    (    ( d   ( c   S  2  A t t G i i   (   (   (   ( d   S  2  T t r   S a a]
+[DELETED: S4 0  ( a f n i M   ( r L i f n i   ( t s o C d i p   S o a  ( c L t w i   ( c   ( t s]
+[DELETED: S5 0   ( p b   ( e A  ( t r C C   S r C  ( o C   ( o   (]

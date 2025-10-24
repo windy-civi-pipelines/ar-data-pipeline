@@ -1,0 +1,259 @@
+Title: Stricken language would be deleted from and underlined language would be added to present law.
+Official Title: Stricken language would be deleted from and underlined language would be added to present law.
+Number of Sections: 1
+Source: versions - SB 261
+Media Type: application/pdf
+Strikethrough Detection: 3 sections found
+
+================================================================================
+
+Section 1:
+1 State of Arkansas As Engrossed: S3/10/25
+A Bill
+2 95th General Assembly
+3 Regular Session, 2025 SENATE BILL 261
+4
+5 By: Senator A. Clark
+6 By: Representative Womack
+7
+For An Act To Be Entitled
+8
+9 AN ACT TO AMEND THE LAW CONCERNING THE OPERATION OF
+10 AN ALL-TERRAIN VEHICLE ON CERTAIN ROADS; TO AMEND THE
+11 LAW CONCERNING THE ACCESS OF ALL-TERRAIN VEHICLES TO
+12 UNPAVED ROADS; AND FOR OTHER PURPOSES.
+13
+14
+Subtitle
+15
+16 TO AMEND THE LAW CONCERNING THE
+17 OPERATION OF AN ALL-TERRAIN VEHICLE ON
+18 CERTAIN ROADS; AND TO AMEND THE LAW
+19 CONCERNING THE ACCESS OF ALL-TERRAIN
+20 VEHICLES TO UNPAVED ROADS.
+21
+22 BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF ARKANSAS:
+23
+24 SECTION 1. Arkansas Code § 27-21-102, concerning the definitions to be
+25 used in relation to all-terrain vehicles, is amended to add an additional
+26 subdivision to read as follows:
+27 (5)(A) "Unpaved road" means a public street or highway that is
+28 not paved with asphalt, chip-seal, concrete, brick, or stone.
+29 (B) "Unpaved road" includes without limitation a road
+30 constructed of:
+31 (i) Dirt; or
+32 (ii) Gravel.
+33
+34 SECTION 2. Arkansas Code § 27-21-106(a)(1), concerning the operation
+35 of all-terrain vehicles on public streets and highways, is amended to read as
+36 follows:
+*ZRC038*
+03-10-2025 10:28:22 ZRC038
+As Engrossed: S3/10/25 SB261
+1 (1) A person may operate an all-terrain vehicle on a public
+2 street or highway if the all-terrain vehicle is:
+3 (A) Both:
+4 (i) Used in farming or hunting operations; and
+5 (B)(ii) Operated on a public street or highway in
+6 order to get from one field to another; or
+7 (B) Operated:
+8 (i) Except as provided in subsection (c) of this
+9 section, on a public street or highway that is unpaved; and
+10 (ii) By a person who:
+11 (a) Is a:
+12 (1) Resident of this state who has a
+13 valid commercial driver license or noncommercial driver's license issued by
+14 this state in his or her immediate possession as required under § 27-16-601;
+15 or
+16 (2) Nonresident who is subject to the
+17 exemption from the licensing requirements of this state under § 27-16-603(3)
+18 or (4); and
+19 (b) Maintains liability insurance on the all-
+20 terrain vehicle that provides at a minimum the following coverage:
+21 (i) Not less than twenty-five thousand
+22 dollars ($25,000) for bodily injury or death of one (1) person in any one (1)
+23 accident; and
+24 (ii) If the accident results in damage
+25 to or destruction of property, not less than twenty-five thousand dollars
+26 ($25,000) for the damage to or destruction of property of others in any one
+27 (1) accident.
+28
+29 SECTION 3. Arkansas Code § 27-21-106(a)(3)(A), concerning the
+30 operation of an all-terrain vehicle on public streets and highways, is
+31 amended to read as follows:
+32 (3)(A) A person who has lost one (1) or both legs above the
+33 ankle or who otherwise has a serious walking disability is permitted to
+34 operate a three-wheeled, four-wheeled, or six-wheeled all-terrain vehicle as
+35 a means of transportation on any of the following:
+36 (i) A nonhard-surfaced An unpaved road;
+2 03-10-2025 10:28:22 ZRC038
+As Engrossed: S3/10/25 SB261
+1 (ii) The shoulder of a state or federal highway,
+2 except as provided under subdivision (a)(3)(E) of this section; or
+3 (iii) A public street or road when traveling on the
+4 public street or road is the most reasonable route of access available to him
+5 or her from one off-road trail to another off-road trail or from his or her
+6 private property to an off-road trail.
+7
+8 SECTION 4. Arkansas Code § 27-21-106, concerning the operation
+9 of an all-terrain vehicle on public streets and highways, is amended to add
+10 an additional subsection to read as follows:
+11 (c) The quorum court of a county may adopt an ordinance to prohibit
+12 the operation of an all-terrain vehicle under subdivision (a)(1)(B) of this
+13 section on unpaved roads located in the county by a two-thirds (2/3) vote of
+14 the total membership of the quorum court.
+15
+16 /s/A. Clark
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+3 03-10-2025 10:28:22 ZRC038
+[DELETED:  A   EBL2     A A L U   T O C C V  B   S u s   ( n    ( c     (   (   S o f]
+[DELETED:  S2 0   ( s    (     (     ( o    (     ( s     (      (       ( v t o       ( e o      ( t       ( d a       ( t ( (   S o a   ( a o a     (]
+[DELETED:  S3 0     ( e     ( p o p    S o a ( t s t  /                    ]
+
+
+================================================================================
+
+Raw Text:
+Stricken language would be deleted from and underlined language would be added to present law.
+1 State of Arkansas As Engrossed: S3/10/25
+A Bill
+2 95th General Assembly
+3 Regular Session, 2025 SENATE BILL 261
+4
+5 By: Senator A. Clark
+6 By: Representative Womack
+7
+For An Act To Be Entitled
+8
+9 AN ACT TO AMEND THE LAW CONCERNING THE OPERATION OF
+10 AN ALL-TERRAIN VEHICLE ON CERTAIN ROADS; TO AMEND THE
+11 LAW CONCERNING THE ACCESS OF ALL-TERRAIN VEHICLES TO
+12 UNPAVED ROADS; AND FOR OTHER PURPOSES.
+13
+14
+Subtitle
+15
+16 TO AMEND THE LAW CONCERNING THE
+17 OPERATION OF AN ALL-TERRAIN VEHICLE ON
+18 CERTAIN ROADS; AND TO AMEND THE LAW
+19 CONCERNING THE ACCESS OF ALL-TERRAIN
+20 VEHICLES TO UNPAVED ROADS.
+21
+22 BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF ARKANSAS:
+23
+24 SECTION 1. Arkansas Code § 27-21-102, concerning the definitions to be
+25 used in relation to all-terrain vehicles, is amended to add an additional
+26 subdivision to read as follows:
+27 (5)(A) "Unpaved road" means a public street or highway that is
+28 not paved with asphalt, chip-seal, concrete, brick, or stone.
+29 (B) "Unpaved road" includes without limitation a road
+30 constructed of:
+31 (i) Dirt; or
+32 (ii) Gravel.
+33
+34 SECTION 2. Arkansas Code § 27-21-106(a)(1), concerning the operation
+35 of all-terrain vehicles on public streets and highways, is amended to read as
+36 follows:
+*ZRC038*
+03-10-2025 10:28:22 ZRC038
+
+As Engrossed: S3/10/25 SB261
+1 (1) A person may operate an all-terrain vehicle on a public
+2 street or highway if the all-terrain vehicle is:
+3 (A) Both:
+4 (i) Used in farming or hunting operations; and
+5 (B)(ii) Operated on a public street or highway in
+6 order to get from one field to another; or
+7 (B) Operated:
+8 (i) Except as provided in subsection (c) of this
+9 section, on a public street or highway that is unpaved; and
+10 (ii) By a person who:
+11 (a) Is a:
+12 (1) Resident of this state who has a
+13 valid commercial driver license or noncommercial driver's license issued by
+14 this state in his or her immediate possession as required under § 27-16-601;
+15 or
+16 (2) Nonresident who is subject to the
+17 exemption from the licensing requirements of this state under § 27-16-603(3)
+18 or (4); and
+19 (b) Maintains liability insurance on the all-
+20 terrain vehicle that provides at a minimum the following coverage:
+21 (i) Not less than twenty-five thousand
+22 dollars ($25,000) for bodily injury or death of one (1) person in any one (1)
+23 accident; and
+24 (ii) If the accident results in damage
+25 to or destruction of property, not less than twenty-five thousand dollars
+26 ($25,000) for the damage to or destruction of property of others in any one
+27 (1) accident.
+28
+29 SECTION 3. Arkansas Code § 27-21-106(a)(3)(A), concerning the
+30 operation of an all-terrain vehicle on public streets and highways, is
+31 amended to read as follows:
+32 (3)(A) A person who has lost one (1) or both legs above the
+33 ankle or who otherwise has a serious walking disability is permitted to
+34 operate a three-wheeled, four-wheeled, or six-wheeled all-terrain vehicle as
+35 a means of transportation on any of the following:
+36 (i) A nonhard-surfaced An unpaved road;
+2 03-10-2025 10:28:22 ZRC038
+
+As Engrossed: S3/10/25 SB261
+1 (ii) The shoulder of a state or federal highway,
+2 except as provided under subdivision (a)(3)(E) of this section; or
+3 (iii) A public street or road when traveling on the
+4 public street or road is the most reasonable route of access available to him
+5 or her from one off-road trail to another off-road trail or from his or her
+6 private property to an off-road trail.
+7
+8 SECTION 4. Arkansas Code § 27-21-106, concerning the operation
+9 of an all-terrain vehicle on public streets and highways, is amended to add
+10 an additional subsection to read as follows:
+11 (c) The quorum court of a county may adopt an ordinance to prohibit
+12 the operation of an all-terrain vehicle under subdivision (a)(1)(B) of this
+13 section on unpaved roads located in the county by a two-thirds (2/3) vote of
+14 the total membership of the quorum court.
+15
+16 /s/A. Clark
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+3 03-10-2025 10:28:22 ZRC038
+
+[DELETED:  A   EBL2     A A L U   T O C C V  B   S u s   ( n    ( c     (   (   S o f]
+[DELETED:  S2 0   ( s    (     (     ( o    (     ( s     (      (       ( v t o       ( e o      ( t       ( d a       ( t ( (   S o a   ( a o a     (]
+[DELETED:  S3 0     ( e     ( p o p    S o a ( t s t  /                    ]

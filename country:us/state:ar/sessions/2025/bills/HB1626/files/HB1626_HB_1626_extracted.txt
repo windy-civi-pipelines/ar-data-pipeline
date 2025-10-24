@@ -1,0 +1,180 @@
+Title: Stricken language would be deleted from and underlined language would be added to present law.
+Official Title: Stricken language would be deleted from and underlined language would be added to present law.
+Number of Sections: 1
+Source: versions - HB 1626
+Media Type: application/pdf
+Strikethrough Detection: 2 sections found
+
+================================================================================
+
+Section 1:
+1 State of Arkansas As Engrossed: H3/4/25 H3/19/25
+A Bill
+2 95th General Assembly
+3 Regular Session, 2025 HOUSE BILL 1626
+4
+5 By: Representatives Duffield, Achor, F. Allen, Andrews, Barnes, Barnett, Beaty Jr., Beck, Bentley, S.
+6 Berry, Breaux, Brooks, K. Brown, Joey Carr, Childress, C. Cooper, Cozart, Crawford, Dalby, Duke,
+7 Eaton, Eaves, Ennett, K. Ferguson, D. Garner, Gazaway, Gramlich, Hall, Hawk, Holcomb, Hollowell,
+8 Hudson, Jean, L. Johnson, Long, Lundstrum, Lynch, Maddox, Magie, J. Mayberry, McAlindon, McClure,
+9 McCullough, M. McElroy, McGrew, McGruder, McNair, Milligan, Nazarenko, Painter, Perry, Pilkington,
+10 Puryear, J. Richardson, Richmond, Rose, Rye, Schulz, T. Shephard, Steele, Torres, Tosh, Unger, Walker,
+11 Warren, D. Whitaker, Wooten
+12 By: Senators Irvin, G. Stubblefield, Stone, D. Wallace, J. Petty, Dees, C. Tucker, J. Bryant
+13
+For An Act To Be Entitled
+14
+15 AN ACT TO PROHIBIT THE SALE OF DISPOSABLE VAPOR
+16 PRODUCTS FROM A PROHIBITED FOREIGN PARTY; AND FOR
+17 OTHER PURPOSES.
+18
+19
+Subtitle
+20
+21 TO PROHIBIT THE SALE OF DISPOSAL VAPOR
+22 PRODUCTS FROM A PROHIBITED FOREIGN
+23 PARTY.
+24
+25 BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF ARKANSAS:
+26
+27 SECTION 1. Arkansas Code § 26-57-203, concerning definitions within
+28 the Arkansas Tobacco Products Tax Act of 1977, is amended to add additional
+29 subdivisions to read as follows:
+30 (38) "Disposable vapor product" means a vapor product that:
+31 (A) Has a battery that is not detachable from the atomizer
+32 or vaporizer;
+33 (B) Cannot be refilled with e-liquid; and
+34 (C) Is designed to be disposed of after the e-liquid is
+35 used; and
+36 (39) “Prohibited foreign party” means the same as in § 18-11-802.
+*JMB119*
+03-19-2025 14:13:28 JMB119
+As Engrossed: H3/4/25 H3/19/25 HB1626
+1
+2 SECTION 2. Arkansas Code Title 26, Chapter 57, Subchapter 2, is
+3 amended to add an additional section to read as follows:
+4 26-57-269. Prohibition on sale of disposable vapor product.
+5 (a) A person or entity shall not sell or offer for sale at retail in
+6 this state a disposable vapor product from a prohibited foreign party.
+7 (b)(1) The Director of Arkansas Tobacco Control may seize and hold for
+8 disposition of the courts or the Arkansas Tobacco Control Board any
+9 disposable vapor product sold or offered for sale in violation of this
+10 section.
+11 (2) The processes of seizure, forfeiture, and disposition under
+12 § 26-57-247 and the destruction of the seized products under § 26-57-249
+13 shall apply to this section.
+14 (c) A violation of subsection (a) of this section is a Class A
+15 misdemeanor.
+16 (d) This section does not apply to a product that has been approved by
+17 the United States Food and Drug Administration.
+18
+19 SECTION 3. DO NOT CODIFY. TEMPORARY LANGUAGE. Notice of act
+20 requirements and allowance of a grace period.
+21 The Director of Arkansas Tobacco Control shall notify manufacturers,
+22 wholesalers, retailers, and vendors licensed under § 26-57-219 of:
+23 (1) The requirements of this act and the time frame in which
+24 compliance is required; and
+25 (2) The allowance of a ninety-day grace period following the
+26 effective date of this act during which any disposal vapor product from a
+27 prohibited foreign party in their possession shall be liquidated, sold, or
+28 disposed of.
+29
+30 /s/Duffield
+31
+32
+33
+34
+35
+36
+2 03-19-2025 14:13:28 JMB119
+[DELETED:  A       A P O   T P P  B   S t s   (    ( o    (    ( u (]
+[DELETED:  H2 0   S a  2  ( t  ( d d s   ( § s  ( m  ( t   S r  T w   ( c   ( e p d  /      ]
+
+
+================================================================================
+
+Raw Text:
+Stricken language would be deleted from and underlined language would be added to present law.
+1 State of Arkansas As Engrossed: H3/4/25 H3/19/25
+A Bill
+2 95th General Assembly
+3 Regular Session, 2025 HOUSE BILL 1626
+4
+5 By: Representatives Duffield, Achor, F. Allen, Andrews, Barnes, Barnett, Beaty Jr., Beck, Bentley, S.
+6 Berry, Breaux, Brooks, K. Brown, Joey Carr, Childress, C. Cooper, Cozart, Crawford, Dalby, Duke,
+7 Eaton, Eaves, Ennett, K. Ferguson, D. Garner, Gazaway, Gramlich, Hall, Hawk, Holcomb, Hollowell,
+8 Hudson, Jean, L. Johnson, Long, Lundstrum, Lynch, Maddox, Magie, J. Mayberry, McAlindon, McClure,
+9 McCullough, M. McElroy, McGrew, McGruder, McNair, Milligan, Nazarenko, Painter, Perry, Pilkington,
+10 Puryear, J. Richardson, Richmond, Rose, Rye, Schulz, T. Shephard, Steele, Torres, Tosh, Unger, Walker,
+11 Warren, D. Whitaker, Wooten
+12 By: Senators Irvin, G. Stubblefield, Stone, D. Wallace, J. Petty, Dees, C. Tucker, J. Bryant
+13
+For An Act To Be Entitled
+14
+15 AN ACT TO PROHIBIT THE SALE OF DISPOSABLE VAPOR
+16 PRODUCTS FROM A PROHIBITED FOREIGN PARTY; AND FOR
+17 OTHER PURPOSES.
+18
+19
+Subtitle
+20
+21 TO PROHIBIT THE SALE OF DISPOSAL VAPOR
+22 PRODUCTS FROM A PROHIBITED FOREIGN
+23 PARTY.
+24
+25 BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF ARKANSAS:
+26
+27 SECTION 1. Arkansas Code § 26-57-203, concerning definitions within
+28 the Arkansas Tobacco Products Tax Act of 1977, is amended to add additional
+29 subdivisions to read as follows:
+30 (38) "Disposable vapor product" means a vapor product that:
+31 (A) Has a battery that is not detachable from the atomizer
+32 or vaporizer;
+33 (B) Cannot be refilled with e-liquid; and
+34 (C) Is designed to be disposed of after the e-liquid is
+35 used; and
+36 (39) “Prohibited foreign party” means the same as in § 18-11-802.
+*JMB119*
+03-19-2025 14:13:28 JMB119
+
+As Engrossed: H3/4/25 H3/19/25 HB1626
+1
+2 SECTION 2. Arkansas Code Title 26, Chapter 57, Subchapter 2, is
+3 amended to add an additional section to read as follows:
+4 26-57-269. Prohibition on sale of disposable vapor product.
+5 (a) A person or entity shall not sell or offer for sale at retail in
+6 this state a disposable vapor product from a prohibited foreign party.
+7 (b)(1) The Director of Arkansas Tobacco Control may seize and hold for
+8 disposition of the courts or the Arkansas Tobacco Control Board any
+9 disposable vapor product sold or offered for sale in violation of this
+10 section.
+11 (2) The processes of seizure, forfeiture, and disposition under
+12 § 26-57-247 and the destruction of the seized products under § 26-57-249
+13 shall apply to this section.
+14 (c) A violation of subsection (a) of this section is a Class A
+15 misdemeanor.
+16 (d) This section does not apply to a product that has been approved by
+17 the United States Food and Drug Administration.
+18
+19 SECTION 3. DO NOT CODIFY. TEMPORARY LANGUAGE. Notice of act
+20 requirements and allowance of a grace period.
+21 The Director of Arkansas Tobacco Control shall notify manufacturers,
+22 wholesalers, retailers, and vendors licensed under § 26-57-219 of:
+23 (1) The requirements of this act and the time frame in which
+24 compliance is required; and
+25 (2) The allowance of a ninety-day grace period following the
+26 effective date of this act during which any disposal vapor product from a
+27 prohibited foreign party in their possession shall be liquidated, sold, or
+28 disposed of.
+29
+30 /s/Duffield
+31
+32
+33
+34
+35
+36
+2 03-19-2025 14:13:28 JMB119
+
+[DELETED:  A       A P O   T P P  B   S t s   (    ( o    (    ( u (]
+[DELETED:  H2 0   S a  2  ( t  ( d d s   ( § s  ( m  ( t   S r  T w   ( c   ( e p d  /      ]

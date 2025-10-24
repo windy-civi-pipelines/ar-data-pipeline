@@ -1,0 +1,338 @@
+Title: Stricken language would be deleted from and underlined language would be added to present law.
+Official Title: Stricken language would be deleted from and underlined language would be added to present law.
+Number of Sections: 1
+Source: versions - HB 1494
+Media Type: application/pdf
+Strikethrough Detection: 4 sections found
+
+================================================================================
+
+Section 1:
+1 State of Arkansas
+A Bill
+2 95th General Assembly
+3 Regular Session, 2025 HOUSE BILL 1494
+4
+5 By: Representative Hawk
+6 By: Senator Hill
+7
+For An Act To Be Entitled
+8
+9 AN ACT TO CREATE THE ARKANSAS GUIDANCE OUT OF THE
+10 DARKNESS ACT; TO REQUIRE STATE AGENCIES TO PUBLISH
+11 FEDERAL GUIDANCE DOCUMENTS ONLINE; AND FOR OTHER
+12 PURPOSES.
+13
+14
+Subtitle
+15
+16 TO CREATE THE ARKANSAS GUIDANCE OUT OF
+17 THE DARKNESS ACT; AND TO REQUIRE STATE
+18 AGENCIES TO PUBLISH FEDERAL GUIDANCE
+19 DOCUMENTS ONLINE.
+20
+21 BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF ARKANSAS:
+22
+23 SECTION 1. Arkansas Code Title 25, Chapter 1, is amended to add an
+24 additional subchapter to read as follows:
+25 Subchapter 13 — Arkansas Guidance Out of the Darkness Act
+26
+27 25-1-1301. Title.
+28 This subchapter shall be known and cited as the "Arkansas Guidance Out
+29 of the Darkness Act" or “Ark-GOOD Act".
+30
+31 25-1-1302. Legislative findings and intent.
+32 (a) The General Assembly finds that:
+33 (1) Transparency in government is essential to ensuring
+34 accountability and maintaining public trust;
+35 (2) Despite lacking the force of law, guidance from the United
+36 States Government often:
+*LGL075*
+02/17/2025 10:21:51 AM LGL075
+HB1494
+1 (A) Influences state agency decision-making and regulatory
+2 enforcement; and
+3 (B) Provides insight into the interpretation of the law by
+4 federal agencies; and
+5 (3) The public has a right to know what federal guidance
+6 documents are received by state agencies and how those documents might impact
+7 state policies and procedures.
+8 (b) It is the intent of the General Assembly to require state agencies
+9 to:
+10 (A) Publish all federal guidance documents received by the state
+11 agency from the United States Government; and
+12 (B) Organize the federal guidance documents in an online format
+13 to promote transparency and accountability.
+14
+15 25-1-1303. Definitions.
+16 As used in this subchapter:
+17 (1) "Federal agency" means the same as "agency" as defined under
+18 5 U.S.C. § 551 as it existed on January 1, 2025;
+19 (2)(A) "Federal guidance document" means a statement issued by a
+20 federal agency that:
+21 (i) Sets forth a policy on a statutory, regulatory,
+22 or technical issue; or
+23 (ii) Provides an interpretation of a federal statute
+24 or regulation.
+25 (B) A federal guidance document may include without
+26 limitation a written or electronic directive, memorandum, notice, bulletin,
+27 letter, or policy statement.
+28 (C) "Federal guidance document" does not include a rule
+29 promulgated under 5 U.S.C. § 553 as it existed on January 1, 2025;
+30 (3) "Publicly accessible website" means a website maintained by
+31 a state agency that is available to the public with no login, subscription,
+32 or payment requirement; and
+33 (4) "State agency" means every agency, authority, board, bureau,
+34 commission, council, department, division, and officer of this state,
+35 including without limitation a state-supported institution of higher
+36 education.
+2 02/17/2025 10:21:51 AM LGL075
+HB1494
+1
+2 25-1-1304. Publication of a federal guidance document.
+3 (a) A state agency shall create a webpage on its publicly accessible
+4 website to publish a federal guidance document received by the state agency
+5 that:
+6 (1) Seeks to influence the state agency’s:
+7 (A) Interpretation, enforcement, or implementation of
+8 state laws, rules, or policies; or
+9 (B) Administration of federal funds; or
+10 (2) Provides recommendations or instructions to the state agency
+11 on compliance with federal laws or regulations.
+12 (b) A state agency that publishes a webpage under subsection (a) of
+13 this section to display a federal guidance document shall provide:
+14 (1) The full text or an electronic copy of the federal guidance
+15 document;
+16 (2) The date that the federal guidance document was received by
+17 the state agency; and
+18 (3) A brief content summary of the federal guidance document and
+19 its potential impact on the operations or policies of the state agency.
+20
+21 25-1-1305. Timeliness of Publication.
+22 (a) A state agency shall publish a federal guidance document required
+23 under § 25-1-1304 within thirty (30) days of receipt.
+24 (b) A state agency that receives a federal guidance document that is
+25 marked as confidential or restricted by the issuing federal agency shall:
+26 (1) Publish a notice on its website indicating the existence of
+27 the confidential or restricted federal guidance document; and
+28 (2) Submit a written inquiry to the issuing federal agency
+29 asking what, if any, portions of the document may be disclosed.
+30
+31 25-1-1306. Exemptions.
+32 (a) Notwithstanding the provisions of § 25-1-1305, this subchapter
+33 does not require the publication of:
+34 (1) A federal guidance document that has been properly
+35 classified under an executive order from the President of the United States;
+36 (2) A federal guidance document that has been exempted from
+3 02/17/2025 10:21:51 AM LGL075
+HB1494
+1 public disclosure by a federal statute;
+2 (3) Personally identifiable information;
+3 (4) Sensitive security information; and
+4 (5) Internal state agency communication pertaining to a federal
+5 guidance document.
+6 (b) Reasonably identifiable portions of a federal guidance document
+7 that do not contain exempt information under subsection (a) of this section
+8 shall be published.
+9
+10 25-1-1307. Enforcement and compliance.
+11 (a) The director of a state agency shall oversee the agency's
+12 compliance with the provisions of this subchapter.
+13 (b) The Auditor of State shall:
+14 (1) Annually conduct a review of state agency compliance with
+15 this subchapter; and
+16 (2) Prepare and submit a written report regarding compliance
+17 with this subchapter on or before July 1 of each year to the Legislative
+18 Council.
+19
+20 SECTION 2. DO NOT CODIFY. SEVERABILITY.
+21 If any provision of this act or the application of this act to any
+22 person or circumstance is held invalid, the invalidity shall not affect other
+23 provisions or applications of this act which can be given effect without the
+24 invalid provision or application, and to this end, the provisions of this act
+25 are declared severable.
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+4 02/17/2025 10:21:51 AM LGL075
+[DELETED:       A D F P  T T A D  B   S a S   2  T o   2  (   ( a   ( S]
+[DELETED: H2 0    ( e    ( f   ( d s  ( t   ( a   ( t   2  A   ( 5   ( f     ( o     ( o    ( l l    ( p   ( a o   ( c i e]
+[DELETED: H3 0   2  ( w t   (    ( s    (   ( o  ( t   ( d   ( t   ( i   2  ( u  ( m   ( t   ( a   2  ( d   ( c   (]
+[DELETED: H4 0 p   (   (   ( g  ( t s   2  ( c  (   ( t   ( w C   S  I p p i a           ]
+
+
+================================================================================
+
+Raw Text:
+Stricken language would be deleted from and underlined language would be added to present law.
+1 State of Arkansas
+A Bill
+2 95th General Assembly
+3 Regular Session, 2025 HOUSE BILL 1494
+4
+5 By: Representative Hawk
+6 By: Senator Hill
+7
+For An Act To Be Entitled
+8
+9 AN ACT TO CREATE THE ARKANSAS GUIDANCE OUT OF THE
+10 DARKNESS ACT; TO REQUIRE STATE AGENCIES TO PUBLISH
+11 FEDERAL GUIDANCE DOCUMENTS ONLINE; AND FOR OTHER
+12 PURPOSES.
+13
+14
+Subtitle
+15
+16 TO CREATE THE ARKANSAS GUIDANCE OUT OF
+17 THE DARKNESS ACT; AND TO REQUIRE STATE
+18 AGENCIES TO PUBLISH FEDERAL GUIDANCE
+19 DOCUMENTS ONLINE.
+20
+21 BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF ARKANSAS:
+22
+23 SECTION 1. Arkansas Code Title 25, Chapter 1, is amended to add an
+24 additional subchapter to read as follows:
+25 Subchapter 13 — Arkansas Guidance Out of the Darkness Act
+26
+27 25-1-1301. Title.
+28 This subchapter shall be known and cited as the "Arkansas Guidance Out
+29 of the Darkness Act" or “Ark-GOOD Act".
+30
+31 25-1-1302. Legislative findings and intent.
+32 (a) The General Assembly finds that:
+33 (1) Transparency in government is essential to ensuring
+34 accountability and maintaining public trust;
+35 (2) Despite lacking the force of law, guidance from the United
+36 States Government often:
+*LGL075*
+02/17/2025 10:21:51 AM LGL075
+
+HB1494
+1 (A) Influences state agency decision-making and regulatory
+2 enforcement; and
+3 (B) Provides insight into the interpretation of the law by
+4 federal agencies; and
+5 (3) The public has a right to know what federal guidance
+6 documents are received by state agencies and how those documents might impact
+7 state policies and procedures.
+8 (b) It is the intent of the General Assembly to require state agencies
+9 to:
+10 (A) Publish all federal guidance documents received by the state
+11 agency from the United States Government; and
+12 (B) Organize the federal guidance documents in an online format
+13 to promote transparency and accountability.
+14
+15 25-1-1303. Definitions.
+16 As used in this subchapter:
+17 (1) "Federal agency" means the same as "agency" as defined under
+18 5 U.S.C. § 551 as it existed on January 1, 2025;
+19 (2)(A) "Federal guidance document" means a statement issued by a
+20 federal agency that:
+21 (i) Sets forth a policy on a statutory, regulatory,
+22 or technical issue; or
+23 (ii) Provides an interpretation of a federal statute
+24 or regulation.
+25 (B) A federal guidance document may include without
+26 limitation a written or electronic directive, memorandum, notice, bulletin,
+27 letter, or policy statement.
+28 (C) "Federal guidance document" does not include a rule
+29 promulgated under 5 U.S.C. § 553 as it existed on January 1, 2025;
+30 (3) "Publicly accessible website" means a website maintained by
+31 a state agency that is available to the public with no login, subscription,
+32 or payment requirement; and
+33 (4) "State agency" means every agency, authority, board, bureau,
+34 commission, council, department, division, and officer of this state,
+35 including without limitation a state-supported institution of higher
+36 education.
+2 02/17/2025 10:21:51 AM LGL075
+
+HB1494
+1
+2 25-1-1304. Publication of a federal guidance document.
+3 (a) A state agency shall create a webpage on its publicly accessible
+4 website to publish a federal guidance document received by the state agency
+5 that:
+6 (1) Seeks to influence the state agency’s:
+7 (A) Interpretation, enforcement, or implementation of
+8 state laws, rules, or policies; or
+9 (B) Administration of federal funds; or
+10 (2) Provides recommendations or instructions to the state agency
+11 on compliance with federal laws or regulations.
+12 (b) A state agency that publishes a webpage under subsection (a) of
+13 this section to display a federal guidance document shall provide:
+14 (1) The full text or an electronic copy of the federal guidance
+15 document;
+16 (2) The date that the federal guidance document was received by
+17 the state agency; and
+18 (3) A brief content summary of the federal guidance document and
+19 its potential impact on the operations or policies of the state agency.
+20
+21 25-1-1305. Timeliness of Publication.
+22 (a) A state agency shall publish a federal guidance document required
+23 under § 25-1-1304 within thirty (30) days of receipt.
+24 (b) A state agency that receives a federal guidance document that is
+25 marked as confidential or restricted by the issuing federal agency shall:
+26 (1) Publish a notice on its website indicating the existence of
+27 the confidential or restricted federal guidance document; and
+28 (2) Submit a written inquiry to the issuing federal agency
+29 asking what, if any, portions of the document may be disclosed.
+30
+31 25-1-1306. Exemptions.
+32 (a) Notwithstanding the provisions of § 25-1-1305, this subchapter
+33 does not require the publication of:
+34 (1) A federal guidance document that has been properly
+35 classified under an executive order from the President of the United States;
+36 (2) A federal guidance document that has been exempted from
+3 02/17/2025 10:21:51 AM LGL075
+
+HB1494
+1 public disclosure by a federal statute;
+2 (3) Personally identifiable information;
+3 (4) Sensitive security information; and
+4 (5) Internal state agency communication pertaining to a federal
+5 guidance document.
+6 (b) Reasonably identifiable portions of a federal guidance document
+7 that do not contain exempt information under subsection (a) of this section
+8 shall be published.
+9
+10 25-1-1307. Enforcement and compliance.
+11 (a) The director of a state agency shall oversee the agency's
+12 compliance with the provisions of this subchapter.
+13 (b) The Auditor of State shall:
+14 (1) Annually conduct a review of state agency compliance with
+15 this subchapter; and
+16 (2) Prepare and submit a written report regarding compliance
+17 with this subchapter on or before July 1 of each year to the Legislative
+18 Council.
+19
+20 SECTION 2. DO NOT CODIFY. SEVERABILITY.
+21 If any provision of this act or the application of this act to any
+22 person or circumstance is held invalid, the invalidity shall not affect other
+23 provisions or applications of this act which can be given effect without the
+24 invalid provision or application, and to this end, the provisions of this act
+25 are declared severable.
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+4 02/17/2025 10:21:51 AM LGL075
+
+[DELETED:       A D F P  T T A D  B   S a S   2  T o   2  (   ( a   ( S]
+[DELETED: H2 0    ( e    ( f   ( d s  ( t   ( a   ( t   2  A   ( 5   ( f     ( o     ( o    ( l l    ( p   ( a o   ( c i e]
+[DELETED: H3 0   2  ( w t   (    ( s    (   ( o  ( t   ( d   ( t   ( i   2  ( u  ( m   ( t   ( a   2  ( d   ( c   (]
+[DELETED: H4 0 p   (   (   ( g  ( t s   2  ( c  (   ( t   ( w C   S  I p p i a           ]

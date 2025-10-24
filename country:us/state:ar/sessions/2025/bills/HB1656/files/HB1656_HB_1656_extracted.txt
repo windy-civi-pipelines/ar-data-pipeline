@@ -1,0 +1,259 @@
+Title: Stricken language would be deleted from and underlined language would be added to present law.
+Official Title: Stricken language would be deleted from and underlined language would be added to present law.
+Number of Sections: 1
+Source: versions - HB 1656
+Media Type: application/pdf
+Strikethrough Detection: 3 sections found
+
+================================================================================
+
+Section 1:
+1 State of Arkansas As Engrossed: S3/19/25 S4/1/25
+A Bill
+2 95th General Assembly
+3 Regular Session, 2025 HOUSE BILL 1656
+4
+5 By: Representative Beck
+6 By: Senator B. Davis
+7
+For An Act To Be Entitled
+8
+9 AN ACT TO AMEND THE LAW REGARDING OIL AND GAS
+10 PRODUCTION AND CONSERVATION; TO CLARIFY THE
+11 ALLOCATION OF PRODUCTION AND COST FOLLOWING
+12 INTEGRATION ORDER BY DEFINING "NET PROCEEDS"; TO
+13 ADDRESS OBLIGATIONS OF OPERATORS AND WORKING INTEREST
+14 OWNERS TO MINERAL OWNERS; AND FOR OTHER PURPOSES.
+15
+16
+Subtitle
+17
+18 TO AMEND THE LAW REGARDING OIL AND GAS
+19 PRODUCTION AND CONSERVATION.
+20
+21 BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF ARKANSAS:
+22
+23 SECTION 1. Arkansas Code § 15-72-305, concerning the allocation of
+24 production and cost following integration order, is amended to add additional
+25 subsections to read as follows:
+26 (c) As used in this section, "net proceeds" means the same as defined
+27 in § 15-72-325.
+28
+29 SECTION 2. Arkansas Code Title 15, Chapter 72, Subchapter 3, is
+30 amended to add an additional section to read as follows:
+31 15-72-325. Obligation of operators and working interest owners to
+32 mineral owners — Definition.
+33 (a) As used in this section, "net proceeds" means:
+34 (1) If a mineral interest within a drilling unit is an
+35 integrated interest not covered by an executed lease, the gross proceeds from
+36 the sale of gas, including royalty gas, minus applicable taxes, assessments,
+*CRH145*
+04-01-2025 11:41:49 CRH145
+As Engrossed: S3/19/25 S4/1/25 HB1656
+1 and true third-party costs or costs specifically allowed by the form lease
+2 adopted by the Oil and Gas Commission; and
+3 (2) If a mineral interest within a drilling unit is covered by
+4 an executed lease, the gross proceeds from the sale of gas, including royalty
+5 gas, minus applicable tax, assessments, and charges or deductions
+6 specifically allowed by the terms of the lease.
+7 (b)(1) Ownership of minerals, including the proceeds paid as royalty
+8 from the sale of the production of the mineral estate, is a property right.
+9 (2) Subject to subsection (c) of this section, a mineral owner
+10 shall have the right to contract pertaining to their owned mineral interest.
+11 (c)(1) The minimum royalty payable to royalty owners from the
+12 production of gas shall be one-eighth (1/8) of the net proceeds from the sale
+13 of the gas.
+14 (2) A mineral owner may negotiate a higher royalty with a lessee
+15 by contract.
+16 (d)(1) If a mineral interest within a drilling unit is covered
+17 by an executed lease, then the working interest owner or owners of the
+18 respective lease is or are responsible for ensuring the full amount of
+19 royalties are paid to a royalty owner in compliance with the terms of the
+20 lease regardless of whether the payments are made by the operator or, if
+21 applicable the nonoperating working interest owner or owners that is or are a
+22 party to the lease.
+23 (2) If deductions or expenses are taken by the operator or the
+24 nonoperating working interest owner or owners that is or are a party to the
+25 lease that are not in accordance with the lease terms, including deductions
+26 and expenses pertaining to royalty gas, then the deductions or expenses not
+27 specifically allowed by the applicable lease shall be reimbursed to the
+28 royalty owner within thirty (30) days of the deduction being taken from the
+29 royalty payment of the royalty owner.
+30 (3) This section and § 15-72-305 shall not excuse or relieve the
+31 obligation of a working interest owner as it pertains to the contractual
+32 lease obligations with the royalty owner.
+33 (e) This section is not applicable to any producing unit or well that
+34 produces liquid hydrocarbons only, liquid hydrocarbons associated with the
+35 production of gas, or gas produced associated with the production of liquid
+36 hydrocarbons.
+2 04-01-2025 11:41:49 CRH145
+As Engrossed: S3/19/25 S4/1/25 HB1656
+1
+2 /s/Beck
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+3 04-01-2025 11:41:49 CRH145
+[DELETED:  A      A P A I A O   T P  B   S p s  ( i   S a  1 m  (   ( i t]
+[DELETED:  H2 0 a a   ( a g s  ( f   ( s  ( p o   ( b   ( b r r l a p   ( n l a s r r   ( o l  ( p p h]
+[DELETED:  H3 0  /                                  ]
+
+
+================================================================================
+
+Raw Text:
+Stricken language would be deleted from and underlined language would be added to present law.
+1 State of Arkansas As Engrossed: S3/19/25 S4/1/25
+A Bill
+2 95th General Assembly
+3 Regular Session, 2025 HOUSE BILL 1656
+4
+5 By: Representative Beck
+6 By: Senator B. Davis
+7
+For An Act To Be Entitled
+8
+9 AN ACT TO AMEND THE LAW REGARDING OIL AND GAS
+10 PRODUCTION AND CONSERVATION; TO CLARIFY THE
+11 ALLOCATION OF PRODUCTION AND COST FOLLOWING
+12 INTEGRATION ORDER BY DEFINING "NET PROCEEDS"; TO
+13 ADDRESS OBLIGATIONS OF OPERATORS AND WORKING INTEREST
+14 OWNERS TO MINERAL OWNERS; AND FOR OTHER PURPOSES.
+15
+16
+Subtitle
+17
+18 TO AMEND THE LAW REGARDING OIL AND GAS
+19 PRODUCTION AND CONSERVATION.
+20
+21 BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF ARKANSAS:
+22
+23 SECTION 1. Arkansas Code § 15-72-305, concerning the allocation of
+24 production and cost following integration order, is amended to add additional
+25 subsections to read as follows:
+26 (c) As used in this section, "net proceeds" means the same as defined
+27 in § 15-72-325.
+28
+29 SECTION 2. Arkansas Code Title 15, Chapter 72, Subchapter 3, is
+30 amended to add an additional section to read as follows:
+31 15-72-325. Obligation of operators and working interest owners to
+32 mineral owners — Definition.
+33 (a) As used in this section, "net proceeds" means:
+34 (1) If a mineral interest within a drilling unit is an
+35 integrated interest not covered by an executed lease, the gross proceeds from
+36 the sale of gas, including royalty gas, minus applicable taxes, assessments,
+*CRH145*
+04-01-2025 11:41:49 CRH145
+
+As Engrossed: S3/19/25 S4/1/25 HB1656
+1 and true third-party costs or costs specifically allowed by the form lease
+2 adopted by the Oil and Gas Commission; and
+3 (2) If a mineral interest within a drilling unit is covered by
+4 an executed lease, the gross proceeds from the sale of gas, including royalty
+5 gas, minus applicable tax, assessments, and charges or deductions
+6 specifically allowed by the terms of the lease.
+7 (b)(1) Ownership of minerals, including the proceeds paid as royalty
+8 from the sale of the production of the mineral estate, is a property right.
+9 (2) Subject to subsection (c) of this section, a mineral owner
+10 shall have the right to contract pertaining to their owned mineral interest.
+11 (c)(1) The minimum royalty payable to royalty owners from the
+12 production of gas shall be one-eighth (1/8) of the net proceeds from the sale
+13 of the gas.
+14 (2) A mineral owner may negotiate a higher royalty with a lessee
+15 by contract.
+16 (d)(1) If a mineral interest within a drilling unit is covered
+17 by an executed lease, then the working interest owner or owners of the
+18 respective lease is or are responsible for ensuring the full amount of
+19 royalties are paid to a royalty owner in compliance with the terms of the
+20 lease regardless of whether the payments are made by the operator or, if
+21 applicable the nonoperating working interest owner or owners that is or are a
+22 party to the lease.
+23 (2) If deductions or expenses are taken by the operator or the
+24 nonoperating working interest owner or owners that is or are a party to the
+25 lease that are not in accordance with the lease terms, including deductions
+26 and expenses pertaining to royalty gas, then the deductions or expenses not
+27 specifically allowed by the applicable lease shall be reimbursed to the
+28 royalty owner within thirty (30) days of the deduction being taken from the
+29 royalty payment of the royalty owner.
+30 (3) This section and § 15-72-305 shall not excuse or relieve the
+31 obligation of a working interest owner as it pertains to the contractual
+32 lease obligations with the royalty owner.
+33 (e) This section is not applicable to any producing unit or well that
+34 produces liquid hydrocarbons only, liquid hydrocarbons associated with the
+35 production of gas, or gas produced associated with the production of liquid
+36 hydrocarbons.
+2 04-01-2025 11:41:49 CRH145
+
+As Engrossed: S3/19/25 S4/1/25 HB1656
+1
+2 /s/Beck
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+3 04-01-2025 11:41:49 CRH145
+
+[DELETED:  A      A P A I A O   T P  B   S p s  ( i   S a  1 m  (   ( i t]
+[DELETED:  H2 0 a a   ( a g s  ( f   ( s  ( p o   ( b   ( b r r l a p   ( n l a s r r   ( o l  ( p p h]
+[DELETED:  H3 0  /                                  ]

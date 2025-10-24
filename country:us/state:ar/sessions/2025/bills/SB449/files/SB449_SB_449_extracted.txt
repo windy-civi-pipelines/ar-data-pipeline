@@ -1,0 +1,259 @@
+Title: Stricken language would be deleted from and underlined language would be added to present law.
+Official Title: Stricken language would be deleted from and underlined language would be added to present law.
+Number of Sections: 1
+Source: versions - SB 449
+Media Type: application/pdf
+Strikethrough Detection: 3 sections found
+
+================================================================================
+
+Section 1:
+1 State of Arkansas
+A Bill
+2 95th General Assembly
+3 Regular Session, 2025 SENATE BILL 449
+4
+5 By: Senator Dees
+6 By: Representative Beaty Jr.
+7
+For An Act To Be Entitled
+8
+9 AN ACT TO PROVIDE CIVIL IMMUNITY FOR CONFISCATION OF
+10 ALTERNATIVE NICOTINE PRODUCTS, VAPOR PRODUCTS, E-
+11 LIQUID PRODUCTS, TOBACCO PRODUCTS, AND CIGARETTE
+12 PAPERS FROM A MINOR AT A SCHOOL; AND FOR OTHER
+13 PURPOSES.
+14
+15
+Subtitle
+16
+17 TO PROVIDE CIVIL IMMUNITY FOR
+18 CONFISCATION OF ALTERNATIVE NICOTINE
+19 PRODUCTS, VAPOR PRODUCTS, E-LIQUID
+20 PRODUCTS, TOBACCO PRODUCTS, AND
+21 CIGARETTE PAPERS FROM A MINOR AT A
+22 SCHOOL.
+23
+24 BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF ARKANSAS:
+25
+26 SECTION 1. Arkansas Code Title 16, Chapter 120, Subchapter 8, is
+27 amended to add an additional section to read as follows:
+28 16-120-805. Civil immunity for confiscation of certain products from
+29 minor at school.
+30 (a) As used in this section:
+31 (1)(A) “Alternative nicotine product” means a product that
+32 consists of or contains nicotine from any source that can be ingested into
+33 the body by chewing, smoking, absorbing, dissolving, inhaling, snorting,
+34 sniffing, or by any other means.
+35 (B) “Alternative nicotine product” does not include a:
+36 (i) Tobacco product;
+*JMB430*
+03/12/2025 5:34:37 PM JMB430
+SB449
+1 (ii) Vapor product;
+2 (iii) Product that is a drug under 21 U.S.C. §
+3 321(g)(1), as existing on January 1, 2025;
+4 (iv) Product that is a device under 21 U.S.C. §
+5 321(h), as existing on January 1, 2025; or
+6 (v) Product that constitutes a combination drug,
+7 device, or biological product as described in 21 U.S.C. § 353, as existing on
+8 January 1, 2025;
+9 (2) “E-liquid product” means a liquid product, which may or may
+10 not contain nicotine, that is inhaled when using a vapor product and that may
+11 or may not include without limitation propylene glycol, vegetable glycerin,
+12 nicotine from any source, and flavorings;
+13 (3) "Minor" means a person who is under twenty-one (21) years of
+14 age;
+15 (4) “School” means:
+16 (A) A school district, public school, private school, or
+17 an open-enrollment public charter school;
+18 (B) Any building, parking lot, playing field, playground,
+19 school bus, or other school vehicle used or operated by a public school,
+20 private school, or an open-enrollment public charter school; or
+21 (C) Any off-campus school-sponsored or school-sanctioned
+22 events with respect to any public school, open-enrollment public charter
+23 school, or private school where children attend classes in kindergarten
+24 through grade twelve (K-12);
+25 (5) “Tobacco product” means all products containing tobacco for
+26 consumption, including without limitation cigarettes, cigars, little cigars,
+27 cigarillos, chewing tobacco, smokeless tobacco, snuff, smoking tobacco,
+28 including pipe tobacco, and smoking tobacco substitutes; and
+29 (6) “Vapor product” means an electronic oral device of any size
+30 or shape that contains a vapor of nicotine, e-liquid, or any other substance
+31 that when used or inhaled simulates smoking, regardless of whether a visible
+32 vapor is produced, including without limitation a device that:
+33 (A) Is composed of a heating element, battery, electronic
+34 circuit, chemical process, mechanical device, or a combination of heating
+35 element, battery, electronic circuit, chemical process, or mechanical device;
+36 (B) Works in combination with a cartridge, other
+2 03/12/2025 5:34:37 PM JMB430
+SB449
+1 container, or liquid delivery device containing nicotine, e-liquid, or any
+2 other substance and manufactured for use with vapor products;
+3 (C) Is manufactured, distributed, marketed, or sold as any
+4 type or derivation of a vapor product, e-cigarette, e-cigar, e-pipe, or any
+5 other product name or descriptor; and
+6 (D) Does not include a product regulated as a drug or
+7 device by the Federal Food, Drug, and Cosmetic Act, 21 U.S.C. § 301 et seq.,
+8 as it existed on January 1, 2025.
+9 (b) A law enforcement officer, an employee of a school, or a person
+10 otherwise in a position of trust or authority over the minor shall be immune
+11 from civil liability if he or she confiscated nicotine, tobacco product,
+12 vapor product, alternative nicotine product, e-liquid product, or cigarette
+13 papers or confiscated a product that he or she reasonably believes to be a
+14 vapor product, from a minor at a school.
+15 (c) The immunity granted under subsection (b) of this section does not
+16 apply to the confiscation of any sort of medical device or medication such as
+17 an asthma medication delivery device.
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+3 03/12/2025 5:34:37 PM JMB430
+[DELETED:         A A L P P   T C P P C S  B   S a  1 m  (   ( c t s    (     (]
+[DELETED: S2 0     (     ( 3     ( 3     ( d J   ( n o n   ( a   (    ( a    ( s p    ( e s t   ( c c i   ( o t v    ( c e    (]
+[DELETED: S3 0 c o    ( t o    ( d a  ( o f v p v  ( a a                   ]
+
+
+================================================================================
+
+Raw Text:
+Stricken language would be deleted from and underlined language would be added to present law.
+1 State of Arkansas
+A Bill
+2 95th General Assembly
+3 Regular Session, 2025 SENATE BILL 449
+4
+5 By: Senator Dees
+6 By: Representative Beaty Jr.
+7
+For An Act To Be Entitled
+8
+9 AN ACT TO PROVIDE CIVIL IMMUNITY FOR CONFISCATION OF
+10 ALTERNATIVE NICOTINE PRODUCTS, VAPOR PRODUCTS, E-
+11 LIQUID PRODUCTS, TOBACCO PRODUCTS, AND CIGARETTE
+12 PAPERS FROM A MINOR AT A SCHOOL; AND FOR OTHER
+13 PURPOSES.
+14
+15
+Subtitle
+16
+17 TO PROVIDE CIVIL IMMUNITY FOR
+18 CONFISCATION OF ALTERNATIVE NICOTINE
+19 PRODUCTS, VAPOR PRODUCTS, E-LIQUID
+20 PRODUCTS, TOBACCO PRODUCTS, AND
+21 CIGARETTE PAPERS FROM A MINOR AT A
+22 SCHOOL.
+23
+24 BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF ARKANSAS:
+25
+26 SECTION 1. Arkansas Code Title 16, Chapter 120, Subchapter 8, is
+27 amended to add an additional section to read as follows:
+28 16-120-805. Civil immunity for confiscation of certain products from
+29 minor at school.
+30 (a) As used in this section:
+31 (1)(A) “Alternative nicotine product” means a product that
+32 consists of or contains nicotine from any source that can be ingested into
+33 the body by chewing, smoking, absorbing, dissolving, inhaling, snorting,
+34 sniffing, or by any other means.
+35 (B) “Alternative nicotine product” does not include a:
+36 (i) Tobacco product;
+*JMB430*
+03/12/2025 5:34:37 PM JMB430
+
+SB449
+1 (ii) Vapor product;
+2 (iii) Product that is a drug under 21 U.S.C. §
+3 321(g)(1), as existing on January 1, 2025;
+4 (iv) Product that is a device under 21 U.S.C. §
+5 321(h), as existing on January 1, 2025; or
+6 (v) Product that constitutes a combination drug,
+7 device, or biological product as described in 21 U.S.C. § 353, as existing on
+8 January 1, 2025;
+9 (2) “E-liquid product” means a liquid product, which may or may
+10 not contain nicotine, that is inhaled when using a vapor product and that may
+11 or may not include without limitation propylene glycol, vegetable glycerin,
+12 nicotine from any source, and flavorings;
+13 (3) "Minor" means a person who is under twenty-one (21) years of
+14 age;
+15 (4) “School” means:
+16 (A) A school district, public school, private school, or
+17 an open-enrollment public charter school;
+18 (B) Any building, parking lot, playing field, playground,
+19 school bus, or other school vehicle used or operated by a public school,
+20 private school, or an open-enrollment public charter school; or
+21 (C) Any off-campus school-sponsored or school-sanctioned
+22 events with respect to any public school, open-enrollment public charter
+23 school, or private school where children attend classes in kindergarten
+24 through grade twelve (K-12);
+25 (5) “Tobacco product” means all products containing tobacco for
+26 consumption, including without limitation cigarettes, cigars, little cigars,
+27 cigarillos, chewing tobacco, smokeless tobacco, snuff, smoking tobacco,
+28 including pipe tobacco, and smoking tobacco substitutes; and
+29 (6) “Vapor product” means an electronic oral device of any size
+30 or shape that contains a vapor of nicotine, e-liquid, or any other substance
+31 that when used or inhaled simulates smoking, regardless of whether a visible
+32 vapor is produced, including without limitation a device that:
+33 (A) Is composed of a heating element, battery, electronic
+34 circuit, chemical process, mechanical device, or a combination of heating
+35 element, battery, electronic circuit, chemical process, or mechanical device;
+36 (B) Works in combination with a cartridge, other
+2 03/12/2025 5:34:37 PM JMB430
+
+SB449
+1 container, or liquid delivery device containing nicotine, e-liquid, or any
+2 other substance and manufactured for use with vapor products;
+3 (C) Is manufactured, distributed, marketed, or sold as any
+4 type or derivation of a vapor product, e-cigarette, e-cigar, e-pipe, or any
+5 other product name or descriptor; and
+6 (D) Does not include a product regulated as a drug or
+7 device by the Federal Food, Drug, and Cosmetic Act, 21 U.S.C. § 301 et seq.,
+8 as it existed on January 1, 2025.
+9 (b) A law enforcement officer, an employee of a school, or a person
+10 otherwise in a position of trust or authority over the minor shall be immune
+11 from civil liability if he or she confiscated nicotine, tobacco product,
+12 vapor product, alternative nicotine product, e-liquid product, or cigarette
+13 papers or confiscated a product that he or she reasonably believes to be a
+14 vapor product, from a minor at a school.
+15 (c) The immunity granted under subsection (b) of this section does not
+16 apply to the confiscation of any sort of medical device or medication such as
+17 an asthma medication delivery device.
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+3 03/12/2025 5:34:37 PM JMB430
+
+[DELETED:         A A L P P   T C P P C S  B   S a  1 m  (   ( c t s    (     (]
+[DELETED: S2 0     (     ( 3     ( 3     ( d J   ( n o n   ( a   (    ( a    ( s p    ( e s t   ( c c i   ( o t v    ( c e    (]
+[DELETED: S3 0 c o    ( t o    ( d a  ( o f v p v  ( a a                   ]

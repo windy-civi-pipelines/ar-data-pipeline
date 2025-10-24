@@ -1,0 +1,496 @@
+Title: Stricken language would be deleted from and underlined language would be added to present law.
+Official Title: Stricken language would be deleted from and underlined language would be added to present law.
+Number of Sections: 1
+Source: versions - HB 1664
+Media Type: application/pdf
+Strikethrough Detection: 6 sections found
+
+================================================================================
+
+Section 1:
+1 State of Arkansas As Engrossed: H4/2/25
+A Bill
+2 95th General Assembly
+3 Regular Session, 2025 HOUSE BILL 1664
+4
+5 By: Representative K. Brown
+6
+7
+For An Act To Be Entitled
+8
+9 AN ACT TO AMEND "QUINCY'S LAW" CONCERNING PHYSICAL
+10 EXAMS AND OTHER TESTING IN AN INVESTIGATION INVOLVING
+11 ALLEGED ABUSE UNDER THE CHILD MALTREATMENT ACT; TO
+12 PROVIDE FOR THE RIGHT OF A PARENT, GUARDIAN, OR
+13 CUSTODIAN TO BE PROVIDED WITH THE MEDICAL RECORDS OF
+14 A CHILD WHO HAS BEEN REMOVED FROM THE CUSTODY OF THE
+15 PARENT, PUTATIVE PARENT, GUARDIAN, OR CUSTODIAN OR IS
+16 IN THE CUSTODY OF THE DEPARTMENT OF HUMAN SERVICES;
+17 TO DECLARE AN EMERGENCY; AND FOR OTHER PURPOSES.
+18
+19
+Subtitle
+20
+21 TO AMEND "QUINCY'S LAW" CONCERNING
+22 PHYSICAL EXAMS AND OTHER TESTING IN AN
+23 INVESTIGATION INVOLVING ALLEGED ABUSE
+24 UNDER THE CHILD MALTREATMENT ACT; AND TO
+25 DECLARE AN EMERGENCY.
+26
+27 BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF ARKANSAS:
+28
+29 SECTION 1. DO NOT CODIFY. Legislative findings and intent.
+30 (a) The General Assembly finds that:
+31 (1) Child maltreatment investigations have at times led to
+32 the wrongful or mistaken allegation of child maltreatment against a parent or
+33 other caretaker when the child's symptoms that may, at first or superficial
+34 glance, appear to be manifestations of abuse or neglect, are actually the
+35 result of a medical condition that may or may not be known to the child's
+36 family, including genetic conditions that the parent himself or herself may
+*LJH157*
+04-02-2025 10:58:22 LJH157
+As Engrossed: H4/2/25 HB1664
+1 unknowingly have;
+2 (2) When such a child maltreatment investigation results
+3 in a child being removed from his or her home and placed in foster care, it
+4 may result in varying levels of trauma to the child, his or her siblings, his
+5 or her parent or parents, and other members of the child's family;
+6 (3) A parent or other caretaker of a child who is
+7 wrongfully or mistakenly alleged to have caused or contributed to the abuse
+8 or neglect of a child who is actually presenting symptoms of a medical
+9 condition that are not caused by abuse or neglect to the child may be
+10 subjected to not only separation from his or her child, but also threats to
+11 his or her liberty in the form of having a petition for dependency-neglect or
+12 a petition for termination of parental rights filed against him or her, or
+13 even having his or her name placed on the Child Maltreatment Central Registry
+14 or a criminal prosecution against him or her when there was not in fact child
+15 maltreatment or a criminal offense committed;
+16 (4) These detrimental effects can cause loss of time,
+17 money, and mental and emotional wellbeing to many persons affected by the
+18 wrongful or mistaken allegation of child maltreatment; and
+19 (5) Although the intent of the Child Maltreatment Act, §
+20 12-18-101 et seq., is to protect children from maltreatment, wrongful or
+21 mistaken allegations of child maltreatment for symptoms of a medical
+22 condition may actually contribute to the child's suffering not only in the
+23 form of trauma, but also in that, if a child's underlying medical condition
+24 is overlooked or ignored, the child remains untreated for that medical
+25 condition and the parent or caretaker deprived of otherwise discovering and
+26 being able to provide for the proper medical care of his or her child.
+27 (b) It is the intent of the General Assembly for this act to
+28 contribute not only to the protection of a wrongfully or mistakenly accused
+29 parent, but also the protection of the child, the family unit, and the
+30 overall integrity of the state's child welfare, hospital, and legal systems.
+31
+32 SECTION 2. Arkansas Code § 12-18-614 is amended to read as follows:
+33 12-18-614. Submission to a physical exam or other testing.
+34 (a) An investigation under this chapter may include a physical
+35 examination, a drug test, radiology procedures, photographs, and a
+36 psychological or psychiatric examination of all children subject to the care,
+2 04-02-2025 10:58:22 LJH157
+As Engrossed: H4/2/25 HB1664
+1 custody, or control of the alleged offender.
+2 (b)(1) If the report of child maltreatment or suspected child
+3 maltreatment alleges abuse as defined in §12-18-103 § 12-18-103(3), the
+4 alleged offender may:
+5 (A)(i) For the purpose of obtaining a second opinion,
+6 request that the alleged victim be examined by a licensed healthcare provider
+7 of the alleged offender's choosing who:
+8 (a) Did not perform the initial examination,
+9 test, or procedure described under subsection (a) of this section; and
+10 (b) Routinely provides medical care to
+11 pediatric patients.
+12 (ii) An examination performed under subdivision
+13 (b)(1)(A)(i) of this section shall:
+14 (a) Shall be paid for by the alleged offender
+15 or as otherwise covered by insurance or Medicaid; and
+16 (b) May be requested by the alleged offender
+17 regardless of whether the alleged victim has been taken into or placed in the
+18 custody of the Department of Human Services; and
+19 (B)(i) For the purpose of ruling out a possible
+20 differential diagnosis, request that a licensed healthcare provider who
+21 routinely provides medical care to pediatric patients examine the alleged
+22 victim to determine whether or not if the alleged victim has one (1) or more
+23 of the following medical conditions a congenital cutaneous variant, bone
+24 fragility, a coagulation disorder, capillary fragility associated with a
+25 genetic disorder or that may be caused by a defect in the collagen elastin
+26 matrix, hyperextensible skin, multiple broken bones in various stages of
+27 healing and including without limitation classic metaphyseal lesions, blue or
+28 grey sclera, impaired bone mineralization, or another medical condition that
+29 may appear to be caused by suspected abuse or increase the risk of
+30 misdiagnosis of abuse as defined in § 12-18-103(3), including without
+31 limitation:
+32 (a) Marfan's syndrome;
+33 (b) Hypermobility spectrum disorders;
+34 (a)(c) Rickets;
+35 (b)(d) Ehlers-Danlos syndrome;
+36 (c)(e) Osteogenesis imperfecta;
+3 04-02-2025 10:58:22 LJH157
+As Engrossed: H4/2/25 HB1664
+1 (d)(f) Vitamin D deficiency; or
+2 (e)(g) Another medical condition that may:
+3 Vitamin K deficiency
+4 (1) Appear to be caused by suspected
+5 abuse as defined in § 12-18-103; or
+6 (2) Increase the risk of a misdiagnosis
+7 of abuse as defined in § 12-18-103.
+8 (ii) An examination performed under subdivision
+9 (b)(1)(B)(i) of this section shall be paid for by the alleged offender or as
+10 otherwise covered by insurance or Medicaid.
+11 (iii) If the alleged victim undergoes genetic
+12 testing under subdivision (b)(1)(B)(i) of this section, the genetic testing
+13 shall include a complete family medical history even if the alleged victim's
+14 family members have not been diagnosed with a genetic condition, which shall
+15 include the licensed healthcare provider who routinely provides medical care
+16 to pediatric patients ascertaining if there is a family medical history of:
+17 (a) Joint hypermobility;
+18 (b) Sprains;
+19 (c) Bruising;
+20 (d) Connective tissue disorder or the physical
+21 manifestations of a connective tissue disorder; or
+22 (e) Fractures, including without limitation
+23 the cause of each fracture and the age of the family member at the time of
+24 the fracture.
+25 (2) A licensed healthcare provider examination under subdivision
+26 (b)(1) of this section shall not be requested for the purpose of obtaining a
+27 second opinion on to determine whether or not if an alleged victim has been a
+28 victim of: sexual
+29 (A) Sexual abuse; or
+30 (B) Physical abuse when the alleged victim is:
+31 (i) In a critical medical condition; or
+32 (ii) Receiving life-sustaining medical treatment.
+33
+34 SECTION 3. Arkansas Code Title 12, Chapter 18, Subchapter 6, is
+35 amended to add an additional section to read as follows:
+36 12-18-624. Right of parent, guardian, or custodian to medical records
+4 04-02-2025 10:58:22 LJH157
+As Engrossed: H4/2/25 HB1664
+1 of child — Definitions.
+2 (a)(1) A court with jurisdiction may order a healthcare institution or
+3 practitioner to provide an alleged child victim's medical records to an
+4 alleged offender if the alleged offender:
+5 (A) Has been accused of physical abuse; and
+6 (B) Is a parent, putative parent, guardian, or custodian
+7 of the alleged victim.
+8 (2) A court with jurisdiction may enter a protective order
+9 restricting the dissemination of the medical records or from making any use
+10 of the medical records other than for purposes of a specific case before the
+11 court.
+12 (3) Medical records shall include hospital or clinic records,
+13 physicians' records, or other healthcare records, including without
+14 limitation:
+15 (A) An admissions form, discharge summary, history and
+16 physical exam records, progress notes, physicians' orders, reports of
+17 operations, recovery room records, lab reports, consultation reports,
+18 medication administration records, nurses' notes, and other reports
+19 catalogued and maintained by the medical records department of a hospital,
+20 doctor's office, medical clinic, or any other medical facility; and
+21 (B) A paper entry, electronic entry, or image that is:
+22 (i) Captured in relation to a diagnosis, treatment,
+23 or other service provided to a child; or
+24 (ii) Relied upon by a healthcare provider to
+25 diagnose or provide treatment or other services to a child.
+26 (4) A healthcare institution or provider shall redact the
+27 alleged child victim's address, phone number, email address, and other
+28 information regarding the alleged child victim's foster placement before
+29 providing medical records under this section.
+30 (5) A healthcare institution or provider that fails to provide
+31 medical records under this section pursuant to a valid court order may be
+32 held in contempt of court under § 16-10-108.
+33
+34 SECTION 4. EMERGENCY CLAUSE. It is found and determined by the
+35 General Assembly of the State of Arkansas that "Quincy's Law", Acts 2021, No.
+36 976, is a crucial protection for persons who are the subject of an
+5 04-02-2025 10:58:22 LJH157
+As Engrossed: H4/2/25 HB1664
+1 investigation under the Child Maltreatment Act, § 12-18-101 et seq.; that
+2 since the enactment of Quincy's Law in 2021, an additional need for further
+3 protections under Quincy's Law has been demonstrated, most notably to provide
+4 further clarity in child maltreatment investigations involving differential
+5 diagnoses that may present as possible child abuse without additional testing
+6 that the provisions in this act make available; that this act is needed not
+7 only to protect wrongfully accused parents, but also to assist a parent who
+8 may not be aware of his or her child's condition and be given the opportunity
+9 to provide his or her child necessary medical treatment; that this act is
+10 also urgent to protect families from undergoing unnecessary trauma related to
+11 family separation and wrongful or mistaken allegations of child maltreatment
+12 that are actually manifestations of medical conditions; and that numerous
+13 child maltreatment investigations are taking place at any given time, and
+14 thus there is an urgent need for the provisions in this act to become
+15 effective. Therefore, an emergency is declared to exist, and this act being
+16 immediately necessary for the preservation of the public peace, health, and
+17 safety shall become effective on:
+18 (1) The date of its approval by the Governor;
+19 (2) If the bill is neither approved nor vetoed by the Governor,
+20 the expiration of the period of time during which the Governor may veto the
+21 bill; or
+22 (3) If the bill is vetoed by the Governor and the veto is
+23 overridden, the date the last house overrides the veto.
+24
+25 /s/K. Brown
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+6 04-02-2025 10:58:22 LJH157
+[DELETED:  A       A E A P C A P I T   T P I U D  B   S   (    ( t o g r f]
+[DELETED:  H2 0 u    ( i m o    ( w o c s h a e o m    ( m w    ( 1 m c f i c b  ( c p o   S  1  ( e p]
+[DELETED:  H3 0 c  ( m a    ( r o      ( t      ( p     ( (      ( o      ( r c    ( d r v o f g m h g m m l      (      (      (      (      (]
+[DELETED:  H4 0      (      ( V       ( a       ( o     ( ( o     ( t s f i t      (      (      (      ( m      ( t t   ( ( s v    (    (     (     (    S a  1]
+[DELETED:  H5 0 o  ( p a    (    ( o   ( r o c   ( p l    ( p o m c d    (     ( o     ( d   ( a i p   ( m h   S G 9]
+[DELETED:  H6 0 i s p f d t o m t a f t c t e i s   (   ( t b   ( o  /           ]
+
+
+================================================================================
+
+Raw Text:
+Stricken language would be deleted from and underlined language would be added to present law.
+1 State of Arkansas As Engrossed: H4/2/25
+A Bill
+2 95th General Assembly
+3 Regular Session, 2025 HOUSE BILL 1664
+4
+5 By: Representative K. Brown
+6
+7
+For An Act To Be Entitled
+8
+9 AN ACT TO AMEND "QUINCY'S LAW" CONCERNING PHYSICAL
+10 EXAMS AND OTHER TESTING IN AN INVESTIGATION INVOLVING
+11 ALLEGED ABUSE UNDER THE CHILD MALTREATMENT ACT; TO
+12 PROVIDE FOR THE RIGHT OF A PARENT, GUARDIAN, OR
+13 CUSTODIAN TO BE PROVIDED WITH THE MEDICAL RECORDS OF
+14 A CHILD WHO HAS BEEN REMOVED FROM THE CUSTODY OF THE
+15 PARENT, PUTATIVE PARENT, GUARDIAN, OR CUSTODIAN OR IS
+16 IN THE CUSTODY OF THE DEPARTMENT OF HUMAN SERVICES;
+17 TO DECLARE AN EMERGENCY; AND FOR OTHER PURPOSES.
+18
+19
+Subtitle
+20
+21 TO AMEND "QUINCY'S LAW" CONCERNING
+22 PHYSICAL EXAMS AND OTHER TESTING IN AN
+23 INVESTIGATION INVOLVING ALLEGED ABUSE
+24 UNDER THE CHILD MALTREATMENT ACT; AND TO
+25 DECLARE AN EMERGENCY.
+26
+27 BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF ARKANSAS:
+28
+29 SECTION 1. DO NOT CODIFY. Legislative findings and intent.
+30 (a) The General Assembly finds that:
+31 (1) Child maltreatment investigations have at times led to
+32 the wrongful or mistaken allegation of child maltreatment against a parent or
+33 other caretaker when the child's symptoms that may, at first or superficial
+34 glance, appear to be manifestations of abuse or neglect, are actually the
+35 result of a medical condition that may or may not be known to the child's
+36 family, including genetic conditions that the parent himself or herself may
+*LJH157*
+04-02-2025 10:58:22 LJH157
+
+As Engrossed: H4/2/25 HB1664
+1 unknowingly have;
+2 (2) When such a child maltreatment investigation results
+3 in a child being removed from his or her home and placed in foster care, it
+4 may result in varying levels of trauma to the child, his or her siblings, his
+5 or her parent or parents, and other members of the child's family;
+6 (3) A parent or other caretaker of a child who is
+7 wrongfully or mistakenly alleged to have caused or contributed to the abuse
+8 or neglect of a child who is actually presenting symptoms of a medical
+9 condition that are not caused by abuse or neglect to the child may be
+10 subjected to not only separation from his or her child, but also threats to
+11 his or her liberty in the form of having a petition for dependency-neglect or
+12 a petition for termination of parental rights filed against him or her, or
+13 even having his or her name placed on the Child Maltreatment Central Registry
+14 or a criminal prosecution against him or her when there was not in fact child
+15 maltreatment or a criminal offense committed;
+16 (4) These detrimental effects can cause loss of time,
+17 money, and mental and emotional wellbeing to many persons affected by the
+18 wrongful or mistaken allegation of child maltreatment; and
+19 (5) Although the intent of the Child Maltreatment Act, §
+20 12-18-101 et seq., is to protect children from maltreatment, wrongful or
+21 mistaken allegations of child maltreatment for symptoms of a medical
+22 condition may actually contribute to the child's suffering not only in the
+23 form of trauma, but also in that, if a child's underlying medical condition
+24 is overlooked or ignored, the child remains untreated for that medical
+25 condition and the parent or caretaker deprived of otherwise discovering and
+26 being able to provide for the proper medical care of his or her child.
+27 (b) It is the intent of the General Assembly for this act to
+28 contribute not only to the protection of a wrongfully or mistakenly accused
+29 parent, but also the protection of the child, the family unit, and the
+30 overall integrity of the state's child welfare, hospital, and legal systems.
+31
+32 SECTION 2. Arkansas Code § 12-18-614 is amended to read as follows:
+33 12-18-614. Submission to a physical exam or other testing.
+34 (a) An investigation under this chapter may include a physical
+35 examination, a drug test, radiology procedures, photographs, and a
+36 psychological or psychiatric examination of all children subject to the care,
+2 04-02-2025 10:58:22 LJH157
+
+As Engrossed: H4/2/25 HB1664
+1 custody, or control of the alleged offender.
+2 (b)(1) If the report of child maltreatment or suspected child
+3 maltreatment alleges abuse as defined in §12-18-103 § 12-18-103(3), the
+4 alleged offender may:
+5 (A)(i) For the purpose of obtaining a second opinion,
+6 request that the alleged victim be examined by a licensed healthcare provider
+7 of the alleged offender's choosing who:
+8 (a) Did not perform the initial examination,
+9 test, or procedure described under subsection (a) of this section; and
+10 (b) Routinely provides medical care to
+11 pediatric patients.
+12 (ii) An examination performed under subdivision
+13 (b)(1)(A)(i) of this section shall:
+14 (a) Shall be paid for by the alleged offender
+15 or as otherwise covered by insurance or Medicaid; and
+16 (b) May be requested by the alleged offender
+17 regardless of whether the alleged victim has been taken into or placed in the
+18 custody of the Department of Human Services; and
+19 (B)(i) For the purpose of ruling out a possible
+20 differential diagnosis, request that a licensed healthcare provider who
+21 routinely provides medical care to pediatric patients examine the alleged
+22 victim to determine whether or not if the alleged victim has one (1) or more
+23 of the following medical conditions a congenital cutaneous variant, bone
+24 fragility, a coagulation disorder, capillary fragility associated with a
+25 genetic disorder or that may be caused by a defect in the collagen elastin
+26 matrix, hyperextensible skin, multiple broken bones in various stages of
+27 healing and including without limitation classic metaphyseal lesions, blue or
+28 grey sclera, impaired bone mineralization, or another medical condition that
+29 may appear to be caused by suspected abuse or increase the risk of
+30 misdiagnosis of abuse as defined in § 12-18-103(3), including without
+31 limitation:
+32 (a) Marfan's syndrome;
+33 (b) Hypermobility spectrum disorders;
+34 (a)(c) Rickets;
+35 (b)(d) Ehlers-Danlos syndrome;
+36 (c)(e) Osteogenesis imperfecta;
+3 04-02-2025 10:58:22 LJH157
+
+As Engrossed: H4/2/25 HB1664
+1 (d)(f) Vitamin D deficiency; or
+2 (e)(g) Another medical condition that may:
+3 Vitamin K deficiency
+4 (1) Appear to be caused by suspected
+5 abuse as defined in § 12-18-103; or
+6 (2) Increase the risk of a misdiagnosis
+7 of abuse as defined in § 12-18-103.
+8 (ii) An examination performed under subdivision
+9 (b)(1)(B)(i) of this section shall be paid for by the alleged offender or as
+10 otherwise covered by insurance or Medicaid.
+11 (iii) If the alleged victim undergoes genetic
+12 testing under subdivision (b)(1)(B)(i) of this section, the genetic testing
+13 shall include a complete family medical history even if the alleged victim's
+14 family members have not been diagnosed with a genetic condition, which shall
+15 include the licensed healthcare provider who routinely provides medical care
+16 to pediatric patients ascertaining if there is a family medical history of:
+17 (a) Joint hypermobility;
+18 (b) Sprains;
+19 (c) Bruising;
+20 (d) Connective tissue disorder or the physical
+21 manifestations of a connective tissue disorder; or
+22 (e) Fractures, including without limitation
+23 the cause of each fracture and the age of the family member at the time of
+24 the fracture.
+25 (2) A licensed healthcare provider examination under subdivision
+26 (b)(1) of this section shall not be requested for the purpose of obtaining a
+27 second opinion on to determine whether or not if an alleged victim has been a
+28 victim of: sexual
+29 (A) Sexual abuse; or
+30 (B) Physical abuse when the alleged victim is:
+31 (i) In a critical medical condition; or
+32 (ii) Receiving life-sustaining medical treatment.
+33
+34 SECTION 3. Arkansas Code Title 12, Chapter 18, Subchapter 6, is
+35 amended to add an additional section to read as follows:
+36 12-18-624. Right of parent, guardian, or custodian to medical records
+4 04-02-2025 10:58:22 LJH157
+
+As Engrossed: H4/2/25 HB1664
+1 of child — Definitions.
+2 (a)(1) A court with jurisdiction may order a healthcare institution or
+3 practitioner to provide an alleged child victim's medical records to an
+4 alleged offender if the alleged offender:
+5 (A) Has been accused of physical abuse; and
+6 (B) Is a parent, putative parent, guardian, or custodian
+7 of the alleged victim.
+8 (2) A court with jurisdiction may enter a protective order
+9 restricting the dissemination of the medical records or from making any use
+10 of the medical records other than for purposes of a specific case before the
+11 court.
+12 (3) Medical records shall include hospital or clinic records,
+13 physicians' records, or other healthcare records, including without
+14 limitation:
+15 (A) An admissions form, discharge summary, history and
+16 physical exam records, progress notes, physicians' orders, reports of
+17 operations, recovery room records, lab reports, consultation reports,
+18 medication administration records, nurses' notes, and other reports
+19 catalogued and maintained by the medical records department of a hospital,
+20 doctor's office, medical clinic, or any other medical facility; and
+21 (B) A paper entry, electronic entry, or image that is:
+22 (i) Captured in relation to a diagnosis, treatment,
+23 or other service provided to a child; or
+24 (ii) Relied upon by a healthcare provider to
+25 diagnose or provide treatment or other services to a child.
+26 (4) A healthcare institution or provider shall redact the
+27 alleged child victim's address, phone number, email address, and other
+28 information regarding the alleged child victim's foster placement before
+29 providing medical records under this section.
+30 (5) A healthcare institution or provider that fails to provide
+31 medical records under this section pursuant to a valid court order may be
+32 held in contempt of court under § 16-10-108.
+33
+34 SECTION 4. EMERGENCY CLAUSE. It is found and determined by the
+35 General Assembly of the State of Arkansas that "Quincy's Law", Acts 2021, No.
+36 976, is a crucial protection for persons who are the subject of an
+5 04-02-2025 10:58:22 LJH157
+
+As Engrossed: H4/2/25 HB1664
+1 investigation under the Child Maltreatment Act, § 12-18-101 et seq.; that
+2 since the enactment of Quincy's Law in 2021, an additional need for further
+3 protections under Quincy's Law has been demonstrated, most notably to provide
+4 further clarity in child maltreatment investigations involving differential
+5 diagnoses that may present as possible child abuse without additional testing
+6 that the provisions in this act make available; that this act is needed not
+7 only to protect wrongfully accused parents, but also to assist a parent who
+8 may not be aware of his or her child's condition and be given the opportunity
+9 to provide his or her child necessary medical treatment; that this act is
+10 also urgent to protect families from undergoing unnecessary trauma related to
+11 family separation and wrongful or mistaken allegations of child maltreatment
+12 that are actually manifestations of medical conditions; and that numerous
+13 child maltreatment investigations are taking place at any given time, and
+14 thus there is an urgent need for the provisions in this act to become
+15 effective. Therefore, an emergency is declared to exist, and this act being
+16 immediately necessary for the preservation of the public peace, health, and
+17 safety shall become effective on:
+18 (1) The date of its approval by the Governor;
+19 (2) If the bill is neither approved nor vetoed by the Governor,
+20 the expiration of the period of time during which the Governor may veto the
+21 bill; or
+22 (3) If the bill is vetoed by the Governor and the veto is
+23 overridden, the date the last house overrides the veto.
+24
+25 /s/K. Brown
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+6 04-02-2025 10:58:22 LJH157
+
+[DELETED:  A       A E A P C A P I T   T P I U D  B   S   (    ( t o g r f]
+[DELETED:  H2 0 u    ( i m o    ( w o c s h a e o m    ( m w    ( 1 m c f i c b  ( c p o   S  1  ( e p]
+[DELETED:  H3 0 c  ( m a    ( r o      ( t      ( p     ( (      ( o      ( r c    ( d r v o f g m h g m m l      (      (      (      (      (]
+[DELETED:  H4 0      (      ( V       ( a       ( o     ( ( o     ( t s f i t      (      (      (      ( m      ( t t   ( ( s v    (    (     (     (    S a  1]
+[DELETED:  H5 0 o  ( p a    (    ( o   ( r o c   ( p l    ( p o m c d    (     ( o     ( d   ( a i p   ( m h   S G 9]
+[DELETED:  H6 0 i s p f d t o m t a f t c t e i s   (   ( t b   ( o  /           ]
