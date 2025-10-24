@@ -1,0 +1,259 @@
+Title: Stricken language would be deleted from and underlined language would be added to present law.
+Official Title: Stricken language would be deleted from and underlined language would be added to present law.
+Number of Sections: 1
+Source: versions - SB 69
+Media Type: application/pdf
+Strikethrough Detection: 3 sections found
+
+================================================================================
+
+Section 1:
+1 State of Arkansas
+A Bill
+2 95th General Assembly
+3 Regular Session, 2025 SENATE BILL 69
+4
+5 By: Senator A. Clark
+6
+7
+For An Act To Be Entitled
+8
+9 AN ACT TO REQUIRE A DEED OR OTHER INSTRUMENT THAT
+10 CONVEYS REAL PROPERTY OR AN INTEREST IN REAL PROPERTY
+11 WITHOUT WARRANTY BE RECORDED AND FILED ONLY BY THE
+12 RECORDER OF THE COUNTY IN WHICH THE REAL PROPERTY IS
+13 LOCATED; TO AUTHORIZE A REAL PROPERTY OWNER TO
+14 COMPLETE A FORM CREATED BY A COUNTY RECORDER'S OFFICE
+15 THAT REQUIRES CERTAIN PROVISIONS BE MADE BEFORE A
+16 DEED OR OTHER INSTRUMENT THAT CONVEYS REAL PROPERTY
+17 OR AN INTEREST IN REAL PROPERTY OWNED BY THE REAL
+18 PROPERTY OWNER MAY BE RECORDED OR FILED; AND FOR
+19 OTHER PURPOSES.
+20
+21
+Subtitle
+22
+23 CONCERNING THE RECORDATION AND FILING OF
+24 A DEED OR OTHER INSTRUMENT THAT CONVEYS
+25 REAL PROPERTY OR AN INTEREST IN REAL
+26 PROPERTY.
+27
+28 BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF ARKANSAS:
+29
+30 SECTION 1. Arkansas Code § 14-15-403, concerning the recordation or
+31 filing of an instrument that affects the title to real estate or personal
+32 property, is amended to add an additional subsection to read as follows:
+33 (f) A deed or other instrument purporting to convey real property or
+34 an interest in real property without warranty shall be received for record or
+35 filing only by the recorder of the county in which the real property is
+36 located.
+*TNL040*
+01/14/2025 2:39:21 PM TNL040
+SB69
+1
+2 SECTION 2. Arkansas Code § 14-15-412, concerning the certification of
+3 an instrument that affects the title to real estate, is amended to add an
+4 additional subsection to read as follows:
+5 (c)(1) Each county recorder shall create a form that a real property
+6 owner may complete that prohibits the purported conveyance without warranty
+7 of the owner's real property or interest in real property by a deed or
+8 instrument unless the:
+9 (A) Deed or instrument is signed in person at the office
+10 of the recorder of the county in which the real property is located;
+11 (B) County recorder has obtained receipt of the lawful
+12 signature of the real property owner at the office of the recorder of the
+13 county in which the real property is located; and
+14 (C) Real property owner shows the recorder of the county
+15 in which the real property is located his or her government-issued photo
+16 identification, including without limitation a passport or state-issued
+17 driver's license.
+18 (2) If a real property owner is unable to sign a form in person
+19 as required by subdivision (c)(1)(A) of this section, the form signed by the
+20 real property owner may be submitted in person by an individual acting under
+21 a properly executed power of attorney for the real property owner.
+22 (3) A form completed and signed under this subsection shall
+23 remain in effect until the real property owner:
+24 (A) Conveys the real property or his or her interest in
+25 the real property; or
+26 (B) Rescinds the form.
+27 (4) The protections of real property or an interest in real
+28 property guaranteed by the completion of a form under this subsection are not
+29 transferable.
+30 (5)(A) A county recorder's office may charge a one-time fee for
+31 the completion of a form under subdivision (c)(1) of this section.
+32 (B)(i) Except as provided under subdivisions (c)(5)(B)(ii)
+33 and (c)(5)(B)(iii) of this section, a one-time fee charged under this
+34 subdivision (c)(5) shall not exceed one hundred dollars ($100).
+35 (ii) For an individual who is over sixty-five (65)
+36 years of age or permanently disabled, a one-time fee charged under this
+2 01/14/2025 2:39:21 PM TNL040
+SB69
+1 subdivision (c)(5) shall not exceed fifty dollars ($50).
+2 (iii) For real property that is occupied by an
+3 individual other than the real property owner, a one-time fee charged under
+4 this subdivision (c)(5) shall not exceed two hundred fifty dollars ($250).
+5 (6) A deed or other instrument purporting to convey real
+6 property or an interest in real property of an owner who completed a form
+7 under subdivision (c)(1) of this section shall not be submitted for
+8 recordation or filing by a county recorder unless all requirements under this
+9 subsection are met.
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+3 01/14/2025 2:39:21 PM TNL040
+[DELETED:      S A C W R L C T D O P O  C A R P  B   S f p  ( a f l]
+[DELETED: S2 0   S a a  ( o o i    ( o    ( s c    ( i i d   ( a r a   ( r    ( t    (   ( p t   ( t    ( a s     ( y]
+[DELETED: S3 0 s     ( i t   ( p u r s]
+
+
+================================================================================
+
+Raw Text:
+Stricken language would be deleted from and underlined language would be added to present law.
+1 State of Arkansas
+A Bill
+2 95th General Assembly
+3 Regular Session, 2025 SENATE BILL 69
+4
+5 By: Senator A. Clark
+6
+7
+For An Act To Be Entitled
+8
+9 AN ACT TO REQUIRE A DEED OR OTHER INSTRUMENT THAT
+10 CONVEYS REAL PROPERTY OR AN INTEREST IN REAL PROPERTY
+11 WITHOUT WARRANTY BE RECORDED AND FILED ONLY BY THE
+12 RECORDER OF THE COUNTY IN WHICH THE REAL PROPERTY IS
+13 LOCATED; TO AUTHORIZE A REAL PROPERTY OWNER TO
+14 COMPLETE A FORM CREATED BY A COUNTY RECORDER'S OFFICE
+15 THAT REQUIRES CERTAIN PROVISIONS BE MADE BEFORE A
+16 DEED OR OTHER INSTRUMENT THAT CONVEYS REAL PROPERTY
+17 OR AN INTEREST IN REAL PROPERTY OWNED BY THE REAL
+18 PROPERTY OWNER MAY BE RECORDED OR FILED; AND FOR
+19 OTHER PURPOSES.
+20
+21
+Subtitle
+22
+23 CONCERNING THE RECORDATION AND FILING OF
+24 A DEED OR OTHER INSTRUMENT THAT CONVEYS
+25 REAL PROPERTY OR AN INTEREST IN REAL
+26 PROPERTY.
+27
+28 BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF ARKANSAS:
+29
+30 SECTION 1. Arkansas Code § 14-15-403, concerning the recordation or
+31 filing of an instrument that affects the title to real estate or personal
+32 property, is amended to add an additional subsection to read as follows:
+33 (f) A deed or other instrument purporting to convey real property or
+34 an interest in real property without warranty shall be received for record or
+35 filing only by the recorder of the county in which the real property is
+36 located.
+*TNL040*
+01/14/2025 2:39:21 PM TNL040
+
+SB69
+1
+2 SECTION 2. Arkansas Code § 14-15-412, concerning the certification of
+3 an instrument that affects the title to real estate, is amended to add an
+4 additional subsection to read as follows:
+5 (c)(1) Each county recorder shall create a form that a real property
+6 owner may complete that prohibits the purported conveyance without warranty
+7 of the owner's real property or interest in real property by a deed or
+8 instrument unless the:
+9 (A) Deed or instrument is signed in person at the office
+10 of the recorder of the county in which the real property is located;
+11 (B) County recorder has obtained receipt of the lawful
+12 signature of the real property owner at the office of the recorder of the
+13 county in which the real property is located; and
+14 (C) Real property owner shows the recorder of the county
+15 in which the real property is located his or her government-issued photo
+16 identification, including without limitation a passport or state-issued
+17 driver's license.
+18 (2) If a real property owner is unable to sign a form in person
+19 as required by subdivision (c)(1)(A) of this section, the form signed by the
+20 real property owner may be submitted in person by an individual acting under
+21 a properly executed power of attorney for the real property owner.
+22 (3) A form completed and signed under this subsection shall
+23 remain in effect until the real property owner:
+24 (A) Conveys the real property or his or her interest in
+25 the real property; or
+26 (B) Rescinds the form.
+27 (4) The protections of real property or an interest in real
+28 property guaranteed by the completion of a form under this subsection are not
+29 transferable.
+30 (5)(A) A county recorder's office may charge a one-time fee for
+31 the completion of a form under subdivision (c)(1) of this section.
+32 (B)(i) Except as provided under subdivisions (c)(5)(B)(ii)
+33 and (c)(5)(B)(iii) of this section, a one-time fee charged under this
+34 subdivision (c)(5) shall not exceed one hundred dollars ($100).
+35 (ii) For an individual who is over sixty-five (65)
+36 years of age or permanently disabled, a one-time fee charged under this
+2 01/14/2025 2:39:21 PM TNL040
+
+SB69
+1 subdivision (c)(5) shall not exceed fifty dollars ($50).
+2 (iii) For real property that is occupied by an
+3 individual other than the real property owner, a one-time fee charged under
+4 this subdivision (c)(5) shall not exceed two hundred fifty dollars ($250).
+5 (6) A deed or other instrument purporting to convey real
+6 property or an interest in real property of an owner who completed a form
+7 under subdivision (c)(1) of this section shall not be submitted for
+8 recordation or filing by a county recorder unless all requirements under this
+9 subsection are met.
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+3 01/14/2025 2:39:21 PM TNL040
+
+[DELETED:      S A C W R L C T D O P O  C A R P  B   S f p  ( a f l]
+[DELETED: S2 0   S a a  ( o o i    ( o    ( s c    ( i i d   ( a r a   ( r    ( t    (   ( p t   ( t    ( a s     ( y]
+[DELETED: S3 0 s     ( i t   ( p u r s]

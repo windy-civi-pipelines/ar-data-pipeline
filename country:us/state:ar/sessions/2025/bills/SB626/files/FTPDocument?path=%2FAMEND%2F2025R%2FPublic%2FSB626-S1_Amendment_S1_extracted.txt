@@ -1,0 +1,627 @@
+Title: ______________________________________________________________________
+Official Title: ______________________________________________________________________
+Number of Sections: 4
+Source: versions - Amendment S1
+Media Type: application/pdf
+Strikethrough Detection: 9 sections found
+
+================================================================================
+
+Section 1:
+ARKANSAS SENATE
+95th General Assembly - Regular Session, 2025
+Amendment Form
+Subtitle of Senate Bill 626
+TO REQUIRE FAIR AND TRANSPARENT REIMBURSEMENT RATES; TO ENSURE
+PARITY OF HEALTHCARE SERVICES; TO AMEND THE BILLING IN THE BEST
+INTEREST OF PATIENTS ACT; AND TO DECLARE AN EMERGENCY.
+______________________________________________________________________
+Amendment No. 1 to Senate Bill 626
+Amend Senate Bill 626 as originally introduced:
+Page 1, delete lines 30 through 35, and substitute the following:
+"(1) Arkansas's healthcare providers are at a significant
+disadvantage as a result of national reimbursement methodologies and receive
+some of the lowest commercial rates in the country;"
+AND
+Page 2, delete lines 14 through 36, and substitute the following:
+"(b) It is the intent of the General Assembly to:
+(1) Ensure fair and equitable reimbursement rates for healthcare
+clinics, hospitals, medical or imaging services performed at licensed
+ambulatory surgical centers, outpatient psychiatric centers, and outpatient
+imaging facilities; and
+(2) Require insurers to:
+(A) Reimburse healthcare clinics, hospitals, medical or
+imaging services performed at licensed ambulatory surgical centers,
+outpatient psychiatric centers, and outpatient imaging facilities fairly and
+equitably;
+(B) Disclose the insurer’s reimbursement methodologies;
+and
+(C) Ensure minimum reimbursement rates for healthcare
+*.ANS513*
+ANS513 - 04-08-2025 04:26:40 Page 1 of 9
+clinics, hospitals, medical or imaging services performed at licensed
+ambulatory surgical centers, outpatient psychiatric centers, and outpatient
+imaging facilities."
+AND
+Page 3, delete lines 1 through 36, and substitute the following:
+"SECTION 2. Arkansas Code Title 23, Chapter 99, is amended to add an
+additional subchapter to read as follows:
+Subchapter 20 — Minimum Reimbursement Rates for Healthcare Services
+23-99-2001. Definitions.
+As used in this subchapter:
+(1) "Adjoining states" means Louisiana, Mississippi, Missouri,
+Oklahoma, Tennessee, and Texas;
+(2) "Ambulatory surgery center" means an entity certified by the
+Department of Health as an ambulatory surgery center that operates for the
+purpose of providing surgical services to patients;
+(3)(A) "Equivalent Medicare reimbursement" means the amount,
+based on prevailing reimbursement rates and methodologies, that a healthcare
+provider or health system is entitled to for healthcare services.
+(B)(i) "Equivalent Medicare reimbursement" includes
+services that are not covered by Medicare or are set locally by Medicare
+contractors.
+(ii) Services under this subdivision (3) will be
+priced at the healthcare provider's overall prevailing Medicare reimbursement
+collection-to-charge ratio;
+(4)(A) "Health benefit plan" means an individual, blanket, or
+group plan, policy, or contract for healthcare services issued, renewed, or
+extended in this state by a healthcare insurer.
+(B) "Health benefit plan" includes any group plan, policy,
+or contract for healthcare services issued outside this state that provides
+benefits to residents of this state.
+(C) "Health benefit plan" does not include:
+(i) A plan that provides only dental benefits;
+(ii) A plan that provides only eye and vision
+ANS513 - 04-08-2025 04:26:40 Amendment No. 1 to Senate Bill 626 Page 2 of 9
+benefits;
+(iii) A disability income plan;
+(iv) A credit insurance plan;
+(v) Insurance coverage issued as a supplement to
+liability insurance;
+(vi) Medical payments under an automobile or
+homeowners’ insurance plan;
+(vii) A health benefit plan provided under Arkansas
+Constitution, Article 5, § 32, the Workers’ Compensation Law, § 11-9-101 et
+seq., or the Public Employee Workers’ Compensation Act, § 21-5-601 et seq.;
+(viii) A plan that provides only indemnity for
+hospital confinement;
+(ix) An accident-only plan;
+(x) A specified disease plan;
+(xi) A policy, contract, certificate, or agreement
+offered or issued by a healthcare insurer to provide, deliver, arrange for,
+pay for, or reimburse any of the costs of healthcare services, including
+pharmacy benefits, to an entity of the state under § 21-5-401 et seq;
+(xii) A qualified health plan that is a health
+benefit plan under the Patient Protection and Affordable Care Act, Pub. L.
+No. 111-148, and purchased on the Arkansas Health Insurance Marketplace
+created under the Arkansas Health Insurance Marketplace Act, § 23-61-801 et
+seq., for an individual up to four hundred percent (400%) of the federal
+poverty level;
+(xiii) A health benefit plan provided by a trust
+established under § 14-54-104 to provide benefits, including accident and
+health benefits, death benefits, dental benefits, and disability income
+benefits;
+(xiv) A long-term care insurance plan; or
+(xv) A health benefit plan provided by an
+institution of higher education;
+(5) "Health system" means an organization that owns or operates
+more than one (1) hospital;
+(6)(A) "Healthcare insurer" means an entity that is authorized
+by this state to offer or provide health benefit plans, policies, subscriber
+contracts, or any other contracts of a similar nature that indemnify or
+ANS513 - 04-08-2025 04:26:40 Amendment No. 1 to Senate Bill 626 Page 3 of 9
+compensate a healthcare provider for the provision of healthcare services.
+(B) "Healthcare insurer" includes without limitation:
+(i) An insurance company;
+(ii) A health maintenance organization;
+(iii) A hospital and medical service corporation;
+and
+(iv) An entity that provides or administers a self-
+funded health benefit plan.
+(C) "Healthcare insurer" does not include:
+(i) The Arkansas Medicaid Program;
+(ii) The Arkansas Health and Opportunity for Me
+Program under the Arkansas Health and Opportunity for Me Act of 2021, § 23-
+61-1001 et seq., or any successor program;
+(iii) A provider-led Arkansas shared savings entity;
+(iv) An entity that offers a plan providing health
+benefits to state and public school employees under § 21-5-401 et seq.; or
+(v) An entity that offers a plan providing health
+benefits to an institution of higher education;
+(7) "Healthcare provider" means:
+(A) A hospital;
+(B) A health system;
+(C) A physician;
+(D)(i) A physician extender.
+(ii) A physician extender includes without
+limitation:
+(a) A physician assistant who is licensed in
+this state;
+(b) A nurse practitioner who is licensed in
+this state;
+(c) An advanced practice nurse who is licensed
+in this state; and
+(d) A certified midwife who is licensed in
+this state;
+(E) A licensed ambulatory surgery center; and
+(F) An outpatient facility that performs healthcare
+services, including without limitation primary care clinics, urgent care
+ANS513 - 04-08-2025 04:26:40 Amendment No. 1 to Senate Bill 626 Page 4 of 9
+centers, specialty clinics, dialysis centers, and imaging centers;
+(8) "Healthcare service" means a service or good that is
+provided for the purpose of or incidental to the purpose of preventing,
+diagnosing, treating, alleviating curing, or healing human illness, disease,
+condition, disability, or injury;
+(9) “Hospital” means a healthcare facility licensed as a
+hospital by the Division of Health Facilities Services under § 20-9-213;
+(10) "Minimum reimbursement level" means the minimum ratio of
+reimbursement to equivalent Medicare reimbursement that a healthcare provider
+or health system is entitled to by a healthcare insurer for healthcare
+services;
+(11) "Outpatient imaging facility" means a healthcare facility
+or provider that provides diagnostic and advanced imaging services to
+patients and uses Current Procedural Terminology codes 70010–79999 to bill
+for the facility component of imaging services;
+(12) "Physician" means a person authorized or licensed to
+practice medicine under the Arkansas Medical Practices Act, § 17-95-201 et
+seq., § 17-95-301 et seq., and § 17-95-401 et seq.; and
+(13) "Reimbursement rate" means the amount that a healthcare
+provider is entitled to receive for healthcare services.
+23-99-2002. Minimum reimbursement level.
+(a)(1) A health benefit plan shall reimburse a healthcare provider
+that provides a healthcare service the minimum reimbursement level for the
+healthcare service as determined by the Insurance Commissioner.
+(2) The commissioner is not required to establish a minimum
+reimbursement level for each healthcare service.
+(3) The minimum reimbursement level shall be established at the
+healthcare provider's contract level based on the healthcare provider's
+specific compliment of services.
+(b) The minimum reimbursement level under subdivision (a)(1) of this
+
+Section 2:
+section shall be phased in according to the schedule below:
+(1) On or after January 1, 2026, forty-five percent (45%);
+(2) On or after January 1, 2027, fifty-five percent (55%);
+(3) On or after January 1, 2028, sixty-five percent (65%);
+(4) On or after January 1, 2029, seventy-five percent (75%); and
+ANS513 - 04-08-2025 04:26:40 Amendment No. 1 to Senate Bill 626 Page 5 of 9
+(5) On or after January 1, 2030, one hundred percent (100%).
+(c)(1) The commissioner shall determine the minimum reimbursement
+level for a healthcare service by calculating the weighted average ratio of
+commercial prices as a percentage of Medicare reimbursement for the
+healthcare service in adjoining states as derived from the RAND Corporation's
+Prices Paid to Hospitals by Private Plans findings as adopted by rule of the
+commissioner.
+(2) If the RAND Corporation's Prices Paid to Hospitals by
+Private Plans findings are discontinued, delayed, or deemed unsuitable by the
+commissioner, the commissioner shall compute an adjusted ratio of commercial
+prices as a percentage of Medicare by applying a factor of the annual change
+in the Consumer Price Index: Medical Care, commonly known as the "medical
+care index", published by the United States Bureau of Labor Statistics and
+adopted by rule of the commissioner to the weighted average increase of
+Medicare reimbursement for a healthcare provider to the most recently
+published minimum reimbursement level.
+(d) Beginning September 1, 2025, the commissioner shall publish
+annually on the State Insurance Department's website the minimum
+reimbursement level as determined under subsection (c) of this section.
+23-99-2003. Disclosures.
+(a)(1) A healthcare insurer shall document compliance with this
+subchapter for each healthcare provider.
+(2) A healthcare insurer shall include documentation of
+compliance required in subdivision (a)(1) of this section for each health
+benefit plan offered by the healthcare insurer to a healthcare provider.
+(b)(1) A healthcare insurer shall disclose to each contracted
+healthcare provider summary documentation, including the supporting detailed
+calculations and assumptions.
+(2) The summary documentation under subdivision (b)(1) of this
+
+Section 3:
+section shall be made available to:
+(A) The contracted healthcare provider before the
+execution or renewal of a contract and within fifteen (15) days of a formal
+request; and
+(B) The Insurance Commissioner within fifteen (15) days of
+a formal request.
+ANS513 - 04-08-2025 04:26:40 Amendment No. 1 to Senate Bill 626 Page 6 of 9
+23-99-2004. Enforcement.
+(a) A dispute under this subchapter shall be filed with the Insurance
+Commissioner.
+(b)(1) After notice and opportunity for a hearing, if a healthcare
+insurer or a health benefit plan is found to have violated this subchapter,
+the commissioner may revoke or suspend the authority of the healthcare
+insurer or health benefit plan to do business in this state.
+(2) The commissioner shall rule on a dispute within sixty (60)
+days.
+(c) A healthcare insurer or health benefit plan that has violated this
+subchapter shall be required to repay the healthcare provider all amounts in
+violation of this subchapter plus eight percent (8%) interest and five
+percent (5%) in administrative fees, inclusive of amounts otherwise due from
+the patient.
+23-99-2005. Prohibition on pricing increases.
+(a) Before a healthcare insurer’s implementation of an increase in
+premium rates, cost sharing, or per-member-per-month costs or payments for
+rates or insurance policies that are required to be reviewed by the Insurance
+Commissioner under §§ 23-79-109 and 23-79-110, the commissioner shall
+consider the following additional factors in his or her review:
+(1) The extent to which the healthcare insurer’s RBC level as
+defined in § 23-63-1302 is less than six hundred fifty percent (650%); and
+(2)(A) To the extent permitted by federal law, whether the
+healthcare insurer’s medical loss ratio is greater than eighty-five percent
+(85%) on clinical services and quality improvement.
+(B) The calculation of medical claims and quality
+improvements for a healthcare insurer's medical loss ratio under subdivision
+(a)(2)(A) of this section should exclude:
+(i) Any performance-based compensation, bonus, or
+other financial incentive paid directly or indirectly to a contracting entity
+employee, affiliate, contractor, or other entity or individual;
+(ii) Any expense associated with carrying enrollee
+medical debt; and
+(iii) Cost sharing.
+ANS513 - 04-08-2025 04:26:40 Amendment No. 1 to Senate Bill 626 Page 7 of 9
+(b) A healthcare insurer in the fully insured group market shall
+consider the factors in subsection (a) of this section before implementing an
+increased premium rate, cost sharing, or enrollee per-member-per-month fee.
+23-99-2006. Rules.
+The Insurance Commissioner may promulgate rules to implement and
+enforce this subchapter.
+23-99-2007. Remedies and penalties.
+(a) This subchapter shall not be waived by contract.
+(b) An agreement or other arrangement that violates this subchapter is
+void.
+(c) All remedies, penalties, and authority granted to the Insurance
+Commissioner under the Trade Practices Act, § 23-66-201 et seq., including
+the award of restitution and damages, shall be made available to the
+commissioner for the enforcement of this subchapter.
+(d) A violation of this section is a deceptive act, as defined by the
+Trade Practices Act, § 23-66-201 et seq., and § 4-88-101 et seq. except that
+the statute of limitations for private causes of action against an insurer by
+a healthcare provider shall be five (5) years for a violation of this
+
+Section 4:
+section."
+AND
+Page 4, delete lines 1 through 36
+AND
+Page 5, delete lines 1 through 36
+AND
+Page 6, delete lines 1 through 36
+AND
+ANS513 - 04-08-2025 04:26:40 Amendment No. 1 to Senate Bill 626 Page 8 of 9
+Page 7, delete lines 1 through 36
+AND
+Page 8, delete lines 1 through 36
+AND
+Page 9, delete lines 1 through 36
+AND
+Page 10, delete lines 1 through 36
+AND
+Page 11, delete line 1
+AND
+Appropriately renumber the sections of the bill
+The Amendment was read the first time, rules suspended and read the second time and _______________________
+By: Senator Irvin
+ANS/ANS - 04-08-2025 04:26:41 _________________________
+ANS513 Secretary
+ANS513 - 04-08-2025 04:26:40 Amendment No. 1 to Senate Bill 626 Page 9 of 9
+[DELETED:  PA   "" ( (  (  (  (]
+[DELETED:  P"2A ( ( (  (   ( (  (  (   (   (]
+[DELETED:  P   (   (   (   (   (   (   (   (   (   (   (   (   ( ( (]
+[DELETED:  P  (   (   (   (   (  (   (   (   (   (   ( (  (  (  (  (   (    (    (    (    (  (  (]
+[DELETED:  P ( ( ( ( ( (2( ( (( ( ( ( (]
+[DELETED:  P (( ((2( (( (  (  (]
+[DELETED:  P2(( ((2( ( (  (   (   (   (]
+[DELETED:  P(2T2((((]
+[DELETED:  P _ S]
+
+
+================================================================================
+
+Raw Text:
+ARKANSAS SENATE
+95th General Assembly - Regular Session, 2025
+Amendment Form
+______________________________________________________________________
+Subtitle of Senate Bill 626
+TO REQUIRE FAIR AND TRANSPARENT REIMBURSEMENT RATES; TO ENSURE
+PARITY OF HEALTHCARE SERVICES; TO AMEND THE BILLING IN THE BEST
+INTEREST OF PATIENTS ACT; AND TO DECLARE AN EMERGENCY.
+______________________________________________________________________
+Amendment No. 1 to Senate Bill 626
+Amend Senate Bill 626 as originally introduced:
+Page 1, delete lines 30 through 35, and substitute the following:
+"(1) Arkansas's healthcare providers are at a significant
+disadvantage as a result of national reimbursement methodologies and receive
+some of the lowest commercial rates in the country;"
+AND
+Page 2, delete lines 14 through 36, and substitute the following:
+"(b) It is the intent of the General Assembly to:
+(1) Ensure fair and equitable reimbursement rates for healthcare
+clinics, hospitals, medical or imaging services performed at licensed
+ambulatory surgical centers, outpatient psychiatric centers, and outpatient
+imaging facilities; and
+(2) Require insurers to:
+(A) Reimburse healthcare clinics, hospitals, medical or
+imaging services performed at licensed ambulatory surgical centers,
+outpatient psychiatric centers, and outpatient imaging facilities fairly and
+equitably;
+(B) Disclose the insurer’s reimbursement methodologies;
+and
+(C) Ensure minimum reimbursement rates for healthcare
+*.ANS513*
+ANS513 - 04-08-2025 04:26:40 Page 1 of 9
+
+clinics, hospitals, medical or imaging services performed at licensed
+ambulatory surgical centers, outpatient psychiatric centers, and outpatient
+imaging facilities."
+AND
+Page 3, delete lines 1 through 36, and substitute the following:
+"SECTION 2. Arkansas Code Title 23, Chapter 99, is amended to add an
+additional subchapter to read as follows:
+Subchapter 20 — Minimum Reimbursement Rates for Healthcare Services
+23-99-2001. Definitions.
+As used in this subchapter:
+(1) "Adjoining states" means Louisiana, Mississippi, Missouri,
+Oklahoma, Tennessee, and Texas;
+(2) "Ambulatory surgery center" means an entity certified by the
+Department of Health as an ambulatory surgery center that operates for the
+purpose of providing surgical services to patients;
+(3)(A) "Equivalent Medicare reimbursement" means the amount,
+based on prevailing reimbursement rates and methodologies, that a healthcare
+provider or health system is entitled to for healthcare services.
+(B)(i) "Equivalent Medicare reimbursement" includes
+services that are not covered by Medicare or are set locally by Medicare
+contractors.
+(ii) Services under this subdivision (3) will be
+priced at the healthcare provider's overall prevailing Medicare reimbursement
+collection-to-charge ratio;
+(4)(A) "Health benefit plan" means an individual, blanket, or
+group plan, policy, or contract for healthcare services issued, renewed, or
+extended in this state by a healthcare insurer.
+(B) "Health benefit plan" includes any group plan, policy,
+or contract for healthcare services issued outside this state that provides
+benefits to residents of this state.
+(C) "Health benefit plan" does not include:
+(i) A plan that provides only dental benefits;
+(ii) A plan that provides only eye and vision
+ANS513 - 04-08-2025 04:26:40 Amendment No. 1 to Senate Bill 626 Page 2 of 9
+
+benefits;
+(iii) A disability income plan;
+(iv) A credit insurance plan;
+(v) Insurance coverage issued as a supplement to
+liability insurance;
+(vi) Medical payments under an automobile or
+homeowners’ insurance plan;
+(vii) A health benefit plan provided under Arkansas
+Constitution, Article 5, § 32, the Workers’ Compensation Law, § 11-9-101 et
+seq., or the Public Employee Workers’ Compensation Act, § 21-5-601 et seq.;
+(viii) A plan that provides only indemnity for
+hospital confinement;
+(ix) An accident-only plan;
+(x) A specified disease plan;
+(xi) A policy, contract, certificate, or agreement
+offered or issued by a healthcare insurer to provide, deliver, arrange for,
+pay for, or reimburse any of the costs of healthcare services, including
+pharmacy benefits, to an entity of the state under § 21-5-401 et seq;
+(xii) A qualified health plan that is a health
+benefit plan under the Patient Protection and Affordable Care Act, Pub. L.
+No. 111-148, and purchased on the Arkansas Health Insurance Marketplace
+created under the Arkansas Health Insurance Marketplace Act, § 23-61-801 et
+seq., for an individual up to four hundred percent (400%) of the federal
+poverty level;
+(xiii) A health benefit plan provided by a trust
+established under § 14-54-104 to provide benefits, including accident and
+health benefits, death benefits, dental benefits, and disability income
+benefits;
+(xiv) A long-term care insurance plan; or
+(xv) A health benefit plan provided by an
+institution of higher education;
+(5) "Health system" means an organization that owns or operates
+more than one (1) hospital;
+(6)(A) "Healthcare insurer" means an entity that is authorized
+by this state to offer or provide health benefit plans, policies, subscriber
+contracts, or any other contracts of a similar nature that indemnify or
+ANS513 - 04-08-2025 04:26:40 Amendment No. 1 to Senate Bill 626 Page 3 of 9
+
+compensate a healthcare provider for the provision of healthcare services.
+(B) "Healthcare insurer" includes without limitation:
+(i) An insurance company;
+(ii) A health maintenance organization;
+(iii) A hospital and medical service corporation;
+and
+(iv) An entity that provides or administers a self-
+funded health benefit plan.
+(C) "Healthcare insurer" does not include:
+(i) The Arkansas Medicaid Program;
+(ii) The Arkansas Health and Opportunity for Me
+Program under the Arkansas Health and Opportunity for Me Act of 2021, § 23-
+61-1001 et seq., or any successor program;
+(iii) A provider-led Arkansas shared savings entity;
+(iv) An entity that offers a plan providing health
+benefits to state and public school employees under § 21-5-401 et seq.; or
+(v) An entity that offers a plan providing health
+benefits to an institution of higher education;
+(7) "Healthcare provider" means:
+(A) A hospital;
+(B) A health system;
+(C) A physician;
+(D)(i) A physician extender.
+(ii) A physician extender includes without
+limitation:
+(a) A physician assistant who is licensed in
+this state;
+(b) A nurse practitioner who is licensed in
+this state;
+(c) An advanced practice nurse who is licensed
+in this state; and
+(d) A certified midwife who is licensed in
+this state;
+(E) A licensed ambulatory surgery center; and
+(F) An outpatient facility that performs healthcare
+services, including without limitation primary care clinics, urgent care
+ANS513 - 04-08-2025 04:26:40 Amendment No. 1 to Senate Bill 626 Page 4 of 9
+
+centers, specialty clinics, dialysis centers, and imaging centers;
+(8) "Healthcare service" means a service or good that is
+provided for the purpose of or incidental to the purpose of preventing,
+diagnosing, treating, alleviating curing, or healing human illness, disease,
+condition, disability, or injury;
+(9) “Hospital” means a healthcare facility licensed as a
+hospital by the Division of Health Facilities Services under § 20-9-213;
+(10) "Minimum reimbursement level" means the minimum ratio of
+reimbursement to equivalent Medicare reimbursement that a healthcare provider
+or health system is entitled to by a healthcare insurer for healthcare
+services;
+(11) "Outpatient imaging facility" means a healthcare facility
+or provider that provides diagnostic and advanced imaging services to
+patients and uses Current Procedural Terminology codes 70010–79999 to bill
+for the facility component of imaging services;
+(12) "Physician" means a person authorized or licensed to
+practice medicine under the Arkansas Medical Practices Act, § 17-95-201 et
+seq., § 17-95-301 et seq., and § 17-95-401 et seq.; and
+(13) "Reimbursement rate" means the amount that a healthcare
+provider is entitled to receive for healthcare services.
+23-99-2002. Minimum reimbursement level.
+(a)(1) A health benefit plan shall reimburse a healthcare provider
+that provides a healthcare service the minimum reimbursement level for the
+healthcare service as determined by the Insurance Commissioner.
+(2) The commissioner is not required to establish a minimum
+reimbursement level for each healthcare service.
+(3) The minimum reimbursement level shall be established at the
+healthcare provider's contract level based on the healthcare provider's
+specific compliment of services.
+(b) The minimum reimbursement level under subdivision (a)(1) of this
+section shall be phased in according to the schedule below:
+(1) On or after January 1, 2026, forty-five percent (45%);
+(2) On or after January 1, 2027, fifty-five percent (55%);
+(3) On or after January 1, 2028, sixty-five percent (65%);
+(4) On or after January 1, 2029, seventy-five percent (75%); and
+ANS513 - 04-08-2025 04:26:40 Amendment No. 1 to Senate Bill 626 Page 5 of 9
+
+(5) On or after January 1, 2030, one hundred percent (100%).
+(c)(1) The commissioner shall determine the minimum reimbursement
+level for a healthcare service by calculating the weighted average ratio of
+commercial prices as a percentage of Medicare reimbursement for the
+healthcare service in adjoining states as derived from the RAND Corporation's
+Prices Paid to Hospitals by Private Plans findings as adopted by rule of the
+commissioner.
+(2) If the RAND Corporation's Prices Paid to Hospitals by
+Private Plans findings are discontinued, delayed, or deemed unsuitable by the
+commissioner, the commissioner shall compute an adjusted ratio of commercial
+prices as a percentage of Medicare by applying a factor of the annual change
+in the Consumer Price Index: Medical Care, commonly known as the "medical
+care index", published by the United States Bureau of Labor Statistics and
+adopted by rule of the commissioner to the weighted average increase of
+Medicare reimbursement for a healthcare provider to the most recently
+published minimum reimbursement level.
+(d) Beginning September 1, 2025, the commissioner shall publish
+annually on the State Insurance Department's website the minimum
+reimbursement level as determined under subsection (c) of this section.
+23-99-2003. Disclosures.
+(a)(1) A healthcare insurer shall document compliance with this
+subchapter for each healthcare provider.
+(2) A healthcare insurer shall include documentation of
+compliance required in subdivision (a)(1) of this section for each health
+benefit plan offered by the healthcare insurer to a healthcare provider.
+(b)(1) A healthcare insurer shall disclose to each contracted
+healthcare provider summary documentation, including the supporting detailed
+calculations and assumptions.
+(2) The summary documentation under subdivision (b)(1) of this
+section shall be made available to:
+(A) The contracted healthcare provider before the
+execution or renewal of a contract and within fifteen (15) days of a formal
+request; and
+(B) The Insurance Commissioner within fifteen (15) days of
+a formal request.
+ANS513 - 04-08-2025 04:26:40 Amendment No. 1 to Senate Bill 626 Page 6 of 9
+
+23-99-2004. Enforcement.
+(a) A dispute under this subchapter shall be filed with the Insurance
+Commissioner.
+(b)(1) After notice and opportunity for a hearing, if a healthcare
+insurer or a health benefit plan is found to have violated this subchapter,
+the commissioner may revoke or suspend the authority of the healthcare
+insurer or health benefit plan to do business in this state.
+(2) The commissioner shall rule on a dispute within sixty (60)
+days.
+(c) A healthcare insurer or health benefit plan that has violated this
+subchapter shall be required to repay the healthcare provider all amounts in
+violation of this subchapter plus eight percent (8%) interest and five
+percent (5%) in administrative fees, inclusive of amounts otherwise due from
+the patient.
+23-99-2005. Prohibition on pricing increases.
+(a) Before a healthcare insurer’s implementation of an increase in
+premium rates, cost sharing, or per-member-per-month costs or payments for
+rates or insurance policies that are required to be reviewed by the Insurance
+Commissioner under §§ 23-79-109 and 23-79-110, the commissioner shall
+consider the following additional factors in his or her review:
+(1) The extent to which the healthcare insurer’s RBC level as
+defined in § 23-63-1302 is less than six hundred fifty percent (650%); and
+(2)(A) To the extent permitted by federal law, whether the
+healthcare insurer’s medical loss ratio is greater than eighty-five percent
+(85%) on clinical services and quality improvement.
+(B) The calculation of medical claims and quality
+improvements for a healthcare insurer's medical loss ratio under subdivision
+(a)(2)(A) of this section should exclude:
+(i) Any performance-based compensation, bonus, or
+other financial incentive paid directly or indirectly to a contracting entity
+employee, affiliate, contractor, or other entity or individual;
+(ii) Any expense associated with carrying enrollee
+medical debt; and
+(iii) Cost sharing.
+ANS513 - 04-08-2025 04:26:40 Amendment No. 1 to Senate Bill 626 Page 7 of 9
+
+(b) A healthcare insurer in the fully insured group market shall
+consider the factors in subsection (a) of this section before implementing an
+increased premium rate, cost sharing, or enrollee per-member-per-month fee.
+23-99-2006. Rules.
+The Insurance Commissioner may promulgate rules to implement and
+enforce this subchapter.
+23-99-2007. Remedies and penalties.
+(a) This subchapter shall not be waived by contract.
+(b) An agreement or other arrangement that violates this subchapter is
+void.
+(c) All remedies, penalties, and authority granted to the Insurance
+Commissioner under the Trade Practices Act, § 23-66-201 et seq., including
+the award of restitution and damages, shall be made available to the
+commissioner for the enforcement of this subchapter.
+(d) A violation of this section is a deceptive act, as defined by the
+Trade Practices Act, § 23-66-201 et seq., and § 4-88-101 et seq. except that
+the statute of limitations for private causes of action against an insurer by
+a healthcare provider shall be five (5) years for a violation of this
+section."
+AND
+Page 4, delete lines 1 through 36
+AND
+Page 5, delete lines 1 through 36
+AND
+Page 6, delete lines 1 through 36
+AND
+ANS513 - 04-08-2025 04:26:40 Amendment No. 1 to Senate Bill 626 Page 8 of 9
+
+Page 7, delete lines 1 through 36
+AND
+Page 8, delete lines 1 through 36
+AND
+Page 9, delete lines 1 through 36
+AND
+Page 10, delete lines 1 through 36
+AND
+Page 11, delete line 1
+AND
+Appropriately renumber the sections of the bill
+The Amendment was read the first time, rules suspended and read the second time and _______________________
+By: Senator Irvin
+ANS/ANS - 04-08-2025 04:26:41 _________________________
+ANS513 Secretary
+ANS513 - 04-08-2025 04:26:40 Amendment No. 1 to Senate Bill 626 Page 9 of 9
+
+[DELETED:  PA   "" ( (  (  (  (]
+[DELETED:  P"2A ( ( (  (   ( (  (  (   (   (]
+[DELETED:  P   (   (   (   (   (   (   (   (   (   (   (   (   ( ( (]
+[DELETED:  P  (   (   (   (   (  (   (   (   (   (   ( (  (  (  (  (   (    (    (    (    (  (  (]
+[DELETED:  P ( ( ( ( ( (2( ( (( ( ( ( (]
+[DELETED:  P (( ((2( (( (  (  (]
+[DELETED:  P2(( ((2( ( (  (   (   (   (]
+[DELETED:  P(2T2((((]
+[DELETED:  P _ S]

@@ -1,0 +1,241 @@
+Title: ______________________________________________________________________
+Official Title: ______________________________________________________________________
+Number of Sections: 1
+Source: versions - Amendment S3
+Media Type: application/pdf
+Strikethrough Detection: 5 sections found
+
+================================================================================
+
+Section 1:
+ARKANSAS SENATE
+95th General Assembly - Regular Session, 2025
+Amendment Form
+Subtitle of House Bill 1717
+TO CREATE THE ARKANSAS CHILDREN AND TEENS' ONLINE PRIVACY PROTECTION
+ACT.
+______________________________________________________________________
+Amendment No. 3 to House Bill 1717
+Amend House Bill 1717 as engrossed S4/2/25 (version: 4/2/25 11:18:01 AM):
+Page 2, line 28, delete "(B)" and substitute "(C)"
+AND
+Page 2, delete lines 31 and 32, and substitute the following:
+"application of the operator, including a processor;"
+AND
+Page 3, line 18, delete "(9)(A)(i)" and substitute "(9)(A)"
+AND
+Page 3, line 21, delete "(ii)(a)" and substitute "(i)"
+AND
+Page 3, line 24, delete "(b)" and substitute "(ii)"
+AND
+Page 5, line 11, delete "Only uses" and substitute "Uses"
+*.LJH303*
+LJH303 - 04-03-2025 01:43:01 Page 1 of 5
+AND
+Page 5, line 12, delete "solely"
+AND
+Page 5, delete line 16, and substitute the following:
+"complete the stated purpose and improve or enhance the users' experience of
+the service and then deletes the audio file when it is no longer reasonably
+needed and"
+AND
+Page 6, line 7, delete "; or" and substitute ";"
+AND
+Page 6, line 8, delete "(iv)" and substitute "(iii)"
+AND
+Page 6, line 10, delete ";" and substitute "; or"
+AND
+Page 6, line 11, delete "(iii)" and substitute "(iv)"
+AND
+Page 6, line 29, delete "(15)" and substitute "(16)"
+AND
+Page 7, line 21, delete "teen; or" and substitute "teen or parent of the
+child or teen; or"
+LJH303 - 04-03-2025 01:43:01 Amendment No. 3 to House Bill 1717 Page 2 of 5
+AND
+Page 8, line 28, delete "or"
+AND
+Page 8, line 29, delete ";" and substitute "; or"
+AND
+Page 8, line 30, delete "(i)" and substitute "(H)"
+AND
+Page 8, delete lines 32 through 36, and substitute the following:
+"(3) Provide:"
+AND
+Page 9, delete lines 1 through 3, and substitute the following:
+"(A) The opportunity to:"
+AND
+Page 9, line 14, delete "(C)" and substitute "(B)"
+AND
+Page 9, delete lines 18 through 20, and substitute the following:
+"(4) Provide:"
+AND
+Page 9, delete lines 21 through 24
+LJH303 - 04-03-2025 01:43:01 Amendment No. 3 to House Bill 1717 Page 3 of 5
+AND
+Page 9, line 25, delete "(B)" and substitute "(A)"
+AND
+Page 9, line 29, delete "(C)" and substitute "(B)"
+AND
+Page 9, line 33, delete "(D)" and substitute "(C)"
+AND
+Page 11, line 32, delete "; and" and substitute ";"
+AND
+Page 11, line 36, delete ";" and substitute "; or"
+AND
+Page 12, line 5, delete "; or" and substitute "; and"
+AND
+Page 12, delete lines 6 through 10, and substitute the following:
+"(C) Prohibit an operator from:
+(i) Retaining a record of the deletion request and
+the minimum information necessary for the purposes of ensuring compliance
+with a request made under subsection (b) of this section;
+(ii) Preventing, detecting, protecting against, or
+responding to a security incident, identity theft, fraud, or the reporting of
+a person responsible for a security incident, identity theft, or fraud;
+(iii) Protecting the integrity or security of a
+website, online service, online application, or mobile application; or
+LJH303 - 04-03-2025 01:43:01 Amendment No. 3 to House Bill 1717 Page 4 of 5
+(iv) Ensuring that the child or teen's personal
+information remains deleted."
+AND
+Page 12, line 17, delete "In" and substitute "(a) In"
+AND
+Page 12, delete line 27, and substitute the following:
+"(4) Obtain other relief that the court finds appropriate.
+(b)(1) The Attorney General shall have exclusive authority to enforce
+this subchapter.
+(2) Nothing in this subchapter provides the basis for, or
+subjects an operator, processor, or person to a private right of action for a
+violation of this subchapter or any other law."
+The Amendment was read the first time, rules suspended and read the second time and _______________________
+By: Senator J. Boyd
+LJH/LJH - 04-03-2025 01:43:01 _________________________
+LJH303 Secretary
+LJH303 - 04-03-2025 01:43:01 Amendment No. 3 to House Bill 1717 Page 5 of 5
+[DELETED:  PA  ]
+[DELETED:  P ]
+[DELETED:  P "  " "]
+[DELETED:  P  "   (   (   (]
+[DELETED:  P   ( "( ( _ S]
+
+
+================================================================================
+
+Raw Text:
+ARKANSAS SENATE
+95th General Assembly - Regular Session, 2025
+Amendment Form
+______________________________________________________________________
+Subtitle of House Bill 1717
+TO CREATE THE ARKANSAS CHILDREN AND TEENS' ONLINE PRIVACY PROTECTION
+ACT.
+______________________________________________________________________
+Amendment No. 3 to House Bill 1717
+Amend House Bill 1717 as engrossed S4/2/25 (version: 4/2/25 11:18:01 AM):
+Page 2, line 28, delete "(B)" and substitute "(C)"
+AND
+Page 2, delete lines 31 and 32, and substitute the following:
+"application of the operator, including a processor;"
+AND
+Page 3, line 18, delete "(9)(A)(i)" and substitute "(9)(A)"
+AND
+Page 3, line 21, delete "(ii)(a)" and substitute "(i)"
+AND
+Page 3, line 24, delete "(b)" and substitute "(ii)"
+AND
+Page 5, line 11, delete "Only uses" and substitute "Uses"
+*.LJH303*
+LJH303 - 04-03-2025 01:43:01 Page 1 of 5
+
+AND
+Page 5, line 12, delete "solely"
+AND
+Page 5, delete line 16, and substitute the following:
+"complete the stated purpose and improve or enhance the users' experience of
+the service and then deletes the audio file when it is no longer reasonably
+needed and"
+AND
+Page 6, line 7, delete "; or" and substitute ";"
+AND
+Page 6, line 8, delete "(iv)" and substitute "(iii)"
+AND
+Page 6, line 10, delete ";" and substitute "; or"
+AND
+Page 6, line 11, delete "(iii)" and substitute "(iv)"
+AND
+Page 6, line 29, delete "(15)" and substitute "(16)"
+AND
+Page 7, line 21, delete "teen; or" and substitute "teen or parent of the
+child or teen; or"
+LJH303 - 04-03-2025 01:43:01 Amendment No. 3 to House Bill 1717 Page 2 of 5
+
+AND
+Page 8, line 28, delete "or"
+AND
+Page 8, line 29, delete ";" and substitute "; or"
+AND
+Page 8, line 30, delete "(i)" and substitute "(H)"
+AND
+Page 8, delete lines 32 through 36, and substitute the following:
+"(3) Provide:"
+AND
+Page 9, delete lines 1 through 3, and substitute the following:
+"(A) The opportunity to:"
+AND
+Page 9, line 14, delete "(C)" and substitute "(B)"
+AND
+Page 9, delete lines 18 through 20, and substitute the following:
+"(4) Provide:"
+AND
+Page 9, delete lines 21 through 24
+LJH303 - 04-03-2025 01:43:01 Amendment No. 3 to House Bill 1717 Page 3 of 5
+
+AND
+Page 9, line 25, delete "(B)" and substitute "(A)"
+AND
+Page 9, line 29, delete "(C)" and substitute "(B)"
+AND
+Page 9, line 33, delete "(D)" and substitute "(C)"
+AND
+Page 11, line 32, delete "; and" and substitute ";"
+AND
+Page 11, line 36, delete ";" and substitute "; or"
+AND
+Page 12, line 5, delete "; or" and substitute "; and"
+AND
+Page 12, delete lines 6 through 10, and substitute the following:
+"(C) Prohibit an operator from:
+(i) Retaining a record of the deletion request and
+the minimum information necessary for the purposes of ensuring compliance
+with a request made under subsection (b) of this section;
+(ii) Preventing, detecting, protecting against, or
+responding to a security incident, identity theft, fraud, or the reporting of
+a person responsible for a security incident, identity theft, or fraud;
+(iii) Protecting the integrity or security of a
+website, online service, online application, or mobile application; or
+LJH303 - 04-03-2025 01:43:01 Amendment No. 3 to House Bill 1717 Page 4 of 5
+
+(iv) Ensuring that the child or teen's personal
+information remains deleted."
+AND
+Page 12, line 17, delete "In" and substitute "(a) In"
+AND
+Page 12, delete line 27, and substitute the following:
+"(4) Obtain other relief that the court finds appropriate.
+(b)(1) The Attorney General shall have exclusive authority to enforce
+this subchapter.
+(2) Nothing in this subchapter provides the basis for, or
+subjects an operator, processor, or person to a private right of action for a
+violation of this subchapter or any other law."
+The Amendment was read the first time, rules suspended and read the second time and _______________________
+By: Senator J. Boyd
+LJH/LJH - 04-03-2025 01:43:01 _________________________
+LJH303 Secretary
+LJH303 - 04-03-2025 01:43:01 Amendment No. 3 to House Bill 1717 Page 5 of 5
+
+[DELETED:  PA  ]
+[DELETED:  P ]
+[DELETED:  P "  " "]
+[DELETED:  P  "   (   (   (]
+[DELETED:  P   ( "( ( _ S]

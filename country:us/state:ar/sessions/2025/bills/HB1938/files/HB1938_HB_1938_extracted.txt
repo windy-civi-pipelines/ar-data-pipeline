@@ -1,0 +1,733 @@
+Title: Stricken language would be deleted from and underlined language would be added to present law.
+Official Title: Stricken language would be deleted from and underlined language would be added to present law.
+Number of Sections: 1
+Source: versions - HB 1938
+Media Type: application/pdf
+Strikethrough Detection: 9 sections found
+
+================================================================================
+
+Section 1:
+1 State of Arkansas
+A Bill
+2 95th General Assembly
+3 Regular Session, 2025 HOUSE BILL 1938
+4
+5 By: Representative Joey Carr
+6 By: Senator J. English
+7
+For An Act To Be Entitled
+8
+9 AN ACT TO AMEND PROVISIONS OF THE ARKANSAS CODE
+10 CONCERNING THE CREATION OF DISTRICT STRATEGIC PLANS
+11 AND THE RESPONSIBILITY OF THE DIVISION OF ELEMENTARY
+12 AND SECONDARY EDUCATION; AND FOR OTHER PURPOSES.
+13
+14
+Subtitle
+15
+16 TO AMEND PROVISIONS OF THE ARKANSAS CODE
+17 CONCERNING THE CREATION OF DISTRICT
+18 STRATEGIC PLANS AND THE RESPONSIBILITY
+19 OF THE DIVISION OF ELEMENTARY AND
+20 SECONDARY EDUCATION.
+21
+22 BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF ARKANSAS:
+23
+24 SECTION 1. Arkansas Code § 6-15-1702(a), concerning the requirement
+25 that each public school and public school district establish a parental
+26 involvement plan, is amended to read as follows:
+27 (a) Each public school district and each public school within its
+28 boundaries, in collaboration with parents, shall establish a parental
+29 involvement plan within its school-level improvement plan required under § 6-
+30 15-2914, including programs and practices that enhance parent and family
+31 engagement and reflect the specific needs of students and their families.
+32
+33 SECTION 2. Arkansas Code § 6-15-2904 is amended to read as follows:
+34 6-15-2904. Responsibility of Division of Elementary and Secondary
+35 Education.
+36 The Division of Elementary and Secondary Education shall develop and
+*TNL326*
+03/21/2025 2:04:13 PM TNL326
+HB1938
+1 implement a comprehensive accountability system for Arkansas public schools
+2 and school districts that:
+3 (1) Establishes clear academic standards that are periodically
+4 reviewed and revised;
+5 (2) Maintains a statewide student assessment system that
+6 includes a variety of assessment measures;
+7 (3) Assesses whether all students have equitable access to
+8 excellent educators;
+9 (4) Establishes levels of support for public school districts;
+10 and
+11 (5) Maintains information systems composed of performance
+12 indicators that allow the division to identify levels of public school
+13 district support and generate reports for the public.
+14
+15 SECTION 3. Arkansas Code § 6-15-2914 is amended to read as follows:
+16 6-15-2914. School-level improvement plans — School district support
+17 plans.
+18 (a) The General Assembly finds that it is the responsibility of:
+19 (1) The state and educational service cooperatives to support
+20 its their public school districts; and
+21 (2) A public school district to support its schools.
+22 (b)(1)(A) Beginning on May 1, 2018, and by By May 1 annually
+23 thereafter of each school year, a public school shall submit to its public
+24 school district a school-level improvement plan for approval by the public
+25 school district and public school district board of directors for
+26 implementation in the following school year.
+27 (B)(i) A public school district and an open-enrollment
+28 public charter school shall include a literacy plan in the annual school-
+29 level improvement plan required under subdivision (b)(1)(A) of this section.
+30 (ii) The literacy plan required under subdivision
+31 (b)(1)(B)(i) of this section shall include without limitation a curriculum
+32 program and a professional development program that are:
+33 (a) Aligned with the literacy needs of the
+34 public school district; and
+35 (b) Based on the science of reading as defined
+36 by § 6-17-429(k)(1) § 6-17-429.
+2 03/21/2025 2:04:13 PM TNL326
+HB1938
+1 (C) A public school and an open-enrollment public charter
+2 school shall include a parental involvement plan, as required under § 6-15-
+3 1702, in its annual school-level improvement plan required under subdivision
+4 (b)(1)(A) of this section.
+5 (2) School-level improvement plans shall be posted on the public
+6 school district's school's or open-enrollment public charter school's website
+7 by August 1 of each year.
+8 (c) School-level improvement plans shall be:
+9 (1) Monitored by the public school district or open-enrollment
+10 public charter school for implementation fidelity and progress throughout the
+11 year; and
+12 (2) Evaluated annually by the public school district or open-
+13 enrollment public charter school for goal progress and accomplishment.
+14 (d)(1) Annually by September 1, a public school district receiving
+15 Level 2 — Collaborative, Level 3 — Coordinated, Level 4 — Directed, or Level
+16 5 — Intensive support shall submit to the Division of Elementary and
+17 Secondary Education a public school district support plan in accordance with
+18 rules of the State Board of Education.
+19 (2) A public school district's support plan shall be posted on
+20 the public school district's website no later than ten (10) days after
+21 submission to the division.
+22 (3)(A) A public school district in which forty percent (40%) or
+23 more of the public school district's students scored “in need of support” on
+24 the state's prior year summative assessment for reading shall develop a
+25 literacy plan as part of the public school district support plan required
+26 under this section.
+27 (B) The public school district literacy plan shall
+28 include:
+29 (i) Goals for improving reading achievement
+30 throughout the public school district; and
+31 (ii) Information regarding the prioritization of
+32 funding, including without limitation Enhanced Student Achievement Funding
+33 received under § 6-20-2305, for strategies to improve reading achievement
+34 throughout the public school district.
+35 (e) Public school district support plans shall include without
+36 limitation the support the public school district will provide to public
+3 03/21/2025 2:04:13 PM TNL326
+HB1938
+1 schools identified as in need of targeted or comprehensive support, or both,
+2 pursuant to the Elementary and Secondary Education Act of 1965, Pub. L. No.
+3 89-10, as reauthorized by the Every Student Succeeds Act of 2015, Pub. L. No.
+4 114-95.
+5
+6 SECTION 4. Arkansas Code Title 6, Chapter 15, Subchapter 29, is
+7 amended to add an additional section to read as follows:
+8 6-15-2919. District strategic plans — Unified application system.
+9 (a) Annually by June 30, each public school district and open-
+10 enrollment public charter school shall submit a district strategic plan to
+11 the Division of Elementary and Secondary Education for review for the
+12 upcoming school year.
+13 (b) A district strategic plan required by subsection (a) of this
+14 section shall include without limitation:
+15 (1) A literacy and mathematics plan that addresses student
+16 supports and acceleration opportunities based on student data and outcomes;
+17 (2) Information regarding the prioritization and intended use of
+18 funding, including without limitation Enhanced Student Achievement Funding
+19 received under § 6-20-2305; and
+20 (3) The support the public school district and open-enrollment
+21 public charter school will provide to public schools within the public school
+22 district or the open-enrollment public charter school identified as in need
+23 of targeted or comprehensive support, or both, pursuant to the Elementary and
+24 Secondary Education Act of 1965, Pub. L. No. 89-10, as reauthorized by the
+25 Every Student Succeeds Act of 2015, Pub. L. No. 114-95, as it existed on
+26 January 1, 2025.
+27 (c)(1) An educational service cooperative shall annually review and
+28 monitor the implementation of a district strategic plan for each public
+29 school district and open-enrollment public charter school that is a member of
+30 the educational service cooperative.
+31 (2) The division shall collaborate with each educational service
+32 cooperative to annually review each district strategic plan and approve the
+33 proposed use of funding.
+34 (d) Each public school district and open-enrollment public charter
+35 school shall post its approved district strategic plan on its website by
+36 October 1 of each year.
+4 03/21/2025 2:04:13 PM TNL326
+HB1938
+1 (e)(1) To promote efficiency, eliminate duplication, and assist public
+2 school districts and open-enrollment public charter schools in implementing
+3 district strategic plans, the division shall create a unified application
+4 system that includes required state plans and federal funding applications.
+5 (2) The unified application system required under subdivision
+6 (e)(1) of this section shall include without limitation the following program
+7 components and applications:
+8 (A) Federal title funds;
+9 (B) The parent and family engagement plan required under §
+10 6-15-1702;
+11 (C) The health and wellness plan required under § 20-7-
+12 135;
+13 (D) Enhanced Student Achievement Funding requirements
+14 under § 6-20-2305;
+15 (E) Alternative learning environment funding requirements
+16 under § 6-48-102; and
+17 (F) Gifted and talented programs under § 6-42-109.
+18
+19 SECTION 5. Arkansas Code § 6-20-2305(b)(4)(C) and (D) are amended to
+20 read as follows:
+21 (C)(i)(a) A school district shall expend funds allocated
+22 under this subdivision (b)(4) in accordance with the rules developed by the
+23 Division of Elementary and Secondary Education to provide the following
+24 supports and resources:
+25 (1) If the school district meets the
+26 teacher compensation requirements according to the minimum salary schedule
+27 under § 6-17-2403 for teachers serving in positions required by the Standards
+28 for Accreditation of Arkansas Public Schools and School Districts without
+29 using funds provided under this subdivision (b)(4):
+30 (A) The hiring of additional
+31 teachers for core academic subject areas, as identified in the Division of
+32 Elementary and Secondary Education Rules Governing the Arkansas Qualified
+33 Teacher Requirements, that are not required by the Standards for
+34 Accreditation of Arkansas Public Schools and School Districts;
+35 (B) The enhancement of teacher
+36 salaries for recruitment and retention purposes;
+5 03/21/2025 2:04:13 PM TNL326
+HB1938
+1 (C) Obtaining additional
+2 compensation for teachers who assume identified leadership roles; or
+3 (D) Additional compensation for
+4 teachers who assume additional responsibilities that support student academic
+5 achievement;
+6 (2) Academic supports and interventions,
+7 including without limitation curriculum specialists, facilitators, tutors,
+8 dyslexia interventions, and Response to Intervention;
+9 (3) Social, emotional, and behavioral
+10 supports;
+11 (4) Physical and mental health
+12 resources, including without limitation personnel;
+13 (5) Early intervention resources,
+14 including without limitation prekindergarten programs, school tutoring
+15 programs that take place before or after school, and early literacy
+16 interventions; and
+17 (6) Access to postsecondary
+18 opportunities, including without limitation access to career coaches,
+19 concurrent credit courses, college-entrance support, and career-readiness
+20 support.
+21 (b)(1) By July 1, 2022, each public school
+22 district shall submit a three-year enhanced student achievement plan to the
+23 Division of Elementary and Secondary Education describing the school
+24 district's intended and implemented strategies to enhance student achievement
+25 and how enhanced student achievement funds will be used to support the
+26 strategies of the school district as permitted by this subdivision (b)(4) and
+27 rules promulgated by the State Board of Education.
+28 (2) A school district shall review
+29 annually the school district's enhanced student achievement plan and shall
+30 review the progress of the school district's enhanced student achievement
+31 plan.
+32 (3) The enhanced student achievement
+33 plan of a school district shall be updated as necessary by the school
+34 district, and amendments to the enhanced student achievement plan shall be
+35 submitted annually to the Division of Elementary and Secondary Education with
+36 the annual budget of the school district.
+6 03/21/2025 2:04:13 PM TNL326
+HB1938
+1 (4) The Division of Elementary and
+2 Secondary Education shall monitor the implementation and progress of the
+3 enhanced student achievement plan of a school district.
+4 (5) A school district that does not
+5 demonstrate progress toward the goals of the enhanced student achievement
+6 plan of the school district for three (3) consecutive years may be subject to
+7 one (1) or more of the following:
+8 (A) Additional monitoring by the
+9 Division of Secondary and Elementary Education;
+10 (B) An increased level of support
+11 as provided in § 6-15-2913; or
+12 (C) A corrective action plan that
+13 shall be developed in collaboration with the Division of Elementary and
+14 Secondary Education.
+15 (c) The list of approved programs established
+16 before July 24, 2019, by the State Board of Education under subdivision
+17 (b)(4)(C)(i)(a) of this section shall expire on June 30, 2022.
+18 (d)(b) The State Board of Education shall
+19 promulgate rules for the implementation of this subdivision (b)(4)(C)(i) that
+20 shall include without limitation:
+21 (1) The process for submitting an
+22 enhanced student achievement plan;
+23 (2) The process for monitoring the
+24 expenditure of funds allocated under this subdivision (b)(4); and
+25 (3) The specific requirements,
+26 qualifications, and criteria for allowable supports and resources.
+27 (ii)(a) A school district shall budget one hundred
+28 percent (100%) of funds allocated under this subdivision (b)(4) each year to
+29 provide the supports and resources described in subdivision (b)(4)(C)(i)(a)
+30 of this section.
+31 (b) If a school district intends to transfer
+32 funds allocated under this subdivision (b)(4) to other programs, the school
+33 district shall provide justification for the transfer of funds to the
+34 Division of Elementary and Secondary Education.
+35 (iii) Notwithstanding any other provision of law, if
+36 the Division of Elementary and Secondary Education determines that a school
+7 03/21/2025 2:04:13 PM TNL326
+HB1938
+1 district's expenditure of funds allocated under this subdivision (b)(4) would
+2 result in the school district's losing funding under any federal law, then
+3 the funds allocated to a school district under this subdivision (b)(4) may be
+4 expended for other academic programs or salaries.
+5 (iv) The Division of Elementary and Secondary
+6 Education may direct that a school district expend available funds on
+7 specified programs under subdivision (b)(4)(C)(i) of this section.
+8 (v) The Division of Elementary and Secondary
+9 Education shall develop appropriate forms for use by school districts to
+10 comply with this subdivision (b)(4)(C) and the rules of the State Board of
+11 Education.
+12 (D)(i) The Division of Elementary and Secondary Education
+13 shall provide a report on the progress of school districts in meeting plan
+14 goals to the House Committee on Education and the Senate Committee on
+15 Education by October 1 of each odd-numbered year, beginning in 2023.
+16 (ii) The report shall include information broken
+17 down by category as described in subdivision (b)(4)(A) of this section on:
+18 (a) How school districts are spending funds
+19 provided under this subdivision (b)(4), including specific programs utilized
+20 by school districts;
+21 (b) The amount of funds transferred to another
+22 categorical fund, including an explanation of why the funds were transferred;
+23 and
+24 (c) The analysis of student achievement data
+25 evaluated in student achievement growth models as described in § 6-15-2908
+26 shall be expanded to include the evaluation of the best estimates of
+27 classroom, school, and school district effects on enhancing student
+28 achievement, in addition to the examination of student progress based on
+29 established value-added longitudinal calculations.
+30 (iii) The report shall be included in the General
+31 Assembly's biennial adequacy study to evaluate the adequacy of education in
+32 the state.
+33
+34 SECTION 6. Arkansas Code § 20-7-135(e), concerning nutrition and
+35 physical activity standards in public schools, is amended to read as follows:
+36 (e) Every school district shall:
+8 03/21/2025 2:04:13 PM TNL326
+HB1938
+1 (1) Convene a school nutrition and physical activity advisory
+2 committee that shall include members from school district governing boards,
+3 school administrators, food service personnel, teacher organizations,
+4 parents, students, and professional groups such as nurses and community
+5 members to include health and wellness goals as part of the school district's
+6 district strategic plan required under § 6-15-2919, that address:
+7 (A)(1) Help raise Raising awareness of the importance of
+8 nutrition and physical activity; and
+9 (B)(2) Assist Assisting in the development of local policies
+10 that address issues and goals, including but not limited to without
+11 limitation the following:
+12 (i)(A) Assisting with the implementation of nutrition and
+13 physical activity standards developed by the school nutrition and physical
+14 activity advisory committee with the approval of the division and the State
+15 Board of Health;
+16 (ii)(B) Integrating nutrition and physical activity into
+17 the overall curriculum;
+18 (iii)(C) Ensuring that professional development for staff
+19 includes nutrition and physical activity issues;
+20 (iv)(D) Ensuring that students receive nutrition education
+21 and engage in healthful levels of vigorous physical activity; and
+22 (v)(E) Improving the quality of physical education
+23 curricula and increasing training of physical education teachers;
+24 (vi) Enforcing existing physical education
+25 requirements; and
+26 (vii) Pursuing contracts that both encourage healthy
+27 eating by students and reduce school dependence on profits from the sale of
+28 foods of minimal nutritional value;
+29 (2) Begin the implementation of standards developed by the Child
+30 Health Advisory Committee with the approval of the division and the State
+31 Board of Health; and
+32 (3) Require that goals and objectives for nutrition and physical
+33 activity be incorporated into the annual school planning and reporting
+34 process.
+35
+36
+9 03/21/2025 2:04:13 PM TNL326
+[DELETED:          A C A A   T C S O S  B   S t i  ( b i 1 e   S  6 E  T]
+[DELETED: H2 0 i a   ( r   ( i   ( e   ( a   ( i d   S  6 p  (   ( i   (  ( t s s i    ( p l     ( ( p      ( p      ( b]
+[DELETED: H3 0    ( s 1 (   ( s b  (   ( p y   ( e  ( L 5 S r   ( t s   ( m t l u    ( i     ( t     ( f r t  ( l]
+[DELETED: H4 0 s p 8 1   S a  6  ( e t u  ( s   ( s   ( f r   ( p d o S E J  ( m s t   ( c p  ( s O]
+[DELETED: H5 0  ( s d s   ( ( c    (    ( 6    ( 1    ( u    ( u    (   S r    ( u D s       ( t u f u        ( t E T A        ( s]
+[DELETED: H6 0        ( c        ( t a       ( i d       ( s       ( r       ( i p i       ( o c s      ( d D d a s r       ( a r p       ( p d s t]
+[DELETED: H7 0       ( S e       ( d p o        ( D        ( a        ( s S      ( b (      ( p s       ( e       ( e       ( q     ( p p o      ( f d D     ( t]
+[DELETED: H8 0 d r t e     ( E s     ( E c E    ( s g E     ( d      ( p b      ( c a      ( e s c a e     ( A t   S p  (]
+[DELETED: H9 0   ( c s p m d   ( n   ( t l    ( p a B    ( t    ( i    ( a    ( c     ( r     ( e f   ( H B   ( a p]
+
+
+================================================================================
+
+Raw Text:
+Stricken language would be deleted from and underlined language would be added to present law.
+1 State of Arkansas
+A Bill
+2 95th General Assembly
+3 Regular Session, 2025 HOUSE BILL 1938
+4
+5 By: Representative Joey Carr
+6 By: Senator J. English
+7
+For An Act To Be Entitled
+8
+9 AN ACT TO AMEND PROVISIONS OF THE ARKANSAS CODE
+10 CONCERNING THE CREATION OF DISTRICT STRATEGIC PLANS
+11 AND THE RESPONSIBILITY OF THE DIVISION OF ELEMENTARY
+12 AND SECONDARY EDUCATION; AND FOR OTHER PURPOSES.
+13
+14
+Subtitle
+15
+16 TO AMEND PROVISIONS OF THE ARKANSAS CODE
+17 CONCERNING THE CREATION OF DISTRICT
+18 STRATEGIC PLANS AND THE RESPONSIBILITY
+19 OF THE DIVISION OF ELEMENTARY AND
+20 SECONDARY EDUCATION.
+21
+22 BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF ARKANSAS:
+23
+24 SECTION 1. Arkansas Code § 6-15-1702(a), concerning the requirement
+25 that each public school and public school district establish a parental
+26 involvement plan, is amended to read as follows:
+27 (a) Each public school district and each public school within its
+28 boundaries, in collaboration with parents, shall establish a parental
+29 involvement plan within its school-level improvement plan required under § 6-
+30 15-2914, including programs and practices that enhance parent and family
+31 engagement and reflect the specific needs of students and their families.
+32
+33 SECTION 2. Arkansas Code § 6-15-2904 is amended to read as follows:
+34 6-15-2904. Responsibility of Division of Elementary and Secondary
+35 Education.
+36 The Division of Elementary and Secondary Education shall develop and
+*TNL326*
+03/21/2025 2:04:13 PM TNL326
+
+HB1938
+1 implement a comprehensive accountability system for Arkansas public schools
+2 and school districts that:
+3 (1) Establishes clear academic standards that are periodically
+4 reviewed and revised;
+5 (2) Maintains a statewide student assessment system that
+6 includes a variety of assessment measures;
+7 (3) Assesses whether all students have equitable access to
+8 excellent educators;
+9 (4) Establishes levels of support for public school districts;
+10 and
+11 (5) Maintains information systems composed of performance
+12 indicators that allow the division to identify levels of public school
+13 district support and generate reports for the public.
+14
+15 SECTION 3. Arkansas Code § 6-15-2914 is amended to read as follows:
+16 6-15-2914. School-level improvement plans — School district support
+17 plans.
+18 (a) The General Assembly finds that it is the responsibility of:
+19 (1) The state and educational service cooperatives to support
+20 its their public school districts; and
+21 (2) A public school district to support its schools.
+22 (b)(1)(A) Beginning on May 1, 2018, and by By May 1 annually
+23 thereafter of each school year, a public school shall submit to its public
+24 school district a school-level improvement plan for approval by the public
+25 school district and public school district board of directors for
+26 implementation in the following school year.
+27 (B)(i) A public school district and an open-enrollment
+28 public charter school shall include a literacy plan in the annual school-
+29 level improvement plan required under subdivision (b)(1)(A) of this section.
+30 (ii) The literacy plan required under subdivision
+31 (b)(1)(B)(i) of this section shall include without limitation a curriculum
+32 program and a professional development program that are:
+33 (a) Aligned with the literacy needs of the
+34 public school district; and
+35 (b) Based on the science of reading as defined
+36 by § 6-17-429(k)(1) § 6-17-429.
+2 03/21/2025 2:04:13 PM TNL326
+
+HB1938
+1 (C) A public school and an open-enrollment public charter
+2 school shall include a parental involvement plan, as required under § 6-15-
+3 1702, in its annual school-level improvement plan required under subdivision
+4 (b)(1)(A) of this section.
+5 (2) School-level improvement plans shall be posted on the public
+6 school district's school's or open-enrollment public charter school's website
+7 by August 1 of each year.
+8 (c) School-level improvement plans shall be:
+9 (1) Monitored by the public school district or open-enrollment
+10 public charter school for implementation fidelity and progress throughout the
+11 year; and
+12 (2) Evaluated annually by the public school district or open-
+13 enrollment public charter school for goal progress and accomplishment.
+14 (d)(1) Annually by September 1, a public school district receiving
+15 Level 2 — Collaborative, Level 3 — Coordinated, Level 4 — Directed, or Level
+16 5 — Intensive support shall submit to the Division of Elementary and
+17 Secondary Education a public school district support plan in accordance with
+18 rules of the State Board of Education.
+19 (2) A public school district's support plan shall be posted on
+20 the public school district's website no later than ten (10) days after
+21 submission to the division.
+22 (3)(A) A public school district in which forty percent (40%) or
+23 more of the public school district's students scored “in need of support” on
+24 the state's prior year summative assessment for reading shall develop a
+25 literacy plan as part of the public school district support plan required
+26 under this section.
+27 (B) The public school district literacy plan shall
+28 include:
+29 (i) Goals for improving reading achievement
+30 throughout the public school district; and
+31 (ii) Information regarding the prioritization of
+32 funding, including without limitation Enhanced Student Achievement Funding
+33 received under § 6-20-2305, for strategies to improve reading achievement
+34 throughout the public school district.
+35 (e) Public school district support plans shall include without
+36 limitation the support the public school district will provide to public
+3 03/21/2025 2:04:13 PM TNL326
+
+HB1938
+1 schools identified as in need of targeted or comprehensive support, or both,
+2 pursuant to the Elementary and Secondary Education Act of 1965, Pub. L. No.
+3 89-10, as reauthorized by the Every Student Succeeds Act of 2015, Pub. L. No.
+4 114-95.
+5
+6 SECTION 4. Arkansas Code Title 6, Chapter 15, Subchapter 29, is
+7 amended to add an additional section to read as follows:
+8 6-15-2919. District strategic plans — Unified application system.
+9 (a) Annually by June 30, each public school district and open-
+10 enrollment public charter school shall submit a district strategic plan to
+11 the Division of Elementary and Secondary Education for review for the
+12 upcoming school year.
+13 (b) A district strategic plan required by subsection (a) of this
+14 section shall include without limitation:
+15 (1) A literacy and mathematics plan that addresses student
+16 supports and acceleration opportunities based on student data and outcomes;
+17 (2) Information regarding the prioritization and intended use of
+18 funding, including without limitation Enhanced Student Achievement Funding
+19 received under § 6-20-2305; and
+20 (3) The support the public school district and open-enrollment
+21 public charter school will provide to public schools within the public school
+22 district or the open-enrollment public charter school identified as in need
+23 of targeted or comprehensive support, or both, pursuant to the Elementary and
+24 Secondary Education Act of 1965, Pub. L. No. 89-10, as reauthorized by the
+25 Every Student Succeeds Act of 2015, Pub. L. No. 114-95, as it existed on
+26 January 1, 2025.
+27 (c)(1) An educational service cooperative shall annually review and
+28 monitor the implementation of a district strategic plan for each public
+29 school district and open-enrollment public charter school that is a member of
+30 the educational service cooperative.
+31 (2) The division shall collaborate with each educational service
+32 cooperative to annually review each district strategic plan and approve the
+33 proposed use of funding.
+34 (d) Each public school district and open-enrollment public charter
+35 school shall post its approved district strategic plan on its website by
+36 October 1 of each year.
+4 03/21/2025 2:04:13 PM TNL326
+
+HB1938
+1 (e)(1) To promote efficiency, eliminate duplication, and assist public
+2 school districts and open-enrollment public charter schools in implementing
+3 district strategic plans, the division shall create a unified application
+4 system that includes required state plans and federal funding applications.
+5 (2) The unified application system required under subdivision
+6 (e)(1) of this section shall include without limitation the following program
+7 components and applications:
+8 (A) Federal title funds;
+9 (B) The parent and family engagement plan required under §
+10 6-15-1702;
+11 (C) The health and wellness plan required under § 20-7-
+12 135;
+13 (D) Enhanced Student Achievement Funding requirements
+14 under § 6-20-2305;
+15 (E) Alternative learning environment funding requirements
+16 under § 6-48-102; and
+17 (F) Gifted and talented programs under § 6-42-109.
+18
+19 SECTION 5. Arkansas Code § 6-20-2305(b)(4)(C) and (D) are amended to
+20 read as follows:
+21 (C)(i)(a) A school district shall expend funds allocated
+22 under this subdivision (b)(4) in accordance with the rules developed by the
+23 Division of Elementary and Secondary Education to provide the following
+24 supports and resources:
+25 (1) If the school district meets the
+26 teacher compensation requirements according to the minimum salary schedule
+27 under § 6-17-2403 for teachers serving in positions required by the Standards
+28 for Accreditation of Arkansas Public Schools and School Districts without
+29 using funds provided under this subdivision (b)(4):
+30 (A) The hiring of additional
+31 teachers for core academic subject areas, as identified in the Division of
+32 Elementary and Secondary Education Rules Governing the Arkansas Qualified
+33 Teacher Requirements, that are not required by the Standards for
+34 Accreditation of Arkansas Public Schools and School Districts;
+35 (B) The enhancement of teacher
+36 salaries for recruitment and retention purposes;
+5 03/21/2025 2:04:13 PM TNL326
+
+HB1938
+1 (C) Obtaining additional
+2 compensation for teachers who assume identified leadership roles; or
+3 (D) Additional compensation for
+4 teachers who assume additional responsibilities that support student academic
+5 achievement;
+6 (2) Academic supports and interventions,
+7 including without limitation curriculum specialists, facilitators, tutors,
+8 dyslexia interventions, and Response to Intervention;
+9 (3) Social, emotional, and behavioral
+10 supports;
+11 (4) Physical and mental health
+12 resources, including without limitation personnel;
+13 (5) Early intervention resources,
+14 including without limitation prekindergarten programs, school tutoring
+15 programs that take place before or after school, and early literacy
+16 interventions; and
+17 (6) Access to postsecondary
+18 opportunities, including without limitation access to career coaches,
+19 concurrent credit courses, college-entrance support, and career-readiness
+20 support.
+21 (b)(1) By July 1, 2022, each public school
+22 district shall submit a three-year enhanced student achievement plan to the
+23 Division of Elementary and Secondary Education describing the school
+24 district's intended and implemented strategies to enhance student achievement
+25 and how enhanced student achievement funds will be used to support the
+26 strategies of the school district as permitted by this subdivision (b)(4) and
+27 rules promulgated by the State Board of Education.
+28 (2) A school district shall review
+29 annually the school district's enhanced student achievement plan and shall
+30 review the progress of the school district's enhanced student achievement
+31 plan.
+32 (3) The enhanced student achievement
+33 plan of a school district shall be updated as necessary by the school
+34 district, and amendments to the enhanced student achievement plan shall be
+35 submitted annually to the Division of Elementary and Secondary Education with
+36 the annual budget of the school district.
+6 03/21/2025 2:04:13 PM TNL326
+
+HB1938
+1 (4) The Division of Elementary and
+2 Secondary Education shall monitor the implementation and progress of the
+3 enhanced student achievement plan of a school district.
+4 (5) A school district that does not
+5 demonstrate progress toward the goals of the enhanced student achievement
+6 plan of the school district for three (3) consecutive years may be subject to
+7 one (1) or more of the following:
+8 (A) Additional monitoring by the
+9 Division of Secondary and Elementary Education;
+10 (B) An increased level of support
+11 as provided in § 6-15-2913; or
+12 (C) A corrective action plan that
+13 shall be developed in collaboration with the Division of Elementary and
+14 Secondary Education.
+15 (c) The list of approved programs established
+16 before July 24, 2019, by the State Board of Education under subdivision
+17 (b)(4)(C)(i)(a) of this section shall expire on June 30, 2022.
+18 (d)(b) The State Board of Education shall
+19 promulgate rules for the implementation of this subdivision (b)(4)(C)(i) that
+20 shall include without limitation:
+21 (1) The process for submitting an
+22 enhanced student achievement plan;
+23 (2) The process for monitoring the
+24 expenditure of funds allocated under this subdivision (b)(4); and
+25 (3) The specific requirements,
+26 qualifications, and criteria for allowable supports and resources.
+27 (ii)(a) A school district shall budget one hundred
+28 percent (100%) of funds allocated under this subdivision (b)(4) each year to
+29 provide the supports and resources described in subdivision (b)(4)(C)(i)(a)
+30 of this section.
+31 (b) If a school district intends to transfer
+32 funds allocated under this subdivision (b)(4) to other programs, the school
+33 district shall provide justification for the transfer of funds to the
+34 Division of Elementary and Secondary Education.
+35 (iii) Notwithstanding any other provision of law, if
+36 the Division of Elementary and Secondary Education determines that a school
+7 03/21/2025 2:04:13 PM TNL326
+
+HB1938
+1 district's expenditure of funds allocated under this subdivision (b)(4) would
+2 result in the school district's losing funding under any federal law, then
+3 the funds allocated to a school district under this subdivision (b)(4) may be
+4 expended for other academic programs or salaries.
+5 (iv) The Division of Elementary and Secondary
+6 Education may direct that a school district expend available funds on
+7 specified programs under subdivision (b)(4)(C)(i) of this section.
+8 (v) The Division of Elementary and Secondary
+9 Education shall develop appropriate forms for use by school districts to
+10 comply with this subdivision (b)(4)(C) and the rules of the State Board of
+11 Education.
+12 (D)(i) The Division of Elementary and Secondary Education
+13 shall provide a report on the progress of school districts in meeting plan
+14 goals to the House Committee on Education and the Senate Committee on
+15 Education by October 1 of each odd-numbered year, beginning in 2023.
+16 (ii) The report shall include information broken
+17 down by category as described in subdivision (b)(4)(A) of this section on:
+18 (a) How school districts are spending funds
+19 provided under this subdivision (b)(4), including specific programs utilized
+20 by school districts;
+21 (b) The amount of funds transferred to another
+22 categorical fund, including an explanation of why the funds were transferred;
+23 and
+24 (c) The analysis of student achievement data
+25 evaluated in student achievement growth models as described in § 6-15-2908
+26 shall be expanded to include the evaluation of the best estimates of
+27 classroom, school, and school district effects on enhancing student
+28 achievement, in addition to the examination of student progress based on
+29 established value-added longitudinal calculations.
+30 (iii) The report shall be included in the General
+31 Assembly's biennial adequacy study to evaluate the adequacy of education in
+32 the state.
+33
+34 SECTION 6. Arkansas Code § 20-7-135(e), concerning nutrition and
+35 physical activity standards in public schools, is amended to read as follows:
+36 (e) Every school district shall:
+8 03/21/2025 2:04:13 PM TNL326
+
+HB1938
+1 (1) Convene a school nutrition and physical activity advisory
+2 committee that shall include members from school district governing boards,
+3 school administrators, food service personnel, teacher organizations,
+4 parents, students, and professional groups such as nurses and community
+5 members to include health and wellness goals as part of the school district's
+6 district strategic plan required under § 6-15-2919, that address:
+7 (A)(1) Help raise Raising awareness of the importance of
+8 nutrition and physical activity; and
+9 (B)(2) Assist Assisting in the development of local policies
+10 that address issues and goals, including but not limited to without
+11 limitation the following:
+12 (i)(A) Assisting with the implementation of nutrition and
+13 physical activity standards developed by the school nutrition and physical
+14 activity advisory committee with the approval of the division and the State
+15 Board of Health;
+16 (ii)(B) Integrating nutrition and physical activity into
+17 the overall curriculum;
+18 (iii)(C) Ensuring that professional development for staff
+19 includes nutrition and physical activity issues;
+20 (iv)(D) Ensuring that students receive nutrition education
+21 and engage in healthful levels of vigorous physical activity; and
+22 (v)(E) Improving the quality of physical education
+23 curricula and increasing training of physical education teachers;
+24 (vi) Enforcing existing physical education
+25 requirements; and
+26 (vii) Pursuing contracts that both encourage healthy
+27 eating by students and reduce school dependence on profits from the sale of
+28 foods of minimal nutritional value;
+29 (2) Begin the implementation of standards developed by the Child
+30 Health Advisory Committee with the approval of the division and the State
+31 Board of Health; and
+32 (3) Require that goals and objectives for nutrition and physical
+33 activity be incorporated into the annual school planning and reporting
+34 process.
+35
+36
+9 03/21/2025 2:04:13 PM TNL326
+
+[DELETED:          A C A A   T C S O S  B   S t i  ( b i 1 e   S  6 E  T]
+[DELETED: H2 0 i a   ( r   ( i   ( e   ( a   ( i d   S  6 p  (   ( i   (  ( t s s i    ( p l     ( ( p      ( p      ( b]
+[DELETED: H3 0    ( s 1 (   ( s b  (   ( p y   ( e  ( L 5 S r   ( t s   ( m t l u    ( i     ( t     ( f r t  ( l]
+[DELETED: H4 0 s p 8 1   S a  6  ( e t u  ( s   ( s   ( f r   ( p d o S E J  ( m s t   ( c p  ( s O]
+[DELETED: H5 0  ( s d s   ( ( c    (    ( 6    ( 1    ( u    ( u    (   S r    ( u D s       ( t u f u        ( t E T A        ( s]
+[DELETED: H6 0        ( c        ( t a       ( i d       ( s       ( r       ( i p i       ( o c s      ( d D d a s r       ( a r p       ( p d s t]
+[DELETED: H7 0       ( S e       ( d p o        ( D        ( a        ( s S      ( b (      ( p s       ( e       ( e       ( q     ( p p o      ( f d D     ( t]
+[DELETED: H8 0 d r t e     ( E s     ( E c E    ( s g E     ( d      ( p b      ( c a      ( e s c a e     ( A t   S p  (]
+[DELETED: H9 0   ( c s p m d   ( n   ( t l    ( p a B    ( t    ( i    ( a    ( c     ( r     ( e f   ( H B   ( a p]

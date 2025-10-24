@@ -1,0 +1,891 @@
+Title: Stricken language would be deleted from and underlined language would be added to present law.
+Official Title: Stricken language would be deleted from and underlined language would be added to present law.
+Number of Sections: 1
+Source: versions - SB 227
+Media Type: application/pdf
+Strikethrough Detection: 11 sections found
+
+================================================================================
+
+Section 1:
+1 State of ArkansasAs Engrossed: S2/20/25 S2/26/25 S3/3/25 S3/10/25 S3/12/25
+2 H3/18/25
+A Bill
+3 95th General Assembly
+4 Regular Session, 2025 SENATE BILL 227
+5
+6 By: Senators C. Tucker, B. Davis, J. Boyd, C. Penzo, G. Stubblefield, J. Petty
+7 By: Representatives Eubanks, A. Collins, Gazaway, Gramlich, Hawk, L. Johnson, M. McElroy, J.
+8 Richardson, Womack, Wooldridge
+9
+For An Act To Be Entitled
+10
+11 AN ACT TO AMEND THE FREEDOM OF INFORMATION ACT OF
+12 1967; TO AMEND THE PROVISIONS OF THE FREEDOM OF
+13 INFORMATION ACT OF 1967 CONCERNING PUBLIC MEETINGS;
+14 AND FOR OTHER PURPOSES.
+15
+16
+Subtitle
+17
+18 TO AMEND THE FREEDOM OF INFORMATION ACT
+19 OF 1967; AND TO AMEND THE PROVISIONS OF
+20 THE FREEDOM OF INFORMATION ACT OF 1967
+21 CONCERNING PUBLIC MEETINGS.
+22
+23 BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF ARKANSAS:
+24
+25 SECTION 1. Arkansas Code § 25-19-103 is amended to read as follows:
+26 25-19-103. Definitions.
+27 As used in this chapter:
+28 (1) “Background and nondecisional information” means information
+29 that is not deliberation;
+30 (1)(A)(2)(A) “Custodian”, except as otherwise provided by law
+31 and with respect to any public record, means the person having administrative
+32 control of that record.
+33 (B) “Custodian” does not mean a person who holds public
+34 records solely for the purposes of storage, safekeeping, or data processing
+35 for others;
+36 (3) "Cybersecurity" means the measures taken to achieve
+*LGL072*
+03-18-2025 11:14:33 LGL072
+As Engrossed: S2/20/25 S2/26/25 S3/3/25 S3/10/25 S3/12/25 H3/18/25 SB227
+1 protection against the criminal or unauthorized use of electronic data;
+2 (4) “Deliberation” means an exchange of information or opinion
+3 between two (2) or more members of a governing body that:
+4 (A) Seeks, discloses, or inquires about a decision by a
+5 member of the governing body concerning any matter on which official action
+6 will foreseeably be taken by the governing body; or
+7 (B) Solicits, discloses, or inquires about the support or
+8 opposition of a member of the governing body concerning any matter on which
+9 official action will foreseeably be taken by the governing body;
+10 (2)(5) “Disaster recovery system” means an electronic data
+11 storage system implemented and maintained solely for the purpose of allowing
+12 a governmental unit or agency to recover operational systems and datasets
+13 following the occurrence of a catastrophe, including without limitation an
+14 act of war, an equipment failure, a cyberattack, or a natural disaster such
+15 as a tornado, earthquake, or fire;
+16 (3)(6) “Format” means the organization, arrangement, and form of
+17 electronic information for use, viewing, or storage;
+18 (7) “Governing body” means the governing body of a public
+19 entity;
+20 (8) “Informal meeting” means the gathering of two (2) or more
+21 members of a governing body outside of a public meeting;
+22 (4)(9) “Medium” means the physical form or material on which
+23 records and information may be stored or represented and may include, but is
+24 not limited to, paper, microfilm, microform, computer disks and diskettes,
+25 optical disks, and magnetic tapes;
+26 (5)(A)(10)(A) “Municipally owned utility system” means a utility
+27 system owned or operated by a municipality that provides:
+28 (i) Electricity;
+29 (ii) Water;
+30 (iii) Wastewater;
+31 (iv) Cable television; or
+32 (v) Broadband service.
+33 (B) “Municipally owned utility system” includes without
+34 limitation a:
+35 (i) Consolidated waterworks system under the
+36 Consolidated Waterworks Authorization Act, § 25-20-301 et seq.;
+2 03-18-2025 11:14:33 LGL072
+As Engrossed: S2/20/25 S2/26/25 S3/3/25 S3/10/25 S3/12/25 H3/18/25 SB227
+1 (ii) Utility system managed or operated by a
+2 nonprofit corporation under § 14-199-701 et seq.; and
+3 (iii) Utility system owned or operated by a
+4 municipality or by a consolidated utility district under the General
+5 Consolidated Public Utility System Improvement District Law, § 14-217-101 et
+6 seq.;
+7 (11) “Poll” means a series of communications:
+8 (A) Between:
+9 (i) One (1) or more persons paid by a public entity
+10 or agents or employees of that public entity; and
+11 (ii) One (1) or more members of the governing body
+12 of that public entity;
+13 (B) Concerning any matter on which official action will
+14 foreseeably be taken by the governing body;
+15 (C) To determine:
+16 (i) How the member of the governing body intends to
+17 vote; or
+18 (ii) Whether the member of the governing body
+19 supports or opposes certain proposed action by the governing body; and
+20 (D) For the purpose of exercising a responsibility,
+21 authority, power, or duty of the governing body;
+22 (6)(12) "Public meetings" "Public entity" means the meetings of
+23 any:
+24 (A) A bureau, commission, or agency of the state; or any
+25 (B) A political subdivision of the state, including
+26 municipalities, and counties, and boards of education,; and all
+27 (C) All other boards, bureaus, commissions, or
+28 organizations in the State of Arkansas, except grand juries, supported wholly
+29 or in part by public funds or expending public funds;
+30 (13)(A) “Public meeting” means the formal gathering together, in
+31 a special or regular gathering, of a governing body, whether in person or
+32 remotely.
+33 (B) "Public meeting" does not include:
+34 (i) The gathering together, whether in person or
+35 remotely, of the members of a governing body to discuss the settlement of a
+36 cause of action in a court-ordered alternative dispute resolution process,
+3 03-18-2025 11:14:33 LGL072
+As Engrossed: S2/20/25 S2/26/25 S3/3/25 S3/10/25 S3/12/25 H3/18/25 SB227
+1 including without limitation a settlement conference or mediation; and
+2 (ii) A meeting of the Child Maltreatment
+3 Investigations Oversight Committee under § 10-3-3201 et seq.;
+4 (7)(A)(14)(A) “Public records” means writings, recorded sounds,
+5 films, tapes, electronic or computer-based information, or data compilations
+6 in any medium required by law to be kept or otherwise kept and that
+7 constitute a record of the performance or lack of performance of official
+8 functions that are or should be carried out by a public official or employee,
+9 a governmental agency, or any other agency or improvement district that is
+10 wholly or partially supported by public funds or expending public funds. All
+11 records maintained in public offices or by public employees within the scope
+12 of their employment shall be presumed to be public records.
+13 (B) “Public records” does not mean software acquired by
+14 purchase, lease, or license;
+15 (8)(15) “Public water system” means all facilities composing a
+16 system for the collection, treatment, and delivery of drinking water to the
+17 general public, including without limitation reservoirs, pipelines,
+18 reclamation facilities, processing facilities, distribution facilities, and
+19 regional water distribution districts under The Regional Water Distribution
+20 District Act, § 14-116-101 et seq.; and
+21 (16) "Remotely" means through electronic means, including
+22 without limitation by telephone, video conference, or video broadcast; and
+23 (9)(17) “Vulnerability assessment” means an assessment of the
+24 vulnerability of a public water system to a terrorist attack or other
+25 intentional acts intended to substantially disrupt the ability of the public
+26 water system to provide a safe and reliable supply of drinking water as
+27 required by the Public Health Security and Bioterrorism Preparedness and
+28 Response Act of 2002, Pub. L. No. 107-188.
+29
+30 SECTION 2. Arkansas Code § 25-19-106 is amended to read as follows:
+31 25-19-106. Open public Public meetings — Requirements, exceptions, and
+32 penalties.
+33 (a) Except as otherwise specifically provided by law, all meetings,
+34 formal or informal, special or regular, of the governing bodies of all
+35 municipalities, counties, townships, and school districts and all boards,
+36 bureaus, commissions, or organizations of the State of Arkansas, except grand
+4 03-18-2025 11:14:33 LGL072
+As Engrossed: S2/20/25 S2/26/25 S3/3/25 S3/10/25 S3/12/25 H3/18/25 SB227
+1 juries, supported wholly or in part by public funds or expending public
+2 funds, shall be public meetings. To lawfully hold a public meeting, a
+3 governing body shall ensure that:
+4 (1) Prior notice of the public meeting has been provided as
+5 required under subsection (b) of this section;
+6 (2) Any executive session held within a public meeting is
+7 conducted as required under subsection (c) of this section;
+8 (3) The public meeting is recorded as provided under subsection
+9 (d) of this section;
+10 (4) The public is permitted reasonable access to the public
+11 meeting, and members of the governing body attend the public meeting in the
+12 appropriate manner, as provided under subsection (e) of this section; and
+13 (5) The public meeting is conducted in a manner that allows the
+14 public to attend and hear all of the governing body's meaningful discussion
+15 and deliberation, if any, on official business as provided under subsections
+16 (f) and (g) of this section.
+17 (b)(1)(A) The time and place of each regular public meeting shall be
+18 furnished to anyone who requests the information.
+19 (B) Unless another notification timeline for the public
+20 meeting of a governing body is specified by law, the notification required
+21 under subdivision (b)(1)(A) of this section shall be made at least three (3)
+22 days before the public meeting takes place in order that the public may have
+23 representatives at the public meeting.
+24 (2)(A) In the event of an emergency or special meetings public
+25 meeting, the person calling the public meeting shall notify the
+26 representatives of the newspapers, radio stations, and television stations,
+27 if any, located in the county in which the public meeting is to be held and
+28 any news media located elsewhere that cover regular public meetings of the
+29 governing body and that have requested to be so notified of emergency or
+30 special public meetings of the time, place, and date of the public meeting.
+31 (B) Notification The notification required under
+32 subdivision (b)(2)(A) of this section shall be made at least two (2) hours
+33 before the public meeting takes place in order that the public shall may have
+34 representatives at the public meeting.
+35 (3) In addition to the requirements under subdivisions (b)(1)
+36 and (2) of this section:
+5 03-18-2025 11:14:33 LGL072
+As Engrossed: S2/20/25 S2/26/25 S3/3/25 S3/10/25 S3/12/25 H3/18/25 SB227
+1 (A) The time, place, and date of a public meeting shall be
+2 published online if the governing body or the public entity it governs
+3 maintains a website or social media page; and
+4 (B)(i) The governing body shall furnish the most current
+5 agenda for a public meeting upon request and shall publish the most current
+6 agenda for a public meeting online if the governing body or the public entity
+7 it governs maintains a website or social media page at least three (3) days
+8 before a regular public meeting and at least two (2) hours before an
+9 emergency or special public meeting.
+10 (ii) The requirement of subdivision (b)(3)(B)(i) of
+11 this section does not preclude a governing body from adding items to an
+12 agenda after the agenda has been furnished or posted under subdivision
+13 (b)(3)(B)(i) of this section.
+14 (c)(1)(A) Except as provided under subdivision (c)(6) of this section,
+15 an An executive session will shall be permitted only for the purpose of:
+16 (A)(i) considering Considering the employment,
+17 appointment, promotion, demotion, disciplining, or resignation of any public
+18 officer or employee.
+19 (B)(ii) The specific purpose of the executive
+20 session shall be announced in public before Before going into an executive
+21 session called under subdivision (c)(1)(A)(i) of this section, a governing
+22 body shall state publicly which specific purpose listed in subdivision
+23 (c)(1)(A)(i) of this section is the basis for the executive session.
+24 (2)(A)(iii) Only the person holding the top
+25 administrative position in the public agency, department, or office involved,
+26 the immediate supervisor of the employee involved, and the employee may be
+27 present at the executive session when so requested by the governing body,
+28 board, commission, or other public body holding the executive session.
+29 (B)(iv) Any person being interviewed for the top
+30 administrative position in the public agency, department, or office involved
+31 may be present at the executive session when so requested by the governing
+32 board, commission, or other public body holding the executive session.;
+33 (B) Discussing how a governing body will respond to an
+34 attack on or other breach of the cybersecurity of the public entity governed
+35 by the governing body;
+36 (C)(i) A board or commission of the state preparing
+6 03-18-2025 11:14:33 LGL072
+As Engrossed: S2/20/25 S2/26/25 S3/3/25 S3/10/25 S3/12/25 H3/18/25 SB227
+1 examination materials and answers to examination materials that are
+2 administered to applicants for licensure from a state agency.
+3 (ii) Boards and commissions are excluded from this
+4 chapter for the administering of examinations to applicants for licensure;
+5 and
+6 (D) A governing body considering, evaluating, or discussing
+7 matters pertaining to a public water system's security or municipally owned
+8 utility system's security as described in § 25-19-105(b)(17).
+9 (3)(2) Executive sessions must never shall not be called for the
+10 purpose of defeating the reason or the spirit of this chapter.
+11 (4) No resolution, ordinance, rule, contract, regulation, or
+12 motion considered or arrived at in executive session will be legal unless,
+13 following the executive session, the public body reconvenes in public session
+14 and presents and votes on the resolution, ordinance, rule, contract,
+15 regulation, or motion.
+16 (5)(A) Boards and commissions of this state may meet in
+17 executive session for purposes of preparing examination materials and answers
+18 to examination materials that are administered to applicants for licensure
+19 from state agencies.
+20 (B) Boards and commissions are excluded from this chapter
+21 for the administering of examinations to applicants for licensure.
+22 (6) Subject to the provisions of subdivision (c)(4) of this
+23 section, a public agency may meet in executive session for the purpose of
+24 considering, evaluating, or discussing matters pertaining to public water
+25 system security or municipally owned utility system security as described in
+26 § 25-19-105(b)(17).
+27 (7) An executive session held by the Child Maltreatment
+28 Investigations Oversight Committee under § 10-3-3201 et seq. is exempt from
+29 this section.
+30 (d)(1) All officially scheduled, special, and called open public
+31 meetings Except as provided under subdivision (d)(5) of this section, a
+32 public meeting shall be recorded in a manner that allows for the capture of
+33 sound, including without limitation:
+34 (A) A sound-only recording;
+35 (B) A video recording with sound and picture; or
+36 (C) A digital or analog broadcast capable of being
+7 03-18-2025 11:14:33 LGL072
+As Engrossed: S2/20/25 S2/26/25 S3/3/25 S3/10/25 S3/12/25 H3/18/25 SB227
+1 recorded.
+2 (2) If a member of a governing body attends a public meeting
+3 remotely, the remote portion of the public meeting that is recorded under
+4 subdivision (d)(1) of this section shall be recorded in the format in which
+5 it is conducted.
+6 (3) A recording of an open a public meeting under subdivision
+7 (d)(1) or subdivision (d)(2) of this section shall be maintained by a public
+8 entity for a minimum of one (1) year from the date of the open public
+9 meeting.
+10 (3)(4) The recording shall be maintained in a format that may be
+11 reproduced upon a request under this chapter.
+12 (4)(5) Subdivisions Subdivision (d)(1) and (2) of this section
+13 do does not apply to:
+14 (A) Executive sessions; or
+15 (B) Volunteer fire departments.
+16 (5) Cities of the second class and incorporated towns are exempt
+17 from subdivisions (d)(1) and (2) of this section until July 1, 2020.
+18 (e)(1) A governing body shall ensure that Arkansas residents have
+19 reasonable access to attend a public meeting, including through remote means,
+20 if such remote means are utilized by the governing body.
+21 (2) If the Governor declares a disaster emergency under the
+22 Arkansas Emergency Services Act of 1973, § 12-75-101 et seq., a public entity
+23 may assemble, gather, meet, and conduct an open public meeting through
+24 electronic means, including without limitation by:
+25 (A) Telephone;
+26 (B) Video conference; or
+27 (C) Video broadcast. Except as provided under subdivisions
+28 (e)(3)-(5) of this section, a member of a governing body shall be physically
+29 present at a public meeting to be counted for purposes of establishing a
+30 quorum or to vote.
+31 (2)(3) If an open public meeting is held under subdivision
+32 (e)(1) of this section: Other than governing bodies of municipalities,
+33 counties, or public school districts, a governing body may adopt a policy
+34 permitting members of the governing body to attend a public meeting remotely.
+35 (A) The public may attend the open public meeting using
+36 electronic means; and
+8 03-18-2025 11:14:33 LGL072
+As Engrossed: S2/20/25 S2/26/25 S3/3/25 S3/10/25 S3/12/25 H3/18/25 SB227
+1 (B) Notice of the method the public may attend the open
+2 public meeting shall be published with the notice of the open public meeting.
+3 (4) The ability of the governing body of a public school
+4 district to conduct a public meeting remotely shall be governed by § 6-13-
+5 619.
+6 (3)(5) Physical presence of the public or of an individual
+7 member of the public entity at the open public meeting is not required under
+8 this subsection. If the Governor declares a disaster emergency under the
+9 Arkansas Emergency Services Act of 1973, § 12-75-101 et seq., a governing
+10 body may conduct a public meeting remotely.
+11 (4)(6) The open public meeting shall be recorded in the format
+12 in which it is conducted, including without limitation:
+13 (A) A sound-only recording;
+14 (B) A video recording with sound and picture; or
+15 (C) A digital or analog broadcast capable of being
+16 recorded. For a member of a governing body who attends a meeting remotely to
+17 be counted for a quorum or to vote, the method used to permit the member of
+18 the governing body to attend remotely shall:
+19 (A) Provide a method for the governing body to verify the
+20 identity of the member of the governing body attending remotely;
+21 (B) Allow other members of the governing body and members
+22 of the public, whether physically present at the public meeting or attending
+23 the public meeting remotely, at all times to:
+24 (i) Hear the member of the governing body attending
+25 remotely;
+26 (ii) Observe or otherwise understand a vote of a
+27 member of the governing body attending remotely; and
+28 (iii) Know the identity of the member of the
+29 governing body attending remotely when that member is speaking or voting; and
+30 (C) Allow a member of the governing body attending
+31 remotely to hear the other members of the governing body and any public
+32 comment.
+33 (5)(7) A public entity shall maintain the records of an open
+34 public meeting held under this subsection for a minimum of one (1) year from
+35 the date of the open public meeting. A member of a governing body who attends
+36 a public meeting remotely shall not receive mileage or per diem for attending
+9 03-18-2025 11:14:33 LGL072
+As Engrossed: S2/20/25 S2/26/25 S3/3/25 S3/10/25 S3/12/25 H3/18/25 SB227
+1 the public meeting.
+2 (8) If one (1) or more members of a governing body attends a
+3 public meeting remotely:
+4 (A) The governing body shall enable members of the public
+5 to attend the public meeting by the same means that the members of the
+6 governing body attending the public meeting remotely are attending the public
+7 meeting; and
+8 (B) Notice of the method the public may attend the public
+9 meeting shall be published with the notice of the public meeting.
+10 (f) A member of a governing body shall not participate in a
+11 communication, whether oral, written, electronic, or otherwise, that:
+12 (1)(A) He or she knows or reasonably should know is a poll.
+13 (B)(i) It is not a violation of subdivision (f)(1)(A) of
+14 this section if a secretary or administrative assistant of a governing body
+15 communicates in writing with one (1) or more members of the governing body
+16 for the purpose of conducting a ministerial act, including without limitation
+17 scheduling a public meeting of the governing body or setting the agenda for a
+18 public meeting of the governing body.
+19 (ii) It is a violation of subdivision (f)(1)(A) of this
+20 section if a secretary or administrative assistant of a governing body
+21 communicates with one (1) or more members of the governing body to schedule a
+22 public meeting of the governing body or set the agenda for a public meeting
+23 of the governing body and the communication functionally conducts substantive
+24 business of the governing body concerning any matter on which official action
+25 would foreseeably be taken by the governing body.
+26 (C)(i) It is not a violation of subdivision (f)(1)(A) of
+27 this section if an employee or an agent of a public entity communicates
+28 background and nondecisional information to one (1) or more members of the
+29 governing body of the public entity.
+30 (ii) Except as provided in subdivision (f)(1)(B)(i)
+31 of this section, it is a violation of subdivision (f)(1)(A) of this section
+32 if an employee or agent of a public entity communicates to a member of the
+33 governing body of the public entity:
+34 (a) How another member of the governing body
+35 intends to vote; or
+36 (b) Whether another member of the governing
+10 03-18-2025 11:14:33 LGL072
+As Engrossed: S2/20/25 S2/26/25 S3/3/25 S3/10/25 S3/12/25 H3/18/25 SB227
+1 body supports or opposes a certain proposed action by the governing body; or
+2 (2)(A) Occurs outside of a public meeting with another member of
+3 the governing body about a matter on which official action will foreseeably
+4 be taken by the governing body.
+5 (B) It is not a violation of subdivision (f)(2)(A) of this
+6 section if a member of a governing body communicates background and
+7 nondecisional information to one (1) or more members of the same governing
+8 body.
+9 (C) It is a violation of subdivision (f)(2)(A) of this
+10 section if a member of a governing body engages in any communication with one
+11 (1) or more members of the same governing body that constitutes deliberation,
+12 as deliberation may only occur at a public meeting of the governing body.
+13 (g) An informal meeting that includes deliberation or that is for the
+14 purpose of exercising a responsibility, authority, power, or duty of a
+15 governing body is strictly prohibited.
+16 (h) Two (2) or more employees or agents of a public entity may
+17 communicate for the purpose of exercising an authorized responsibility,
+18 authority, power, or duty of an employee or agent of the public entity
+19 outside of a public meeting.
+20 (i)(1) If a circuit court finds under § 25-19-107 that a governing
+21 body is in violation of this section, the circuit court may invalidate any
+22 action the governing body took at the unlawful public meeting.
+23 (2) If a circuit court finds under § 25-19-107 that a member of
+24 a governing body engaged in a communication prohibited under subsection (f)
+25 of this section or in an informal meeting prohibited under subsection (g) of
+26 this section, the circuit court may invalidate any action the governing body
+27 took that is the direct or indirect result of the prohibited communication or
+28 informal meeting.
+29 (3) An action taken in an executive session is void unless the
+30 governing body conducts a public vote on the matter discussed in the
+31 executive session at the conclusion of the executive session.
+32
+33 /s/C. Tucker
+34
+35
+36
+11 03-18-2025 11:14:33 LGL072
+[DELETED:  A H       A 1 I A   T O T C  B   S   2   A   ( t   ( a c    ( r f   (]
+[DELETED:  S2 0 p   ( b    ( m w    ( o o   ( s a f a a   ( e   ( e   ( m   ( r n o   ( s     (     (     (     (     (    ( l     ( C]
+[DELETED:  S3 0     ( n     ( m C s   (    (     ( o     ( o    ( f    (     ( v     ( s    ( a   ( a    (    ( m    ( o o   ( a r    (     ( r c]
+[DELETED:  S4 0 i     ( I   f i c f a w r o   p   s g r r D   ( w   v i w r R   S  2 p  ( f m b]
+[DELETED:  S5 0 j f g   ( r   ( c   ( (   ( m a   ( p a (  ( f    ( m u d r   ( m r i a g s    ( s b r   ( a]
+[DELETED:  S6 0    ( p m    ( a a i b e     ( t a (  ( a    ( a o     ( s s b (     ( a t p b     ( a m b    ( a b    (]
+[DELETED:  S7 0 e a     ( c a    ( m u   ( p   ( m f a r   ( e t f    ( f   ( s c s §   ( I t  ( m p s    (    (    (]
+[DELETED:  S8 0 r   ( r s i   ( ( e m   ( r   ( d    (    (   ( f  ( r i   ( A m e    (    (    ( ( p q   ( ( c p    ( e]
+[DELETED:  S9 0    ( p   ( d 6   ( m t A b   ( i    (    (    ( r b t    ( i    ( o t     ( r     ( m     ( g    ( r c   ( p t a]
+[DELETED:  S1 0 t   ( p    ( t g m    ( m  ( c   (    ( t c f s p    ( s c p o b w    ( t b g     ( o i g      ( i      (]
+[DELETED:  S1 0 b   ( t b    ( s n b    ( s ( a  ( p g  ( c a o  ( b a   ( a o t t i   ( g e   /   ]
+
+
+================================================================================
+
+Raw Text:
+Stricken language would be deleted from and underlined language would be added to present law.
+1 State of ArkansasAs Engrossed: S2/20/25 S2/26/25 S3/3/25 S3/10/25 S3/12/25
+2 H3/18/25
+A Bill
+3 95th General Assembly
+4 Regular Session, 2025 SENATE BILL 227
+5
+6 By: Senators C. Tucker, B. Davis, J. Boyd, C. Penzo, G. Stubblefield, J. Petty
+7 By: Representatives Eubanks, A. Collins, Gazaway, Gramlich, Hawk, L. Johnson, M. McElroy, J.
+8 Richardson, Womack, Wooldridge
+9
+For An Act To Be Entitled
+10
+11 AN ACT TO AMEND THE FREEDOM OF INFORMATION ACT OF
+12 1967; TO AMEND THE PROVISIONS OF THE FREEDOM OF
+13 INFORMATION ACT OF 1967 CONCERNING PUBLIC MEETINGS;
+14 AND FOR OTHER PURPOSES.
+15
+16
+Subtitle
+17
+18 TO AMEND THE FREEDOM OF INFORMATION ACT
+19 OF 1967; AND TO AMEND THE PROVISIONS OF
+20 THE FREEDOM OF INFORMATION ACT OF 1967
+21 CONCERNING PUBLIC MEETINGS.
+22
+23 BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF ARKANSAS:
+24
+25 SECTION 1. Arkansas Code § 25-19-103 is amended to read as follows:
+26 25-19-103. Definitions.
+27 As used in this chapter:
+28 (1) “Background and nondecisional information” means information
+29 that is not deliberation;
+30 (1)(A)(2)(A) “Custodian”, except as otherwise provided by law
+31 and with respect to any public record, means the person having administrative
+32 control of that record.
+33 (B) “Custodian” does not mean a person who holds public
+34 records solely for the purposes of storage, safekeeping, or data processing
+35 for others;
+36 (3) "Cybersecurity" means the measures taken to achieve
+*LGL072*
+03-18-2025 11:14:33 LGL072
+
+As Engrossed: S2/20/25 S2/26/25 S3/3/25 S3/10/25 S3/12/25 H3/18/25 SB227
+1 protection against the criminal or unauthorized use of electronic data;
+2 (4) “Deliberation” means an exchange of information or opinion
+3 between two (2) or more members of a governing body that:
+4 (A) Seeks, discloses, or inquires about a decision by a
+5 member of the governing body concerning any matter on which official action
+6 will foreseeably be taken by the governing body; or
+7 (B) Solicits, discloses, or inquires about the support or
+8 opposition of a member of the governing body concerning any matter on which
+9 official action will foreseeably be taken by the governing body;
+10 (2)(5) “Disaster recovery system” means an electronic data
+11 storage system implemented and maintained solely for the purpose of allowing
+12 a governmental unit or agency to recover operational systems and datasets
+13 following the occurrence of a catastrophe, including without limitation an
+14 act of war, an equipment failure, a cyberattack, or a natural disaster such
+15 as a tornado, earthquake, or fire;
+16 (3)(6) “Format” means the organization, arrangement, and form of
+17 electronic information for use, viewing, or storage;
+18 (7) “Governing body” means the governing body of a public
+19 entity;
+20 (8) “Informal meeting” means the gathering of two (2) or more
+21 members of a governing body outside of a public meeting;
+22 (4)(9) “Medium” means the physical form or material on which
+23 records and information may be stored or represented and may include, but is
+24 not limited to, paper, microfilm, microform, computer disks and diskettes,
+25 optical disks, and magnetic tapes;
+26 (5)(A)(10)(A) “Municipally owned utility system” means a utility
+27 system owned or operated by a municipality that provides:
+28 (i) Electricity;
+29 (ii) Water;
+30 (iii) Wastewater;
+31 (iv) Cable television; or
+32 (v) Broadband service.
+33 (B) “Municipally owned utility system” includes without
+34 limitation a:
+35 (i) Consolidated waterworks system under the
+36 Consolidated Waterworks Authorization Act, § 25-20-301 et seq.;
+2 03-18-2025 11:14:33 LGL072
+
+As Engrossed: S2/20/25 S2/26/25 S3/3/25 S3/10/25 S3/12/25 H3/18/25 SB227
+1 (ii) Utility system managed or operated by a
+2 nonprofit corporation under § 14-199-701 et seq.; and
+3 (iii) Utility system owned or operated by a
+4 municipality or by a consolidated utility district under the General
+5 Consolidated Public Utility System Improvement District Law, § 14-217-101 et
+6 seq.;
+7 (11) “Poll” means a series of communications:
+8 (A) Between:
+9 (i) One (1) or more persons paid by a public entity
+10 or agents or employees of that public entity; and
+11 (ii) One (1) or more members of the governing body
+12 of that public entity;
+13 (B) Concerning any matter on which official action will
+14 foreseeably be taken by the governing body;
+15 (C) To determine:
+16 (i) How the member of the governing body intends to
+17 vote; or
+18 (ii) Whether the member of the governing body
+19 supports or opposes certain proposed action by the governing body; and
+20 (D) For the purpose of exercising a responsibility,
+21 authority, power, or duty of the governing body;
+22 (6)(12) "Public meetings" "Public entity" means the meetings of
+23 any:
+24 (A) A bureau, commission, or agency of the state; or any
+25 (B) A political subdivision of the state, including
+26 municipalities, and counties, and boards of education,; and all
+27 (C) All other boards, bureaus, commissions, or
+28 organizations in the State of Arkansas, except grand juries, supported wholly
+29 or in part by public funds or expending public funds;
+30 (13)(A) “Public meeting” means the formal gathering together, in
+31 a special or regular gathering, of a governing body, whether in person or
+32 remotely.
+33 (B) "Public meeting" does not include:
+34 (i) The gathering together, whether in person or
+35 remotely, of the members of a governing body to discuss the settlement of a
+36 cause of action in a court-ordered alternative dispute resolution process,
+3 03-18-2025 11:14:33 LGL072
+
+As Engrossed: S2/20/25 S2/26/25 S3/3/25 S3/10/25 S3/12/25 H3/18/25 SB227
+1 including without limitation a settlement conference or mediation; and
+2 (ii) A meeting of the Child Maltreatment
+3 Investigations Oversight Committee under § 10-3-3201 et seq.;
+4 (7)(A)(14)(A) “Public records” means writings, recorded sounds,
+5 films, tapes, electronic or computer-based information, or data compilations
+6 in any medium required by law to be kept or otherwise kept and that
+7 constitute a record of the performance or lack of performance of official
+8 functions that are or should be carried out by a public official or employee,
+9 a governmental agency, or any other agency or improvement district that is
+10 wholly or partially supported by public funds or expending public funds. All
+11 records maintained in public offices or by public employees within the scope
+12 of their employment shall be presumed to be public records.
+13 (B) “Public records” does not mean software acquired by
+14 purchase, lease, or license;
+15 (8)(15) “Public water system” means all facilities composing a
+16 system for the collection, treatment, and delivery of drinking water to the
+17 general public, including without limitation reservoirs, pipelines,
+18 reclamation facilities, processing facilities, distribution facilities, and
+19 regional water distribution districts under The Regional Water Distribution
+20 District Act, § 14-116-101 et seq.; and
+21 (16) "Remotely" means through electronic means, including
+22 without limitation by telephone, video conference, or video broadcast; and
+23 (9)(17) “Vulnerability assessment” means an assessment of the
+24 vulnerability of a public water system to a terrorist attack or other
+25 intentional acts intended to substantially disrupt the ability of the public
+26 water system to provide a safe and reliable supply of drinking water as
+27 required by the Public Health Security and Bioterrorism Preparedness and
+28 Response Act of 2002, Pub. L. No. 107-188.
+29
+30 SECTION 2. Arkansas Code § 25-19-106 is amended to read as follows:
+31 25-19-106. Open public Public meetings — Requirements, exceptions, and
+32 penalties.
+33 (a) Except as otherwise specifically provided by law, all meetings,
+34 formal or informal, special or regular, of the governing bodies of all
+35 municipalities, counties, townships, and school districts and all boards,
+36 bureaus, commissions, or organizations of the State of Arkansas, except grand
+4 03-18-2025 11:14:33 LGL072
+
+As Engrossed: S2/20/25 S2/26/25 S3/3/25 S3/10/25 S3/12/25 H3/18/25 SB227
+1 juries, supported wholly or in part by public funds or expending public
+2 funds, shall be public meetings. To lawfully hold a public meeting, a
+3 governing body shall ensure that:
+4 (1) Prior notice of the public meeting has been provided as
+5 required under subsection (b) of this section;
+6 (2) Any executive session held within a public meeting is
+7 conducted as required under subsection (c) of this section;
+8 (3) The public meeting is recorded as provided under subsection
+9 (d) of this section;
+10 (4) The public is permitted reasonable access to the public
+11 meeting, and members of the governing body attend the public meeting in the
+12 appropriate manner, as provided under subsection (e) of this section; and
+13 (5) The public meeting is conducted in a manner that allows the
+14 public to attend and hear all of the governing body's meaningful discussion
+15 and deliberation, if any, on official business as provided under subsections
+16 (f) and (g) of this section.
+17 (b)(1)(A) The time and place of each regular public meeting shall be
+18 furnished to anyone who requests the information.
+19 (B) Unless another notification timeline for the public
+20 meeting of a governing body is specified by law, the notification required
+21 under subdivision (b)(1)(A) of this section shall be made at least three (3)
+22 days before the public meeting takes place in order that the public may have
+23 representatives at the public meeting.
+24 (2)(A) In the event of an emergency or special meetings public
+25 meeting, the person calling the public meeting shall notify the
+26 representatives of the newspapers, radio stations, and television stations,
+27 if any, located in the county in which the public meeting is to be held and
+28 any news media located elsewhere that cover regular public meetings of the
+29 governing body and that have requested to be so notified of emergency or
+30 special public meetings of the time, place, and date of the public meeting.
+31 (B) Notification The notification required under
+32 subdivision (b)(2)(A) of this section shall be made at least two (2) hours
+33 before the public meeting takes place in order that the public shall may have
+34 representatives at the public meeting.
+35 (3) In addition to the requirements under subdivisions (b)(1)
+36 and (2) of this section:
+5 03-18-2025 11:14:33 LGL072
+
+As Engrossed: S2/20/25 S2/26/25 S3/3/25 S3/10/25 S3/12/25 H3/18/25 SB227
+1 (A) The time, place, and date of a public meeting shall be
+2 published online if the governing body or the public entity it governs
+3 maintains a website or social media page; and
+4 (B)(i) The governing body shall furnish the most current
+5 agenda for a public meeting upon request and shall publish the most current
+6 agenda for a public meeting online if the governing body or the public entity
+7 it governs maintains a website or social media page at least three (3) days
+8 before a regular public meeting and at least two (2) hours before an
+9 emergency or special public meeting.
+10 (ii) The requirement of subdivision (b)(3)(B)(i) of
+11 this section does not preclude a governing body from adding items to an
+12 agenda after the agenda has been furnished or posted under subdivision
+13 (b)(3)(B)(i) of this section.
+14 (c)(1)(A) Except as provided under subdivision (c)(6) of this section,
+15 an An executive session will shall be permitted only for the purpose of:
+16 (A)(i) considering Considering the employment,
+17 appointment, promotion, demotion, disciplining, or resignation of any public
+18 officer or employee.
+19 (B)(ii) The specific purpose of the executive
+20 session shall be announced in public before Before going into an executive
+21 session called under subdivision (c)(1)(A)(i) of this section, a governing
+22 body shall state publicly which specific purpose listed in subdivision
+23 (c)(1)(A)(i) of this section is the basis for the executive session.
+24 (2)(A)(iii) Only the person holding the top
+25 administrative position in the public agency, department, or office involved,
+26 the immediate supervisor of the employee involved, and the employee may be
+27 present at the executive session when so requested by the governing body,
+28 board, commission, or other public body holding the executive session.
+29 (B)(iv) Any person being interviewed for the top
+30 administrative position in the public agency, department, or office involved
+31 may be present at the executive session when so requested by the governing
+32 board, commission, or other public body holding the executive session.;
+33 (B) Discussing how a governing body will respond to an
+34 attack on or other breach of the cybersecurity of the public entity governed
+35 by the governing body;
+36 (C)(i) A board or commission of the state preparing
+6 03-18-2025 11:14:33 LGL072
+
+As Engrossed: S2/20/25 S2/26/25 S3/3/25 S3/10/25 S3/12/25 H3/18/25 SB227
+1 examination materials and answers to examination materials that are
+2 administered to applicants for licensure from a state agency.
+3 (ii) Boards and commissions are excluded from this
+4 chapter for the administering of examinations to applicants for licensure;
+5 and
+6 (D) A governing body considering, evaluating, or discussing
+7 matters pertaining to a public water system's security or municipally owned
+8 utility system's security as described in § 25-19-105(b)(17).
+9 (3)(2) Executive sessions must never shall not be called for the
+10 purpose of defeating the reason or the spirit of this chapter.
+11 (4) No resolution, ordinance, rule, contract, regulation, or
+12 motion considered or arrived at in executive session will be legal unless,
+13 following the executive session, the public body reconvenes in public session
+14 and presents and votes on the resolution, ordinance, rule, contract,
+15 regulation, or motion.
+16 (5)(A) Boards and commissions of this state may meet in
+17 executive session for purposes of preparing examination materials and answers
+18 to examination materials that are administered to applicants for licensure
+19 from state agencies.
+20 (B) Boards and commissions are excluded from this chapter
+21 for the administering of examinations to applicants for licensure.
+22 (6) Subject to the provisions of subdivision (c)(4) of this
+23 section, a public agency may meet in executive session for the purpose of
+24 considering, evaluating, or discussing matters pertaining to public water
+25 system security or municipally owned utility system security as described in
+26 § 25-19-105(b)(17).
+27 (7) An executive session held by the Child Maltreatment
+28 Investigations Oversight Committee under § 10-3-3201 et seq. is exempt from
+29 this section.
+30 (d)(1) All officially scheduled, special, and called open public
+31 meetings Except as provided under subdivision (d)(5) of this section, a
+32 public meeting shall be recorded in a manner that allows for the capture of
+33 sound, including without limitation:
+34 (A) A sound-only recording;
+35 (B) A video recording with sound and picture; or
+36 (C) A digital or analog broadcast capable of being
+7 03-18-2025 11:14:33 LGL072
+
+As Engrossed: S2/20/25 S2/26/25 S3/3/25 S3/10/25 S3/12/25 H3/18/25 SB227
+1 recorded.
+2 (2) If a member of a governing body attends a public meeting
+3 remotely, the remote portion of the public meeting that is recorded under
+4 subdivision (d)(1) of this section shall be recorded in the format in which
+5 it is conducted.
+6 (3) A recording of an open a public meeting under subdivision
+7 (d)(1) or subdivision (d)(2) of this section shall be maintained by a public
+8 entity for a minimum of one (1) year from the date of the open public
+9 meeting.
+10 (3)(4) The recording shall be maintained in a format that may be
+11 reproduced upon a request under this chapter.
+12 (4)(5) Subdivisions Subdivision (d)(1) and (2) of this section
+13 do does not apply to:
+14 (A) Executive sessions; or
+15 (B) Volunteer fire departments.
+16 (5) Cities of the second class and incorporated towns are exempt
+17 from subdivisions (d)(1) and (2) of this section until July 1, 2020.
+18 (e)(1) A governing body shall ensure that Arkansas residents have
+19 reasonable access to attend a public meeting, including through remote means,
+20 if such remote means are utilized by the governing body.
+21 (2) If the Governor declares a disaster emergency under the
+22 Arkansas Emergency Services Act of 1973, § 12-75-101 et seq., a public entity
+23 may assemble, gather, meet, and conduct an open public meeting through
+24 electronic means, including without limitation by:
+25 (A) Telephone;
+26 (B) Video conference; or
+27 (C) Video broadcast. Except as provided under subdivisions
+28 (e)(3)-(5) of this section, a member of a governing body shall be physically
+29 present at a public meeting to be counted for purposes of establishing a
+30 quorum or to vote.
+31 (2)(3) If an open public meeting is held under subdivision
+32 (e)(1) of this section: Other than governing bodies of municipalities,
+33 counties, or public school districts, a governing body may adopt a policy
+34 permitting members of the governing body to attend a public meeting remotely.
+35 (A) The public may attend the open public meeting using
+36 electronic means; and
+8 03-18-2025 11:14:33 LGL072
+
+As Engrossed: S2/20/25 S2/26/25 S3/3/25 S3/10/25 S3/12/25 H3/18/25 SB227
+1 (B) Notice of the method the public may attend the open
+2 public meeting shall be published with the notice of the open public meeting.
+3 (4) The ability of the governing body of a public school
+4 district to conduct a public meeting remotely shall be governed by § 6-13-
+5 619.
+6 (3)(5) Physical presence of the public or of an individual
+7 member of the public entity at the open public meeting is not required under
+8 this subsection. If the Governor declares a disaster emergency under the
+9 Arkansas Emergency Services Act of 1973, § 12-75-101 et seq., a governing
+10 body may conduct a public meeting remotely.
+11 (4)(6) The open public meeting shall be recorded in the format
+12 in which it is conducted, including without limitation:
+13 (A) A sound-only recording;
+14 (B) A video recording with sound and picture; or
+15 (C) A digital or analog broadcast capable of being
+16 recorded. For a member of a governing body who attends a meeting remotely to
+17 be counted for a quorum or to vote, the method used to permit the member of
+18 the governing body to attend remotely shall:
+19 (A) Provide a method for the governing body to verify the
+20 identity of the member of the governing body attending remotely;
+21 (B) Allow other members of the governing body and members
+22 of the public, whether physically present at the public meeting or attending
+23 the public meeting remotely, at all times to:
+24 (i) Hear the member of the governing body attending
+25 remotely;
+26 (ii) Observe or otherwise understand a vote of a
+27 member of the governing body attending remotely; and
+28 (iii) Know the identity of the member of the
+29 governing body attending remotely when that member is speaking or voting; and
+30 (C) Allow a member of the governing body attending
+31 remotely to hear the other members of the governing body and any public
+32 comment.
+33 (5)(7) A public entity shall maintain the records of an open
+34 public meeting held under this subsection for a minimum of one (1) year from
+35 the date of the open public meeting. A member of a governing body who attends
+36 a public meeting remotely shall not receive mileage or per diem for attending
+9 03-18-2025 11:14:33 LGL072
+
+As Engrossed: S2/20/25 S2/26/25 S3/3/25 S3/10/25 S3/12/25 H3/18/25 SB227
+1 the public meeting.
+2 (8) If one (1) or more members of a governing body attends a
+3 public meeting remotely:
+4 (A) The governing body shall enable members of the public
+5 to attend the public meeting by the same means that the members of the
+6 governing body attending the public meeting remotely are attending the public
+7 meeting; and
+8 (B) Notice of the method the public may attend the public
+9 meeting shall be published with the notice of the public meeting.
+10 (f) A member of a governing body shall not participate in a
+11 communication, whether oral, written, electronic, or otherwise, that:
+12 (1)(A) He or she knows or reasonably should know is a poll.
+13 (B)(i) It is not a violation of subdivision (f)(1)(A) of
+14 this section if a secretary or administrative assistant of a governing body
+15 communicates in writing with one (1) or more members of the governing body
+16 for the purpose of conducting a ministerial act, including without limitation
+17 scheduling a public meeting of the governing body or setting the agenda for a
+18 public meeting of the governing body.
+19 (ii) It is a violation of subdivision (f)(1)(A) of this
+20 section if a secretary or administrative assistant of a governing body
+21 communicates with one (1) or more members of the governing body to schedule a
+22 public meeting of the governing body or set the agenda for a public meeting
+23 of the governing body and the communication functionally conducts substantive
+24 business of the governing body concerning any matter on which official action
+25 would foreseeably be taken by the governing body.
+26 (C)(i) It is not a violation of subdivision (f)(1)(A) of
+27 this section if an employee or an agent of a public entity communicates
+28 background and nondecisional information to one (1) or more members of the
+29 governing body of the public entity.
+30 (ii) Except as provided in subdivision (f)(1)(B)(i)
+31 of this section, it is a violation of subdivision (f)(1)(A) of this section
+32 if an employee or agent of a public entity communicates to a member of the
+33 governing body of the public entity:
+34 (a) How another member of the governing body
+35 intends to vote; or
+36 (b) Whether another member of the governing
+10 03-18-2025 11:14:33 LGL072
+
+As Engrossed: S2/20/25 S2/26/25 S3/3/25 S3/10/25 S3/12/25 H3/18/25 SB227
+1 body supports or opposes a certain proposed action by the governing body; or
+2 (2)(A) Occurs outside of a public meeting with another member of
+3 the governing body about a matter on which official action will foreseeably
+4 be taken by the governing body.
+5 (B) It is not a violation of subdivision (f)(2)(A) of this
+6 section if a member of a governing body communicates background and
+7 nondecisional information to one (1) or more members of the same governing
+8 body.
+9 (C) It is a violation of subdivision (f)(2)(A) of this
+10 section if a member of a governing body engages in any communication with one
+11 (1) or more members of the same governing body that constitutes deliberation,
+12 as deliberation may only occur at a public meeting of the governing body.
+13 (g) An informal meeting that includes deliberation or that is for the
+14 purpose of exercising a responsibility, authority, power, or duty of a
+15 governing body is strictly prohibited.
+16 (h) Two (2) or more employees or agents of a public entity may
+17 communicate for the purpose of exercising an authorized responsibility,
+18 authority, power, or duty of an employee or agent of the public entity
+19 outside of a public meeting.
+20 (i)(1) If a circuit court finds under § 25-19-107 that a governing
+21 body is in violation of this section, the circuit court may invalidate any
+22 action the governing body took at the unlawful public meeting.
+23 (2) If a circuit court finds under § 25-19-107 that a member of
+24 a governing body engaged in a communication prohibited under subsection (f)
+25 of this section or in an informal meeting prohibited under subsection (g) of
+26 this section, the circuit court may invalidate any action the governing body
+27 took that is the direct or indirect result of the prohibited communication or
+28 informal meeting.
+29 (3) An action taken in an executive session is void unless the
+30 governing body conducts a public vote on the matter discussed in the
+31 executive session at the conclusion of the executive session.
+32
+33 /s/C. Tucker
+34
+35
+36
+11 03-18-2025 11:14:33 LGL072
+
+[DELETED:  A H       A 1 I A   T O T C  B   S   2   A   ( t   ( a c    ( r f   (]
+[DELETED:  S2 0 p   ( b    ( m w    ( o o   ( s a f a a   ( e   ( e   ( m   ( r n o   ( s     (     (     (     (     (    ( l     ( C]
+[DELETED:  S3 0     ( n     ( m C s   (    (     ( o     ( o    ( f    (     ( v     ( s    ( a   ( a    (    ( m    ( o o   ( a r    (     ( r c]
+[DELETED:  S4 0 i     ( I   f i c f a w r o   p   s g r r D   ( w   v i w r R   S  2 p  ( f m b]
+[DELETED:  S5 0 j f g   ( r   ( c   ( (   ( m a   ( p a (  ( f    ( m u d r   ( m r i a g s    ( s b r   ( a]
+[DELETED:  S6 0    ( p m    ( a a i b e     ( t a (  ( a    ( a o     ( s s b (     ( a t p b     ( a m b    ( a b    (]
+[DELETED:  S7 0 e a     ( c a    ( m u   ( p   ( m f a r   ( e t f    ( f   ( s c s §   ( I t  ( m p s    (    (    (]
+[DELETED:  S8 0 r   ( r s i   ( ( e m   ( r   ( d    (    (   ( f  ( r i   ( A m e    (    (    ( ( p q   ( ( c p    ( e]
+[DELETED:  S9 0    ( p   ( d 6   ( m t A b   ( i    (    (    ( r b t    ( i    ( o t     ( r     ( m     ( g    ( r c   ( p t a]
+[DELETED:  S1 0 t   ( p    ( t g m    ( m  ( c   (    ( t c f s p    ( s c p o b w    ( t b g     ( o i g      ( i      (]
+[DELETED:  S1 0 b   ( t b    ( s n b    ( s ( a  ( p g  ( c a o  ( b a   ( a o t t i   ( g e   /   ]

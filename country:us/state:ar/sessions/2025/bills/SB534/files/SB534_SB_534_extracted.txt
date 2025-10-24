@@ -1,0 +1,496 @@
+Title: Stricken language would be deleted from and underlined language would be added to present law.
+Official Title: Stricken language would be deleted from and underlined language would be added to present law.
+Number of Sections: 1
+Source: versions - SB 534
+Media Type: application/pdf
+Strikethrough Detection: 6 sections found
+
+================================================================================
+
+Section 1:
+1 State of Arkansas
+A Bill
+2 95th General Assembly
+3 Regular Session, 2025 SENATE BILL 534
+4
+5 By: Senator G. Leding
+6 By: Representative Eubanks
+7
+For An Act To Be Entitled
+8
+9 AN ACT TO ESTABLISH THE ARKANSAS KRATOM CONSUMER
+10 PROTECTION ACT; TO REMOVE MITRAGYNINE AND 7-
+11 HYDROXYMITRAGYNINE, ALSO KNOWN AS KRATOM, FROM THE
+12 CONTROLLED SUBSTANCES LIST IN ARKANSAS; AND FOR OTHER
+13 PURPOSES.
+14
+15
+Subtitle
+16
+17 TO ESTABLISH THE ARKANSAS KRATOM
+18 CONSUMER PROTECTION ACT; AND TO REMOVE
+19 MITRAGYNINE AND 7-HYDROXYMITRAGYNINE,
+20 ALSO KNOWN AS KRATOM, FROM THE
+21 CONTROLLED SUBSTANCES LIST IN ARKANSAS.
+22
+23 BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF ARKANSAS:
+24
+25 SECTION 1. Arkansas Code Title 20, Chapter 56, is amended to add an
+26 additional subchapter to read as follows:
+27 Subchapter 5 — Arkansas Kratom Consumer Protection Act
+28
+29 20-56-501. Title.
+30 This subchapter shall be known and may be cited as the “Arkansas Kratom
+31 Consumer Protection Act”.
+32
+33 20-56-502. Legislative findings.
+34 The General Assembly finds that:
+35 (1) On February 1, 2016, the Department of Health added
+36 mitragynine and 7-hydroxymitragynine, which are two (2) constituent compounds
+*JMB567*
+03/20/2025 12:06:46 PM JMB567
+SB534
+1 of the kratom plant, as Schedule I substances;
+2 (2) The Department of Health justified this action on the basis
+3 that mitragynine and 7-hydroxymitragynine induce opioid-like effects when
+4 consumed and included kratom as a Schedule I substance since it has no
+5 approved medical use by the United States Food and Drug Administration;
+6 (3)(A) The United States Food and Drug Administration had
+7 encouraged every state to ban kratom on the premise that it would be
+8 scheduled by the United States Drug Enforcement Administration as a
+9 controlled substance in 2016 and that Alabama, Wisconsin, Indiana, and
+10 Vermont had already classified kratom as a Schedule I substance.
+11 (B) Rhode Island also banned kratom in 2017 based on
+12 information provided by the United State Food and Drug Administration;
+13 (4) On October 13, 2016, the United States Drug Enforcement
+14 Administration withdrew the United States Drug Enforcement Administration’s
+15 scheduling recommendation for kratom, citing insufficient evidence to meet
+16 the requirements for classifying mitragynine and 7-hydroxymitragynine as
+17 Schedule I substances;
+18 (5) On August 16, 2018, the Assistant Secretary of Health of the
+19 United States Department of Health and Human Services withdrew the United
+20 States Food and Drug Administration’s second scheduling recommendation for
+21 mitragynine and 7-hydroxymitragynine as Schedule I substances citing
+22 “disappointingly poor evidence and data and a failure to consider overall
+23 public health”;
+24 (6) On December 1, 2021, the Expert Committee on Drug Dependence
+25 at the United Nations Commission on Narcotic Drugs rejected the
+26 recommendation for international scheduling of mitragynine and 7-
+27 hydroxymitragynine citing insufficient evidence to support that action;
+28 (7) On February 21, 2023, the Indiana House of Representatives,
+29 on a vote of 53-40, passed a repeal of the kratom ban and replaced it with
+30 the Kratom Consumer Protection Act;
+31 (8)(A) On March 1, 2023, the Vermont Department of Health
+32 accepted a petition by the American Kratom Association to remove the kratom
+33 ban.
+34 (B) Upon completion of the planned rulemaking of the
+35 Vermont Department of Health, the number of states with a kratom ban has been
+36 reduced to five (5) states;
+2 03/20/2025 12:06:46 PM JMB567
+SB534
+1 (9) On March 10, 2023, the Wisconsin Controlled Substances Board
+2 passed a motion affirming to the Wisconsin State Legislature that kratom does
+3 not meet the statutorily-mandated eight factors established by the Controlled
+4 Substances Act for scheduling despite their view kratom should not be removed
+5 from scheduling until more research is available;
+6 (10) The Rhode Island Legislature is proceeding with the Kratom
+7 Consumer Protection Act after the Interim Director of the Rhode Island
+8 Department of Health acknowledged kratom does not meet the criteria for
+9 scheduling;
+10 (11) At this time, nine (9) states, including Utah, Georgia,
+11 Arizona, Nevada, Oregon, Colorado, Oklahoma, West Virginia, and Virginia,
+12 have passed versions of the Kratom Consumer Protection Act;
+13 (12) On March 16, 2022, United States Department of Health and
+14 Human Services Secretary Becerra, in a letter to Senator Mike Lee and
+15 Representative Mark Pocan, acknowledged “knowledge gaps” on kratom and that
+16 “kratom-involved overdose deaths have occurred after use of adulterated
+17 kratom products or taking kratom with other substances”;
+18 (13) On December 29, 2022, President Joe Biden signed the FY23
+19 Omnibus with kratom report language commending the National Institute on Drug
+20 Abuse for funding studies on kratom that “may provide help for some Americans
+21 struggling with addictions, given its analgesic and less addictive properties
+22 as compared to opioids”;
+23 (14)(A) Data from the Department of Health shows that fatal
+24 opioid overdoses have been on the rise in recent years.
+25 (B) In 2021, the Department of Health reported there were
+26 six hundred twenty-eight (628) drug overdose deaths in Arkansas; and
+27 (15)(A) On May 17, 2022, the Director of the National Institute
+28 on Drug Abuse, Dr. Nora Volkow, testified regarding the drug overdose crisis
+29 at a hearing of the United States Senate Appropriations Subcommittee on
+30 Labor, Health and Human Services, Education, and Related Agencies.
+31 (B) When asked about overdose prevention strategies, Dr.
+32 Volkow stated: “There’s also interest in the community to test other products
+33 that may serve as harm reduction. For example, the use of kratom, which is
+34 sold as tea and that contains a drug molecule that has effects that are
+35 similar to a dose of buprenorphine but could be utilized also for decreasing
+36 withdrawal or depression.”
+3 03/20/2025 12:06:46 PM JMB567
+SB534
+1
+2 20-56-503. Definitions.
+3 As used in this subchapter:
+4 (1) "Food" means a food, food product, food ingredient, dietary
+5 ingredient, dietary supplement, or beverage for human consumption;
+6 (2)(A) "Kratom product" means a food containing any part of the
+7 leaf of the plant Mitragyna speciosa or an extract of the plant mitragyna
+8 speciosa.
+9 (B) A "kratom product" may be manufactured as a powder,
+10 capsule, pill, beverage, extract, or other edible form;
+11 (3) “Kratom extract” means a food containing any part of the
+12 leaf of the plant Mitragyna speciosa that has been extracted in order to
+13 provide more standardized dosing;
+14 (4) "Processor" means a person who sells, prepares,
+15 manufactures, distributes, or maintains kratom products or advertises,
+16 represents, or holds itself out as selling, preparing, or maintaining kratom
+17 products; and
+18 (5) “Retailer” means a person that sells, distributes,
+19 advertises, represents, or holds itself out as selling or maintaining kratom
+20 products.
+21
+22 20-56-504. Kratom product limitations.
+23 A processor shall not prepare, distribute, sell, or expose for sale any
+24 of the following:
+25 (1) A kratom product that:
+26 (A)(i) Is adulterated with a dangerous non-kratom
+27 substance.
+28 (ii) A kratom product is adulterated with a
+29 dangerous non-kratom substance if the kratom product is mixed or packed with
+30 a non-kratom substance and that substance affects the quality or strength of
+31 the kratom product to such a degree as to render the kratom product injurious
+32 to a consumer;
+33 (B)(i) Is contaminated with a dangerous non-kratom
+34 substance.
+35 (ii) A kratom product is contaminated with a
+36 dangerous non-kratom substance if the kratom product contains a poisonous or
+4 03/20/2025 12:06:46 PM JMB567
+SB534
+1 otherwise deleterious non-kratom ingredient, including without limitation the
+2 substances listed in the state’s controlled substances list;
+3 (C) Contains:
+4 (i) A level of 7-hydroxymitragynine in the alkaloid
+5 fraction that is greater than one percent (1%) of the overall alkaloid
+6 composition of the product; or
+7 (ii) Any synthetic alkaloids including synthetic
+8 mitragynine, synthetic 7-hydroxymitragynine, or any other synthetically
+9 derived compounds of the kratom plant;
+10 (2) A kratom extract that contains levels of residual solvents
+11 higher than is allowed in the U.S. Pharmacopeia Chapter 467; or
+12 (3) A kratom product or kratom extract that does not provide
+13 adequate labeling directions necessary for safe use by consumers, including a
+14 recommended serving size, the recommended number of servings per day, and the
+15 number of servings in the package that is sold.
+16
+17 20-56-505. Age limits.
+18 A processor or retailer shall not distribute, sell, or expose for sale
+19 a kratom product to an individual under eighteen (18) years of age.
+20
+21 20-56-506. Processor registration.
+22 (a)(1) A processor shall register annually with the Department of
+23 Agriculture any kratom product or kratom extract intended to be offered for
+24 sale to an end consumer that is in an approved kratom delivery form and pay a
+25 fee that is adjusted annually to cover all administrative costs for
+26 processing and administering the registrations.
+27 (2) The registration shall include a certificate of analysis
+28 from a certified independent third-party laboratory showing compliance with
+29 the requirements for kratom products or kratom extracts in this subchapter.
+30 (b)(1) Upon receipt of a credible report of noncompliance with this
+31 subchapter on a kratom product or kratom extract offered for sale, the
+32 department shall require the processor to produce an updated and current
+33 certificate of analysis in a reasonable time frame from a certified
+34 independent third-party laboratory showing compliance with the requirements
+35 of this subchapter for safe kratom products or kratom extracts.
+36 (2) If the processor does not provide the certificate of
+5 03/20/2025 12:06:46 PM JMB567
+SB534
+1 analysis in subdivision (b)(1) of this section in the specified time frame,
+2 the registration for that kratom product or kratom extract shall be revoked.
+3 (c)(1) Upon receipt of any adverse event related to a registered
+4 kratom product or kratom extract, the processor shall submit a copy of the
+5 adverse event report via certified mail to the department that is required to
+6 be submitted to the United States Food and Drug Administration under Section
+7 761 of the Federal Food, Drug, and Cosmetic Act.
+8 (2) The department may revoke the kratom product’s or kratom
+9 extract's registration for any documented failure to report an adverse event
+10 to the department.
+11 (d)(1) If the department has a reasonable basis to require an
+12 independent third-party test of a registered kratom product or kratom extract
+13 by a laboratory of the department’s choice, the processor shall be required
+14 to submit payment for the test within a reasonable time frame.
+15 (2) If the processor does not tender payment to the department
+16 within a set time period upon receipt of the invoice for the testing, the
+17 department shall revoke the registration for that kratom product or kratom
+18 extract.
+19
+20 20-56-507. Violations.
+21 (a)(1) A processor that violates this subchapter is subject to an
+22 administrative fine of not more than five hundred dollars ($500) for the
+23 first offense and not more than one thousand dollars ($1,000) for a second or
+24 subsequent offense.
+25 (2) Upon the request of a person to whom an administrative fine
+26 is issued, the Secretary of the Department of Agriculture shall conduct a
+27 hearing in accordance with the Arkansas Administrative Procedure Act, § 25-
+28 15-201 et seq.
+29 (b) A retailer does not violate this subchapter if it is shown by a
+30 preponderance of the evidence that the retailer relied in good faith upon the
+31 representations of a processor of food represented to be a kratom product or
+32 kratom extract.
+33
+34
+35
+36
+6 03/20/2025 12:06:46 PM JMB567
+[DELETED:       A P H C P  T C M A C  B   S a S   2  T C   2  T   ( m]
+[DELETED: S2 0 o   ( t c a   ( e s c V    ( i   ( A s t S   ( U S m “ p   ( a r h   ( o t   ( a b    ( V r]
+[DELETED: S3 0   ( p n S f   ( C D s   ( A h   ( H R “ k   ( O A s a   ( o    ( s   ( o a L    ( V t s s w]
+[DELETED: S4 0   2  A   ( i   ( l s    ( c   ( l p   ( m r p   ( a p   2  A o   (    ( s     ( d a t t    ( s     ( d]
+[DELETED: S5 0 o s    (     ( f c     ( m d   ( h   ( a r n   2  A a   2  ( A s f p   ( f t  ( s d c i o   (]
+[DELETED: S6 0 a t  ( k a b 7   ( e t  ( i b t   ( w d e   2  ( a f s   ( i h 1  ( p r k]
+
+
+================================================================================
+
+Raw Text:
+Stricken language would be deleted from and underlined language would be added to present law.
+1 State of Arkansas
+A Bill
+2 95th General Assembly
+3 Regular Session, 2025 SENATE BILL 534
+4
+5 By: Senator G. Leding
+6 By: Representative Eubanks
+7
+For An Act To Be Entitled
+8
+9 AN ACT TO ESTABLISH THE ARKANSAS KRATOM CONSUMER
+10 PROTECTION ACT; TO REMOVE MITRAGYNINE AND 7-
+11 HYDROXYMITRAGYNINE, ALSO KNOWN AS KRATOM, FROM THE
+12 CONTROLLED SUBSTANCES LIST IN ARKANSAS; AND FOR OTHER
+13 PURPOSES.
+14
+15
+Subtitle
+16
+17 TO ESTABLISH THE ARKANSAS KRATOM
+18 CONSUMER PROTECTION ACT; AND TO REMOVE
+19 MITRAGYNINE AND 7-HYDROXYMITRAGYNINE,
+20 ALSO KNOWN AS KRATOM, FROM THE
+21 CONTROLLED SUBSTANCES LIST IN ARKANSAS.
+22
+23 BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF ARKANSAS:
+24
+25 SECTION 1. Arkansas Code Title 20, Chapter 56, is amended to add an
+26 additional subchapter to read as follows:
+27 Subchapter 5 — Arkansas Kratom Consumer Protection Act
+28
+29 20-56-501. Title.
+30 This subchapter shall be known and may be cited as the “Arkansas Kratom
+31 Consumer Protection Act”.
+32
+33 20-56-502. Legislative findings.
+34 The General Assembly finds that:
+35 (1) On February 1, 2016, the Department of Health added
+36 mitragynine and 7-hydroxymitragynine, which are two (2) constituent compounds
+*JMB567*
+03/20/2025 12:06:46 PM JMB567
+
+SB534
+1 of the kratom plant, as Schedule I substances;
+2 (2) The Department of Health justified this action on the basis
+3 that mitragynine and 7-hydroxymitragynine induce opioid-like effects when
+4 consumed and included kratom as a Schedule I substance since it has no
+5 approved medical use by the United States Food and Drug Administration;
+6 (3)(A) The United States Food and Drug Administration had
+7 encouraged every state to ban kratom on the premise that it would be
+8 scheduled by the United States Drug Enforcement Administration as a
+9 controlled substance in 2016 and that Alabama, Wisconsin, Indiana, and
+10 Vermont had already classified kratom as a Schedule I substance.
+11 (B) Rhode Island also banned kratom in 2017 based on
+12 information provided by the United State Food and Drug Administration;
+13 (4) On October 13, 2016, the United States Drug Enforcement
+14 Administration withdrew the United States Drug Enforcement Administration’s
+15 scheduling recommendation for kratom, citing insufficient evidence to meet
+16 the requirements for classifying mitragynine and 7-hydroxymitragynine as
+17 Schedule I substances;
+18 (5) On August 16, 2018, the Assistant Secretary of Health of the
+19 United States Department of Health and Human Services withdrew the United
+20 States Food and Drug Administration’s second scheduling recommendation for
+21 mitragynine and 7-hydroxymitragynine as Schedule I substances citing
+22 “disappointingly poor evidence and data and a failure to consider overall
+23 public health”;
+24 (6) On December 1, 2021, the Expert Committee on Drug Dependence
+25 at the United Nations Commission on Narcotic Drugs rejected the
+26 recommendation for international scheduling of mitragynine and 7-
+27 hydroxymitragynine citing insufficient evidence to support that action;
+28 (7) On February 21, 2023, the Indiana House of Representatives,
+29 on a vote of 53-40, passed a repeal of the kratom ban and replaced it with
+30 the Kratom Consumer Protection Act;
+31 (8)(A) On March 1, 2023, the Vermont Department of Health
+32 accepted a petition by the American Kratom Association to remove the kratom
+33 ban.
+34 (B) Upon completion of the planned rulemaking of the
+35 Vermont Department of Health, the number of states with a kratom ban has been
+36 reduced to five (5) states;
+2 03/20/2025 12:06:46 PM JMB567
+
+SB534
+1 (9) On March 10, 2023, the Wisconsin Controlled Substances Board
+2 passed a motion affirming to the Wisconsin State Legislature that kratom does
+3 not meet the statutorily-mandated eight factors established by the Controlled
+4 Substances Act for scheduling despite their view kratom should not be removed
+5 from scheduling until more research is available;
+6 (10) The Rhode Island Legislature is proceeding with the Kratom
+7 Consumer Protection Act after the Interim Director of the Rhode Island
+8 Department of Health acknowledged kratom does not meet the criteria for
+9 scheduling;
+10 (11) At this time, nine (9) states, including Utah, Georgia,
+11 Arizona, Nevada, Oregon, Colorado, Oklahoma, West Virginia, and Virginia,
+12 have passed versions of the Kratom Consumer Protection Act;
+13 (12) On March 16, 2022, United States Department of Health and
+14 Human Services Secretary Becerra, in a letter to Senator Mike Lee and
+15 Representative Mark Pocan, acknowledged “knowledge gaps” on kratom and that
+16 “kratom-involved overdose deaths have occurred after use of adulterated
+17 kratom products or taking kratom with other substances”;
+18 (13) On December 29, 2022, President Joe Biden signed the FY23
+19 Omnibus with kratom report language commending the National Institute on Drug
+20 Abuse for funding studies on kratom that “may provide help for some Americans
+21 struggling with addictions, given its analgesic and less addictive properties
+22 as compared to opioids”;
+23 (14)(A) Data from the Department of Health shows that fatal
+24 opioid overdoses have been on the rise in recent years.
+25 (B) In 2021, the Department of Health reported there were
+26 six hundred twenty-eight (628) drug overdose deaths in Arkansas; and
+27 (15)(A) On May 17, 2022, the Director of the National Institute
+28 on Drug Abuse, Dr. Nora Volkow, testified regarding the drug overdose crisis
+29 at a hearing of the United States Senate Appropriations Subcommittee on
+30 Labor, Health and Human Services, Education, and Related Agencies.
+31 (B) When asked about overdose prevention strategies, Dr.
+32 Volkow stated: “There’s also interest in the community to test other products
+33 that may serve as harm reduction. For example, the use of kratom, which is
+34 sold as tea and that contains a drug molecule that has effects that are
+35 similar to a dose of buprenorphine but could be utilized also for decreasing
+36 withdrawal or depression.”
+3 03/20/2025 12:06:46 PM JMB567
+
+SB534
+1
+2 20-56-503. Definitions.
+3 As used in this subchapter:
+4 (1) "Food" means a food, food product, food ingredient, dietary
+5 ingredient, dietary supplement, or beverage for human consumption;
+6 (2)(A) "Kratom product" means a food containing any part of the
+7 leaf of the plant Mitragyna speciosa or an extract of the plant mitragyna
+8 speciosa.
+9 (B) A "kratom product" may be manufactured as a powder,
+10 capsule, pill, beverage, extract, or other edible form;
+11 (3) “Kratom extract” means a food containing any part of the
+12 leaf of the plant Mitragyna speciosa that has been extracted in order to
+13 provide more standardized dosing;
+14 (4) "Processor" means a person who sells, prepares,
+15 manufactures, distributes, or maintains kratom products or advertises,
+16 represents, or holds itself out as selling, preparing, or maintaining kratom
+17 products; and
+18 (5) “Retailer” means a person that sells, distributes,
+19 advertises, represents, or holds itself out as selling or maintaining kratom
+20 products.
+21
+22 20-56-504. Kratom product limitations.
+23 A processor shall not prepare, distribute, sell, or expose for sale any
+24 of the following:
+25 (1) A kratom product that:
+26 (A)(i) Is adulterated with a dangerous non-kratom
+27 substance.
+28 (ii) A kratom product is adulterated with a
+29 dangerous non-kratom substance if the kratom product is mixed or packed with
+30 a non-kratom substance and that substance affects the quality or strength of
+31 the kratom product to such a degree as to render the kratom product injurious
+32 to a consumer;
+33 (B)(i) Is contaminated with a dangerous non-kratom
+34 substance.
+35 (ii) A kratom product is contaminated with a
+36 dangerous non-kratom substance if the kratom product contains a poisonous or
+4 03/20/2025 12:06:46 PM JMB567
+
+SB534
+1 otherwise deleterious non-kratom ingredient, including without limitation the
+2 substances listed in the state’s controlled substances list;
+3 (C) Contains:
+4 (i) A level of 7-hydroxymitragynine in the alkaloid
+5 fraction that is greater than one percent (1%) of the overall alkaloid
+6 composition of the product; or
+7 (ii) Any synthetic alkaloids including synthetic
+8 mitragynine, synthetic 7-hydroxymitragynine, or any other synthetically
+9 derived compounds of the kratom plant;
+10 (2) A kratom extract that contains levels of residual solvents
+11 higher than is allowed in the U.S. Pharmacopeia Chapter 467; or
+12 (3) A kratom product or kratom extract that does not provide
+13 adequate labeling directions necessary for safe use by consumers, including a
+14 recommended serving size, the recommended number of servings per day, and the
+15 number of servings in the package that is sold.
+16
+17 20-56-505. Age limits.
+18 A processor or retailer shall not distribute, sell, or expose for sale
+19 a kratom product to an individual under eighteen (18) years of age.
+20
+21 20-56-506. Processor registration.
+22 (a)(1) A processor shall register annually with the Department of
+23 Agriculture any kratom product or kratom extract intended to be offered for
+24 sale to an end consumer that is in an approved kratom delivery form and pay a
+25 fee that is adjusted annually to cover all administrative costs for
+26 processing and administering the registrations.
+27 (2) The registration shall include a certificate of analysis
+28 from a certified independent third-party laboratory showing compliance with
+29 the requirements for kratom products or kratom extracts in this subchapter.
+30 (b)(1) Upon receipt of a credible report of noncompliance with this
+31 subchapter on a kratom product or kratom extract offered for sale, the
+32 department shall require the processor to produce an updated and current
+33 certificate of analysis in a reasonable time frame from a certified
+34 independent third-party laboratory showing compliance with the requirements
+35 of this subchapter for safe kratom products or kratom extracts.
+36 (2) If the processor does not provide the certificate of
+5 03/20/2025 12:06:46 PM JMB567
+
+SB534
+1 analysis in subdivision (b)(1) of this section in the specified time frame,
+2 the registration for that kratom product or kratom extract shall be revoked.
+3 (c)(1) Upon receipt of any adverse event related to a registered
+4 kratom product or kratom extract, the processor shall submit a copy of the
+5 adverse event report via certified mail to the department that is required to
+6 be submitted to the United States Food and Drug Administration under Section
+7 761 of the Federal Food, Drug, and Cosmetic Act.
+8 (2) The department may revoke the kratom product’s or kratom
+9 extract's registration for any documented failure to report an adverse event
+10 to the department.
+11 (d)(1) If the department has a reasonable basis to require an
+12 independent third-party test of a registered kratom product or kratom extract
+13 by a laboratory of the department’s choice, the processor shall be required
+14 to submit payment for the test within a reasonable time frame.
+15 (2) If the processor does not tender payment to the department
+16 within a set time period upon receipt of the invoice for the testing, the
+17 department shall revoke the registration for that kratom product or kratom
+18 extract.
+19
+20 20-56-507. Violations.
+21 (a)(1) A processor that violates this subchapter is subject to an
+22 administrative fine of not more than five hundred dollars ($500) for the
+23 first offense and not more than one thousand dollars ($1,000) for a second or
+24 subsequent offense.
+25 (2) Upon the request of a person to whom an administrative fine
+26 is issued, the Secretary of the Department of Agriculture shall conduct a
+27 hearing in accordance with the Arkansas Administrative Procedure Act, § 25-
+28 15-201 et seq.
+29 (b) A retailer does not violate this subchapter if it is shown by a
+30 preponderance of the evidence that the retailer relied in good faith upon the
+31 representations of a processor of food represented to be a kratom product or
+32 kratom extract.
+33
+34
+35
+36
+6 03/20/2025 12:06:46 PM JMB567
+
+[DELETED:       A P H C P  T C M A C  B   S a S   2  T C   2  T   ( m]
+[DELETED: S2 0 o   ( t c a   ( e s c V    ( i   ( A s t S   ( U S m “ p   ( a r h   ( o t   ( a b    ( V r]
+[DELETED: S3 0   ( p n S f   ( C D s   ( A h   ( H R “ k   ( O A s a   ( o    ( s   ( o a L    ( V t s s w]
+[DELETED: S4 0   2  A   ( i   ( l s    ( c   ( l p   ( m r p   ( a p   2  A o   (    ( s     ( d a t t    ( s     ( d]
+[DELETED: S5 0 o s    (     ( f c     ( m d   ( h   ( a r n   2  A a   2  ( A s f p   ( f t  ( s d c i o   (]
+[DELETED: S6 0 a t  ( k a b 7   ( e t  ( i b t   ( w d e   2  ( a f s   ( i h 1  ( p r k]

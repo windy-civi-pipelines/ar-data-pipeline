@@ -1,0 +1,228 @@
+Title: ______________________________________________________________________
+Official Title: ______________________________________________________________________
+Number of Sections: 2
+Source: versions - Amendment H3
+Media Type: application/pdf
+Strikethrough Detection: 4 sections found
+
+================================================================================
+
+Section 1:
+Hall of the House of Representatives
+95th General Assembly - Regular Session, 2025
+Amendment Form
+Subtitle of House Bill 1301
+TO AMEND THE PRIOR AUTHORIZATION TRANSPARENCY ACT.
+______________________________________________________________________
+Amendment No. 3 to House Bill 1301
+Amend House Bill 1301 as engrossed H2/20/25 (version: 2/20/25 11:51:11 AM):
+Page 3, line 16, delete "insurer; or" and substitute "insurer;"
+AND
+Page 3, delete line 19, and substitute the following:
+"insurer's commencement of operations subject to this subchapter; or
+(D)(i) For a healthcare provider denied an exemption under
+this section, any consecutive six-month period during the twelve (12) months
+before the healthcare provider's request for a new evaluation.
+(ii) A healthcare provider may request that the
+healthcare insurer perform a new evaluation twelve (12) months after the most
+recent denial."
+AND
+Page 4, delete line 12, and substitute the following:
+"to or termination of the election.
+(3) If, in the most recent six-month evaluation period, the
+healthcare insurer approved or would have approved less than eighty percent
+(80%) of the prior authorization requests submitted by a healthcare provider
+for a particular healthcare service, the healthcare provider shall not be
+eligible for inclusion under an exemption extended to healthcare providers
+under the same tax identification number under this subsection."
+*.ANS360*
+ANS360 - 03-11-2025 04:00:53 Page 1 of 4
+AND
+Page 10, delete line 22, and substitute the following:
+"(f)(1) Upon request, a healthcare insurer or a pharmacy benefits
+manager shall send"
+AND
+Page 11, delete lines 7 through 18
+AND
+Page 12, delete line 18, and substitute the following:
+"subdivision (b)(1) of this section should be granted.
+(4) The criteria established under subdivision (b)(3) of this
+
+Section 2:
+section shall include criteria related to the cost and the safety of the
+prescription drug, medicine, biological product, pharmaceutical, or
+pharmaceutical service."
+AND
+Page 12, line 19, delete "(4)" and substitute "(5)"
+AND
+Page 12, line 25, delete "(5)" and substitute "(6)"
+AND
+Page 12, line 28, delete "(6)" and substitute "(7)"
+AND
+Page 12, line 32, delete "(7)" and substitute "(8)"
+ANS360 - 03-11-2025 04:00:53 Amendment No. 1 to House Bill 1301 Page 2 of 4
+AND
+Page 12, line 36, delete "(8)" and substitute "(9)"
+AND
+Page 13, line 2, delete "subdivision (b)(5)" and substitute "subdivision
+(b)(6)"
+AND
+Page 13, delete lines 16 through 35, and substitute the following:
+"SECTION 10. Arkansas Code § 23-99-1129 is amended to read as follows:
+23-99-1129. Appeals process for disallowance of prior authorization.
+(a) If the Arkansas State Board of Pharmacy and the Arkansas State
+Medical Board, jointly, disallow a prior authorization of a prescription
+drug, medicine, biological product, pharmaceutical, or pharmaceutical service
+requested under § 23-99-1128, a healthcare insurer, pharmacy benefits
+manager, or other interested party may file an appeal to the State Insurance
+Department within ninety (90) days of the disallowance of the prior
+authorization.
+(b) The healthcare insurer, pharmacy benefits manager, or other
+interested party shall provide a notice of seven (7) days to the Arkansas
+State Board of Pharmacy and the Arkansas State Medical Board of the
+healthcare insurer's, pharmacy benefits manager's, or other interested
+party's intent to file an appeal.
+(c) No later than the thirtieth day after the date a healthcare
+insurer, pharmacy benefits manager, or other interested party files an appeal
+under subsection (a) of this section, the Insurance Commissioner shall
+appoint an independent review organization to review the appeal.
+(c)(d) A healthcare insurer, pharmacy benefits manager, or other
+interested party that files an appeal under subsection (a) of this section
+shall pay for the independent review organization appointed under subsection
+(b)(c) of this section to review the appeal.
+(e)(1) If a healthcare insurer, pharmacy benefits manager, or other
+interested party succeeds in its appeal and overturns the decision of the
+ANS360 - 03-11-2025 04:00:53 Amendment No. 1 to House Bill 1301 Page 3 of 4
+Arkansas State Board of Pharmacy and the Arkansas State Medical Board, the
+healthcare insurer, pharmacy benefits manager, or other interested party
+shall be reimbursed for fifty percent (50%) of the cost remitted to the
+independent review organization under subsection (d) of this section.
+(2) The Arkansas State Board of Pharmacy and the Arkansas State
+Medical Board shall each provide twenty-five percent (25%) of the total
+reimbursement to the healthcare insurer, pharmacy benefits manager, or other
+interested party under subdivision (e)(1) of this section.
+(d)(f) A healthcare insurer, pharmacy benefits manager, or other
+interested party is bound by the independent review organization's
+determination of the appeal under this section."
+The Amendment was read ________________________________________________________________________________
+By: Representative L. Johnson
+ANS/ANS - 03-11-2025 04:00:53 _________________________
+ANS360 Chief Clerk
+ANS360 - 03-11-2025 04:00:53 Amendment No. 1 to House Bill 1301 Page 4 of 4
+[DELETED:  PA    (   ( (]
+[DELETED:  P" (]
+[DELETED:  P"2(((((]
+[DELETED:  P (( _ C]
+
+
+================================================================================
+
+Raw Text:
+Hall of the House of Representatives
+95th General Assembly - Regular Session, 2025
+Amendment Form
+______________________________________________________________________
+Subtitle of House Bill 1301
+TO AMEND THE PRIOR AUTHORIZATION TRANSPARENCY ACT.
+______________________________________________________________________
+Amendment No. 3 to House Bill 1301
+Amend House Bill 1301 as engrossed H2/20/25 (version: 2/20/25 11:51:11 AM):
+Page 3, line 16, delete "insurer; or" and substitute "insurer;"
+AND
+Page 3, delete line 19, and substitute the following:
+"insurer's commencement of operations subject to this subchapter; or
+(D)(i) For a healthcare provider denied an exemption under
+this section, any consecutive six-month period during the twelve (12) months
+before the healthcare provider's request for a new evaluation.
+(ii) A healthcare provider may request that the
+healthcare insurer perform a new evaluation twelve (12) months after the most
+recent denial."
+AND
+Page 4, delete line 12, and substitute the following:
+"to or termination of the election.
+(3) If, in the most recent six-month evaluation period, the
+healthcare insurer approved or would have approved less than eighty percent
+(80%) of the prior authorization requests submitted by a healthcare provider
+for a particular healthcare service, the healthcare provider shall not be
+eligible for inclusion under an exemption extended to healthcare providers
+under the same tax identification number under this subsection."
+*.ANS360*
+ANS360 - 03-11-2025 04:00:53 Page 1 of 4
+
+AND
+Page 10, delete line 22, and substitute the following:
+"(f)(1) Upon request, a healthcare insurer or a pharmacy benefits
+manager shall send"
+AND
+Page 11, delete lines 7 through 18
+AND
+Page 12, delete line 18, and substitute the following:
+"subdivision (b)(1) of this section should be granted.
+(4) The criteria established under subdivision (b)(3) of this
+section shall include criteria related to the cost and the safety of the
+prescription drug, medicine, biological product, pharmaceutical, or
+pharmaceutical service."
+AND
+Page 12, line 19, delete "(4)" and substitute "(5)"
+AND
+Page 12, line 25, delete "(5)" and substitute "(6)"
+AND
+Page 12, line 28, delete "(6)" and substitute "(7)"
+AND
+Page 12, line 32, delete "(7)" and substitute "(8)"
+ANS360 - 03-11-2025 04:00:53 Amendment No. 1 to House Bill 1301 Page 2 of 4
+
+AND
+Page 12, line 36, delete "(8)" and substitute "(9)"
+AND
+Page 13, line 2, delete "subdivision (b)(5)" and substitute "subdivision
+(b)(6)"
+AND
+Page 13, delete lines 16 through 35, and substitute the following:
+"SECTION 10. Arkansas Code § 23-99-1129 is amended to read as follows:
+23-99-1129. Appeals process for disallowance of prior authorization.
+(a) If the Arkansas State Board of Pharmacy and the Arkansas State
+Medical Board, jointly, disallow a prior authorization of a prescription
+drug, medicine, biological product, pharmaceutical, or pharmaceutical service
+requested under § 23-99-1128, a healthcare insurer, pharmacy benefits
+manager, or other interested party may file an appeal to the State Insurance
+Department within ninety (90) days of the disallowance of the prior
+authorization.
+(b) The healthcare insurer, pharmacy benefits manager, or other
+interested party shall provide a notice of seven (7) days to the Arkansas
+State Board of Pharmacy and the Arkansas State Medical Board of the
+healthcare insurer's, pharmacy benefits manager's, or other interested
+party's intent to file an appeal.
+(c) No later than the thirtieth day after the date a healthcare
+insurer, pharmacy benefits manager, or other interested party files an appeal
+under subsection (a) of this section, the Insurance Commissioner shall
+appoint an independent review organization to review the appeal.
+(c)(d) A healthcare insurer, pharmacy benefits manager, or other
+interested party that files an appeal under subsection (a) of this section
+shall pay for the independent review organization appointed under subsection
+(b)(c) of this section to review the appeal.
+(e)(1) If a healthcare insurer, pharmacy benefits manager, or other
+interested party succeeds in its appeal and overturns the decision of the
+ANS360 - 03-11-2025 04:00:53 Amendment No. 1 to House Bill 1301 Page 3 of 4
+
+Arkansas State Board of Pharmacy and the Arkansas State Medical Board, the
+healthcare insurer, pharmacy benefits manager, or other interested party
+shall be reimbursed for fifty percent (50%) of the cost remitted to the
+independent review organization under subsection (d) of this section.
+(2) The Arkansas State Board of Pharmacy and the Arkansas State
+Medical Board shall each provide twenty-five percent (25%) of the total
+reimbursement to the healthcare insurer, pharmacy benefits manager, or other
+interested party under subdivision (e)(1) of this section.
+(d)(f) A healthcare insurer, pharmacy benefits manager, or other
+interested party is bound by the independent review organization's
+determination of the appeal under this section."
+The Amendment was read ________________________________________________________________________________
+By: Representative L. Johnson
+ANS/ANS - 03-11-2025 04:00:53 _________________________
+ANS360 Chief Clerk
+ANS360 - 03-11-2025 04:00:53 Amendment No. 1 to House Bill 1301 Page 4 of 4
+
+[DELETED:  PA    (   ( (]
+[DELETED:  P" (]
+[DELETED:  P"2(((((]
+[DELETED:  P (( _ C]

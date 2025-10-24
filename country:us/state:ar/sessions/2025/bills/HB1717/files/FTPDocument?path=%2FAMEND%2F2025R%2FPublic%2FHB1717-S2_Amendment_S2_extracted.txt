@@ -1,0 +1,249 @@
+Title: ______________________________________________________________________
+Official Title: ______________________________________________________________________
+Number of Sections: 1
+Source: versions - Amendment S2
+Media Type: application/pdf
+Strikethrough Detection: 5 sections found
+
+================================================================================
+
+Section 1:
+ARKANSAS SENATE
+95th General Assembly - Regular Session, 2025
+Amendment Form
+Subtitle of House Bill 1717
+TO CREATE THE ARKANSAS CHILDREN AND TEENS' ONLINE PRIVACY
+PROTECTION ACT.
+______________________________________________________________________
+Amendment No. 2 to House Bill 1717
+Amend House Bill 1717 as engrossed S3/31/25 (version: 3/31/25 10:37:26 AM):
+Page 1, delete lines 35 and 36, and substitute the following:
+"(3) "Consent" means any reasonable effort, taking into
+consideration available technology and including without limitation a request
+for authorization for future collection, use, and disclosure described in the
+notice, to ensure that in the case of a teen, the parent of a teen or the
+teen:
+(A) Receives notice of the personal information
+collection, use, and disclosure practices of the operator; and
+(B) Before the personal information of the teen is
+collected, freely and unambiguously authorizes, including without limitation
+the giving of consent through an operator's terms of service or
+acknowledgement of the operator's privacy policy:
+(i) The collection, use, and disclosure, as
+applicable, of the teen's personal information; and
+(ii) Any subsequent use of the teen's personal
+information.
+(4)(A) "Disclosure" means making personal information that is
+collected from a child or teen by a website, online service, online
+application, or mobile application targeted toward children or teens or that
+is collected with actual knowledge the personal information from a child or
+teen publicly available in an identifiable form to a third party not
+affiliated with the operator.
+*.LJH280*
+LJH280 - 04-01-2025 10:15:06 Page 1 of 5
+(B) "Disclosure" does not include personal information
+provided to a person other than an operator who provides support for the
+internal operations of the website, online service, online application, or
+mobile application of the operator, including a processor;"
+AND
+Page 2, line 10, delete "(4)" and substitute "(5)"
+AND
+Page 2, line 16, delete "(5)" and substitute "(6)"
+AND
+Page 2, line 25, delete "(6)" and substitute "(7)"
+AND
+Page 2, line 28, delete "(7)" and substitute "(8)"
+AND
+Page 2, line 31, delete "(8)(A)(i)" and substitute "(9)(A)(i)"
+AND
+Page 3, line 17, delete "(9)" and substitute "(10)"
+AND
+Page 3, line 20, delete "(10)" and substitute "(11)"
+AND
+Page 3, line 22, delete "(11)(A)" and substitute "(12)(A)"
+LJH280 - 04-01-2025 10:15:06 Amendment No. 2 to House Bill 1717 Page 2 of 5
+AND
+Page 4, delete line 30, and substitute the following:
+"does not make any other use of the audio file before deletion;
+(13) "Processor" means a person that processes personal
+information on behalf of an operator;"
+Page 4, line 31, delete "(12)(A)" and substitute "(14)(A)"
+AND
+Page 5, line 25, delete "(13)(A)" and substitute "(15)(A)"
+AND
+Page 6, line 4, delete "(14)" and substitute "(15)"
+AND
+Page 6, delete lines 8 through 19, and substitute the following:
+"(17) "Third party" means a person, public authority, agency, or
+body other than the consumer, operator, processor, or an affiliate of the
+processor or the operator."
+AND
+Page 6, line 25, delete "directed to children" and substitute "directed at
+children or teens"
+AND
+Page 6, delete line 30, and substitute the following:
+"(B) Except as provided in subdivisions (a)(1)(C) and (D)
+of this section, to collect personal information from a child or teen"
+LJH280 - 04-01-2025 10:15:06 Amendment No. 2 to House Bill 1717 Page 3 of 5
+AND
+Page 6, line 33, delete "compile" and substitute "maintain"
+AND
+Page 7, line 29, delete "verifiable"
+AND
+Page 7, delete lines 30 through 34, and substitute the following:
+"disclosure of personal information from a teen from a parent of a teen or a
+teen, except when the processing is for:
+(A) Providing or maintaining the specific product or
+service requested by the teen;
+(B) Conducting the operator's internal business
+operations, including without limitation identifying and repairing technical
+errors that impair existing or intended functionality;
+(C) Protecting against malicious, fraudulent, or illegal
+activity or detecting, responding to, or preventing security incidents or
+threats;
+(D) Investigating, establishing, exercising, preparing
+for, or defending legal claims;
+(E) Complying with federal, state, or local laws, rules,
+or regulations;
+(F) Complying with a civil, criminal, or regulatory
+inquiry, investigation, subpoena, or a summons by federal, state, local, or
+other governmental authorities; or
+(G) Protecting the vital interests of a natural person;"
+AND
+Page 8, delete lines 1 through 15
+LJH280 - 04-01-2025 10:15:06 Amendment No. 2 to House Bill 1717 Page 4 of 5
+The Amendment was read the first time, rules suspended and read the second time and _______________________
+By: Senator J. Boyd
+LJH/LJH - 04-01-2025 10:15:06 _________________________
+LJH280 Secretary
+LJH280 - 04-01-2025 10:15:06 Amendment No. 2 to House Bill 1717 Page 5 of 5
+[DELETED:  PA   "  (  (   (   ( (]
+[DELETED:  P  (]
+[DELETED:  P ( "  "]
+[DELETED:  P  (  (  (  (  (  (  (]
+[DELETED:  P _ S]
+
+
+================================================================================
+
+Raw Text:
+ARKANSAS SENATE
+95th General Assembly - Regular Session, 2025
+Amendment Form
+______________________________________________________________________
+Subtitle of House Bill 1717
+TO CREATE THE ARKANSAS CHILDREN AND TEENS' ONLINE PRIVACY
+PROTECTION ACT.
+______________________________________________________________________
+Amendment No. 2 to House Bill 1717
+Amend House Bill 1717 as engrossed S3/31/25 (version: 3/31/25 10:37:26 AM):
+Page 1, delete lines 35 and 36, and substitute the following:
+"(3) "Consent" means any reasonable effort, taking into
+consideration available technology and including without limitation a request
+for authorization for future collection, use, and disclosure described in the
+notice, to ensure that in the case of a teen, the parent of a teen or the
+teen:
+(A) Receives notice of the personal information
+collection, use, and disclosure practices of the operator; and
+(B) Before the personal information of the teen is
+collected, freely and unambiguously authorizes, including without limitation
+the giving of consent through an operator's terms of service or
+acknowledgement of the operator's privacy policy:
+(i) The collection, use, and disclosure, as
+applicable, of the teen's personal information; and
+(ii) Any subsequent use of the teen's personal
+information.
+(4)(A) "Disclosure" means making personal information that is
+collected from a child or teen by a website, online service, online
+application, or mobile application targeted toward children or teens or that
+is collected with actual knowledge the personal information from a child or
+teen publicly available in an identifiable form to a third party not
+affiliated with the operator.
+*.LJH280*
+LJH280 - 04-01-2025 10:15:06 Page 1 of 5
+
+(B) "Disclosure" does not include personal information
+provided to a person other than an operator who provides support for the
+internal operations of the website, online service, online application, or
+mobile application of the operator, including a processor;"
+AND
+Page 2, line 10, delete "(4)" and substitute "(5)"
+AND
+Page 2, line 16, delete "(5)" and substitute "(6)"
+AND
+Page 2, line 25, delete "(6)" and substitute "(7)"
+AND
+Page 2, line 28, delete "(7)" and substitute "(8)"
+AND
+Page 2, line 31, delete "(8)(A)(i)" and substitute "(9)(A)(i)"
+AND
+Page 3, line 17, delete "(9)" and substitute "(10)"
+AND
+Page 3, line 20, delete "(10)" and substitute "(11)"
+AND
+Page 3, line 22, delete "(11)(A)" and substitute "(12)(A)"
+LJH280 - 04-01-2025 10:15:06 Amendment No. 2 to House Bill 1717 Page 2 of 5
+
+AND
+Page 4, delete line 30, and substitute the following:
+"does not make any other use of the audio file before deletion;
+(13) "Processor" means a person that processes personal
+information on behalf of an operator;"
+Page 4, line 31, delete "(12)(A)" and substitute "(14)(A)"
+AND
+Page 5, line 25, delete "(13)(A)" and substitute "(15)(A)"
+AND
+Page 6, line 4, delete "(14)" and substitute "(15)"
+AND
+Page 6, delete lines 8 through 19, and substitute the following:
+"(17) "Third party" means a person, public authority, agency, or
+body other than the consumer, operator, processor, or an affiliate of the
+processor or the operator."
+AND
+Page 6, line 25, delete "directed to children" and substitute "directed at
+children or teens"
+AND
+Page 6, delete line 30, and substitute the following:
+"(B) Except as provided in subdivisions (a)(1)(C) and (D)
+of this section, to collect personal information from a child or teen"
+LJH280 - 04-01-2025 10:15:06 Amendment No. 2 to House Bill 1717 Page 3 of 5
+
+AND
+Page 6, line 33, delete "compile" and substitute "maintain"
+AND
+Page 7, line 29, delete "verifiable"
+AND
+Page 7, delete lines 30 through 34, and substitute the following:
+"disclosure of personal information from a teen from a parent of a teen or a
+teen, except when the processing is for:
+(A) Providing or maintaining the specific product or
+service requested by the teen;
+(B) Conducting the operator's internal business
+operations, including without limitation identifying and repairing technical
+errors that impair existing or intended functionality;
+(C) Protecting against malicious, fraudulent, or illegal
+activity or detecting, responding to, or preventing security incidents or
+threats;
+(D) Investigating, establishing, exercising, preparing
+for, or defending legal claims;
+(E) Complying with federal, state, or local laws, rules,
+or regulations;
+(F) Complying with a civil, criminal, or regulatory
+inquiry, investigation, subpoena, or a summons by federal, state, local, or
+other governmental authorities; or
+(G) Protecting the vital interests of a natural person;"
+AND
+Page 8, delete lines 1 through 15
+LJH280 - 04-01-2025 10:15:06 Amendment No. 2 to House Bill 1717 Page 4 of 5
+
+The Amendment was read the first time, rules suspended and read the second time and _______________________
+By: Senator J. Boyd
+LJH/LJH - 04-01-2025 10:15:06 _________________________
+LJH280 Secretary
+LJH280 - 04-01-2025 10:15:06 Amendment No. 2 to House Bill 1717 Page 5 of 5
+
+[DELETED:  PA   "  (  (   (   ( (]
+[DELETED:  P  (]
+[DELETED:  P ( "  "]
+[DELETED:  P  (  (  (  (  (  (  (]
+[DELETED:  P _ S]

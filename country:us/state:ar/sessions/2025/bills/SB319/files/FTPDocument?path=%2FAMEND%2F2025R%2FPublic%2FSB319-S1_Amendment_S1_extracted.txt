@@ -1,0 +1,110 @@
+Title: ______________________________________________________________________
+Official Title: ______________________________________________________________________
+Number of Sections: 1
+Source: versions - Amendment S1
+Media Type: application/pdf
+Strikethrough Detection: 2 sections found
+
+================================================================================
+
+Section 1:
+ARKANSAS SENATE
+95th General Assembly - Regular Session, 2025
+Amendment Form
+Subtitle of Senate Bill 319
+TO AMEND THE UNIFORM LIMITED LIABILITY COMPANY ACT; AND TO CLARIFY
+CHARGING ORDERS UNDER THE UNIFORM LIMITED LIABILITY COMPANY ACT.
+______________________________________________________________________
+Amendment No. 1 to Senate Bill 319
+Amend Senate Bill 319 as originally introduced:
+Page 3, delete lines 3 through 12, and substitute the following:
+"(d) This section:
+(1)(A) Is specific to a lien created by a charging order; or
+(2) Shall not:
+(A) Apply to a creditor's secured lien created under the
+Uniform Commercial Code; or
+(B) operate Operate to invalidate any provision of any
+written agreement between a member and a creditor, including without
+limitation a security agreement, assignment, pledge, hypothecation, or other
+instrument giving the creditor a security interest in, or assignment of, the
+transferable interest, where at the time the written agreement, security
+agreement, assignment, or other instrument was executed by the member and the
+creditor, the member's executing such written agreement, security agreement,
+assignment, or other instrument did not violate a provision of the limited
+liability company's certificate of organization or operating agreement."
+AND
+Page 3, delete lines 28 and 29, and substitute the following:
+"(3) Does not deprive a member of the benefit of any exemption
+applicable to his or her interest.
+(e) The entry of a charging order is the"
+*.ANS353*
+ANS353 - 03-10-2025 12:42:33 Page 1 of 2
+AND
+Page 3, line 32, delete "interest." and substitute "interest."
+AND
+Page 3, line 33, delete "(e)" and substitute "(f)"
+AND
+Page 4, line 1, delete "(f)" and substitute "(g)"
+AND
+Page 4, line 5, delete "(g)" and substitute "(h)"
+The Amendment was read the first time, rules suspended and read the second time and _______________________
+By: Senator J. Boyd
+ANS/ANS - 03-10-2025 12:42:34 _________________________
+ANS353 Secretary
+ANS353 - 03-10-2025 12:42:33 Amendment No. 1 to Senate Bill 319 Page 2 of 2
+[DELETED:  PA  " ( (  (  ("(]
+[DELETED:  P _ S]
+
+
+================================================================================
+
+Raw Text:
+ARKANSAS SENATE
+95th General Assembly - Regular Session, 2025
+Amendment Form
+______________________________________________________________________
+Subtitle of Senate Bill 319
+TO AMEND THE UNIFORM LIMITED LIABILITY COMPANY ACT; AND TO CLARIFY
+CHARGING ORDERS UNDER THE UNIFORM LIMITED LIABILITY COMPANY ACT.
+______________________________________________________________________
+Amendment No. 1 to Senate Bill 319
+Amend Senate Bill 319 as originally introduced:
+Page 3, delete lines 3 through 12, and substitute the following:
+"(d) This section:
+(1)(A) Is specific to a lien created by a charging order; or
+(2) Shall not:
+(A) Apply to a creditor's secured lien created under the
+Uniform Commercial Code; or
+(B) operate Operate to invalidate any provision of any
+written agreement between a member and a creditor, including without
+limitation a security agreement, assignment, pledge, hypothecation, or other
+instrument giving the creditor a security interest in, or assignment of, the
+transferable interest, where at the time the written agreement, security
+agreement, assignment, or other instrument was executed by the member and the
+creditor, the member's executing such written agreement, security agreement,
+assignment, or other instrument did not violate a provision of the limited
+liability company's certificate of organization or operating agreement."
+AND
+Page 3, delete lines 28 and 29, and substitute the following:
+"(3) Does not deprive a member of the benefit of any exemption
+applicable to his or her interest.
+(e) The entry of a charging order is the"
+*.ANS353*
+ANS353 - 03-10-2025 12:42:33 Page 1 of 2
+
+AND
+Page 3, line 32, delete "interest." and substitute "interest."
+AND
+Page 3, line 33, delete "(e)" and substitute "(f)"
+AND
+Page 4, line 1, delete "(f)" and substitute "(g)"
+AND
+Page 4, line 5, delete "(g)" and substitute "(h)"
+The Amendment was read the first time, rules suspended and read the second time and _______________________
+By: Senator J. Boyd
+ANS/ANS - 03-10-2025 12:42:34 _________________________
+ANS353 Secretary
+ANS353 - 03-10-2025 12:42:33 Amendment No. 1 to Senate Bill 319 Page 2 of 2
+
+[DELETED:  PA  " ( (  (  ("(]
+[DELETED:  P _ S]

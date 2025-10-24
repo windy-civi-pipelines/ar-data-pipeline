@@ -1,0 +1,259 @@
+Title: Stricken language would be deleted from and underlined language would be added to present law.
+Official Title: Stricken language would be deleted from and underlined language would be added to present law.
+Number of Sections: 1
+Source: versions - SB 468
+Media Type: application/pdf
+Strikethrough Detection: 3 sections found
+
+================================================================================
+
+Section 1:
+1 State of Arkansas As Engrossed: S4/7/25
+A Bill
+2 95th General Assembly
+3 Regular Session, 2025 SENATE BILL 468
+4
+5 By: Senators C. Penzo, B. King
+6 By: Representatives Duffield, Pilkington
+7
+For An Act To Be Entitled
+8
+9 AN ACT TO AMEND THE LAW CONCERNING FLUORIDATION OF A
+10 PUBLIC WATER SYSTEM; TO ALLOWS VOTERS TO ELECT "FOR"
+11 OR "AGAINST" WATER FLUORIDATION IN THE COUNTY; AND
+12 FOR OTHER PURPOSES.
+13
+14
+Subtitle
+15
+16 TO AMEND THE LAW CONCERNING FLUORIDATION
+17 OF A PUBLIC WATER SYSTEM; AND TO ALLOWS
+18 VOTERS TO ELECT "FOR" OR "AGAINST" WATER
+19 FLUORIDATION IN THE COUNTY.
+20
+21 BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF ARKANSAS:
+22
+23 SECTION 1. Arkansas Code Title 14, Chapter 116, Subchapter 1, is
+24 amended to add an additional section to read as follows:
+25 14-116-108. Election for fluoridation of water — Definition.
+26 (a) Residents of counties supplied by a public water system shall have
+27 the option to hold an election of the qualified electors of each county
+28 supplied by the public water system to determine whether or not the public
+29 water system shall fluoridate the water.
+30 (b)(1) An election under this section may be called by:
+31 (A) A petition for each county supplied by the public
+32 water system signed by no less than five percent (5%) of the total number of
+33 votes cast within the county for the office of circuit clerk in the last
+34 election; or
+35 (B) A majority vote of the quorum court of each county
+36 supplied by the public water system.
+*SSS257*
+04-07-2025 15:51:26 SSS257
+As Engrossed: S4/7/25 SB468
+1 (2)(A) Except as provided under subdivision (b)(2)(B) of this
+2 section, an election under this section shall be held at the next general
+3 election.
+4 (B) A subsequent election in the public water system under
+5 this section shall not be held earlier than four (4) years after an election
+6 is held under this section.
+7 (3) Except as provided in this section, the election under this
+8 section shall be held and conducted in accordance with the general election
+9 laws of this state.
+10 (4) The question of whether to fluoridate the water in the
+11 public water system shall be placed upon the ballots of the qualified
+12 electors in the following form:
+13 "___ FOR THE FLUORIDATION OF WATER IN [NAME OF COUNTY]
+14 ___ AGAINST THE FLUORIDATION OF WATER IN [NAME OF
+15 COUNTY].".
+16 (c)(1) The petition under this section shall be filed with the county
+17 clerk of the county where the sponsor of the petition resides no less than
+18 one hundred twenty (120) days before the general election.
+19 (2) No more than ten (10) days after the filing of the petition
+20 under subdivision (c)(1) of this section, the county clerk shall:
+21 (A) Verify the petition;
+22 (B) Certify the petition; and
+23 (C) Notify the county boards of election commissioners for
+24 the counties within the public water system and the board of directors of the
+25 public water system of the verification and certification of the petition.
+26 (3) The petition shall clearly state:
+27 (A) Which county is served by the public water system; and
+28 (B) That the petition is to elect "for" or "against"
+29 fluoridation of the water in the public water system.
+30 (d) If the petition is sufficient, the question of whether to
+31 fluoridate the water in the county shall be placed on the ballot of the
+32 county indicated on the petition.
+33 (e) If the majority of the qualified electors in each of the counties
+34 supplied by the public water system elect to prohibit fluoridation of water,
+35 the public water system shall cease fluoridation of the water within thirty
+36 (30) days of the certification of the election results.
+2 04-07-2025 15:51:26 SSS257
+As Engrossed: S4/7/25 SB468
+1 (f) As used in this section, "public water system" means a facility,
+2 including without limitation a parent system, consecutive system, or other
+3 system, that holds, treats, and supplies water directly or through a
+4 consecutive system or consecutive systems to five thousand (5,000) persons or
+5 more.
+6
+7 SECTION 2. Arkansas Code § 20-7-136(b), concerning a statewide
+8 fluoridation program, is amended to read as follows:
+9 (b)(1) The Except as provided in subdivision (b)(2) of this section,
+10 the company, corporation, municipality, county, government agency, or other
+11 entity that owns or controls a water system shall control the quantity of
+12 fluoride in the water so as to maintain a fluoride content established by the
+13 Department of Health.
+14 (2)(A) Except as provided in subdivision (b)(2)(B) of this
+15 section, the board of a public water system may elect to prohibit
+16 fluoridation of the water it supplies.
+17 (B) The results of an election under § 14-16-108 shall
+18 supersede any decision of the board of a public water system regarding the
+19 fluoridation of the water it supplies.
+20
+21 /s/C. Penzo
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+3 04-07-2025 15:51:26 SSS257
+[DELETED:  A       A P O F   T O V F  B   S a  1  ( t s w  (    ( w v e    ( s]
+[DELETED:  S2 0   ( s e    ( t i   ( s l   ( p e    "    _ C  ( c o   ( u    (    (    ( t p   (    (    ( f  ( f c  ( s t (]
+[DELETED:  S3 0  ( i s c m   S f  ( t e f D   ( s f    ( s f  /               ]
+
+
+================================================================================
+
+Raw Text:
+Stricken language would be deleted from and underlined language would be added to present law.
+1 State of Arkansas As Engrossed: S4/7/25
+A Bill
+2 95th General Assembly
+3 Regular Session, 2025 SENATE BILL 468
+4
+5 By: Senators C. Penzo, B. King
+6 By: Representatives Duffield, Pilkington
+7
+For An Act To Be Entitled
+8
+9 AN ACT TO AMEND THE LAW CONCERNING FLUORIDATION OF A
+10 PUBLIC WATER SYSTEM; TO ALLOWS VOTERS TO ELECT "FOR"
+11 OR "AGAINST" WATER FLUORIDATION IN THE COUNTY; AND
+12 FOR OTHER PURPOSES.
+13
+14
+Subtitle
+15
+16 TO AMEND THE LAW CONCERNING FLUORIDATION
+17 OF A PUBLIC WATER SYSTEM; AND TO ALLOWS
+18 VOTERS TO ELECT "FOR" OR "AGAINST" WATER
+19 FLUORIDATION IN THE COUNTY.
+20
+21 BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF ARKANSAS:
+22
+23 SECTION 1. Arkansas Code Title 14, Chapter 116, Subchapter 1, is
+24 amended to add an additional section to read as follows:
+25 14-116-108. Election for fluoridation of water — Definition.
+26 (a) Residents of counties supplied by a public water system shall have
+27 the option to hold an election of the qualified electors of each county
+28 supplied by the public water system to determine whether or not the public
+29 water system shall fluoridate the water.
+30 (b)(1) An election under this section may be called by:
+31 (A) A petition for each county supplied by the public
+32 water system signed by no less than five percent (5%) of the total number of
+33 votes cast within the county for the office of circuit clerk in the last
+34 election; or
+35 (B) A majority vote of the quorum court of each county
+36 supplied by the public water system.
+*SSS257*
+04-07-2025 15:51:26 SSS257
+
+As Engrossed: S4/7/25 SB468
+1 (2)(A) Except as provided under subdivision (b)(2)(B) of this
+2 section, an election under this section shall be held at the next general
+3 election.
+4 (B) A subsequent election in the public water system under
+5 this section shall not be held earlier than four (4) years after an election
+6 is held under this section.
+7 (3) Except as provided in this section, the election under this
+8 section shall be held and conducted in accordance with the general election
+9 laws of this state.
+10 (4) The question of whether to fluoridate the water in the
+11 public water system shall be placed upon the ballots of the qualified
+12 electors in the following form:
+13 "___ FOR THE FLUORIDATION OF WATER IN [NAME OF COUNTY]
+14 ___ AGAINST THE FLUORIDATION OF WATER IN [NAME OF
+15 COUNTY].".
+16 (c)(1) The petition under this section shall be filed with the county
+17 clerk of the county where the sponsor of the petition resides no less than
+18 one hundred twenty (120) days before the general election.
+19 (2) No more than ten (10) days after the filing of the petition
+20 under subdivision (c)(1) of this section, the county clerk shall:
+21 (A) Verify the petition;
+22 (B) Certify the petition; and
+23 (C) Notify the county boards of election commissioners for
+24 the counties within the public water system and the board of directors of the
+25 public water system of the verification and certification of the petition.
+26 (3) The petition shall clearly state:
+27 (A) Which county is served by the public water system; and
+28 (B) That the petition is to elect "for" or "against"
+29 fluoridation of the water in the public water system.
+30 (d) If the petition is sufficient, the question of whether to
+31 fluoridate the water in the county shall be placed on the ballot of the
+32 county indicated on the petition.
+33 (e) If the majority of the qualified electors in each of the counties
+34 supplied by the public water system elect to prohibit fluoridation of water,
+35 the public water system shall cease fluoridation of the water within thirty
+36 (30) days of the certification of the election results.
+2 04-07-2025 15:51:26 SSS257
+
+As Engrossed: S4/7/25 SB468
+1 (f) As used in this section, "public water system" means a facility,
+2 including without limitation a parent system, consecutive system, or other
+3 system, that holds, treats, and supplies water directly or through a
+4 consecutive system or consecutive systems to five thousand (5,000) persons or
+5 more.
+6
+7 SECTION 2. Arkansas Code § 20-7-136(b), concerning a statewide
+8 fluoridation program, is amended to read as follows:
+9 (b)(1) The Except as provided in subdivision (b)(2) of this section,
+10 the company, corporation, municipality, county, government agency, or other
+11 entity that owns or controls a water system shall control the quantity of
+12 fluoride in the water so as to maintain a fluoride content established by the
+13 Department of Health.
+14 (2)(A) Except as provided in subdivision (b)(2)(B) of this
+15 section, the board of a public water system may elect to prohibit
+16 fluoridation of the water it supplies.
+17 (B) The results of an election under § 14-16-108 shall
+18 supersede any decision of the board of a public water system regarding the
+19 fluoridation of the water it supplies.
+20
+21 /s/C. Penzo
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+3 04-07-2025 15:51:26 SSS257
+
+[DELETED:  A       A P O F   T O V F  B   S a  1  ( t s w  (    ( w v e    ( s]
+[DELETED:  S2 0   ( s e    ( t i   ( s l   ( p e    "    _ C  ( c o   ( u    (    (    ( t p   (    (    ( f  ( f c  ( s t (]
+[DELETED:  S3 0  ( i s c m   S f  ( t e f D   ( s f    ( s f  /               ]

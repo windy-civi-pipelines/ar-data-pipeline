@@ -1,0 +1,812 @@
+Title: Stricken language would be deleted from and underlined language would be added to present law.
+Official Title: Stricken language would be deleted from and underlined language would be added to present law.
+Number of Sections: 1
+Source: versions - HB 1035
+Media Type: application/pdf
+Strikethrough Detection: 10 sections found
+
+================================================================================
+
+Section 1:
+1 State of Arkansas As Engrossed: H1/16/25 H1/23/25
+A Bill
+2 95th General Assembly
+3 Regular Session, 2025 HOUSE BILL 1035
+4
+5 By: Representatives A. Collins, D. Garner, T. Shephard, Springer, Gonzales Worthen, Barnett
+6
+7
+For An Act To Be Entitled
+8
+9 AN ACT TO CREATE THE ONLINE VOTER REGISTRATION ACT OF
+10 2025; TO ALLOW ONLINE VOTER REGISTRATION; TO AMEND
+11 ARKANSAS CONSTITUTION, AMENDMENT 51; TO AMEND THE
+12 DUTIES OF THE SECRETARY OF STATE; AND FOR OTHER
+13 PURPOSES.
+14
+15
+Subtitle
+16
+17 TO CREATE THE ONLINE VOTER REGISTRATION
+18 ACT OF 2025; TO ALLOW ONLINE VOTER
+19 REGISTRATION; TO AMEND ARKANSAS
+20 CONSTITUTION, AMENDMENT 51; AND TO AMEND
+21 THE DUTIES OF THE SECRETARY OF STATE.
+22
+23 BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF ARKANSAS:
+24
+25 SECTION 1. DO NOT CODIFY. Title.
+26 This act shall be known and may be cited as "The Online Voter
+27 Registration Act of 2025".
+28
+29 SECTION 2. Arkansas Constitution, Amendment 51, § 5(b)(1), concerning
+30 the duties of voter registration officials, is amended to read as follows:
+31 (b)(1)(A) The Secretary of State is designated as the chief election
+32 official. The Secretary of State shall prepare and distribute the pre-
+33 addressed postcard mail voter registration application forms described in 51-
+34 6 of this amendment. Mail voter registration application forms shall serve
+35 for purposes of initial applications to register and shall also serve for
+36 changes of name, address, or party affiliation. Bilingual (Spanish/English)
+*SSS011*
+01-23-2025 09:40:55 SSS011
+As Engrossed: H1/16/25 H1/23/25 HB1035
+1 forms, braille forms, and large print forms shall be available upon request.
+2 The Secretary of State shall make the state mail voter registration
+3 application form available for distribution through governmental and private
+4 entities with particular emphasis on making them available for organized
+5 voter registration programs. Any person may distribute state registration
+6 cards. All registration cards shall be distributed to the public without
+7 charge.
+8 (B)(i) The Secretary of State shall prepare and administer
+9 online voter registration application forms.
+10 (ii) Online voter registration application forms may
+11 serve for purposes of initial applications to register and may serve for
+12 changes of name, address, or party affiliation.
+13 (iii) The system used to access the online voter
+14 registration application forms shall be accessible without charge.
+15
+16 SECTION 3. Arkansas Constitution, Amendment 51, § 5(e), concerning the
+17 duties of registration officials, is amended to add an additional subdivision
+18 to read as follows:
+19 (f)(1) The Secretary of State may promulgate rules including detailed
+20 specifications for the online voter registration application forms, and the
+21 security measures for the protection of the voter registration applicant
+22 information and the voter registration list.
+23 (2) A rule promulgated under subdivision (f)(1) of this section
+24 shall:
+25 (A) Be consistent with this amendment and the laws passed
+26 by the General Assembly;
+27 (B) Be of uniform application across the state; and
+28 (C) Follow the procedure for review and approval by the
+29 General Assembly under the Arkansas Administrative Procedure Act, § 25-15-201
+30 et seq.
+31 (3) The Secretary of State shall not promulgate an emergency
+32 rule under this subsection (f) and under the Arkansas Administrative
+33 Procedure Act, § 25-15-201 et seq., within one hundred eighty (180) days of a
+34 federal election unless approved by the General Assembly or if the General
+35 Assembly is not in session, by the Legislative Council.
+36
+2 01-23-2025 09:40:55 SSS011
+As Engrossed: H1/16/25 H1/23/25 HB1035
+1 SECTION 4. Arkansas Constitution, Amendment 51, § 6(a)(1), concerning
+2 statements included on the mail voter registration application form, is
+3 amended to read as follows:
+4 (a)(1) The mail voter registration application form and the online
+5 voter registration application form may only require identifying information,
+6 including a physical signature or mark, an electronic signature or mark, and
+7 other information, including data relating to previous registration by the
+8 applicant, as is necessary to assess the applicant's eligibility and to
+9 administer voter registration and other parts of the election process.
+10
+11 SECTION 5. Arkansas Constitution, Amendment 51, § 6(a)(3)(F),
+12 concerning statements included on the mail voter registration application
+13 form, is amended to read as follows:
+14 (F) A physical signature or mark or an electronic
+15 signature or mark made under penalty of perjury that the applicant meets each
+16 requirement for voter registration;
+17
+18 SECTION 6. Arkansas Constitution, Amendment 51, § 6(a)(4), concerning
+19 statements included on the mail voter registration application form, is
+20 amended to read as follows:
+21 (4) The following information may be requested on the
+22 registration card or online voter registration application form, but it shall
+23 not be required:
+24 (A) Telephone number where the applicant may be contacted;
+25 and
+26 (B) Political party with which the applicant wishes to be
+27 affiliated, if any.
+28
+29 SECTION 7. Arkansas Constitution, Amendment 51, § 6(a)(5), concerning
+30 statements included on the mail voter registration application form, is
+31 amended to read as follows:
+32 (5) The mail voter registration application form or the online
+33 voter registration application form shall not include any a requirement for
+34 notarization or other formal authentication.
+35
+36 SECTION 8. Arkansas Constitution, Amendment 51, § 6(a)(6), concerning
+3 01-23-2025 09:40:55 SSS011
+As Engrossed: H1/16/25 H1/23/25 HB1035
+1 statements included on the mail voter registration application form, is
+2 amended to read as follows:
+3 (6) The mail voter registration application form and the online
+4 voter registration application form shall include the following questions
+5 along with boxes or other means for the applicant to check “yes” or “no” in
+6 response:
+7 (A) “Are you a citizen of the United States of America
+8 and an Arkansas resident?”;
+9 (B) “Will you be eighteen (18) years of age on or before
+10 election day?”;
+11 (C) “Are you presently adjudged mentally incompetent by a
+12 court of competent jurisdiction?”; and
+13 (D) “Have you ever been convicted of a felony without
+14 your sentence having been discharged or pardoned?”.
+15
+16 SECTION 9. Arkansas Constitution, Amendment 51, § 6(a)(7), concerning
+17 statements included on the mail voter registration application form, is
+18 amended to read as follows:
+19 (7) The mail voter registration application form and the online
+20 voter registration application form shall include the following statements
+21 immediately following the questions asked in subdivision (a)(6) of this
+22 section:
+23 (A) “If you checked ‘No’ in response to either questions A
+24 or B, do not complete this form.”;
+25 (B) “If you checked ‘Yes’ in response to either questions
+26 C or D, do not complete this form.”; and
+27 (C) The mail-in voter registration application form and
+28 the online voter registration application form shall include the following
+29 statement:
+30 “If your voter registration application form is
+31 submitted by mail or online and you are registering for the first time, and
+32 you do not have a valid driver's license number or Social Security number, in
+33 order to avoid the additional identification requirements upon voting for the
+34 first time you must submit with the mailed voter registration application
+35 form: (a) a current and valid photo identification; or (b) a copy of a
+36 current utility bill, bank statement, government check, paycheck, or other
+4 01-23-2025 09:40:55 SSS011
+As Engrossed: H1/16/25 H1/23/25 HB1035
+1 government document that shows your name and address.”
+2
+3 SECTION 10. Arkansas Constitution, Amendment 51, § 8(a)(2), concerning
+4 voter registration application records and reports, is amended to read as
+5 follows:
+6 (2) The Secretary of State shall transmit all mail voter
+7 registration applications application forms and online voter registration
+8 application forms to the appropriate permanent registrar no later than ten
+9 (10) days after the date of receipt. When applications mail voter
+10 registration application forms and online voter registration application
+11 forms are received within five (5) days before the last day of registration
+12 for an election, they must be transmitted no later than five (5) days after
+13 date of receipt. If mail voter registration application forms and online
+14 voter registration application forms are received by the wrong election
+15 office, they shall be forwarded to the appropriate permanent registrar not
+16 later than the fifth day after receipt.
+17
+18 SECTION 11. Arkansas Constitution, Amendment 51, § 8(c)(1), concerning
+19 voter registration application records and reports, is amended to read as
+20 follows:
+21 (c)(1) The Secretary of State shall collect, maintain, and publish
+22 monthly statistical data reflecting the number of new voter registration
+23 applications, changes of address, name, and party affiliation, and
+24 declinations received by mail, electronically, and in:
+25 (A) state State revenue offices;
+26 (B) public Public assistance agencies;
+27 (C) disabilities Disabilities agencies;
+28 (D) recruitment Recruitment offices of the Armed Forces of
+29 the United States United States Armed Forces;
+30 (E) public Public libraries; and
+31 (F) offices Offices of the Arkansas National Guard.
+32
+33 SECTION 12. Arkansas Constitution, Amendment 51, § 9(c), concerning
+34 the application to register to vote, is amended to add an additional
+35 subdivision to read as follows:
+36 (4) The permanent registrar shall register qualified applicants
+5 01-23-2025 09:40:55 SSS011
+As Engrossed: H1/16/25 H1/23/25 HB1035
+1 who apply to register to vote by using an online voter registration
+2 application form if:
+3 (A) The online voter registration application form is
+4 submitted no later than thirty (30) days before the date of the election; and
+5 (B) The applicant for online voter registration provides a
+6 current valid driver's license number or the last four (4) digits of the
+7 applicant's Social Security number.
+8
+9 SECTION 13. Arkansas Constitution, Amendment 51, § 10(a), concerning
+10 the transfer and change of status for a registered voter, is amended to read
+11 as follows:
+12 (a) Upon a change of legal residence within the county, or a change of
+13 name, any registered voter may cause his or her registration to be
+14 transferred to his or her new address or new name by completing and mailing a
+15 federal or state mail voter registration application form, by completing an
+16 online voter registration application form, by updating his or her address at
+17 the Office of Driver Services, any state revenue office, public assistance
+18 agency, disabilities agency, or other voter registration agency, by signing a
+19 mailed request to the permanent registrar, giving his or her present address
+20 and the address at which he or she was last registered or his or her present
+21 name and the name under which he or she was last registered, or by applying
+22 in person at the office of the permanent registrar.
+23
+24 SECTION 14. Arkansas Constitution, Amendment 51, § 10(b)(1),
+25 concerning the transfer and change of status for a registered voter, is
+26 amended to add an additional subdivision to read as follows:
+27 (b)(1) Upon a change of legal residence from one (1) county within the
+28 state to another county within the state, any registered voter may cause his
+29 or her registration to be transferred to the new county at his or her new
+30 address by:
+31 (A) Completing and mailing a federal or state mail voter
+32 registration application form;
+33 (B) Updating his or her new address at a voter
+34 registration agency, including without limitation the Office of Driver
+35 Services or a state revenue office, public assistance agency, or disabilities
+36 agency;
+6 01-23-2025 09:40:55 SSS011
+As Engrossed: H1/16/25 H1/23/25 HB1035
+1 (C) Signing a mailed request to the permanent registrar
+2 giving the voter's present address and the address at which the voter was
+3 last registered; or
+4 (D) Applying in person for the transfer at the office of
+5 the permanent registrar. ; or
+6 (E) Completing an online voter registration application
+7 form.
+8
+9 SECTION 15. Arkansas Code § 7-5-201(e)(1), concerning voter
+10 qualification, is amended to read as follows:
+11 (e)(1) A person registering to vote by mail or by an online voter
+12 registration application form and who has not previously voted in a federal
+13 election in this state shall:
+14 (A) Present to the election official a current and valid
+15 photo identification or a copy of a current utility bill, bank statement,
+16 government check, paycheck, or other government document that shows the name
+17 and address of the voter when appearing to vote in person either early or at
+18 the polls on election day; or
+19 (B) When voting by mail, submit with the ballot a copy of
+20 a current and valid photo identification or a copy of a current utility bill,
+21 bank statement, government check, paycheck, or other government document that
+22 shows the name and address of the voter.
+23
+24 SECTION 16. Arkansas Code § 7-5-201(e)(3)(E) and (F), concerning voter
+25 qualification, are amended to read as follows:
+26 (E) Persons who register to vote by mail or by an online
+27 voter registration application form and submit as part of the registration
+28 any of the identification documents listed in subdivision (e)(1) of this
+29 section; or
+30 (F) Persons who register to vote by mail or by an online
+31 voter registration application form and submit with the registration either a
+32 driver's license number or at least the last four (4) digits of the
+33 individual's Social Security number and with respect to whom a state or local
+34 election official matches the license number or Social Security number with
+35 an existing state identification record bearing the same number, name, and
+36 date of birth as provided in the registration.
+7 01-23-2025 09:40:55 SSS011
+As Engrossed: H1/16/25 H1/23/25 HB1035
+1
+2 SECTION 17. Arkansas Code § 7-5-305(a)(8)(B)(iii), concerning first-
+3 time voter identification, is amended to read as follows:
+4 (iii) A first-time voter who registers by mail or by
+5 an online voter registration application form without providing
+6 identification when registering and desires to vote in person but who does
+7 not meet the identification requirements of § 7-5-201(e) may cast a
+8 provisional ballot.
+9
+10 SECTION 18. Arkansas Code Title 7, Chapter 5, Subchapter 3, is amended
+11 to add an additional section to read as follows:
+12 7-5-325. Online voter registration.
+13 (a) The Secretary of State shall establish and maintain a secure
+14 online voter registration system.
+15 (b) The online voter registration system shall allow:
+16 (1) The submission of an online voter registration application
+17 form meeting the requirements established in Arkansas Constitution, Amendment
+18 51, § 6; and
+19 (2) A voter registration to be completed using the online voter
+20 registration system and after completion on the online voter registration
+21 system, to be included on the voter registration list.
+22 (c) The Secretary of State shall:
+23 (1) Employ security measures the Secretary of State determines
+24 to be necessary to ensure the integrity, accuracy, and security of the online
+25 voter registration system; and
+26 (2) Establish and implement a process for the verification of
+27 address information submitted by a person registering to vote, or a
+28 registered voter updating his or her address when:
+29 (A) Using the online voter registration application form;
+30 (B) Providing address information to a state agency
+31 charged with voter registration address information; or
+32 (C) Using a state mail voter registration application
+33 form.
+34 (d) Each person using the online voter registration system shall be
+35 informed as to whether:
+36 (1) The online voter registration application form has been
+8 01-23-2025 09:40:55 SSS011
+As Engrossed: H1/16/25 H1/23/25 HB1035
+1 successfully submitted and is pending approval; or
+2 (2) The online voter registration system encountered an error in
+3 processing the online voter registration application form and the online
+4 voter registration application form was not successfully submitted.
+5 (e)(1) The Secretary of State shall promulgate rules necessary to
+6 implement the requirements under this section under the Arkansas
+7 Administrative Procedure Act, § 25-15-201 et seq.
+8 (2) The Secretary of State shall not promulgate emergency rules
+9 necessary to implement this section under the Arkansas Administrative
+10 Procedure Act, § 25-15-201 et seq., within one hundred eighty (180) days of a
+11 federal election unless approved by the General Assembly or if the General
+12 Assembly is not in session, by the Legislative Council.
+13
+14 SECTION 19. Arkansas Code § 7-5-412(a)(2)(B) concerning identification
+15 for absentee ballots, is amended to read as follows:
+16 (B) A copy of a current and valid photographic
+17 identification or a copy of a current utility bill, bank statement,
+18 government check, paycheck, or other government document that shows the name
+19 and address of the first-time voter, for first-time voters who registered by
+20 mail or by an online voter registration application form. However, this
+21 requirement does not apply if:
+22 (i) The voter registered to vote by mail or by an
+23 online voter registration application form and provided the identification at
+24 that time; or
+25 (ii) The first-time voter registered to vote by mail
+26 or by an online voter registration application form and submitted his or her
+27 driver's license number or at least the last four (4) digits of his or her
+28 Social Security number at the time and this information matches the
+29 information in an existing state identification record bearing the same
+30 number, name, and date of birth as provided in the registration.
+31
+32 SECTION 20. Arkansas Code § 7-5-416(b)(1)(F), concerning the counting
+33 of absentee ballots, is amended to read as follows:
+34 (F)(i) After the election official reads aloud from the
+35 statement, the election officials shall compare the name, address, date of
+36 birth, and signature of the voter's absentee application with the voter's
+9 01-23-2025 09:40:55 SSS011
+As Engrossed: H1/16/25 H1/23/25 HB1035
+1 statement and,:
+2 (a) for For first-time voters who registered
+3 by mail, the first-time voter's identification document unless the voter
+4 previously provided identification at the time of mailing the voter
+5 registration application.; or
+6 (b) For first-time voters who registered using
+7 an online voter registration application form, the first-time voter's
+8 identification document unless the voter previously provided identification
+9 at the time of electronically registering using an online voter registration
+10 application form.
+11 (ii) If the county board of election commissioners
+12 determines that the absentee application and the voter's statement do not
+13 compare as to name, residential voting address, date of birth, and signature,
+14 the absentee ballot shall not be counted.
+15 (iii) If a first-time voter fails to provide the
+16 required identification with the absentee ballot or at the time of mailing
+17 the voter registration application, or at the time of registration using an
+18 online voter registration application form, then the absentee application,
+19 absentee ballot envelope, and voter's statement shall be placed in an
+20 envelope marked “provisional” and the absentee ballot shall be considered a
+21 provisional ballot;
+22
+23 SECTION 21. EFFECTIVE DATE. This act shall become effective on and
+24 after January 1, 2026.
+25
+26 /s/A. Collins
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+10 01-23-2025 09:40:55 SSS011
+[DELETED:  A       A 2 A D P   T A R C T  B   S  T R   S t  ( o a 6 f c]
+[DELETED:  H2 0 f T a e v c c    ( o     ( s c     ( r   S d t  ( s s i   ( s    ( b    (    ( G e   ( r P f A ]
+[DELETED:  H3 0  S s a  ( v i o a a     S c f    ( s r      S s a   ( r n    ( a    ( a   S s a     v n   S]
+[DELETED:  H4 0 s a     v a r      a      e      c      y   S s a   ( v i s    ( o    ( C    ( t s     “ s y o f f c]
+[DELETED:  H5 0 g   S v f   ( r a ( r f f d v o l   S v f  ( m a d    (    (    (    ( t    (    (   S t s   (]
+[DELETED:  H6 0 w a    ( s    ( c a   S t a  ( n t f o t a m a n i   S c a  ( s o a    ( r    ( r S a]
+[DELETED:  H7 0    ( g l    ( t    ( f   S q  ( r e    ( p g a t    ( a b s   S q    ( v a s    ( v d i e a d]
+[DELETED:  H8 0   S t     ( a i n p   S t  7  ( o  (   ( f 5   ( r s  (   ( t v   ( a r    (    ( c    ( f  ( i   (]
+[DELETED:  H9 0 s   ( p v  ( i A   ( n P f A   S f    ( i g a m r     ( o t     ( o d S i n   S o    ( s b]
+[DELETED:  H1 0 s      ( b p r      ( a i a a     ( d c t     ( r t o a e p   S a  /          ]
+
+
+================================================================================
+
+Raw Text:
+Stricken language would be deleted from and underlined language would be added to present law.
+1 State of Arkansas As Engrossed: H1/16/25 H1/23/25
+A Bill
+2 95th General Assembly
+3 Regular Session, 2025 HOUSE BILL 1035
+4
+5 By: Representatives A. Collins, D. Garner, T. Shephard, Springer, Gonzales Worthen, Barnett
+6
+7
+For An Act To Be Entitled
+8
+9 AN ACT TO CREATE THE ONLINE VOTER REGISTRATION ACT OF
+10 2025; TO ALLOW ONLINE VOTER REGISTRATION; TO AMEND
+11 ARKANSAS CONSTITUTION, AMENDMENT 51; TO AMEND THE
+12 DUTIES OF THE SECRETARY OF STATE; AND FOR OTHER
+13 PURPOSES.
+14
+15
+Subtitle
+16
+17 TO CREATE THE ONLINE VOTER REGISTRATION
+18 ACT OF 2025; TO ALLOW ONLINE VOTER
+19 REGISTRATION; TO AMEND ARKANSAS
+20 CONSTITUTION, AMENDMENT 51; AND TO AMEND
+21 THE DUTIES OF THE SECRETARY OF STATE.
+22
+23 BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF ARKANSAS:
+24
+25 SECTION 1. DO NOT CODIFY. Title.
+26 This act shall be known and may be cited as "The Online Voter
+27 Registration Act of 2025".
+28
+29 SECTION 2. Arkansas Constitution, Amendment 51, § 5(b)(1), concerning
+30 the duties of voter registration officials, is amended to read as follows:
+31 (b)(1)(A) The Secretary of State is designated as the chief election
+32 official. The Secretary of State shall prepare and distribute the pre-
+33 addressed postcard mail voter registration application forms described in 51-
+34 6 of this amendment. Mail voter registration application forms shall serve
+35 for purposes of initial applications to register and shall also serve for
+36 changes of name, address, or party affiliation. Bilingual (Spanish/English)
+*SSS011*
+01-23-2025 09:40:55 SSS011
+
+As Engrossed: H1/16/25 H1/23/25 HB1035
+1 forms, braille forms, and large print forms shall be available upon request.
+2 The Secretary of State shall make the state mail voter registration
+3 application form available for distribution through governmental and private
+4 entities with particular emphasis on making them available for organized
+5 voter registration programs. Any person may distribute state registration
+6 cards. All registration cards shall be distributed to the public without
+7 charge.
+8 (B)(i) The Secretary of State shall prepare and administer
+9 online voter registration application forms.
+10 (ii) Online voter registration application forms may
+11 serve for purposes of initial applications to register and may serve for
+12 changes of name, address, or party affiliation.
+13 (iii) The system used to access the online voter
+14 registration application forms shall be accessible without charge.
+15
+16 SECTION 3. Arkansas Constitution, Amendment 51, § 5(e), concerning the
+17 duties of registration officials, is amended to add an additional subdivision
+18 to read as follows:
+19 (f)(1) The Secretary of State may promulgate rules including detailed
+20 specifications for the online voter registration application forms, and the
+21 security measures for the protection of the voter registration applicant
+22 information and the voter registration list.
+23 (2) A rule promulgated under subdivision (f)(1) of this section
+24 shall:
+25 (A) Be consistent with this amendment and the laws passed
+26 by the General Assembly;
+27 (B) Be of uniform application across the state; and
+28 (C) Follow the procedure for review and approval by the
+29 General Assembly under the Arkansas Administrative Procedure Act, § 25-15-201
+30 et seq.
+31 (3) The Secretary of State shall not promulgate an emergency
+32 rule under this subsection (f) and under the Arkansas Administrative
+33 Procedure Act, § 25-15-201 et seq., within one hundred eighty (180) days of a
+34 federal election unless approved by the General Assembly or if the General
+35 Assembly is not in session, by the Legislative Council.
+36
+2 01-23-2025 09:40:55 SSS011
+
+As Engrossed: H1/16/25 H1/23/25 HB1035
+1 SECTION 4. Arkansas Constitution, Amendment 51, § 6(a)(1), concerning
+2 statements included on the mail voter registration application form, is
+3 amended to read as follows:
+4 (a)(1) The mail voter registration application form and the online
+5 voter registration application form may only require identifying information,
+6 including a physical signature or mark, an electronic signature or mark, and
+7 other information, including data relating to previous registration by the
+8 applicant, as is necessary to assess the applicant's eligibility and to
+9 administer voter registration and other parts of the election process.
+10
+11 SECTION 5. Arkansas Constitution, Amendment 51, § 6(a)(3)(F),
+12 concerning statements included on the mail voter registration application
+13 form, is amended to read as follows:
+14 (F) A physical signature or mark or an electronic
+15 signature or mark made under penalty of perjury that the applicant meets each
+16 requirement for voter registration;
+17
+18 SECTION 6. Arkansas Constitution, Amendment 51, § 6(a)(4), concerning
+19 statements included on the mail voter registration application form, is
+20 amended to read as follows:
+21 (4) The following information may be requested on the
+22 registration card or online voter registration application form, but it shall
+23 not be required:
+24 (A) Telephone number where the applicant may be contacted;
+25 and
+26 (B) Political party with which the applicant wishes to be
+27 affiliated, if any.
+28
+29 SECTION 7. Arkansas Constitution, Amendment 51, § 6(a)(5), concerning
+30 statements included on the mail voter registration application form, is
+31 amended to read as follows:
+32 (5) The mail voter registration application form or the online
+33 voter registration application form shall not include any a requirement for
+34 notarization or other formal authentication.
+35
+36 SECTION 8. Arkansas Constitution, Amendment 51, § 6(a)(6), concerning
+3 01-23-2025 09:40:55 SSS011
+
+As Engrossed: H1/16/25 H1/23/25 HB1035
+1 statements included on the mail voter registration application form, is
+2 amended to read as follows:
+3 (6) The mail voter registration application form and the online
+4 voter registration application form shall include the following questions
+5 along with boxes or other means for the applicant to check “yes” or “no” in
+6 response:
+7 (A) “Are you a citizen of the United States of America
+8 and an Arkansas resident?”;
+9 (B) “Will you be eighteen (18) years of age on or before
+10 election day?”;
+11 (C) “Are you presently adjudged mentally incompetent by a
+12 court of competent jurisdiction?”; and
+13 (D) “Have you ever been convicted of a felony without
+14 your sentence having been discharged or pardoned?”.
+15
+16 SECTION 9. Arkansas Constitution, Amendment 51, § 6(a)(7), concerning
+17 statements included on the mail voter registration application form, is
+18 amended to read as follows:
+19 (7) The mail voter registration application form and the online
+20 voter registration application form shall include the following statements
+21 immediately following the questions asked in subdivision (a)(6) of this
+22 section:
+23 (A) “If you checked ‘No’ in response to either questions A
+24 or B, do not complete this form.”;
+25 (B) “If you checked ‘Yes’ in response to either questions
+26 C or D, do not complete this form.”; and
+27 (C) The mail-in voter registration application form and
+28 the online voter registration application form shall include the following
+29 statement:
+30 “If your voter registration application form is
+31 submitted by mail or online and you are registering for the first time, and
+32 you do not have a valid driver's license number or Social Security number, in
+33 order to avoid the additional identification requirements upon voting for the
+34 first time you must submit with the mailed voter registration application
+35 form: (a) a current and valid photo identification; or (b) a copy of a
+36 current utility bill, bank statement, government check, paycheck, or other
+4 01-23-2025 09:40:55 SSS011
+
+As Engrossed: H1/16/25 H1/23/25 HB1035
+1 government document that shows your name and address.”
+2
+3 SECTION 10. Arkansas Constitution, Amendment 51, § 8(a)(2), concerning
+4 voter registration application records and reports, is amended to read as
+5 follows:
+6 (2) The Secretary of State shall transmit all mail voter
+7 registration applications application forms and online voter registration
+8 application forms to the appropriate permanent registrar no later than ten
+9 (10) days after the date of receipt. When applications mail voter
+10 registration application forms and online voter registration application
+11 forms are received within five (5) days before the last day of registration
+12 for an election, they must be transmitted no later than five (5) days after
+13 date of receipt. If mail voter registration application forms and online
+14 voter registration application forms are received by the wrong election
+15 office, they shall be forwarded to the appropriate permanent registrar not
+16 later than the fifth day after receipt.
+17
+18 SECTION 11. Arkansas Constitution, Amendment 51, § 8(c)(1), concerning
+19 voter registration application records and reports, is amended to read as
+20 follows:
+21 (c)(1) The Secretary of State shall collect, maintain, and publish
+22 monthly statistical data reflecting the number of new voter registration
+23 applications, changes of address, name, and party affiliation, and
+24 declinations received by mail, electronically, and in:
+25 (A) state State revenue offices;
+26 (B) public Public assistance agencies;
+27 (C) disabilities Disabilities agencies;
+28 (D) recruitment Recruitment offices of the Armed Forces of
+29 the United States United States Armed Forces;
+30 (E) public Public libraries; and
+31 (F) offices Offices of the Arkansas National Guard.
+32
+33 SECTION 12. Arkansas Constitution, Amendment 51, § 9(c), concerning
+34 the application to register to vote, is amended to add an additional
+35 subdivision to read as follows:
+36 (4) The permanent registrar shall register qualified applicants
+5 01-23-2025 09:40:55 SSS011
+
+As Engrossed: H1/16/25 H1/23/25 HB1035
+1 who apply to register to vote by using an online voter registration
+2 application form if:
+3 (A) The online voter registration application form is
+4 submitted no later than thirty (30) days before the date of the election; and
+5 (B) The applicant for online voter registration provides a
+6 current valid driver's license number or the last four (4) digits of the
+7 applicant's Social Security number.
+8
+9 SECTION 13. Arkansas Constitution, Amendment 51, § 10(a), concerning
+10 the transfer and change of status for a registered voter, is amended to read
+11 as follows:
+12 (a) Upon a change of legal residence within the county, or a change of
+13 name, any registered voter may cause his or her registration to be
+14 transferred to his or her new address or new name by completing and mailing a
+15 federal or state mail voter registration application form, by completing an
+16 online voter registration application form, by updating his or her address at
+17 the Office of Driver Services, any state revenue office, public assistance
+18 agency, disabilities agency, or other voter registration agency, by signing a
+19 mailed request to the permanent registrar, giving his or her present address
+20 and the address at which he or she was last registered or his or her present
+21 name and the name under which he or she was last registered, or by applying
+22 in person at the office of the permanent registrar.
+23
+24 SECTION 14. Arkansas Constitution, Amendment 51, § 10(b)(1),
+25 concerning the transfer and change of status for a registered voter, is
+26 amended to add an additional subdivision to read as follows:
+27 (b)(1) Upon a change of legal residence from one (1) county within the
+28 state to another county within the state, any registered voter may cause his
+29 or her registration to be transferred to the new county at his or her new
+30 address by:
+31 (A) Completing and mailing a federal or state mail voter
+32 registration application form;
+33 (B) Updating his or her new address at a voter
+34 registration agency, including without limitation the Office of Driver
+35 Services or a state revenue office, public assistance agency, or disabilities
+36 agency;
+6 01-23-2025 09:40:55 SSS011
+
+As Engrossed: H1/16/25 H1/23/25 HB1035
+1 (C) Signing a mailed request to the permanent registrar
+2 giving the voter's present address and the address at which the voter was
+3 last registered; or
+4 (D) Applying in person for the transfer at the office of
+5 the permanent registrar. ; or
+6 (E) Completing an online voter registration application
+7 form.
+8
+9 SECTION 15. Arkansas Code § 7-5-201(e)(1), concerning voter
+10 qualification, is amended to read as follows:
+11 (e)(1) A person registering to vote by mail or by an online voter
+12 registration application form and who has not previously voted in a federal
+13 election in this state shall:
+14 (A) Present to the election official a current and valid
+15 photo identification or a copy of a current utility bill, bank statement,
+16 government check, paycheck, or other government document that shows the name
+17 and address of the voter when appearing to vote in person either early or at
+18 the polls on election day; or
+19 (B) When voting by mail, submit with the ballot a copy of
+20 a current and valid photo identification or a copy of a current utility bill,
+21 bank statement, government check, paycheck, or other government document that
+22 shows the name and address of the voter.
+23
+24 SECTION 16. Arkansas Code § 7-5-201(e)(3)(E) and (F), concerning voter
+25 qualification, are amended to read as follows:
+26 (E) Persons who register to vote by mail or by an online
+27 voter registration application form and submit as part of the registration
+28 any of the identification documents listed in subdivision (e)(1) of this
+29 section; or
+30 (F) Persons who register to vote by mail or by an online
+31 voter registration application form and submit with the registration either a
+32 driver's license number or at least the last four (4) digits of the
+33 individual's Social Security number and with respect to whom a state or local
+34 election official matches the license number or Social Security number with
+35 an existing state identification record bearing the same number, name, and
+36 date of birth as provided in the registration.
+7 01-23-2025 09:40:55 SSS011
+
+As Engrossed: H1/16/25 H1/23/25 HB1035
+1
+2 SECTION 17. Arkansas Code § 7-5-305(a)(8)(B)(iii), concerning first-
+3 time voter identification, is amended to read as follows:
+4 (iii) A first-time voter who registers by mail or by
+5 an online voter registration application form without providing
+6 identification when registering and desires to vote in person but who does
+7 not meet the identification requirements of § 7-5-201(e) may cast a
+8 provisional ballot.
+9
+10 SECTION 18. Arkansas Code Title 7, Chapter 5, Subchapter 3, is amended
+11 to add an additional section to read as follows:
+12 7-5-325. Online voter registration.
+13 (a) The Secretary of State shall establish and maintain a secure
+14 online voter registration system.
+15 (b) The online voter registration system shall allow:
+16 (1) The submission of an online voter registration application
+17 form meeting the requirements established in Arkansas Constitution, Amendment
+18 51, § 6; and
+19 (2) A voter registration to be completed using the online voter
+20 registration system and after completion on the online voter registration
+21 system, to be included on the voter registration list.
+22 (c) The Secretary of State shall:
+23 (1) Employ security measures the Secretary of State determines
+24 to be necessary to ensure the integrity, accuracy, and security of the online
+25 voter registration system; and
+26 (2) Establish and implement a process for the verification of
+27 address information submitted by a person registering to vote, or a
+28 registered voter updating his or her address when:
+29 (A) Using the online voter registration application form;
+30 (B) Providing address information to a state agency
+31 charged with voter registration address information; or
+32 (C) Using a state mail voter registration application
+33 form.
+34 (d) Each person using the online voter registration system shall be
+35 informed as to whether:
+36 (1) The online voter registration application form has been
+8 01-23-2025 09:40:55 SSS011
+
+As Engrossed: H1/16/25 H1/23/25 HB1035
+1 successfully submitted and is pending approval; or
+2 (2) The online voter registration system encountered an error in
+3 processing the online voter registration application form and the online
+4 voter registration application form was not successfully submitted.
+5 (e)(1) The Secretary of State shall promulgate rules necessary to
+6 implement the requirements under this section under the Arkansas
+7 Administrative Procedure Act, § 25-15-201 et seq.
+8 (2) The Secretary of State shall not promulgate emergency rules
+9 necessary to implement this section under the Arkansas Administrative
+10 Procedure Act, § 25-15-201 et seq., within one hundred eighty (180) days of a
+11 federal election unless approved by the General Assembly or if the General
+12 Assembly is not in session, by the Legislative Council.
+13
+14 SECTION 19. Arkansas Code § 7-5-412(a)(2)(B) concerning identification
+15 for absentee ballots, is amended to read as follows:
+16 (B) A copy of a current and valid photographic
+17 identification or a copy of a current utility bill, bank statement,
+18 government check, paycheck, or other government document that shows the name
+19 and address of the first-time voter, for first-time voters who registered by
+20 mail or by an online voter registration application form. However, this
+21 requirement does not apply if:
+22 (i) The voter registered to vote by mail or by an
+23 online voter registration application form and provided the identification at
+24 that time; or
+25 (ii) The first-time voter registered to vote by mail
+26 or by an online voter registration application form and submitted his or her
+27 driver's license number or at least the last four (4) digits of his or her
+28 Social Security number at the time and this information matches the
+29 information in an existing state identification record bearing the same
+30 number, name, and date of birth as provided in the registration.
+31
+32 SECTION 20. Arkansas Code § 7-5-416(b)(1)(F), concerning the counting
+33 of absentee ballots, is amended to read as follows:
+34 (F)(i) After the election official reads aloud from the
+35 statement, the election officials shall compare the name, address, date of
+36 birth, and signature of the voter's absentee application with the voter's
+9 01-23-2025 09:40:55 SSS011
+
+As Engrossed: H1/16/25 H1/23/25 HB1035
+1 statement and,:
+2 (a) for For first-time voters who registered
+3 by mail, the first-time voter's identification document unless the voter
+4 previously provided identification at the time of mailing the voter
+5 registration application.; or
+6 (b) For first-time voters who registered using
+7 an online voter registration application form, the first-time voter's
+8 identification document unless the voter previously provided identification
+9 at the time of electronically registering using an online voter registration
+10 application form.
+11 (ii) If the county board of election commissioners
+12 determines that the absentee application and the voter's statement do not
+13 compare as to name, residential voting address, date of birth, and signature,
+14 the absentee ballot shall not be counted.
+15 (iii) If a first-time voter fails to provide the
+16 required identification with the absentee ballot or at the time of mailing
+17 the voter registration application, or at the time of registration using an
+18 online voter registration application form, then the absentee application,
+19 absentee ballot envelope, and voter's statement shall be placed in an
+20 envelope marked “provisional” and the absentee ballot shall be considered a
+21 provisional ballot;
+22
+23 SECTION 21. EFFECTIVE DATE. This act shall become effective on and
+24 after January 1, 2026.
+25
+26 /s/A. Collins
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+10 01-23-2025 09:40:55 SSS011
+
+[DELETED:  A       A 2 A D P   T A R C T  B   S  T R   S t  ( o a 6 f c]
+[DELETED:  H2 0 f T a e v c c    ( o     ( s c     ( r   S d t  ( s s i   ( s    ( b    (    ( G e   ( r P f A ]
+[DELETED:  H3 0  S s a  ( v i o a a     S c f    ( s r      S s a   ( r n    ( a    ( a   S s a     v n   S]
+[DELETED:  H4 0 s a     v a r      a      e      c      y   S s a   ( v i s    ( o    ( C    ( t s     “ s y o f f c]
+[DELETED:  H5 0 g   S v f   ( r a ( r f f d v o l   S v f  ( m a d    (    (    (    ( t    (    (   S t s   (]
+[DELETED:  H6 0 w a    ( s    ( c a   S t a  ( n t f o t a m a n i   S c a  ( s o a    ( r    ( r S a]
+[DELETED:  H7 0    ( g l    ( t    ( f   S q  ( r e    ( p g a t    ( a b s   S q    ( v a s    ( v d i e a d]
+[DELETED:  H8 0   S t     ( a i n p   S t  7  ( o  (   ( f 5   ( r s  (   ( t v   ( a r    (    ( c    ( f  ( i   (]
+[DELETED:  H9 0 s   ( p v  ( i A   ( n P f A   S f    ( i g a m r     ( o t     ( o d S i n   S o    ( s b]
+[DELETED:  H1 0 s      ( b p r      ( a i a a     ( d c t     ( r t o a e p   S a  /          ]

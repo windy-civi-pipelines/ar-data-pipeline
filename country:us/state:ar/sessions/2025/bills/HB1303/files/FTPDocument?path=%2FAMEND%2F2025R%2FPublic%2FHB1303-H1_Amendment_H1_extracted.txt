@@ -1,0 +1,633 @@
+Title: ______________________________________________________________________
+Official Title: ______________________________________________________________________
+Number of Sections: 4
+Source: versions - Amendment H1
+Media Type: application/pdf
+Strikethrough Detection: 7 sections found
+
+================================================================================
+
+Section 1:
+Hall of the House of Representatives
+95th General Assembly - Regular Session, 2025
+Amendment Form
+Subtitle of House Bill 1303
+TO CREATE THE SUSTAINABLE AVIATION FUEL INCENTIVE ACT; TO CREATE
+INCOME TAX CREDITS RELATED TO SUSTAINABLE AVIATION FUEL; AND TO
+CREATE A SALES AND USE TAX EXEMPTION ON UTILITIES USED TO PRODUCE
+SUSTAINABLE AVIATION FUEL.
+______________________________________________________________________
+Amendment No. 1 to House Bill 1303
+Amend House Bill 1303 as originally introduced:
+Page 1, line 16, delete "INCOME" and substitute "AN INCOME"
+AND
+Page 1, delete lines 17 through 19, and substitute the following:
+"CREDIT RELATED TO SUSTAINABLE AVIATION FUEL; AND FOR"
+AND
+Delete the subtitle in its entirety, and substitute the following:
+"TO CREATE THE SUSTAINABLE AVIATION FUEL
+INCENTIVE ACT; AND TO CREATE AN INCOME
+TAX CREDIT RELATED TO SUSTAINABLE
+AVIATION FUEL."
+AND
+Delete everything after the enacting clause, and substitute the following:
+"SECTION 1. Arkansas Code Title 26, Chapter 51, is amended to add an
+additional subchapter to read as follows:
+Subchapter 29 — Sustainable Aviation Fuel Incentive Act
+26-51-2901. Title.
+This subchapter shall be known and may be cited as the "Sustainable
+Aviation Fuel Incentive Act".
+26-51-2902. Definitions.
+*.JLL290*
+JLL290 - 03-11-2025 03:44:11 Page 1 of 7
+As used in this subchapter:
+(1) "Incentive agreement" means an agreement entered into by a
+business and the Arkansas Economic Development Commission to provide the
+business an incentive to locate a new qualified sustainable aviation fuel
+project in the state;
+(2)(A) “New full-time permanent employee” means a position or
+job that:
+(i) Is created pursuant to an executed incentive
+agreement;
+(ii) Is filled by one (1) or more employees or
+contractual employees who:
+(a) Were Arkansas taxpayers during the year in
+which the tax credits or incentives were earned;
+(b)(1) Work at or fill a position dedicated to
+the qualified sustainable aviation fuel project identified in the incentive
+agreement.
+(2) A new employee of the business that
+enters into the incentive agreement under this subchapter who does not work
+at the qualified sustainable aviation fuel project may be counted if the new
+employee:
+(A) Otherwise meets the definition
+of a new full-time permanent employee;
+(B) Is subject to the Arkansas
+Income Tax Withholding Act of 1965, § 26-51-901 et seq.;
+(C) Is paid an annual salary of at
+least seventy-five thousand dollars ($75,000); and
+(D) Is verified by reports and
+methods established as required by the incentive agreement; and
+(c)(1) Are not employees hired by a qualified
+manufacturer of sustainable aviation fuel before the date the incentive
+agreement was executed unless:
+(A) The position or job filled by
+the existing employee was created in accordance with the incentive agreement;
+and
+(B) The position vacated by the
+existing employee was either filled by a subsequent employee or no subsequent
+employee will be hired because the qualified manufacturer of sustainable
+aviation fuel no longer conducts the particular business activity requiring
+that classification.
+(2) If the Director of the Arkansas
+Economic Development Commission and the Secretary of the Department of
+Finance and Administration find that a significant impairment of Arkansas job
+opportunities for existing employees will otherwise occur, they may jointly
+authorize the counting of existing employees as new full-time permanent
+employees; and
+(iii) Has been filled for at least twenty-six (26)
+consecutive weeks with an average of at least thirty (30) hours worked per
+week.
+(B) “New full-time permanent employee” includes a
+contractual employee who works at the qualified sustainable aviation fuel
+project identified in the incentive agreement only if the contractual
+JLL290 - 03-11-2025 03:44:11 Amendment No. 1 to House Bill 1303 Page 2 of 7
+employee is offered a benefits package comparable to a direct employee of the
+qualified manufacturer of sustainable aviation fuel seeking incentives under
+this subchapter;
+(3) "Qualified manufacturer of sustainable aviation fuel" means
+a taxpayer who:
+(A) Is a natural person, a company, or a corporation that
+is engaged in the manufacture, refinement, or processing of sustainable
+aviation fuel in this state;
+(B) Uses more than eighty percent (80%) of the electricity
+and natural gas consumed in the manufacture, refinement, or processing of
+sustainable aviation fuel to provide power for reactors, distillation
+columns, heaters, pumps, compressors, coolers, and other sustainable aviation
+fuel production and processing equipment; and
+(C) Has an incentive agreement;
+(4) "Qualified sustainable aviation fuel project" means a
+facility located in the state that:
+(A) Manufactures sustainable aviation fuel;
+(B) Has an installed facility cost of more than two
+billion dollars ($2,000,000,000), as verified by the commission;
+(C) Will employ seventy-five (75) or more new full-time
+permanent employees; and
+(D) Begins construction on or before December 31, 2027;
+(5) "Sustainable aviation fuel" means kerosene-type jet fuel
+derived from wood biomass; and
+(6) "Sustainable aviation fuel production and processing
+equipment" means machinery and equipment that are essential for the
+receiving, storing, processing, and testing of raw materials used in
+producing or processing sustainable aviation fuel or the production, storage,
+testing, and shipping of a finished product of a qualified sustainable
+aviation fuel project, or both.
+26-51-2903. Qualified manufacturer of sustainable aviation fuel
+credit.
+(a)(1) There is allowed an income tax credit against the income tax
+imposed by this chapter in an amount equal to thirty percent (30%) of the
+cost of sustainable aviation fuel production and processing equipment
+purchased for use in the state by a qualified manufacturer of sustainable
+aviation fuel that has:
+(A) Obtained a certification from the Director of the
+Arkansas Economic Development Commission certifying to the Department of
+Finance and Administration that the qualified manufacturer of sustainable
+aviation fuel:
+(i) Operates a qualified sustainable aviation fuel
+project or has a qualified sustainable aviation fuel project in production;
+and
+(ii) Has invested more than two billion dollars
+($2,000,000,000) after the effective date of this act in a qualified
+sustainable aviation fuel project for:
+(a) Property purchased for use in the
+construction of one (1) or more buildings or an addition or improvement to a
+building to be used for producing sustainable aviation fuel;
+JLL290 - 03-11-2025 03:44:11 Amendment No. 1 to House Bill 1303 Page 3 of 7
+(b) Machinery and equipment located in or used
+in connection with the qualified sustainable aviation fuel project, excluding
+motor vehicles that are subject to registration; or
+(c) Project planning costs or construction
+labor costs, including without limitation:
+(1) On-site direct labor and supervision
+whether employed by a contractor or the owner of the qualified sustainable
+aviation fuel project;
+(2) Architectural fees or engineering
+fees, or both;
+(3) Right-of-way purchases;
+(4) Utility extensions;
+(5) Site preparation;
+(6) Parking lots;
+(7) Disposal or containment systems;
+(8) Water and sewer treatment systems;
+(9) Rail spurs;
+(10) Streets and roads;
+(11) Purchase of mineral rights;
+(12) Land;
+(13) Buildings;
+(14) Building renovation and demolition;
+(15) Production, processing, and testing
+equipment;
+(16) Freight charges;
+(17) Material handling equipment;
+(18) Drainage systems;
+(19) Water tanks and reservoirs;
+(20) Storage facilities;
+(21) Equipment rental;
+(22) Contractors' cost plus fees;
+(23) Builders' risk insurance;
+(24) Original spare parts;
+(25) Job administrative expenses;
+(26) Office furnishings and equipment;
+(27) Rolling stock;
+(28) Capitalized start-up costs as
+recognized by generally accepted accounting principles; and
+(29) Other costs related to the
+construction of the qualified sustainable aviation fuel project;
+(B) Obtained a certification from the Secretary of the
+Department of Energy and Environment certifying to the Department of Finance
+and Administration that:
+(i) The qualified manufacturer of sustainable
+aviation fuel is engaged in the business of manufacturing, producing,
+refining, or processing sustainable aviation fuel; and
+(ii) The machinery and equipment purchased are
+sustainable aviation fuel production and processing equipment;
+(C) Received a positive cost-benefit analysis, including
+without limitation an analysis of other incentives offered by the State of
+Arkansas with respect to the qualified sustainable aviation fuel project
+JLL290 - 03-11-2025 03:44:11 Amendment No. 1 to House Bill 1303 Page 4 of 7
+subject to the income tax credit, as certified by the Director of the
+Arkansas Economic Development Commission in consultation with the Chief
+Fiscal Officer of the State; and
+(D) An incentive agreement with performance criteria and
+claw-back provisions as required under subsection (d) of this section.
+(2) The income tax credit allowed under this section for a
+taxpayer in a tax year shall not exceed the lesser of ten million dollars
+($10,000,000) or the amount of income tax due by a taxpayer in a tax year.
+(b) Any unused income tax credit under this section that cannot be
+claimed in a tax year may be carried forward indefinitely.
+(c)(1)(A) A qualified manufacturer of sustainable aviation fuel that
+cannot claim income tax credits allowed under this section shall sell or
+transfer for value the income tax credits allowed under this section to the
+State of Arkansas for eighty percent (80%) of the face value in lieu of the
+right of the qualified manufacturer of sustainable aviation fuel to claim the
+income tax credits as allowed under this section.
+(B) No more than ten million dollars ($10,000,000) of the
+income tax credits in the possession and control of a qualified manufacturer
+of sustainable aviation fuel under this section may be sold or transferred in
+a tax year.
+(2) Any unused income tax credits that cannot be sold or
+transferred in a tax year under subdivision (c)(1) of this section may be
+carried forward indefinitely.
+(3)(A) By July 15 of each year, a qualified manufacturer of
+sustainable aviation fuel with possession and control of income tax credits
+under this section that the qualified manufacturer of sustainable aviation
+fuel cannot claim shall provide notice to the Department of Finance and
+Administration of the amount of the income tax credits, subject to the
+limitations stated in subdivision (c)(1) of this section, to be sold or
+transferred for value.
+(B) The State of Arkansas shall pay the purchase price
+equal to eighty percent (80%) of the face value of all of the income tax
+credits included in the notice required under subdivision (c)(3)(A) of this
+
+Section 2:
+section on or before June 30 of the year following the year in which the
+notice was provided.
+(C) Income tax credits under this section that are sold or
+transferred for value to the State of Arkansas are extinguished upon payment
+of the purchase price as if claimed against the income tax imposed by this
+chapter.
+(D)(i) If the State of Arkansas fails to timely pay the
+purchase price required under subdivision (c)(3)(B) of this section for the
+income tax credits included in the notice required under subdivision
+(c)(3)(A) of this section, before the end of the taxable year following the
+taxable year in which a failure to pay occurs, the qualified manufacturer of
+sustainable aviation fuel may sell or transfer for value the income tax
+credits to one (1) or more persons.
+(ii)(a) Except as provided in subdivision
+(c)(3)(D)(ii)(b) of this section, a person to whom income tax credits are
+sold or transferred under subdivision (c)(3)(D)(i) of this section may claim
+the income tax credits in accordance with applicable law.
+(b) An income tax credit sold or transferred
+JLL290 - 03-11-2025 03:44:11 Amendment No. 1 to House Bill 1303 Page 5 of 7
+for value to a person or persons under this subdivision (c)(3)(D) shall not
+expire before the later of the end of:
+(1) The carry-forward period for the
+income tax credits under applicable law; or
+(2) The third taxable year following the
+year in which the income tax credits were sold or transferred for value under
+this section.
+(iii) The sale or transfer of income tax credits
+under this subdivision (c)(3)(D) shall be:
+(a) Reported to the Department of Finance and
+Administration in writing by the qualified manufacturer of sustainable
+aviation fuel; and
+(b) Confirmed in writing by the Department of
+Finance and Administration under the Department of Finance and
+Administration’s promulgated rules.
+(d) The issuance, sale, and transfer of an income tax credit allowed
+under this section is subject to an incentive agreement with performance
+criteria and claw-back provisions between a taxpayer and the Arkansas
+Economic Development Commission that:
+(1)(A) Is subject to the approval of the Chief Fiscal Officer of
+the State to ensure that the cost-benefit analysis required under subdivision
+(a)(1)(C) of this section is met and maintained for a test period that is the
+longer of the life of the income tax credits or twelve (12) years, subject to
+the limitation stated in subdivision (d)(1)(B) of this section.
+(B) The test period described in subdivision (d)(1)(A) of
+this section shall not be longer than fifteen (15) years; and
+(2) Includes without limitation the:
+(A) Capital investment for the qualified sustainable
+aviation fuel project;
+(B) New full-time permanent employee positions created by
+the qualified sustainable aviation fuel project;
+(C) Annual salary requirements for the new full-time
+permanent employee positions created by the qualified sustainable aviation
+fuel project;
+(D) Timeline for fulfilling the investment and job
+creation targets stated in the performance criteria and claw-back agreement
+for the qualified sustainable aviation fuel project; and
+(E) Conditions for the claw-back provisions, which are
+triggered if, during the test period stated in subdivision (d)(1) of this
+
+Section 3:
+section, the taxpayer:
+(i) Does not meet the required targets of the
+qualified sustainable aviation fuel project related to capital investment,
+job creation, timeline, or annual salary amounts; or
+(ii) Fails to maintain a positive cost-benefit
+analysis.
+26-51-2904. Rules.
+The Secretary of the Department of Finance and Administration may
+promulgate rules to implement and administer this subchapter.
+
+Section 4:
+SECTION 2. EFFECTIVE DATE. Section 1 of this act is effective for tax
+JLL290 - 03-11-2025 03:44:11 Amendment No. 1 to House Bill 1303 Page 6 of 7
+years beginning on or after January 1, 2025."
+The Amendment was read ________________________________________________________________________________
+By: Representative Jean
+JLL/JLL - 03-11-2025 03:44:11 _________________________
+JLL290 Chief Clerk
+JLL290 - 03-11-2025 03:44:11 Amendment No. 1 to House Bill 1303 Page 7 of 7
+[DELETED:  PA  "2T2]
+[DELETED:  PA ( (   (   (    (    (     (      (      (      (      (    (      (      (     (   (  (]
+[DELETED:  P (  (  (  ( (  (  (  (  ( ( (2 (  (   (   (    (]
+[DELETED:  P    (    (     (     (     (     (     (     (     (     (     (     (     (     (     (     (     (     (     (     (     (     (     (     (     (     (     (     (     (     (     (  (   (   (  (]
+[DELETED:  P  ( (((  ( ( (  (  (  (   (    (]
+[DELETED:  P     (     (   (    (    (( (  ( (  (  (  (  (  (   (   (2TS]
+[DELETED:  P _ C]
+
+
+================================================================================
+
+Raw Text:
+Hall of the House of Representatives
+95th General Assembly - Regular Session, 2025
+Amendment Form
+______________________________________________________________________
+Subtitle of House Bill 1303
+TO CREATE THE SUSTAINABLE AVIATION FUEL INCENTIVE ACT; TO CREATE
+INCOME TAX CREDITS RELATED TO SUSTAINABLE AVIATION FUEL; AND TO
+CREATE A SALES AND USE TAX EXEMPTION ON UTILITIES USED TO PRODUCE
+SUSTAINABLE AVIATION FUEL.
+______________________________________________________________________
+Amendment No. 1 to House Bill 1303
+Amend House Bill 1303 as originally introduced:
+Page 1, line 16, delete "INCOME" and substitute "AN INCOME"
+AND
+Page 1, delete lines 17 through 19, and substitute the following:
+"CREDIT RELATED TO SUSTAINABLE AVIATION FUEL; AND FOR"
+AND
+Delete the subtitle in its entirety, and substitute the following:
+"TO CREATE THE SUSTAINABLE AVIATION FUEL
+INCENTIVE ACT; AND TO CREATE AN INCOME
+TAX CREDIT RELATED TO SUSTAINABLE
+AVIATION FUEL."
+AND
+Delete everything after the enacting clause, and substitute the following:
+"SECTION 1. Arkansas Code Title 26, Chapter 51, is amended to add an
+additional subchapter to read as follows:
+Subchapter 29 — Sustainable Aviation Fuel Incentive Act
+26-51-2901. Title.
+This subchapter shall be known and may be cited as the "Sustainable
+Aviation Fuel Incentive Act".
+26-51-2902. Definitions.
+*.JLL290*
+JLL290 - 03-11-2025 03:44:11 Page 1 of 7
+
+As used in this subchapter:
+(1) "Incentive agreement" means an agreement entered into by a
+business and the Arkansas Economic Development Commission to provide the
+business an incentive to locate a new qualified sustainable aviation fuel
+project in the state;
+(2)(A) “New full-time permanent employee” means a position or
+job that:
+(i) Is created pursuant to an executed incentive
+agreement;
+(ii) Is filled by one (1) or more employees or
+contractual employees who:
+(a) Were Arkansas taxpayers during the year in
+which the tax credits or incentives were earned;
+(b)(1) Work at or fill a position dedicated to
+the qualified sustainable aviation fuel project identified in the incentive
+agreement.
+(2) A new employee of the business that
+enters into the incentive agreement under this subchapter who does not work
+at the qualified sustainable aviation fuel project may be counted if the new
+employee:
+(A) Otherwise meets the definition
+of a new full-time permanent employee;
+(B) Is subject to the Arkansas
+Income Tax Withholding Act of 1965, § 26-51-901 et seq.;
+(C) Is paid an annual salary of at
+least seventy-five thousand dollars ($75,000); and
+(D) Is verified by reports and
+methods established as required by the incentive agreement; and
+(c)(1) Are not employees hired by a qualified
+manufacturer of sustainable aviation fuel before the date the incentive
+agreement was executed unless:
+(A) The position or job filled by
+the existing employee was created in accordance with the incentive agreement;
+and
+(B) The position vacated by the
+existing employee was either filled by a subsequent employee or no subsequent
+employee will be hired because the qualified manufacturer of sustainable
+aviation fuel no longer conducts the particular business activity requiring
+that classification.
+(2) If the Director of the Arkansas
+Economic Development Commission and the Secretary of the Department of
+Finance and Administration find that a significant impairment of Arkansas job
+opportunities for existing employees will otherwise occur, they may jointly
+authorize the counting of existing employees as new full-time permanent
+employees; and
+(iii) Has been filled for at least twenty-six (26)
+consecutive weeks with an average of at least thirty (30) hours worked per
+week.
+(B) “New full-time permanent employee” includes a
+contractual employee who works at the qualified sustainable aviation fuel
+project identified in the incentive agreement only if the contractual
+JLL290 - 03-11-2025 03:44:11 Amendment No. 1 to House Bill 1303 Page 2 of 7
+
+employee is offered a benefits package comparable to a direct employee of the
+qualified manufacturer of sustainable aviation fuel seeking incentives under
+this subchapter;
+(3) "Qualified manufacturer of sustainable aviation fuel" means
+a taxpayer who:
+(A) Is a natural person, a company, or a corporation that
+is engaged in the manufacture, refinement, or processing of sustainable
+aviation fuel in this state;
+(B) Uses more than eighty percent (80%) of the electricity
+and natural gas consumed in the manufacture, refinement, or processing of
+sustainable aviation fuel to provide power for reactors, distillation
+columns, heaters, pumps, compressors, coolers, and other sustainable aviation
+fuel production and processing equipment; and
+(C) Has an incentive agreement;
+(4) "Qualified sustainable aviation fuel project" means a
+facility located in the state that:
+(A) Manufactures sustainable aviation fuel;
+(B) Has an installed facility cost of more than two
+billion dollars ($2,000,000,000), as verified by the commission;
+(C) Will employ seventy-five (75) or more new full-time
+permanent employees; and
+(D) Begins construction on or before December 31, 2027;
+(5) "Sustainable aviation fuel" means kerosene-type jet fuel
+derived from wood biomass; and
+(6) "Sustainable aviation fuel production and processing
+equipment" means machinery and equipment that are essential for the
+receiving, storing, processing, and testing of raw materials used in
+producing or processing sustainable aviation fuel or the production, storage,
+testing, and shipping of a finished product of a qualified sustainable
+aviation fuel project, or both.
+26-51-2903. Qualified manufacturer of sustainable aviation fuel
+credit.
+(a)(1) There is allowed an income tax credit against the income tax
+imposed by this chapter in an amount equal to thirty percent (30%) of the
+cost of sustainable aviation fuel production and processing equipment
+purchased for use in the state by a qualified manufacturer of sustainable
+aviation fuel that has:
+(A) Obtained a certification from the Director of the
+Arkansas Economic Development Commission certifying to the Department of
+Finance and Administration that the qualified manufacturer of sustainable
+aviation fuel:
+(i) Operates a qualified sustainable aviation fuel
+project or has a qualified sustainable aviation fuel project in production;
+and
+(ii) Has invested more than two billion dollars
+($2,000,000,000) after the effective date of this act in a qualified
+sustainable aviation fuel project for:
+(a) Property purchased for use in the
+construction of one (1) or more buildings or an addition or improvement to a
+building to be used for producing sustainable aviation fuel;
+JLL290 - 03-11-2025 03:44:11 Amendment No. 1 to House Bill 1303 Page 3 of 7
+
+(b) Machinery and equipment located in or used
+in connection with the qualified sustainable aviation fuel project, excluding
+motor vehicles that are subject to registration; or
+(c) Project planning costs or construction
+labor costs, including without limitation:
+(1) On-site direct labor and supervision
+whether employed by a contractor or the owner of the qualified sustainable
+aviation fuel project;
+(2) Architectural fees or engineering
+fees, or both;
+(3) Right-of-way purchases;
+(4) Utility extensions;
+(5) Site preparation;
+(6) Parking lots;
+(7) Disposal or containment systems;
+(8) Water and sewer treatment systems;
+(9) Rail spurs;
+(10) Streets and roads;
+(11) Purchase of mineral rights;
+(12) Land;
+(13) Buildings;
+(14) Building renovation and demolition;
+(15) Production, processing, and testing
+equipment;
+(16) Freight charges;
+(17) Material handling equipment;
+(18) Drainage systems;
+(19) Water tanks and reservoirs;
+(20) Storage facilities;
+(21) Equipment rental;
+(22) Contractors' cost plus fees;
+(23) Builders' risk insurance;
+(24) Original spare parts;
+(25) Job administrative expenses;
+(26) Office furnishings and equipment;
+(27) Rolling stock;
+(28) Capitalized start-up costs as
+recognized by generally accepted accounting principles; and
+(29) Other costs related to the
+construction of the qualified sustainable aviation fuel project;
+(B) Obtained a certification from the Secretary of the
+Department of Energy and Environment certifying to the Department of Finance
+and Administration that:
+(i) The qualified manufacturer of sustainable
+aviation fuel is engaged in the business of manufacturing, producing,
+refining, or processing sustainable aviation fuel; and
+(ii) The machinery and equipment purchased are
+sustainable aviation fuel production and processing equipment;
+(C) Received a positive cost-benefit analysis, including
+without limitation an analysis of other incentives offered by the State of
+Arkansas with respect to the qualified sustainable aviation fuel project
+JLL290 - 03-11-2025 03:44:11 Amendment No. 1 to House Bill 1303 Page 4 of 7
+
+subject to the income tax credit, as certified by the Director of the
+Arkansas Economic Development Commission in consultation with the Chief
+Fiscal Officer of the State; and
+(D) An incentive agreement with performance criteria and
+claw-back provisions as required under subsection (d) of this section.
+(2) The income tax credit allowed under this section for a
+taxpayer in a tax year shall not exceed the lesser of ten million dollars
+($10,000,000) or the amount of income tax due by a taxpayer in a tax year.
+(b) Any unused income tax credit under this section that cannot be
+claimed in a tax year may be carried forward indefinitely.
+(c)(1)(A) A qualified manufacturer of sustainable aviation fuel that
+cannot claim income tax credits allowed under this section shall sell or
+transfer for value the income tax credits allowed under this section to the
+State of Arkansas for eighty percent (80%) of the face value in lieu of the
+right of the qualified manufacturer of sustainable aviation fuel to claim the
+income tax credits as allowed under this section.
+(B) No more than ten million dollars ($10,000,000) of the
+income tax credits in the possession and control of a qualified manufacturer
+of sustainable aviation fuel under this section may be sold or transferred in
+a tax year.
+(2) Any unused income tax credits that cannot be sold or
+transferred in a tax year under subdivision (c)(1) of this section may be
+carried forward indefinitely.
+(3)(A) By July 15 of each year, a qualified manufacturer of
+sustainable aviation fuel with possession and control of income tax credits
+under this section that the qualified manufacturer of sustainable aviation
+fuel cannot claim shall provide notice to the Department of Finance and
+Administration of the amount of the income tax credits, subject to the
+limitations stated in subdivision (c)(1) of this section, to be sold or
+transferred for value.
+(B) The State of Arkansas shall pay the purchase price
+equal to eighty percent (80%) of the face value of all of the income tax
+credits included in the notice required under subdivision (c)(3)(A) of this
+section on or before June 30 of the year following the year in which the
+notice was provided.
+(C) Income tax credits under this section that are sold or
+transferred for value to the State of Arkansas are extinguished upon payment
+of the purchase price as if claimed against the income tax imposed by this
+chapter.
+(D)(i) If the State of Arkansas fails to timely pay the
+purchase price required under subdivision (c)(3)(B) of this section for the
+income tax credits included in the notice required under subdivision
+(c)(3)(A) of this section, before the end of the taxable year following the
+taxable year in which a failure to pay occurs, the qualified manufacturer of
+sustainable aviation fuel may sell or transfer for value the income tax
+credits to one (1) or more persons.
+(ii)(a) Except as provided in subdivision
+(c)(3)(D)(ii)(b) of this section, a person to whom income tax credits are
+sold or transferred under subdivision (c)(3)(D)(i) of this section may claim
+the income tax credits in accordance with applicable law.
+(b) An income tax credit sold or transferred
+JLL290 - 03-11-2025 03:44:11 Amendment No. 1 to House Bill 1303 Page 5 of 7
+
+for value to a person or persons under this subdivision (c)(3)(D) shall not
+expire before the later of the end of:
+(1) The carry-forward period for the
+income tax credits under applicable law; or
+(2) The third taxable year following the
+year in which the income tax credits were sold or transferred for value under
+this section.
+(iii) The sale or transfer of income tax credits
+under this subdivision (c)(3)(D) shall be:
+(a) Reported to the Department of Finance and
+Administration in writing by the qualified manufacturer of sustainable
+aviation fuel; and
+(b) Confirmed in writing by the Department of
+Finance and Administration under the Department of Finance and
+Administration’s promulgated rules.
+(d) The issuance, sale, and transfer of an income tax credit allowed
+under this section is subject to an incentive agreement with performance
+criteria and claw-back provisions between a taxpayer and the Arkansas
+Economic Development Commission that:
+(1)(A) Is subject to the approval of the Chief Fiscal Officer of
+the State to ensure that the cost-benefit analysis required under subdivision
+(a)(1)(C) of this section is met and maintained for a test period that is the
+longer of the life of the income tax credits or twelve (12) years, subject to
+the limitation stated in subdivision (d)(1)(B) of this section.
+(B) The test period described in subdivision (d)(1)(A) of
+this section shall not be longer than fifteen (15) years; and
+(2) Includes without limitation the:
+(A) Capital investment for the qualified sustainable
+aviation fuel project;
+(B) New full-time permanent employee positions created by
+the qualified sustainable aviation fuel project;
+(C) Annual salary requirements for the new full-time
+permanent employee positions created by the qualified sustainable aviation
+fuel project;
+(D) Timeline for fulfilling the investment and job
+creation targets stated in the performance criteria and claw-back agreement
+for the qualified sustainable aviation fuel project; and
+(E) Conditions for the claw-back provisions, which are
+triggered if, during the test period stated in subdivision (d)(1) of this
+section, the taxpayer:
+(i) Does not meet the required targets of the
+qualified sustainable aviation fuel project related to capital investment,
+job creation, timeline, or annual salary amounts; or
+(ii) Fails to maintain a positive cost-benefit
+analysis.
+26-51-2904. Rules.
+The Secretary of the Department of Finance and Administration may
+promulgate rules to implement and administer this subchapter.
+SECTION 2. EFFECTIVE DATE. Section 1 of this act is effective for tax
+JLL290 - 03-11-2025 03:44:11 Amendment No. 1 to House Bill 1303 Page 6 of 7
+
+years beginning on or after January 1, 2025."
+The Amendment was read ________________________________________________________________________________
+By: Representative Jean
+JLL/JLL - 03-11-2025 03:44:11 _________________________
+JLL290 Chief Clerk
+JLL290 - 03-11-2025 03:44:11 Amendment No. 1 to House Bill 1303 Page 7 of 7
+
+[DELETED:  PA  "2T2]
+[DELETED:  PA ( (   (   (    (    (     (      (      (      (      (    (      (      (     (   (  (]
+[DELETED:  P (  (  (  ( (  (  (  (  ( ( (2 (  (   (   (    (]
+[DELETED:  P    (    (     (     (     (     (     (     (     (     (     (     (     (     (     (     (     (     (     (     (     (     (     (     (     (     (     (     (     (     (     (  (   (   (  (]
+[DELETED:  P  ( (((  ( ( (  (  (  (   (    (]
+[DELETED:  P     (     (   (    (    (( (  ( (  (  (  (  (  (   (   (2TS]
+[DELETED:  P _ C]

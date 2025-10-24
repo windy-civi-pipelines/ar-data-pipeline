@@ -1,0 +1,110 @@
+Title: ______________________________________________________________________
+Official Title: ______________________________________________________________________
+Number of Sections: 1
+Source: versions - Amendment H4
+Media Type: application/pdf
+Strikethrough Detection: 2 sections found
+
+================================================================================
+
+Section 1:
+Hall of the House of Representatives
+95th General Assembly - Regular Session, 2025
+Amendment Form
+Subtitle of House Bill 1083
+TO CREATE THE ARKANSAS KIDS ONLINE SAFETY ACT.
+______________________________________________________________________
+Amendment No. 4 to House Bill 1083
+Amend House Bill 1083 as engrossed H2/10/25 (version: 2/10/25 10:17:51 AM):
+Page 2, lines 9 and 10, delete "used, or is reasonably likely to be used, by
+a minor" and substitute "targeted to minors"
+AND
+Page 4, delete lines 29 through 32, and substitute the following:
+"(12)(A) "Online platform" means any public-facing website,
+online service, online application, or mobile application created primarily
+to serve a community forum for user generated content, including without
+limitation sharing videos, images, audio files, or other content.
+(B) "Online platform" does not include:
+(i) An entity that solely provides access to third-
+party applications through a website, online service, online application, or
+mobile application without exercising control over the functionality,
+content, or user interactions within those applications;
+(ii) A broadband internet service; or
+(iii) A telecommunications service, as defined in 47
+U.S.C. § 153, as it existed on January 1, 2025;"
+AND
+Page 5, line 8, delete "and"
+*.LJH140*
+LJH140 - 02-10-2025 04:51:47 Page 1 of 2
+AND
+Page 5, delete line 11 through 16, and substitute the following:
+"as it existed on January 1, 2025; and
+(17) “Video streaming service” means a digital platform that
+enables users to upload, share, or view user-generated video content in real
+time.
+4-88-1503. Duty of care — Prevention of harm to minors — Limitations.
+(a) A covered platform shall take reasonable measures in the design
+and operation of any product, service, or feature that the covered platform
+knows is used by minors to avoid any heightened risk of harm to minors caused
+by such product, service, or feature, including without limitation:"
+The Amendment was read ________________________________________________________________________________
+By: Representative Gramlich
+LJH140/LJH - 02-10-2025 04:51:47 _________________________
+LJH140 Chief Clerk
+LJH140 - 02-10-2025 04:51:47 Amendment No. 4 to House Bill 1083 Page 2 of 2
+[DELETED:  PA   "  (   (   (   (]
+[DELETED:  A P (4( _ C]
+
+
+================================================================================
+
+Raw Text:
+Hall of the House of Representatives
+95th General Assembly - Regular Session, 2025
+Amendment Form
+______________________________________________________________________
+Subtitle of House Bill 1083
+TO CREATE THE ARKANSAS KIDS ONLINE SAFETY ACT.
+______________________________________________________________________
+Amendment No. 4 to House Bill 1083
+Amend House Bill 1083 as engrossed H2/10/25 (version: 2/10/25 10:17:51 AM):
+Page 2, lines 9 and 10, delete "used, or is reasonably likely to be used, by
+a minor" and substitute "targeted to minors"
+AND
+Page 4, delete lines 29 through 32, and substitute the following:
+"(12)(A) "Online platform" means any public-facing website,
+online service, online application, or mobile application created primarily
+to serve a community forum for user generated content, including without
+limitation sharing videos, images, audio files, or other content.
+(B) "Online platform" does not include:
+(i) An entity that solely provides access to third-
+party applications through a website, online service, online application, or
+mobile application without exercising control over the functionality,
+content, or user interactions within those applications;
+(ii) A broadband internet service; or
+(iii) A telecommunications service, as defined in 47
+U.S.C. § 153, as it existed on January 1, 2025;"
+AND
+Page 5, line 8, delete "and"
+*.LJH140*
+LJH140 - 02-10-2025 04:51:47 Page 1 of 2
+
+AND
+Page 5, delete line 11 through 16, and substitute the following:
+"as it existed on January 1, 2025; and
+(17) “Video streaming service” means a digital platform that
+enables users to upload, share, or view user-generated video content in real
+time.
+4-88-1503. Duty of care — Prevention of harm to minors — Limitations.
+(a) A covered platform shall take reasonable measures in the design
+and operation of any product, service, or feature that the covered platform
+knows is used by minors to avoid any heightened risk of harm to minors caused
+by such product, service, or feature, including without limitation:"
+The Amendment was read ________________________________________________________________________________
+By: Representative Gramlich
+LJH140/LJH - 02-10-2025 04:51:47 _________________________
+LJH140 Chief Clerk
+LJH140 - 02-10-2025 04:51:47 Amendment No. 4 to House Bill 1083 Page 2 of 2
+
+[DELETED:  PA   "  (   (   (   (]
+[DELETED:  A P (4( _ C]

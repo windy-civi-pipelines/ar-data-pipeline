@@ -1,0 +1,764 @@
+Stricken language would be deleted from and underlined language would be added to present law.
+1 State of Arkansas As Engrossed: H1/23/25 H1/30/25 H2/10/25 H2/12/25 H2/26/25 H2/27/25
+A Bill
+2 95th General Assembly
+3 Regular Session, 2025 HOUSE BILL 1083
+4
+5 By: Representatives Gramlich, A. Collins, Springer
+6 By: Senators J. Boyd, C. Tucker
+7
+For An Act To Be Entitled
+8
+9 AN ACT TO CREATE THE ARKANSAS KIDS ONLINE SAFETY ACT;
+10 AND FOR OTHER PURPOSES.
+11
+12
+Subtitle
+13
+14 TO CREATE THE ARKANSAS KIDS ONLINE
+15 SAFETY ACT.
+16
+17 BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF ARKANSAS:
+18
+19 SECTION 1. Arkansas Code Title 4, Chapter 88, is amended to add an
+20 additional subchapter to read as follows:
+21 Subchapter 15 — Arkansas Kids Online Safety Act
+22
+23 4-88-1501. Title.
+24 This subchapter shall be known and may be cited as the "Arkansas Kids
+25 Online Safety Act".
+26
+27 4-88-1502. Definitions.
+28 As used in this subchapter:
+29 (1) "Child" means an individual who is twelve (12) years of age
+30 or less;
+31 (2) "Compulsive usage" means any response stimulated by external
+32 factors that causes an individual to engage in repetitive behavior that is
+33 reasonably likely to cause psychological distress, loss of control, anxiety,
+34 or depression;
+35 (3) "Connected device” means an electronic device that:
+36 (A) Is capable of connecting to the internet, either
+*LJH015*
+02-27-2025 11:33:31 LJH015
+
+As Engrossed: H1/23/25 H1/30/25 H2/10/25 H2/12/25 H2/26/25 H2/27/25 HB1083
+1 directly or indirectly through a network, to communicate information at the
+2 direction of an individual;
+3 (B) Has computer processing capabilities for collecting,
+4 sending, receiving, or analyzing data; and
+5 (C) Is primarily designed for or marketed to consumers;
+6 (4)(A) "Covered platform" means an entity that operates an
+7 online platform, messaging application, or video streaming service that:
+8 (i) Connects to the internet; and
+9 (ii) Is targeted to minors
+10 (B) "Covered platform" does not include:
+11 (i) An entity acting in the entity's own capacity as
+12 a provider of:
+13 (a) A common carrier service subject to the
+14 Telecommunications Act of 1996, Pub. L. No. 73-416;
+15 (b) A broadband internet access service as
+16 defined in 47 C.F.R. § 8.1(b), as it existed on January 1, 2025;
+17 (c) An email service;
+18 (d) A teleconferencing or videoconferencing
+19 service that allows reception and transmission of audio and video signals for
+20 real-time communication, provided that:
+21 (1) It is not an online platform such as
+22 a social media service or social network; and
+23 (2) The real-time communication is
+24 initiated by using a unique link or identifier to facilitate access; or
+25 (e) A wireless messaging service, including a
+26 service that is provided through short messaging service or multimedia
+27 messaging service protocols:
+28 (1) That is not a component of or linked
+29 to an online platform; and
+30 (2) Where the predominant or exclusive
+31 function is direct messaging consisting of the transmission of text, photos,
+32 or videos that are sent by electronic means, where messages are transmitted
+33 from the sender to the recipient, and are not posted within an online
+34 platform or publicly;
+35 (ii) An organization that is not organized to carry
+36 on business for its own profit or the profit of its members;
+2 02-27-2025 11:33:31 LJH015
+
+As Engrossed: H1/23/25 H1/30/25 H2/10/25 H2/12/25 H2/26/25 H2/27/25 HB1083
+1 (iii) A public or private preschool, elementary
+2 school, secondary school, or any institution of vocational, professional, or
+3 higher education;
+4 (iv) A library, as defined in the Library Services
+5 and Technology Act, 20 U.S.C. § 9122, as it existed on January 1, 2025;
+6 (v) A news website or news application where:
+7 (a) The inclusion of video content on the
+8 website or application is related to the website or application's own
+9 gathering, reporting, or publishing of news content; and
+10 (b) The website or application is not
+11 otherwise an online platform;
+12 (vi) A product or service that primarily functions
+13 as business-to-business software;
+14 (vii) A virtual private network or similar service
+15 that exists solely to route internet traffic between locations; or
+16 (viii) An interactive gaming platform that complies
+17 with the requirements of the Children's Online Privacy Protection Act, 15
+18 U.S.C. § 6501, and the regulations, rules, guidance, and exemptions under
+19 that act, as it existed on January 1, 2025;
+20 (5) "Deidentified" means data that does not identify and is not linked
+21 or reasonably linkable to a device that is linked or reasonably linkable to
+22 an individual, regardless of whether the information is aggregated;
+23 (6) "Geolocation" means information sufficient to identify a
+24 street name and a name of a city or town;
+25 (7)(A) "Individual-specific advertising to minors" means
+26 advertising or any other effort to market a product or service that is
+27 directed to a specific minor or a device that is linked or reasonably
+28 linkable to a minor based on:
+29 (i) The personal data of the minor or a group of
+30 minors who are similar in sex, age, income level, race, or ethnicity to the
+31 specific minor to whom the product or service is marketed;
+32 (ii) Psychological profiling of a minor or group of
+33 minors; or
+34 (iii) A unique identifier of the device.
+35 (B) "Individual-specific advertising to minors" includes
+36 advertising or any other effort to market a product or service that is
+3 02-27-2025 11:33:31 LJH015
+
+As Engrossed: H1/23/25 H1/30/25 H2/10/25 H2/12/25 H2/26/25 H2/27/25 HB1083
+1 directed to a specific minor or a device that is linked or reasonably
+2 linkable to a minor as a result of use by the minor, access by device of the
+3 minor, or use by a group of minors who are similar to the specific minor, of
+4 more than a single:
+5 (i) Website;
+6 (ii) Online service;
+7 (iii) Online application;
+8 (iv) Mobile application; or
+9 (v) Connected device.
+10 (C) "Individual-specific advertising to minors" does not
+11 include:
+12 (i) Advertising or marketing to a minor or the
+13 device of the minor's specific request for information or feedback, including
+14 without limitation a minor's current search query;
+15 (ii) Contextual advertising, including without
+16 limitation when an advertisement is displayed based on the content of the
+17 covered platform on which the advertisement appears and does not vary based
+18 on personal information related to the minor; or
+19 (iii) Processing personal information solely for
+20 measuring or reporting advertising or content performance, reach, or
+21 frequency, including without limitation independent measurement;
+22 (8) "Knows" means to have actual knowledge or knowledge fairly
+23 implied on the basis of objective circumstances;
+24 (9) "Mental health disorder" means the same as "mental disorder"
+25 under the most current edition of the Diagnostic and Statistical Manual of
+26 Mental Disorders;
+27 (10) "Minor" means an individual who is sixteen (16) years of
+28 age or younger;
+29 (11) "Narcotic drugs" means the same as defined in the
+30 Controlled Substances Act, 21 U.S.C. § 802, as it existed on January 1, 2025;
+31 (12)(A) "Online platform" means any public-facing website,
+32 online service, online application, or mobile application created primarily
+33 to serve a community forum for user generated content, including without
+34 limitation sharing videos, images, audio files, or other content.
+35 (B) "Online platform" does not include:
+36 (i) An entity that solely provides access to third-
+4 02-27-2025 11:33:31 LJH015
+
+As Engrossed: H1/23/25 H1/30/25 H2/10/25 H2/12/25 H2/26/25 H2/27/25 HB1083
+1 party applications through a website, online service, online application, or
+2 mobile application without exercising control over the functionality,
+3 content, or user interactions within those applications;
+4 (ii) A broadband internet service; or
+5 (iii) A telecommunications service, as defined in 47
+6 U.S.C. § 153, as it existed on January 1, 2025;
+7 (13) "Parent" means a:
+8 (A) Natural parent of a minor;
+9 (B) Legal guardian of a minor; or
+10 (C) Individual with legal custody of a minor;
+11 (14) "Personal data" means information that identifies or is
+12 linked or reasonably linkable to a particular minor, including without
+13 limitation a consumer device identifier that is linked or reasonably linkable
+14 to a minor;
+15 (15) "Personalized recommendation system" means a fully or
+16 partially automated system used to suggest, promote, or rank content,
+17 including other users or posts, based on the personal data of a user or
+18 users;
+19 (16) "Verifiable parental consent" means the same as defined in
+20 the Children's Online Privacy Protection Act, 15 United States Code § 6501,
+21 as it existed on January 1, 2025; and
+22 (17) “Video streaming service” means a digital platform that
+23 enables users to upload, share, or view user-generated video content in real
+24 time.
+25
+26 4-88-1503. Duty of care — Prevention of harm to minors — Limitations.
+27 (a) A covered platform shall take reasonable measures in the design
+28 and operation of any product, service, or feature that the covered platform
+29 knows is used by minors to avoid any heightened risk of harm to minors caused
+30 by such product, service, or feature, including without limitation:
+31 (1) The following mental health disorders, consistent with
+32 evidence-informed medical information:
+33 (A) Anxiety;
+34 (B) Depression;
+35 (C) Eating disorders;
+36 (D) Substance use disorders; and
+5 02-27-2025 11:33:31 LJH015
+
+As Engrossed: H1/23/25 H1/30/25 H2/10/25 H2/12/25 H2/26/25 H2/27/25 HB1083
+1 (E) Suicidal behaviors;
+2 (2) Patterns of use that indicate or encourage addiction-like
+3 behaviors;
+4 (3) Physical violence, online bullying, and harassment of the
+5 minor;
+6 (4) Sexual exploitation and abuse;
+7 (5) Promotion and marketing of narcotic drugs, tobacco products,
+8 gambling, or alcohol; and
+9 (6) Predatory, unfair, or deceptive marketing practices and
+10 other financial harms.
+11 (b) This section shall not be construed to require a covered platform
+12 to prevent or preclude:
+13 (1) A minor from deliberately and independently searching for or
+14 specifically requesting content;
+15 (2) The covered platform or individuals on the platform from
+16 providing resources for the prevention or mitigation of the harms described
+17 in subsection (a) of this section; or
+18 (3) A covered platform that knows that an individual is a minor
+19 from delivering an advertisement that is age-appropriate for the minor
+20 involved and intended for a minor, so long as the covered platform does not
+21 use any personal data other than the age of the minor in deciding to deliver
+22 the advertisement.
+23
+24 4-88-1504. Safeguards for minors — Parental tools — Reporting —
+25 Application.
+26 (a) A covered platform shall provide an individual that the covered
+27 platform knows is a minor with readily accessible and easy-to-use safeguards
+28 to:
+29 (1) Limit the ability of other individuals to communicate with
+30 the minor;
+31 (2) Prevent other users, whether registered or not, from viewing
+32 the minor's personal data collected by or shared on the covered platform,
+33 including without limitation restricting public access to personal data;
+34 (3) Limit features that increase, sustain, or extend use of the
+35 covered platform by the minor, including without limitation:
+36 (A) Automatic playing of media;
+6 02-27-2025 11:33:31 LJH015
+
+As Engrossed: H1/23/25 H1/30/25 H2/10/25 H2/12/25 H2/26/25 H2/27/25 HB1083
+1 (B) Rewards for time spent on the platform;
+2 (C) Notifications; and
+3 (D) Other features that result in compulsive usage of the
+4 covered platform by the minor;
+5 (4) Control personalized recommendation systems by providing the
+6 minor with the ability to:
+7 (A) Opt out of personalized recommendation systems while
+8 still allowing the display of content based on a chronological format; or
+9 (B) Limit access to certain types or categories of
+10 recommendations from the personalized recommendation systems;
+11 (5) Restrict the sharing of the geolocation of the minor to
+12 other users on the platform; and
+13 (6) Provide notice regarding the tracking of the minor's
+14 geolocation.
+15 (b) A covered platform shall provide an individual that the covered
+16 platform knows is a minor with readily accessible and easy-to-use options to:
+17 (1) Delete the minor's account and any personal data collected
+18 from or shared by the minor on the covered platform; or
+19 (2) Limit the amount of time spent by the minor on the covered
+20 platform.
+21 (c) A covered platform shall provide that, in the case of a user that
+22 the platform knows is a minor, the default setting for any safeguard
+23 described under subsection (a) of this section shall be the option available
+24 on the platform that provides the most protective level of control that is
+25 offered by the platform over privacy and safety for that user.
+26 (d)(1) A covered platform shall provide readily accessible and easy-
+27 to-use settings for a parent to support an individual that the covered
+28 platform knows is a minor with respect to the individual's use of the covered
+29 platform.
+30 (2) The parental tools provided by a covered platform shall
+31 include:
+32 (A) The ability to manage a minor's privacy and account
+33 settings, including without limitation the safeguards and options established
+34 under subsections (a) and (b) of this section, in a manner that allows a
+35 parent to:
+36 (i) View the privacy and account settings; and
+7 02-27-2025 11:33:31 LJH015
+
+As Engrossed: H1/23/25 H1/30/25 H2/10/25 H2/12/25 H2/26/25 H2/27/25 HB1083
+1 (ii) In the case of a user that the covered platform
+2 knows is a child, change and control the privacy and account settings; and
+3 (B) The ability to:
+4 (i) Restrict purchases and financial transactions by
+5 the minor; and
+6 (ii) View metrics of total time spent on the
+7 platform and restrict time spent on the covered platform by the minor.
+8 (3) A covered platform shall provide clear and conspicuous
+9 notice to an individual that the platform knows is a minor when the tools
+10 under subdivisions (1)—(3) of this subsection (d) are in use and what
+11 settings or controls have been applied.
+12 (4) If a covered platform knows a user is a child, the covered
+13 platform shall ensure that the tools described under subdivisions (1)—(3) of
+14 this subsection (d) are enabled by default.
+15 (e)(1) A covered platform shall provide:
+16 (A) A readily accessible and easy-to-use means to submit
+17 reports to the covered platform of harms to a minor;
+18 (B) An electronic point of contact specific to matters
+19 involving harms to a minor; and
+20 (C) Confirmation of the covered platform's receipt of such
+21 a report and a means to track a submitted report through the covered
+22 platform.
+23 (2)(A) A covered platform shall establish an internal process to
+24 receive and substantively respond to such reports in a reasonable and timely
+25 manner, but in no case later than:
+26 (i) Ten (10) days after receipt of a report, if for
+27 the most recent calendar year, the covered platform averaged more than ten
+28 million (10,000,000) active users on a monthly basis in the United States; or
+29 (ii) Twenty-one (21) days after receipt of a report,
+30 if for the most recent calendar year, the covered platform averaged fewer
+31 than ten million (10,000,000) active users on a monthly basis in the United
+32 States.
+33 (B) However, if the report under this subsection (e)
+34 involves an imminent threat to the safety of a minor, a covered platform
+35 shall address as promptly as possible the reported threat to safety.
+36 (f) If a covered platform knows an individual is a minor, the covered
+8 02-27-2025 11:33:31 LJH015
+
+As Engrossed: H1/23/25 H1/30/25 H2/10/25 H2/12/25 H2/26/25 H2/27/25 HB1083
+1 platform shall not facilitate advertising to the minor of:
+2 (1) Narcotic drugs;
+3 (2) Tobacco products;
+4 (3) Gambling; or
+5 (4) Alcohol.
+6 (g) A covered platform shall implement the safeguards and parental
+7 controls described under subsections (a)—(d) of this section by providing:
+8 (1) Information and control options in a clear and conspicuous
+9 manner that:
+10 (A) Considers the differing ages, capacities, and
+11 developmental needs of the minors most likely to access the covered platform;
+12 and
+13 (B) Does not encourage a minor or a parent of a minor
+14 to weaken or disable safeguards or parental controls;
+15 (2) Readily accessible and easy-to-use controls to enable or
+16 disable safeguards or parental controls; and
+17 (3) Information and control options in the same language, form,
+18 and manner as the covered platform provides the product or service used by
+19 minors and their parents.
+20 (h) It is unlawful and a violation of the Deceptive Trade Practices
+21 Act, § 4-88-101 et seq., for any covered platform to design, modify, or
+22 manipulate a user interface of a covered platform with the purpose or
+23 substantial effect of subverting or impairing user autonomy, decision-making,
+24 or choice regarding safeguards or parental controls required under this
+25 section.
+26 (i) Nothing in this section shall be construed to:
+27 (1) Prevent a covered platform from taking reasonable measures
+28 to:
+29 (A) Block, detect, or prevent the distribution of
+30 unlawful, obscene, or other harms to minors as described in § 4-88-1503; or
+31 (B) Block or filter spam, prevent criminal activity, or
+32 protect the security of a covered platform;
+33 (2) Require the disclosure of a minor's browsing behavior,
+34 search history, messages, contact list, or other content or metadata of his
+35 or her communications;
+36 (3) Prevent a covered platform from using a personalized
+9 02-27-2025 11:33:31 LJH015
+
+As Engrossed: H1/23/25 H1/30/25 H2/10/25 H2/12/25 H2/26/25 H2/27/25 HB1083
+1 recommendation system to display content to a minor if the personalized
+2 recommendation system only uses information on:
+3 (A) The language spoken by the minor;
+4 (B) The city the minor is located in; or
+5 (C) The minor's age; or
+6 (4) Prohibit a covered platform from integrating its products or
+7 service with controls from third-party systems, including without limitation
+8 operating systems or gaming consoles, to meet the requirements imposed under
+9 subsections (a)—(d) of this section regarding safeguards for minors and tools
+10 for parents, provided that:
+11 (A) The controls meet the requirements under subsections
+12 (a)—(d) of this section; and
+13 (B) The minor or parent is provided with reasonable notice
+14 under the circumstances of the integration and use of the controls.
+15
+16 4-88-1505. Disclosure — Notice — Personalized recommendation system —
+17 Advertising and marketing information and labels — Resources.
+18 (a)(1) Before registration or purchase of a covered platform by an
+19 individual that the platform knows is a minor, the covered platform shall
+20 provide clear, conspicuous, and easy-to-understand:
+21 (A) Notice of the policies and practices of the covered
+22 platform regarding personal data and safeguards for minors;
+23 (B) Information about how to access the safeguards and
+24 parental tools required under § 4-88-1504; and
+25 (C) Notice regarding whether the covered platform uses or
+26 makes available to minors a product, service, or feature, including without
+27 limitation a personalized recommendation system, that poses any heightened
+28 risk of harm to minors.
+29 (2)(A) In the case of an individual that a covered platform
+30 knows is a child, the platform shall provide information about the parental
+31 tools and safeguards required under § 4-88-1504 to a parent of the child and
+32 obtain verifiable parental consent from the parent before the initial use of
+33 the covered platform by the child.
+34 (B) A covered platform is deemed to have satisfied the
+35 requirement described in subdivision (a)(2)(A) if the covered platform uses
+36 reasonable efforts taking into consideration available technology to provide
+10 02-27-2025 11:33:31 LJH015
+
+As Engrossed: H1/23/25 H1/30/25 H2/10/25 H2/12/25 H2/26/25 H2/27/25 HB1083
+1 a parent with the information described in subdivision (a)(2)(A) of this
+2 section and to obtain verifiable parental consent under § 4-88-1504.
+3 (C) If the covered platform is not required to obtain
+4 verifiable parental consent under § 4-88-1504, the covered platform shall
+5 provide information about the parental tools and safeguards required under §
+6 4-88-1504 to a parent of a user that the platform knows is a child and obtain
+7 parental consent from the parent before the initial use of the covered
+8 platform by the child.
+9 (b) A covered platform that operates a personalized recommendation
+10 system shall, in a clear, conspicuous, and easy-to-understand manner, set out
+11 in its terms and conditions of use:
+12 (1) An overview of how the personalized recommendation system is
+13 used by the covered platform to provide information to the users of the
+14 platform who are minors, including without limitation how the personalized
+15 recommendation system uses the personal data of minors; and
+16 (2) Information about options for a minor or his or her parent
+17 to opt out of or control the personalized recommendation system.
+18 (c) A covered platform that facilitates advertising aimed at a user
+19 that the covered platform knows is a minor shall provide clear, conspicuous,
+20 and easy-to-understand information and labels to the minor on advertisements
+21 regarding:
+22 (1) The name of the product, service, or brand and the subject
+23 matter of an advertisement;
+24 (2) If the covered platform engages in individual-specific
+25 advertising to minors, why a particular advertisement is directed to a
+26 specific minor, including without limitation material information about how
+27 the minor's personal data is used to direct the advertisement to the minor;
+28 and
+29 (3) Whether particular media displayed to the minor is an
+30 advertisement or marketing material, including without limitation disclosure
+31 of endorsements of products, services, or brands made for commercial
+32 consideration by other users of the covered platform.
+33 (d) A covered platform shall provide to a minor and his or her parent
+34 clear, conspicuous, easy-to-understand, and comprehensive information in a
+35 prominent location regarding:
+36 (1) The covered platform's policies and practices regarding
+11 02-27-2025 11:33:31 LJH015
+
+As Engrossed: H1/23/25 H1/30/25 H2/10/25 H2/12/25 H2/26/25 H2/27/25 HB1083
+1 collection and retention of personal data and safeguards in place to protect
+2 minors; and
+3 (2) How to access the safeguards and tools required under § 4-
+4 88-1504.
+5 (e) A covered platform shall ensure, to the extent practicable, that
+6 the disclosures required by this section are made available in the same
+7 language, form, and manner as the covered platform provides any product or
+8 service used by a minor and his or her parent.
+9
+10 4-88-1506. Enforcement.
+11 (a) In an enforcement action brought under this subchapter, the
+12 Attorney General shall allege a violation of a provision of this subchapter.
+13 (b)(1) A violation of this subchapter is:
+14 (A) An unfair and deceptive act or practice under the
+15 Deceptive Trade Practices Act, § 4-88-101 et seq.; and
+16 (B) Punishable solely by action of the Attorney General.
+17 (2) All remedies, penalties, and authority granted to the
+18 Attorney General under the Deceptive Trade Practices Act, § 4-88-101 et seq.,
+19 shall be available to the Attorney General for the enforcement of this
+20 subchapter.
+21 (3) The remedies and penalties for violations under this
+22 subchapter are cumulative and in addition to other procedures or remedies for
+23 violations or conduct under other law.
+24
+25 4-88-1507. Kids Online Safety Council.
+26 (a) There is created within the Department of Commerce a council to be
+27 known as the "Kids Online Safety Council".
+28 (b) The council shall consist of nine (9) members appointed by the
+29 Secretary of Commerce and include diverse participation from:
+30 (1) Academic experts, health professionals, and members of civil
+31 society with expertise in mental health, substance use disorders, and the
+32 prevention of harms to minors;
+33 (2) Representatives in academia and civil society with specific
+34 expertise in privacy and civil liberties;
+35 (3) Parents and youth representation;
+36 (4) Representatives of covered platforms;
+12 02-27-2025 11:33:31 LJH015
+
+As Engrossed: H1/23/25 H1/30/25 H2/10/25 H2/12/25 H2/26/25 H2/27/25 HB1083
+1 (5) Representatives of the State Securities Department, the
+2 Department of Corrections, the Department of Health, and the Department of
+3 Human Services;
+4 (6) Educators; and
+5 (7) Representatives of communities of socially disadvantaged
+6 individuals as defined in the Small Business Act, 15 U.S.C. § 631 et seq., as
+7 it existed on January 1, 2025.
+8 (c) The council shall:
+9 (1) Identify emerging or current risks of harms to minors
+10 associated with online platforms;
+11 (2) Recommend measures and methods for assessing, preventing,
+12 and mitigating harms to minors online;
+13 (3) Recommend methods and themes for conducting research
+14 regarding online harms to minors, including in English and languages other
+15 than English; and
+16 (4) Recommend best practices and clear, consensus-based
+17 technical standards for transparency reports and audits, as required under
+18 this subchapter, including methods, criteria, and scope to promote overall
+19 accountability.
+20
+21 4-88-1508. Filter bubble transparency requirements — Definitions.
+22 (a) As used in this section:
+23 (1) "Algorithmic ranking system” means a computational process,
+24 including without limitation a computational process derived from algorithmic
+25 decision-making, machine learning, statistical analysis, or other data
+26 processing or artificial intelligence techniques, used to determine the
+27 selection, order, relative prioritization, or relative prominence of content
+28 from a set of information that is provided to a user on a covered platform,
+29 including without limitation the:
+30 (A) Ranking of search results;
+31 (B) Provision of content recommendations;
+32 (C) Display of social media posts; or
+33 (D) Any other method of automated content selection;
+34 (2) "Downstream provider” means, with respect to a search
+35 syndication contract, the person that receives access to an index of web
+36 pages on the internet from an upstream provider under such contract;
+13 02-27-2025 11:33:31 LJH015
+
+As Engrossed: H1/23/25 H1/30/25 H2/10/25 H2/12/25 H2/26/25 H2/27/25 HB1083
+1 (3)(A) "Input-transparent algorithm” means an algorithmic
+2 ranking system that does not use the user-specific data of a user to
+3 determine the selection, order, relative prioritization, or relative
+4 prominence of information that is furnished to such user on a covered
+5 platform, unless the user-specific data is expressly provided to the covered
+6 platform by the user for that purpose.
+7 (B) For purposes of subdivision (a)(3)(A) of this section,
+8 user-specific data that is provided by a user for the express purpose of
+9 determining the selection, order, relative prioritization, or relative
+10 prominence of information that is furnished to such user on a covered
+11 platform:
+12 (i) Shall include user-supplied search terms,
+13 filters, speech patterns, if provided for the purpose of enabling the
+14 platform to accept spoken input or selecting the language in which the user
+15 interacts with the platform, saved preferences, and the current precise
+16 geolocation information that is supplied by the user;
+17 (ii) Shall include the user's current approximate
+18 geolocation information;
+19 (iii) Shall include data affirmatively supplied to
+20 the covered platform by the user that expresses the user's desire to receive
+21 particular information, such as the social media profiles the user follows,
+22 the video channels the user subscribes to, or other content or sources of
+23 content on the platform the user has selected;
+24 (iv) Shall not include the history of the user's
+25 connected device, including the user's history of web searches and browsing,
+26 previous geographical locations, physical activity, device interaction, and
+27 financial transactions; and
+28 (v) Shall not include inferences about the user or
+29 the user's connected device, without regard to whether such inferences are
+30 based on data described in subdivision (a)(4)(B)(i) or subdivision
+31 (a)(4)(B)(ii) of this section;
+32 (4)(A) "Opaque algorithm” means an algorithmic ranking system
+33 that determines the selection, order, relative prioritization, or relative
+34 prominence of information that is furnished to the user on a covered platform
+35 based, in whole or part, on user-specific data that was not expressly
+36 provided by the user to the platform for such purpose.
+14 02-27-2025 11:33:31 LJH015
+
+As Engrossed: H1/23/25 H1/30/25 H2/10/25 H2/12/25 H2/26/25 H2/27/25 HB1083
+1 (B) "Opaque algorithm" does not include an algorithmic
+2 ranking system used by a covered platform if:
+3 (i) The only user-specific data, including without
+4 limitation inferences about the user, that algorithmic ranking system uses is
+5 information relating to the age of the user; and
+6 (ii) The information is only used to restrict a
+7 user's access to content on the basis that the individual is a minor;
+8
+9 (5) "Search syndication contract” means a contract or
+10 subcontract for the sale of, license of, or other right to access an index of
+11 web pages or search results on the internet for the purpose of operating an
+12 internet search engine;
+13 (6) "Upstream provider” means, with respect to a search
+14 syndication contract, the person that grants access to an index of web pages
+15 or search results on the internet to a downstream provider under the
+16 contract; and
+17 (7) "User-specific data” means information relating to an
+18 individual or a specific connected device that would not necessarily be true
+19 of every individual or device.
+20 (b)(1) Beginning on the date that is one (1) year after the date of
+21 enactment of this subchapter, it shall be unlawful:
+22 (A) For any person to operate a covered platform that uses
+23 an opaque algorithm unless the person complies with the requirements of
+24 subdivision (b)(2) of this section; or
+25 (B) For any upstream provider to grant access to an index
+26 of web pages on the internet under a search syndication contract that does
+27 not comply with the requirements of subdivision (b)(3) of this section.
+28 (2)(A) A covered platform operating an opaque algorithm shall:
+29 (i) Provide notice to users of the platform:
+30 (a) That the covered platform uses an opaque
+31 algorithm that uses user-specific data to select the content the user sees,
+32 with such notice presented in a clear, conspicuous manner on the covered
+33 platform whenever the user interacts with an opaque algorithm for the first
+34 time that can be dismissed by the user; and
+35 (b) In the terms and conditions of the covered
+36 platform, in a clear, accessible, and easily comprehensible manner to be
+15 02-27-2025 11:33:31 LJH015
+
+As Engrossed: H1/23/25 H1/30/25 H2/10/25 H2/12/25 H2/26/25 H2/27/25 HB1083
+1 updated no less frequently than once every six (6) months:
+2 (1) The most important features, inputs,
+3 and parameters used by the algorithm;
+4 (2) How any user-specific data used by
+5 the algorithm is collected or inferred about a user of the covered platform,
+6 and the categories of such data;
+7 (3) Any options that the covered
+8 internet platform makes available for a user of the platform to opt out or
+9 exercise options under subsection (b)(2)(A)(ii) of this section, modify the
+10 profile of the user, or influence the features, inputs, or parameters used by
+11 the algorithm; and
+12 (4) Any quantities, such as time spent
+13 using a product or specific measures of engagement or social interaction,
+14 that the algorithm is designed to optimize, as well as a general description
+15 of the relative importance of each quantity for such ranking; and
+16 (ii) Make available a version of the platform that
+17 uses an input-transparent algorithm and enables users to easily switch
+18 between the version of the platform that uses an opaque algorithm and the
+19 version of the platform that uses the input-transparent algorithm.
+20 (B) Subdivision (b)(2)(A) of this section shall not apply
+21 with respect to an internet search engine if:
+22 (i) The search engine is operated by a downstream
+23 provider with fewer than one thousand (1,000) employees; and
+24 (ii) The search engine uses an index of web pages on
+25 the internet to which such provider received access under a search
+26 syndication contract.
+27 (3) An upstream provider engaged in a search syndication
+28 contract shall:
+29 (A) Make the upstream provider makes available to the
+30 downstream provider the same input-transparent algorithm used by the upstream
+31 provider for purposes of complying with subdivision (b)(2)(A)(ii) of this
+32 section; and
+33 (B) Not impose any additional costs, degraded quality,
+34 reduced speed, or other constraint on the functioning of the algorithm when
+35 used by the downstream provider to operate an internet search engine relative
+36 to the performance of the algorithm when used by the upstream provider to
+16 02-27-2025 11:33:31 LJH015
+
+As Engrossed: H1/23/25 H1/30/25 H2/10/25 H2/12/25 H2/26/25 H2/27/25 HB1083
+1 operate an internet search engine.
+2 (4) A covered platform shall not deny, charge different prices
+3 or rates for, or condition the provision of a service or product to an
+4 individual based on the individual’s election to use a version of the
+5 platform that uses an input-transparent algorithm as provided under
+6 subdivision (b)(2)(A)(ii) of this section.
+7 (c) A violation of this section by an operator of a covered platform
+8 shall be treated as an unfair or deceptive act or practice under the
+9 Deceptive Trade Practices Act, § 4-88-101 et seq.
+10 (d) Nothing in this section shall be construed to limit or prohibit a
+11 covered platform’s ability to, at the direction of an individual user or
+12 group of users, restrict another user from searching for, finding, accessing,
+13 or interacting with such user’s or group’s account, content, data, or online
+14 community.
+15
+16 4-88-1509. Construction.
+17 (a) For purposes of enforcing this subchapter, in making a
+18 determination as to whether a covered platform has knowledge fairly implied
+19 on the basis of objective circumstances that a user is a minor, the Attorney
+20 General shall rely on competent and reliable empirical evidence, taking into
+21 account the totality of the circumstances, including without limitation
+22 consideration of whether the operator, using available technology, exercised
+23 reasonable care.
+24 (b) Nothing in this subchapter shall be construed to require:
+25 (1) The affirmative collection of any personal data with respect
+26 to the age of users that a covered platform is not already collecting in the
+27 normal course of business; or
+28 (2) A covered platform to implement an age gating or age
+29 verification functionality.
+30 (c) Nothing in this subchapter shall be construed to restrict a
+31 covered platform's ability to:
+32 (1) Cooperate with law enforcement agencies regarding activity
+33 that the covered platform reasonably and in good faith believes may violate
+34 federal law, state law, or local regulations;
+35 (2) Comply with a civil, criminal, or regulatory inquiry or any
+36 investigation, subpoena, or summons by federal, state, local, or other
+17 02-27-2025 11:33:31 LJH015
+
+As Engrossed: H1/23/25 H1/30/25 H2/10/25 H2/12/25 H2/26/25 H2/27/25 HB1083
+1 government authorities; or
+2 (3) Investigate, establish, exercise, respond to, or defend
+3 against legal claims.
+4 (d) A video streaming service is in compliance with this subchapter
+5 if:
+6 (1) It predominantly consists of news, sports, entertainment, or
+7 other video programming content that is preselected by the provider and not
+8 user-generated;
+9 (2) Any chat, comment, or interactive functionality that the
+10 video streaming service provides is incidental to, directly related to, or
+11 dependent on provision of that content; and
+12 (3) If the video streaming service requires account owner
+13 registration and is not predominantly news or sports, the service includes
+14 the capability:
+15 (A) To limit a minor’s access to the service, including
+16 without limitation utilizing a system of age-rating;
+17 (B) To limit the automatic playing of on-demand content
+18 selected by a personalized recommendation system for an individual that the
+19 service knows is a minor;
+20 (C) To provide an individual that the service knows is a
+21 minor with readily accessible and easy-to-use options to delete an account
+22 held by the minor and delete any personal data collected from the minor on
+23 the service, or, in the case of a service that allows a parent to create a
+24 profile for a minor, to allow a parent to delete the minor’s profile, and to
+25 delete any personal data collected from the minor on the service;
+26 (D) For a parent to manage a minor’s privacy and account
+27 settings, and restrict purchases and financial transactions by a minor;
+28 (E) To provide an electronic point of contact specific to
+29 matters described in subdivision (c)(3) of this section;
+30 (F) To offer a clear, conspicuous, and easy-to-understand
+31 notice of the covered platform's policies and practices with respect to
+32 personal data and the capabilities described in this subdivision (c)(3) of
+33 this section; and
+34 (G) When providing on-demand content, to employ measures
+35 that safeguard against serving advertising for narcotic drugs, tobacco
+36 products, gambling, or alcohol directly to the account or profile of an
+18 02-27-2025 11:33:31 LJH015
+
+As Engrossed: H1/23/25 H1/30/25 H2/10/25 H2/12/25 H2/26/25 H2/27/25 HB1083
+1 individual that the service knows is a minor.
+2
+3 SECTION 2. DO NOT CODIFY. EFFECTIVE DATE.
+4 This act is effective on and after July 1, 2026.
+5
+6 /s/Gramlich
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+19 02-27-2025 11:33:31 LJH015
+
+[DELETED:        A A   T S  B   S a S   4  T O   4  A   ( o   ( f r o   (    (]
+[DELETED:  H2 0 d d    ( s    (   ( o     (     (     (     ( a      ( T      ( d      (      ( s r       ( a       ( i      ( s m       ( t       ( f o f p     ( o]
+[DELETED:  H3 0     ( s h     ( a     (      ( w g      ( o     ( a     ( t     ( w U t   ( o a   ( s   ( a d l     ( m s     ( m     (    ( a]
+[DELETED:  H4 0 d l m m     (     (     (     (     (    ( i     ( d w     ( l c o     ( m f   ( i   ( u M   ( a   ( C   ( o t l    (     (]
+[DELETED:  H5 0 p m c     (     ( U   (    (    (    (   ( l l t   ( p i u   ( t a   ( e t   4  ( a k b   ( e    (    (    (    (]
+[DELETED:  H6 0    (   ( b   ( m   (   ( g   ( o  ( t   ( s   ( p i   ( f i u t   4 A  ( p t   ( t   ( t i   ( c    (]
+[DELETED:  H7 0    (    (    ( c   ( m    ( s    ( r   ( o   ( g  ( p   ( f   ( p  ( t d o o  ( t p p   ( i    ( s u p     (]
+[DELETED:  H8 0     ( k    (     ( t     ( p   ( n u s   ( p t  (    ( r    ( i    ( a p   ( r m     ( t m     ( i t S    ( i s  (]
+[DELETED:  H9 0 p   (   (   (   (  ( c   ( m    ( d a    ( t   ( d   ( a m  ( A m s o s  (   ( t    ( u    ( p   ( s o   (]
+[DELETED:  H1 0 r r    (    (    (   ( s o s f    ( (    ( u   4 A  ( i p    ( p    ( p    ( m l r   ( k t o t    ( r r]
+[DELETED:  H1 0 a s    ( v p 4 p p  ( s i   ( u p r   ( t  ( t a r   ( m   ( a s t a   ( a o c  ( c p   (]
+[DELETED:  H1 0 c m   ( 8  ( t l s   4  ( A  (    ( D    (   ( A s s   ( s v     4  ( k  ( S   ( s p   ( e   (   (]
+[DELETED:  H1 0   ( D H   (   ( i i  (   ( a   ( a   ( r t   ( t t a   4  (   ( i d p s f i    (    (    (    (   ( s p]
+[DELETED:  H1 0   ( r d p p p    ( u d p p     ( f p i g     ( g     ( t p t c     ( c p f     ( t b (   ( t p b p]
+[DELETED:  H1 0    ( r     ( l i     ( u       ( s w i   ( s o c   ( i o  ( e    ( a s    ( o n   (     (      ( a w p t      ( p]
+[DELETED:  H1 0 u       ( a       ( t a       ( i e p t       ( u t o     ( u b v    ( w     ( p     ( t s   ( c    ( d p s    ( r u t]
+[DELETED:  H1 0 o   ( o i p s  ( s D  ( c g o c   4  ( d o G a c r  (   ( t n   ( v  ( c   ( t f   ( i]
+[DELETED:  H1 0 g   ( a  ( i   ( o u   ( v d   ( r t    ( w    ( s s    ( m h t p d    ( s    ( m    ( n p t    ( t p]
+[DELETED:  H1 0 i  S     /                              ]

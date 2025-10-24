@@ -1,0 +1,259 @@
+Title: Stricken language would be deleted from and underlined language would be added to present law.
+Official Title: Stricken language would be deleted from and underlined language would be added to present law.
+Number of Sections: 1
+Source: versions - SB 557
+Media Type: application/pdf
+Strikethrough Detection: 3 sections found
+
+================================================================================
+
+Section 1:
+1 State of Arkansas
+A Bill
+2 95th General Assembly
+3 Regular Session, 2025 SENATE BILL 557
+4
+5 By: Senator M. Johnson
+6
+7
+For An Act To Be Entitled
+8
+9 AN ACT TO AMEND LAWS CONCERNING WATER PERMITS AND
+10 DISCHARGE OF WASTEWATER; TO AUTHORIZE DENIALS OF
+11 APPLICANTS FOR A WATER PERMIT THAT HAVE A HISTORY OF
+12 NONCOMPLIANCE; TO CLARIFY A NOTICE OF INTENT; TO
+13 ESTABLISH ACCESS TO TECHNICAL SUPPORT IN THE EVENT OF
+14 A SEWAGE OR STORM WATER EMERGENCY; TO PROHIBIT
+15 CERTAIN DISCHARGE OF WASTEWATER; AND FOR OTHER
+16 PURPOSES.
+17
+18
+Subtitle
+19
+20 TO AMENDS LAW CONCERNING WATER PERMITS
+21 AND DISCHARGE OF WASTEWATER; TO
+22 AUTHORIZE DENIALS OF APPLICANTS THAT
+23 HAVE A HISTORY OF NONCOMPLIANCE; AND TO
+24 PROHIBIT CERTAIN DISCHARGE OF
+25 WASTEWATER.
+26
+27 BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF ARKANSAS:
+28
+29 SECTION 1. Arkansas Code § 8-4-203(b), concerning permits relating to
+30 water pollution, is amended to add an additional subdivision to read as
+31 follows:
+32 (10)(A) The division may deny a permit relating to wastewater if
+33 the applicant has a history of noncompliance with environmental regulations,
+34 whether at the applicant's site or at any other permitted or unpermitted
+35 facility in this state.
+36 (B) Noncompliance with environmental regulations includes:
+*JMB212*
+03/21/2025 12:33:28 PM JMB212
+SB557
+1 (i) Noncompliance that is recorded on inspections or
+2 other compliance activities performed by the division;
+3 (ii) A demonstrated history by the applicant of
+4 submitting incomplete or deficient permit application information;
+5 (iii) All consent administrative orders issued by
+6 the division against the applicant; and
+7 (iv) Noncompliance of the applicant or any other
+8 entity whose ownership includes individuals who own at least five percent
+9 (5%) of the applicant and who own or have owned at least five percent (5%) of
+10 any other entity that has a history of noncompliance with environmental
+11 regulations.
+12 (C) If an applicant has a history of noncompliance with
+13 environmental regulations that includes five (5) or more events of
+14 noncompliance with environmental regulations within the previous five (5)
+15 years, the division shall deny the permit.
+16
+17 SECTION 2. Arkansas Code § 8-4-203(d)(1), concerning notice of
+18 application for a permit relating to water, is amended to read as follows:
+19 (d)(1) When an application for the issuance of a new permit or a major
+20 modification of an existing permit is filed with the division, the division
+21 shall cause notice of the application to be published in a newspaper of
+22 general circulation in the county in which the proposed facility is to be
+23 located and provide notification by mail to any resident or property owner
+24 within the same zip code in which the proposed facility is to be located.
+25
+26 SECTION 3. Arkansas Code § 8-4-203(m)(1)(B), concerning general
+27 permits relating to water and notice of intent, is amended to read as
+28 follows:
+29 (B)(i) Facilities or sources eligible to construct or
+30 operate under a general permit may obtain coverage by submitting a notice of
+31 intent to the division.
+32 (ii) The director may require a person who has been
+33 granted coverage under a general permit to apply for and obtain an individual
+34 permit.
+35 (iii)(a) A notice of intent as described in
+36 subdivision (m)(1)(B)(i) of this section shall include water courses and
+2 03/21/2025 12:33:28 PM JMB212
+SB557
+1 wetlands and a certification that the applicant for a general permit is not
+2 impacting waters of the United States or wetlands.
+3 (b) If an applicant cannot certify as required
+4 under subdivision (m)(1)(B)(iii)(a) of this section, the applicant shall
+5 provide a copy of the Corps permit under Section 304 of the Clean Water Act,
+6 as amended by 33 U.C.C. § 1344.
+7
+8 SECTION 4. Arkansas Code Title 8, Chapter 4, Subchapter 2, is amended
+9 to add additional sections to read as follows:
+10 8-4-235. Sewage or storm water emergency.
+11 The Division of Environmental Quality shall establish a method to allow
+12 local officials responding to a sewage or storm water emergency to have
+13 immediate access to personnel of the division for technical support.
+14
+15 8-4-236. Prohibited discharge.
+16 A retail developer or a permittee of this chapter shall not discharge:
+17 (1) Into an ephemeral or intermittent stream or waterway;
+18 (2) In any situation in which the normal course of discharge
+19 shall result in accumulation of wastewater in areas outside of the stream or
+20 waterway; or
+21 (3) In any situation that results in an overflow into the
+22 private property of another.
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+3 03/21/2025 12:33:28 PM JMB212
+[DELETED:          A D A N E A C P   T A A H P W  B   S w f   ( t w f    (]
+[DELETED: S2 0     ( o     ( s     ( t     ( e ( a r    ( e n y   S a  ( m s g l w   S p f    ( o i     ( g p     ( s]
+[DELETED: S3 0 w i      ( u p a   S t  8  T l i   8  A   (   ( s w   ( p              ]
+
+
+================================================================================
+
+Raw Text:
+Stricken language would be deleted from and underlined language would be added to present law.
+1 State of Arkansas
+A Bill
+2 95th General Assembly
+3 Regular Session, 2025 SENATE BILL 557
+4
+5 By: Senator M. Johnson
+6
+7
+For An Act To Be Entitled
+8
+9 AN ACT TO AMEND LAWS CONCERNING WATER PERMITS AND
+10 DISCHARGE OF WASTEWATER; TO AUTHORIZE DENIALS OF
+11 APPLICANTS FOR A WATER PERMIT THAT HAVE A HISTORY OF
+12 NONCOMPLIANCE; TO CLARIFY A NOTICE OF INTENT; TO
+13 ESTABLISH ACCESS TO TECHNICAL SUPPORT IN THE EVENT OF
+14 A SEWAGE OR STORM WATER EMERGENCY; TO PROHIBIT
+15 CERTAIN DISCHARGE OF WASTEWATER; AND FOR OTHER
+16 PURPOSES.
+17
+18
+Subtitle
+19
+20 TO AMENDS LAW CONCERNING WATER PERMITS
+21 AND DISCHARGE OF WASTEWATER; TO
+22 AUTHORIZE DENIALS OF APPLICANTS THAT
+23 HAVE A HISTORY OF NONCOMPLIANCE; AND TO
+24 PROHIBIT CERTAIN DISCHARGE OF
+25 WASTEWATER.
+26
+27 BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF ARKANSAS:
+28
+29 SECTION 1. Arkansas Code § 8-4-203(b), concerning permits relating to
+30 water pollution, is amended to add an additional subdivision to read as
+31 follows:
+32 (10)(A) The division may deny a permit relating to wastewater if
+33 the applicant has a history of noncompliance with environmental regulations,
+34 whether at the applicant's site or at any other permitted or unpermitted
+35 facility in this state.
+36 (B) Noncompliance with environmental regulations includes:
+*JMB212*
+03/21/2025 12:33:28 PM JMB212
+
+SB557
+1 (i) Noncompliance that is recorded on inspections or
+2 other compliance activities performed by the division;
+3 (ii) A demonstrated history by the applicant of
+4 submitting incomplete or deficient permit application information;
+5 (iii) All consent administrative orders issued by
+6 the division against the applicant; and
+7 (iv) Noncompliance of the applicant or any other
+8 entity whose ownership includes individuals who own at least five percent
+9 (5%) of the applicant and who own or have owned at least five percent (5%) of
+10 any other entity that has a history of noncompliance with environmental
+11 regulations.
+12 (C) If an applicant has a history of noncompliance with
+13 environmental regulations that includes five (5) or more events of
+14 noncompliance with environmental regulations within the previous five (5)
+15 years, the division shall deny the permit.
+16
+17 SECTION 2. Arkansas Code § 8-4-203(d)(1), concerning notice of
+18 application for a permit relating to water, is amended to read as follows:
+19 (d)(1) When an application for the issuance of a new permit or a major
+20 modification of an existing permit is filed with the division, the division
+21 shall cause notice of the application to be published in a newspaper of
+22 general circulation in the county in which the proposed facility is to be
+23 located and provide notification by mail to any resident or property owner
+24 within the same zip code in which the proposed facility is to be located.
+25
+26 SECTION 3. Arkansas Code § 8-4-203(m)(1)(B), concerning general
+27 permits relating to water and notice of intent, is amended to read as
+28 follows:
+29 (B)(i) Facilities or sources eligible to construct or
+30 operate under a general permit may obtain coverage by submitting a notice of
+31 intent to the division.
+32 (ii) The director may require a person who has been
+33 granted coverage under a general permit to apply for and obtain an individual
+34 permit.
+35 (iii)(a) A notice of intent as described in
+36 subdivision (m)(1)(B)(i) of this section shall include water courses and
+2 03/21/2025 12:33:28 PM JMB212
+
+SB557
+1 wetlands and a certification that the applicant for a general permit is not
+2 impacting waters of the United States or wetlands.
+3 (b) If an applicant cannot certify as required
+4 under subdivision (m)(1)(B)(iii)(a) of this section, the applicant shall
+5 provide a copy of the Corps permit under Section 304 of the Clean Water Act,
+6 as amended by 33 U.C.C. § 1344.
+7
+8 SECTION 4. Arkansas Code Title 8, Chapter 4, Subchapter 2, is amended
+9 to add additional sections to read as follows:
+10 8-4-235. Sewage or storm water emergency.
+11 The Division of Environmental Quality shall establish a method to allow
+12 local officials responding to a sewage or storm water emergency to have
+13 immediate access to personnel of the division for technical support.
+14
+15 8-4-236. Prohibited discharge.
+16 A retail developer or a permittee of this chapter shall not discharge:
+17 (1) Into an ephemeral or intermittent stream or waterway;
+18 (2) In any situation in which the normal course of discharge
+19 shall result in accumulation of wastewater in areas outside of the stream or
+20 waterway; or
+21 (3) In any situation that results in an overflow into the
+22 private property of another.
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+3 03/21/2025 12:33:28 PM JMB212
+
+[DELETED:          A D A N E A C P   T A A H P W  B   S w f   ( t w f    (]
+[DELETED: S2 0     ( o     ( s     ( t     ( e ( a r    ( e n y   S a  ( m s g l w   S p f    ( o i     ( g p     ( s]
+[DELETED: S3 0 w i      ( u p a   S t  8  T l i   8  A   (   ( s w   ( p              ]

@@ -1,0 +1,180 @@
+Title: Stricken language would be deleted from and underlined language would be added to present law.
+Official Title: Stricken language would be deleted from and underlined language would be added to present law.
+Number of Sections: 1
+Source: versions - SB 137
+Media Type: application/pdf
+Strikethrough Detection: 2 sections found
+
+================================================================================
+
+Section 1:
+1 State of Arkansas
+A Bill
+2 95th General Assembly
+3 Regular Session, 2025 SENATE BILL 137
+4
+5 By: Senator J. Boyd
+6 By: Representative Achor
+7
+For An Act To Be Entitled
+8
+9 AN ACT TO PERMIT HEALTHCARE PROVIDERS TO MAINTAIN
+10 MEDICAL RECORDS IN AN ELECTRONIC FORMAT; AND FOR
+11 OTHER PURPOSES.
+12
+13
+Subtitle
+14
+15 TO PERMIT HEALTHCARE PROVIDERS TO
+16 MAINTAIN MEDICAL RECORDS IN AN
+17 ELECTRONIC FORMAT.
+18
+19 BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF ARKANSAS:
+20
+21 SECTION 1. Arkansas Code Title 20, Chapter 9, Subchapter 1, is amended
+22 to add an additional section to read as follows:
+23 20-9-106. Electronic medical records — Definitions.
+24 (a) As used in this section:
+25 (1) "Healthcare provider" means:
+26 (A) An individual who is licensed, certified, or otherwise
+27 authorized by a licensing authority of this state to administer healthcare
+28 services in the ordinary course of his or her business or practice; or
+29 (B) A healthcare facility including without limitation a
+30 hospital, pharmacy, long-term care facility, office of a healthcare
+31 professional, or a hospice facility;
+32 (2) "Medical record" means a patient’s health record, including
+33 without limitation evaluations, diagnoses, prognoses, laboratory reports, X-
+34 rays, prescriptions, and other technical information used in assessing the
+35 patient’s condition, or the pertinent portion of the record relating to a
+36 specific condition or a summary of the record; and
+*JMB283*
+01/28/2025 8:11:48 AM JMB283
+SB137
+1 (3) "Patient" means a person who has received healthcare
+2 services from a healthcare provider.
+3 (b) Notwithstanding any other provision of the law to the contrary, a
+4 healthcare provider may, in its sole discretion, create, maintain, transmit,
+5 receive, and store medical records in an electronic format and may, in its
+6 sole discretion, temporarily or permanently convert records into an
+7 electronic format.
+8 (c)(1) A healthcare provider is not required to maintain separate
+9 tangible copies of electronically stored medical records.
+10 (2) However, the healthcare provider shall maintain
+11 electronically stored medical records in a legible and retrievable form,
+12 including adequate data backup.
+13 (d) This section is subject to all applicable federal laws governing
+14 the security and confidentiality of a patient’s personal health information.
+15 (e) A tangible copy of a medical record reproduced from an
+16 electronically stored record shall be considered an original for purposes of
+17 providing copies to patients or other authorized parties and for introduction
+18 of the medical record into evidence in administrative or court proceedings.
+19 (f)(1) Except as provided otherwise under federal law, upon receiving
+20 a request for a copy of a medical record from a patient or an authorized
+21 person, a healthcare provider shall provide copies of the medical record in
+22 either tangible or electronically stored form.
+23 (2) Except as provided otherwise under federal law, if a
+24 healthcare provider is audited by a health benefit plan, a pharmacy benefit
+25 manager, or a third-party entity involved in health benefits, the auditor
+26 shall accept an electronic version of the medical record in lieu of a
+27 physical medical record.
+28 (g) This section applies to psychiatric, psychological, or other
+29 mental health medical records of a patient.
+30
+31
+32
+33
+34
+35
+36
+2 01/28/2025 8:11:48 AM JMB283
+[DELETED:          A M O   T M E  B   S t  2  (   (    ( a s    ( h p   ( w r p s]
+[DELETED: S2 0   ( s  ( h r s e  ( t   ( e i  ( t  ( e p o  ( a p e   ( h m s p  ( m]
+
+
+================================================================================
+
+Raw Text:
+Stricken language would be deleted from and underlined language would be added to present law.
+1 State of Arkansas
+A Bill
+2 95th General Assembly
+3 Regular Session, 2025 SENATE BILL 137
+4
+5 By: Senator J. Boyd
+6 By: Representative Achor
+7
+For An Act To Be Entitled
+8
+9 AN ACT TO PERMIT HEALTHCARE PROVIDERS TO MAINTAIN
+10 MEDICAL RECORDS IN AN ELECTRONIC FORMAT; AND FOR
+11 OTHER PURPOSES.
+12
+13
+Subtitle
+14
+15 TO PERMIT HEALTHCARE PROVIDERS TO
+16 MAINTAIN MEDICAL RECORDS IN AN
+17 ELECTRONIC FORMAT.
+18
+19 BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF ARKANSAS:
+20
+21 SECTION 1. Arkansas Code Title 20, Chapter 9, Subchapter 1, is amended
+22 to add an additional section to read as follows:
+23 20-9-106. Electronic medical records — Definitions.
+24 (a) As used in this section:
+25 (1) "Healthcare provider" means:
+26 (A) An individual who is licensed, certified, or otherwise
+27 authorized by a licensing authority of this state to administer healthcare
+28 services in the ordinary course of his or her business or practice; or
+29 (B) A healthcare facility including without limitation a
+30 hospital, pharmacy, long-term care facility, office of a healthcare
+31 professional, or a hospice facility;
+32 (2) "Medical record" means a patient’s health record, including
+33 without limitation evaluations, diagnoses, prognoses, laboratory reports, X-
+34 rays, prescriptions, and other technical information used in assessing the
+35 patient’s condition, or the pertinent portion of the record relating to a
+36 specific condition or a summary of the record; and
+*JMB283*
+01/28/2025 8:11:48 AM JMB283
+
+SB137
+1 (3) "Patient" means a person who has received healthcare
+2 services from a healthcare provider.
+3 (b) Notwithstanding any other provision of the law to the contrary, a
+4 healthcare provider may, in its sole discretion, create, maintain, transmit,
+5 receive, and store medical records in an electronic format and may, in its
+6 sole discretion, temporarily or permanently convert records into an
+7 electronic format.
+8 (c)(1) A healthcare provider is not required to maintain separate
+9 tangible copies of electronically stored medical records.
+10 (2) However, the healthcare provider shall maintain
+11 electronically stored medical records in a legible and retrievable form,
+12 including adequate data backup.
+13 (d) This section is subject to all applicable federal laws governing
+14 the security and confidentiality of a patient’s personal health information.
+15 (e) A tangible copy of a medical record reproduced from an
+16 electronically stored record shall be considered an original for purposes of
+17 providing copies to patients or other authorized parties and for introduction
+18 of the medical record into evidence in administrative or court proceedings.
+19 (f)(1) Except as provided otherwise under federal law, upon receiving
+20 a request for a copy of a medical record from a patient or an authorized
+21 person, a healthcare provider shall provide copies of the medical record in
+22 either tangible or electronically stored form.
+23 (2) Except as provided otherwise under federal law, if a
+24 healthcare provider is audited by a health benefit plan, a pharmacy benefit
+25 manager, or a third-party entity involved in health benefits, the auditor
+26 shall accept an electronic version of the medical record in lieu of a
+27 physical medical record.
+28 (g) This section applies to psychiatric, psychological, or other
+29 mental health medical records of a patient.
+30
+31
+32
+33
+34
+35
+36
+2 01/28/2025 8:11:48 AM JMB283
+
+[DELETED:          A M O   T M E  B   S t  2  (   (    ( a s    ( h p   ( w r p s]
+[DELETED: S2 0   ( s  ( h r s e  ( t   ( e i  ( t  ( e p o  ( a p e   ( h m s p  ( m]

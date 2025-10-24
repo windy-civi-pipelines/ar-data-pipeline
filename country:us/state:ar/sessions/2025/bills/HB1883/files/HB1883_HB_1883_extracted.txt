@@ -1,0 +1,180 @@
+Title: Stricken language would be deleted from and underlined language would be added to present law.
+Official Title: Stricken language would be deleted from and underlined language would be added to present law.
+Number of Sections: 1
+Source: versions - HB 1883
+Media Type: application/pdf
+Strikethrough Detection: 2 sections found
+
+================================================================================
+
+Section 1:
+1 State of Arkansas
+A Bill
+2 95th General Assembly
+3 Regular Session, 2025 HOUSE BILL 1883
+4
+5 By: Representative Long
+6
+7
+For An Act To Be Entitled
+8
+9 AN ACT TO CREATE THE ARKANSAS FOURTH AMENDMENT
+10 PROTECTION ACT; TO AMEND THE LAW CONCERNING THE
+11 COLLECTION OF ELECTRONIC DATA AND METADATA; AND FOR
+12 OTHER PURPOSES.
+13
+14
+Subtitle
+15
+16 TO CREATE THE ARKANSAS FOURTH AMENDMENT
+17 PROTECTION ACT; AND TO AMEND THE LAW
+18 CONCERNING THE COLLECTION OF ELECTRONIC
+19 DATA AND METADATA.
+20
+21 BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF ARKANSAS:
+22
+23 SECTION 1. Arkansas Code Title 25, Chapter 1, is amended to add an
+24 additional subchapter to read as follows:
+25
+26 Subchapter 13 — Arkansas Fourth Amendment Protection Act
+27
+28 25-1-1301. Title.
+29 This subchapter shall be known and may be cited as the "Arkansas Fourth
+30 Amendment Protection Act".
+31
+32 25-1-1302. Definitions.
+33 As used in this subchapter:
+34 (1) "Electronic data" means information related to an electronic
+35 communication or the use of an electronic communication service, including
+36 without limitation:
+*ANS431*
+03/20/2025 8:13:32 AM ANS431
+HB1883
+1 (A) The content, sender, recipient, or format of an
+2 electronic communication;
+3 (B) The precise or approximate location of the sender or
+4 recipient of an electronic communication at any time during the
+5 communication;
+6 (C) The time or date the electronic communication was
+7 created, sent, or received; and
+8 (D) The identity of an individual or device involved in
+9 the electronic communication, including without limitation an internet
+10 protocol address;
+11 (2) "Metadata" means information generally not visible when an
+12 electronic document is printed describing the history, tracking data, or
+13 management of the electronic document, including without limitation:
+14 (A) Information about data in the electronic document that
+15 describes how, when, and by whom the data were collected, created, accessed,
+16 or modified; and
+17 (B) How the data are formatted; and
+18 (3) "State agency" means an instrumentality of state government,
+19 including without limitation a board, commission, committee, advisory board,
+20 office, department, institution, bureau, council, administrative program,
+21 agency, and division.
+22
+23 25-1-1303. State entities prohibited from assisting federal agencies
+24 collecting electronic data or metadata.
+25 The state or a state agency shall not assist, participate with, or
+26 provide material support or resources to enable a United States Government
+27 agency in the collection or use of a person's electronic data or metadata,
+28 unless one (1) or more of the following apply:
+29 (1) The person has given informed consent; or
+30 (2) The collection or use of the electronic data or metadata is:
+31 (A) Pursuant to a warrant that:
+32 (i) Is based upon reasonable cause; and
+33 (ii) Describes with particularity the person, place,
+34 or thing to be searched or seized; or
+35 (B) According to a legally recognized exception to the
+36 warrant requirement.
+2 03/20/2025 8:13:32 AM ANS431
+[DELETED:       A P C O  T P C D  B   S a  S   2  T A   2  A   ( c w]
+[DELETED: H2 0    ( e    ( r c    ( c    ( t p   ( e m    ( d o    (   ( i o a   2 c  T p a u   (   (    (     (     ( o    ( w]
+
+
+================================================================================
+
+Raw Text:
+Stricken language would be deleted from and underlined language would be added to present law.
+1 State of Arkansas
+A Bill
+2 95th General Assembly
+3 Regular Session, 2025 HOUSE BILL 1883
+4
+5 By: Representative Long
+6
+7
+For An Act To Be Entitled
+8
+9 AN ACT TO CREATE THE ARKANSAS FOURTH AMENDMENT
+10 PROTECTION ACT; TO AMEND THE LAW CONCERNING THE
+11 COLLECTION OF ELECTRONIC DATA AND METADATA; AND FOR
+12 OTHER PURPOSES.
+13
+14
+Subtitle
+15
+16 TO CREATE THE ARKANSAS FOURTH AMENDMENT
+17 PROTECTION ACT; AND TO AMEND THE LAW
+18 CONCERNING THE COLLECTION OF ELECTRONIC
+19 DATA AND METADATA.
+20
+21 BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF ARKANSAS:
+22
+23 SECTION 1. Arkansas Code Title 25, Chapter 1, is amended to add an
+24 additional subchapter to read as follows:
+25
+26 Subchapter 13 — Arkansas Fourth Amendment Protection Act
+27
+28 25-1-1301. Title.
+29 This subchapter shall be known and may be cited as the "Arkansas Fourth
+30 Amendment Protection Act".
+31
+32 25-1-1302. Definitions.
+33 As used in this subchapter:
+34 (1) "Electronic data" means information related to an electronic
+35 communication or the use of an electronic communication service, including
+36 without limitation:
+*ANS431*
+03/20/2025 8:13:32 AM ANS431
+
+HB1883
+1 (A) The content, sender, recipient, or format of an
+2 electronic communication;
+3 (B) The precise or approximate location of the sender or
+4 recipient of an electronic communication at any time during the
+5 communication;
+6 (C) The time or date the electronic communication was
+7 created, sent, or received; and
+8 (D) The identity of an individual or device involved in
+9 the electronic communication, including without limitation an internet
+10 protocol address;
+11 (2) "Metadata" means information generally not visible when an
+12 electronic document is printed describing the history, tracking data, or
+13 management of the electronic document, including without limitation:
+14 (A) Information about data in the electronic document that
+15 describes how, when, and by whom the data were collected, created, accessed,
+16 or modified; and
+17 (B) How the data are formatted; and
+18 (3) "State agency" means an instrumentality of state government,
+19 including without limitation a board, commission, committee, advisory board,
+20 office, department, institution, bureau, council, administrative program,
+21 agency, and division.
+22
+23 25-1-1303. State entities prohibited from assisting federal agencies
+24 collecting electronic data or metadata.
+25 The state or a state agency shall not assist, participate with, or
+26 provide material support or resources to enable a United States Government
+27 agency in the collection or use of a person's electronic data or metadata,
+28 unless one (1) or more of the following apply:
+29 (1) The person has given informed consent; or
+30 (2) The collection or use of the electronic data or metadata is:
+31 (A) Pursuant to a warrant that:
+32 (i) Is based upon reasonable cause; and
+33 (ii) Describes with particularity the person, place,
+34 or thing to be searched or seized; or
+35 (B) According to a legally recognized exception to the
+36 warrant requirement.
+2 03/20/2025 8:13:32 AM ANS431
+
+[DELETED:       A P C O  T P C D  B   S a  S   2  T A   2  A   ( c w]
+[DELETED: H2 0    ( e    ( r c    ( c    ( t p   ( e m    ( d o    (   ( i o a   2 c  T p a u   (   (    (     (     ( o    ( w]

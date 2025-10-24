@@ -1,0 +1,338 @@
+Title: Stricken language would be deleted from and underlined language would be added to present law.
+Official Title: Stricken language would be deleted from and underlined language would be added to present law.
+Number of Sections: 1
+Source: versions - HB 1538
+Media Type: application/pdf
+Strikethrough Detection: 4 sections found
+
+================================================================================
+
+Section 1:
+1 State of Arkansas
+A Bill
+2 95th General Assembly
+3 Regular Session, 2025 HOUSE BILL 1538
+4
+5 By: Representative Ray
+6
+7
+For An Act To Be Entitled
+8
+9 AN ACT TO AMEND THE LAW CONCERNING THE NET OPERATING
+10 LOSS INCOME TAX DEDUCTION; TO INCREASE THE CARRY-
+11 FORWARD PERIOD FOR THE NET OPERATING LOSS INCOME TAX
+12 DEDUCTION; AND FOR OTHER PURPOSES.
+13
+14
+Subtitle
+15
+16 TO AMEND THE LAW CONCERNING THE NET
+17 OPERATING LOSS INCOME TAX DEDUCTION; AND
+18 TO INCREASE THE CARRY-FORWARD PERIOD FOR
+19 THE NET OPERATING LOSS INCOME TAX
+20 DEDUCTION.
+21
+22 BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF ARKANSAS:
+23
+24 SECTION 1. DO NOT CODIFY. Legislative findings.
+25 The General Assembly finds that:
+26 (1) The state's income tax laws should be amended to modernize
+27 and simplify the tax code, increase Arkansas's competitiveness, create jobs,
+28 and ensure fairness to all taxpayers;
+29 (2) Net operating loss carry-forward provisions promote tax
+30 neutrality by reducing tax burdens on businesses with cyclical income streams
+31 or exposure to economic downturns, regardless of size or age;
+32 (3) Longer net operating loss carry-forward provisions promote
+33 longevity and facilitate future growth in start-up businesses, expansion of
+34 existing operations, and new facility locations; and
+35 (4) Federal net operating losses are carried forward
+36 indefinitely up to eighty percent (80%) in one (1) year, and many states
+*JLL216*
+02/20/2025 7:07:30 AM JLL216
+HB1538
+1 conform to the federal law or provide uncapped twenty-year carry-forward
+2 periods, while Arkansas is in the minority with a ten-year carry-forward
+3 period.
+4
+5 SECTION 2. Arkansas Code § 15-4-2404(a), concerning the net operating
+6 loss deduction carry-forward period for certain steel manufacturers, is
+7 amended to read as follows:
+8 (a) Taxpayers qualified for the benefits of this subchapter and
+9 entitled to a net operating loss deduction as provided in § 26-51-427 may
+10 carry forward that deduction to the next-succeeding taxable year following
+11 the year of the net operating loss and annually thereafter for a total period
+12 of ten (10) twenty (20) years or until the net operating loss has been
+13 exhausted, whichever is earlier.
+14
+15 SECTION 3. Arkansas Code § 26-51-427(1)(C)(i), concerning the carry-
+16 forward period for the income tax deduction for net operating loss, is
+17 amended to read as follows:
+18 (C)(i) For net operating losses occurring in taxable years
+19 beginning on or after January 1, 2020, the net operating loss may be carried
+20 over to the next succeeding taxable year and annually thereafter for the
+21 following number of years next succeeding the tax year of the net operating
+22 loss or until the net operating loss has been exhausted or absorbed by the
+23 taxable income of a succeeding year, whichever is earlier:
+24 (a) For net operating losses occurring in the
+25 tax year beginning January 1, 2020, a total period of eight (8) years; and
+26 (b) For net operating losses occurring in tax
+27 years beginning on or after January 1, 2021, a total period of ten (10)
+28 years; and
+29 (c) For net operating losses occurring in tax
+30 years beginning on or after January 1, 2025, a total period of twenty (20)
+31 years.
+32
+33 SECTION 4. Arkansas Code § 26-51-427(1)(E)(ii), concerning the carry-
+34 forward period for the income tax deduction for net operating loss, is
+35 amended to read as follows:
+36 (ii) In the case of a qualified medical company, a
+2 02/20/2025 7:07:30 AM JLL216
+HB1538
+1 net operating loss for any taxable year shall be a net operating loss
+2 carryover to each of the fifteen (15) twenty (20) taxable years following the
+3 taxable year of the loss.
+4
+5 SECTION 5. Arkansas Code § 26-51-427(1)(E)(iv), concerning the carry-
+6 forward period for the income tax deduction for net operating loss, is
+7 amended to read as follows:
+8 (iv) The net operating loss provisions stated in
+9 this subdivision (1)(E), which resulted from the operation of a qualified
+10 medical company, are effective for taxable years beginning on and after
+11 January 1, 1987 2025;
+12
+13 SECTION 6. Arkansas Code § 26-51-1203(a), concerning the carry-forward
+14 period for the net operating loss deduction for certain steel mills, is
+15 amended to read as follows:
+16 (a) Taxpayers qualified under § 26-51-1202(a) and (b), entitled to a
+17 net operating loss deduction as provided in § 26-51-427, may carry forward
+18 that deduction to the next succeeding taxable year following the year of the
+19 net operating loss and annually thereafter for a total period of ten (10)
+20 twenty (20) years or until the net operating loss has been exhausted,
+21 whichever is earlier.
+22
+23 SECTION 7. Arkansas Code § 26-51-1213(a), concerning the carry-forward
+24 period for the net operating loss deduction for certain steel mills, is
+25 amended to read as follows:
+26 (a) Taxpayers qualified under § 26-51-1212(2) and entitled to a net
+27 operating loss deduction as provided in § 26-51-427 may carry forward that
+28 deduction to the next-succeeding taxable year following the year of such net
+29 operating loss and annually thereafter for a total period of ten (10) twenty
+30 (20) years or until such net operating loss has been exhausted, whichever is
+31 earlier.
+32
+33 SECTION 8. Arkansas Code § 26-52-913 is amended to read as follows:
+34 26-52-913. Net operating loss deduction — Carry forward.
+35 Taxpayers qualified under § 26-52-912(2) and entitled to a net
+36 operating loss deduction as provided in § 26-51-427 may carry forward that
+3 02/20/2025 7:07:30 AM JLL216
+HB1538
+1 deduction to the next-succeeding taxable year following the year of the net
+2 operating loss and annually thereafter for a total period of ten (10) twenty
+3 (20) years or until the net operating loss has been exhausted, whichever is
+4 earlier. The net operating loss deduction must be carried forward in the
+5 order named above.
+6
+7 SECTION 9. EFFECTIVE DATE. Sections 1–8 of this act are effective for
+8 tax years beginning on or after January 1, 2025.
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+4 02/20/2025 7:07:30 AM JLL216
+[DELETED:       A L F D  T O T T D  B   S  T   ( a a   ( n o   ( l e   ( i]
+[DELETED: H2 0 c p p   S l a  ( e c t o e   S f a    ( b o f l t      ( t      ( y y      ( y y   S f a     (]
+[DELETED: H3 0 n c t   S f a     ( t m J   S p a  ( n t n t w   S p a  ( o d o ( e   S  2  T o]
+[DELETED: H4 0 d o ( e o   S t                            ]
+
+
+================================================================================
+
+Raw Text:
+Stricken language would be deleted from and underlined language would be added to present law.
+1 State of Arkansas
+A Bill
+2 95th General Assembly
+3 Regular Session, 2025 HOUSE BILL 1538
+4
+5 By: Representative Ray
+6
+7
+For An Act To Be Entitled
+8
+9 AN ACT TO AMEND THE LAW CONCERNING THE NET OPERATING
+10 LOSS INCOME TAX DEDUCTION; TO INCREASE THE CARRY-
+11 FORWARD PERIOD FOR THE NET OPERATING LOSS INCOME TAX
+12 DEDUCTION; AND FOR OTHER PURPOSES.
+13
+14
+Subtitle
+15
+16 TO AMEND THE LAW CONCERNING THE NET
+17 OPERATING LOSS INCOME TAX DEDUCTION; AND
+18 TO INCREASE THE CARRY-FORWARD PERIOD FOR
+19 THE NET OPERATING LOSS INCOME TAX
+20 DEDUCTION.
+21
+22 BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF ARKANSAS:
+23
+24 SECTION 1. DO NOT CODIFY. Legislative findings.
+25 The General Assembly finds that:
+26 (1) The state's income tax laws should be amended to modernize
+27 and simplify the tax code, increase Arkansas's competitiveness, create jobs,
+28 and ensure fairness to all taxpayers;
+29 (2) Net operating loss carry-forward provisions promote tax
+30 neutrality by reducing tax burdens on businesses with cyclical income streams
+31 or exposure to economic downturns, regardless of size or age;
+32 (3) Longer net operating loss carry-forward provisions promote
+33 longevity and facilitate future growth in start-up businesses, expansion of
+34 existing operations, and new facility locations; and
+35 (4) Federal net operating losses are carried forward
+36 indefinitely up to eighty percent (80%) in one (1) year, and many states
+*JLL216*
+02/20/2025 7:07:30 AM JLL216
+
+HB1538
+1 conform to the federal law or provide uncapped twenty-year carry-forward
+2 periods, while Arkansas is in the minority with a ten-year carry-forward
+3 period.
+4
+5 SECTION 2. Arkansas Code § 15-4-2404(a), concerning the net operating
+6 loss deduction carry-forward period for certain steel manufacturers, is
+7 amended to read as follows:
+8 (a) Taxpayers qualified for the benefits of this subchapter and
+9 entitled to a net operating loss deduction as provided in § 26-51-427 may
+10 carry forward that deduction to the next-succeeding taxable year following
+11 the year of the net operating loss and annually thereafter for a total period
+12 of ten (10) twenty (20) years or until the net operating loss has been
+13 exhausted, whichever is earlier.
+14
+15 SECTION 3. Arkansas Code § 26-51-427(1)(C)(i), concerning the carry-
+16 forward period for the income tax deduction for net operating loss, is
+17 amended to read as follows:
+18 (C)(i) For net operating losses occurring in taxable years
+19 beginning on or after January 1, 2020, the net operating loss may be carried
+20 over to the next succeeding taxable year and annually thereafter for the
+21 following number of years next succeeding the tax year of the net operating
+22 loss or until the net operating loss has been exhausted or absorbed by the
+23 taxable income of a succeeding year, whichever is earlier:
+24 (a) For net operating losses occurring in the
+25 tax year beginning January 1, 2020, a total period of eight (8) years; and
+26 (b) For net operating losses occurring in tax
+27 years beginning on or after January 1, 2021, a total period of ten (10)
+28 years; and
+29 (c) For net operating losses occurring in tax
+30 years beginning on or after January 1, 2025, a total period of twenty (20)
+31 years.
+32
+33 SECTION 4. Arkansas Code § 26-51-427(1)(E)(ii), concerning the carry-
+34 forward period for the income tax deduction for net operating loss, is
+35 amended to read as follows:
+36 (ii) In the case of a qualified medical company, a
+2 02/20/2025 7:07:30 AM JLL216
+
+HB1538
+1 net operating loss for any taxable year shall be a net operating loss
+2 carryover to each of the fifteen (15) twenty (20) taxable years following the
+3 taxable year of the loss.
+4
+5 SECTION 5. Arkansas Code § 26-51-427(1)(E)(iv), concerning the carry-
+6 forward period for the income tax deduction for net operating loss, is
+7 amended to read as follows:
+8 (iv) The net operating loss provisions stated in
+9 this subdivision (1)(E), which resulted from the operation of a qualified
+10 medical company, are effective for taxable years beginning on and after
+11 January 1, 1987 2025;
+12
+13 SECTION 6. Arkansas Code § 26-51-1203(a), concerning the carry-forward
+14 period for the net operating loss deduction for certain steel mills, is
+15 amended to read as follows:
+16 (a) Taxpayers qualified under § 26-51-1202(a) and (b), entitled to a
+17 net operating loss deduction as provided in § 26-51-427, may carry forward
+18 that deduction to the next succeeding taxable year following the year of the
+19 net operating loss and annually thereafter for a total period of ten (10)
+20 twenty (20) years or until the net operating loss has been exhausted,
+21 whichever is earlier.
+22
+23 SECTION 7. Arkansas Code § 26-51-1213(a), concerning the carry-forward
+24 period for the net operating loss deduction for certain steel mills, is
+25 amended to read as follows:
+26 (a) Taxpayers qualified under § 26-51-1212(2) and entitled to a net
+27 operating loss deduction as provided in § 26-51-427 may carry forward that
+28 deduction to the next-succeeding taxable year following the year of such net
+29 operating loss and annually thereafter for a total period of ten (10) twenty
+30 (20) years or until such net operating loss has been exhausted, whichever is
+31 earlier.
+32
+33 SECTION 8. Arkansas Code § 26-52-913 is amended to read as follows:
+34 26-52-913. Net operating loss deduction — Carry forward.
+35 Taxpayers qualified under § 26-52-912(2) and entitled to a net
+36 operating loss deduction as provided in § 26-51-427 may carry forward that
+3 02/20/2025 7:07:30 AM JLL216
+
+HB1538
+1 deduction to the next-succeeding taxable year following the year of the net
+2 operating loss and annually thereafter for a total period of ten (10) twenty
+3 (20) years or until the net operating loss has been exhausted, whichever is
+4 earlier. The net operating loss deduction must be carried forward in the
+5 order named above.
+6
+7 SECTION 9. EFFECTIVE DATE. Sections 1–8 of this act are effective for
+8 tax years beginning on or after January 1, 2025.
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+4 02/20/2025 7:07:30 AM JLL216
+
+[DELETED:       A L F D  T O T T D  B   S  T   ( a a   ( n o   ( l e   ( i]
+[DELETED: H2 0 c p p   S l a  ( e c t o e   S f a    ( b o f l t      ( t      ( y y      ( y y   S f a     (]
+[DELETED: H3 0 n c t   S f a     ( t m J   S p a  ( n t n t w   S p a  ( o d o ( e   S  2  T o]
+[DELETED: H4 0 d o ( e o   S t                            ]

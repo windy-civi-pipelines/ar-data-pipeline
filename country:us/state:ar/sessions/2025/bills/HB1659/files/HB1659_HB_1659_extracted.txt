@@ -1,0 +1,259 @@
+Title: Stricken language would be deleted from and underlined language would be added to present law.
+Official Title: Stricken language would be deleted from and underlined language would be added to present law.
+Number of Sections: 1
+Source: versions - HB 1659
+Media Type: application/pdf
+Strikethrough Detection: 3 sections found
+
+================================================================================
+
+Section 1:
+1 State of Arkansas
+A Bill
+2 95th General Assembly
+3 Regular Session, 2025 HOUSE BILL 1659
+4
+5 By: Representative S. Meeks
+6
+7
+For An Act To Be Entitled
+8
+9 AN ACT TO AMEND THE UNIFORM COMMERCIAL CODE; TO
+10 CLARIFY THE PRIORITY AMONG SECURITY INTERESTS AND
+11 ENTITLEMENT HOLDERS UNDER THE UNIFORM COMMERCIAL
+12 CODE; AND FOR OTHER PURPOSES.
+13
+14
+Subtitle
+15
+16 TO AMEND THE UNIFORM COMMERCIAL CODE;
+17 AND TO CLARIFY THE PRIORITY AMONG
+18 SECURITY INTERESTS AND ENTITLEMENT
+19 HOLDERS UNDER THE UNIFORM COMMERCIAL
+20 CODE.
+21
+22 BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF ARKANSAS:
+23
+24 SECTION 1. Arkansas Code § 4-8-503(a), concerning property interest of
+25 entitlement holder in financial asset held by securities intermediary, is
+26 amended to read as follows:
+27 (a) To the extent necessary for a securities intermediary to satisfy
+28 all security entitlements with respect to a particular financial asset, all
+29 interests in that financial asset held by the securities intermediary are
+30 held by the securities intermediary for the entitlement holders, are not
+31 property of the securities intermediary, and are not subject to claims of
+32 creditors of the securities intermediary, except as otherwise provided in §
+33 4-8-511.
+34
+35 SECTION 2. Arkansas Code § 4-8-511 is amended to read as follows:
+36 4-8-511. Priority among security interests and entitlement holders.
+*ANS180*
+03/04/2025 10:11:45 AM ANS180
+HB1659
+1 (a)(1) Except as otherwise provided in subsections (b) and (c), if If
+2 a securities intermediary does not have sufficient interests in a particular
+3 financial asset to satisfy both its obligations to entitlement holders who
+4 have security entitlements to that financial asset and its obligation to a
+5 creditor of the securities intermediary who has a security interest in that
+6 financial asset, the claims of entitlement holders, other than the creditor,
+7 have priority over the claim of the creditor.
+8 (2) A claim of or a cause of action of an entitlement holder
+9 under subdivision (a)(1) of this section shall be litigated in this state.
+10 (b) A claim of a creditor of a securities intermediary who has a
+11 security interest in a financial asset held by a securities intermediary has
+12 priority over claims of the securities intermediary's entitlement holders who
+13 have security entitlements with respect to that financial asset if the
+14 creditor has control over the financial asset On and after January 1, 2026, a
+15 dispute, case, claim, or controversy resulting from a contract or agreement
+16 entered into under subsection (a) of this section shall be resolved or
+17 litigated in this state.
+18 (c) If a clearing corporation does not have sufficient financial
+19 assets to satisfy both its obligations to entitlement holders who have
+20 security entitlements with respect to a financial asset and its obligation to
+21 a creditor of the clearing corporation who has a security interest in that
+22 financial asset, the claim of the creditor has priority over the claims of
+23 entitlement holders.
+24
+25 SECTION 3. Arkansas Code § 4-9-305(a), concerning the law governing
+26 perfection and priority of security interests in investment property, is
+27 amended to read as follows:
+28 (a) Except as otherwise provided in subsection (c), the following
+29 rules apply:
+30 (1) While a security certificate is located in a jurisdiction,
+31 the local law of that jurisdiction governs perfection, the effect of
+32 perfection or nonperfection, and the priority of a security interest in the
+33 certificated security represented thereby.
+34 (2) The local law of the issuer's jurisdiction as specified in §
+35 4-8-110(d) governs perfection, the effect of perfection or nonperfection, and
+36 the priority of a security interest in an uncertificated security.
+2 03/04/2025 10:11:45 AM ANS180
+HB1659
+1 (3) The local law of the securities intermediary's jurisdiction
+2 as specified in § 4-8-110(e) governs perfection, the effect of perfection or
+3 nonperfection, and the priority of a security interest in a security
+4 entitlement or securities account.
+5 (4) The local law of the commodity intermediary's jurisdiction
+6 governs perfection, the effect of perfection or nonperfection, and the
+7 priority of a security interest in a commodity contract or commodity account.
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+3 03/04/2025 10:11:45 AM ANS180
+[DELETED:       A C E C  T A S H C  B   S e a  ( a i h p c 4   S  4]
+[DELETED: H2 0  ( a f h c f h   ( u  ( s p h c d e l  ( a s a f e   S p a  ( r   ( t p c   ( 4 t]
+[DELETED: H3 0   ( a n e   ( g p                             ]
+
+
+================================================================================
+
+Raw Text:
+Stricken language would be deleted from and underlined language would be added to present law.
+1 State of Arkansas
+A Bill
+2 95th General Assembly
+3 Regular Session, 2025 HOUSE BILL 1659
+4
+5 By: Representative S. Meeks
+6
+7
+For An Act To Be Entitled
+8
+9 AN ACT TO AMEND THE UNIFORM COMMERCIAL CODE; TO
+10 CLARIFY THE PRIORITY AMONG SECURITY INTERESTS AND
+11 ENTITLEMENT HOLDERS UNDER THE UNIFORM COMMERCIAL
+12 CODE; AND FOR OTHER PURPOSES.
+13
+14
+Subtitle
+15
+16 TO AMEND THE UNIFORM COMMERCIAL CODE;
+17 AND TO CLARIFY THE PRIORITY AMONG
+18 SECURITY INTERESTS AND ENTITLEMENT
+19 HOLDERS UNDER THE UNIFORM COMMERCIAL
+20 CODE.
+21
+22 BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF ARKANSAS:
+23
+24 SECTION 1. Arkansas Code § 4-8-503(a), concerning property interest of
+25 entitlement holder in financial asset held by securities intermediary, is
+26 amended to read as follows:
+27 (a) To the extent necessary for a securities intermediary to satisfy
+28 all security entitlements with respect to a particular financial asset, all
+29 interests in that financial asset held by the securities intermediary are
+30 held by the securities intermediary for the entitlement holders, are not
+31 property of the securities intermediary, and are not subject to claims of
+32 creditors of the securities intermediary, except as otherwise provided in §
+33 4-8-511.
+34
+35 SECTION 2. Arkansas Code § 4-8-511 is amended to read as follows:
+36 4-8-511. Priority among security interests and entitlement holders.
+*ANS180*
+03/04/2025 10:11:45 AM ANS180
+
+HB1659
+1 (a)(1) Except as otherwise provided in subsections (b) and (c), if If
+2 a securities intermediary does not have sufficient interests in a particular
+3 financial asset to satisfy both its obligations to entitlement holders who
+4 have security entitlements to that financial asset and its obligation to a
+5 creditor of the securities intermediary who has a security interest in that
+6 financial asset, the claims of entitlement holders, other than the creditor,
+7 have priority over the claim of the creditor.
+8 (2) A claim of or a cause of action of an entitlement holder
+9 under subdivision (a)(1) of this section shall be litigated in this state.
+10 (b) A claim of a creditor of a securities intermediary who has a
+11 security interest in a financial asset held by a securities intermediary has
+12 priority over claims of the securities intermediary's entitlement holders who
+13 have security entitlements with respect to that financial asset if the
+14 creditor has control over the financial asset On and after January 1, 2026, a
+15 dispute, case, claim, or controversy resulting from a contract or agreement
+16 entered into under subsection (a) of this section shall be resolved or
+17 litigated in this state.
+18 (c) If a clearing corporation does not have sufficient financial
+19 assets to satisfy both its obligations to entitlement holders who have
+20 security entitlements with respect to a financial asset and its obligation to
+21 a creditor of the clearing corporation who has a security interest in that
+22 financial asset, the claim of the creditor has priority over the claims of
+23 entitlement holders.
+24
+25 SECTION 3. Arkansas Code § 4-9-305(a), concerning the law governing
+26 perfection and priority of security interests in investment property, is
+27 amended to read as follows:
+28 (a) Except as otherwise provided in subsection (c), the following
+29 rules apply:
+30 (1) While a security certificate is located in a jurisdiction,
+31 the local law of that jurisdiction governs perfection, the effect of
+32 perfection or nonperfection, and the priority of a security interest in the
+33 certificated security represented thereby.
+34 (2) The local law of the issuer's jurisdiction as specified in §
+35 4-8-110(d) governs perfection, the effect of perfection or nonperfection, and
+36 the priority of a security interest in an uncertificated security.
+2 03/04/2025 10:11:45 AM ANS180
+
+HB1659
+1 (3) The local law of the securities intermediary's jurisdiction
+2 as specified in § 4-8-110(e) governs perfection, the effect of perfection or
+3 nonperfection, and the priority of a security interest in a security
+4 entitlement or securities account.
+5 (4) The local law of the commodity intermediary's jurisdiction
+6 governs perfection, the effect of perfection or nonperfection, and the
+7 priority of a security interest in a commodity contract or commodity account.
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+3 03/04/2025 10:11:45 AM ANS180
+
+[DELETED:       A C E C  T A S H C  B   S e a  ( a i h p c 4   S  4]
+[DELETED: H2 0  ( a f h c f h   ( u  ( s p h c d e l  ( a s a f e   S p a  ( r   ( t p c   ( 4 t]
+[DELETED: H3 0   ( a n e   ( g p                             ]

@@ -1,0 +1,338 @@
+Title: Stricken language would be deleted from and underlined language would be added to present law.
+Official Title: Stricken language would be deleted from and underlined language would be added to present law.
+Number of Sections: 1
+Source: versions - SB 319
+Media Type: application/pdf
+Strikethrough Detection: 4 sections found
+
+================================================================================
+
+Section 1:
+1 State of Arkansas As Engrossed: S3/12/25
+A Bill
+2 95th General Assembly
+3 Regular Session, 2025 SENATE BILL 319
+4
+5 By: Senator J. Boyd
+6 By: Representative Maddox
+7
+For An Act To Be Entitled
+8
+9 AN ACT TO AMEND THE UNIFORM LIMITED LIABILITY COMPANY
+10 ACT; TO CLARIFY CHARGING ORDERS UNDER THE UNIFORM
+11 LIMITED LIABILITY COMPANY ACT; AND FOR OTHER
+12 PURPOSES.
+13
+14
+Subtitle
+15
+16 TO AMEND THE UNIFORM LIMITED LIABILITY
+17 COMPANY ACT; AND TO CLARIFY CHARGING
+18 ORDERS UNDER THE UNIFORM LIMITED
+19 LIABILITY COMPANY ACT.
+20
+21 BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF ARKANSAS:
+22
+23 SECTION 1. Arkansas Code § 4-38-503 is amended to read as follows:
+24 4-38-503. Charging order.
+25 (a) On application to a court of competent jurisdiction by a judgment
+26 creditor of a member, or transferee, or any other owner of a membership
+27 interest in a limited liability company, the a court having jurisdiction may
+28 charge the transferable membership interest of the judgment debtor with
+29 payment of the unsatisfied amount of the judgment with interest. A charging
+30 order constitutes a lien on a judgment debtor's transferable interest and
+31 requires the limited liability company to pay over to the person to which the
+32 charging order was issued any distribution that otherwise would be paid to
+33 the judgment creditor.
+34 (b) On application to a court of competent jurisdiction by a judgment
+35 creditor of a member or transferee against whose transferable interest a
+36 charging order was issued, and a showing to the satisfaction of the court
+*ANS294*
+03-12-2025 14:07:35 ANS294
+As Engrossed: S3/12/25 SB319
+1 that one (1) or more members of the limited liability company have engaged in
+2 bad faith or intentional misconduct in managing the limited liability
+3 company's operations or finances so as to reduce or eliminate distributions
+4 to the judgment debtor, and thereby effectively defeat the charging order,
+5 the court may foreclose the lien and order the sale of the judgment debtor's
+6 transferrable interest. Except as otherwise provided in subsection (c), the
+7 purchaser at the foreclosure sale obtains only the transferable interest,
+8 does not thereby become a member, and is subject to § 4-38-502. At any time
+9 before foreclosure under this subsection (b), the member or transferee whose
+10 transferable interest is subject to a charging order under subsection (a) may
+11 extinguish the charging order by satisfying the judgment and filing a
+12 certified copy of the satisfaction with the court that issued the charging
+13 order. At any time before foreclosure under this subsection (b), a limited
+14 liability company or one (1) or more members whose transferable interests are
+15 not subject to the charging order may pay to the judgment creditor the full
+16 amount due under the judgment and thereby succeed to the rights of the
+17 judgment creditor, including the charging order If a court charges a
+18 membership interest with payment of a judgment as provided under subsection
+19 (a) of this section, the judgment creditor has only the right to receive a
+20 distribution to which the judgment debtor would otherwise be entitled in
+21 respect of the membership interest.
+22 (c)(1) On application to a court of competent jurisdiction by a
+23 judgment creditor of the sole member of a limited liability company against
+24 whose transferable interest a charging order was issued, and a showing to the
+25 satisfaction of the court that distributions under a charging order will not
+26 pay the judgment debt within a reasonable time, the court may foreclose the
+27 lien and order the sale of the transferable interest. If a court orders
+28 foreclosure of a charging order lien against the sole member of a limited
+29 liability company:
+30 (1) the court shall confirm the sale;
+31 (2) the purchaser at the sale obtains the member's entire
+32 interest, not only the member's transferable interest;
+33 (3) the purchaser thereby becomes a member; and
+34 (4) the person whose interest was subject to the foreclosed
+35 charging order is dissociated as a member A charging order constitutes a lien
+36 on the judgment debtor's membership interest.
+2 03-12-2025 14:07:35 ANS294
+As Engrossed: S3/12/25 SB319
+1 (2) The charging order lien shall not be foreclosed on under
+2 this subchapter or any other law.
+3 (d) This section:
+4 (1)(A) Is specific to a lien created by a charging order; or
+5 (2) Shall not:
+6 (A) Apply to a creditor's secured lien created under the
+7 Uniform Commercial Code; or
+8 (B) operate Operate to invalidate any provision of any
+9 written agreement between a member and a creditor, including without
+10 limitation a security agreement, assignment, pledge, hypothecation, or other
+11 instrument giving the creditor a security interest in, or assignment of, the
+12 transferable interest, where at the time the written agreement, security
+13 agreement, assignment, or other instrument was executed by the member and the
+14 creditor, the member's executing such written agreement, security agreement,
+15 assignment, or other instrument did not violate a provision of the limited
+16 liability company's certificate of organization or operating agreement.
+17 (B) Except as provided in subsection (c), the foreclosure of a
+18 charging order does not grant the creditor who receives the transferable
+19 interest any rights in the transferable interest beyond the rights of a
+20 transferee;
+21 (2)(A) Provides the exclusive remedy by which a judgment
+22 creditor of a member or a transferee of a member may satisfy a judgment out
+23 of the member's interest in the limited liability company, where the limited
+24 liability company has more than one (1) member.
+25 (B)(i) In the case of a limited liability company with
+26 more than one (1) member, other remedies, including without limitation
+27 foreclosure on the member's interest, except as provided in subsection (b),
+28 or a court order for directions, accounts, and inquiries that the debtor or
+29 member might have made, are not available to the judgment creditor attempting
+30 to satisfy the judgment out of the judgment debtor's transferable interest in
+31 the limited liability company; and
+32 (3) Does not deprive a member of the benefit of any exemption
+33 applicable to his or her interest.
+34 (e) The entry of a charging order is the exclusive remedy by which a
+35 judgment creditor of a member or of another owner of a membership interest
+36 may satisfy a judgment out of the judgment debtor's membership interest.
+3 03-12-2025 14:07:35 ANS294
+As Engrossed: S3/12/25 SB319
+1 (f) This section shall not be construed to deprive a member of a
+2 limited liability company or another owner of a membership interest in a
+3 limited liability company of the benefit of an exemption applicable to the
+4 membership interest of the member or owner.
+5 (g) A creditor of a member or of another owner of a membership
+6 interest does not have the right to obtain possession of or otherwise
+7 exercise legal or equitable remedies with respect to the property of the
+8 limited liability company.
+9 (h) This section applies to:
+10 (1) A single-member limited liability company; and
+11 (2) A multiple-member limited liability company.
+12
+13 /s/J. Boyd
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+4 03-12-2025 14:07:35 ANS294
+[DELETED:  A   EBL3     A A L P   T C O L  B   S  4  ( c i c p o r c t  ( c c]
+[DELETED:  S2 0 t b c t t t p d b t e c o l n a j m ( d r  ( j w s p l f l   (   ( i   (   ( c o]
+[DELETED:  S3 0   ( t  (   (   (    ( U    ( w l i t a c a l  ( c i t   ( c o l    ( m f o m t t   ( a  ( j m]
+[DELETED:  S4 0  ( l l m  ( i e l  (   (   (  /                       ]
+
+
+================================================================================
+
+Raw Text:
+Stricken language would be deleted from and underlined language would be added to present law.
+1 State of Arkansas As Engrossed: S3/12/25
+A Bill
+2 95th General Assembly
+3 Regular Session, 2025 SENATE BILL 319
+4
+5 By: Senator J. Boyd
+6 By: Representative Maddox
+7
+For An Act To Be Entitled
+8
+9 AN ACT TO AMEND THE UNIFORM LIMITED LIABILITY COMPANY
+10 ACT; TO CLARIFY CHARGING ORDERS UNDER THE UNIFORM
+11 LIMITED LIABILITY COMPANY ACT; AND FOR OTHER
+12 PURPOSES.
+13
+14
+Subtitle
+15
+16 TO AMEND THE UNIFORM LIMITED LIABILITY
+17 COMPANY ACT; AND TO CLARIFY CHARGING
+18 ORDERS UNDER THE UNIFORM LIMITED
+19 LIABILITY COMPANY ACT.
+20
+21 BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF ARKANSAS:
+22
+23 SECTION 1. Arkansas Code § 4-38-503 is amended to read as follows:
+24 4-38-503. Charging order.
+25 (a) On application to a court of competent jurisdiction by a judgment
+26 creditor of a member, or transferee, or any other owner of a membership
+27 interest in a limited liability company, the a court having jurisdiction may
+28 charge the transferable membership interest of the judgment debtor with
+29 payment of the unsatisfied amount of the judgment with interest. A charging
+30 order constitutes a lien on a judgment debtor's transferable interest and
+31 requires the limited liability company to pay over to the person to which the
+32 charging order was issued any distribution that otherwise would be paid to
+33 the judgment creditor.
+34 (b) On application to a court of competent jurisdiction by a judgment
+35 creditor of a member or transferee against whose transferable interest a
+36 charging order was issued, and a showing to the satisfaction of the court
+*ANS294*
+03-12-2025 14:07:35 ANS294
+
+As Engrossed: S3/12/25 SB319
+1 that one (1) or more members of the limited liability company have engaged in
+2 bad faith or intentional misconduct in managing the limited liability
+3 company's operations or finances so as to reduce or eliminate distributions
+4 to the judgment debtor, and thereby effectively defeat the charging order,
+5 the court may foreclose the lien and order the sale of the judgment debtor's
+6 transferrable interest. Except as otherwise provided in subsection (c), the
+7 purchaser at the foreclosure sale obtains only the transferable interest,
+8 does not thereby become a member, and is subject to § 4-38-502. At any time
+9 before foreclosure under this subsection (b), the member or transferee whose
+10 transferable interest is subject to a charging order under subsection (a) may
+11 extinguish the charging order by satisfying the judgment and filing a
+12 certified copy of the satisfaction with the court that issued the charging
+13 order. At any time before foreclosure under this subsection (b), a limited
+14 liability company or one (1) or more members whose transferable interests are
+15 not subject to the charging order may pay to the judgment creditor the full
+16 amount due under the judgment and thereby succeed to the rights of the
+17 judgment creditor, including the charging order If a court charges a
+18 membership interest with payment of a judgment as provided under subsection
+19 (a) of this section, the judgment creditor has only the right to receive a
+20 distribution to which the judgment debtor would otherwise be entitled in
+21 respect of the membership interest.
+22 (c)(1) On application to a court of competent jurisdiction by a
+23 judgment creditor of the sole member of a limited liability company against
+24 whose transferable interest a charging order was issued, and a showing to the
+25 satisfaction of the court that distributions under a charging order will not
+26 pay the judgment debt within a reasonable time, the court may foreclose the
+27 lien and order the sale of the transferable interest. If a court orders
+28 foreclosure of a charging order lien against the sole member of a limited
+29 liability company:
+30 (1) the court shall confirm the sale;
+31 (2) the purchaser at the sale obtains the member's entire
+32 interest, not only the member's transferable interest;
+33 (3) the purchaser thereby becomes a member; and
+34 (4) the person whose interest was subject to the foreclosed
+35 charging order is dissociated as a member A charging order constitutes a lien
+36 on the judgment debtor's membership interest.
+2 03-12-2025 14:07:35 ANS294
+
+As Engrossed: S3/12/25 SB319
+1 (2) The charging order lien shall not be foreclosed on under
+2 this subchapter or any other law.
+3 (d) This section:
+4 (1)(A) Is specific to a lien created by a charging order; or
+5 (2) Shall not:
+6 (A) Apply to a creditor's secured lien created under the
+7 Uniform Commercial Code; or
+8 (B) operate Operate to invalidate any provision of any
+9 written agreement between a member and a creditor, including without
+10 limitation a security agreement, assignment, pledge, hypothecation, or other
+11 instrument giving the creditor a security interest in, or assignment of, the
+12 transferable interest, where at the time the written agreement, security
+13 agreement, assignment, or other instrument was executed by the member and the
+14 creditor, the member's executing such written agreement, security agreement,
+15 assignment, or other instrument did not violate a provision of the limited
+16 liability company's certificate of organization or operating agreement.
+17 (B) Except as provided in subsection (c), the foreclosure of a
+18 charging order does not grant the creditor who receives the transferable
+19 interest any rights in the transferable interest beyond the rights of a
+20 transferee;
+21 (2)(A) Provides the exclusive remedy by which a judgment
+22 creditor of a member or a transferee of a member may satisfy a judgment out
+23 of the member's interest in the limited liability company, where the limited
+24 liability company has more than one (1) member.
+25 (B)(i) In the case of a limited liability company with
+26 more than one (1) member, other remedies, including without limitation
+27 foreclosure on the member's interest, except as provided in subsection (b),
+28 or a court order for directions, accounts, and inquiries that the debtor or
+29 member might have made, are not available to the judgment creditor attempting
+30 to satisfy the judgment out of the judgment debtor's transferable interest in
+31 the limited liability company; and
+32 (3) Does not deprive a member of the benefit of any exemption
+33 applicable to his or her interest.
+34 (e) The entry of a charging order is the exclusive remedy by which a
+35 judgment creditor of a member or of another owner of a membership interest
+36 may satisfy a judgment out of the judgment debtor's membership interest.
+3 03-12-2025 14:07:35 ANS294
+
+As Engrossed: S3/12/25 SB319
+1 (f) This section shall not be construed to deprive a member of a
+2 limited liability company or another owner of a membership interest in a
+3 limited liability company of the benefit of an exemption applicable to the
+4 membership interest of the member or owner.
+5 (g) A creditor of a member or of another owner of a membership
+6 interest does not have the right to obtain possession of or otherwise
+7 exercise legal or equitable remedies with respect to the property of the
+8 limited liability company.
+9 (h) This section applies to:
+10 (1) A single-member limited liability company; and
+11 (2) A multiple-member limited liability company.
+12
+13 /s/J. Boyd
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+4 03-12-2025 14:07:35 ANS294
+
+[DELETED:  A   EBL3     A A L P   T C O L  B   S  4  ( c i c p o r c t  ( c c]
+[DELETED:  S2 0 t b c t t t p d b t e c o l n a j m ( d r  ( j w s p l f l   (   ( i   (   ( c o]
+[DELETED:  S3 0   ( t  (   (   (    ( U    ( w l i t a c a l  ( c i t   ( c o l    ( m f o m t t   ( a  ( j m]
+[DELETED:  S4 0  ( l l m  ( i e l  (   (   (  /                       ]

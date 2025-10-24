@@ -1,0 +1,496 @@
+Title: Stricken language would be deleted from and underlined language would be added to present law.
+Official Title: Stricken language would be deleted from and underlined language would be added to present law.
+Number of Sections: 1
+Source: versions - SB 140
+Media Type: application/pdf
+Strikethrough Detection: 6 sections found
+
+================================================================================
+
+Section 1:
+1 State of Arkansas As Engrossed: S2/5/25 S3/10/25
+A Bill
+2 95th General Assembly
+3 Regular Session, 2025 SENATE BILL 140
+4
+5 By: Senator J. Boyd
+6 By: Representative Achor
+7
+For An Act To Be Entitled
+8
+9 AN ACT TO MANDATE THE USE OF BIOSIMILAR MEDICINES
+10 UNDER HEALTH BENEFIT PLANS; TO REQUIRE A HEALTHCARE
+11 PROVIDER TO PRESCRIBE BIOSIMILAR MEDICINES; TO
+12 IMPROVE ACCESS TO BIOSIMILAR MEDICINES; AND FOR OTHER
+13 PURPOSES.
+14
+15
+Subtitle
+16
+17 TO MANDATE THE USE OF BIOSIMILAR
+18 MEDICINES UNDER HEALTH BENEFIT PLANS; TO
+19 REQUIRE A HEALTHCARE PROVIDER TO
+20 PRESCRIBE BIOSIMILAR MEDICINES; AND TO
+21 IMPROVE ACCESS TO BIOSIMILAR MEDICINES.
+22
+23 BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF ARKANSAS:
+24
+25 SECTION 1. Arkansas Code Title 23, Chapter 79, is amended to add an
+26 additional subchapter to read as follows:
+27
+28 Subchapter 29 — Mandate for Use of Biosimilar Medicines
+29
+30 23-79-2901. Definitions.
+31 As used in this subchapter:
+32 (1) "Beneficiary" means an individual who is entitled to receive
+33 healthcare services under the terms of a health benefit plan;
+34 (2) "Biosimilar medicine" means a biological product that is:
+35 (A) Licensed under 42 U.S.C.§ 262(k), as it existed on
+36 January 1, 2025; and
+*ANS115*
+03-10-2025 10:27:34 ANS115
+As Engrossed: S2/5/25 S3/10/25 SB140
+1 (B) Not listed as discontinued in the United States Food
+2 and Drug Administration’s Database of Licensed Biological Products, commonly
+3 known as the "Purple Book";
+4 (3) "Brand drug" means a drug product for which an application
+5 has been approved under 21 U.S.C. § 355(c), as it existed on January 1, 2025,
+6 or a biological product, other than a biosimilar medicine, that is licensed
+7 under 42 U.S.C. § 262(a), as it existed on January 1, 2025;
+8 (4) "Formulary" means:
+9 (A) A list of prescription drug products and biological
+10 products that is developed by a pharmacy and therapeutics committee or other
+11 clinical and pharmacy experts; and
+12 (B) Represents a health benefit plan’s prescription drug
+13 products and biological products approved for use;
+14 (5) "Generic drug" means a drug product:
+15 (A) For which an application has been approved under 21
+16 U.S.C. § 355(j), as it existed on January 1, 2025; and
+17 (B) That has been listed in the United States Food and
+18 Drug Administration’s Approved Drug Products with Therapeutic Equivalence
+19 Evaluations, commonly known as the "Orange Book" as therapeutically
+20 equivalent to a reference listed drug, even if the manufacturer of the drug
+21 product applies a trade name to the drug;
+22 (6)(A) "Health benefit plan" means an individual, blanket, or
+23 group plan, policy, or contract for healthcare services offered, issued,
+24 renewed, delivered, or extended in this state by a healthcare insurer.
+25 (B) “Health benefit plan” includes:
+26 (i) Indemnity and managed care plans; and
+27 (ii) Nonfederal governmental plans as defined in 29
+28 U.S.C. § 1002(32), as it existed on January 1, 2025, including plans
+29 providing health benefits to state and public school employees under § 21-5-
+30 401 et seq.
+31 (C) “Health benefit plan” does not include:
+32 (i) A plan that provides only dental benefits or eye
+33 and vision care benefits;
+34 (ii) A disability income plan;
+35 (iii) A credit insurance plan;
+36 (iv) Insurance coverage issued as a supplement to
+2 03-10-2025 10:27:34 ANS115
+As Engrossed: S2/5/25 S3/10/25 SB140
+1 liability insurance;
+2 (v) A medical payment under an automobile or
+3 homeowners insurance plan;
+4 (vi) A health benefit plan provided under Arkansas
+5 Constitution, Article 5, § 32, the Workers' Compensation Law, § 11-9-101 et
+6 seq., or the Public Employee Workers' Compensation Act, § 21-5-601 et seq.;
+7 (vii) A plan that provides only indemnity for
+8 hospital confinement;
+9 (viii) An accident-only plan;
+10 (ix) A specified disease plan;
+11 (x) A long-term-care-only plan; or
+12 (xi) The Arkansas Medicaid Program;
+13 (7)(A) "Healthcare insurer" means an entity subject to the
+14 insurance laws of this state or the jurisdiction of the Insurance
+15 Commissioner that contracts or offers to contract to provide health insurance
+16 coverage, including without limitation an insurance company, a hospital and
+17 medical service corporation, a health maintenance organization, or a self-
+18 insured governmental or church plan in this state.
+19 (B) "Healthcare insurer" does not include:
+20 (i) An entity that provides only dental benefits or
+21 eye and vision care benefits; or
+22 (ii) The Arkansas Medicaid Program;
+23 (8) "Healthcare provider" means a type of provider that renders
+24 healthcare services to patients for compensation including a doctor of
+25 medicine or another licensed healthcare professional acting within the
+26 provider's licensed scope of practice;
+27 (9) "Limited distribution drug" means a prescription medication
+28 that is restricted by a pharmaceutical manufacturer to a limited number of
+29 specialty pharmacies due to the prescription medication's:
+30 (A) Complex use, including special handling, monitoring,
+31 or administration;
+32 (B) High cost; or
+33 (C) Safety concerns;
+34 (10) "Reference listed drug" means the listed drug product
+35 identified by the United States Food and Drug Administration as a drug
+36 product upon which an applicant relies in seeking approval of the applicant's
+3 03-10-2025 10:27:34 ANS115
+As Engrossed: S2/5/25 S3/10/25 SB140
+1 application submitted under 21 U.S.C. § 355(j), as it existed on January 1,
+2 2025;
+3 (11) "Reference product" means a single biological product that
+4 is licensed by the United States Food and Drug Administration under 42 U.S.C.
+5 § 262(a), as it existed on January 1, 2025, against which a proposed
+6 biosimilar medicine or interchangeable biological product is compared and
+7 listed as a reference product in the United States Food and Drug
+8 Administration’s Database of Licensed Biological Products, commonly known as
+9 the "Purple Book"; and
+10 (12) "Wholesale acquisition cost" means the same as defined in
+11 section 1847A(c)(6)(B) of the Social Security Act, 42 U.S.C. § 1395w-3a, as
+12 it existed on January 1, 2025.
+13
+14 23-79-2902. Formulary.
+15 (a) A health benefit plan shall publish in a manner that is easily
+16 accessible to a beneficiary, a prospective beneficiary, the state, and the
+17 public an up-to-date, accurate, and complete list of all covered drug
+18 products and biological products on the health benefit plan's formulary,
+19 including without limitation:
+20 (1) A tiering structure that has been adopted for the health
+21 benefit plan; and
+22 (2) Any restrictions on the manner in which a drug product or
+23 biological product can be obtained.
+24 (b) A formulary is easily accessible under subsection (a) of this
+25 section if:
+26 (1) The formulary can be viewed on the health benefit plan’s
+27 public website through a clearly identifiable link or tab without requiring
+28 an individual to create or access an account or enter a policy number; and
+29 (2) An individual can easily discern which formulary list
+30 applies to which health benefit plan if a healthcare insurer offers more than
+31 one (1) health benefit plan.
+32 (c) If a change is made to the formulary of a health benefit plan
+33 during the plan year, the easily accessible formulary shall:
+34 (1) Be updated within thirty (30) calendar days; and
+35 (2) Contain, in bold type, the date of the update, with the
+36 updates clearly identifiable.
+4 03-10-2025 10:27:34 ANS115
+As Engrossed: S2/5/25 S3/10/25 SB140
+1
+2 23-79-2903. Generic drugs.
+3 (a) If a generic drug is marketed pursuant to such approval, and has a
+4 wholesale acquisition cost that is less than the wholesale acquisition cost
+5 of the reference listed drug on the generic drug’s initial date of marketing,
+6 then a health benefit plan that provides coverage for the generic drug’s
+7 reference listed drug at the time of the generic drug’s marketing date shall:
+8 (1) Within a reasonable amount of time make the generic drug
+9 available on the formulary with more favorable cost sharing, including
+10 without limitation actual out-of-pocket costs, relative to the reference
+11 listed drug; and
+12 (2) Not impose:
+13 (A) A prior authorization, a step therapy requirement, or
+14 other limitation on coverage of a generic drug for which formulary placement
+15 is required under this section with the exception of limited distribution
+16 drugs; or
+17 (B) A restriction on a pharmacy through which a
+18 beneficiary may obtain the generic drug that makes it more difficult for the
+19 beneficiary to obtain coverage of or access to the generic drug than to
+20 obtain coverage of or access to the reference listed drug.
+21 (b) This section shall remain in force as long as the wholesale
+22 acquisition cost of a generic drug is lower than the wholesale acquisition
+23 cost of the generic drug's reference listed drug.
+24
+25 23-79-2904. Biosimilar medicines.
+26 (a) If a biosimilar medicine is marketed pursuant to such licensure,
+27 and has a wholesale acquisition cost that is less than the wholesale
+28 acquisition cost of the reference product of the biosimilar medicine on the
+29 initial date of marketing, then a health benefit plan that provide coverage
+30 for the biosimilar medicine’s reference product at the time of the biosimilar
+31 medicine’s marketing date shall:
+32 (1) Within a reasonable amount of time make at least one (1)
+33 biosimilar medicine available on the formulary on a tier with more favorable
+34 cost sharing, including actual out-of-pocket costs, relative to the reference
+35 product; and
+36 (2) Not impose:
+5 03-10-2025 10:27:34 ANS115
+As Engrossed: S2/5/25 S3/10/25 SB140
+1 (A) A prior authorization, a step therapy requirement, or
+2 other limitation on coverage of a biosimilar medicine for which formulary
+3 placement is required under this section with the exception of limited
+4 distribution drugs; or
+5 (B) A restriction on an accredited pharmacy through which
+6 a beneficiary may obtain the biosimilar medicine that makes it more difficult
+7 for a beneficiary to obtain coverage of or access to the biosimilar medicine
+8 than to obtain coverage of or access to the reference product.
+9 (b) This section shall remain in force as long as the wholesale
+10 acquisition cost of a biosimilar medicine is lower than the wholesale
+11 acquisition cost of the biosimilar medicine's reference product.
+12
+13 23-79-2905. Purpose and construction of subchapter.
+14 (a) A health benefit plan is not required under this subchapter to:
+15 (1) Continue providing coverage for a brand drug after a generic
+16 drug or biosimilar medicine is approved or licensed, as applicable, and
+17 marketed; or
+18 (2) Provide coverage for a brand drug, generic drug, biological
+19 product, or biosimilar medicine if the pharmacy and therapeutics committee or
+20 the clinical and pharmacy experts that develop the health benefit plan’s
+21 formulary determines that the brand drug, generic drug, biological product,
+22 or biosimilar medicine is no longer medically appropriate or cost-effective.
+23 (b) The application of this subchapter shall not interfere with or
+24 prevent a pharmacy from the practice of pharmacy as defined in § 17-92-101.
+25
+26 23-79-2906. Rules.
+27 (a) The Insurance Commissioner may promulgate rules necessary to
+28 implement this subchapter.
+29 (b) The State Board of Finance may promulgate rules necessary to
+30 implement this subchapter that may apply to the State and Public School Life
+31 and Health Insurance Program.
+32
+33 SECTION 2. DO NOT CODIFY. Effective date. This act is effective on
+34 and after January 1, 2026.
+35
+36 /s/J. Boyd
+6 03-10-2025 10:27:34 ANS115
+[DELETED:  A   EBL1     A U P I P   T M R P I  B   S a  S   2  A   ( h   (    ( J]
+[DELETED:  S2 0    ( a k   ( h o u   (    ( p c    ( p   (    ( U    ( D E e p   ( g r    (     (     ( U p 4    (     ( a     (     (     (]
+[DELETED:  S3 0 l     ( h     ( C s     ( h     (     (     (     (   ( i C c m i    (     ( e     (   ( h m p   ( t s    ( o    (    (   ( i p]
+[DELETED:  S4 0 a 2   ( i § b l A t   ( s i   2  ( a p p i   ( b   ( b  ( s   ( p a   ( a o  ( d   (   ( u]
+[DELETED:  S5 0   2  ( w o t r   ( a w l   (    ( o i d    ( b b o  ( a c   2  ( a a i f m   ( b c p   (]
+[DELETED:  S6 0    ( o p d    ( a f t  ( a a   2  (   ( d m   ( p t f o  ( p   2  ( i  ( i a   S a  /]
+
+
+================================================================================
+
+Raw Text:
+Stricken language would be deleted from and underlined language would be added to present law.
+1 State of Arkansas As Engrossed: S2/5/25 S3/10/25
+A Bill
+2 95th General Assembly
+3 Regular Session, 2025 SENATE BILL 140
+4
+5 By: Senator J. Boyd
+6 By: Representative Achor
+7
+For An Act To Be Entitled
+8
+9 AN ACT TO MANDATE THE USE OF BIOSIMILAR MEDICINES
+10 UNDER HEALTH BENEFIT PLANS; TO REQUIRE A HEALTHCARE
+11 PROVIDER TO PRESCRIBE BIOSIMILAR MEDICINES; TO
+12 IMPROVE ACCESS TO BIOSIMILAR MEDICINES; AND FOR OTHER
+13 PURPOSES.
+14
+15
+Subtitle
+16
+17 TO MANDATE THE USE OF BIOSIMILAR
+18 MEDICINES UNDER HEALTH BENEFIT PLANS; TO
+19 REQUIRE A HEALTHCARE PROVIDER TO
+20 PRESCRIBE BIOSIMILAR MEDICINES; AND TO
+21 IMPROVE ACCESS TO BIOSIMILAR MEDICINES.
+22
+23 BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF ARKANSAS:
+24
+25 SECTION 1. Arkansas Code Title 23, Chapter 79, is amended to add an
+26 additional subchapter to read as follows:
+27
+28 Subchapter 29 — Mandate for Use of Biosimilar Medicines
+29
+30 23-79-2901. Definitions.
+31 As used in this subchapter:
+32 (1) "Beneficiary" means an individual who is entitled to receive
+33 healthcare services under the terms of a health benefit plan;
+34 (2) "Biosimilar medicine" means a biological product that is:
+35 (A) Licensed under 42 U.S.C.§ 262(k), as it existed on
+36 January 1, 2025; and
+*ANS115*
+03-10-2025 10:27:34 ANS115
+
+As Engrossed: S2/5/25 S3/10/25 SB140
+1 (B) Not listed as discontinued in the United States Food
+2 and Drug Administration’s Database of Licensed Biological Products, commonly
+3 known as the "Purple Book";
+4 (3) "Brand drug" means a drug product for which an application
+5 has been approved under 21 U.S.C. § 355(c), as it existed on January 1, 2025,
+6 or a biological product, other than a biosimilar medicine, that is licensed
+7 under 42 U.S.C. § 262(a), as it existed on January 1, 2025;
+8 (4) "Formulary" means:
+9 (A) A list of prescription drug products and biological
+10 products that is developed by a pharmacy and therapeutics committee or other
+11 clinical and pharmacy experts; and
+12 (B) Represents a health benefit plan’s prescription drug
+13 products and biological products approved for use;
+14 (5) "Generic drug" means a drug product:
+15 (A) For which an application has been approved under 21
+16 U.S.C. § 355(j), as it existed on January 1, 2025; and
+17 (B) That has been listed in the United States Food and
+18 Drug Administration’s Approved Drug Products with Therapeutic Equivalence
+19 Evaluations, commonly known as the "Orange Book" as therapeutically
+20 equivalent to a reference listed drug, even if the manufacturer of the drug
+21 product applies a trade name to the drug;
+22 (6)(A) "Health benefit plan" means an individual, blanket, or
+23 group plan, policy, or contract for healthcare services offered, issued,
+24 renewed, delivered, or extended in this state by a healthcare insurer.
+25 (B) “Health benefit plan” includes:
+26 (i) Indemnity and managed care plans; and
+27 (ii) Nonfederal governmental plans as defined in 29
+28 U.S.C. § 1002(32), as it existed on January 1, 2025, including plans
+29 providing health benefits to state and public school employees under § 21-5-
+30 401 et seq.
+31 (C) “Health benefit plan” does not include:
+32 (i) A plan that provides only dental benefits or eye
+33 and vision care benefits;
+34 (ii) A disability income plan;
+35 (iii) A credit insurance plan;
+36 (iv) Insurance coverage issued as a supplement to
+2 03-10-2025 10:27:34 ANS115
+
+As Engrossed: S2/5/25 S3/10/25 SB140
+1 liability insurance;
+2 (v) A medical payment under an automobile or
+3 homeowners insurance plan;
+4 (vi) A health benefit plan provided under Arkansas
+5 Constitution, Article 5, § 32, the Workers' Compensation Law, § 11-9-101 et
+6 seq., or the Public Employee Workers' Compensation Act, § 21-5-601 et seq.;
+7 (vii) A plan that provides only indemnity for
+8 hospital confinement;
+9 (viii) An accident-only plan;
+10 (ix) A specified disease plan;
+11 (x) A long-term-care-only plan; or
+12 (xi) The Arkansas Medicaid Program;
+13 (7)(A) "Healthcare insurer" means an entity subject to the
+14 insurance laws of this state or the jurisdiction of the Insurance
+15 Commissioner that contracts or offers to contract to provide health insurance
+16 coverage, including without limitation an insurance company, a hospital and
+17 medical service corporation, a health maintenance organization, or a self-
+18 insured governmental or church plan in this state.
+19 (B) "Healthcare insurer" does not include:
+20 (i) An entity that provides only dental benefits or
+21 eye and vision care benefits; or
+22 (ii) The Arkansas Medicaid Program;
+23 (8) "Healthcare provider" means a type of provider that renders
+24 healthcare services to patients for compensation including a doctor of
+25 medicine or another licensed healthcare professional acting within the
+26 provider's licensed scope of practice;
+27 (9) "Limited distribution drug" means a prescription medication
+28 that is restricted by a pharmaceutical manufacturer to a limited number of
+29 specialty pharmacies due to the prescription medication's:
+30 (A) Complex use, including special handling, monitoring,
+31 or administration;
+32 (B) High cost; or
+33 (C) Safety concerns;
+34 (10) "Reference listed drug" means the listed drug product
+35 identified by the United States Food and Drug Administration as a drug
+36 product upon which an applicant relies in seeking approval of the applicant's
+3 03-10-2025 10:27:34 ANS115
+
+As Engrossed: S2/5/25 S3/10/25 SB140
+1 application submitted under 21 U.S.C. § 355(j), as it existed on January 1,
+2 2025;
+3 (11) "Reference product" means a single biological product that
+4 is licensed by the United States Food and Drug Administration under 42 U.S.C.
+5 § 262(a), as it existed on January 1, 2025, against which a proposed
+6 biosimilar medicine or interchangeable biological product is compared and
+7 listed as a reference product in the United States Food and Drug
+8 Administration’s Database of Licensed Biological Products, commonly known as
+9 the "Purple Book"; and
+10 (12) "Wholesale acquisition cost" means the same as defined in
+11 section 1847A(c)(6)(B) of the Social Security Act, 42 U.S.C. § 1395w-3a, as
+12 it existed on January 1, 2025.
+13
+14 23-79-2902. Formulary.
+15 (a) A health benefit plan shall publish in a manner that is easily
+16 accessible to a beneficiary, a prospective beneficiary, the state, and the
+17 public an up-to-date, accurate, and complete list of all covered drug
+18 products and biological products on the health benefit plan's formulary,
+19 including without limitation:
+20 (1) A tiering structure that has been adopted for the health
+21 benefit plan; and
+22 (2) Any restrictions on the manner in which a drug product or
+23 biological product can be obtained.
+24 (b) A formulary is easily accessible under subsection (a) of this
+25 section if:
+26 (1) The formulary can be viewed on the health benefit plan’s
+27 public website through a clearly identifiable link or tab without requiring
+28 an individual to create or access an account or enter a policy number; and
+29 (2) An individual can easily discern which formulary list
+30 applies to which health benefit plan if a healthcare insurer offers more than
+31 one (1) health benefit plan.
+32 (c) If a change is made to the formulary of a health benefit plan
+33 during the plan year, the easily accessible formulary shall:
+34 (1) Be updated within thirty (30) calendar days; and
+35 (2) Contain, in bold type, the date of the update, with the
+36 updates clearly identifiable.
+4 03-10-2025 10:27:34 ANS115
+
+As Engrossed: S2/5/25 S3/10/25 SB140
+1
+2 23-79-2903. Generic drugs.
+3 (a) If a generic drug is marketed pursuant to such approval, and has a
+4 wholesale acquisition cost that is less than the wholesale acquisition cost
+5 of the reference listed drug on the generic drug’s initial date of marketing,
+6 then a health benefit plan that provides coverage for the generic drug’s
+7 reference listed drug at the time of the generic drug’s marketing date shall:
+8 (1) Within a reasonable amount of time make the generic drug
+9 available on the formulary with more favorable cost sharing, including
+10 without limitation actual out-of-pocket costs, relative to the reference
+11 listed drug; and
+12 (2) Not impose:
+13 (A) A prior authorization, a step therapy requirement, or
+14 other limitation on coverage of a generic drug for which formulary placement
+15 is required under this section with the exception of limited distribution
+16 drugs; or
+17 (B) A restriction on a pharmacy through which a
+18 beneficiary may obtain the generic drug that makes it more difficult for the
+19 beneficiary to obtain coverage of or access to the generic drug than to
+20 obtain coverage of or access to the reference listed drug.
+21 (b) This section shall remain in force as long as the wholesale
+22 acquisition cost of a generic drug is lower than the wholesale acquisition
+23 cost of the generic drug's reference listed drug.
+24
+25 23-79-2904. Biosimilar medicines.
+26 (a) If a biosimilar medicine is marketed pursuant to such licensure,
+27 and has a wholesale acquisition cost that is less than the wholesale
+28 acquisition cost of the reference product of the biosimilar medicine on the
+29 initial date of marketing, then a health benefit plan that provide coverage
+30 for the biosimilar medicine’s reference product at the time of the biosimilar
+31 medicine’s marketing date shall:
+32 (1) Within a reasonable amount of time make at least one (1)
+33 biosimilar medicine available on the formulary on a tier with more favorable
+34 cost sharing, including actual out-of-pocket costs, relative to the reference
+35 product; and
+36 (2) Not impose:
+5 03-10-2025 10:27:34 ANS115
+
+As Engrossed: S2/5/25 S3/10/25 SB140
+1 (A) A prior authorization, a step therapy requirement, or
+2 other limitation on coverage of a biosimilar medicine for which formulary
+3 placement is required under this section with the exception of limited
+4 distribution drugs; or
+5 (B) A restriction on an accredited pharmacy through which
+6 a beneficiary may obtain the biosimilar medicine that makes it more difficult
+7 for a beneficiary to obtain coverage of or access to the biosimilar medicine
+8 than to obtain coverage of or access to the reference product.
+9 (b) This section shall remain in force as long as the wholesale
+10 acquisition cost of a biosimilar medicine is lower than the wholesale
+11 acquisition cost of the biosimilar medicine's reference product.
+12
+13 23-79-2905. Purpose and construction of subchapter.
+14 (a) A health benefit plan is not required under this subchapter to:
+15 (1) Continue providing coverage for a brand drug after a generic
+16 drug or biosimilar medicine is approved or licensed, as applicable, and
+17 marketed; or
+18 (2) Provide coverage for a brand drug, generic drug, biological
+19 product, or biosimilar medicine if the pharmacy and therapeutics committee or
+20 the clinical and pharmacy experts that develop the health benefit plan’s
+21 formulary determines that the brand drug, generic drug, biological product,
+22 or biosimilar medicine is no longer medically appropriate or cost-effective.
+23 (b) The application of this subchapter shall not interfere with or
+24 prevent a pharmacy from the practice of pharmacy as defined in § 17-92-101.
+25
+26 23-79-2906. Rules.
+27 (a) The Insurance Commissioner may promulgate rules necessary to
+28 implement this subchapter.
+29 (b) The State Board of Finance may promulgate rules necessary to
+30 implement this subchapter that may apply to the State and Public School Life
+31 and Health Insurance Program.
+32
+33 SECTION 2. DO NOT CODIFY. Effective date. This act is effective on
+34 and after January 1, 2026.
+35
+36 /s/J. Boyd
+6 03-10-2025 10:27:34 ANS115
+
+[DELETED:  A   EBL1     A U P I P   T M R P I  B   S a  S   2  A   ( h   (    ( J]
+[DELETED:  S2 0    ( a k   ( h o u   (    ( p c    ( p   (    ( U    ( D E e p   ( g r    (     (     ( U p 4    (     ( a     (     (     (]
+[DELETED:  S3 0 l     ( h     ( C s     ( h     (     (     (     (   ( i C c m i    (     ( e     (   ( h m p   ( t s    ( o    (    (   ( i p]
+[DELETED:  S4 0 a 2   ( i § b l A t   ( s i   2  ( a p p i   ( b   ( b  ( s   ( p a   ( a o  ( d   (   ( u]
+[DELETED:  S5 0   2  ( w o t r   ( a w l   (    ( o i d    ( b b o  ( a c   2  ( a a i f m   ( b c p   (]
+[DELETED:  S6 0    ( o p d    ( a f t  ( a a   2  (   ( d m   ( p t f o  ( p   2  ( i  ( i a   S a  /]
